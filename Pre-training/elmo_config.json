@@ -1,51 +1,50 @@
 {
-    "dataset_reader": {
+  "dataset_reader": {
       "type": "simple_language_modeling",
-      "tokenizer": {
-        "type": "word",
-        "word_splitter": {
-          "type": "just_spaces"
-        }
-      },
       "token_indexers": {
-        "tokens": {
-          "type": "single_id",
-          "lowercase_tokens": true
-        }
+          "tokens": {
+              "type": "single_id",
+              "lowercase_tokens": true
+          }
+      },
+      "tokenizer": {
+          "type": "just_spaces"
       }
-    },
-
-    "train_data_path": "./Pre-training/trainingData_ELMO.txt",
-    "validation_data_path": "./Pre-training/testData_ELMO.txt",
-
-    "model": {
-      "type": "language_model",
-      "bidirectional": true,
-      "num_layers": 2,
-      "hidden_size": 512,
+  },
+  "model": {
+      "type": "bidirectional-language-model",
+      "contextualizer": {
+          "type": "lstm",
+          "bidirectional": true,
+          "hidden_size": 512,
+          "input_size": 128,
+          "num_layers": 2
+      },
       "dropout": 0.1,
-      "input_size": 512,
-      "tie_weights": true
-    },
-
-    "data_loader": {
+      "text_field_embedder": {
+          "token_embedders": {
+              "tokens": {
+                  "type": "embedding",
+                  "embedding_dim": 128,
+                  "trainable": true
+              }
+          }
+      }
+  },
+  "train_data_path": "trainingData_ELMO.txt",
+  "validation_data_path": "testData_ELMO.txt",
+  "trainer": {
+      "cuda_device": -1,
+      "num_epochs": 32,
+      "optimizer": {
+          "type": "adam",
+          "lr": 0.001
+      },
+      "patience": 2,
+      "validation_metric": "-perplexity"
+  },
+  "data_loader": {
       "batch_size": 32,
       "shuffle": true
-    },
-
-    "trainer": {
-      "optimizer": {
-        "type": "adam",
-        "lr": 0.001
-      },
-      "num_epochs": 32,
-      "patience": 2,
-      "cuda_device": 0,
-      "validation_metric": "-perplexity"
-    },
-
-    "checkpointer": {
-        "num_serialized_models_to_keep": 2,
-        "keep_serialized_model_every_num_seconds": 3600
-    }
   }
+}

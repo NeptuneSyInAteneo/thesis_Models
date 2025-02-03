@@ -1,0 +1,1954 @@
+2025-02-04 00:22:17,055 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:22:17,055 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:22:17,056 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:22:17,058 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:22:17,058 - INFO - allennlp.common.params - type = default
+2025-02-04 00:22:17,058 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:22:17,059 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:22:17,059 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:22:17,059 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:22:17,060 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:22:17,060 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:22:17,060 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:22:17,060 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:22:17,061 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:22:17,061 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:22:17,061 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:22:17,061 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:22:17,061 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:22:17,061 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:22:17,061 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:22:17,062 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:22:17,062 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:22:17,062 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:22:17,062 - INFO - allennlp.common.params - train_data_path = ./Pre-training/trainingData_ELMO.txt
+2025-02-04 00:22:17,063 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000002DF23546B20>
+2025-02-04 00:22:17,063 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:22:17,063 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:22:17,063 - INFO - allennlp.common.params - validation_data_path = ./Pre-training/testData_ELMO.txt
+2025-02-04 00:22:17,063 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:22:17,063 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:22:17,064 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:22:17,064 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:22:17,064 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 636, in from_params
+    kwargs = create_kwargs(constructor_to_inspect, cls, params, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 222, in create_kwargs
+    params.assert_empty(cls.__name__)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\params.py", line 394, in assert_empty
+    raise ConfigurationError(
+allennlp.common.checks.ConfigurationError: Extra parameters passed to TrainModel: {'checkpointer': {'keep_serialized_model_every_num_seconds': 3600}}
+2025-02-04 00:27:55,260 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:27:55,260 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:27:55,260 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:27:55,262 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:27:55,263 - INFO - allennlp.common.params - type = default
+2025-02-04 00:27:55,264 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:27:55,264 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:27:55,264 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:27:55,264 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:27:55,265 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:27:55,265 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:27:55,265 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:27:55,266 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:27:55,266 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:27:55,266 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:27:55,266 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:27:55,267 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:27:55,267 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:27:55,267 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:27:55,267 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:27:55,268 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:27:55,268 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:27:55,268 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:27:55,269 - INFO - allennlp.common.params - train_data_path = ./Pre-training/trainingData_ELMO.txt
+2025-02-04 00:27:55,269 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000001DA06C079D0>
+2025-02-04 00:27:55,269 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:27:55,270 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:27:55,270 - INFO - allennlp.common.params - validation_data_path = ./Pre-training/testData_ELMO.txt
+2025-02-04 00:27:55,270 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:27:55,270 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:27:55,270 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:27:55,270 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:27:55,271 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:27:55,271 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:27:55,271 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:27:55,271 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:27:55,271 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:27:55,271 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:27:55,272 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:27:55,272 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:27:55,272 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:27:55,272 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:27:55,272 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:27:55,272 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001DA04508940>
+2025-02-04 00:27:55,273 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:27:55,273 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from ./Pre-training/trainingData_ELMO.txt
+2025-02-04 00:27:55,274 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 716, in from_partial_objects
+    "train": data_loader.construct(reader=dataset_reader, data_path=train_data_path)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\data\data_loaders\multiprocess_data_loader.py", line 296, in __init__
+    deque(self.iter_instances(), maxlen=0)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\data\data_loaders\multiprocess_data_loader.py", line 360, in iter_instances
+    for instance in self._maybe_tqdm(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\tqdm\std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\data\dataset_readers\dataset_reader.py", line 192, in read
+    for instance in self._multi_worker_islice(self._read(file_path)):  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp_models\lm\dataset_readers\simple_language_modeling.py", line 81, in _read
+    with open(file_path) as file:
+FileNotFoundError: [Errno 2] No such file or directory: './Pre-training/trainingData_ELMO.txt'
+2025-02-04 00:29:32,765 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:29:32,765 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:29:32,765 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:29:32,766 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:29:32,767 - INFO - allennlp.common.params - type = default
+2025-02-04 00:29:32,767 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:29:32,768 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:29:32,768 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:29:32,768 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:29:32,768 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:29:32,769 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:29:32,769 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:29:32,769 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:29:32,769 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:29:32,769 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:29:32,769 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:29:32,770 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:29:32,770 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:29:32,770 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:29:32,770 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:29:32,770 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:29:32,771 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:29:32,771 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:29:32,771 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:29:32,772 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000001EE25677A30>
+2025-02-04 00:29:32,772 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:29:32,772 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:29:32,772 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:29:32,772 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:29:32,773 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:29:32,773 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:29:32,773 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:29:32,773 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:29:32,774 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:29:32,774 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:29:32,774 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:29:32,774 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:29:32,774 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:29:32,774 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:29:32,775 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:29:32,775 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:29:32,775 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:29:32,775 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:29:32,775 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001EE22F889A0>
+2025-02-04 00:29:32,776 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:29:32,776 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:29:33,586 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:29:33,586 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:29:33,587 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:29:33,587 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:29:33,587 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:29:33,587 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:29:33,587 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:29:33,588 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:29:33,588 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:29:33,588 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:29:33,588 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:29:33,588 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:29:33,589 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001EE22F889A0>
+2025-02-04 00:29:33,589 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:29:33,589 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:29:33,866 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:29:33,866 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:29:33,867 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:29:33,867 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:29:33,867 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:29:33,868 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:29:33,868 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:29:33,868 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:29:33,868 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:29:33,869 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:29:33,869 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:29:33,869 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:29:33,869 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:29:34,169 - INFO - allennlp.common.params - model.type = language_model
+2025-02-04 00:29:34,170 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:29:34,170 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\params.py", line 211, in pop
+    value = self.params.pop(key)
+KeyError: 'text_field_embedder'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 636, in from_params
+    kwargs = create_kwargs(constructor_to_inspect, cls, params, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 206, in create_kwargs
+    constructed_arg = pop_and_construct_arg(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 310, in pop_and_construct_arg
+    popped_params = params.pop(name, default) if default != _NO_DEFAULT else params.pop(name)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\params.py", line 216, in pop
+    raise ConfigurationError(msg)
+allennlp.common.checks.ConfigurationError: key "text_field_embedder" is required at location "model."
+2025-02-04 00:34:11,446 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:34:11,447 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:34:11,447 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:34:11,449 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:34:11,450 - INFO - allennlp.common.params - type = default
+2025-02-04 00:34:11,450 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:34:11,450 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:34:11,450 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:34:11,451 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:34:11,451 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:34:11,451 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:34:11,451 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:34:11,452 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:34:11,452 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:34:11,452 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:34:11,452 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:34:11,452 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:34:11,452 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:34:11,453 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:34:11,453 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:34:11,453 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:34:11,453 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:34:11,453 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:34:11,454 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:34:11,454 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000002A9BA715460>
+2025-02-04 00:34:11,454 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:34:11,454 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:34:11,454 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:34:11,455 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:34:11,455 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:34:11,455 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:34:11,455 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:34:11,456 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:34:11,456 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:34:11,456 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:34:11,456 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:34:11,456 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:34:11,457 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:34:11,457 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:34:11,457 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:34:11,457 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:34:11,457 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:34:11,458 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:34:11,458 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000002A9B801D3D0>
+2025-02-04 00:34:11,458 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:34:11,458 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:34:12,284 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:34:12,285 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:34:12,285 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:34:12,286 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:34:12,286 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:34:12,286 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:34:12,286 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:34:12,286 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:34:12,286 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:34:12,286 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:34:12,287 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:34:12,287 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:34:12,287 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000002A9B801D3D0>
+2025-02-04 00:34:12,287 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:34:12,287 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:34:12,571 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:34:12,571 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:34:12,572 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:34:12,572 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:34:12,572 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:34:12,572 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:34:12,573 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:34:12,573 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:34:12,573 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:34:12,573 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:34:12,573 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:34:12,574 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:34:12,574 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:34:12,866 - INFO - allennlp.common.params - model.type = lstm
+2025-02-04 00:34:12,867 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 585, in from_params
+    choice = params.pop_choice(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\params.py", line 324, in pop_choice
+    raise ConfigurationError(message)
+allennlp.common.checks.ConfigurationError: lstm not in acceptable choices for model.type: ['from_archive', 'basic_classifier', 'multitask', 'simple_tagger', 'bias_mitigator_applicator', 'adversarial_bias_mitigator', 'feedforward_regression_adversary', 'bcn', 'transformer_classification_tt', 'coref', 'language_model', 'bidirectional-language-model', 'masked_language_model', 'next_token_lm', 'composed_seq2seq', 'copynet_seq2seq', 'simple_seq2seq', 'bart', 't5', 'transformer_mc', 'transformer_mc_tt', 'bimpm', 'decomposable_attention', 'esim', 'bidaf', 'bidaf-ensemble', 'dialog_qa', 'naqanet', 'rc-qanet', 'qanet', 'transformer_qa', 'biaffine_parser', 'constituency_parser', 'sp-graph-parser', 'graph_parser', 'srl', 'srl_bert', 'crf_tagger', 'vision_model', 'nlvr2_from_huggingface', 'nlvr2', 've_vilbert_from_huggingface', 've_vilbert', 'vilbert_ir_from_huggingface', 'vilbert_ir', 'vqa_vilbert_from_huggingface', 'vqa_vilbert']. You should either use the --include-package flag to make sure the correct module is loaded, or use a fully qualified class name in your config file like {"model": "my_module.models.MyModel"} to have it imported automatically.
+2025-02-04 00:38:30,130 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:38:30,130 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:38:30,130 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:38:30,132 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:38:30,132 - INFO - allennlp.common.params - type = default
+2025-02-04 00:38:30,133 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:38:30,133 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:38:30,133 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:38:30,133 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:38:30,134 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:38:30,134 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:38:30,134 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:38:30,135 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:38:30,135 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:38:30,135 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:38:30,135 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:38:30,135 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:38:30,135 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:38:30,135 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:38:30,136 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:38:30,136 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:38:30,136 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:38:30,136 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:38:30,136 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:38:30,137 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000002919B9D5D00>
+2025-02-04 00:38:30,137 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:38:30,137 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:38:30,137 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:38:30,137 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:38:30,138 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:38:30,138 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:38:30,138 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:38:30,138 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:38:30,138 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:38:30,139 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:38:30,139 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:38:30,139 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:38:30,139 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:38:30,139 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:38:30,139 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:38:30,139 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:38:30,140 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:38:30,140 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:38:30,140 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x00000291992D5C70>
+2025-02-04 00:38:30,140 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:38:30,140 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:38:31,008 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:38:31,009 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:38:31,010 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:38:31,010 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:38:31,010 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:38:31,010 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:38:31,010 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:38:31,010 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:38:31,011 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:38:31,011 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:38:31,011 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:38:31,011 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:38:31,011 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x00000291992D5C70>
+2025-02-04 00:38:31,012 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:38:31,012 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:38:31,320 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:38:31,321 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:38:31,321 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:38:31,322 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:38:31,322 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:38:31,322 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:38:31,322 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:38:31,323 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:38:31,323 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:38:31,323 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:38:31,324 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:38:31,324 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:38:31,324 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:38:31,636 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:38:31,637 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:38:31,637 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:38:31,637 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:38:31,638 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:38:31,638 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:38:31,638 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:38:31,638 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:38:31,639 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:38:31,639 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:38:31,639 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:38:31,639 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:38:31,639 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:38:31,640 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:38:31,640 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:38:31,640 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = path/to/glove.6B.100d.txt
+2025-02-04 00:38:31,642 - INFO - allennlp.modules.token_embedders.embedding - Reading pretrained embeddings from file
+2025-02-04 00:38:31,643 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 636, in from_params
+    kwargs = create_kwargs(constructor_to_inspect, cls, params, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 206, in create_kwargs
+    constructed_arg = pop_and_construct_arg(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 314, in pop_and_construct_arg
+    return construct_arg(class_name, name, popped_params, annotation, default, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 348, in construct_arg
+    result = annotation.from_params(params=popped_params, **subextras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 636, in from_params
+    kwargs = create_kwargs(constructor_to_inspect, cls, params, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 206, in create_kwargs
+    constructed_arg = pop_and_construct_arg(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 314, in pop_and_construct_arg
+    return construct_arg(class_name, name, popped_params, annotation, default, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 394, in construct_arg
+    value_dict[key] = construct_arg(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 348, in construct_arg
+    result = annotation.from_params(params=popped_params, **subextras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\modules\token_embedders\embedding.py", line 155, in __init__
+    weight = _read_pretrained_embeddings_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\modules\token_embedders\embedding.py", line 368, in _read_pretrained_embeddings_file
+    return _read_embeddings_from_text_file(file_uri, embedding_dim, vocab, namespace)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\modules\token_embedders\embedding.py", line 390, in _read_embeddings_from_text_file
+    with EmbeddingsTextFile(file_uri) as embeddings_file:
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\modules\token_embedders\embedding.py", line 525, in __init__
+    main_file_local_path = cached_path(main_file_uri, cache_dir=cache_dir)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\file_utils.py", line 134, in cached_path
+    _cached_path.cached_path(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\cached_path\_cached_path.py", line 205, in cached_path
+    raise FileNotFoundError(f"file {url_or_filename} not found")
+FileNotFoundError: file path\to\glove.6B.100d.txt not found
+2025-02-04 00:39:01,965 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:39:01,965 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:39:01,966 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:39:01,967 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:39:01,968 - INFO - allennlp.common.params - type = default
+2025-02-04 00:39:01,968 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:39:01,968 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:39:01,969 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:39:01,969 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:39:01,969 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:39:01,969 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:39:01,970 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:39:01,970 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:39:01,970 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:39:01,970 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:39:01,970 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:39:01,970 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:39:01,971 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:39:01,971 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:39:01,971 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:39:01,971 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:39:01,971 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:39:01,972 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:39:01,972 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:39:01,972 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x00000236B8950730>
+2025-02-04 00:39:01,973 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:39:01,973 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:39:01,973 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:39:01,973 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:39:01,973 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:39:01,974 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:39:01,974 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:39:01,974 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:39:01,974 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:39:01,974 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:39:01,975 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:39:01,975 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:39:01,975 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:39:01,975 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:39:01,975 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:39:01,975 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:39:01,975 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:39:01,976 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:39:01,976 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x00000236B625B6A0>
+2025-02-04 00:39:01,976 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:39:01,976 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:39:02,786 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:39:02,787 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:39:02,787 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:39:02,787 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:39:02,787 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:39:02,788 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:39:02,788 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:39:02,788 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:39:02,788 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:39:02,788 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:39:02,788 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:39:02,789 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:39:02,789 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x00000236B625B6A0>
+2025-02-04 00:39:02,789 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:39:02,789 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:39:03,067 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:39:03,067 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:39:03,068 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:39:03,068 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:39:03,068 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:39:03,068 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:39:03,069 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:39:03,069 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:39:03,069 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:39:03,069 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:39:03,069 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:39:03,070 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:39:03,070 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:39:03,383 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:39:03,384 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:39:03,385 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:39:03,385 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:39:03,385 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:39:03,385 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:39:03,385 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:39:03,386 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:39:03,386 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:39:03,386 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:39:03,386 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:39:03,386 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:39:03,386 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:39:03,386 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:39:03,387 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:39:03,387 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:39:03,437 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\params.py", line 211, in pop
+    value = self.params.pop(key)
+KeyError: 'contextualizer'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 636, in from_params
+    kwargs = create_kwargs(constructor_to_inspect, cls, params, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 206, in create_kwargs
+    constructed_arg = pop_and_construct_arg(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 310, in pop_and_construct_arg
+    popped_params = params.pop(name, default) if default != _NO_DEFAULT else params.pop(name)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\params.py", line 216, in pop
+    raise ConfigurationError(msg)
+allennlp.common.checks.ConfigurationError: key "contextualizer" is required at location "model."
+2025-02-04 00:46:29,249 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:46:29,249 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:46:29,249 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:46:29,251 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:46:29,251 - INFO - allennlp.common.params - type = default
+2025-02-04 00:46:29,252 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:46:29,252 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:46:29,252 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:46:29,252 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:46:29,253 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:46:29,253 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:46:29,253 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:46:29,253 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:46:29,254 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:46:29,254 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:46:29,254 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:46:29,254 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:46:29,254 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:46:29,254 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:46:29,255 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:46:29,255 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:46:29,255 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:46:29,255 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:46:29,256 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:46:29,256 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000001B127097A30>
+2025-02-04 00:46:29,256 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:46:29,256 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:46:29,257 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:46:29,257 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:46:29,257 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:46:29,257 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:46:29,257 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:46:29,258 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:46:29,258 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:46:29,258 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:46:29,258 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:46:29,258 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:46:29,259 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:46:29,259 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:46:29,259 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:46:29,259 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:46:29,259 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:46:29,259 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:46:29,259 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001B1249A89A0>
+2025-02-04 00:46:29,260 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:46:29,260 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:46:30,108 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:46:30,108 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:46:30,109 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:46:30,109 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:46:30,109 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:46:30,109 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:46:30,109 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:46:30,110 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:46:30,110 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:46:30,110 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:46:30,110 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:46:30,110 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:46:30,110 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001B1249A89A0>
+2025-02-04 00:46:30,111 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:46:30,111 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:46:30,394 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:46:30,395 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:46:30,395 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:46:30,395 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:46:30,395 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:46:30,396 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:46:30,396 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:46:30,396 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:46:30,397 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:46:30,397 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:46:30,397 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:46:30,397 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:46:30,398 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:46:30,687 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:46:30,688 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:46:30,688 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:46:30,689 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:46:30,689 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:46:30,689 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:46:30,689 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:46:30,689 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:46:30,689 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:46:30,690 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:46:30,690 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:46:30,690 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:46:30,690 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:46:30,690 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:46:30,690 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:46:30,690 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:46:30,715 - INFO - allennlp.common.params - model.contextualizer.type = lstm
+2025-02-04 00:46:30,715 - INFO - allennlp.common.params - model.contextualizer.input_size = 300
+2025-02-04 00:46:30,716 - INFO - allennlp.common.params - model.contextualizer.hidden_size = 256
+2025-02-04 00:46:30,716 - INFO - allennlp.common.params - model.contextualizer.num_layers = 2
+2025-02-04 00:46:30,716 - INFO - allennlp.common.params - model.contextualizer.bias = True
+2025-02-04 00:46:30,716 - INFO - allennlp.common.params - model.contextualizer.dropout = 0.0
+2025-02-04 00:46:30,716 - INFO - allennlp.common.params - model.contextualizer.bidirectional = True
+2025-02-04 00:46:30,717 - INFO - allennlp.common.params - model.contextualizer.stateful = False
+2025-02-04 00:46:30,743 - INFO - allennlp.common.params - model.dropout = 0.1
+2025-02-04 00:46:30,743 - INFO - allennlp.common.params - model.num_samples = None
+2025-02-04 00:46:30,743 - INFO - allennlp.common.params - model.sparse_embeddings = False
+2025-02-04 00:46:30,743 - INFO - allennlp.common.params - model.bidirectional = True
+2025-02-04 00:46:30,744 - INFO - allennlp.common.params - model.initializer = None
+2025-02-04 00:46:30,744 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp_models\lm\models\bidirectional_lm.py", line 53, in __init__
+    super().__init__(
+TypeError: allennlp_models.lm.models.language_model.LanguageModel.__init__() got multiple values for keyword argument 'bidirectional'
+2025-02-04 00:46:59,244 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:46:59,244 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:46:59,244 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:46:59,246 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:46:59,247 - INFO - allennlp.common.params - type = default
+2025-02-04 00:46:59,247 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:46:59,248 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:46:59,248 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:46:59,248 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:46:59,248 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:46:59,249 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:46:59,249 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:46:59,249 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:46:59,250 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:46:59,250 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:46:59,250 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:46:59,251 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:46:59,251 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:46:59,251 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:46:59,251 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:46:59,252 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:46:59,252 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:46:59,252 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:46:59,253 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:46:59,253 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000001D879596850>
+2025-02-04 00:46:59,254 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:46:59,254 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:46:59,254 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:46:59,254 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:46:59,254 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:46:59,255 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:46:59,255 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:46:59,255 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:46:59,256 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:46:59,256 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:46:59,256 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:46:59,256 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:46:59,257 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:46:59,257 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:46:59,257 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:46:59,257 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:46:59,258 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:46:59,258 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:46:59,258 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001D876EAA7C0>
+2025-02-04 00:46:59,258 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:46:59,259 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:47:00,178 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:47:00,178 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:47:00,179 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:47:00,179 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:47:00,179 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:47:00,179 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:47:00,179 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:47:00,180 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:47:00,180 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:47:00,180 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:47:00,180 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:47:00,180 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:47:00,181 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001D876EAA7C0>
+2025-02-04 00:47:00,181 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:47:00,181 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:47:00,493 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:47:00,495 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:47:00,495 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:47:00,495 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:47:00,495 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:47:00,496 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:47:00,496 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:47:00,496 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:47:00,496 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:47:00,496 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:47:00,496 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:47:00,496 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:47:00,497 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:47:00,797 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:47:00,798 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:47:00,798 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:47:00,799 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:47:00,799 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:47:00,799 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:47:00,799 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:47:00,799 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:47:00,800 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:47:00,800 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:47:00,800 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:47:00,800 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:47:00,800 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:47:00,800 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:47:00,801 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:47:00,801 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:47:00,825 - INFO - allennlp.common.params - model.contextualizer.type = lstm
+2025-02-04 00:47:00,826 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\params.py", line 211, in pop
+    value = self.params.pop(key)
+KeyError: 'input_size'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 636, in from_params
+    kwargs = create_kwargs(constructor_to_inspect, cls, params, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 206, in create_kwargs
+    constructed_arg = pop_and_construct_arg(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 314, in pop_and_construct_arg
+    return construct_arg(class_name, name, popped_params, annotation, default, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 348, in construct_arg
+    result = annotation.from_params(params=popped_params, **subextras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 636, in from_params
+    kwargs = create_kwargs(constructor_to_inspect, cls, params, **extras)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 206, in create_kwargs
+    constructed_arg = pop_and_construct_arg(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 310, in pop_and_construct_arg
+    popped_params = params.pop(name, default) if default != _NO_DEFAULT else params.pop(name)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\params.py", line 216, in pop
+    raise ConfigurationError(msg)
+allennlp.common.checks.ConfigurationError: key "input_size" is required at location "model.contextualizer."
+2025-02-04 00:48:02,785 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:48:02,786 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:48:02,786 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:48:02,788 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:48:02,788 - INFO - allennlp.common.params - type = default
+2025-02-04 00:48:02,789 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:48:02,789 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:48:02,789 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:48:02,789 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:48:02,790 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:48:02,790 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:48:02,790 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:48:02,791 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:48:02,791 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:48:02,791 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:48:02,791 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:48:02,791 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:48:02,792 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:48:02,792 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:48:02,792 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:48:02,792 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:48:02,792 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:48:02,792 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:48:02,793 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:48:02,793 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x00000261F9217340>
+2025-02-04 00:48:02,793 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:48:02,793 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:48:02,794 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:48:02,794 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:48:02,794 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:48:02,794 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:48:02,794 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:48:02,795 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:48:02,795 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:48:02,795 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:48:02,795 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:48:02,795 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:48:02,795 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:48:02,796 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:48:02,796 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:48:02,796 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:48:02,796 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:48:02,796 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:48:02,796 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x00000261F6B1E2B0>
+2025-02-04 00:48:02,797 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:48:02,797 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:48:03,624 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:48:03,624 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:48:03,625 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:48:03,625 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:48:03,625 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:48:03,625 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:48:03,625 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:48:03,626 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:48:03,626 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:48:03,627 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:48:03,627 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:48:03,627 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:48:03,627 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x00000261F6B1E2B0>
+2025-02-04 00:48:03,627 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:48:03,627 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:48:03,906 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:48:03,907 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:48:03,907 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:48:03,908 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:48:03,908 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:48:03,908 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:48:03,908 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:48:03,908 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:48:03,909 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:48:03,909 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:48:03,909 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:48:03,909 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:48:03,909 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:48:04,200 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:48:04,201 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:48:04,201 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:48:04,201 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:48:04,202 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:48:04,202 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:48:04,202 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:48:04,202 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:48:04,202 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:48:04,203 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:48:04,203 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:48:04,203 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:48:04,203 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:48:04,203 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:48:04,204 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:48:04,204 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:48:04,228 - INFO - allennlp.common.params - model.contextualizer.type = lstm
+2025-02-04 00:48:04,228 - INFO - allennlp.common.params - model.contextualizer.input_size = 512
+2025-02-04 00:48:04,229 - INFO - allennlp.common.params - model.contextualizer.hidden_size = 512
+2025-02-04 00:48:04,229 - INFO - allennlp.common.params - model.contextualizer.num_layers = 2
+2025-02-04 00:48:04,229 - INFO - allennlp.common.params - model.contextualizer.bias = True
+2025-02-04 00:48:04,229 - INFO - allennlp.common.params - model.contextualizer.dropout = 0.0
+2025-02-04 00:48:04,229 - INFO - allennlp.common.params - model.contextualizer.bidirectional = False
+2025-02-04 00:48:04,230 - INFO - allennlp.common.params - model.contextualizer.stateful = False
+2025-02-04 00:48:04,246 - INFO - allennlp.common.params - model.dropout = 0.1
+2025-02-04 00:48:04,246 - INFO - allennlp.common.params - model.num_samples = None
+2025-02-04 00:48:04,246 - INFO - allennlp.common.params - model.sparse_embeddings = False
+2025-02-04 00:48:04,247 - INFO - allennlp.common.params - model.bidirectional = True
+2025-02-04 00:48:04,247 - INFO - allennlp.common.params - model.initializer = None
+2025-02-04 00:48:04,247 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp_models\lm\models\bidirectional_lm.py", line 53, in __init__
+    super().__init__(
+TypeError: allennlp_models.lm.models.language_model.LanguageModel.__init__() got multiple values for keyword argument 'bidirectional'
+2025-02-04 00:48:34,496 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:48:34,496 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:48:34,496 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:48:34,497 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:48:34,498 - INFO - allennlp.common.params - type = default
+2025-02-04 00:48:34,498 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:48:34,500 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:48:34,502 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:48:34,502 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:48:34,502 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:48:34,502 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:48:34,502 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:48:34,503 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:48:34,503 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x0000019A2D6B8940>
+2025-02-04 00:48:34,503 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:48:34,504 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:48:34,506 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:48:34,506 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:48:34,506 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:48:34,506 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:48:34,506 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:48:34,507 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:48:34,507 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:48:34,507 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x0000019A2AFC88B0>
+2025-02-04 00:48:34,508 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:48:34,508 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:48:35,398 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:48:35,398 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:48:35,400 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:48:35,400 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:48:35,400 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:48:35,400 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:48:35,401 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:48:35,401 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:48:35,401 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:48:35,401 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:48:35,401 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:48:35,401 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:48:35,402 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x0000019A2AFC88B0>
+2025-02-04 00:48:35,402 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:48:35,402 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:48:35,712 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:48:35,713 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:48:35,713 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:48:35,714 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:48:35,715 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:48:35,716 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:48:35,716 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:48:35,716 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:48:35,716 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:48:35,717 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:48:35,717 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:48:35,718 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:48:35,719 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:48:36,049 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:48:36,050 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:48:36,050 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:48:36,050 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:48:36,050 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:48:36,051 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:48:36,051 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:48:36,051 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:48:36,051 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:48:36,051 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:48:36,052 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:48:36,052 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:48:36,052 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:48:36,052 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:48:36,052 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:48:36,053 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:48:36,082 - INFO - allennlp.common.params - model.contextualizer.type = lstm
+2025-02-04 00:48:36,083 - INFO - allennlp.common.params - model.contextualizer.input_size = 512
+2025-02-04 00:48:36,083 - INFO - allennlp.common.params - model.contextualizer.hidden_size = 512
+2025-02-04 00:48:36,083 - INFO - allennlp.common.params - model.contextualizer.num_layers = 2
+2025-02-04 00:48:36,084 - INFO - allennlp.common.params - model.contextualizer.bias = True
+2025-02-04 00:48:36,084 - INFO - allennlp.common.params - model.contextualizer.dropout = 0.0
+2025-02-04 00:48:36,084 - INFO - allennlp.common.params - model.contextualizer.bidirectional = False
+2025-02-04 00:48:36,084 - INFO - allennlp.common.params - model.contextualizer.stateful = False
+2025-02-04 00:48:36,107 - INFO - allennlp.common.params - model.dropout = 0.1
+2025-02-04 00:48:36,108 - INFO - allennlp.common.params - model.num_samples = None
+2025-02-04 00:48:36,108 - INFO - allennlp.common.params - model.sparse_embeddings = False
+2025-02-04 00:48:36,108 - INFO - allennlp.common.params - model.bidirectional = False
+2025-02-04 00:48:36,108 - INFO - allennlp.common.params - model.initializer = None
+2025-02-04 00:48:36,109 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp_models\lm\models\bidirectional_lm.py", line 53, in __init__
+    super().__init__(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp_models\lm\models\language_model.py", line 73, in __init__
+    super().__init__(vocab, **kwargs)
+TypeError: __init__() got an unexpected keyword argument 'tie_weights'
+2025-02-04 00:49:05,020 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:49:05,020 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:49:05,020 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:49:05,022 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:49:05,022 - INFO - allennlp.common.params - type = default
+2025-02-04 00:49:05,023 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:49:05,023 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:49:05,023 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:49:05,023 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:49:05,024 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:49:05,024 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:49:05,024 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:49:05,024 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:49:05,025 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:49:05,025 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:49:05,025 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:49:05,025 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:49:05,026 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:49:05,026 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:49:05,026 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:49:05,026 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:49:05,026 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:49:05,027 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:49:05,027 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:49:05,027 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x0000018149DB0730>
+2025-02-04 00:49:05,028 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:49:05,028 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:49:05,028 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:49:05,028 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:49:05,028 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:49:05,028 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:49:05,029 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:49:05,029 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:49:05,029 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:49:05,029 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:49:05,030 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:49:05,030 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:49:05,030 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:49:05,030 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:49:05,030 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:49:05,030 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:49:05,030 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:49:05,031 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:49:05,031 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x00000181476BB6A0>
+2025-02-04 00:49:05,031 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:49:05,031 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:49:05,835 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:49:05,836 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:49:05,836 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:49:05,836 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:49:05,836 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:49:05,836 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:49:05,837 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:49:05,837 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:49:05,837 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:49:05,837 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:49:05,837 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:49:05,837 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:49:05,838 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x00000181476BB6A0>
+2025-02-04 00:49:05,838 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:49:05,838 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:49:06,112 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:49:06,113 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:49:06,113 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:49:06,113 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:49:06,114 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:49:06,114 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:49:06,114 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:49:06,114 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:49:06,114 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:49:06,115 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:49:06,115 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:49:06,115 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:49:06,115 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:49:06,415 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:49:06,416 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:49:06,416 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:49:06,417 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:49:06,417 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:49:06,417 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:49:06,417 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:49:06,417 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:49:06,417 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:49:06,418 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:49:06,418 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:49:06,418 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:49:06,418 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:49:06,418 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:49:06,418 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:49:06,418 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:49:06,443 - INFO - allennlp.common.params - model.contextualizer.type = lstm
+2025-02-04 00:49:06,443 - INFO - allennlp.common.params - model.contextualizer.input_size = 512
+2025-02-04 00:49:06,444 - INFO - allennlp.common.params - model.contextualizer.hidden_size = 512
+2025-02-04 00:49:06,444 - INFO - allennlp.common.params - model.contextualizer.num_layers = 2
+2025-02-04 00:49:06,444 - INFO - allennlp.common.params - model.contextualizer.bias = True
+2025-02-04 00:49:06,444 - INFO - allennlp.common.params - model.contextualizer.dropout = 0.0
+2025-02-04 00:49:06,444 - INFO - allennlp.common.params - model.contextualizer.bidirectional = False
+2025-02-04 00:49:06,444 - INFO - allennlp.common.params - model.contextualizer.stateful = False
+2025-02-04 00:49:06,461 - INFO - allennlp.common.params - model.dropout = 0.1
+2025-02-04 00:49:06,461 - INFO - allennlp.common.params - model.num_samples = None
+2025-02-04 00:49:06,462 - INFO - allennlp.common.params - model.sparse_embeddings = False
+2025-02-04 00:49:06,462 - INFO - allennlp.common.params - model.bidirectional = False
+2025-02-04 00:49:06,462 - INFO - allennlp.common.params - model.initializer = None
+2025-02-04 00:49:06,462 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 770, in from_partial_objects
+    model_ = model.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp_models\lm\models\bidirectional_lm.py", line 53, in __init__
+    super().__init__(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp_models\lm\models\language_model.py", line 77, in __init__
+    raise ConfigurationError(
+allennlp.common.checks.ConfigurationError: Bidirectionality of contextualizer must match bidirectionality of language model. Contextualizer bidirectional: False, language model bidirectional: True
+2025-02-04 00:49:39,543 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:49:39,544 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:49:39,544 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:49:39,546 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:49:39,546 - INFO - allennlp.common.params - type = default
+2025-02-04 00:49:39,547 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:49:39,547 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:49:39,547 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:49:39,548 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:49:39,548 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:49:39,548 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:49:39,548 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:49:39,548 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:49:39,549 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:49:39,549 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:49:39,549 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:49:39,549 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:49:39,549 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:49:39,549 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:49:39,549 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:49:39,550 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:49:39,550 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:49:39,550 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:49:39,550 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:49:39,551 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000002B678132580>
+2025-02-04 00:49:39,551 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:49:39,551 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:49:39,551 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:49:39,551 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:49:39,551 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:49:39,552 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:49:39,552 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:49:39,552 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:49:39,552 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:49:39,552 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:49:39,553 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:49:39,553 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:49:39,553 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:49:39,553 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:49:39,553 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:49:39,553 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:49:39,553 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:49:39,554 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:49:39,554 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000002B675A3C4F0>
+2025-02-04 00:49:39,554 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:49:39,554 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:49:40,407 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:49:40,407 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:49:40,408 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:49:40,408 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:49:40,408 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:49:40,409 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:49:40,409 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:49:40,409 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:49:40,409 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:49:40,409 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:49:40,409 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:49:40,410 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:49:40,410 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000002B675A3C4F0>
+2025-02-04 00:49:40,410 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:49:40,410 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:49:40,683 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:49:40,684 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:49:40,684 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:49:40,685 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:49:40,685 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:49:40,685 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:49:40,685 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:49:40,685 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:49:40,686 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:49:40,686 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:49:40,686 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:49:40,686 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:49:40,686 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:49:40,989 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:49:40,989 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:49:40,990 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:49:40,990 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:49:40,990 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:49:40,991 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:49:40,991 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:49:40,991 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:49:40,991 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:49:40,991 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:49:40,991 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:49:40,992 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:49:40,992 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:49:40,992 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:49:40,992 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:49:40,992 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:49:41,018 - INFO - allennlp.common.params - model.contextualizer.type = lstm
+2025-02-04 00:49:41,018 - INFO - allennlp.common.params - model.contextualizer.input_size = 512
+2025-02-04 00:49:41,018 - INFO - allennlp.common.params - model.contextualizer.hidden_size = 512
+2025-02-04 00:49:41,019 - INFO - allennlp.common.params - model.contextualizer.num_layers = 2
+2025-02-04 00:49:41,019 - INFO - allennlp.common.params - model.contextualizer.bias = True
+2025-02-04 00:49:41,019 - INFO - allennlp.common.params - model.contextualizer.dropout = 0.0
+2025-02-04 00:49:41,019 - INFO - allennlp.common.params - model.contextualizer.bidirectional = True
+2025-02-04 00:49:41,019 - INFO - allennlp.common.params - model.contextualizer.stateful = False
+2025-02-04 00:49:41,062 - INFO - allennlp.common.params - model.dropout = 0.1
+2025-02-04 00:49:41,062 - INFO - allennlp.common.params - model.num_samples = None
+2025-02-04 00:49:41,062 - INFO - allennlp.common.params - model.sparse_embeddings = False
+2025-02-04 00:49:41,062 - INFO - allennlp.common.params - model.bidirectional = False
+2025-02-04 00:49:41,063 - INFO - allennlp.common.params - model.initializer = None
+2025-02-04 00:49:41,621 - INFO - allennlp.common.params - trainer.type = gradient_descent
+2025-02-04 00:49:41,622 - INFO - allennlp.common.params - trainer.cuda_device = 0
+2025-02-04 00:49:41,622 - INFO - allennlp.common.params - trainer.distributed = False
+2025-02-04 00:49:41,623 - INFO - allennlp.common.params - trainer.world_size = 1
+2025-02-04 00:49:41,623 - INFO - allennlp.common.params - trainer.patience = 2
+2025-02-04 00:49:41,623 - INFO - allennlp.common.params - trainer.validation_metric = -perplexity
+2025-02-04 00:49:41,623 - INFO - allennlp.common.params - trainer.num_epochs = 32
+2025-02-04 00:49:41,624 - INFO - allennlp.common.params - trainer.grad_norm = False
+2025-02-04 00:49:41,624 - INFO - allennlp.common.params - trainer.grad_clipping = None
+2025-02-04 00:49:41,624 - INFO - allennlp.common.params - trainer.num_gradient_accumulation_steps = 1
+2025-02-04 00:49:41,624 - INFO - allennlp.common.params - trainer.use_amp = False
+2025-02-04 00:49:41,624 - INFO - allennlp.common.params - trainer.no_grad = None
+2025-02-04 00:49:41,625 - INFO - allennlp.common.params - trainer.learning_rate_scheduler = None
+2025-02-04 00:49:41,625 - INFO - allennlp.common.params - trainer.momentum_scheduler = None
+2025-02-04 00:49:41,625 - INFO - allennlp.common.params - trainer.moving_average = None
+2025-02-04 00:49:41,625 - INFO - allennlp.common.params - trainer.checkpointer = <allennlp.common.lazy.Lazy object at 0x000002B6780F0D00>
+2025-02-04 00:49:41,625 - INFO - allennlp.common.params - trainer.callbacks = None
+2025-02-04 00:49:41,625 - INFO - allennlp.common.params - trainer.enable_default_callbacks = True
+2025-02-04 00:49:41,625 - INFO - allennlp.common.params - trainer.run_confidence_checks = True
+2025-02-04 00:49:41,626 - INFO - allennlp.common.params - trainer.grad_scaling = True
+2025-02-04 00:49:41,626 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 494, in _train_worker
+    train_loop = TrainModel.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 786, in from_partial_objects
+    trainer_ = trainer.construct(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 82, in construct
+    return self.constructor(**contructor_kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\lazy.py", line 66, in constructor_to_use
+    return self._constructor.from_params(  # type: ignore[union-attr]
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 604, in from_params
+    return retyped_subclass.from_params(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\from_params.py", line 638, in from_params
+    return constructor_to_call(**kwargs)  # type: ignore
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\training\gradient_descent_trainer.py", line 1142, in from_partial_objects
+    check_for_gpu(cuda_device)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\common\checks.py", line 117, in check_for_gpu
+    raise ConfigurationError(
+allennlp.common.checks.ConfigurationError: Experiment specified a GPU but none is available; if you want to run on CPU use the override 'trainer.cuda_device=-1' in the json config file.
+2025-02-04 00:50:03,234 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:50:03,234 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:50:03,235 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:50:03,237 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:50:03,237 - INFO - allennlp.common.params - type = default
+2025-02-04 00:50:03,237 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:50:03,238 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:50:03,238 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:50:03,238 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:50:03,238 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:50:03,239 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:50:03,239 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:50:03,239 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:50:03,239 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:50:03,240 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:50:03,240 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:50:03,240 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:50:03,240 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:50:03,240 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:50:03,240 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:50:03,240 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:50:03,241 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:50:03,241 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:50:03,241 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:50:03,241 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x000001CC39EC16D0>
+2025-02-04 00:50:03,242 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:50:03,242 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:50:03,242 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:50:03,242 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:50:03,242 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:50:03,242 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:50:03,242 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:50:03,243 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:50:03,243 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:50:03,243 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:50:03,243 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:50:03,244 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:50:03,244 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:50:03,244 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:50:03,244 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:50:03,244 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:50:03,244 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:50:03,244 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:50:03,245 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001CC377CB640>
+2025-02-04 00:50:03,245 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:50:03,245 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:50:04,055 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:50:04,055 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:50:04,056 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:50:04,056 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:50:04,056 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:50:04,056 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:50:04,056 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:50:04,056 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:50:04,057 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:50:04,057 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:50:04,057 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:50:04,057 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:50:04,057 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x000001CC377CB640>
+2025-02-04 00:50:04,057 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:50:04,057 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:50:04,340 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:50:04,341 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:50:04,341 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:50:04,341 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:50:04,341 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:50:04,342 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:50:04,342 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:50:04,342 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:50:04,342 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:50:04,342 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:50:04,343 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:50:04,343 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:50:04,343 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:50:04,638 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:50:04,639 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:50:04,639 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:50:04,640 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:50:04,640 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:50:04,640 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:50:04,640 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:50:04,640 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:50:04,641 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:50:04,641 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:50:04,641 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:50:04,641 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:50:04,641 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:50:04,641 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:50:04,641 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:50:04,642 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:50:04,667 - INFO - allennlp.common.params - model.contextualizer.type = lstm
+2025-02-04 00:50:04,667 - INFO - allennlp.common.params - model.contextualizer.input_size = 512
+2025-02-04 00:50:04,668 - INFO - allennlp.common.params - model.contextualizer.hidden_size = 512
+2025-02-04 00:50:04,668 - INFO - allennlp.common.params - model.contextualizer.num_layers = 2
+2025-02-04 00:50:04,668 - INFO - allennlp.common.params - model.contextualizer.bias = True
+2025-02-04 00:50:04,668 - INFO - allennlp.common.params - model.contextualizer.dropout = 0.0
+2025-02-04 00:50:04,668 - INFO - allennlp.common.params - model.contextualizer.bidirectional = True
+2025-02-04 00:50:04,668 - INFO - allennlp.common.params - model.contextualizer.stateful = False
+2025-02-04 00:50:04,714 - INFO - allennlp.common.params - model.dropout = 0.1
+2025-02-04 00:50:04,715 - INFO - allennlp.common.params - model.num_samples = None
+2025-02-04 00:50:04,715 - INFO - allennlp.common.params - model.sparse_embeddings = False
+2025-02-04 00:50:04,715 - INFO - allennlp.common.params - model.bidirectional = False
+2025-02-04 00:50:04,715 - INFO - allennlp.common.params - model.initializer = None
+2025-02-04 00:50:04,854 - WARNING - allennlp.data.vocabulary - vocabulary serialization directory ./elmo\vocabulary is not empty
+2025-02-04 00:50:05,211 - INFO - allennlp.common.params - trainer.type = gradient_descent
+2025-02-04 00:50:05,212 - INFO - allennlp.common.params - trainer.cuda_device = -1
+2025-02-04 00:50:05,212 - INFO - allennlp.common.params - trainer.distributed = False
+2025-02-04 00:50:05,212 - INFO - allennlp.common.params - trainer.world_size = 1
+2025-02-04 00:50:05,213 - INFO - allennlp.common.params - trainer.patience = 2
+2025-02-04 00:50:05,213 - INFO - allennlp.common.params - trainer.validation_metric = -perplexity
+2025-02-04 00:50:05,213 - INFO - allennlp.common.params - trainer.num_epochs = 32
+2025-02-04 00:50:05,213 - INFO - allennlp.common.params - trainer.grad_norm = False
+2025-02-04 00:50:05,214 - INFO - allennlp.common.params - trainer.grad_clipping = None
+2025-02-04 00:50:05,214 - INFO - allennlp.common.params - trainer.num_gradient_accumulation_steps = 1
+2025-02-04 00:50:05,214 - INFO - allennlp.common.params - trainer.use_amp = False
+2025-02-04 00:50:05,214 - INFO - allennlp.common.params - trainer.no_grad = None
+2025-02-04 00:50:05,215 - INFO - allennlp.common.params - trainer.learning_rate_scheduler = None
+2025-02-04 00:50:05,215 - INFO - allennlp.common.params - trainer.momentum_scheduler = None
+2025-02-04 00:50:05,215 - INFO - allennlp.common.params - trainer.moving_average = None
+2025-02-04 00:50:05,215 - INFO - allennlp.common.params - trainer.checkpointer = <allennlp.common.lazy.Lazy object at 0x000001CC39E80E50>
+2025-02-04 00:50:05,215 - INFO - allennlp.common.params - trainer.callbacks = None
+2025-02-04 00:50:05,215 - INFO - allennlp.common.params - trainer.enable_default_callbacks = True
+2025-02-04 00:50:05,215 - INFO - allennlp.common.params - trainer.run_confidence_checks = True
+2025-02-04 00:50:05,216 - INFO - allennlp.common.params - trainer.grad_scaling = True
+2025-02-04 00:50:05,216 - INFO - allennlp.common.params - trainer.optimizer.type = adam
+2025-02-04 00:50:05,217 - INFO - allennlp.common.params - trainer.optimizer.parameter_groups = None
+2025-02-04 00:50:05,217 - INFO - allennlp.common.params - trainer.optimizer.lr = 0.001
+2025-02-04 00:50:05,217 - INFO - allennlp.common.params - trainer.optimizer.betas = (0.9, 0.999)
+2025-02-04 00:50:05,217 - INFO - allennlp.common.params - trainer.optimizer.eps = 1e-08
+2025-02-04 00:50:05,217 - INFO - allennlp.common.params - trainer.optimizer.weight_decay = 0.0
+2025-02-04 00:50:05,218 - INFO - allennlp.common.params - trainer.optimizer.amsgrad = False
+2025-02-04 00:50:05,232 - INFO - allennlp.training.optimizers - Number of trainable parameters: 41977167
+2025-02-04 00:50:05,232 - INFO - allennlp.common.util - The following parameters are Frozen (without gradient):
+2025-02-04 00:50:05,232 - INFO - allennlp.common.util - The following parameters are Tunable (with gradient):
+2025-02-04 00:50:05,233 - INFO - allennlp.common.util - _text_field_embedder.token_embedder_tokens.weight
+2025-02-04 00:50:05,233 - INFO - allennlp.common.util - _contextualizer._module.weight_ih_l0
+2025-02-04 00:50:05,233 - INFO - allennlp.common.util - _contextualizer._module.weight_hh_l0
+2025-02-04 00:50:05,233 - INFO - allennlp.common.util - _contextualizer._module.bias_ih_l0
+2025-02-04 00:50:05,233 - INFO - allennlp.common.util - _contextualizer._module.bias_hh_l0
+2025-02-04 00:50:05,233 - INFO - allennlp.common.util - _contextualizer._module.weight_ih_l0_reverse
+2025-02-04 00:50:05,233 - INFO - allennlp.common.util - _contextualizer._module.weight_hh_l0_reverse
+2025-02-04 00:50:05,234 - INFO - allennlp.common.util - _contextualizer._module.bias_ih_l0_reverse
+2025-02-04 00:50:05,234 - INFO - allennlp.common.util - _contextualizer._module.bias_hh_l0_reverse
+2025-02-04 00:50:05,234 - INFO - allennlp.common.util - _contextualizer._module.weight_ih_l1
+2025-02-04 00:50:05,234 - INFO - allennlp.common.util - _contextualizer._module.weight_hh_l1
+2025-02-04 00:50:05,234 - INFO - allennlp.common.util - _contextualizer._module.bias_ih_l1
+2025-02-04 00:50:05,234 - INFO - allennlp.common.util - _contextualizer._module.bias_hh_l1
+2025-02-04 00:50:05,235 - INFO - allennlp.common.util - _contextualizer._module.weight_ih_l1_reverse
+2025-02-04 00:50:05,235 - INFO - allennlp.common.util - _contextualizer._module.weight_hh_l1_reverse
+2025-02-04 00:50:05,235 - INFO - allennlp.common.util - _contextualizer._module.bias_ih_l1_reverse
+2025-02-04 00:50:05,235 - INFO - allennlp.common.util - _contextualizer._module.bias_hh_l1_reverse
+2025-02-04 00:50:05,235 - INFO - allennlp.common.util - _softmax_loss.softmax_w
+2025-02-04 00:50:05,236 - INFO - allennlp.common.util - _softmax_loss.softmax_b
+2025-02-04 00:50:05,236 - INFO - allennlp.common.params - type = default
+2025-02-04 00:50:05,236 - INFO - allennlp.common.params - save_completed_epochs = True
+2025-02-04 00:50:05,236 - INFO - allennlp.common.params - save_every_num_seconds = None
+2025-02-04 00:50:05,236 - INFO - allennlp.common.params - save_every_num_batches = None
+2025-02-04 00:50:05,237 - INFO - allennlp.common.params - keep_most_recent_by_count = 2
+2025-02-04 00:50:05,237 - INFO - allennlp.common.params - keep_most_recent_by_age = None
+2025-02-04 00:50:05,238 - INFO - allennlp.training.gradient_descent_trainer - Beginning training.
+2025-02-04 00:50:05,238 - INFO - allennlp.training.gradient_descent_trainer - Epoch 0/31
+2025-02-04 00:50:05,238 - INFO - allennlp.training.gradient_descent_trainer - Worker 0 memory usage: 0B
+2025-02-04 00:50:05,238 - INFO - allennlp.training.gradient_descent_trainer - Training
+2025-02-04 00:50:05,239 - INFO - tqdm - 0%|          | 0/516 [00:00<?, ?it/s]
+2025-02-04 00:50:05,289 - CRITICAL - root - Uncaught exception
+Traceback (most recent call last):
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\Scripts\allennlp.exe\__main__.py", line 7, in <module>
+    sys.exit(run())
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\__main__.py", line 39, in run
+    main(prog="allennlp")
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\__init__.py", line 120, in main
+    args.func(args)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 111, in train_model_from_args
+    train_model_from_file(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 177, in train_model_from_file
+    return train_model(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 258, in train_model
+    model = _train_worker(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 508, in _train_worker
+    metrics = train_loop.run()
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\commands\train.py", line 581, in run
+    return self.trainer.train()
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\training\gradient_descent_trainer.py", line 771, in train
+    metrics, epoch = self._try_train()
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\training\gradient_descent_trainer.py", line 793, in _try_train
+    train_metrics = self._train_epoch(epoch)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\training\gradient_descent_trainer.py", line 510, in _train_epoch
+    batch_outputs = self.batch_outputs(batch, for_training=True)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\training\gradient_descent_trainer.py", line 403, in batch_outputs
+    output_dict = self._pytorch_model(**batch)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\torch\nn\modules\module.py", line 1148, in _call_impl
+    result = forward_call(*input, **kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp_models\lm\models\language_model.py", line 256, in forward
+    contextual_embeddings: Union[torch.Tensor, List[torch.Tensor]] = self._contextualizer(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\torch\nn\modules\module.py", line 1148, in _call_impl
+    result = forward_call(*input, **kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\modules\seq2seq_encoders\pytorch_seq2seq_wrapper.py", line 80, in forward
+    packed_sequence_output, final_states, restoration_indices = self.sort_and_run_forward(
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\allennlp\modules\encoder_base.py", line 133, in sort_and_run_forward
+    module_output, final_states = module(packed_sequence_input, initial_states)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\torch\nn\modules\module.py", line 1148, in _call_impl
+    result = forward_call(*input, **kwargs)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\torch\nn\modules\rnn.py", line 767, in forward
+    self.check_forward_args(input, hx, batch_sizes)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\torch\nn\modules\rnn.py", line 692, in check_forward_args
+    self.check_input(input, batch_sizes)
+  File "c:\Users\Neptune\Documents\GitHub\Thesis Heavy Duty\lib\site-packages\torch\nn\modules\rnn.py", line 205, in check_input
+    raise RuntimeError(
+RuntimeError: input.size(-1) must be equal to input_size. Expected 512, got 128
+2025-02-04 00:51:12,193 - INFO - allennlp.common.params - random_seed = 13370
+2025-02-04 00:51:12,193 - INFO - allennlp.common.params - numpy_seed = 1337
+2025-02-04 00:51:12,193 - INFO - allennlp.common.params - pytorch_seed = 133
+2025-02-04 00:51:12,196 - INFO - allennlp.common.checks - Pytorch version: 1.12.1+cpu
+2025-02-04 00:51:12,197 - INFO - allennlp.common.params - type = default
+2025-02-04 00:51:12,197 - INFO - allennlp.common.params - dataset_reader.type = simple_language_modeling
+2025-02-04 00:51:12,198 - INFO - allennlp.common.params - dataset_reader.max_instances = None
+2025-02-04 00:51:12,198 - INFO - allennlp.common.params - dataset_reader.manual_distributed_sharding = False
+2025-02-04 00:51:12,198 - INFO - allennlp.common.params - dataset_reader.manual_multiprocess_sharding = False
+2025-02-04 00:51:12,199 - INFO - allennlp.common.params - dataset_reader.tokenizer.type = just_spaces
+2025-02-04 00:51:12,199 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.type = single_id
+2025-02-04 00:51:12,199 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.namespace = tokens
+2025-02-04 00:51:12,199 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.lowercase_tokens = True
+2025-02-04 00:51:12,200 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.start_tokens = None
+2025-02-04 00:51:12,200 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.end_tokens = None
+2025-02-04 00:51:12,200 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.feature_name = text
+2025-02-04 00:51:12,200 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.default_value = THIS IS A REALLY UNLIKELY VALUE THAT HAS TO BE A STRING
+2025-02-04 00:51:12,200 - INFO - allennlp.common.params - dataset_reader.token_indexers.tokens.token_min_padding_length = 0
+2025-02-04 00:51:12,200 - INFO - allennlp.common.params - dataset_reader.max_sequence_length = None
+2025-02-04 00:51:12,201 - INFO - allennlp.common.params - dataset_reader.start_tokens = None
+2025-02-04 00:51:12,201 - INFO - allennlp.common.params - dataset_reader.end_tokens = None
+2025-02-04 00:51:12,201 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Creating SimpleLanguageModelingDatasetReader
+2025-02-04 00:51:12,201 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - max_sequence_length=None
+2025-02-04 00:51:12,202 - INFO - allennlp.common.params - train_data_path = trainingData_ELMO.txt
+2025-02-04 00:51:12,202 - INFO - allennlp.common.params - vocabulary = <allennlp.common.lazy.Lazy object at 0x0000015CBD258A60>
+2025-02-04 00:51:12,202 - INFO - allennlp.common.params - datasets_for_vocab_creation = None
+2025-02-04 00:51:12,203 - INFO - allennlp.common.params - validation_dataset_reader = None
+2025-02-04 00:51:12,203 - INFO - allennlp.common.params - validation_data_path = testData_ELMO.txt
+2025-02-04 00:51:12,203 - INFO - allennlp.common.params - validation_data_loader = None
+2025-02-04 00:51:12,203 - INFO - allennlp.common.params - test_data_path = None
+2025-02-04 00:51:12,203 - INFO - allennlp.common.params - evaluate_on_test = False
+2025-02-04 00:51:12,204 - INFO - allennlp.common.params - batch_weight_key = 
+2025-02-04 00:51:12,204 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:51:12,204 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:51:12,204 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:51:12,204 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:51:12,205 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:51:12,205 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:51:12,205 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:51:12,205 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:51:12,205 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:51:12,205 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:51:12,206 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:51:12,206 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x0000015CBAB689D0>
+2025-02-04 00:51:12,206 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:51:12,206 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from trainingData_ELMO.txt
+2025-02-04 00:51:13,095 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from trainingData_ELMO.txt.
+2025-02-04 00:51:13,096 - INFO - allennlp.common.params - data_loader.type = multiprocess
+2025-02-04 00:51:13,096 - INFO - allennlp.common.params - data_loader.batch_size = 32
+2025-02-04 00:51:13,097 - INFO - allennlp.common.params - data_loader.drop_last = False
+2025-02-04 00:51:13,097 - INFO - allennlp.common.params - data_loader.shuffle = True
+2025-02-04 00:51:13,097 - INFO - allennlp.common.params - data_loader.batch_sampler = None
+2025-02-04 00:51:13,097 - INFO - allennlp.common.params - data_loader.batches_per_epoch = None
+2025-02-04 00:51:13,097 - INFO - allennlp.common.params - data_loader.num_workers = 0
+2025-02-04 00:51:13,097 - INFO - allennlp.common.params - data_loader.max_instances_in_memory = None
+2025-02-04 00:51:13,098 - INFO - allennlp.common.params - data_loader.start_method = fork
+2025-02-04 00:51:13,098 - INFO - allennlp.common.params - data_loader.cuda_device = None
+2025-02-04 00:51:13,098 - INFO - allennlp.common.params - data_loader.quiet = False
+2025-02-04 00:51:13,098 - INFO - allennlp.common.params - data_loader.collate_fn = <allennlp.data.data_loaders.data_collator.DefaultDataCollator object at 0x0000015CBAB689D0>
+2025-02-04 00:51:13,098 - INFO - tqdm - loading instances: 0it [00:00, ?it/s]
+2025-02-04 00:51:13,098 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - Loading data from testData_ELMO.txt
+2025-02-04 00:51:13,437 - INFO - allennlp_models.lm.dataset_readers.simple_language_modeling - No instances dropped from testData_ELMO.txt.
+2025-02-04 00:51:13,438 - INFO - allennlp.common.params - type = from_instances
+2025-02-04 00:51:13,438 - INFO - allennlp.common.params - min_count = None
+2025-02-04 00:51:13,439 - INFO - allennlp.common.params - max_vocab_size = None
+2025-02-04 00:51:13,439 - INFO - allennlp.common.params - non_padded_namespaces = ('*tags', '*labels')
+2025-02-04 00:51:13,439 - INFO - allennlp.common.params - pretrained_files = None
+2025-02-04 00:51:13,439 - INFO - allennlp.common.params - only_include_pretrained_words = False
+2025-02-04 00:51:13,440 - INFO - allennlp.common.params - tokens_to_add = None
+2025-02-04 00:51:13,440 - INFO - allennlp.common.params - min_pretrained_embeddings = None
+2025-02-04 00:51:13,440 - INFO - allennlp.common.params - padding_token = @@PADDING@@
+2025-02-04 00:51:13,441 - INFO - allennlp.common.params - oov_token = @@UNKNOWN@@
+2025-02-04 00:51:13,441 - INFO - allennlp.data.vocabulary - Fitting token dictionary from dataset.
+2025-02-04 00:51:13,441 - INFO - tqdm - building vocab: 0it [00:00, ?it/s]
+2025-02-04 00:51:13,760 - INFO - allennlp.common.params - model.type = bidirectional-language-model
+2025-02-04 00:51:13,760 - INFO - allennlp.common.params - model.regularizer = None
+2025-02-04 00:51:13,761 - INFO - allennlp.common.params - model.text_field_embedder.type = basic
+2025-02-04 00:51:13,761 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.type = embedding
+2025-02-04 00:51:13,761 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.embedding_dim = 128
+2025-02-04 00:51:13,761 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.num_embeddings = None
+2025-02-04 00:51:13,761 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.projection_dim = None
+2025-02-04 00:51:13,762 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.weight = None
+2025-02-04 00:51:13,762 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.padding_index = None
+2025-02-04 00:51:13,762 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.trainable = True
+2025-02-04 00:51:13,762 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.max_norm = None
+2025-02-04 00:51:13,762 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.norm_type = 2.0
+2025-02-04 00:51:13,762 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.scale_grad_by_freq = False
+2025-02-04 00:51:13,762 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.sparse = False
+2025-02-04 00:51:13,763 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.vocab_namespace = tokens
+2025-02-04 00:51:13,763 - INFO - allennlp.common.params - model.text_field_embedder.token_embedders.tokens.pretrained_file = None
+2025-02-04 00:51:13,787 - INFO - allennlp.common.params - model.contextualizer.type = lstm
+2025-02-04 00:51:13,788 - INFO - allennlp.common.params - model.contextualizer.input_size = 128
+2025-02-04 00:51:13,788 - INFO - allennlp.common.params - model.contextualizer.hidden_size = 512
+2025-02-04 00:51:13,788 - INFO - allennlp.common.params - model.contextualizer.num_layers = 2
+2025-02-04 00:51:13,788 - INFO - allennlp.common.params - model.contextualizer.bias = True
+2025-02-04 00:51:13,788 - INFO - allennlp.common.params - model.contextualizer.dropout = 0.0
+2025-02-04 00:51:13,789 - INFO - allennlp.common.params - model.contextualizer.bidirectional = True
+2025-02-04 00:51:13,789 - INFO - allennlp.common.params - model.contextualizer.stateful = False
+2025-02-04 00:51:13,825 - INFO - allennlp.common.params - model.dropout = 0.1
+2025-02-04 00:51:13,826 - INFO - allennlp.common.params - model.num_samples = None
+2025-02-04 00:51:13,826 - INFO - allennlp.common.params - model.sparse_embeddings = False
+2025-02-04 00:51:13,826 - INFO - allennlp.common.params - model.bidirectional = False
+2025-02-04 00:51:13,826 - INFO - allennlp.common.params - model.initializer = None
+2025-02-04 00:51:13,980 - WARNING - allennlp.data.vocabulary - vocabulary serialization directory ./elmo\vocabulary is not empty
+2025-02-04 00:51:14,336 - INFO - allennlp.common.params - trainer.type = gradient_descent
+2025-02-04 00:51:14,337 - INFO - allennlp.common.params - trainer.cuda_device = -1
+2025-02-04 00:51:14,337 - INFO - allennlp.common.params - trainer.distributed = False
+2025-02-04 00:51:14,337 - INFO - allennlp.common.params - trainer.world_size = 1
+2025-02-04 00:51:14,337 - INFO - allennlp.common.params - trainer.patience = 2
+2025-02-04 00:51:14,338 - INFO - allennlp.common.params - trainer.validation_metric = -perplexity
+2025-02-04 00:51:14,338 - INFO - allennlp.common.params - trainer.num_epochs = 32
+2025-02-04 00:51:14,338 - INFO - allennlp.common.params - trainer.grad_norm = False
+2025-02-04 00:51:14,338 - INFO - allennlp.common.params - trainer.grad_clipping = None
+2025-02-04 00:51:14,338 - INFO - allennlp.common.params - trainer.num_gradient_accumulation_steps = 1
+2025-02-04 00:51:14,338 - INFO - allennlp.common.params - trainer.use_amp = False
+2025-02-04 00:51:14,338 - INFO - allennlp.common.params - trainer.no_grad = None
+2025-02-04 00:51:14,339 - INFO - allennlp.common.params - trainer.learning_rate_scheduler = None
+2025-02-04 00:51:14,339 - INFO - allennlp.common.params - trainer.momentum_scheduler = None
+2025-02-04 00:51:14,339 - INFO - allennlp.common.params - trainer.moving_average = None
+2025-02-04 00:51:14,339 - INFO - allennlp.common.params - trainer.checkpointer = <allennlp.common.lazy.Lazy object at 0x0000015CBD22B220>
+2025-02-04 00:51:14,339 - INFO - allennlp.common.params - trainer.callbacks = None
+2025-02-04 00:51:14,339 - INFO - allennlp.common.params - trainer.enable_default_callbacks = True
+2025-02-04 00:51:14,340 - INFO - allennlp.common.params - trainer.run_confidence_checks = True
+2025-02-04 00:51:14,340 - INFO - allennlp.common.params - trainer.grad_scaling = True
+2025-02-04 00:51:14,340 - INFO - allennlp.common.params - trainer.optimizer.type = adam
+2025-02-04 00:51:14,340 - INFO - allennlp.common.params - trainer.optimizer.parameter_groups = None
+2025-02-04 00:51:14,340 - INFO - allennlp.common.params - trainer.optimizer.lr = 0.001
+2025-02-04 00:51:14,340 - INFO - allennlp.common.params - trainer.optimizer.betas = (0.9, 0.999)
+2025-02-04 00:51:14,341 - INFO - allennlp.common.params - trainer.optimizer.eps = 1e-08
+2025-02-04 00:51:14,341 - INFO - allennlp.common.params - trainer.optimizer.weight_decay = 0.0
+2025-02-04 00:51:14,341 - INFO - allennlp.common.params - trainer.optimizer.amsgrad = False
+2025-02-04 00:51:14,341 - INFO - allennlp.training.optimizers - Number of trainable parameters: 40404303
+2025-02-04 00:51:14,342 - INFO - allennlp.common.util - The following parameters are Frozen (without gradient):
+2025-02-04 00:51:14,342 - INFO - allennlp.common.util - The following parameters are Tunable (with gradient):
+2025-02-04 00:51:14,342 - INFO - allennlp.common.util - _text_field_embedder.token_embedder_tokens.weight
+2025-02-04 00:51:14,343 - INFO - allennlp.common.util - _contextualizer._module.weight_ih_l0
+2025-02-04 00:51:14,343 - INFO - allennlp.common.util - _contextualizer._module.weight_hh_l0
+2025-02-04 00:51:14,343 - INFO - allennlp.common.util - _contextualizer._module.bias_ih_l0
+2025-02-04 00:51:14,343 - INFO - allennlp.common.util - _contextualizer._module.bias_hh_l0
+2025-02-04 00:51:14,343 - INFO - allennlp.common.util - _contextualizer._module.weight_ih_l0_reverse
+2025-02-04 00:51:14,343 - INFO - allennlp.common.util - _contextualizer._module.weight_hh_l0_reverse
+2025-02-04 00:51:14,343 - INFO - allennlp.common.util - _contextualizer._module.bias_ih_l0_reverse
+2025-02-04 00:51:14,343 - INFO - allennlp.common.util - _contextualizer._module.bias_hh_l0_reverse
+2025-02-04 00:51:14,344 - INFO - allennlp.common.util - _contextualizer._module.weight_ih_l1
+2025-02-04 00:51:14,344 - INFO - allennlp.common.util - _contextualizer._module.weight_hh_l1
+2025-02-04 00:51:14,344 - INFO - allennlp.common.util - _contextualizer._module.bias_ih_l1
+2025-02-04 00:51:14,344 - INFO - allennlp.common.util - _contextualizer._module.bias_hh_l1
+2025-02-04 00:51:14,344 - INFO - allennlp.common.util - _contextualizer._module.weight_ih_l1_reverse
+2025-02-04 00:51:14,344 - INFO - allennlp.common.util - _contextualizer._module.weight_hh_l1_reverse
+2025-02-04 00:51:14,345 - INFO - allennlp.common.util - _contextualizer._module.bias_ih_l1_reverse
+2025-02-04 00:51:14,345 - INFO - allennlp.common.util - _contextualizer._module.bias_hh_l1_reverse
+2025-02-04 00:51:14,345 - INFO - allennlp.common.util - _softmax_loss.softmax_w
+2025-02-04 00:51:14,345 - INFO - allennlp.common.util - _softmax_loss.softmax_b
+2025-02-04 00:51:14,345 - INFO - allennlp.common.params - type = default
+2025-02-04 00:51:14,345 - INFO - allennlp.common.params - save_completed_epochs = True
+2025-02-04 00:51:14,346 - INFO - allennlp.common.params - save_every_num_seconds = None
+2025-02-04 00:51:14,346 - INFO - allennlp.common.params - save_every_num_batches = None
+2025-02-04 00:51:14,346 - INFO - allennlp.common.params - keep_most_recent_by_count = 2
+2025-02-04 00:51:14,346 - INFO - allennlp.common.params - keep_most_recent_by_age = None
+2025-02-04 00:51:14,347 - INFO - allennlp.training.gradient_descent_trainer - Beginning training.
+2025-02-04 00:51:14,347 - INFO - allennlp.training.gradient_descent_trainer - Epoch 0/31
+2025-02-04 00:51:14,347 - INFO - allennlp.training.gradient_descent_trainer - Worker 0 memory usage: 0B
+2025-02-04 00:51:14,348 - INFO - allennlp.training.gradient_descent_trainer - Training
+2025-02-04 00:51:14,348 - INFO - tqdm - 0%|          | 0/516 [00:00<?, ?it/s]
+2025-02-04 00:51:18,265 - INFO - allennlp.training.callbacks.console_logger - Batch inputs
+2025-02-04 00:51:18,265 - INFO - allennlp.training.callbacks.console_logger - batch_input/source/tokens/tokens (Shape: 32 x 66)
+tensor([[17012,     2, 33283,  ...,     0,     0,     0],
+        [ 5637,     4,  1317,  ...,     0,     0,     0],
+        [   66,     3,  1566,  ...,     0,     0,     0],
+        ...,
+        [    4,     8,  8623,  ...,     5,   164,     7],
+        [   20,     9,   718,  ...,     0,     0,     0],
+        [    4,  3880,     5,  ...,     0,     0,     0]])
+2025-02-04 00:51:27,842 - INFO - tqdm - perplexity: 57054.7159, batch_loss: 10.8689, loss: 10.9518 ||:   1%|          | 3/516 [00:13<39:13,  4.59s/it]
+2025-02-04 00:51:40,286 - INFO - tqdm - perplexity: 34932.9383, batch_loss: 9.2704, loss: 10.4612 ||:   1%|1         | 6/516 [00:25<35:35,  4.19s/it]
+2025-02-04 00:51:53,490 - INFO - tqdm - perplexity: 16019.7273, batch_loss: 7.6295, loss: 9.6816 ||:   2%|1         | 9/516 [00:39<37:22,  4.42s/it]
+2025-02-04 00:52:04,613 - INFO - tqdm - perplexity: 9790.9191, batch_loss: 7.6952, loss: 9.1892 ||:   2%|2         | 12/516 [00:50<33:08,  3.95s/it]
+2025-02-04 00:52:16,421 - INFO - tqdm - perplexity: 6893.4386, batch_loss: 7.2221, loss: 8.8383 ||:   3%|2         | 15/516 [01:02<32:48,  3.93s/it]
+2025-02-04 00:52:27,185 - INFO - tqdm - perplexity: 6189.4507, batch_loss: 7.6763, loss: 8.7306 ||:   3%|3         | 17/516 [01:12<37:58,  4.57s/it]
+2025-02-04 00:52:38,166 - INFO - tqdm - perplexity: 5306.3239, batch_loss: 7.6445, loss: 8.5767 ||:   4%|3         | 20/516 [01:23<33:37,  4.07s/it]
+2025-02-04 00:52:50,738 - INFO - tqdm - perplexity: 4629.2000, batch_loss: 7.3233, loss: 8.4401 ||:   4%|4         | 23/516 [01:36<33:08,  4.03s/it]
+2025-02-04 00:53:04,142 - INFO - tqdm - perplexity: 4099.9244, batch_loss: 7.5018, loss: 8.3187 ||:   5%|5         | 26/516 [01:49<36:21,  4.45s/it]
