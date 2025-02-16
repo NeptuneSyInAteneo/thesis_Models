@@ -1,0 +1,50 @@
+{
+  "dataset_reader": {
+      "type": "simple_language_modeling",
+      "token_indexers": {
+          "tokens": {
+              "type": "single_id",
+              "lowercase_tokens": true
+          }
+      },
+      "tokenizer": {
+          "type": "just_spaces"
+      }
+  },
+  "model": {
+      "type": "bidirectional-language-model",
+      "contextualizer": {
+          "type": "lstm",
+          "bidirectional": true,
+          "hidden_size": 512,
+          "input_size": 128,
+          "num_layers": 2
+      },
+      "dropout": 0.1,
+      "text_field_embedder": {
+          "token_embedders": {
+              "tokens": {
+                  "type": "embedding",
+                  "embedding_dim": 128,
+                  "trainable": true
+              }
+          }
+      }
+  },
+  "train_data_path": "trainingData_ELMO.txt",
+  "validation_data_path": "testData_ELMO.txt",
+  "trainer": {
+      "cuda_device": -1,
+      "num_epochs": 32,
+      "optimizer": {
+          "type": "adam",
+          "lr": 0.001
+      },
+      "patience": 2,
+      "validation_metric": "-perplexity"
+  },
+  "data_loader": {
+      "batch_size": 32,
+      "shuffle": true
+  }
+}
