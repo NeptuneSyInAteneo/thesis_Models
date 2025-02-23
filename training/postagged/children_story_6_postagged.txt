@@ -1,0 +1,83 @@
+Si|DTP Pia|NNP ay|LM umuuwi|VBTR_VBAF sa|CCT tabi|NNC ng|CCB dagat|NNC ng|CCB Baryo|NNP Lamawan|NNP kasama|CCB sina|DTPP Nanay|NNP Lisa|NNP at|CCA Manong|NNP Jessie|NNP .|PMP
+Mahilig|RBD siyang|PRS_CCP maghukay|VBAF ng|CCB buhangin|NNC ,|PMC maglakad|VBAF sa|CCT pampang|NNC ,|PMC at|CCA manood|VBW ng|CCB mga|DTCP isda|NNC sa|CCT mga|DTCP bato|NNC .|PMP "|PMS
+Nanay|NNP ,|PMC maglalaro|VBTF muna|RBI ako|PRS sa|CCT dagat|NNC ,|PMC "|PMS sabi|VBS ni|DTP Pia|NNP .|PMP "|PMS
+Pia|NNP ,|PMC umuwi|VBAF ka|PRS bago|RBW dumilim|VBAF ,|PMC ha|NNCA ?|PMQ "|PMS
+bilin|NNC ng|CCB kaniyang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Oo|RBT ,|PMC Nanay|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Pia|NNP .|PMP "|PMS
+Nang|RBW malapit|JJD na|CCP siya|PRS sa|CCT pampang|NNC ay|LM may|VBH nakita|VBTS siyang|PRS_CCP aso|NNC na|CCP may|VBH dala|JJD -|PMS dalang|JJD_CCP itlog|NNC .|PMP "|PMS
+Aso|NNC ,|PMC saan|PRQ nanggaling|VBTS ang|DTC dala|JJD -|PMS dala|JJD mong|PRS_CCP itlog|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Pia|NNP .|PMP
+Tiningnan|VBOF at|CCA dinaanan|VBOF lang|RBI siya|PRS ng|CCB aso|NNC .|PMP "|PMS
+Saan|PRQ kaya|CCR nanggaling|VBTS ang|DTC itlog|NNC ?|PMQ "|PMS
+ang|DTC palaisipan|NNC ni|DTP Pia|NNP .|PMP
+Sinundan|VBTS niya|PRS ang|DTC marka|NNC ng|CCB mga|DTCP paa|NNC ng|CCB aso|NNC .|PMP
+Papunta|VBW ito|PRO sa|CCT ilalim|JJD ng|CCB kahoy|NNC na|CCP Pandan|NNP .|PMP
+Doon|PRL ,|PMC nakita|VBTS niya|PRS ang|DTC dalawang|JJN_CCP batang|JJD_CCP naghuhukay|VBTR ng|CCB buhangin|NNC .|PMP "|PMS
+Ano|PRQ iyang|VBTS_CCP hinuhukay|RBD ninyo|PRP ?|PMQ "|PMS
+tanong|NNC ni|DTP Pia|NNP .|PMP "|PMS
+Wala|VBN ,|PMC umalis|VBAF ka|PRS dito|PRL !|PMS "|PMS
+sagot|NNC ng|CCB isa|PRI .|PMP
+Lumaki|VBAF ang|DTC mga|DTCP mata|NNC ni|DTP Pia|NNP nang|RBW makita|VBW na|CCP may|VBH laman|NNC ang|DTC butas|NNC na|CCP hinuhukay|VBTS nila|PRP .|PMP "|PMS
+Psst|NNP !|PMS
+Ano|PRQ ang|DTC kinukuha|VBTR ninyo|PRP dyan|RBD ?|PMQ "|PMS
+tanong|NNC ng|CCB malaking|JJD_CCP boses|NNC .|PMP
+Tumakas|VBAF ang|DTC dalawang|JJN_CCP mga|DTCP bata|NNC pagdating|VBW ni|DTP Jessie|NNP ,|PMC ang|DTC kuya|NNC ni|DTP Pia|NNP .|PMP
+Isa|PRI si|DTP Jessie|NNP sa|CCT mga|DTCP taong|NNC_CCP nag|CDB -|PMS aalaga|NNC sa|CCT lugar|NNC ng|CCB mga|DTCP Pawikan|NNC sa|CCT kanilang|PRSP_CCP baryo|NNC .|PMP "|PMS
+Manong|NNP ,|PMC bago|RBW lang|RBI ako|PRS dito|PRL .|PMP
+Nakita|VBTS ko|PRS ang|DTC aso|NNC na|CCP may|VBH dalang|JJD_CCP itlog|NNC galing|RBL dito|PRL .|PMP
+Pagdating|VBW ko|PRS ,|PMC nadatnan|VBTS ko|PRS na|CCP may|VBH hinuhukay|VBTS sila|PRP na|CCP butas|NNC ,|PMC "|PMS sabi|VBS ni|DTP Pia|NNP .|PMP "|PMS
+Ito|PRO talaga|RBT ang|DTC sinasabi|VBTR ko|PRS .|PMP
+Mauubos|VBTF ang|DTC mga|DTCP itlog|NNC kung|RBK hindi|RBF ito|PRO lalagyan|VBTF ng|CCB bakod|NNC ,|PMC "|PMS pagkabahala|NNC na|CCP sabi|VBS ni|DTP Jessie|NNP .|PMP
+Tiningnan|VBOF ni|DTP Jessie|NNP ang|DTC buong|PRI_CCP paligid|NNC ng|CCB butas|NNC .|PMP
+Tinuro|VBTS niya|PRS kay|DTP Pia|NNP ang|DTC marami|PRI pang|RBI_CCP mga|DTCP itlog|NNC na|CCP parang|CCT mga|DTCP bato|NNC -|PMS bantiling|FW na|CCP pumuputi|VBTR_VBAF kapag|CCR tinatamaan|VBTR ng|CCB sinag|NNC ng|CCB araw|NNC .|PMP "|PMS
+Itlog|NNC ng|CCB ano|PRQ ito|PRO ,|PMC Manong|VBTF ?|PMQ "|PMS
+tanong|NNC ni|DTP Pia|NNP habang|RBW tinatanaw|VBTR ang|DTC butas|NNC na|CCP hanggang|RBW baywang|NNC ang|DTC lalim|NNC .|PMP "|PMS
+Ito|PRO ay|LM mga|DTCP itlog|NNC ng|CCB pawikan|NNC ,|PMC "|PMS pagpapaliwang|NNC ni|DTP Jessie|NNP .|PMP "|PMS
+Pawikan|NNP ?|PMQ
+Saan|PRQ ang|DTC nanay|NNC ng|CCB Pawikan|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Pia|NNP .|PMP
+Hinanap|VBOF ni|DTP Pia|NNP ang|DTC nangitlog|VBTS na|CCP Pawikan|NNC .|PMP "|PMS
+Wala|VBN na|CCP rito|PRL .|PMP
+Lumuluwas|NNP lamang|RBI ang|DTC nanay|NNC ng|CCB pawikan|NNC kapag|CCR gabi|RBW o|CCT hindi|RBF kaya|CCR ay|LM kapag|CCR madaling|RBD_CCP -|PMS araw|NNC para|CCT mangitlog|VBW .|PMP
+Marami|PRI ang|DTC kanilang|PRSP_CCP mga|DTCP itlog|NNC ,|PMC kaya|CCR malalim|JJD ang|DTC kanilang|PRSP_CCP ginagawang|VBTR_CCP butas|NNC ,|PMC "|PMS paliwanag|NNC ni|DTP Jessie|NNP .|PMP "|PMS
+Ilan|PRQ ang|DTC mga|DTCP itlog|NNC sa|CCT pugad|NNC ,|PMC Manong|VBTF ?|PMQ "|PMS
+tanong|NNC ni|DTP Pia|NNP .|PMP
+Nakatutok|JJD si|DTP Pia|NNP kay|DTP Manong|NNP Jessie|NNP na|CCP inaayos|VBTR at|CCA binibilang|VBTR ang|DTC mga|DTCP itlog|NNC .|PMP "|PMS
+Isang|PRI_CCP daan|NNC !|PMS
+Minsan|RBW ,|PMC sobra|JJCS pa|RBI .|PMP
+Ang|DTC mangingitlog|JJD na|CCP pawikan|NNC ay|LM makahuhukay|VBW ng|CCB lima|CDB hanggang|RBW pitong|JJN_CCP mga|DTCP butas|NNC .|PMP
+Ilang|PRQ_CCP beses|NNC din|RBI itong|PRO_CCP pabalik|RBD -|PMS balik|NNC upang|CCB mangitlog|VBW ,|PMC "|PMS paliwanang|NNC_CCP ni|DTP Jessie|NNP .|PMP "|PMS
+Paano|PRQ napipisa|VBTS ang|DTC mga|DTCP itlog|NNC kung|CCR wala|VBN ang|DTC nanay|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Pia|NNP .|PMP "|PMS
+Ang|DTC init|NNC ng|CCB panahon|NNC at|CCA buhangin|NNC ang|DTC maaring|VBS_CCP makapagpisa|VBW sa|CCT mga|DTCP itlog|NNC .|PMP
+Kung|CCR napipisa|VBTS na|RBI ang|DTC mga|DTCP itlog|NNC ,|PMC umaakyat|VBTR_VBAF ang|DTC mga|DTCP maliliit|JJD na|CCP pawikan|NNC at|CCA lalabas|VBTF sa|CCT butas|NNC papunta|VBW sa|CCT dagat|NNC .|PMP
+Kailangang|VBS_CCP nandito|VBTS tayo|PRP para|CCT matulungan|VBW sila|PRP na|CCP makapunta|VBW sa|CCT tubig|NNC ,|PMC "|PMS sagot|NNC ni|DTP Jessie|NNP .|PMP
+Nakangiti|VBTS si|DTP Jessie|NNP sa|CCT nakababatang|JJD_CCP kapatid|NNC nito|PRO na|CCP nahumaling|VBTS sa|CCT mga|DTCP pawikan|NNC .|PMP "|PMS
+Kailan|PRI mapipisa|VBW ang|DTC mga|DTCP itlog|NNC ng|CCB pawikan|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Pia|NNP .|PMP "|PMS
+Mga|DTCP dalawang|JJN_CCP buwan|NNC ang|DTC hinihintay|VBTR ,|PMC "|PMS tantiya|JJD ni|DTP Jessie|NNP .|PMP "|PMS
+Nagagandahan|VBTR ba|RBI sila|PRP rito|PRL sa|CCT atin|PRSP ?|PMQ "|PMS
+tanong|NNC ni|DTP Pia|NNP .|PMP "|PMS
+At|CCA dito|PRL sila|PRP nangingitlog|VBTR !|PMQ "|PMS "|PMS
+Palagi|RBW silang|PRP_CCP bumabalik|VBTR_VBAF sa|CCT lugar|NNC kung|RBK saan|RBQ sila|PRP napisa|VBTS ,|PMC kahit|CCT na|CCP malayo|JJD pa|RBI ang|DTC kanilang|PRSP_CCP lalanguyin|VBTF ,|PMC "|PMS paliwanag|NNC ni|DTP Jessie|NNP .|PMP "|PMS
+Kaunti|PRI nalang|VBTS ang|DTC mga|DTCP Pawikan|NNC sa|CCT ating|PRSP_CCP mundo|NNC .|PMP
+Namamatay|VBTR pa|RBI sila|PRP kapag|CCR nakakakain|VBTR ng|CCB mga|DTCP basura|NNC sa|CCT dagat|NNC .|PMP
+Kung|CCR maraming|PRI_CCP mga|DTCP pantalan|NNC at|CCA bahay|NNC ang|DTC napapatayo|VBTR sa|CCT mga|DTCP tabing|NNC -|PMS dagat|NNC ,|PMC nawawalan|VBTR din|RBI sila|PRP ng|CCB mga|DTCP lugar|NNC na|CCP maaring|RBM mapangitlogan|VBW .|PMP
+Kinakain|VBTR ang|DTC mga|DTCP maliliit|JJD na|CCP pawikan|NNC ng|CCB mga|DTCP ibon|NNC at|CCA isda|NNC ,|PMC "|PMS kuwento|NNC ni|DTP Jessie|NNP .|PMP
+Tinatabunan|VBTS ni|DTP Jessie|NNP ng|CCB buhangin|NNC ang|DTC mga|DTCP itlog|NNC .|PMP
+Tumulong|VBAF din|RBI si|DTP Pia|NNP .|PMP "|PMS
+Kailangan|VBS palang|NNC_CCP pakaingatan|JJD ang|DTC mga|DTCP itlog|NNC na|CCP ito|PRO ,|PMC "|PMS sabi|VBS ni|DTP Pia|NNP .|PMP "|PMS
+Kung|CCR kaya|CCR ay|LM kailangan|VBS nating|PRP_CCP bakuran|VBOF ito|PRO .|PMP
+Puwede|NNP mo|PRS bang|RBI_CCP hawakan|VBOF ito|PRO ,|PMC Pia|NNP ,|PMC "|PMS sabi|VBS ni|DTP Jessie|NNP .|PMP
+Ibinaon|VBTS ni|DTP Jessie|NNP sa|CCT buhangin|NNC at|CCA itinali|VBTS ang|DTC dalawang|JJN_CCP poste|NNC sa|CCT kahoy|NNC ng|CCB pandan|NNC .|PMP "|PMS
+Manong|NNP ,|PMC sabihan|VBOF mo|PRS ako|PRS kung|RBK lalabas|VBTF na|RBI sa|CCT butas|NNC ang|DTC mga|DTCP anak|NNC ng|CCB pawikan|NNC ,|PMC ha|NNCA ?|PMQ
+Tutulong|VBTF ako|PRS sa|CCT pagbabalik|NNC sa|CCT kanila|PRSP sa|CCT dagat|NNC ,|PMC "|PMS habilin|NNC ni|DTP Pia|NNP .|PMP "|PMS
+Oo|RBT ,|PMC Pia|NNP .|PMP
+Pero|CCT sa|CCT ngayon|RBW umuwi|VBAF na|CCP muna|RBI tayo|PRP .|PMP
+Madilim|JJD na|CCP ,|PMC "|PMS sabi|VBS ni|DTP Jessie|NNP .|PMP
+Saka|CCA niya|PRS hinawakan|VBOF ang|DTC kamay|NNC ng|CCB nakababatang|JJD_CCP kapatid|NNC at|CCA sabay|RBD silang|PRP_CCP umuwi|VBAF sa|CCT bahay|NNC .|PMP
+Mahilig|JJD si|DTP Pia|NNP na|CCP maglaro|VBAF sa|CCT tabing|NNC -|PMS dagat|NNC ng|CCB Baryo|NNP Lamawan|NNP .|PMP
+Isang|PRI_CCP araw|NNC ay|LM may|VBH nakita|VBTS siyang|PRS_CCP dalawang|JJN_CCP mga|DTCP bata|NNC na|CCP naghuhukay|VBTS sa|CCT ilalim|JJD ng|CCB Pandan|NNP .|PMP
+Dumating|VBAF si|DTP Kuya|NNP Jessie|NNP at|CCA agad|RBD na|CCP umalis|VBAF ang|DTC mga|DTCP bata|NNC .|PMP
+Ano|PRQ kaya|CCR ang|DTC matutuklasan|VBTF ni|DTP Pia|NNP sa|CCT inuuwian|VBTR ng|CCB mga|DTCP pawikan|NNC kasama|CCB si|DTP Jessie|NNP ?|PMQ

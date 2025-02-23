@@ -1,0 +1,12 @@
+Si|DTP Mina|NNP at|CCA Manay|NNP ay|LM nakauwi|VBTS na|CCP galing|RBL sa|CCT Zoo|NNP .|PMP
+Ako|PRS ay|LM unggoy|NNC ngayon|RBW .|PMP
+Ako|PRS ay|LM pagong|NNC ngayon|RBW .|PMP
+Ako|PRS ay|LM elepante|NNC ngayon|RBW .|PMP
+Isa|PRI akong|PRS_CCP ibon|NNC ngayon|RBW .|PMP
+Isa|PRI akong|PRS_CCP rhino|NNC ngayon|RBW .|PMP
+Isa|PRI akong|PRS_CCP kuneho|NNC ngayon|RBW .|PMP
+Isa|PRI akong|PRS_CCP tigre|NNC ngayon|RBW .|PMP
+Oras|NNP na|CCP para|CCT matulog|VBW .|PMP
+Dumating|VBAF si|DTP nanay|NNC para|CCT patayin|VBOF ang|DTC ilaw|NNC .|PMP
+Iminulat|VBTS ni|DTP Mina|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP mata|NNC at|CCA sinabing|VBTS ,|PMC "|PMS Ngayon|RBW ,|PMC Isa|PRI akong|PRS_CCP kuwago|NNC .|PMP "|PMS
+Signer|NNP :|PMS Dinesh|NNP Maharjan|NNP .|PMP
