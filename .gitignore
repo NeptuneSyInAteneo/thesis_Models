@@ -1,1 +1,10 @@
 fspost/
+Pre-training/elmo/best.th
+Pre-training/elmo/model.tar.gz
+Pre-training/elmo/model_state_e8_b0.th
+Pre-training/elmo/model_state_e9_b0.th
+Pre-training/elmo/training_state_e8_b0.th
+Pre-training/elmo/training_state_e9_b0.th
+Pre-training/train.txt
+Pre-training/train_1.txt
+Pre-training/train.parquet
