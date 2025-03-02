@@ -1,23 +1,42 @@
 Tinatawag|VBTR ako|PRS ng|CCB aking|PRSP_CCP mga|DTCP kalaro|NNC .|PMP
 Niyayaya|VBTS nila|PRP akong|PRS_CCP maglaro|VBAF ng|CCB bola|NNC .|PMP "|PMS
 Nanay|NNC ,|PMC Maglalaro|VBTF po|RBS ako|PRS .|PMP "|PMS
-Tumakbo|VBAF agad|RBD ako|PRS palabas|NNC pagkatango|NNC ni|DTP Nanay.Vroom!Hoy|NNP !|PMS
+Tumakbo|VBAF agad|RBD ako|PRS palabas|NNC pagkatango|NNC ni|DTP Nanay|NNP .|PMP
+Vroom!Hoy|NNP !|PMS
 Mag|NNP -|PMS ingat|NNC ka|PRS !|PMQ
 Eskinita|NNP ito|PRO .|PMP
-Maraming|PRI_CCP tao|NNC ang|DTC nasa|RBL kalsada.Mabuti|NNC nalang|VBTS ,|PMC hindi|RBF ako|PRS nasaktan.Nakuha|VBTR ng|CCB bola|NNC ang|DTC atensyon|NNC ko.Naku|NNP ,|PMC tumama|VBAF ang|DTC bola|NNC sa|CCT mga|DTCP pinamili|VBTS ng|CCB kapitbahay|NNC .|PMP
+Maraming|PRI_CCP tao|NNC ang|DTC nasa|RBL kalsada|NNC .|PMP
+Mabuti|NNP nalang|VBTS ,|PMC hindi|RBF ako|PRS nasaktan|VBTS .|PMP
+Nakuha|VBTS ng|CCB bola|NNC ang|DTC atensyon|NNC ko|PRS .|PMP
+Naku|NNP ,|PMC tumama|VBAF ang|DTC bola|NNC sa|CCT mga|DTCP pinamili|VBTS ng|CCB kapitbahay|NNC .|PMP
 Nagkalat|VBTS ang|DTC mga|DTCP prutas|NNC .|PMP
-Natamaan|VBTS din|RBI ang|DTC pusa.Paumanhin|NNP !|PMS
+Natamaan|VBTS din|RBI ang|DTC pusa|NNC .|PMP
+Paumanhin|RBS !|PMS
 Magiging|VBTF mas|JJCC maingat|JJD ako!Kaya|RBL_NNP kong|PRS_CCP sipain|VBOF ang|DTC bola|NNC nang|RBD napakataas|JJCS_JJD .|PMP
 Iskor!Oh|NNP ,|PMC hindi|RBF !|PMQ
-Nahulog|VBTS ang|DTC bola|NNC sa|CCT hardin|NNC ng|CCB kapitbahay.Takbo|NNP !|PMS
-Galit|RBD na|CCP galit|JJD ang|DTC aso!Hay|NNC ,|PMC nakaka|RBD -|PMS stress|NNC pala|NNC ang|DTC paglalaro|NNC sa|CCT labas.Kung|JJN_CCP mayroon|VBH lamang|RBI mas|JJCC masayang|JJD_CCP lugar|NNC para|CCT maglaro.Pero|VBW iyon|PRO ay|LM nangyayari|VBTR lamang|RBI sa|CCT lungsod|NNC ng|CCB mga|DTCP pangarap.Sa|NNC aking|PRSP_CCP lungsod|NNC ng|CCB mga|DTCP pangarap|NNC ,|PMC ang|DTC mga|DTCP bahay|NNC ay|LM nakatayo|VBTS sa|CCT tuktok|NNC ng|CCB mga|DTCP haligi|NNC .|PMP
-Sa|CCT ilalim|JJD nito|PRO ay|LM ang|DTC mga|DTCP kalsada|NNC ,|PMC kung|RBK saan|RBQ dumadaan|VBTR_VBAF ang|DTC mga|DTCP sasakyan.Gagawan|NNC ko|PRS ng|CCB parang|CCT sa|CCT ibabaw|NNC ng|CCB mga|DTCP ulap|NNC para|CCT komportable|JJD kaming|PRP_CCP makapaglaro|VBW ng|CCB bola|NNC ng|CCB aking|PRSP_CCP mga|DTCP kaibigan.Ito|NNC ay|LM magiging|VBTF lubhang|JJCS_CCP kapana|NNC -|PMS panabik|NNC .|PMP
-Hindi|RBF na|CCP namin|PRP kailangang|VBS_CCP mag|VBW -|PMS alala|NNC kung|RBK saan|RBQ tatalbog|VBTF ang|DTC bola.Sipain|FW mo|PRS ang|DTC bola!Kung|NNC_CCP magsawa|VBAF na|CCP ako|PRS sa|CCT paglalaro|NNC ng|CCB bola|NNC …|PMS ...|PMS Maari|VBS akong|PRS_CCP bumaba|VBAF sa|CCT mayabong|JJD na|CCP hardin|NNC ng|CCB prutas.Maraming|NNC_CCP mga|DTCP paborito|NNC kong|PRS_CCP prutas|NNC ang|DTC naroon.Maari|VBTR akong|PRS_CCP pumitas|VBAF ng|CCB mga|DTCP prutas|NNC kasama|CCB ang|DTC aking|PRSP_CCP mga|DTCP kaibigan.Kung|NNC_CCP magutom|VBTF man|RBI ako|PRS …|NNCA …|PMS Maari|VBS akong|PRS_CCP kumain|VBAF hanggang|RBW sa|CCT mabusog|VBW ako|PRS habang|RBW pinagmamasdan|VBTR_VBRF ang|DTC tanawin.Kung|JJN_CCP mapagod|VBW man|RBI ako|PRS …|NNCA …|PMS Maari|VBS akong|PRS_CCP matulog|VBW sa|CCT malambot|JJD na|CCP berdeng|JJD_CCP damo.Hay|NNC ,|PMC napakaganda|JJCS_JJD ng|CCB aking|PRSP_CCP lungsod|NNC ng|CCB mga|DTCP pangarap.Alamin|NNC ang|DTC Higit|JJCC Pa|NNPA Tungkol|RBR sa|CCT :|PMS Urban|NNP DesignAng|NNP child|FW -|PMS friendly|FW city|FW ay|LM isang|PRI_CCP lungsod|NNC na|CCP nagbibigay|VBTR atensiyon|NNC sa|CCT mga|DTCP Karapatan|NNP ng|CCB bata|NNC ,|PMC maging|VBW sa|CCT pisikal|JJD ,|PMC sikolohikal|JJD at|CCA pangangailangang|NNC_CCP panlipunan|JJD ng|CCB mga|DTCP bata|NNC .|PMP
+Nahulog|VBTS ang|DTC bola|NNC sa|CCT hardin|NNC ng|CCB kapitbahay|NNC .|PMP
+Takbo|NNP !|PMS
+Galit|RBD na|CCP galit|JJD ang|DTC aso!Hay|NNC ,|PMC nakaka|RBD -|PMS stress|NNC pala|NNC ang|DTC paglalaro|NNC sa|CCT labas|NNC .|PMP
+Kung|CCR mayroon|VBH lamang|RBI mas|JJCC masayang|JJD_CCP lugar|NNC para|CCT maglaro|VBAF .|PMP
+Pero|CCT iyon|PRO ay|LM nangyayari|VBTR lamang|RBI sa|CCT lungsod|NNC ng|CCB mga|DTCP pangarap|NNC .|PMP
+Sa|CCT aking|PRSP_CCP lungsod|NNC ng|CCB mga|DTCP pangarap|NNC ,|PMC ang|DTC mga|DTCP bahay|NNC ay|LM nakatayo|VBTS sa|CCT tuktok|NNC ng|CCB mga|DTCP haligi|NNC .|PMP
+Sa|CCT ilalim|JJD nito|PRO ay|LM ang|DTC mga|DTCP kalsada|NNC ,|PMC kung|RBK saan|RBQ dumadaan|VBTR_VBAF ang|DTC mga|DTCP sasakyan|NNC .|PMP
+Gagawan|VBOF ko|PRS ng|CCB parang|CCT sa|CCT ibabaw|NNC ng|CCB mga|DTCP ulap|NNC para|CCT komportable|JJD kaming|PRP_CCP makapaglaro|VBW ng|CCB bola|NNC ng|CCB aking|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Ito|PRO ay|LM magiging|VBTF lubhang|JJCS_CCP kapana|NNC -|PMS panabik|NNC .|PMP
+Hindi|RBF na|CCP namin|PRP kailangang|VBS_CCP mag|VBW -|PMS alala|NNC kung|RBK saan|RBQ tatalbog|VBTF ang|DTC bola|NNC .|PMP
+Sipain|VBOF mo|PRS ang|DTC bola!Kung|NNC_CCP magsawa|VBAF na|CCP ako|PRS sa|CCT paglalaro|NNC ng|CCB bola|NNC …|PMS ...|PMS Maari|VBS akong|PRS_CCP bumaba|VBAF sa|CCT mayabong|JJD na|CCP hardin|NNC ng|CCB prutas|NNC .|PMP
+Maraming|PRI_CCP mga|DTCP paborito|NNC kong|PRS_CCP prutas|NNC ang|DTC naroon|PRL .|PMP
+Maari|VBS akong|PRS_CCP pumitas|VBAF ng|CCB mga|DTCP prutas|NNC kasama|CCB ang|DTC aking|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Kung|CCR magutom|VBTF man|RBI ako|PRS …|NNCA …|PMS Maari|VBS akong|PRS_CCP kumain|VBAF hanggang|RBW sa|CCT mabusog|VBW ako|PRS habang|RBW pinagmamasdan|VBTR_VBRF ang|DTC tanawin|NNC .|PMP
+Kung|CCR mapagod|VBW man|RBI ako|PRS …|NNCA …|PMS Maari|VBS akong|PRS_CCP matulog|VBW sa|CCT malambot|JJD na|CCP berdeng|JJD_CCP damo|NNC .|PMP
+Hay|NNP ,|PMC napakaganda|JJCS_JJD ng|CCB aking|PRSP_CCP lungsod|NNC ng|CCB mga|DTCP pangarap|NNC .|PMP
+Alamin|NNP ang|DTC Higit|JJCC Pa|NNPA Tungkol|RBR sa|CCT :|PMS Urban|NNP DesignAng|NNP child|FW -|PMS friendly|FW city|FW ay|LM isang|PRI_CCP lungsod|NNC na|CCP nagbibigay|VBTR atensiyon|NNC sa|CCT mga|DTCP Karapatan|NNP ng|CCB bata|NNC ,|PMC maging|VBW sa|CCT pisikal|JJD ,|PMC sikolohikal|JJD at|CCA pangangailangang|NNC_CCP panlipunan|JJD ng|CCB mga|DTCP bata|NNC .|PMP
 Sa|CCT pagdidisenyo|VBW ng|CCB child|FW -|PMS friendly|FW city|FW ,|PMC kasama|CCB rin|RBI ang|DTC mga|DTCP batang|JJD_CCP tulad|JJC mo.|NNCA .|PMP
 Ang|DTC mga|DTCP bata|NNC ay|LM maaring|RBM maglahad|VBAF ng|CCB opinyon|NNC tungkol|RBR sa|CCT kanilang|PRSP_CCP lungsodat|FW magdisenyo|VBAF ng|CCB kanilang|PRSP_CCP pangarap|NNC na|CCP lungsod|NNC gamit|VBS ang|DTC pagguhit|NNC o|CCT 3Dcrafts|CDB .|PMP
 Ang|DTC mga|DTCP ideya|NNC ito|PRO ay|LM isinalin|VBTS na|CCP ng|CCB mga|DTCP arkitekto|NNC p|NNCA tagaplano|NNC ng|CCB lugar|NNC sa|CCT mga|DTCP disenyong|NNC_CCP pang|RBI_CCP -|PMS inhinyero|NNC .|PMP
 Ang|DTC pamamaraang|NNC_CCP ito|PRO ay|LM tinatawag|VBTR na|CCP participative|FW design|FW method|FW .|PMP
-Ang|DTC pamamaraan|NNC ay|LM ginagawa|VBTR sa|CCT pamamagitan|NNC ng|CCB pagsali|NNC sa|CCT mga|DTCP lokal|JJD na|CCP residente|NNC upang|CCB ang|DTC disenyo|NNC ay|LM naaayon|VBTR sa|CCT kanilang|PRSP_CCP mga|DTCP pangangailangan.This|FW book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
+Ang|DTC pamamaraan|NNC ay|LM ginagawa|VBTR sa|CCT pamamagitan|NNC ng|CCB pagsali|NNC sa|CCT mga|DTCP lokal|JJD na|CCP residente|NNC upang|CCB ang|DTC disenyo|NNC ay|LM naaayon|VBTR sa|CCT kanilang|PRSP_CCP mga|DTCP pangangailangan|NNC .|PMP
+This|NNP book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
 This|NNP project|FW involves|FW almost|FW all|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW designers|FW .|PMP
 This|NNP book|FW was|FW developed|FW through|FW a|FW book|FW development|FW workshop|FW held|FW in|FW collaboration|FW with|FW Litara|NNP Foundation|NNP and|FW The|NNP Asia|NNP Foundation|NNP through|FW the|FW Let|NNP 's|NNP Read|NNP program|FW with|FW the|FW support|FW of|FW EsteeLauder|NNP Companies|NNP Charity|NNP Foundation|NNP (|PMS ELCCF|NNPA )|PMS .|PMP
 Let|NNP 's|CDB Read|NNP is|FW a|FW digital|FW library|FW platform|FW with|FW a|FW collection|FW of|FW thousands|FW of|FW children|FW 's|FW storybooks|FW that|FW can|FW be|FW accessed|FW easily|FW and|FW for|FW free|FW .|PMP

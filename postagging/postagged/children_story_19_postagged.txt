@@ -3,7 +3,8 @@ Si|DTP Tita|NNP Susan|NNP ay|LM isang|PRI_CCP scientist|FW at|CCA lagi|RBD siyan
 Tita|NNP Susan|NNP ,|PMC may|VBH pasalubong|NNC_CCP po|RBS ba|RBI kayo|PRP para|CCT sa|CCT amin|PRSP ?|PMQ "|PMS
 tanong|NNC ng|CCB mga|DTCP bata|NNC .|PMP "|PMS
 Oo|RBT naman|RBI ,|PMC "|PMS nakangiting|VBTS sagot|NNC ni|DTP Tita|NNP Susan|NNP .|PMP
-Binigyan|VBOF niya|PRS ang|DTC bawat|PRI bata|NNC ng|CCB tig|NNC -|PMS isang|PRI_CCP maliit|JJD na|CCP kahon.Binuksan|NNC ni|DTP Luis|NNP ang|DTC kahong|NNC_CCP natanggap|VBTS .|PMP
+Binigyan|VBOF niya|PRS ang|DTC bawat|PRI bata|NNC ng|CCB tig|NNC -|PMS isang|PRI_CCP maliit|JJD na|CCP kahon|NNC .|PMP
+Binuksan|VBTS ni|DTP Luis|NNP ang|DTC kahong|NNC_CCP natanggap|VBTS .|PMP
 Ito|PRO ay|LM isang|PRI_CCP laruang|NNC_CCP kotse|NNC na|CCP gawa|VBS sa|CCT bakal|NNC .|PMP "|PMS
 Wow|NNP !|PMS "|PMS
 sabi|VBS ni|DTP Luis|NNP .|PMP "|PMS
@@ -13,9 +14,11 @@ Ito|PRO ay|LM gawa|VBS sa|CCT bakal|NNC .|PMP "|PMS "|PMS
 Ang|DTC husay|NNC !|PMS
 Bakit|PRQ mahalaga|JJD na|CCP ito|PRO ay|LM gawa|VBS sa|CCT bakal|NNC ?|PMQ "|PMS
 tanong|NNC ni|DTP Luis|NNP .|PMP "|PMS
-Makikita|VBTF mo|PRS ,|PMC "|PMS misteryosong|JJD_CCP sabi|VBS ni|DTP Tita|NNP Susan|NNP habang|RBW pinapanood|VBTR ang|DTC pagbubukas|NNC ni|DTP Neri|NNP ng|CCB kaniyang|PRSP_CCP pasalubong.Sa|NNC loob|NNC ng|CCB kahon|NNC ,|PMC natagpuan|VBTS ni|DTP Neri|NNP ang|DTC dalawang|JJN_CCP pirasong|NNC_CCP makintab|JJD na|CCP metal|NNC na|CCP magkadikit|VBW sa|CCT isa|PRI '|PMS t|NNCA isa|PRI .|PMP "|PMS
+Makikita|VBTF mo|PRS ,|PMC "|PMS misteryosong|JJD_CCP sabi|VBS ni|DTP Tita|NNP Susan|NNP habang|RBW pinapanood|VBTR ang|DTC pagbubukas|NNC ni|DTP Neri|NNP ng|CCB kaniyang|PRSP_CCP pasalubong|NNC .|PMP
+Sa|CCT loob|NNC ng|CCB kahon|NNC ,|PMC natagpuan|VBTS ni|DTP Neri|NNP ang|DTC dalawang|JJN_CCP pirasong|NNC_CCP makintab|JJD na|CCP metal|NNC na|CCP magkadikit|VBW sa|CCT isa|PRI '|PMS t|NNCA isa|PRI .|PMP "|PMS
 Ano|PRQ kayang|CCR_CCP klaseng|NNC_CCP laruan|NNC ito|PRO ?|PMQ "|PMS
-tanong|NNC ni|DTP Neri.Dahan|NNP -|PMS dahang|RBD_CCP hinila|VBOF ni|DTP Neri|NNP ang|DTC dalawang|JJN_CCP piraso|NNC ng|CCB metal|NNC papalayo|RBD ngunit|CCT mahigpit|JJD ang|DTC pagkakadikit|NNC ng|CCB dalawang|JJN_CCP ito|PRO sa|CCT isa|PRI '|PMS t|NNCA isa|PRI .|PMP
+tanong|NNC ni|DTP Neri|NNP .|PMP
+Dahan|NNP -|PMS dahang|RBD_CCP hinila|VBOF ni|DTP Neri|NNP ang|DTC dalawang|JJN_CCP piraso|NNC ng|CCB metal|NNC papalayo|RBD ngunit|CCT mahigpit|JJD ang|DTC pagkakadikit|NNC ng|CCB dalawang|JJN_CCP ito|PRO sa|CCT isa|PRI '|PMS t|NNCA isa|PRI .|PMP
 Pagkatapos|VBW ,|PMC sinubukan|VBOF niyang|PRS_CCP paikutin|VBOF ang|DTC parehong|JJC_CCP metal|NNC at|CCA gumalaw|VBAF ang|DTC mga|DTCP ito|PRO !|PMS "|PMS
 Kakaiba|JJD ito|PRO ,|PMC "|PMS naisip|VBTS ni|DTP Neri|NNP ,|PMC "|PMS Sana|VBS hindi|RBF ko|PRS ito|PRO masira|VBW .|PMP "|PMS
 Nang|RBW bitiwan|VBOF niya|PRS ang|DTC isa|PRI sa|CCT mga|DTCP piraso|NNC nito|PRO ,|PMC bumalik|VBAF ito|PRO sa|CCT dati|JJD nitong|PRO_CCP posisyon|NNC .|PMP "|PMS
@@ -35,14 +38,16 @@ Para|CCT bang|RBI_CCP may|VBH isang|PRI_CCP hindi|RBF nakikitang|VBTR_CCP puwers
 Iniisip|VBTS ko|PRS kung|CCR may|VBH iba|PRI pa|RBI bang|RBM didikit|VBOF sa|CCT mga|DTCP metal|NNC na|CCP ito|PRO ,|PMC "|PMS sabi|VBS ni|DTP Neri|NNP .|PMP "|PMS
 Alamin|NNP natin|PRP !|PMS "|PMS
 tugon|NNC ni|DTP Luis|NNP .|PMP
-Agad|RBD siyang|PRS_CCP umalis|VBAF sa|CCT kinauupuan|JJD nila|PRP at|CCA nagsimulangkumuha|VBTR ng|CCB mga|DTCP bagay|NNC mula|RBL sa|CCT loob|NNC ng|CCB bahay.Bumalik|NNC si|DTP Luis|NNP na|CCP punong|JJD_CCP -|PMS puno|NNC ang|DTC mga|DTCP kamay|NNC ng|CCB mga|DTCP bagay|NNC na|CCP puwedeng|RBT_CCP subukan|VBOF para|CCT sa|CCT kanilang|PRSP_CCP laruang|NNC_CCP metal|NNC .|PMP "|PMS
+Agad|RBD siyang|PRS_CCP umalis|VBAF sa|CCT kinauupuan|JJD nila|PRP at|CCA nagsimulangkumuha|VBTR ng|CCB mga|DTCP bagay|NNC mula|RBL sa|CCT loob|NNC ng|CCB bahay|NNC .|PMP
+Bumalik|VBAF si|DTP Luis|NNP na|CCP punong|JJD_CCP -|PMS puno|NNC ang|DTC mga|DTCP kamay|NNC ng|CCB mga|DTCP bagay|NNC na|CCP puwedeng|RBT_CCP subukan|VBOF para|CCT sa|CCT kanilang|PRSP_CCP laruang|NNC_CCP metal|NNC .|PMP "|PMS
 Una|CDB nating|PRP_CCP subukan|VBOF ang|DTC aklat|NNC ,|PMC "|PMS sabi|VBS ni|DTP Luis|NNP .|PMP
 Inilapit|VBTS niya|PRS ang|DTC aklat|NNC sa|CCT dalawang|JJN_CCP pirasong|NNC_CCP metal|NNC pero|CCT walang|VBN_CCP nangyari|VBTS .|PMP "|PMS
 Hmm|NNP ,|PMC subukan|VBOF naman|RBI natin|PRP itong|PRO_CCP susi|NNC ,|PMC "|PMS sabi|VBS ni|DTP Neri|NNP .|PMP
 Habang|RBW inilalapit|VBTS niya|PRS ang|DTC susi|NNC sa|CCT mga|DTCP metal|NNC ,|PMC nararamdaman|VBTS ni|DTP Neri|NNP na|CCP tila|RBM hinihila|VBOF ng|CCB mga|DTCP metal|NNC ang|DTC susi|NNC papalapit|NNC sa|CCT mga|DTCP ito|PRO .|PMP
 Binitiwan|VBOF ni|DTP Neri|NNP ang|DTC susi|NNC at|CCA dumausdos|VBTR_VBAF ito|PRO sa|CCT mesa|FW patungo|RBL sa|CCT mga|DTCP metal|NNC at|CCA dumikit|VBAF .|PMP
 Gumana|VBAF ito|PRO !|PMQ
-Sumunod|VBAF ,|PMC inilapit|VBTS ni|DTP Luis|NNP ang|DTC isang|PRI_CCP rolyo|NNC ng|CCB sinulidsa|FW dalawang|JJN_CCP pirasong|NNC_CCP metal|NNC ngunit|CCT walang|VBN_CCP nangyari.Pumunta|VBTS si|DTP Tita|NNP Susan|NNP sa|CCT labas|JJD at|CCA pinanood|VBOF ang|DTC mga|DTCP bata|NNC habang|RBW sinusuri|VBTR nila|PRP ang|DTC mga|DTCP bagay|NNC -|PMS bagay|NNC .|PMP "|PMS
+Sumunod|VBAF ,|PMC inilapit|VBTS ni|DTP Luis|NNP ang|DTC isang|PRI_CCP rolyo|NNC ng|CCB sinulidsa|FW dalawang|JJN_CCP pirasong|NNC_CCP metal|NNC ngunit|CCT walang|VBN_CCP nangyari|VBTS .|PMP
+Pumunta|VBAF si|DTP Tita|NNP Susan|NNP sa|CCT labas|JJD at|CCA pinanood|VBOF ang|DTC mga|DTCP bata|NNC habang|RBW sinusuri|VBTR nila|PRP ang|DTC mga|DTCP bagay|NNC -|PMS bagay|NNC .|PMP "|PMS
 Nakikita|VBTR kong|PRS_CCP gusto|VBS mo|PRS ang|DTC mga|DTCP magnet|NNC !|PMS "|PMS
 sabi|VBS ni|DTP Tita|NNP Susan|NNP .|PMP "|PMS
 Naisip|VBTS mo|PRS ba|RBI kung|RBK paano|RBQ sila|PRP gumagana|VBTR_VBAF ?|PMQ "|PMS "|PMS

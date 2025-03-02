@@ -2,9 +2,11 @@ Gusto|VBS ko|PRS lang|RBI naman|RBI na|CCP may|VBH magmahal|VBW sa|CCT akin|PRSP
 Pero|CCT paano|PRQ mangyayari|VBTF iyon|PRO kung|CCR palagi|RBW ako|PRS iniiwasan|VBTR ng|CCB mga|DTCP tao|NNC ?|PMQ
 Iyan|VBTR_VBOF ang|DTC palagi|RBW kong|PRS_CCP iniisip|VBTR .|PMP
 Dahil|CCR sunog|NNC ang|DTC kalahati|PRI ng|CCB aking|PRSP_CCP katawan|NNC ,|PMC walang|VBN_CCP buhok|NNC ,|PMC pangit|JJD at|CCA madaming|JJD_CCP peklat|NNC ,|PMC nag|RBD_CCP tingin|NNC nila|PRP may|VBH nakakahawa|VBTR akong|PRS_CCP sakit|NNC kaya|CCR ayaw|RBF din|RBI nila|PRP sa|CCT akin|PRSP .|PMP
-Gusto|VBS ko|PRS lang|RBI naman|RBI maka|VBW -|PMS kain|NNC ,|PMC maki|NNC -|PMS paglaro|VBW ,|PMC at|CCA mahalin|VBW ng|CCB mga|DTCP tao.Habang|JJD_CCP naghahanap|VBTR ako|PRS ng|CCB pagkain|NNC ,|PMC may|VBH mga|DTCP batang|JJD_CCP binato|VBOF ko|PRS ng|CCB mga|DTCP bato|NNC habang|RBW sumisigaw|VBTR_VBAF ,|PMC "|PMS Nakakadiri|VBTR ka|PRS !|PMQ
+Gusto|VBS ko|PRS lang|RBI naman|RBI maka|VBW -|PMS kain|NNC ,|PMC maki|NNC -|PMS paglaro|VBW ,|PMC at|CCA mahalin|VBW ng|CCB mga|DTCP tao|NNC .|PMP
+Habang|RBW naghahanap|VBTR ako|PRS ng|CCB pagkain|NNC ,|PMC may|VBH mga|DTCP batang|JJD_CCP binato|VBOF ko|PRS ng|CCB mga|DTCP bato|NNC habang|RBW sumisigaw|VBTR_VBAF ,|PMC "|PMS Nakakadiri|VBTR ka|PRS !|PMQ
 Alis|NNP !|PMS "|PMS
-Hindi|RBF ko|PRS sila|PRP pinansin|VBOF at|CCA nagtuloy|VBTS lang|RBI ako|PRS sa|CCT paghahanap|NNC ng|CCB pagkain|NNC ngunit|CCT ,|PMC hindi|RBF sila|PRP tumigil|VBAF kaya|CCR umalis|VBAF na|RBI lang|RBI ako.Gusto|RBR ko|PRS lang|RBI alagaan|VBOF ,|PMC mahalin|VBW .|PMP
+Hindi|RBF ko|PRS sila|PRP pinansin|VBOF at|CCA nagtuloy|VBTS lang|RBI ako|PRS sa|CCT paghahanap|NNC ng|CCB pagkain|NNC ngunit|CCT ,|PMC hindi|RBF sila|PRP tumigil|VBAF kaya|CCR umalis|VBAF na|RBI lang|RBI ako|PRS .|PMP
+Gusto|VBS ko|PRS lang|RBI alagaan|VBOF ,|PMC mahalin|VBW .|PMP
 Ngunit|CCT paano|PRQ ko|PRS mararamdaman|VBTF ang|DTC ganyan|NNC kung|CCR palaging|RBD_CCP masasakit|JJD na|CCP salita|NNC ang|DTC itinatapon|VBTR sa|CCT akin|PRSP saan|PRQ man|RBI ako|PRS magpunta|VBW ?|PMQ
 Mayroon|VBH ding|RBI_CCP mga|DTCP mabubuting|JJD_CCP tao|NNC na|CCP nagpapakain|VBTR sa|CCT akin|PRSP ,|PMC tulad|JJC ng|CCB bata|NNC sa|CCT panaderya|NNC na|CCP nagbigay|VBTS sa|CCT akin|PRSP ng|CCB tinapay|NNC .|PMP "|PMS
 Salamat|RBS sa|CCT pagkain|NNC .|PMP
@@ -14,7 +16,8 @@ Ako|PRS si|DTP Kiko|NNP .|PMP
 Ikaw|NNP ?|PMQ "|PMS
 May|VBH sasabihin|VBTF pa|RBI sana|VBS ako|PRS ngunit|CCT napagpasyahan|VBTS kong|PRS_CCP umalis|VBAF nang|RBD mapansin|VBW ko|PRS ang|DTC dumaraming|JJD_CCP tao|NNC sa|CCT tabi|NNC ng|CCB panaderya|NNC .|PMP "|PMS
 Paalam|NNP ,|PMC "|PMS narinig|VBTS kong|PRS_CCP sabi|VBS ng|CCB bata|NNC .|PMP
-Maraming|PRI_CCP mga|DTCP tao|NNC tulad|JJC ng|CCB Kiko|NNC na|CCP nagpapakain|VBTR sa|CCT akin|PRSP ,|PMC ngunit|CCT mayroon|VBH ding|RBI_CCP ilang|PRQ_CCP na|CCP patuloy|RBD na|CCP itinataboy|VBTR ako.Isang|NNC_CCP araw|NNC ,|PMC habang|RBW naghahanap|VBTR ako|PRS ng|CCB makakain|VBW ,|PMC napadpad|VBTS ako|PRS sa|CCT isang|PRI_CCP bahay|NNC .|PMP
+Maraming|PRI_CCP mga|DTCP tao|NNC tulad|JJC ng|CCB Kiko|NNC na|CCP nagpapakain|VBTR sa|CCT akin|PRSP ,|PMC ngunit|CCT mayroon|VBH ding|RBI_CCP ilang|PRQ_CCP na|CCP patuloy|RBD na|CCP itinataboy|VBTR ako|PRS .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC habang|RBW naghahanap|VBTR ako|PRS ng|CCB makakain|VBW ,|PMC napadpad|VBTS ako|PRS sa|CCT isang|PRI_CCP bahay|NNC .|PMP
 Umakyat|VBAF ako|PRS sa|CCT bakod|NNC at|CCA nakita|VBTS ko|PRS si|DTP Kiko|NNP na|CCP nagdidilig|VBTR ng|CCB mga|DTCP halaman|NNC .|PMP
 Papunta|VBW na|CCP sana|VBS ako|PRS sa|CCT kanya|PRSP ,|PMC may|VBH nakita|VBTS akong|PRS_CCP ahas|NNC na|CCP sumisitsit|VBTR_VBAF sa|CCT likod|NNC niya|PRS .|PMP
 Mabilis|RBD ko|PRS itong|PRO_CCP inatake|VBTS gamit|VBS ang|DTC aking|PRSP_CCP mga|DTCP kuko|NNC .|PMP
@@ -22,13 +25,15 @@ Hissssss|NNP . . .|NNPA "|PMS Umalis|VBAF ka|PRS sa|CCT akin|PRSP !|PMQ
 Umalis|VBAF ka|PRS sa|CCT akin|PRSP !|PMS "|PMS
 sabi|VBS ng|CCB ahas|NNC .|PMP "|PMS
 Hindi|RBF ako|PRS papayag|VBTF na|CCP saktan|VBOF mo|PRS si|DTP Kiko|NNP !|PMS "|PMS
-Sabi|VBS ko.Nang|RBD_CCP makita|VBW ni|DTP Kiko|NNP ang|DTC nangyayari|VBTR ,|PMC mabilis|RBD siyang|PRS_CCP tumakbo|VBAF papasok|RBD ng|CCB bahay|NNC ,|PMC sumigaw|VBAF ,|PMC "|PMS Papa|NNP ,|PMC dali|JJD !|PMS
+Sabi|VBS ko|PRS .|PMP
+Nang|RBW makita|VBW ni|DTP Kiko|NNP ang|DTC nangyayari|VBTR ,|PMC mabilis|RBD siyang|PRS_CCP tumakbo|VBAF papasok|RBD ng|CCB bahay|NNC ,|PMC sumigaw|VBAF ,|PMC "|PMS Papa|NNP ,|PMC dali|JJD !|PMS
 May|VBH ahas|NNC sa|CCT damuhan|NNC natin|PRP !|PMS "|PMS
 Nung|RBW_CCP wala|VBN pa|RBI ang|DTC ahas|NNC ,|PMC lumayo|VBAF ako|PRS .|PMP
 Mabilis|RBD na|CCP lumabas|VBAF si|DTP Kiko|NNP at|CCA ang|DTC kanyang|PRSP_CCP ama|NNC .|PMP
 Tinuro|VBOF ako|PRS ni|DTP Kiko|NNP .|PMP
 Nang|RBW makita|VBW ko|PRS ang|DTC kanyang|PRSP_CCP ama|NNC na|CCP may|VBH hawak|JJD na|CCP pala|NNC ,|PMC nakaramdam|VBTS ako|PRS ng|CCB takot|NNC .|PMP
-Sasaktan|VBOF niya|PRS ba|RBI ako?Ngunit|CCT_CCA nang|RBW makalapit|VBW siya|PRS ,|PMC dinampot|VBTS niya|PRS ang|DTC ahas|NNC at|CCA inilagay|VBTS sa|CCT loob|NNC ng|CCB sako.Lumapit|RBL_NNP palapit|JJD sakin|VBOF ang|DTC tatay|NNC ni|DTP Kiko|NNP .|PMP "|PMS
+Sasaktan|VBOF niya|PRS ba|RBI ako?Ngunit|CCT_CCA nang|RBW makalapit|VBW siya|PRS ,|PMC dinampot|VBTS niya|PRS ang|DTC ahas|NNC at|CCA inilagay|VBTS sa|CCT loob|NNC ng|CCB sako|NNC .|PMP
+Lumapit|VBTS_VBAF palapit|JJD sakin|VBOF ang|DTC tatay|NNC ni|DTP Kiko|NNP .|PMP "|PMS
 Kiko|NNP ang|DTC sasabihin|VBTF mo|PRS sa|CCT pusa|NNC ?|PMQ
 tanong|NNC nya|PRS .|PMP
 Aalis|NNP na|CCP sana|VBS ako|PRS ng|CCB magsalita|VBAF si|DTP Kiko|NNP ,|PMC "|PMS Salamat|RBS !|PMS "|PMS

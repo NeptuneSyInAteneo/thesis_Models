@@ -1,12 +1,18 @@
 Ito|PRO ang|DTC aking|PRSP_CCP katawanIto|NNC ang|DTC aking|PRSP_CCP buhok|NNC .|PMP
 Ang|DTC aking|PRSP_CCP buhok|NNC ay|LM proteksion|FW ng|CCB aking|PRSP_CCP anitIto|NNC ang|DTC aking|PRSP_CCP mga|DTCP mata|NNC .|PMP
-Ginagamit|VBTR ito|PRO upang|CCB makakita.Ito|VBW ang|DTC aking|PRSP_CCP Tenga|NNC .|PMP
-Gamit|VBS ito|PRO upang|CCB makarinig.Ito|VBW ang|DTC aking|PRSP_CCP ilong|NNC .|PMP
-Ginagamit|VBTR ito|PRO upang|CCB makahinga|VBW at|CCA makaamoy.Ito|VBW ang|DTC aking|PRSP_CCP bibig|NNC .|PMP
-Gamit|VBS ko|PRS ito|PRO upang|CCB makainom|VBW ,|PMC makakain|VBW ,|PMC at|CCA makapagsalita.Ito|VBW ang|DTC aking|PRSP_CCP ipin|NNC .|PMP
+Ginagamit|VBTR ito|PRO upang|CCB makakita|VBW .|PMP
+Ito|PRO ang|DTC aking|PRSP_CCP Tenga|NNC .|PMP
+Gamit|VBS ito|PRO upang|CCB makarinig|VBW .|PMP
+Ito|PRO ang|DTC aking|PRSP_CCP ilong|NNC .|PMP
+Ginagamit|VBTR ito|PRO upang|CCB makahinga|VBW at|CCA makaamoy|VBW .|PMP
+Ito|PRO ang|DTC aking|PRSP_CCP bibig|NNC .|PMP
+Gamit|VBS ko|PRS ito|PRO upang|CCB makainom|VBW ,|PMC makakain|VBW ,|PMC at|CCA makapagsalita|VBW .|PMP
+Ito|PRO ang|DTC aking|PRSP_CCP ipin|NNC .|PMP
 Gamit|VBS ko|PRS ito|PRO upang|CCB makanguya|VBW ng|CCB pagkainIto|VBW ang|DTC aking|PRSP_CCP dila|NNC .|PMP
 Gamit|VBS ko|PRS ito|PRO upang|CCB makalasaIto|VBW ang|DTC aking|PRSP_CCP mga|DTCP kamay|NNC .|PMP
-Gamit|VBS ko|PRS ito|PRO upang|CCB makahawak|VBW makapagsulat.Ito|VBW ang|DTC aking|PRSP_CCP mga|DTCP paa|NNC .|PMP
-Gamit|VBS ko|PRS ito|PRO upang|CCB makatayo|VBW ,|PMC makalakag|VBW at|CCA makatakbo.Pum|VBW Anh|NNP Lao|NNP is|FW a|FW nonprofit|FW ,|PMC social|FW enterprise|FW that|FW publishes|FW children|FW 's|FW books|FW and|FW promotes|FW reading|FW for|FW disadvantaged|FW groups|FW .|PMP
+Gamit|VBS ko|PRS ito|PRO upang|CCB makahawak|VBW makapagsulat|VBW .|PMP
+Ito|PRO ang|DTC aking|PRSP_CCP mga|DTCP paa|NNC .|PMP
+Gamit|VBS ko|PRS ito|PRO upang|CCB makatayo|VBW ,|PMC makalakag|VBW at|CCA makatakbo|VBW .|PMP
+Pum|NNP Anh|NNP Lao|NNP is|FW a|FW nonprofit|FW ,|PMC social|FW enterprise|FW that|FW publishes|FW children|FW 's|FW books|FW and|FW promotes|FW reading|FW for|FW disadvantaged|FW groups|FW .|PMP
 Pum|NNP Anh|NNP conducts|FW writers|FW '|PMS workshops|FW with|FW children|FW and|FW adults|FW to|FW develop|FW stories|FW –|FW including|FW for|FW children|FW with|FW disabilities|FW and|FW for|FW ethnic|FW minorities|FW .|PMP
 Pum|NNP Anh|NNP has|FW developed|FW ,|PMC designed|FW and|FW illustrated|FW a|FW wide|FW range|FW of|FW teaching|FW and|FW reading|FW materials|FW for|FW UN|NNPA agencies|FW and|FW NGOs|FW ,|PMC working|FW closely|FW with|FW the|FW Ministry|FW of|FW Educationand|NNP Sports|NNP and|FW the|FW Ministry|FW of|FW Information|NNP ,|PMC Culture|NNP and|FW Tourism|NNP .|PMP

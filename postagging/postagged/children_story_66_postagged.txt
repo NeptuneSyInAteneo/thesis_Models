@@ -41,12 +41,14 @@ Para|CCT lumaki|VBAF ako|PRS na|CCP malakas|JJD !|PMS "|PMS
 dagdag|JJD pa|RBI niya|PRS .|PMP
 At|CCA pinakita|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP bisig|NNC kay|DTP Tongtong|NNP .|PMP "|PMS
 O|NNPA ,|PMC sasama|VBTF ka|PRS ba|RBI sa|CCT aming|PRSP_CCP paglalaro|NNC ,|PMC Tongtong|RBT_CCP ?|PMQ "|PMS
-tanong|NNC ni|DTP Akay.Matipid|NNP na|CCP ngiti|NNC ang|DTC sagot|NNC ni|DTP Tongtong|NNP .|PMP
+tanong|NNC ni|DTP Akay|NNP .|PMP
+Matipid|JJD na|CCP ngiti|NNC ang|DTC sagot|NNC ni|DTP Tongtong|NNP .|PMP
 At|CCA niyakap|VBTS ni|DTP Tongtong|NNP ang|DTC kaniyang|PRSP_CCP Nanay|NNC .|PMP "|PMS
 Nanay|NNP ,|PMC sasama|VBTF ako|PRS kina|DTPP Akay|NNP para|CCT maligo|VBW sa|CCT ulan|NNC at|CCA maglaro|VBAF .|PMP "|PMS "|PMS
 Oo|RBT ,|PMC "|PMS sagot|NNC ng|CCB kaniyang|PRSP_CCP nanay|NNC na|CCP nakangiti|JJD .|PMP "|PMS
 Mag|NNP -|PMS ingat|FW kayo|PRP ,|PMC ha|NNCA ?|PMQ "|PMS "|PMS
-Opo|NNP ,|PMC Nanay|NNP ,|PMC "|PMS sagot|NNC ni|DTP Tongtong.Agad|NNP na|CCP tumakbo|VBAF sina|DTPP Akay|NNP ,|PMC Nene|NNP ,|PMC at|CCA Berto|NNP sa|CCT ulan|NNC ,|PMC habang|RBW nakasunod|RBD na|CCP naglalakad|VBTR si|DTP Tongtong|NNP .|PMP
+Opo|NNP ,|PMC Nanay|NNP ,|PMC "|PMS sagot|NNC ni|DTP Tongtong|NNP .|PMP
+Agad|RBD na|CCP tumakbo|VBAF sina|DTPP Akay|NNP ,|PMC Nene|NNP ,|PMC at|CCA Berto|NNP sa|CCT ulan|NNC ,|PMC habang|RBW nakasunod|RBD na|CCP naglalakad|VBTR si|DTP Tongtong|NNP .|PMP
 Nakasimangot|RBD siyang|PRS_CCP lumingon|VBAF sa|CCT kaniyang|PRSP_CCP Nanay|NNC ,|PMC na|CCP agad|RBW namang|RBI_CCP sinuklian|VBOF ng|CCB isang|PRI_CCP ngiti|NNC ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP
 Tumingin|VBAF sa|CCT kalangitan|NNC si|DTP Tongtong|NNP at|CCA huminga|VBAF nang|RBD malalim|RBD bago|RBW tumakbong|VBAF_CCP sumisigaw|VBTR_VBAF ,|PMC "|PMS Sali|FW ako|PRS !|PMQ
 Sali|NNP ako|PRS !|PMS "|PMS

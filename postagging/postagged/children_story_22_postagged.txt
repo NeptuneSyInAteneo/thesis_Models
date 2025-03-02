@@ -5,7 +5,8 @@ Bilis|NNP ,|PMC Manang|NNC_CCP Amanda|NNP .|PMP
 Baka|NNP bumuhos|VBAF na|CCP ang|DTC malakas|JJD na|CCP ulan|NNC !|PMS "|PMS
 sabi|VBS ni|DTP Epi|NNP sa|CCT kaniyang|PRSP_CCP nakatatandang|JJD_CCP kapatid|NNC .|PMP "|PMS
 Wala|VBN kasi|CCR tayong|PRP_CCP payong|PRO_CCP !|PMS "|PMS
-Hinila|VBOF ni|DTP Epi|NNP si|DTP Manang|NNP Amanda|NNP at|CCA nagmadali|VBTS silang|PRP_CCP umuwi.Pagdating|VBAF sa|CCT kanilang|PRSP_CCP bahay|NNC ,|PMC ay|LM siya|PRS ring|RBI_CCP pagbagsak|NNC ng|CCB malakas|JJD na|CCP ulan|NNC .|PMP
+Hinila|VBOF ni|DTP Epi|NNP si|DTP Manang|NNP Amanda|NNP at|CCA nagmadali|VBTS silang|PRP_CCP umuwi|VBAF .|PMP
+Pagdating|VBW sa|CCT kanilang|PRSP_CCP bahay|NNC ,|PMC ay|LM siya|PRS ring|RBI_CCP pagbagsak|NNC ng|CCB malakas|JJD na|CCP ulan|NNC .|PMP
 Dumiretso|VBAF ang|DTC naghahabol|VBTR hiningang|NNC_CCP si|DTP Manang|NNP Amanda|NNP sa|CCT kaniyang|PRSP_CCP nanay|NNC .|PMP "|PMS
 Nanay|NNP ,|PMC sabi|VBS mo|PRS sa|CCT akin|PRSP bibilhan|VBTF mo|PRS ako|PRS ng|CCB bagong|JJD_CCP manika|NNC ?|PMQ
 May|VBH nakita|VBTS akong|PRS_CCP napakagandang|JJCS_JJD_CCP manika|NNC sa|CCT tindahan|NNC ni|DTP Pe|NNP Hua|NNP .|PMP
@@ -44,7 +45,8 @@ Mas|JJCC mahalaga|JJD ang|DTC payong|NNC para|CCT hindi|RBF tayo|PRP mabasa|VBW 
 Baka|NNP magkasakit|VBW tayo|PRP dahil|CCR sa|CCT ulan|NNC .|PMP
 Hayaan|VBOF mo|PRS na|RBI ang|DTC manika|NNC dahil|CCR hindi|RBF naman|RBI nilalagnat|VBTR at|CCA inuubo|VBTR yan|PRO .|PMP
 Nagbubukas|NNP -|PMS saralang|NNC ang|DTC mata|NNC niyan|PRO !|PMS "|PMS
-Nagsitawa|VBTS ang|DTC dalawa.Nakaakbay|NNC sa|CCT isa|PRI '|PMS t|NNCA isa|PRI ang|DTC dalawa|JJN habang|RBW pauwi|JJD sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP
+Nagsitawa|VBTS ang|DTC dalawa|CDB .|PMP
+Nakaakbay|VBTS sa|CCT isa|PRI '|PMS t|NNCA isa|PRI ang|DTC dalawa|JJN habang|RBW pauwi|JJD sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP
 Bumuhos|VBAF ang|DTC ulan|NNC pero|CCT hindi|RBF sila|PRP nababasa|VBTS dahil|CCR sa|CCT malaking|JJD_CCP payong|NNC .|PMP
 Naaliw|VBTS sila|PRP sa|CCT tilamsik|NNC ng|CCB tubig|NNC at|CCA daloy|NNC ng|CCB ulan|NNC sa|CCT gilid|JJD ng|CCB payong|NNC .|PMP "|PMS
 Ano|PRQ kaya|CCR ang|DTC miryenda|NNC sa|CCT bahay|NNC ?|PMQ "|PMS
@@ -61,7 +63,8 @@ Talaga|NNP Epi|NNP ?|PMQ
 Mabuti|JJD kung|CCR ganoon|PRC !|PMQ
 Salamat|RBS sa|CCT Diyos|NNP ,|PMC hindi|RBF kayo|PRP nabasa|VBTS ng|CCB ulan|NNC .|PMP "|PMS
 Hinawakan|VBOF ng|CCB Nanay|NNC ang|DTC ulo|NNC ng|CCB mga|DTCP anak|NNC .|PMP
-Nakapasa|VBTS sila|PRP sa|CCT hamong|NNC_CCP ibinigay|VBOF sa|CCT kanila.Gustong|NNC_CCP -|PMS gusto|VBS ni|DTP Manang|NNP Amanda|NNP ang|DTC magandang|JJD_CCP manika|NNC .|PMP
+Nakapasa|VBTS sila|PRP sa|CCT hamong|NNC_CCP ibinigay|VBTS sa|CCT kanila|PRSP .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS ni|DTP Manang|NNP Amanda|NNP ang|DTC magandang|JJD_CCP manika|NNC .|PMP
 Kahit|CCT ang|DTC kapatid|NNC niya|PRS na|CCP si|DTP Epi|NNP ay|LM gusto|VBS rin|RBI ang|DTC manika|NNC para|CCT sa|CCT kaniyang|PRSP_CCP ate|NNC .|PMP
 Kahit|CCT si|DTP Epi|NNP ay|LM may|VBH gusto|VBS ring|RBI_CCP bilhin|VBOF pero|CCT kulang|JJD ang|DTC kanilang|PRSP_CCP pambili|JJD .|PMP
 Ano|PRQ kaya|CCR ang|DTC gagawin|VBTF ng|CCB magkapatid|NNC ?|PMQ

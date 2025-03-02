@@ -1,37 +1,66 @@
-PUmunta|VBTS_VBAF si|DTP Faith|NNP sa|CCT bahay|NNC ni|DTP Rosma.Nais|NNP niyang|PRS_CCP pakainin|VBOF ang|DTC mga|DTCP kalapati.Ngunit|NNC labis|JJCS labis|JJCS ang|DTC kanyang|PRSP_CCP naisaboy|VBTS na|CCP patuka.Krook!krook|RBD !|PMQ
+PUmunta|VBTS_VBAF si|DTP Faith|NNP sa|CCT bahay|NNC ni|DTP Rosma|NNP .|PMP
+Nais|VBS niyang|PRS_CCP pakainin|VBOF ang|DTC mga|DTCP kalapati|NNC .|PMP
+Ngunit|CCT labis|JJCS labis|JJCS ang|DTC kanyang|PRSP_CCP naisaboy|VBTS na|CCP patuka|NNC .|PMP
+Krook!krook|NNP !|PMS
 Nangitlog|VBTS ang|DTC kalapati|NNC .|PMP
 Ay|NNP ,|PMC bongga|FW !|PMS
-Ano|PRQ kaya|CCR ang|DTC hitsura|NNC ng|CCB itlog|NNC niya.Dahan|NNP -|PMS dahang|NNC_CCP lumapit|VBAF si|DTP Faith|NNP .|PMP
+Ano|PRQ kaya|CCR ang|DTC hitsura|NNC ng|CCB itlog|NNC niya|PRS .|PMP
+Dahan|NNP -|PMS dahang|NNC_CCP lumapit|VBAF si|DTP Faith|NNP .|PMP
 Biglang|RBD_CCP nagulat|VBTS ang|DTC kalapati|NNC at|CCA pumagaspas|VBAF ang|DTC kanyang|PRSP_CCP mga|DTCP pakpak|NNC at|CCA kumalat|VBAF ang|DTC kanyang|PRSP_CCP mga|DTCP balahibo|NNC .|PMP
 Dahilan|CCR kaya|CCR nagsimulang|VBTS_CCP bumahing|VBAF si|DTP FaithBiglang|NNP lumipad|VBAF ang|DTC kalapati|NNC at|CCA sinubukang|VBOF_CCP niyang|PRS_CCP habulin|VBOF ito|PRO .|PMP
-Kaya|CCR nang|RBW makita|VBW ni|DTP Rosma|NNP na|CCP nakakakalat|VBTR ang|DTC mga|DTCP itlog|NNC nito|PRO ay|LM agad|RBD -|PMS agad|RBW niya|PRS itong|PRO_CCP pinulot|VBTS upang|CCB iligtas.Hindi|VBOF nahabol|VBTS ni|DTP Faith|NNP ang|DTC kalapati|NNC .|PMP
+Kaya|CCR nang|RBW makita|VBW ni|DTP Rosma|NNP na|CCP nakakakalat|VBTR ang|DTC mga|DTCP itlog|NNC nito|PRO ay|LM agad|RBD -|PMS agad|RBW niya|PRS itong|PRO_CCP pinulot|VBTS upang|CCB iligtas|VBOF .|PMP
+Hindi|RBF nahabol|VBTS ni|DTP Faith|NNP ang|DTC kalapati|NNC .|PMP
 Sino|PRQ kaya|CCR ang|DTC maglilimlim|VBTF sa|CCT mga|DTCP itlo?Mayroon|VBH kaya|CCR ibang|PRI_CCP kalapati|NNC na|CCP maaring|RBM maglimlim|VBW sa|CCT mga|DTCP itlog|NNC .|PMP "|PMS
 Naku|NNP ,|PMC nagmumukmok|VBTR din|RBI ang|DTC inahin|VBOF ni|DTP Uncle|NNP Joko|NNP ,|PMC "|PMS pag|CCR -|PMS alala|NNC ni|DTP Rosma|NNP .|PMP
 Baka|CCU mapalitan|VBW ng|CCB inahing|RBD_CCP manok|NNC ang|DTC inang|NNC_CCP kalapati|NNC .|PMP
-Mabilis|RBD na|CCP tinungo|VBOF nina|DTPP Fatih|NNP at|CCA Rosma|NNP ang|DTC bahay|NNC ni|DTP Uncle|NNP Joko.Naroon|NNP ang|DTC inahin|VBOF .|PMP
-Maingat|RBD na|CCP inilagay|VBTS ni|DTP Fatih|NNP ang|DTC itlog|NNC ng|CCB kalapati|NNC malapit|JJD sa|CCT kanya.Naroon|NNC ang|DTC inahin.Pinihit|VBTS ng|CCB inahin|VBOF ang|DTC kanyang|PRSP_CCP ulo|NNC at|CCA bumangon|VBAF mula|RBL sa|CCT kanyang|PRSP_CCP pugad|NNC .|PMP
-Napaatras|VBTS si|DTP Fatih|NNP dahil|CCR sa|CCT pagtataka.Nagalit|VBW ang|DTC inaheng|NNC_CCP manok|NNC at|CCA sinugod|VBTS si|DTP Faith|NNP .|PMP
-Sila|PRP '|PMS y|FW napatakbo|VBTS papalayo.Sa|RBW wakas|RBW ay|LM tumigil|VBAF na|CCP sa|CCT paghabol|NNC sa|CCT kanila|PRSP ang|DTC inahing|JJD_CCP manok|NNC .|PMP
+Mabilis|RBD na|CCP tinungo|VBOF nina|DTPP Fatih|NNP at|CCA Rosma|NNP ang|DTC bahay|NNC ni|DTP Uncle|NNP Joko|NNP .|PMP
+Naroon|PRL ang|DTC inahin|VBOF .|PMP
+Maingat|RBD na|CCP inilagay|VBTS ni|DTP Fatih|NNP ang|DTC itlog|NNC ng|CCB kalapati|NNC malapit|JJD sa|CCT kanya|PRSP .|PMP
+Naroon|PRL ang|DTC inahin|VBOF .|PMP
+Pinihit|NNP ng|CCB inahin|VBOF ang|DTC kanyang|PRSP_CCP ulo|NNC at|CCA bumangon|VBAF mula|RBL sa|CCT kanyang|PRSP_CCP pugad|NNC .|PMP
+Napaatras|VBTS si|DTP Fatih|NNP dahil|CCR sa|CCT pagtataka|NNC .|PMP
+Nagalit|VBTS ang|DTC inaheng|NNC_CCP manok|NNC at|CCA sinugod|VBTS si|DTP Faith|NNP .|PMP
+Sila|PRP '|PMS y|FW napatakbo|FW papalayo|NNC .|PMP
+Sa|CCT wakas|RBW ay|LM tumigil|VBAF na|CCP sa|CCT paghabol|NNC sa|CCT kanila|PRSP ang|DTC inahing|JJD_CCP manok|NNC .|PMP
 Umuwi|VBAF sina|DTPP Fatih|NNP at|CCA Rosma|NNP .|PMP
 Bumuntong|NNP_CCP hininga|NNC si|DTP Rosma|NNP .|PMP
-Sinisi|VBTS niya|PRS si|DTP Fatih|NNP sa|CCT nangyari.May|RBN ibang|PRI_CCP ideya|NNC si|DTP Fatih|NNP .|PMP
+Sinisi|VBTS niya|PRS si|DTP Fatih|NNP sa|CCT nangyari|VBTS .|PMP
+May|VBH ibang|PRI_CCP ideya|NNC si|DTP Fatih|NNP .|PMP
 Bumaba|VBAF ang|DTC tingin|NNC niya|PRS kay|DTP Kiti|NNP na|CCP pusa|NNC .|PMP
 Paano|PRQ kung|CCR si|DTP Kiti|NNP ang|DTC mag|VBW -|PMS alaga|NNC ng|CCB itlog|NNC ?|PMQ
-Pumayag|VBAF naman|RBI si|DTP Rosma.Dahan|NNP -|PMS dahang|NNC_CCP binuhat|VBOF ni|DTP Fatih|NNP si|DTP Kiti.Inilapag|NNP niya|PRS si|DTP Kiti|NNP sa|CCT ibabaw|NNC ng|CCB itlog|NNC .|PMP
-Nagsimulang|VBTS_CCP kumalma|VBAF si|DTP Kiti|NNP bilang|CCT pagtutol.Meow|NNC meow|FW !|PMS
+Pumayag|VBAF naman|RBI si|DTP Rosma|NNP .|PMP
+Dahan|NNP -|PMS dahang|NNC_CCP binuhat|VBOF ni|DTP Fatih|NNP si|DTP Kiti|NNP .|PMP
+Inilapag|VBTS niya|PRS si|DTP Kiti|NNP sa|CCT ibabaw|NNC ng|CCB itlog|NNC .|PMP
+Nagsimulang|VBTS_CCP kumalma|VBAF si|DTP Kiti|NNP bilang|CCT pagtutol|NNC .|PMP
+Meow|NNP meow|FW !|PMS
 Nainis|VBTS si|DTP kiti|NNC at|CCA pilit|RBD isilang|RBD_CCP kalmutin|VBOF .|PMP
-Ano|PRQ pa|RBI kaya|CCR ang|DTC ating|PRSP_CCP gagawin|VBTF para|CCT malimliman|VBW ang|DTC mga|DTCP itlog?Naisip|VBTR nila|PRP na|CCP ilagay|VBOF ang|DTC mga|DTCP itlog|NNC sa|CCT "|PMS incubator|FW "|PMS ngunit|CCT sira|JJD pala|NNC ito.Ipinaliwang|VBTS_CCP ni|DTP Rosma|NNP na|CCP maaring|RBM gumana|VBAF ang|DTC incubator|NNC kapag|CCR ito|PRO ay|LM may|VBH ilaw|NNC .|PMP
-Dahil|CCR ang|DTC ilaw|NNC ang|DTC nagpapainit|VBTR sa|CCT mga|DTCP itlog.Naisip|VBTR nilang|PRP_CCP gumawa|VBAF ng|CCB "|PMS incubator|FW "|PMS na|CCP gawa|VBS sa|CCT mga|DTCP kartoon.Tinulungan|NNC sila|PRP ng|CCB tatay|NNC ni|DTP RosmaTinipon|NNP lahat|PRI nila|PRP ang|DTC mga|DTCP gagamitin.At|FW nagsimula|VBTS na|CCP silang|PRP_CCP gumawa.Yeheyy|VBTR_VBAF :|PMS nagawa|VBTS rin|RBI namin.Kailangan|RBD nilang|PRP_CCP mailagay|VBW amg|NNCA mga|DTCP itlog|NNC sa|CCT "|PMS incubator|FW "|PMS Paano|PRQ kaya|CCR natin|PRP ipwepwesto.Napagkasunduan|VBTR nila|PRP na|CCP magbato|VBAF -|PMS bato|NNC pick.Nanalo|NNC si|DTP Rosma|NNP at|CCA sinimulan|VBTS na|RBI niya|PRS ayusin|VBOF ang|DTC mga|DTCP itlog.Araw|NNP -|PMS araw|NNC minamasdan|VBTF nila|PRP ang|DTC mga|DTCP itlog.Kailangan|VBTR laging|RBW_CCP nakabukas|VBTS ang|DTC ilaw.Nilalagyan|VBTF din|RBI ni|DTP rosma|NNC ng|CCB tubig|NNC ang|DTC lalagyan|NNC .|PMP
-Kailangan|VBS laging|RBW_CCP basa|JJD ang|DTC paligid|JJD nitoAng|NNC_CCP mga|DTCP itlog|NNC ay|LM dapat|VBS ding|RBI_CCP ibalik|VBOF nang|RBD madalas.Makalipas|VBW ang|DTC tatlong|JJN_CCP linggo.Kinuha|VBTR nila|PRP ang|DTC ang|DTC mga|DTCP itlog|NNC sa|CCT incubator|NNC .|PMP
+Ano|PRQ pa|RBI kaya|CCR ang|DTC ating|PRSP_CCP gagawin|VBTF para|CCT malimliman|VBW ang|DTC mga|DTCP itlog?Naisip|VBTR nila|PRP na|CCP ilagay|VBOF ang|DTC mga|DTCP itlog|NNC sa|CCT "|PMS incubator|FW "|PMS ngunit|CCT sira|JJD pala|NNC ito|PRO .|PMP
+Ipinaliwang|NNP_CCP ni|DTP Rosma|NNP na|CCP maaring|RBM gumana|VBAF ang|DTC incubator|NNC kapag|CCR ito|PRO ay|LM may|VBH ilaw|NNC .|PMP
+Dahil|CCR ang|DTC ilaw|NNC ang|DTC nagpapainit|VBTR sa|CCT mga|DTCP itlog|NNC .|PMP
+Naisip|VBTS nilang|PRP_CCP gumawa|VBAF ng|CCB "|PMS incubator|FW "|PMS na|CCP gawa|VBS sa|CCT mga|DTCP kartoon|NNC .|PMP
+Tinulungan|VBOF sila|PRP ng|CCB tatay|NNC ni|DTP RosmaTinipon|NNP lahat|PRI nila|PRP ang|DTC mga|DTCP gagamitin|VBTF .|PMP
+At|CCA nagsimula|VBTS na|CCP silang|PRP_CCP gumawa|VBAF .|PMP
+Yeheyy|NNP :|PMS nagawa|VBTS rin|RBI namin|PRP .|PMP
+Kailangan|VBS nilang|PRP_CCP mailagay|VBW amg|NNCA mga|DTCP itlog|NNC sa|CCT "|PMS incubator|FW "|PMS Paano|PRQ kaya|CCR natin|PRP ipwepwesto|VBTR .|PMP
+Napagkasunduan|VBTS nila|PRP na|CCP magbato|VBAF -|PMS bato|NNC pick|NNC .|PMP
+Nanalo|VBTS si|DTP Rosma|NNP at|CCA sinimulan|VBTS na|RBI niya|PRS ayusin|VBOF ang|DTC mga|DTCP itlog|NNC .|PMP
+Araw|NNP -|PMS araw|NNC minamasdan|VBTF nila|PRP ang|DTC mga|DTCP itlog|NNC .|PMP
+Kailangan|VBS laging|RBW_CCP nakabukas|VBTS ang|DTC ilaw|NNC .|PMP
+Nilalagyan|VBTR din|RBI ni|DTP rosma|NNC ng|CCB tubig|NNC ang|DTC lalagyan|NNC .|PMP
+Kailangan|VBS laging|RBW_CCP basa|JJD ang|DTC paligid|JJD nitoAng|NNC_CCP mga|DTCP itlog|NNC ay|LM dapat|VBS ding|RBI_CCP ibalik|VBOF nang|RBD madalas|RBD .|PMP
+Makalipas|VBW ang|DTC tatlong|JJN_CCP linggo|NNC .|PMP
+Kinuha|VBOF nila|PRP ang|DTC ang|DTC mga|DTCP itlog|NNC sa|CCT incubator|NNC .|PMP
 Naku|NNP !|PMS
 Ano|PRQ ba|RBI yang|PRO mabahong|JJD_CCP amoy|NNC ?|PMQ
-Baka|NNP mali|JJD ang|DTC ating|PRSP_CCP ginawa|VBTS wika|NNC nila.Subalit|VBTR ang|DTC iba|PRI naman|RBI ay|LM maayos|JJD pa|RBI .|PMP
+Baka|NNP mali|JJD ang|DTC ating|PRSP_CCP ginawa|VBOF wika|NNC nila|PRP .|PMP
+Subalit|CCT ang|DTC iba|PRI naman|RBI ay|LM maayos|JJD pa|RBI .|PMP
 Dalawa|CDB sa|CCT mga|DTCP ito|PRO at|CCA ay|LM napisaKanila|VBTS itong|PRO_CCP masinsin|JJD na|CCP pinagmasdan|VBRF .|PMP
 At|CCA nakita|VBTS nila|PRP na|CCP may|VBH maliliit|JJD na|CCP mga|DTCP paa|NNC at|CCA ulo|NNC ng|CCB kalapati|NNC .|PMP
 Sa|CCT wakas|RBW tagumpay|NNC na|CCP natulungan|VBTS ni|DTP faith|FW si|DTP RosmaAlamin|NNP natin|PRP Paano|PRQ ang|DTC pagpapapisa|NNC ng|CCB mga|DTCP itlog|NNC .|PMP
 Pagpapapisa|NNP ng|CCB mga|DTCP ItlogMinsan|NNC ang|DTC mga|DTCP kalapati|NNC ay|LM humihinto|VBTR_VBAF sa|CCT pagmumuni|NNC -|PMS muni|FW ng|CCB kanilang|PRSP_CCP mga|DTCP itlog|NNC .|PMP
 Isa|PRI sa|CCT mga|DTCP dahilan|NNC ay|LM ang|DTC malakas|JJD na|CCP tunog|NNC ,|PMC halimbawa|NNC ang|DTC pagbahing|NNC ni|DTP Fatih|NNP sa|CCT kwentong|NNC_CCP ito|PRO .|PMP
-Ang|DTC mga|DTCP breeder|FW ay|LM gagamit|VBTF ng|CCB mga|DTCP incubator|NNC upang|CCB magpalumo|VBW ng|CCB malalaking|JJD_CCP dami|NNC ng|CCB mga|DTCP itlog|NNC sa|CCT loob|NNC ng|CCB maikling|JJD_CCP panahon.This|FW book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
+Ang|DTC mga|DTCP breeder|FW ay|LM gagamit|VBTF ng|CCB mga|DTCP incubator|NNC upang|CCB magpalumo|VBW ng|CCB malalaking|JJD_CCP dami|NNC ng|CCB mga|DTCP itlog|NNC sa|CCT loob|NNC ng|CCB maikling|JJD_CCP panahon|NNC .|PMP
+This|NNP book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
 This|NNP project|FW involves|FW almost|FW all|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW designers|FW .|PMP
 This|NNP book|FW was|FW developed|FW through|FW a|FW book|FW development|FW workshop|FW held|FW in|FW collaboration|FW with|FW Litara|NNP Foundation|NNP and|FW The|NNP Asia|NNP Foundation|NNP through|FW the|FW Let|NNP 's|NNP Read|NNP program|FW with|FW the|FW support|FW of|FW EsteeLauder|NNP Companies|NNP Charity|NNP Foundation|NNP (|PMS ELCCF|NNPA )|PMS .|PMP
 Let|NNP 's|CDB Read|NNP is|FW a|FW digital|FW library|FW platform|FW with|FW a|FW collection|FW of|FW thousands|FW of|FW children|FW 's|FW storybooks|FW that|FW can|FW be|FW accessed|FW easily|FW and|FW for|FW free|FW .|PMP

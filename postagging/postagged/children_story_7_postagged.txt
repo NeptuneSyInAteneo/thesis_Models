@@ -1,8 +1,11 @@
-Malamig|JJD na|CCP hangin|NNC ang|DTC humahampas|VBTR_VBAF sa|CCT balat|NNC ni|DTP Tatay|NNP Mario.Inaayos|VBW niya|PRS ang|DTC kaniyang|PRSP_CCP bangka|NNC galing|RBL sa|CCT pangingisda|NNC sa|CCT dagat|NNC ng|CCB Roxas|NNP City|NNP .|PMP
+Malamig|JJD na|CCP hangin|NNC ang|DTC humahampas|VBTR_VBAF sa|CCT balat|NNC ni|DTP Tatay|NNP Mario|NNP .|PMP
+Inaayos|VBTR niya|PRS ang|DTC kaniyang|PRSP_CCP bangka|NNC galing|RBL sa|CCT pangingisda|NNC sa|CCT dagat|NNC ng|CCB Roxas|NNP City|NNP .|PMP
 Ang|DTC kanilang|PRSP_CCP bahay|NNC ay|LM malapit|JJD sa|CCT tabing|FW -|PMS dagat|NNC .|PMP
-Kalmado|JJD ang|DTC dagat|NNC ,|PMC pahiwatig|NNC na|CCP maganda|JJD ang|DTC araw.Noong|NNC_CCP araw|NNC na|CCP iyon|PRO ,|PMC marami|PRI siyang|PRS_CCP nahuli|VBTS na|CCP isda|NNC .|PMP
+Kalmado|JJD ang|DTC dagat|NNC ,|PMC pahiwatig|NNC na|CCP maganda|JJD ang|DTC araw|NNC .|PMP
+Noong|RBW_CCP araw|NNC na|CCP iyon|PRO ,|PMC marami|PRI siyang|PRS_CCP nahuli|VBTS na|CCP isda|NNC .|PMP
 May|VBH managat|NNC ,|PMC sapsap|NNC ,|PMC bulawbulaw|NNC ,|PMC at|CCA tabagak|NNC na|CCP sagana|JJD sagana|NNC ang|DTC Roxas|NNP .|PMP
-Bilang|CCT isang|PRI_CCP mangingisda|NNC ,|PMC binubuhay|VBTR niya|PRS ang|DTC kaniyang|PRSP_CCP limang|JJN_CCP taong|NNC_CCP gulang|NNC na|CCP anak|NNC na|CCP si|DTP Ali.Si|NNP Ali|NNP ay|LM masayang|JJD_CCP nakikipaglaro|VBTR sa|CCT kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Bilang|CCT isang|PRI_CCP mangingisda|NNC ,|PMC binubuhay|VBTR niya|PRS ang|DTC kaniyang|PRSP_CCP limang|JJN_CCP taong|NNC_CCP gulang|NNC na|CCP anak|NNC na|CCP si|DTP Ali|NNP .|PMP
+Si|DTP Ali|NNP ay|LM masayang|JJD_CCP nakikipaglaro|VBTR sa|CCT kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
 Nakita|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP ama|NNC na|CCP naglalakad|VBTR papunta|VBW sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP
 May|VBH dala|JJD siyang|PRS_CCP balde|JJD .|PMP
 Tumakbo|VBAF siya|PRS upang|CCB salubungin|VBOF ang|DTC tatay|NNC .|PMP "|PMS
@@ -44,7 +47,8 @@ tanong|NNC ng|CCB isa|PRI niyang|PRS_CCP kaibigan|NNC .|PMP "|PMS
 Hindi|RBF ko|PRS rin|RBI alam|VBS kung|RBK bakit|RBQ hindi|RBF pa|RBI siya|PRS nakabalik|VBTS ,|PMC "|PMS malungkot|JJD na|CCP sagot|NNC ni|DTP Ali|NNP .|PMP "|PMS
 Mukhang|RBM magdidilim|VBTF na|RBI .|PMP
 Uuwi|NNP na|CCP ako|PRS at|CCA baka|RBM hinahanap|VBTR na|CCP ako|PRS ng|CCB Tatay|NNC ko|PRS .|PMP "|PMS
-Mabilis|RBD na|CCP tumabakbo|VBAF si|DTP Ali|NNP pabalik|VBW sa|CCT kanilang|PRSP_CCP bahay.Habang|JJD_CCP naghahapunan|VBTR ,|PMC tinaong|VBTS ni|DTP Ali|NNP ang|DTC kaniyang|PRSP_CCP tatay|NNC .|PMP "|PMS
+Mabilis|RBD na|CCP tumabakbo|VBAF si|DTP Ali|NNP pabalik|VBW sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP
+Habang|RBW naghahapunan|VBTR ,|PMC tinaong|VBTS ni|DTP Ali|NNP ang|DTC kaniyang|PRSP_CCP tatay|NNC .|PMP "|PMS
 Tatay|NNC ,|PMC kailan|PRQ babalik|VBTF si|DTP Nanay|NNP ?|PMQ "|PMS
 Hindi|RBF sumagot|VBAF si|DTP Tatay|NNP sa|CCT tanong|NNC ni|DTP Ali|NNP .|PMP
 Biglang|RBD_CCP tumahimik|VBAF si|DTP Ali|NNP sa|CCT harap|NNC ng|CCB kaniyang|PRSP_CCP tatay|NNC .|PMP
@@ -59,8 +63,10 @@ Malakas|JJD din|RBI ang|DTC alon|NNC ngayong|RBW_CCP gabi|RBW ,|PMC "|PMS sabi|V
 Hindi|RBF sumagot|VBAF si|DTP Ali|NNP .|PMP
 Pumunta|VBAF sa|CCT likod|NNC ng|CCB bahay|NNC si|DTP Tatay|NNP Mario|NNP para|CCT maghugas|VBW ng|CCB kanilang|PRSP_CCP pinagkainan|VBRF .|PMP
 Nalungkot|VBTS si|DTP Ali|NNP .|PMP
-Lumabas|VBAF siya|PRS na|CCP hindi|RBF nagpaalam|VBTS sa|CCT kaniyang|PRSP_CCP Tatay.Naramdaman|NNC niya|PRS ang|DTC malakas|JJD na|CCP hamapas|NNC ng|CCB hangin|NNC habang|RBW naglalakad|VBTR sa|CCT tabing|NNC_CCP dagat|NNC .|PMP
-Lumapit|VBAF siya|PRS sa|CCT tubig|NNC at|CCA binabad|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC hanggang|RBW lubusang|RBD_CCP nagtampisaw|VBTR sa|CCT dagat.Bigla|NNC siyang|PRS_CCP hinampas|VBOF ng|CCB malakas|JJD na|CCP alon|NNC ng|CCB tubig|NNC .|PMP
+Lumabas|VBAF siya|PRS na|CCP hindi|RBF nagpaalam|VBTS sa|CCT kaniyang|PRSP_CCP Tatay|NNC .|PMP
+Naramdaman|VBTS niya|PRS ang|DTC malakas|JJD na|CCP hamapas|NNC ng|CCB hangin|NNC habang|RBW naglalakad|VBTR sa|CCT tabing|NNC_CCP dagat|NNC .|PMP
+Lumapit|VBAF siya|PRS sa|CCT tubig|NNC at|CCA binabad|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC hanggang|RBW lubusang|RBD_CCP nagtampisaw|VBTR sa|CCT dagat|NNC .|PMP
+Bigla|RBD siyang|PRS_CCP hinampas|VBTS ng|CCB malakas|JJD na|CCP alon|NNC ng|CCB tubig|NNC .|PMP
 Siya|PRS ay|LM natumba|VBTS at|CCA naanod|VBTS .|PMP
 Lumutang|VBTR_VBAF siya|PRS sa|CCT dagat|NNC .|PMP
 May|VBH nainum|VBTS siyang|PRS_CCP tubig|NNC .|PMP
@@ -73,6 +79,7 @@ Ayaw|RBF ko|PRS na|CCP pati|CCA ikaw|PRS ,|PMC mawala|VBW pa|RBI sa|CCT akin|PRS
 Ikaw|NNP na|CCP lang|RBI ang|DTC mayroon|VBH ako|PRS .|PMP "|PMS
 Binuhat|VBTS siya|PRS ng|CCB kaniyang|PRSP_CCP tatay|NNC habang|RBW ang|DTC kanyang|PRSP_CCP ulo|NNC ay|LM nakapatong|VBTS sa|CCT balikat|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP
 Sa|CCT kanilang|PRSP_CCP daan|NNC pauwi|NNC ,|PMC nakita|VBTS ni|DTP Ali|NNP ang|DTC bangka|NNC ng|CCB kaniyang|PRSP_CCP tatay|NNC .|PMP "|PMS
-Mario|NNP Ali|NNP "|PMS ang|DTC nasilayan|VBTS ni|DTP Ali|NNP sa|CCT ilalim|JJD ng|CCB liwanag|NNC ng|CCB buwan.Si|NNP Tatay|NNP Mario|NNP ay|LM isang|PRI_CCP mangingisda|NNC sa|CCT lungsod|NNC ng|CCB Roxas|NNP .|PMP
+Mario|NNP Ali|NNP "|PMS ang|DTC nasilayan|VBTS ni|DTP Ali|NNP sa|CCT ilalim|JJD ng|CCB liwanag|NNC ng|CCB buwan|NNC .|PMP
+Si|DTP Tatay|NNP Mario|NNP ay|LM isang|PRI_CCP mangingisda|NNC sa|CCT lungsod|NNC ng|CCB Roxas|NNP .|PMP
 Kasama|CCB niyang|PRS_CCP namumuhay|VBTR nang|RBW matiwasay|JJD ay|LM ang|DTC kaniyang|PRSP_CCP anak|NNC na|CCP si|DTP Ali|NNP .|PMP
 Kasabay|CCB sa|CCT paglaki|NNC ni|DTP Ali|NNP ang|DTC kanyang|PRSP_CCP tanong|NNC kung|CCR nasaan|JJD ang|DTC kanyang|PRSP_CCP nanay|NNC -|PMS tanong|NNC na|CCP siyang|PRS_CCP magbubuhay|VBW ng|CCB pagmamahal|NNC ni|DTP Tatay|NNP Mario|NNP sa|CCT kanya|PRSP .|PMP

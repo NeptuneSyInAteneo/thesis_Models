@@ -9,19 +9,22 @@ Ikaw|NNP na|CCP ,|PMC "|PMS sabi|VBS ni|DTP Kuya|NNP .|PMP "|PMS
 Ano|PRQ ?|PMQ "|PMS
 Sigaw|NNP ng|CCB bunsong|JJD_CCP babae|NNC .|PMP "|PMS
 Ikaw|NNP na|CCP !|PMS "|PMS
-Mahirap|RBD maglaro|VBAF dahil|CCR sa|CCT lakas|NNC ng|CCB ingay.Sinipa|NNP ng|CCB nakakabatang|JJD_CCP kapatid|NNC ng|CCB buong|PRI_CCP lakas|NNC ,|PMC at|CCA ...|PMS pasok|NNC !|PMS
+Mahirap|RBD maglaro|VBAF dahil|CCR sa|CCT lakas|NNC ng|CCB ingay|NNC .|PMP
+Sinipa|VBTS ng|CCB nakakabatang|JJD_CCP kapatid|NNC ng|CCB buong|PRI_CCP lakas|NNC ,|PMC at|CCA ...|PMS pasok|NNC !|PMS
 Ang|DTC maliit|JJD na|CCP butones|NNC ay|LM lumipad|VBAF ng|CCB sobrang|JJCS_CCP taas|NNC abot|NNC hanggang|RBW langit|NNC .|PMP
 Pagkatapos|VBW ay|LM nahulog|VBTS ito|PRO pababa|RBD at|CCA lagpas|JJD ng|CCB kanilang|PRSP_CCP pugad|NNC .|PMP "|PMS
 Hindi|RBF ...|PMS !|PMQ
 Ang|DTC aking|PRSP_CCP butones|NNC !|PMS "|PMS
 Iyak|NNP ng|CCB batang|JJD_CCP kapatid|NNC .|PMP "|PMS
 Kukunin|VBTF_VBOF ko|PRS yun|PRO para|CCT sa|CCT iyo|PRSP !|PMS "|PMS
-sigaw|NNC ng|CCB kuyang|RBW_CCP ibon|NNC habang|RBW mabilis|RBD siyang|PRS_CCP lumipad|VBAF pababa|JJD sa|CCT puno.Nang|NNC_CCP biglang|JJD_CCP sumigaw|VBAF ang|DTC bunsong|JJD_CCP ibon|NNC ,|PMC "|PMS Pusa|NNP !|PMS "|PMS
+sigaw|NNC ng|CCB kuyang|RBW_CCP ibon|NNC habang|RBW mabilis|RBD siyang|PRS_CCP lumipad|VBAF pababa|JJD sa|CCT puno|NNC .|PMP
+Nang|RBW biglang|RBD_CCP sumigaw|VBAF ang|DTC bunsong|JJD_CCP ibon|NNC ,|PMC "|PMS Pusa|NNP !|PMS "|PMS
 Si|DTP nanay|NNC ,|PMC tatay|NNC at|CCA maliit|JJD na|CCP ibon|NNC ay|LM sumigaw|VBAF lahat|PRI ,|PMC "|PMS Mag|NNC -|PMS ingat|NNC ka|PRS sa|CCT pusa|NNC !|PMS "|PMS "|PMS
 Ay|NNP !|PMS "|PMS
 Muntik|JJD na|CCP mahuli|VBW ng|CCB pusa|NNC si|DTP Kuya|NNP .|PMP
 Hindi|RBF narinig|VBTS ni|DTP Kuya|NNP ang|DTC kanilang|PRSP_CCP mga|DTCP babala|NNC .|PMP
-Dahil|CCR napakaingay|JJCS_JJD ng|CCB makina.Maingay|VBW talaga|RBT ang|DTC mga|DTCP makina|NNC .|PMP
+Dahil|CCR napakaingay|JJCS_JJD ng|CCB makina|NNC .|PMP
+Maingay|RBD talaga|RBT ang|DTC mga|DTCP makina|NNC .|PMP
 Nahihirapan|VBTR ang|DTC mga|DTCP ibon|NNC na|CCP mag|VBW -|PMS usap|NNC .|PMP "|PMS
 Hindi|RBF ito|PRO ligtas|JJD para|CCT sa|CCT atin|PRSP ,|PMC "|PMS sabi|VBS ng|CCB tatay|NNC na|CCP ibon|NNC .|PMP "|PMS
 Kailangan|VBS natin|PRP magmadali|VBAF and|DTC umalis|VBAF mula|RBW dito|PRL .|PMP "|PMS
@@ -31,7 +34,8 @@ Dadalhin|VBTF ko|PRS ang|DTC mga|DTCP paborito|NNC kong|PRS_CCP balahibo|NNC ,|P
 Kukunin|VBTF na|RBI ng|CCB kuyang|RBW_CCP ibon|NNC ang|DTC mga|DTCP balahibo|NNC nang|RBW ......|NNPA "|PMS Bilis|NNP !|PMS
 Paakyat|RBD na|CCP ang|DTC pusa|NNC !|PMS "|PMS
 Sabi|VBS ng|CCB Tatay|NNC .|PMP
-Mabilis|RBD na|CCP umalis|VBAF ang|DTC lahat|PRI sa|CCT pugad.Sa|NNP pagmamadali|VBW ,|PMC naiwan|VBTS ang|DTC paboritong|JJD_CCP balahibo|NNC ng|CCB bunsong|JJD_CCP ibon|NNC .|PMP
+Mabilis|RBD na|CCP umalis|VBAF ang|DTC lahat|PRI sa|CCT pugad|NNC .|PMP
+Sa|CCT pagmamadali|VBW ,|PMC naiwan|VBTS ang|DTC paboritong|JJD_CCP balahibo|NNC ng|CCB bunsong|JJD_CCP ibon|NNC .|PMP
 Malungkot|JJD siyang|PRS_CCP nagpaalam|VBTS dito|PRL .|PMP "|PMS
 Paalam|NNP ,|PMC pugad|NNC ,|PMC paalam|NNC mga|DTCP balahibo|NNC ,|PMC "|PMS sabi|VBS ng|CCB bunsong|JJD_CCP ibon|NNC .|PMP "|PMS
 Paalam|NNP ,|PMC maingay|JJD na|CCP dilaw|JJD na|CCP makina|NNC !|PMS "|PMS
@@ -47,5 +51,6 @@ Pumunta|VBAF ka|PRS dito|PRL ,|PMC bilis|NNC !|PMS "|PMS
 pag|CCR huni|NNC ng|CCB Kuya|NNC .|PMP "|PMS
 Ay|NNP ,|PMC ang|DTC paborito|NNC kong|PRS_CCP malambot|JJD na|CCP balahibo|NNC !|PMS "|PMS
 Hindi|RBF makapaniwala|VBW ang|DTC batang|JJD_CCP kapatid|NNC sa|CCT kanyang|PRSP_CCP nakita|VBTS .|PMP
-Nakapagdala|VBTS si|DTP Nanay|NNP ng|CCB ilan|PRQ habang|RBW sila|PRP ay|LM nag|VBTS -|PMS iimpake.Naging|VBOF_CCP isang|PRI_CCP mahaba|JJD at|CCA nakakapagod|JJD na|CCP araw|NNC ito|PRO para|CCT sa|CCT mga|DTCP ibon|NNC !|PMS
+Nakapagdala|VBTS si|DTP Nanay|NNP ng|CCB ilan|PRQ habang|RBW sila|PRP ay|LM nag|VBTS -|PMS iimpake|FW .|PMP
+Naging|VBTS isang|PRI_CCP mahaba|JJD at|CCA nakakapagod|JJD na|CCP araw|NNC ito|PRO para|CCT sa|CCT mga|DTCP ibon|NNC !|PMS
 Sa|CCT wakas|RBW ,|PMC nakapahinga|VBTS na|CCP sila|PRP sa|CCT kanilang|PRSP_CCP bagong|JJD_CCP maginhawang|JJD_CCP pugad|NNC .|PMP

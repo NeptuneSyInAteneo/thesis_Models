@@ -1,4 +1,11 @@
-Ang|DTC martilyo|NNC ni|DTP Lolo.Iginuhit|NNP ng|CCB Apong|NNC_CCP si|DTP Ngee|NNP ang|DTC martilyo|NNC nang|RBW kanyang|PRSP_CCP Lolo.Ang|JJD_CCP tanin|NNC na|CCP Asian|NNP Eryngo|NNP ni|DTP Lolo.Iginiguhit|NNP ng|CCB apong|NNC_CCP si|DTP Nge|NNP ang|DTC tanim|NNC na|CCP Asian|NNP Eryngo.Ang|NNPA baka|RBM ni|DTP Lolo.Iginuhit|NNP ng|CCB Apong|NNC_CCP si|DTP Ngee|NNP ang|DTC baka|NNC ng|CCB kanyang|PRSP_CCP Lolo.Naglalakad|NNC si|DTP Lolo|NNP papuntang|RBL_CCP Bulwagan|NNC ng|CCB Bayan.Sabi|NNC ni|DTP Lolo|NNP ,|PMC "|PMS Huwag|RBF mong|PRS_CCP iguhit|VBOF si|DTP Lolo|NNP !|PMS "|PMS
+Ang|DTC martilyo|NNC ni|DTP Lolo|NNP .|PMP
+Iginuhit|VBOF ng|CCB Apong|NNC_CCP si|DTP Ngee|NNP ang|DTC martilyo|NNC nang|RBW kanyang|PRSP_CCP Lolo|NNC .|PMP
+Ang|DTC tanin|NNC na|CCP Asian|NNP Eryngo|NNP ni|DTP Lolo|NNP .|PMP
+Iginiguhit|VBTR ng|CCB apong|NNC_CCP si|DTP Nge|NNP ang|DTC tanim|NNC na|CCP Asian|NNP Eryngo|NNP .|PMP
+Ang|DTC baka|NNC ni|DTP Lolo|NNP .|PMP
+Iginuhit|VBOF ng|CCB Apong|NNC_CCP si|DTP Ngee|NNP ang|DTC baka|NNC ng|CCB kanyang|PRSP_CCP Lolo|NNC .|PMP
+Naglalakad|VBTR si|DTP Lolo|NNP papuntang|RBL_CCP Bulwagan|NNC ng|CCB Bayan|NNP .|PMP
+Sabi|VBS ni|DTP Lolo|NNP ,|PMC "|PMS Huwag|RBF mong|PRS_CCP iguhit|VBOF si|DTP Lolo|NNP !|PMS "|PMS
 Mga|DTCP Katanungan|NNC .|PMP
 Anu|CCT ano|PRQ ang|DTC iginuhit|VBTF ng|CCB apong|NNC_CCP si|DTP Ngee|NNP ?|PMQ .|PMP
 Saan|PRQ nag|PRSP_CCP punta|NNC si|DTP Lolo|NNP ?|PMQ .|PMP

@@ -2,7 +2,8 @@ Isang|PRI_CCP gabi|RBW ,|PMC habang|RBW maliwanag|JJD ang|DTC buwan|NNC .|PMP
 Nakasimangot|RBD si|DTP Ason|NNP habang|RBW tinatanaw|VBTR ang|DTC mga|DTCP kalangitan|NNC .|PMP "|PMS
 Ason|NNP ,|PMC bakit|PRQ ka|PRS nakasimagot|VBTR ?|PMQ "|PMS
 Tanong|NNC ng|CCB kaniyang|PRSP_CCP Ulang|NNC_CCP Bayi|JJD na|CCP nagbubukas|VBTR ng|CCB nganga|NNC habang|RBW nakasakay|VBTS sa|CCT duyan|NNC .|PMP "|PMS
-Nilingon|VBTS niya|PRS ang|DTC matanda|JJD at|CCA sinabihan|VBOF na|CCP :|PMS "|PMS Tuwing|RBW nakakakita|VBTR ako|PRS ng|CCB bilog|NNC na|CCP buwan|NNC at|CCA mga|DTCP bituin|NNC ay|LM nalulungkot|VBTR ako|PRS ,|PMC "|PMS nakasimangot|JJD na|CCP sagot|NNC ni|DTP Kabugwasun.Tiningnan|NNP niya|PRS ang|DTC kaniyang|PRSP_CCP apo|NNC at|CCA ngumiti|VBAF .|PMP "|PMS
+Nilingon|VBTS niya|PRS ang|DTC matanda|JJD at|CCA sinabihan|VBOF na|CCP :|PMS "|PMS Tuwing|RBW nakakakita|VBTR ako|PRS ng|CCB bilog|NNC na|CCP buwan|NNC at|CCA mga|DTCP bituin|NNC ay|LM nalulungkot|VBTR ako|PRS ,|PMC "|PMS nakasimangot|JJD na|CCP sagot|NNC ni|DTP Kabugwasun|NNP .|PMP
+Tiningnan|VBOF niya|PRS ang|DTC kaniyang|PRSP_CCP apo|NNC at|CCA ngumiti|VBAF .|PMP "|PMS
 Halika|NNP dito|PRL sa|CCT duyan|NNC dahil|CCR ikekwento|VBOF ko|PRS sa|CCT iyo|PRSP ang|DTC iba|PRI '|PMS t|NNCA -|PMS ibang|PRI_CCP pormasyon|NNC ng|CCB mga|DTCP bituin|NNC ,|PMC "|PMS pag|CCR -|PMS anyaya|NNC ni|DTP Ulang|NNP Bayi|NNP sa|CCT kaniyang|PRSP_CCP apo|NNC .|PMP "|PMS
 Sige|NNP ,|PMC Ulang|NNP !|PMS
 Makikinig|VBTF ako|PRS ng|CCB mabuti|RBD sa|CCT iyo|PRSP .|PMP "|PMS "|PMS

@@ -19,14 +19,16 @@ Baka|NNP makakita|VBW na|CCP talaga|RBT ako|PRS ng|CCB barko|NNC ,|PMC "|PMS sun
 Napatigil|VBTS ako|PRS sa|CCT ginagawa|VBTR ko|PRS nang|RBW makita|VBW kong|PRS_CCP hindi|RBF siya|PRS excited|FW katulad|JJC ko|PRS .|PMP "|PMS
 Pani|NNP ,|PMC paano|PRQ ka|PRS makakalangoypaibabaw|VBW ?|PMQ "|PMS
 nag|VBTS -|PMS aalala|VBTF niyang|PRS_CCP tanong|NNC .|PMP
-Hindi|RBF ako|PRS nakasagot|VBTS kaya|CCR dahan|NNC -|PMS dahan|NNC akong|PRS_CCP gumapang|VBAF paalis.Tinulungan|RBL niya|PRS akong|PRS_CCP maghanap|VBW ng|CCB mga|DTCP pwedeng|RBT_CCP gamitin|VBOF .|PMP
+Hindi|RBF ako|PRS nakasagot|VBTS kaya|CCR dahan|NNC -|PMS dahan|NNC akong|PRS_CCP gumapang|VBAF paalis|JJD .|PMP
+Tinulungan|VBOF niya|PRS akong|PRS_CCP maghanap|VBW ng|CCB mga|DTCP pwedeng|RBT_CCP gamitin|VBOF .|PMP
 Gumawa|VBAF kami|PRP ng|CCB mahabang|JJD_CCP buntot|NNC galing|RBL sa|CCT ulam|NNC naming|PRP_CCP pasayan|NNC .|PMP
 Tanggalin|VBOF ang|DTC ulo|NNC at|CCA pagtagpi|NNC -|PMS tagpiin|NNC ang|DTC balat|NNC at|CCA ikonekta|VBOF upang|CCB maging|VBW bunot|NNC .|PMP "|PMS
 Pwede|RBT na|CCP to|FW !|PMS "|PMS
 Ginaya|VBOF pa|RBI namin|PRP ang|DTC porma|NNC ngibang|VBTS_CCP isda|NNC gamit|VBS ang|DTC shell|FW at|CCA kagat|NNC ng|CCB alimasag|NNC .|PMP
 Ang|DTC shell|FW ang|DTC ginawang|VBTS_CCP katawan|NNC .|PMP
 Ang|DTC kagat|NNC ang|DTC ginawang|VBTS_CCP ulo|NNC at|CCA buntot|NNC .|PMP
-Malaki|JJD at|CCA maliit|JJD ang|DTC bawat|PRI dulo.Dagdagan|NNC pa|RBI daw|RBI namin|PRP .|PMP "|PMS
+Malaki|JJD at|CCA maliit|JJD ang|DTC bawat|PRI dulo|NNC .|PMP
+Dagdagan|VBTF pa|RBI daw|RBI namin|PRP .|PMP "|PMS
 Ay|NNP !|PMS
 Alam|VBS ko|PRS na|CCP !|PMS "|PMS
 Gawin|VBOF kaya|CCR naming|PRP_CCP parang|CCT elesi|NNC ang|DTC mga|DTCP kabibe|NNC ?|PMQ
@@ -35,7 +37,8 @@ Ididikit|NNP ang|DTC isa|PRI sa|CCT likod|JJD ko|PRS ,|PMC sa|CCT gilid|JJD ,|PM
 Bukas|JJD ,|PMC lalangoy|VBTF kami|PRP palabas|NNC ng|CCB dagat|NNC .|PMP "|PMS
 Kasama|CCB si|DTP Ate|NNP Lani|NNP ,|PMC maaga|JJD pa|RBI kaming|PRP_CCP nagpunta|VBTS sa|CCT paaralanupang|RBD_CCP ipakita|VBOF kay|DTP mam|NNC ang|DTC aming|PRSP_CCP ginawa|VBOF .|PMP "|PMS
 Mam|NNP ,|PMC may|VBH ginawa|VBOF po|RBS kaming|PRP_CCP buntot|NNC galing|RBL sa|CCT balat|NNC ng|CCB pasayan|NNC .|PMP
-Ikakabit|VBOF ko|PRS lang|RBI ito|PRO ,|PMC at|CCA makakalangoy|VBTF na|CCP po|RBS ako|PRS ,|PMC "|PMS masayang|JJD_CCP balita|NNC ko|PRS kay|DTP mam.Sinubukan|NNP kong|PRS_CCP lumangoy|VBAF ngunit|CCT mabigat|JJD .|PMP
+Ikakabit|VBOF ko|PRS lang|RBI ito|PRO ,|PMC at|CCA makakalangoy|VBTF na|CCP po|RBS ako|PRS ,|PMC "|PMS masayang|JJD_CCP balita|NNC ko|PRS kay|DTP mam|NNCA .|PMP
+Sinubukan|VBTS kong|PRS_CCP lumangoy|VBAF ngunit|CCT mabigat|JJD .|PMP
 Hindi|RBF pataas|JJD kundi|CCT pababa|JJD ang|DTC aking|PRSP_CCP langoy|NNC .|PMP "|PMS
 Pani|NNP ,|PMC hindi|RBF pwede|RBT ang|DTC balat|NNC ng|CCB pasayan|NNC ,|PMC "|PMS sabi|VBS ni|DTP mam|NNC .|PMP "|PMS
 May|VBH dala|JJD pa|RBI po|RBS ako|PRS .|PMP
@@ -55,7 +58,8 @@ Dala|VBS ko|PRS ang|DTC mga|DTCP kabibe|NNC na|CCP ginawa|VBOF naming|PRP_CCP pa
 Pa|NNP g|NNCA -|PMS umikot|VBAF ito|PRO ,|PMC pwede|RBT na|CCP akong|PRS_CCP dalhin|VBOF pataas|JJD .|PMP
 Ididikit|VBOF ko|PRS lang|RBI sa|CCT aking|PRSP_CCP likod|JJD ,|PMC gilid|JJD ,|PMC at|CCA baba|JJD .|PMP "|PMS
 Nadala|VBTS nga|RBI ako|PRS ng|CCB mga|DTCP elesi|NNC ,|PMC ngunit|CCT hindi|RBF pataas|JJD kundi|CCT sa|CCT iba|PRI -|PMS ibang|PRI_CCP direksyon|NNC .|PMP "|PMS
-Pani|NNP ,|PMC ang|DTC elesi|NNC nagpapalakas|VBTR ng|CCB alon|NNC hindi|RBF makakatulong|VBTF sa|CCT paglangoy|NNC ,|PMC "|PMS mahinang|JJD_CCP sabi|VBS ni|DTP Mam.Akala|NNP ko|PRS pwedeng|RBT_CCP -|PMS pwede|VBS na|CCP ,|PMC ngunit|CCT hindi|RBF pa|RBI rin|RBI ako|PRS nakakalangoy|VBTR .|PMP
+Pani|NNP ,|PMC ang|DTC elesi|NNC nagpapalakas|VBTR ng|CCB alon|NNC hindi|RBF makakatulong|VBTF sa|CCT paglangoy|NNC ,|PMC "|PMS mahinang|JJD_CCP sabi|VBS ni|DTP Mam|NNP .|PMP
+Akala|VBS ko|PRS pwedeng|RBT_CCP -|PMS pwede|VBS na|CCP ,|PMC ngunit|CCT hindi|RBF pa|RBI rin|RBI ako|PRS nakakalangoy|VBTR .|PMP
 Siguro|RBM dahan|NNC -|PMS dahan|NNC silang|PRP_CCP lalangoy|VBTF pa|RBI ibabaw|JJD .|PMP
 Makikita|VBTF nila|PRP ang|DTC bilog|JJD na|CCP katawan|NNC ng|CCB barko|NNC at|CCA malalaking|JJD_CCP pating|NNC .|PMP
 Mararamdaman|VBTF nila|PRP ang|DTC malakas|JJD na|CCP alon|NNC at|CCA sikat|JJD ng|CCB araw|NNC .|PMP "|PMS
@@ -72,7 +76,8 @@ Dayday|NNP !|PMS
 Pani|NNP !|PMS
 Subukan|VBOF natin|PRP ang|DTC tinuro|VBOF ni|DTP Mam|NNP !|PMS
 Hinga|NNP .|PMP
-Langoy.Lingon|NNP sa|CCT kaliwa|JJD ,|PMC lingon|VBOF sa|CCT kanan|JJD .|PMP "|PMS
+Langoy|NNP .|PMP
+Lingon|NNP sa|CCT kaliwa|JJD ,|PMC lingon|VBOF sa|CCT kanan|JJD .|PMP "|PMS
 Sumisigaw|VBTR_VBAF habang|RBW lumalangoy|VBTR_VBAF si|DTP Bisel|NNP .|PMP
 Mabilis|RBD namang|RBI_CCP naghabulan|VBTS ang|DTC dalawa|CDB pataas|NNC .|PMP "|PMS
 Lumangoy|VBAF naman|RBI kaya|CCR tayo|PRP nang|RBD nakapikit|RBD ?|PMQ
@@ -86,7 +91,8 @@ Pani|NNP ,|PMC alam|VBS ko|PRS na|CCP !|PMS "|PMS
 sigaw|NNC ni|DTP Ate|NNP Lani|NNP .|PMP "|PMS
 May|VBH gagawin|VBTF na|CCP naman|RBI ba|RBI tayo|PRP ?|PMQ
 Pero|CCT nandun|VBTS na|CCP sila|PRP ,|PMC "|PMS malungkot|JJD na|CCP sagot|NNC ko|PRS .|PMP "|PMS
-Hindi|RBF ,|PMC Pani|NNP ,|PMC ganito|PRC nalang|VBTS ,|PMC "|PMS wika|NNC ni|DTP Ate|NNP Lani.Sinubukan|NNP namin|PRP ang|DTC naisip|VBTS ni|DTP Ate|NNP Lani|NNP .|PMP "|PMS
+Hindi|RBF ,|PMC Pani|NNP ,|PMC ganito|PRC nalang|VBTS ,|PMC "|PMS wika|NNC ni|DTP Ate|NNP Lani|NNP .|PMP
+Sinubukan|VBTS namin|PRP ang|DTC naisip|VBTS ni|DTP Ate|NNP Lani|NNP .|PMP "|PMS
 Pwedeng|RBT_CCP -|PMS pwede|VBS !|PMQ "|PMS "|PMS
 Mam|NNP ,|PMC Mam|NNP ,|PMC Mam|NNP !|PMS "|PMS
 malakas|JJD kong|PRS_CCP tawag|NNC upang|CCB marinig|VBW ni|DTP Mam|NNP sa|CCT taas|NNC .|PMP "|PMS

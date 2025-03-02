@@ -1,7 +1,8 @@
 "|PMS Naaamoy|VBTS mo|PRS '|PMS yon|PRO ?|PMQ "|PMS
 tanong|NNC ni|DTP Anopol|NNP habang|RBW nakatingala|VBTS kay|DTP Tang|NNP -|PMS id|NNCA .|PMP "|PMS
 Oo|RBT ,|PMC naaamoy|VBTR ko|PRS ,|PMC "|PMS sagot|NNC ni|DTP Tang|NNP -|PMS id|NNCA na|CCP nakaharang|JJD kay|DTP Anopol|NNP .|PMP "|PMS
-Mayroon|VBH na|CCP namang|RBI_CCP nagsusunog|VBTR ,|PMC "|PMS sabi|VBS pa|RBI niya.Lumalapit|VBTR at|CCA lumalawak|VBTR_VBAF lalo|JJCC ang|DTC mga|DTCP nagsusunog|VBTR dito|PRL sa|CCT kagubatan|NNC araw|NNC -|PMS araw|NNC ,|PMC "|PMS nakatatakot|JJD na|CCP sabi|VBS ni|DTP Anopol|NNP .|PMP "|PMS
+Mayroon|VBH na|CCP namang|RBI_CCP nagsusunog|VBTR ,|PMC "|PMS sabi|VBS pa|RBI niya|PRS .|PMP
+Lumalapit|VBTR_VBAF at|CCA lumalawak|VBTR_VBAF lalo|JJCC ang|DTC mga|DTCP nagsusunog|VBTR dito|PRL sa|CCT kagubatan|NNC araw|NNC -|PMS araw|NNC ,|PMC "|PMS nakatatakot|JJD na|CCP sabi|VBS ni|DTP Anopol|NNP .|PMP "|PMS
 Paano|PRQ na|CCP kung|CCR narito|PRL na|CCP '|PMS yan|PRO sa|CCT atin|PRSP bukas|JJD ?|PMQ "|PMS
 tanong|NNC ni|DTP Anopol|NNP .|PMP "|PMS
 Di|RBF ko|PRS rin|RBI alam|VBS ,|PMC Anopol|NNP ,|PMC "|PMS nakatatakot|JJD naman|RBI na|CCP sagot|NNC ni|DTP Tang|NNP -|PMS id|NNCA .|PMP "|PMS
@@ -20,7 +21,8 @@ Meron|VBH na|CCP naman|RBI !|PMQ "|PMS "|PMS
 Araw|NNP -|PMS araw|NNC na|CCP lang|RBI ay|LM may|VBH lumalagabog|VBTR_VBAF na|CCP kahoy|NNC ,|PMC "|PMS balisang|JJD_CCP sabi|VBS ni|DTP Anopol|NNP .|PMP "|PMS
 Paano|PRQ na|CCP kung|CCR narito|PRL na|CCP '|PMS yan|PRO sa|CCT atin|PRSP bukas|JJD ?|PMQ "|PMS
 tanong|NNC ni|DTP Anopol|NNP .|PMP "|PMS
-Di|RBF ko|PRS rin|RBI alam|VBS ,|PMC Anopol|NNP ,|PMC "|PMS nakatatakot|JJD na|CCP sagot|NNC ni|DTP Tang|NNP -|PMS id.Di|FW mapakali|FW ang|DTC dalawa|JJN kahit|CCT namimilog|VBTR ang|DTC buwan|NNC .|PMP "|PMS
+Di|RBF ko|PRS rin|RBI alam|VBS ,|PMC Anopol|NNP ,|PMC "|PMS nakatatakot|JJD na|CCP sagot|NNC ni|DTP Tang|NNP -|PMS id|NNCA .|PMP
+Di|RBF mapakali|VBW ang|DTC dalawa|JJN kahit|CCT namimilog|VBTR ang|DTC buwan|NNC .|PMP "|PMS
 Ay|RBF tingnan|VBOF mo|PRS ,|PMC may|VBH maliit|JJD na|CCP Rafflesia|NNP ,|PMC "|PMS sabi|VBS ng|CCB isang|PRI_CCP binatang|JJD_CCP kasama|CCB ng|CCB grupong|NNC_CCP Bantay|NNP Bukid|NNP na|CCP nangangalaga|VBTR sa|CCT kabundukan|NNC .|PMP "|PMS
 Bulaklak|NNP '|PMS yan|PRO na|CCP Anopol|NNP ,|PMC "|PMS sabi|VBS ng|CCB Agtang|PRQ_CCP kasama|CCB nila|PRP .|PMP "|PMS "|PMS
 Matatagpuan|VBTF dito|PRL ang|DTC pinakamaliit|JJCS_JJD at|CCA pinakamalaking|JJCS_JJD_CCP mga|DTCP bulaklak|NNC sa|CCT buong|PRI_CCP mundo|NNC ,|PMC "|PMS sabi|VBS ng|CCB binata|NNC .|PMP "|PMS
@@ -36,7 +38,9 @@ Ang|DTC tunog|NNC ng|CCB chainsaw|NNC ,|PMC malapit|JJD lang|RBI yan|PRO dito|PR
 sabi|VBS ulit|RBW ng|CCB binata|NNC .|PMP "|PMS
 Kung|CCR magpapatuloy|VBTR_VBAF itong|PRO_CCP mga|DTCP kaingero|NNC ,|PMC mga|DTCP maghuhukay|VBTF_VBAF ng|CCB lupa|NNC ,|PMC at|CCA mga|DTCP mamumutol|NNC kahoy|NNC ,|PMC kawawa|JJD naman|RBI nitong|PRO_CCP Anopol|NNP at|CCA Tang|NNP -|PMS id|NNCA pati|CCA na|RBI rin|RBI ang|DTC iba|PRI pang|RBI_CCP mga|DTCP nabubuhay|VBTR dito|PRL sa|CCT bukid|NNC .|PMP
 Mauubos|VBTF silang|PRP_CCP lahat|PRI .|PMP "|PMS "|PMS
-Bukas|JJD ,|PMC bumalik|VBAF tayo|PRP upang|CCB hulihin|VBOF itong|PRO_CCP mga|DTCP naninira|VBTR nitong|PRO_CCP kabundukan|NNC ,|PMC "|PMS sabi|VBS pa|RBI niya.Pag|VBTS -|PMS alis|NNC ng|CCB mga|DTCP Bantay|NNP Bukid|NNP ,|PMC nakahinga|RBD -|PMS hinga|NNC ng|CCB malalim|JJD si|DTP Anopol|NNP at|CCA si|DTP Tang|NNP -|PMS id|NNCA .|PMP
-Alam|VBS nila|PRP ang|DTC kasagutan|NNC ng|CCB kinatatakutan|VBTR nila|PRP ,|PMC kaya|CCR noong|RBW_CCP gabi|RBW ,|PMC mapayapa|RBD nilang|PRP_CCP minasdan|VBOF ang|DTC buwan|NNC at|CCA mga|DTCP bituwin.May|NNC mga|DTCP naririnig|VBTR sila|PRP Anopol|NNP at|CCA Tang|NNP -|PMS id|FW sa|CCT kalagitnaan|RBW ng|CCB gabi|RBW .|PMP
+Bukas|JJD ,|PMC bumalik|VBAF tayo|PRP upang|CCB hulihin|VBOF itong|PRO_CCP mga|DTCP naninira|VBTR nitong|PRO_CCP kabundukan|NNC ,|PMC "|PMS sabi|VBS pa|RBI niya|PRS .|PMP
+Pag|CCR -|PMS alis|NNC ng|CCB mga|DTCP Bantay|NNP Bukid|NNP ,|PMC nakahinga|RBD -|PMS hinga|NNC ng|CCB malalim|JJD si|DTP Anopol|NNP at|CCA si|DTP Tang|NNP -|PMS id|NNCA .|PMP
+Alam|VBS nila|PRP ang|DTC kasagutan|NNC ng|CCB kinatatakutan|VBTR nila|PRP ,|PMC kaya|CCR noong|RBW_CCP gabi|RBW ,|PMC mapayapa|RBD nilang|PRP_CCP minasdan|VBOF ang|DTC buwan|NNC at|CCA mga|DTCP bituwin|NNC .|PMP
+May|VBH mga|DTCP naririnig|VBTR sila|PRP Anopol|NNP at|CCA Tang|NNP -|PMS id|FW sa|CCT kalagitnaan|RBW ng|CCB gabi|RBW .|PMP
 May|VBH naaamoy|VBTS silang|PRP_CCP usok|NNC sa|CCT di|RBF -|PMS kalayuan|NNC ,|PMC may|VBH nakikitang|VBTR_CCP dumadausdos|VBTR_VBAF na|CCP lupa|NNC galing|RBL sa|CCT itaas|JJD ng|CCB bukid|NNC .|PMP
 Saan|PRQ kaya|CCR ito|PRO galing|RBL ?|PMQ

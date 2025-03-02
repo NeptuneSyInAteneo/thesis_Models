@@ -9,9 +9,11 @@ Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
 Kumamot|NNP lang|RBI si|DTP Mercury|NNP sa|CCT isa|PRI mga|DTCP hukay|NNC sa|CCT kaniyang|PRSP_CCP bumbunan|VBAF .|PMP "|PMS
 Ang|DTC munting|JJD_CCP bughaw|NNC na|CCP si|DTP Pluto|NNP ?|PMQ
 Hindi|RBF ko|PRS po|RBS siya|PRS nakita|VBTS ,|PMC saan|PRQ kaya|CCR siya|PRS nagpunta|VBTS ?|PMQ
-sagot|NNC ni|DTP Mercury.Napatingin|NNP si|DTP Mercury|NNP kay|DTP Venus|NNP at|CCA nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD siya|PRS ?|PMQ "|PMS "|PMS
+sagot|NNC ni|DTP Mercury|NNP .|PMP
+Napatingin|VBTS si|DTP Mercury|NNP kay|DTP Venus|NNP at|CCA nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD siya|PRS ?|PMQ "|PMS "|PMS
 Paano|PRQ ko|PRS malalaman|VBTF kung|RBK saan|RBQ nagpunta|VBTS ang|DTC nagyeyelong|VBTR_CCP munting|JJD_CCP Pluto|NNP na|CCP '|PMS yon|PRO ?|PMQ
-sagot|NNC ni|DTP Venus|NNP ,|PMC habang|RBW sumasabog|VBTR_VBAF ang|DTC ilan|PRQ sa|CCT kaniyang|PRSP_CCP mga|DTCP bulkan.Lumapit|NNC sina|DTPP Mercury|NNP at|CCA Venus|NNP papunta|VBW kay|DTP Earth|NNP at|CCA sabay|RBD na|CCP nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
+sagot|NNC ni|DTP Venus|NNP ,|PMC habang|RBW sumasabog|VBTR_VBAF ang|DTC ilan|PRQ sa|CCT kaniyang|PRSP_CCP mga|DTCP bulkan|NNC .|PMP
+Lumapit|VBAF sina|DTPP Mercury|NNP at|CCA Venus|NNP papunta|VBW kay|DTP Earth|NNP at|CCA sabay|RBD na|CCP nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
 Ang|DTC mga|DTCP alon|NNC sa|CCT karagatan|NNC ay|LM nagtaasan|VBTS sa|CCT ibabaw|NNC ng|CCB mundo|NNC ng|CCB Earth|NNP .|PMP "|PMS
 Si|DTP Pluto|NNP na|CCP may|VBH kakaibang|JJD_CCP paraan|NNC ng|CCB pag|CCR -|PMS ikot|NNC ?|PMQ
 tanong|NNC niya|PRS .|PMP "|PMS
@@ -33,7 +35,8 @@ Siguradong|RBT_CCP alam|VBS mo|PRS kung|RBK saan|RBQ siya|PRS naroon!Nagpagpag|V
 Mukha|RBD siyang|PRS_CCP matamlay|JJD at|CCA malungkot|JJD .|PMP
 Ngunit|CCT ayaw|VBS niyang|PRS_CCP sabihin|VBOF kung|RBK saan|RBQ siya|PRS pupunta|VBTF o|CCT kaya|CCR '|PMS y|FW bakit|PRQ siya|PRS aalis|VBTF .|PMP "|PMS
 At|CCA biglang|RBD_CCP may|VBH narinig|VBTS ang|DTC mga|DTCP planeta|NNC na|CCP may|VBH umiiyak|VBTR_VBAF sa|CCT hindi|RBF kalayuan|NNC .|PMP
-Nagmamadali|VBTS silang|PRP_CCP lumapit|VBAF upang|CCB malaman|VBW kung|RBK ano|RBQ ang|DTC nangyayari.Nakaupo|VBTS si|DTP Pluto|NNP mag|VBW -|PMS isa|PRI ,|PMC at|CCA umiiyak|VBTR_VBAF .|PMP
+Nagmamadali|VBTS silang|PRP_CCP lumapit|VBAF upang|CCB malaman|VBW kung|RBK ano|RBQ ang|DTC nangyayari|VBTR .|PMP
+Nakaupo|VBTS si|DTP Pluto|NNP mag|VBW -|PMS isa|PRI ,|PMC at|CCA umiiyak|VBTR_VBAF .|PMP
 Masaya|NNP ang|DTC ibang|PRI_CCP planeta|NNC na|CCP nahanap|VBTS na|CCP nila|PRP si|DTP Pluto|NNP .|PMP
 Tinanong|VBTS nila|PRP ito|PRO kung|RBK bakit|RBQ siya|PRS biglang|RBD_CCP nawala|VBTS .|PMP "|PMS
 Pinagbawalan|VBRF ako|PRS ng|CCB mga|DTCP siyentipiko|NNC na|CCP maging|VBW isang|PRI_CCP planeta|NNC dahil|CCR ako|PRS ay|LM maliit|JJD at|CCA hindi|RBF ko|PRS kayang|RBD_CCP paalisin|VBOF ang|DTC mga|DTCP malalaking|JJD_CCP bagay|NNC sa|CCT paligid|NNC ko|PRS .|PMP "|PMS

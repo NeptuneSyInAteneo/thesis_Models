@@ -4,9 +4,11 @@ Ang|DTC hirap|NNC hirap|NNC mag|VBW -|PMS asikaso|NNC ng|CCB kasalan|NNC !|PMS "
 Sinabi|VBTS ni|DTP Soro|NNP sa|CCT kaibigan|NNC na|CCP si|DTP Kuneho|NNP .|PMP "|PMS
 Sa|CCT palagay|NNC ko|PRS hindi|RBF ko|PRS magagawa|VBTF ang|DTC lahat|PRI ng|CCB ito|PRO na|CCP mag|VBW -|PMS isa|PRI .|PMP "|PMS "|PMS
 Bakit|PRQ hindi|RBF tayo|PRP humingi|VBAF ng|CCB tulong|NNC sa|CCT mga|DTCP taga|JJD -|PMS nayon|NNC ?|PMQ "|PMS
-Mungkahi|VBOF ni|DTP Kuneho.Pumayag|NNP naman|RBI si|DTP Lobo|NNP .|PMP
+Mungkahi|VBOF ni|DTP Kuneho|NNP .|PMP
+Pumayag|VBAF naman|RBI si|DTP Lobo|NNP .|PMP
 Hiniling|VBOF niya|PRS kay|DTP Aso|NNP na|CCP imbitahan|VBOF ang|DTC lahat|PRI .|PMP
-Nagpunta|VBTS si|DTP Aso|NNP sa|CCT bawat|PRI bahay|NNC sa|CCT kagubatan|NNC at|CCA hiniling|VBOF nya|PRS na|CCP magtipon|VBAF sa|CCT bahay|NNC ni|DTP Lobo.Nang|NNP dumating|VBAF ang|DTC lahat|PRI ng|CCB hayop|NNC sa|CCT kagubatan|NNC ,|PMC sinabi|VBTS ni|DTP Lobo|NNP ,|PMC "|PMS Kailangan|VBS kong|PRS_CCP maghanda|VBAF para|CCT sa|CCT kasal|NNC ng|CCB aking|PRSP_CCP anak|NNC ngunit|CCT hindi|RBF ko|PRS ito|PRO magagawa|VBTF nang|CCB mag|VBW -|PMS isa|PRI .|PMP
+Nagpunta|VBTS si|DTP Aso|NNP sa|CCT bawat|PRI bahay|NNC sa|CCT kagubatan|NNC at|CCA hiniling|VBOF nya|PRS na|CCP magtipon|VBAF sa|CCT bahay|NNC ni|DTP Lobo|NNP .|PMP
+Nang|RBW dumating|VBAF ang|DTC lahat|PRI ng|CCB hayop|NNC sa|CCT kagubatan|NNC ,|PMC sinabi|VBTS ni|DTP Lobo|NNP ,|PMC "|PMS Kailangan|VBS kong|PRS_CCP maghanda|VBAF para|CCT sa|CCT kasal|NNC ng|CCB aking|PRSP_CCP anak|NNC ngunit|CCT hindi|RBF ko|PRS ito|PRO magagawa|VBTF nang|CCB mag|VBW -|PMS isa|PRI .|PMP
 Maaari|VBS niyo|PRP ba|RBI akong|PRS_CCP tulungan|VBTF_VBOF ?|PMQ "|PMS
 Agad|RBD na|CCP sumagot|VBAF si|DTP Uwak|NNP at|CCA sinabi|VBTS ,|PMC "|PMS Ipapamahagi|VBTS_VBOF ko|PRS ang|DTC mga|DTCP paanyaya|NNC !|PMS "|PMS
 Inawit|VBOF ni|DTP Mynah|NNP ,|PMC "|PMS Ang|DTC aking|PRSP_CCP tinig|NNC ay|LM ang|DTC pinakamatamis|JJCS_JJD ,|PMC kaya|CCR tatanggapin|VBTF ko|PRS ang|DTC mga|DTCP panauhin|NNC .|PMP "|PMS
@@ -14,22 +16,30 @@ Tinaas|NNP ni|DTP Ibong|NNP Kumalkoti|NNP ang|DTC kanyang|PRSP_CCP kamay|NNC at|
 Maaari|VBS kong|PRS_CCP muling|RBW_CCP pinturahan|VBOF ang|DTC bahay|NNC at|CCA gawing|RBD_CCP maayos|JJD ang|DTC mga|DTCP ito|PRO .|PMP "|PMS
 Pinahanga|NNP ang|DTC lahat|PRI ng|CCB kanyang|PRSP_CCP makukulay|JJD na|CCP balahibo|NNC ,|PMC inanunsyo|VBTS ng|CCB Pabo|NNC ,|PMC "|PMS Sasayaw|RBD ako|PRS at|CCA aliwin|NNC at|CCA pasasayahin|VBOF ang|DTC lahat|PRI .|PMP "|PMS
 Pinakita|VBTS naman|RBI ni|DTP Langgam|NNP ang|DTC kanyang|PRSP_CCP matipunong|JJD_CCP pangangatawan|NNC at|CCA nagsabing|VBTS ,|PMC "|PMS Ako|PRS ang|DTC bahala|NNC sa|CCT transportasyon|NNC .|PMP "|PMS "|PMS
-Ako|PRS ang|DTC bahala|NNC sa|CCT mga|DTCP butil|NNC ,|PMC "|PMS and|FW sabi|VBS ni|DTP inahing|VBOF_CCP manok.Gumapang|VBW_CCP mula|RBL sa|CCT lupa|NNC ,|PMC sinabi|VBTS ni|DTP Uod|NNC ,|PMC "|PMS Ako|PRS ang|DTC bahala|NNC sa|CCT pagtakip|NNC sa|CCT anumang|PRI_CCP butas|NNC .|PMP "|PMS
-Samantala|CCT ,|PMC natutulog|VBTR naman|RBI si|DTP Palaka|NNP sa|CCT isang|PRI_CCP sulok.Kiniliti|NNC ni|DTP Langgam|NNP si|DTP Palaka.Pagkatapos|NNPA sinabi|VBTS ni|DTP Kuneho|NNP ,|PMC "|PMS Kami|PRP ay|LM may|VBH kakulangan|NNC sa|CCT mga|DTCP mang|RBI_CCP -|PMS aawit|VBTF .|PMP
+Ako|PRS ang|DTC bahala|NNC sa|CCT mga|DTCP butil|NNC ,|PMC "|PMS and|FW sabi|VBS ni|DTP inahing|VBOF_CCP manok|NNC .|PMP
+Gumapang|NNP_CCP mula|RBW sa|CCT lupa|NNC ,|PMC sinabi|VBTS ni|DTP Uod|NNC ,|PMC "|PMS Ako|PRS ang|DTC bahala|NNC sa|CCT pagtakip|NNC sa|CCT anumang|PRI_CCP butas|NNC .|PMP "|PMS
+Samantala|CCT ,|PMC natutulog|VBTR naman|RBI si|DTP Palaka|NNP sa|CCT isang|PRI_CCP sulok|NNC .|PMP
+Kiniliti|VBTS ni|DTP Langgam|NNP si|DTP Palaka|NNP .|PMP
+Pagkatapos|VBW sinabi|VBTS ni|DTP Kuneho|NNP ,|PMC "|PMS Kami|PRP ay|LM may|VBH kakulangan|NNC sa|CCT mga|DTCP mang|RBI_CCP -|PMS aawit|VBTF .|PMP
 Si|DTP Palaka|NNP ay|LM aawit|VBTF .|PMP "|PMS
-Nang|RBW sumang|CDB -|PMS ayon|RBR si|DTP Frog|NNP ,|PMC natapos|VBTS ang|DTC pagpupulong.Ang|NNC_CCP araw|NNC ng|CCB kasal|NNC ay|LM mabilis|RBD na|CCP papalapit|JJD .|PMP
+Nang|RBW sumang|CDB -|PMS ayon|RBR si|DTP Frog|NNP ,|PMC natapos|VBTS ang|DTC pagpupulong|NNC .|PMP
+Ang|DTC araw|NNC ng|CCB kasal|NNC ay|LM mabilis|RBD na|CCP papalapit|JJD .|PMP
 Matapos|VBW maipadala|VBW ang|DTC mga|DTCP paanyaya|NNC ,|PMC nagtatrabaho|VBTR si|DTP Alamid|NNP at|CCA ang|DTC mga|DTCP tagabaryo|NNC .|PMP
 Hindi|RBF nagtagal|VBTS at|CCA ang|DTC mga|DTCP pintuang|NNC_CCP -|PMS daan|NNC ay|LM hinahampas|VBTR_VBOF ng|CCB mga|DTCP bulaklak|NNC at|CCA ilaw|NNC na|CCP kumikislap|VBTR_VBAF kahit|CCT saan|PRQ .|PMP
-Kumpleto|JJD na|CCP ang|DTC mga|DTCP paghahanda.Dumating|NNC ang|DTC mga|DTCP panauhin|NNC .|PMP
+Kumpleto|JJD na|CCP ang|DTC mga|DTCP paghahanda|NNC .|PMP
+Dumating|VBAF ang|DTC mga|DTCP panauhin|NNC .|PMP
 Nauna|VBTS si|DTP Cat|NNP sa|CCT lahat|PRI .|PMP
 May|VBH kumakanta|VBTR_VBAF at|CCA sumasayaw|VBTR .|PMP
 Ang|DTC prusisyon|NNC ng|CCB kasal|NNC ay|LM itinakda|VBTS .|PMP
 Huminga|VBAF ng|CCB malalim|JJD si|DTP Frog|NNP ,|PMC handa|JJD nang|RBW kumanta|VBAF .|PMP
 ngunit|CCT sa|CCT halip|CCT na|CCP Maagar|NNP ,|PMC nagkamali|VBTS siya|PRS at|CCA kumanta|VBAF siya|PRS ng|CCB Sajanaa|NNP na|CCP nag|VBTS -|PMS anyaya|NNC ng|CCB ulan|NNC -|PMS Malakas|JJD na|CCP pagbuhos|NNC ng|CCB ulan|NNC at|CCA pag|CCR -|PMS gapang|NNC ng|CCB madidilim|JJD na|CCP ulap|NNC .|PMP
-Tingnan|VBOF niyo|PRP kung|RBK gaano|RBQ kabasa|JJD ang|DTC aking|PRSP_CCP mga|DTCP perlas|NNC ,|PMC kung|CCR gano|PRC kabasa|NNC ang|DTC aking|PRSP_CCP alampay.Di|FW nagtagal|VBTS ,|PMC lumitaw|VBAF ang|DTC madilim|JJD na|CCP ulap|NNC .|PMP
+Tingnan|VBOF niyo|PRP kung|RBK gaano|RBQ kabasa|JJD ang|DTC aking|PRSP_CCP mga|DTCP perlas|NNC ,|PMC kung|CCR gano|PRC kabasa|NNC ang|DTC aking|PRSP_CCP alampay|NNC .|PMP
+Di|RBF nagtagal|VBTS ,|PMC lumitaw|VBAF ang|DTC madilim|JJD na|CCP ulap|NNC .|PMP
 Pagkatapos|VBW ,|PMC isang|PRI_CCP malakas|JJD na|CCP buhos|NNC ng|CCB ulan|NNC .|PMP
-Nataranta|VBTS si|DTP Fox.Hindi|NNP nagtagal|VBTS ay|LM napagtanto|VBTS ni|DTP Palaka|NNP ang|DTC kanyang|PRSP_CCP pagkakamali|NNC .|PMP
+Nataranta|VBTS si|DTP Fox|NNP .|PMP
+Hindi|RBF nagtagal|VBTS ay|LM napagtanto|VBTS ni|DTP Palaka|NNP ang|DTC kanyang|PRSP_CCP pagkakamali|NNC .|PMP
 Sa|CCT pag|CCR -|PMS ulan|NNC na|CCP bumubuo|VBTR_VBAF sa|CCT mga|DTCP puddle|NNC ,|PMC nalinis|VBTS niya|PRS ang|DTC kanyang|PRSP_CCP lalamunan|NNC at|CCA inawit|VBOF ang|DTC tamang|JJD_CCP kanta|NNC .|PMP "|PMS
 Sikawa|NNP -|PMS Barahi|NNP nakatali|VBTS sa|CCT isang|PRI_CCP gilid|JJD at|CCA isang|PRI_CCP string|NNC ng|CCB isda|NNC na|CCP nakabitin|VBTS mula|RBL sa|CCT kabilang|JJD_CCP panig|NNC ,|PMC Walang|VBN_CCP laman|NNC ang|DTC paa|NNC ,|PMC kumuha|VBAF ng|CCB limang|JJN_CCP hakbang|NNC ,|PMC ang|DTC lalaking|NNC_CCP ikakasal|JJD ay|LM ipinapadala|VBTR ng|CCB kanyang|PRSP_CCP ina|NNC "|PMS *|PMS Ang|DTC Sikawa|NNP -|PMS Barahi|NNP ay|LM isang|PRI_CCP lubid|NNC na|CCP ginamit|VBOF ng|CCB mga|DTCP pamayanan|NNC ng|CCB Tharu|NNP upang|CCB magdalang|VBW_CCP mga|DTCP kalakal|NNC .|PMP
-Sa|CCT kuwentong|NNC_CCP ito|PRO ginagamit|VBTR ito|PRO upang|CCB magdala|VBW ng|CCB mga|DTCP pagkain|NNC para|CCT sa|CCT kasal.Kaagad|NNC ,|PMC lumitaw|VBAF ang|DTC araw|NNC .|PMP
+Sa|CCT kuwentong|NNC_CCP ito|PRO ginagamit|VBTR ito|PRO upang|CCB magdala|VBW ng|CCB mga|DTCP pagkain|NNC para|CCT sa|CCT kasal|NNC .|PMP
+Kaagad|RBD ,|PMC lumitaw|VBAF ang|DTC araw|NNC .|PMP
 Kahit|CCT na|CCP bahagyang|RBD_CCP umaambon|VBTR pa|RBI rin|RBI ,|PMC nagsimulang|RBD_CCP sumayaw|VBAF ang|DTC mga|DTCP panauhin|NNC .|PMP

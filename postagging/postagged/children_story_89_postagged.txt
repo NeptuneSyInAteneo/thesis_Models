@@ -17,9 +17,11 @@ Oo|RBT ,|PMC nag|VBTS -|PMS aral|NNC akong|PRS_CCP mabuti|JJD ,|PMC at|CCA nagin
 Kung|RBK hindi|RBF ko|PRS natutunan|VBTR at|CCA naisaulo|VBTS ang|DTC Talaan|NNC ng|CCB Multiplikasyon|NNC ,|PMC magiging|VBTF mahirap|JJD pamahalaan|NNC ang|DTC mga|DTCP benta|NNC sa|CCT aking|PRSP_CCP tindahan|NNC ngayon|RBW .|PMP "|PMS
 Nasorpresa|VBTS si|DTP Tey|NNP Tey|NNP sa|CCT kaniyang|PRSP_CCP narinig|VBTS .|PMP
 Marahil|RBM ang|DTC pagpaparami|NNC ng|CCB bilang|NNC ay|LM kapaki|NNC -|PMS pakinabang|NNC pagkatapos|VBW ng|CCB lahat|PRI .|PMP
-Sinimulan|VBTS na|RBI ni|DTP Tey|NNP Tey|NNP pag|CCR -|PMS aralan|NNC ang|DTC mga|DTCP bilang|NNC na|CCP nasa|RBL talaan.Iniisip|NNC ni|DTP Tey|NNP Tey|NNP tungkol|RBR sa|CCT sinabi|VBTS ng|CCB kaniyang|PRSP_CCP ina|NNC tungkol|RBR sa|CCT paggamit|NNC ng|CCB multiplikasyon|NNC sa|CCT kaniyang|PRSP_CCP tindahan|NNC .|PMP
+Sinimulan|VBTS na|RBI ni|DTP Tey|NNP Tey|NNP pag|CCR -|PMS aralan|NNC ang|DTC mga|DTCP bilang|NNC na|CCP nasa|RBL talaan|NNC .|PMP
+Iniisip|VBTS ni|DTP Tey|NNP Tey|NNP tungkol|RBR sa|CCT sinabi|VBTS ng|CCB kaniyang|PRSP_CCP ina|NNC tungkol|RBR sa|CCT paggamit|NNC ng|CCB multiplikasyon|NNC sa|CCT kaniyang|PRSP_CCP tindahan|NNC .|PMP
 Kumuha|VBAF siya|PRS ng|CCB papel|NNC ,|PMC gunting|FW ,|PMC at|CCA panulat|NNC .|PMP
-Gumawa|VBAF siya|PRS ng|CCB pekeng|JJD_CCP pera|NNC na|CCP gawa|VBS sa|CCT papel|NNC na|CCP may|VBH sulat|NNC na|CCP isang|JJN_CCP daang|NNC_CCP piso|NNC o|CCT ,500|CDB pesos|NNC ,|PMC at|CCA ,000|CDB pesos.Nagtayo|NNC siya|PRS ng|CCB tinda|NNC -|PMS tindahan|NNC at|CCA inimbita|VBTS si|DTP Som|NNP para|CCT maging|VBW customer|NNC niya|PRS .|PMP "|PMS
+Gumawa|VBAF siya|PRS ng|CCB pekeng|JJD_CCP pera|NNC na|CCP gawa|VBS sa|CCT papel|NNC na|CCP may|VBH sulat|NNC na|CCP isang|JJN_CCP daang|NNC_CCP piso|NNC o|CCT ,500|CDB pesos|NNC ,|PMC at|CCA ,000|CDB pesos|NNC .|PMP
+Nagtayo|VBTS siya|PRS ng|CCB tinda|NNC -|PMS tindahan|NNC at|CCA inimbita|VBTS si|DTP Som|NNP para|CCT maging|VBW customer|NNC niya|PRS .|PMP "|PMS
 Excuse|NNP me|FW ,|PMC Ale|NNP ,|PMC magkano|VBW po|RBS itong|PRO_CCP mga|DTCP cake|FW ?|FW '|PMS
 tanong|NNC ni|DTP Som|NNP .|PMP "|PMS
 400pesos|CDB kada|PRI isa|PRI ,|PMC Ginoo|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tey|NNP Tey|NNP .|PMP "|PMS
@@ -52,7 +54,8 @@ Isang|PRI_CCP banana|FW cue|FW ay|LM 500at|CDB 500pesos|CDB ...|PMS "|PMS Napasi
 Isang|PRI_CCP banana|FW cue|FW ay|LM 500pesos|CDB ,|PMC "|PMS iniisip|VBTR niya|PRS sa|CCT sarili|NNC niya|PRS .|PMP "|PMS
 Kung|CCR alisin|VBOF ko|PRS ang|DTC dalawang|JJN_CCP zero|FW sa|CCT ,|PMC matitira|VBW ay|LM .|PMP
 At|CCA x|NNC ay|LM .|PMP
-Ngayon|RBW ,|PMC ibalik|VBOF ang|DTC dalawang|JJN_CCP zero|FW at|CCA ...|PMS "|PMS "|PMS Ang|DTC kabuuan|PRI po|RBS ay|LM ,500|CDB pesos|NNC ,|PMC Masayang|RBD_CCP sagot|NNC ni|DTP Tey|NNP Tey|NNP kay|DTP Nita.Nakita|NNP ng|CCB tito|NNC ni|DTP Tey|NNP Tey|NNP na|CCP si|DTP Tong|NNP ang|DTC mga|DTCP bata|NNC na|CCP masayang|JJD_CCP naglalaro|VBTR .|PMP "|PMS
+Ngayon|RBW ,|PMC ibalik|VBOF ang|DTC dalawang|JJN_CCP zero|FW at|CCA ...|PMS "|PMS "|PMS Ang|DTC kabuuan|PRI po|RBS ay|LM ,500|CDB pesos|NNC ,|PMC Masayang|RBD_CCP sagot|NNC ni|DTP Tey|NNP Tey|NNP kay|DTP Nita|NNP .|PMP
+Nakita|VBTS ng|CCB tito|NNC ni|DTP Tey|NNP Tey|NNP na|CCP si|DTP Tong|NNP ang|DTC mga|DTCP bata|NNC na|CCP masayang|JJD_CCP naglalaro|VBTR .|PMP "|PMS
 Nais|VBS ko|PRS ng|CCB (|PMS anim|CDB )|PMS na|CCP bote|NNC ng|CCB tubig|NNC ,|PMC please|FW !|PMS "|PMS
 Aniya|CCB kay|DTP Tey|NNP tey|FW .|PMP "|PMS
 Ako|PRS ay|LM nauuhaw|VBTS ,|PMC kaya|CCR pakibilisan|VBOF at|CCA bigyan|VBOF mo|PRS ako|PRS ng|CCB tubig|NNC !|PMS "|PMS "|PMS

@@ -18,22 +18,27 @@ Walang|VBN_CCP sumagot|VBAF .|PMP
 Tahimik|JJD ang|DTC lahat|PRI ,|PMC Ang|DTC asim|NNC ng|CCB tatlo|CDB !|PMS
 Pati|CCA ugali|NNC maasim|JJD din|RBI .|PMP "|PMS
 Tara|NNP ,|PMC sumayaw|VBAF tayo|PRP !|PMS "|PMS
-yaya|NNC ulit|RBW ni|DTP batuan.Masama|NNP ang|DTC tingin|NNC ni|DTP Olin|NNP Iba|PRI .|PMP
+yaya|NNC ulit|RBW ni|DTP batuan|NNC .|PMP
+Masama|JJD ang|DTC tingin|NNC ni|DTP Olin|NNP Iba|PRI .|PMP
 Nang|RBW -|PMS irap|VBOF si|DTP Tamar|NNP Sampalok|NNP .|PMP
 Sumimangot|NNP si|DTP Edan|NNP Kalamansi|NNP .|PMP "|PMS
 Ewan|NNP sa|CCT '|PMS yo|NNCA ,|PMC Wanda|NNP !|PMS "|PMS
 sabay|RBD -|PMS sabay|RBD nilang|PRP_CCP sagotBumalik|RBL_NNP si|DTP Wanda|NNP sa|CCT kaniyang|PRSP_CCP sanga|NNC .|PMP
 Umupo|NNP ,|PMC walang|VBN_CCP kausap|NNC .|PMP
 Nanalamin|VBTS sa|CCT patak|NNC ng|CCB hamog|NNC na|CCP naiwan|VBTS sa|CCT dahon|NNC .|PMP
-Hinawakan|VBOF ang|DTC katawang|NNC_CCP baluktot|NNC at|CCA puno|NNC ng|CCB batik.Iba|NNC ang|DTC itsura|NNC ni|DTP Wanda|NNP ,|PMC kaya|CCR ayaw|RBF ng|CCB lahat|PRI sa|CCT kaniya|PRSP .|PMP
+Hinawakan|VBOF ang|DTC katawang|NNC_CCP baluktot|NNC at|CCA puno|NNC ng|CCB batik|NNC .|PMP
+Iba|PRI ang|DTC itsura|NNC ni|DTP Wanda|NNP ,|PMC kaya|CCR ayaw|RBF ng|CCB lahat|PRI sa|CCT kaniya|PRSP .|PMP
 Walang|VBN_CCP namamansin|VBTR ,|PMC walang|VBN_CCP nakikipaglaro|VBTR .|PMP
 Kahit|CCT di|RBF siya|PRS kasali|CCB sa|CCT kasiyahan|NNC ,|PMC tinatanaw|VBTR lamang|RBI niya|PRS ang|DTC mga|DTCP ito|PRO at|CCA binabantayan|VBTR .|PMP "|PMS
 Mag|NNP -|PMS ingat|NNC kayo|PRP !|PMS "|PMS
 sigaw|NNC ni|DTP Wanda|NNP nang|RBW makita|VBW ang|DTC mga|DTCP hantik|NNC .|PMP
 Walang|VBN_CCP sumagot|VBAF .|PMP
 Tahimik|JJD ang|DTC lahat|PRI .|PMP
-Paglingon|NNP ng|CCB tatlo|CDB ,|PMC natakot|VBTS sila|PRP ,|PMC at|CCA tumakbo|VBAF papunta|VBW sa|CCT kanilang|PRSP_CCP tirahan.Nagsiksikan|NNC sa|CCT sanga|NNC sina|DTPP Olin|NNP ,|PMC Tamar|NNP ,|PMC at|CCA Edan|NNP .|PMP
-Nagtago|VBTS sila|PRP sa|CCT likod|NNC ng|CCB malapad|JJD na|CCP dahon.Pasilip|NNC -|PMS silip|NNC sa|CCT butas|NNC ng|CCB dahon|NNC habang|RBW pinagmamasdan|VBTR_VBRF baka|RBM umakyat|VBAF ang|DTC mga|DTCP hantik|NNC at|CCA sila|PRP '|PMS y|FW kagatin.Nakatago|FW din|RBI si|DTP Wanda|NNP sa|CCT likod|NNC ng|CCB mga|DTCP dahon|NNC na|CCP ginawa|VBOF niya|PRS bilang|CCT panangga|NNC .|PMP
+Paglingon|NNP ng|CCB tatlo|CDB ,|PMC natakot|VBTS sila|PRP ,|PMC at|CCA tumakbo|VBAF papunta|VBW sa|CCT kanilang|PRSP_CCP tirahan|NNC .|PMP
+Nagsiksikan|VBTR sa|CCT sanga|NNC sina|DTPP Olin|NNP ,|PMC Tamar|NNP ,|PMC at|CCA Edan|NNP .|PMP
+Nagtago|VBTS sila|PRP sa|CCT likod|NNC ng|CCB malapad|JJD na|CCP dahon|NNC .|PMP
+Pasilip|NNP -|PMS silip|NNC sa|CCT butas|NNC ng|CCB dahon|NNC habang|RBW pinagmamasdan|VBTR_VBRF baka|RBM umakyat|VBAF ang|DTC mga|DTCP hantik|NNC at|CCA sila|PRP '|PMS y|FW kagatin|FW .|PMP
+Nakatago|VBTS din|RBI si|DTP Wanda|NNP sa|CCT likod|NNC ng|CCB mga|DTCP dahon|NNC na|CCP ginawa|VBOF niya|PRS bilang|CCT panangga|NNC .|PMP
 Sinisilip|VBTR niya|PRS rin|RBI ang|DTC kalagayan|NNC ng|CCB tatlo|CDB .|PMP
 Nanalangin|VBTR siya|PRS ,|PMC "|PMS Sana|VBS ligtas|JJD sina|DTPP Olin|NNP ,|PMC Tamar|NNP ,|PMC at|CCA Edan|NNP .|PMP "|PMS "|PMS
 Kumusta|NNP kayo|PRP diyan|PRL ,|PMC Olin|NNP !|PMS
@@ -62,10 +67,12 @@ Sumasayaw|VBTR sa|CCT ihip|FW ng|CCB hangin|NNC at|CCA buhos|NNC ng|CCB ulasang|
 Wooooosh|NNP !|PMS
 Woooooosh|NNP !|PMS
 Wooooooosh|NNP !|PMS
-Parang|CCT mapuputol|VBW ,|PMC dinuduyan|VBTR -|PMS duyan.Hinawakan|NNC ni|DTP Wanda|NNP ang|DTC kamay|NNC ni|DTP Edan|NNP .|PMP
+Parang|CCT mapuputol|VBW ,|PMC dinuduyan|VBTR -|PMS duyan|NNC .|PMP
+Hinawakan|VBOF ni|DTP Wanda|NNP ang|DTC kamay|NNC ni|DTP Edan|NNP .|PMP
 Ginaya|VBOF din|RBI ni|DTP Tamar|NNP at|CCA Olin|NNP ang|DTC kaniyang|PRSP_CCP ginawa|VBOF .|PMP
 Mahigpit|JJD na|CCP naghawakan|VBTR silang|PRP_CCP apat|CDB .|PMP
-Kaya|CCR nakaligtas|VBTS sila|PRP sa|CCT malakas|JJD na|CCP hangin|NNC at|CCA ulan.Magkakatabi|VBTR sa|CCT kagubatan|NNC .|PMP
+Kaya|CCR nakaligtas|VBTS sila|PRP sa|CCT malakas|JJD na|CCP hangin|NNC at|CCA ulan|NNC .|PMP
+Magkakatabi|VBW sa|CCT kagubatan|NNC .|PMP
 Magkakaibigan|VBTF .|PMP
 Apat|JJN na|CCP bungang|NNC_CCP -|PMS kahoy|NNC ,|PMC magkakampi|NNC ,|PMC nagtutulungan|VBTR .|PMP
 Iba|PRI ,|PMC sampalok|NNC ,|PMC kalamansi|NNC ,|PMC at|CCA batuan|NNC .|PMP
@@ -73,4 +80,5 @@ Yay|NNP !|PMS
 Ang|DTC asim|NNC !|PMS
 Yay|NNP !|PMS
 Ang|DTC asim|NNC !|PMS
-Pero|CCT matamis|JJD ang|DTC pagsasama.Wonderful|NNC Words|NNP Batuan|NNP -|PMS Garcinia|FW binucao|FW Iba|PRI -|PMS Averrhoa|FW bilimbi|FW Sampalok|NNP -|PMS Tamarindus|NNP Indica|NNP Limon|NNP -|PMS Citrofortunella|NNP Microcarpa|NNP
+Pero|CCT matamis|JJD ang|DTC pagsasama|NNC .|PMP
+Wonderful|NNP Words|NNP Batuan|NNP -|PMS Garcinia|FW binucao|FW Iba|PRI -|PMS Averrhoa|FW bilimbi|FW Sampalok|NNP -|PMS Tamarindus|NNP Indica|NNP Limon|NNP -|PMS Citrofortunella|NNP Microcarpa|NNP

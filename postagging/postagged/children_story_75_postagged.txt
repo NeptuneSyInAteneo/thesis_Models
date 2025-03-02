@@ -9,7 +9,8 @@ Ako|PRS siyempre|RBT o|CCT kaya|CCR si|DTP Nanay|NNP mo|PRS ,|PMC "|PMS ang|DTC 
 Ano|PRQ po|RBS ang|DTC ituturo|VBTF ninyo|PRP sa|CCT akin|PRSP ,|PMC Tatay|NNC ?|PMQ "|PMS "|PMS
 Marami|PRI .|PMP
 Tuturuan|RBW kitang|RBD_CCP magbasa|VBW ,|PMC magsulat|VBAF ,|PMC at|CCA magbilang|VBAF .|PMP
-Magdodrowing|NNP din|RBI tayo|PRP ,|PMC "|PMS ang|DTC tugon|NNC ng|CCB kaniyang|PRSP_CCP ama.Napaisip|NNC si|DTP Ping|NNP .|PMP "|PMS
+Magdodrowing|NNP din|RBI tayo|PRP ,|PMC "|PMS ang|DTC tugon|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP
+Napaisip|VBTS si|DTP Ping|NNP .|PMP "|PMS
 Wala|VBN naman|RBI tayong|PRP_CCP pisara|NNC .|PMP
 Saan|PRQ po|RBS tayo|PRP magsusulat|VBTF ?|PMQ "|PMS "|PMS
 Marami|PRI tayong|PRP_CCP malalaking|JJD_CCP karton|NNC ,|PMC Ping|NNC .|PMP

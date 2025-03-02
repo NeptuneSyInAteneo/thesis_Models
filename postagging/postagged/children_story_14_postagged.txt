@@ -12,7 +12,8 @@ Tiningnan|VBOF at|CCA dinaanan|VBOF lang|RBI siya|PRS ng|CCB aso|NNC .|PMP "|PMS
 Saan|PRQ kaya|CCR nanggaling|VBTS ang|DTC itlog|NNC ?|PMQ "|PMS
 ang|DTC palaisipan|NNC ni|DTP Pia|NNP .|PMP
 Sinundan|VBTS niya|PRS ang|DTC marka|NNC ng|CCB mga|DTCP paa|NNC ng|CCB aso|NNC .|PMP
-Papunta|VBW ito|PRO sa|CCT ilalim|JJD ng|CCB kahoy|NNC na|CCP Pandan.Doon|NNP ,|PMC nakita|VBTS niya|PRS ang|DTC dalawang|JJN_CCP batang|JJD_CCP naghuhukay|VBTR ng|CCB buhangin|NNC .|PMP "|PMS
+Papunta|VBW ito|PRO sa|CCT ilalim|JJD ng|CCB kahoy|NNC na|CCP Pandan|NNP .|PMP
+Doon|PRL ,|PMC nakita|VBTS niya|PRS ang|DTC dalawang|JJN_CCP batang|JJD_CCP naghuhukay|VBTR ng|CCB buhangin|NNC .|PMP "|PMS
 Ano|PRQ iyang|VBTS_CCP hinuhukay|RBD ninyo|PRP ?|PMQ "|PMS
 tanong|NNC ni|DTP Pia|NNP .|PMP "|PMS
 Wala|VBN ,|PMC umalis|VBAF ka|PRS dito|PRL !|PMS "|PMS
@@ -27,7 +28,8 @@ Manong|NNP ,|PMC bago|RBW lang|RBI ako|PRS dito|PRL .|PMP
 Nakita|VBTS ko|PRS ang|DTC aso|NNC na|CCP may|VBH dalang|JJD_CCP itlog|NNC galing|RBL dito|PRL .|PMP
 Pagdating|VBW ko|PRS ,|PMC nadatnan|VBTS ko|PRS na|CCP may|VBH hinuhukay|VBTS sila|PRP na|CCP butas|NNC ,|PMC "|PMS sabi|VBS ni|DTP Pia|NNP .|PMP "|PMS
 Ito|PRO talaga|RBT ang|DTC sinasabi|VBTR ko|PRS .|PMP
-Mauubos|VBTF ang|DTC mga|DTCP itlog|NNC kung|RBK hindi|RBF ito|PRO lalagyan|VBTF ng|CCB bakod|NNC ,|PMC "|PMS pagkabahala|NNC na|CCP sabi|VBS ni|DTP Jessie.Tiningnan|NNP ni|DTP Jessie|NNP ang|DTC buong|PRI_CCP paligid|NNC ng|CCB butas|NNC .|PMP
+Mauubos|VBTF ang|DTC mga|DTCP itlog|NNC kung|RBK hindi|RBF ito|PRO lalagyan|VBTF ng|CCB bakod|NNC ,|PMC "|PMS pagkabahala|NNC na|CCP sabi|VBS ni|DTP Jessie|NNP .|PMP
+Tiningnan|VBOF ni|DTP Jessie|NNP ang|DTC buong|PRI_CCP paligid|NNC ng|CCB butas|NNC .|PMP
 Tinuro|VBTS niya|PRS kay|DTP Pia|NNP ang|DTC marami|PRI pang|RBI_CCP mga|DTCP itlog|NNC na|CCP parang|CCT mga|DTCP bato|NNC -|PMS bantiling|FW na|CCP pumuputi|VBTR_VBAF kapag|CCR tinatamaan|VBTR ng|CCB sinag|NNC ng|CCB araw|NNC .|PMP "|PMS
 Itlog|NNC ng|CCB ano|PRQ ito|PRO ,|PMC Manong|VBTF ?|PMQ "|PMS
 tanong|NNC ni|DTP Pia|NNP habang|RBW tinatanaw|VBTR ang|DTC butas|NNC na|CCP hanggang|RBW baywang|NNC ang|DTC lalim|NNC .|PMP "|PMS
@@ -74,7 +76,8 @@ Tutulong|VBTF ako|PRS sa|CCT pagbabalik|NNC sa|CCT kanila|PRSP sa|CCT dagat|NNC 
 Oo|RBT ,|PMC Pia|NNP .|PMP
 Pero|CCT sa|CCT ngayon|RBW umuwi|VBAF na|CCP muna|RBI tayo|PRP .|PMP
 Madilim|JJD na|CCP ,|PMC "|PMS sabi|VBS ni|DTP Jessie|NNP .|PMP
-Saka|CCA niya|PRS hinawakan|VBOF ang|DTC kamay|NNC ng|CCB nakababatang|JJD_CCP kapatid|NNC at|CCA sabay|RBD silang|PRP_CCP umuwi|VBAF sa|CCT bahay.Mahilig|NNC si|DTP Pia|NNP na|CCP maglaro|VBAF sa|CCT tabing|NNC -|PMS dagat|NNC ng|CCB Baryo|NNP Lamawan|NNP .|PMP
+Saka|CCA niya|PRS hinawakan|VBOF ang|DTC kamay|NNC ng|CCB nakababatang|JJD_CCP kapatid|NNC at|CCA sabay|RBD silang|PRP_CCP umuwi|VBAF sa|CCT bahay|NNC .|PMP
+Mahilig|JJD si|DTP Pia|NNP na|CCP maglaro|VBAF sa|CCT tabing|NNC -|PMS dagat|NNC ng|CCB Baryo|NNP Lamawan|NNP .|PMP
 Isang|PRI_CCP araw|NNC ay|LM may|VBH nakita|VBTS siyang|PRS_CCP dalawang|JJN_CCP mga|DTCP bata|NNC na|CCP naghuhukay|VBTS sa|CCT ilalim|JJD ng|CCB Pandan|NNP .|PMP
 Dumating|VBAF si|DTP Kuya|NNP Jessie|NNP at|CCA agad|RBD na|CCP umalis|VBAF ang|DTC mga|DTCP bata|NNC .|PMP
 Ano|PRQ kaya|CCR ang|DTC matutuklasan|VBTF ni|DTP Pia|NNP sa|CCT inuuwian|VBTR ng|CCB mga|DTCP pawikan|NNC kasama|CCB si|DTP Jessie|NNP ?|PMQ

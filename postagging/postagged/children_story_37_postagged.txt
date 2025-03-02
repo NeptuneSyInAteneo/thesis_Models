@@ -11,7 +11,8 @@ Tawagin|VBTF_VBOF mo|PRS na|RBI rin|RBI ang|DTC Tatay|NNC mo|PRS at|CCA mag|VBW 
 Budang|NNP ,|PMC pag|CCR -|PMS aralan|NNC mo|PRS na|CCP kung|RBK paano|RBQ magsaing|VBW .|PMP
 Kung|CCR wala|VBN kami|PRP dito|PRL ng|CCB Nanay|NNC mo|PRS sa|CCT bahay|NNC ,|PMC ay|LM dapat|VBS marunong|JJD ka|PRS nang|RBW magluto|VBW ng|CCB iyong|PRSP_CCP pagkain|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tatay|NNP Dodong|NNP .|PMP "|PMS
 Gusto|VBS ko|PRS po|RBS talaga|RBT na|CCP matutunan|VBW ang|DTC pagsaing|NNC at|CCA pagluto|NNC !|PMS "|PMS
-sagot|NNC ni|DTP Budang.Pagkatanghali|NNP ,|PMC pinaghanda|VBTR_VBRF ni|DTP Nanay|NNP Isay|NNP si|DTP Budang|NNP ng|CCB kararaw|NNC at|CCA kaldero|NNC .|PMP "|PMS
+sagot|NNC ni|DTP Budang|NNP .|PMP
+Pagkatanghali|NNP ,|PMC pinaghanda|VBTR_VBRF ni|DTP Nanay|NNP Isay|NNP si|DTP Budang|NNP ng|CCB kararaw|NNC at|CCA kaldero|NNC .|PMP "|PMS
 Kumuha|VBAF ka|PRS ng|CCB isang|PRI_CCP lata|NNC ng|CCB bigas|NNC at|CCA ilagay|VBOF mo|PRS ito|PRO sa|CCT kararaw|NNC .|PMP
 Tamang|JJD_CCP -|PMS tama|JJD lang|RBI ang|DTC isang|PRI_CCP latang|NNC_CCP bigas|NNC para|CCT sa|CCT ating|PRSP_CCP dalawa|CDB .|PMP
 Tahipan|NNP ang|DTC bigas|NNC sa|CCT pamamagitan|NNC ng|CCB paghagis|NNC ng|CCB bigas|NNC sa|CCT hangin|NNC at|CCA pagsalo|NNC gamit|VBS ang|DTC kararaw|NNC upang|CCB maihiwalay|VBW ang|DTC ipa|FW o|CCT binlid|FW ,|PMC at|CCA mga|DTCP maliliit|JJD na|CCP bato|NNC .|PMP "|PMS
@@ -21,7 +22,8 @@ Tinuruan|VBTS rin|RBI ni|DTP Nanay|NNP Isay|NNP si|DTP Budang|NNP kung|RBK paano
 Sukatin|VBOF mo|PRS ang|DTC tubig|NNC hanggang|RBW sa|CCT gitnang|JJD_CCP guhit|NNC ng|CCB iyong|PRSP_CCP hinlalaki|NNC .|PMP
 Kailangang|VBS_CCP sakto|JJD lang|RBI ang|DTC dami|NNC ng|CCB iyong|PRSP_CCP tubig|NNC para|CCT hindi|RBF maging|VBW mabasa|VBW ang|DTC iyong|PRSP_CCP sinaing|NNC .|PMP
 Paglagay|NNP mo|PRS sa|CCT kalan|NNC ay|LM siguraduhin|VBOF mong|PRS_CCP nakasarado|VBTS nang|RBD mabuti|RBD ang|DTC kaldero|NNC para|CCT mabilis|RBD itong|PRO_CCP maluto|VBW ,|PMC "|PMS pagpatuloy|NNC niya|PRS .|PMP
-Habang|RBW naghihintay|VBTR na|CCP kumulo|VBTS_VBAF ang|DTC sinaing|FW ,|PMC inihanda|VBTS nila|PRP ang|DTC dahon|NNC ng|CCB malunggay|NNC na|CCP ilalagay|VBTF sa|CCT sinabawang|NNC_CCP isda.Nang|JJD_CCP kumulo|NNC na|CCP ang|DTC tubig|NNC ng|CCB sinaing|FW ,|PMC binuksan|VBOF ni|DTP Nanay|NNP Isay|NNP ang|DTC kaldero|NNC para|CCT ito|PRO ay|LM pasingawin|RBD .|PMP "|PMS
+Habang|RBW naghihintay|VBTR na|CCP kumulo|VBTS_VBAF ang|DTC sinaing|FW ,|PMC inihanda|VBTS nila|PRP ang|DTC dahon|NNC ng|CCB malunggay|NNC na|CCP ilalagay|VBTF sa|CCT sinabawang|VBTS_CCP isda|NNC .|PMP
+Nang|RBW kumulo|CDB na|CCP ang|DTC tubig|NNC ng|CCB sinaing|FW ,|PMC binuksan|VBOF ni|DTP Nanay|NNP Isay|NNP ang|DTC kaldero|NNC para|CCT ito|PRO ay|LM pasingawin|RBD .|PMP "|PMS
 Kung|CCR mawalan|VBW na|CCP ito|PRO ng|CCB tubig|NNC ,|PMC pahinaan|NNC mo|PRS lamang|RBI ang|DTC apoy|NNC para|CCT ito|PRO ay|LM maluto|VBW na|RBI ,|PMC "|PMS pagpapaliwanag|NNC ni|DTP Nanay|NNP Isay|NNP .|PMP
 Pinasok|VBOF niya|PRS ang|DTC uling|NNC sa|CCT lata|NNC para|CCT magamit|VBW pa|RBI itong|PRO_CCP muli|RBW .|PMP "|PMS
 Nakalimutan|RBD nating|PRP_CCP maglagay|VBAF ng|CCB dahon|NNC ng|CCB pandan|NNC ,|PMC Nanay|NNC !|PMS "|PMS
@@ -33,7 +35,8 @@ Nang|RBW sumunod|VBAF na|CCP araw|NNC ,|PMC si|DTP Budang|NNP na|CCP ang|DTC nag
 Sinunod|VBTS niya|PRS ang|DTC lahat|PRI ng|CCB sinabi|VBTS ni|DTP Nanay|NNP Isay|NNP .|PMP "|PMS
 Ikaw|NNP na|CCP ang|DTC bahala|NNC riyan|NNC sa|CCT ating|PRSP_CCP kusina|NNC ,|PMC ha|NNCA .|PMP
 Hindi|RBF na|CCP tayo|PRP magluluto|VBW ng|CCB ulam|NNC dahil|CCR meron|VBH pang|RBI_CCP natira|VBTS kanina|RBW ,|PMC "|PMS sabi|VBS ni|DTP Nanay|NNP Isay|NNP .|PMP
-Pinunasan|VBTS niya|PRS kaagad|RBW ang|DTC mga|DTCP bintana|NNC sa|CCT loob|NNC ng|CCB bahay.Habang|JJD_CCP nagbabantay|VBTR si|DTP Budang|NNP ,|PMC nakita|VBTS niyang|PRS_CCP nangunguha|VBTR ng|CCB aratiles|FW sina|DTPP Nene|NNP at|CCA Toto|NNP sa|CCT labas|NNC ng|CCB kanilang|PRSP_CCP bakuran|NNC .|PMP "|PMS
+Pinunasan|VBTS niya|PRS kaagad|RBW ang|DTC mga|DTCP bintana|NNC sa|CCT loob|NNC ng|CCB bahay|NNC .|PMP
+Habang|RBW nagbabantay|VBTS si|DTP Budang|NNP ,|PMC nakita|VBTS niyang|PRS_CCP nangunguha|VBTR ng|CCB aratiles|FW sina|DTPP Nene|NNP at|CCA Toto|NNP sa|CCT labas|NNC ng|CCB kanilang|PRSP_CCP bakuran|NNC .|PMP "|PMS
 Nene|NNP !|PMS "|PMS
 tawag|VBS ni|DTP Budang|NNP .|PMP "|PMS
 Bigyan|VBOF ninyo|PRP ako|PRS ng|CCB aratiles|FW !|PMS "|PMS
@@ -43,7 +46,8 @@ Mas|JJCC mabilis|JJD tayo|PRP kapag|CCR aakyatin|VBTF ko|PRS ang|DTC kahoy|NNC ,
 Kinuha|VBOF niya|PRS ang|DTC kaniyang|PRSP_CCP tsinelas|NNC at|CCA saka|CCA umakyat|VBAF .|PMP "|PMS
 Doon|PRL sa|CCT kabilang|JJD_CCP sanga|NNC .|PMP
 Madami|PRI pa|RBI doong|PRO_CCP mga|DTCP hinog|NNC na|CCP aratiles|FW !|PMS "|PMS
-sigaw|NNC ni|DTP Nene.Maabot|NNP na|CCP sana|VBS ni|DTP Budang|NNP ang|DTC sanga|NNC nang|RBW maamoy|VBW niya|PRS ang|DTC sunog|NNC na|CCP sinaing|VBTS .|PMP
+sigaw|NNC ni|DTP Nene|NNP .|PMP
+Maabot|VBW na|CCP sana|VBS ni|DTP Budang|NNP ang|DTC sanga|NNC nang|RBW maamoy|VBW niya|PRS ang|DTC sunog|NNC na|CCP sinaing|VBTS .|PMP
 Dali|NNP -|PMS dali|JJD siyang|PRS_CCP bumaba|VBAF at|CCA tumakbo|VBAF pabalik|RBD ng|CCB bahay|NNC !|PMS
 Pagdating|VBW niya|PRS sa|CCT kusina|NNC ,|PMC pinatay|VBTS na|RBI ni|DTP Nanay|NNP Isay|NNP ang|DTC apoy|NNC .|PMP "|PMS
 Ay|NNP naku|NNP Budang|NNP !|PMS
@@ -63,7 +67,9 @@ Opo|NNP ,|PMC Tatay|NNC .|PMP "|PMS
 Maaga|JJD pang|RBI_CCP nagising|VBTS si|DTP Budang|NNP .|PMP
 Nagsaing|VBTS siya|PRS at|CCA binantayan|VBTS ito|PRO nang|RBD mabuti|RBD .|PMP
 Hindi|RBF sunog|NNC ,|PMC hindi|RBF hilaw|JJD ,|PMC at|CCA bagkus|CCT ,|PMC ay|LM amoy|NNC ang|DTC halimuyak|NNC ng|CCB dahon|NNC ng|CCB pandan|NNC sa|CCT sinaing|NNC ni|DTP Budang|NNP .|PMP
-Tumulong|VBAF pa|RBI siya|PRS kay|DTP Nanay|NNP Isay|NNP na|CCP magluto|VBW ng|CCB tortang|NNC_CCP talong.Pinuri|NNC ng|CCB kaniyang|PRSP_CCP mga|DTCP magulang|NNC si|DTP Budang|NNP .|PMP
-Masayang|JJD_CCP kumain|VBAF ng|CCB masarap|JJD na|CCP almusal|NNC ang|DTC kanilang|PRSP_CCP pamilya.Tinuruan|NNC ni|DTP Nanay|NNP Isay|NNP kung|RBK paano|RBQ magluto|VBW at|CCA magsaing|VBW si|DTP Budang|NNP .|PMP
+Tumulong|VBAF pa|RBI siya|PRS kay|DTP Nanay|NNP Isay|NNP na|CCP magluto|VBW ng|CCB tortang|RBD talong|JJN_CCP .|PMP
+Pinuri|VBOF ng|CCB kaniyang|PRSP_CCP mga|DTCP magulang|NNC si|DTP Budang|NNP .|PMP
+Masayang|JJD_CCP kumain|VBAF ng|CCB masarap|JJD na|CCP almusal|NNC ang|DTC kanilang|PRSP_CCP pamilya|NNC .|PMP
+Tinuruan|VBOF ni|DTP Nanay|NNP Isay|NNP kung|RBK paano|RBQ magluto|VBW at|CCA magsaing|VBW si|DTP Budang|NNP .|PMP
 Madali|RBD lang|RBI naman|RBI pala|NNC ang|DTC mga|DTCP hakbang|NNC .|PMP
 Ngunit|CCT ,|PMC noong|RBW_CCP umuwi|VBAF si|DTP Tatay|NNP Dodong|NNP halin|NNC sa|CCT bukid|NNC ay|LM may|VBH paalala|NNC ito|PRO kay|DTP Budang|NNP .|PMP

@@ -1,20 +1,30 @@
 Sina|DTPP Tiwi|NNP at|CCA Boni|NNP ay|LM mga|DTCP tagapagtuklas|NNC ng|CCB kalawakan|NNC .|PMP
-Ang|DTC kanilang|PRSP_CCP layunin|NNC ay|LM makahanap|VBW ng|CCB planeta.Ang|NNC_CCP planeta|NNC ay|LM bilog|JJD at|CCA asul|JJD .|PMP
+Ang|DTC kanilang|PRSP_CCP layunin|NNC ay|LM makahanap|VBW ng|CCB planeta|NNC .|PMP
+Ang|DTC planeta|NNC ay|LM bilog|JJD at|CCA asul|JJD .|PMP
 Kailangan|VBS nilang|PRP_CCP mahanap|VBW iyon|PRO sa|CCT lalong|JJCC_CCP madaling|JJD_CCP panahon|NNC .|PMP
-Wala|VBN na|CCP silang|PRP_CCP sapat|JJD na|CCP oras.Una|NNC ,|PMC kailangan|VBS nila|PRP ng|CCB sasakyang|NNC_CCP pangkalawakan|NNC .|PMP
-Kailangan|VBS nilang|PRP_CCP maghanap|VBW sa|CCT madilim|JJD na|CCP silid.Natagpuan|NNC nina|DTPP Tiwi|NNP at|CCA Boni|NNP ang|DTC sasakyang|NNC_CCP pangkalawakan|NNC !|PMS
+Wala|VBN na|CCP silang|PRP_CCP sapat|JJD na|CCP oras|NNC .|PMP
+Una|CDB ,|PMC kailangan|VBS nila|PRP ng|CCB sasakyang|NNC_CCP pangkalawakan|NNC .|PMP
+Kailangan|VBS nilang|PRP_CCP maghanap|VBW sa|CCT madilim|JJD na|CCP silid|NNC .|PMP
+Natagpuan|VBTS nina|DTPP Tiwi|NNP at|CCA Boni|NNP ang|DTC sasakyang|NNC_CCP pangkalawakan|NNC !|PMS
 Pinagana|VBTS nila|PRP ang|DTC makina|NNC .|PMP
 Sila|PRP ay|LM naghanda|VBTS na|CCP sa|CCT paglalakbay|NNC .|PMP
 Nagsimula|VBTS na|RBI ang|DTC paglalakbay!Sa|VBW isang|PRI_CCP iglap|NNC ang|DTC sasakyang|NNC_CCP pangkalawan|JJD ay|LM mabilis|RBD na|CCP lumipad|VBAF .....|NNPA .|PMP
-papunta|VBW sa|CCT mahiwagang|JJD_CCP kalawakan.Maraming|NNC_CCP bagay|NNC ang|DTC palutang|NNC -|PMS lutang|NNC sa|CCT kalawakan|NNC .|PMP
-Isa|PRI ...|PMS dalawa|CDB ...|PMS tatlo|CDB ...|PMS at|CCA marami|PRI pang|RBI_CCP iba!Isa|VBOF ba|RBI sa|CCT mga|DTCP ito|PRO ang|DTC planetang|NNC_CCP hinahanap|VBTR nila?Singhot|VBTR . . .|NNPA Singhot|NNP ...|PMS May|VBH nakita|VBTS silang|PRP_CCP dalawang|JJN_CCP bilog|NNC na|CCP planeta|NNC ,|PMC pero|CCT hindi|RBF ito|PRO asul.Singhot|CCT_CCA ...|PMS Singhot|NNP ...|PMS May|VBH nag|NNCA -|PMS iisang|PRI_CCP kayumangging|JJD_CCP batikang|JJD_CCP planeta|NNC .|PMP
+papunta|VBW sa|CCT mahiwagang|JJD_CCP kalawakan|NNC .|PMP
+Maraming|PRI_CCP bagay|NNC ang|DTC palutang|NNC -|PMS lutang|NNC sa|CCT kalawakan|NNC .|PMP
+Isa|PRI ...|PMS dalawa|CDB ...|PMS tatlo|CDB ...|PMS at|CCA marami|PRI pang|RBI_CCP iba!Isa|VBOF ba|RBI sa|CCT mga|DTCP ito|PRO ang|DTC planetang|NNC_CCP hinahanap|VBTR nila?Singhot|VBTR . . .|NNPA Singhot|NNP ...|PMS May|VBH nakita|VBTS silang|PRP_CCP dalawang|JJN_CCP bilog|NNC na|CCP planeta|NNC ,|PMC pero|CCT hindi|RBF ito|PRO asul|JJD .|PMP
+Singhot|NNP ...|PMS Singhot|NNP ...|PMS May|VBH nag|NNCA -|PMS iisang|PRI_CCP kayumangging|JJD_CCP batikang|JJD_CCP planeta|NNC .|PMP
 Hindi|RBF ito|PRO ang|DTC hinahanap|VBTR ni|DTP Boni|NNP .|PMP
-May|VBH isa|PRI pang|RBI_CCP bilog|JJD na|CCP planeta|NNC ,|PMC pero|CCT hindi|RBF pa|RBI rin|RBI ito|PRO ang|DTC kaniyang|PRSP_CCP hinahanap.Singhot|VBTR ...|PMS singhot|NNC ...|PMS Nakaamoy|VBTS si|DTP Boni|NNP ng|CCB isang|PRI_CCP pamilyar|JJD na|CCP bagay.Ayun|NNP !|PMS
-Iyon|PRO ang|DTC planeta|NNC ni|DTP Boni.Naku|NNP po|RBS !|PMQ
-Isa|PRI palang|RBI_CCP dambuhalang|JJD_CCP halimaw|NNC ang|DTC nakabantay|VBTS dito.Hindi|RBF susuko|VBTF si|DTP Boni|NNP .|PMP
+May|VBH isa|PRI pang|RBI_CCP bilog|JJD na|CCP planeta|NNC ,|PMC pero|CCT hindi|RBF pa|RBI rin|RBI ito|PRO ang|DTC kaniyang|PRSP_CCP hinahanap|VBTR .|PMP
+Singhot|NNP ...|PMS singhot|NNC ...|PMS Nakaamoy|VBTS si|DTP Boni|NNP ng|CCB isang|PRI_CCP pamilyar|JJD na|CCP bagay|NNC .|PMP
+Ayun|NNP !|PMS
+Iyon|PRO ang|DTC planeta|NNC ni|DTP Boni|NNP .|PMP
+Naku|PRS po|RBS !|PMQ
+Isa|PRI palang|RBI_CCP dambuhalang|JJD_CCP halimaw|NNC ang|DTC nakabantay|VBTS dito|PRL .|PMP
+Hindi|RBF susuko|VBTF si|DTP Boni|NNP .|PMP
 Kailangan|VBS niyang|PRS_CCP makuha|VBW ang|DTC planetang|NNC_CCP iyon|PRO .|PMP
 Aray|NNP !|PMS
-Nauntog|VBTS si|DTP Boni|NNP sa|CCT sasakyang|NNC_CCP pangkalawakan.Ang|JJD_CCP sasakyan|NNC ay|LM yumanig|VBAF ,|PMC umikot|VBAF ,|PMC at|CCA bumaliktad!WhoooahNaku|VBAF po|RBS ,|PMC ang|DTC sasakyan|NNC ay|LM tuluyang|RBD_CCP nasira|VBTS .|PMP "|PMS
+Nauntog|VBTS si|DTP Boni|NNP sa|CCT sasakyang|NNC_CCP pangkalawakan|NNC .|PMP
+Ang|DTC sasakyan|NNC ay|LM yumanig|VBAF ,|PMC umikot|VBAF ,|PMC at|CCA bumaliktad!WhoooahNaku|VBAF po|RBS ,|PMC ang|DTC sasakyan|NNC ay|LM tuluyang|RBD_CCP nasira|VBTS .|PMP "|PMS
 Saklolo|NNP !|PMS "|PMS "|PMS
 Tiwi|NNP ?|PMQ "|PMS "|PMS
 Bakit|PRQ ka|PRS naglalaro|VBTR dito|PRL sa|CCT silong|NNC ?|PMQ

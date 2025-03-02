@@ -1,33 +1,48 @@
 Oh|NNP ,|PMC tumila|VBAF na|RBI ang|DTC ulan|NNC !|PMS
 Maaari|VBS na|CCP akong|PRS_CCP lumabas|VBAF .|PMP
-Mayroon|VBH akong|PRS_CCP mahalagang|JJD_CCP misyon.Kailangan|NNC kong|PRS_CCP maghanap|VBAF ng|CCB espesyal|JJD na|CCP kaibigan|NNC na|CCP makakasama|VBTF ko|PRS sa|CCT pagtatayo|NNC ng|CCB pugad.Kailangan|NNC ko|PRS ring|RBI_CCP mahanap|VBW ang|DTC sinag|NNC ng|CCB buwan.Ang|JJD_CCP sinag|NNC ng|CCB buwan|NNC ang|DTC magiging|VBTF gabay|NNC ko|PRS .|PMP
+Mayroon|VBH akong|PRS_CCP mahalagang|JJD_CCP misyon|NNC .|PMP
+Kailangan|VBS kong|PRS_CCP maghanap|VBAF ng|CCB espesyal|JJD na|CCP kaibigan|NNC na|CCP makakasama|VBTF ko|PRS sa|CCT pagtatayo|NNC ng|CCB pugad|NNC .|PMP
+Kailangan|VBS ko|PRS ring|RBI_CCP mahanap|VBW ang|DTC sinag|NNC ng|CCB buwan|NNC .|PMP
+Ang|DTC sinag|NNC ng|CCB buwan|NNC ang|DTC magiging|VBTF gabay|NNC ko|PRS .|PMP
 Ngunit|CCT napakarami|JJCS_JJD ng|CCB ilaw|NNC rito|PRL ,|PMC alin|PRQ sa|CCT mga|DTCP ito|PRO ang|DTC sinag|NNC ng|CCB buwan?Aha|NNP ,|PMC ang|DTC ilaw|NNC na|CCP iyon|PRO ang|DTC pinakamaliwanag|JJCS_JJD at|CCA may|VBH mga|DTCP nagkukumpulan|VBTS din|RBI .|PMP
 Marahil|RBM ay|LM naroroon|PRL din|RBI ang|DTC espesyal|JJD kong|PRS_CCP kaibigan|NNC .|PMP
 Tingnan|VBOF ko|PRS nga!Kailangan|RBL kong|PRS_CCP lumipad|VBAF ng|CCB mas|JJCC mataas|JJD .|PMP
-Kapag|CCR mataas|JJD ang|DTC lipad|NNC ko|PRS ,|PMC mas|JJCC marami|PRI akong|PRS_CCP magiging|VBTF kaibigang|NNC_CCP mga|DTCP gamo|NNC -|PMS gamo.Ow|FW ,|PMC ow|FW !|PMS
+Kapag|CCR mataas|JJD ang|DTC lipad|NNC ko|PRS ,|PMC mas|JJCC marami|PRI akong|PRS_CCP magiging|VBTF kaibigang|NNC_CCP mga|DTCP gamo|NNC -|PMS gamo|NNCA .|PMP
+Ow|NNP ,|PMC ow|FW !|PMS
 Anong|PRQ_CCP nangyayari|VBTR ?|PMQ
-Patalbog|NNP -|PMS talbog|JJD lang|RBI ako.Maghahanap|JJD pa|RBI ako|PRS ng|CCB ibang|PRI_CCP liwanag|NNC .|PMP
-Baka|CCR sakaling|RBM mas|JJCC madali|JJD akong|PRS_CCP makatatagpo|VBW ng|CCB kaibigan|NNC doon.Uy|NNC ,|PMC ano|PRQ kaya|CCR iyon|PRO ?|PMQ
+Patalbog|NNP -|PMS talbog|JJD lang|RBI ako|PRS .|PMP
+Maghahanap|VBTF pa|RBI ako|PRS ng|CCB ibang|PRI_CCP liwanag|NNC .|PMP
+Baka|CCR sakaling|RBM mas|JJCC madali|JJD akong|PRS_CCP makatatagpo|VBW ng|CCB kaibigan|NNC doon|PRL .|PMP
+Uy|NNP ,|PMC ano|PRQ kaya|CCR iyon|PRO ?|PMQ
 Ang|DTC laki|NNC !|PMS
 Mukhang|RBM nakakatakot|RBD !|PMQ
-Isang|PRI_CCP duyan|NNC lang|RBI ,|PMC nakahuhuli|VBTS ito|PRO ng|CCB maraming|PRI_CCP gamo|FW -|PMS gamo.Oh|FW hindi|RBF !|PMQ
+Isang|PRI_CCP duyan|NNC lang|RBI ,|PMC nakahuhuli|VBTS ito|PRO ng|CCB maraming|PRI_CCP gamo|FW -|PMS gamo|FW .|PMP
+Oh|NNP hindi|RBF !|PMQ
 Sinusubukan|VBTR tayong|PRP_CCP hulihin|VBOF ng|CCB mga|DTCP batang|JJD_CCP tao!Shoo|NNC !|PMS
 Shoo!Kailangan|VBTR kong|PRS_CCP lumayo|VBAF .|PMP
 Mapanganib|NNP dito!Wow|FW ,|PMC nakatagpo|VBTS na|CCP silang|PRP_CCP lahat|PRI ng|CCB kaibigan|NNC .|PMP
-Tiyak|RBD ,|PMC makahahanap|VBTF din|RBI ako|PRS ng|CCB para|CCT sa|CCT akin.Hindi|RBF ako|PRS maaaring|RBM sumuko!Aha|VBAF !|PMQ
+Tiyak|RBD ,|PMC makahahanap|VBTF din|RBI ako|PRS ng|CCB para|CCT sa|CCT akin|PRSP .|PMP
+Hindi|RBF ako|PRS maaaring|RBM sumuko!Aha|VBAF !|PMQ
 May|VBH kislap|NNC ng|CCB liwanag|NNC banda|NNC roon|PRL .|PMP
 Iyon|PRO na|CCP marahil|RBM ang|DTC sinag|NNC ng|CCB buwan|NNC .|PMP
-Kailangan|VBS kong|PRS_CCP pumunta|VBAF roon.Oh|FW ,|PMC anong|PRQ_CCP uri|NNC ng|CCB kislap|NNC iyon|PRO ?|PMQ
+Kailangan|VBS kong|PRS_CCP pumunta|VBAF roon|PRL .|PMP
+Oh|NNP ,|PMC anong|PRQ_CCP uri|NNC ng|CCB kislap|NNC iyon|PRO ?|PMQ
 Bakit|PRQ ang|DTC ilaw|NNC niya|PRS ay|LM hindi|RBF gaanong|PRC_CCP maliwanag|JJD ?|PMQ
-Kailangan|VBS ko|PRS pang|RBI_CCP lumapit.Hindi|VBAF pala|NNC ito|PRO ang|DTC pinagmumulan|VBTR_VBRF ng|CCB liwanag|NNC .|PMP
+Kailangan|VBS ko|PRS pang|RBI_CCP lumapit|VBAF .|PMP
+Hindi|RBF pala|NNC ito|PRO ang|DTC pinagmumulan|VBTR_VBRF ng|CCB liwanag|NNC .|PMP
 Tubig|NNC !|PMS
 Bakit|PRQ maraming|PRI_CCP gamo|FW -|PMS gamo|FW sa|CCT tubig?Nahulog|NNC kaya|CCR sila|PRP sa|CCT isang|PRI_CCP patibong|NNC ?|PMQ
-Kailangan|VBS kong|PRS_CCP lumayo.Ah|VBAF ,|PMC may|VBH mas|JJCC maliwanag|JJD at|CCA mas|JJCC mainit|JJD na|CCP ilaw|NNC banda|NNC roon|PRL .|PMP
-Iyon|PRO na|CCP marahil|RBM ang|DTC sinag|NNC ng|CCB buwan.Oh|FW ,|PMC anong|PRQ_CCP nilalang|NNC iyan|PRO ?|PMQ
-Nanlilisik|VBTR ang|DTC kanyang|PRSP_CCP mga|DTCP mata.Lumabas|VBW ang|DTC dila|NNC nito.Ilag!Hinila|VBTR ako|PRS ng|CCB isang|PRI_CCP gamo|FW -|PMS gamo|FW palayo|RBD .|PMP
+Kailangan|VBS kong|PRS_CCP lumayo|VBAF .|PMP
+Ah|RBJ ,|PMC may|VBH mas|JJCC maliwanag|JJD at|CCA mas|JJCC mainit|JJD na|CCP ilaw|NNC banda|NNC roon|PRL .|PMP
+Iyon|PRO na|CCP marahil|RBM ang|DTC sinag|NNC ng|CCB buwan|NNC .|PMP
+Oh|NNP ,|PMC anong|PRQ_CCP nilalang|NNC iyan|PRO ?|PMQ
+Nanlilisik|VBTR ang|DTC kanyang|PRSP_CCP mga|DTCP mata|NNC .|PMP
+Lumabas|VBAF ang|DTC dila|NNC nito|PRO .|PMP
+Ilag!Hinila|VBTR ako|PRS ng|CCB isang|PRI_CCP gamo|FW -|PMS gamo|FW palayo|RBD .|PMP
 Napakapino|VBTS ng|CCB kanyang|PRSP_CCP galaw|NNC .|PMP
 Gusto|VBS niya|PRS kaya|CCR akong|PRS_CCP maging|VBW espesyal|JJD na|CCP kaibigan?Oh|NNC ,|PMC nahulog|VBTS ang|DTC kanyang|PRSP_CCP mga|DTCP pakpak|NNC !|PMS
-Oo|RBT ang|DTC ibig|VBS niyang|PRS_CCP sabihin.Nagtagumpay|RBL_NNP ang|DTC aking|PRSP_CCP misyon|NNC !|PMS
+Oo|RBT ang|DTC ibig|VBS niyang|PRS_CCP sabihin|VBOF .|PMP
+Nagtagumpay|VBTS ang|DTC aking|PRSP_CCP misyon|NNC !|PMS
 Mayroon|VBH na|CCP akong|PRS_CCP isang|PRI_CCP espesyal|JJD na|CCP kaibigan|NNC .|PMP
 Ngayon|RBW ay|LM handa|JJD na|CCP akong|PRS_CCP bumuo|VBAF ng|CCB bagong|JJD_CCP pugad!Ating|NNC_CCP Alamin|NNP Ang|DTC Tungkol|RBR Sa|CCT :|PMS Gamo|NNP -|PMS gamo|FW at|CCA Anay|NNP Narinig|VBTS mo|PRS na|CCP ba|RBI ang|DTC insektong|NNC_CCP tinatawag|VBTR na|CCP anay|NNC ?|PMQ
 Ito|PRO ay|LM isang|PRI_CCP maliit|JJD na|CCP nilalang|NNC na|CCP naninirahan|VBTR sa|CCT mga|DTCP pangkat|NNC o|CCT kolonya|NNC .|PMP
@@ -36,7 +51,8 @@ Ang|DTC mga|DTCP gamo|NNC -|PMS gamo|FW ay|LM isang|PRI_CCP uri|NNC ng|CCB anay|
 Ang|DTC mga|DTCP ito|PRO lamang|RBI ang|DTC uri|NNC ng|CCB anay|NNC na|CCP may|VBH pakpak|NNC .|PMP
 Ang|DTC iba|PRI pang|RBI_CCP dalawang|JJN_CCP uri|NNC ng|CCB mga|DTCP anay|NNC ay|LM mangagagwa|VBW at|CCA sundalong|NNC_CCP anay|JJD .|PMP
 Tungkulin|NNC ng|CCB mga|DTCP mangagagwang|VBW_CCP anayang|NNC_CCP paghahanda|NNC ng|CCB pugad|NNC ,|PMC paghahanap|NNC ng|CCB pagkain|NNC ,|PMC at|CCA paghahatid|NNC ng|CCB iba|PRI pang|RBI_CCP anay|NNC .|PMP
-Tungkulin|NNC naman|RBI ng|CCB mga|DTCP sundalong|NNC_CCP anay|JJD na|CCP bantayan|VBOF ang|DTC mga|DTCP pugad|NNC mula|RBL sa|CCT iba|PRI pang|RBI_CCP mga|DTCP hayop|NNC ,|PMC tulad|JJC ng|CCB mga|DTCP langgam.Ano|NNC ang|DTC tungkulin|NNC ng|CCB gamo|FW -|PMS gamo|FW ?|PMQ
+Tungkulin|NNC naman|RBI ng|CCB mga|DTCP sundalong|NNC_CCP anay|JJD na|CCP bantayan|VBOF ang|DTC mga|DTCP pugad|NNC mula|RBL sa|CCT iba|PRI pang|RBI_CCP mga|DTCP hayop|NNC ,|PMC tulad|JJC ng|CCB mga|DTCP langgam|NNC .|PMP
+Ano|PRQ ang|DTC tungkulin|NNC ng|CCB gamo|FW -|PMS gamo|FW ?|PMQ
 Ang|DTC mga|DTCP gamo|NNC -|PMS gamo|FW ay|LM may|VBH kakaiba|JJD at|CCA napakahalagang|JJCS_JJD_CCP gampanin|VBOF !|PMQ
 Tungkulin|NNC nila|PRP ang|DTC paghahanap|NNC ng|CCB mga|DTCP kapareha|JJD upang|CCB bumuo|VBAF ng|CCB mga|DTCP pugad|NNC ,|PMC magparami|VBW ,|PMC at|CCA magtayo|VBW ng|CCB mga|DTCP bagong|JJD_CCP kolonya|NNC .|PMP
 Kapag|CCR ang|DTC mga|DTCP gamo|NNC -|PMS gamo|FW ay|LM nagsimula|VBTS na|CCP sa|CCT kanilang|PRSP_CCP misyon|NNC ,|PMC ang|DTC mga|DTCP ito|PRO ay|LM naghahanap|VBTR ng|CCB sinag|NNC ng|CCB buwan|NNC .|PMP
@@ -46,7 +62,8 @@ Nahihirapan|VBTR silang|PRP_CCP makilala|VBW ang|DTC liwanag|NNC .|PMP
 Kaya|CCR naman|RBI madalas|RBD tayong|PRP_CCP makakita|VBW ng|CCB mga|DTCP alitaptap|NNC na|CCP umaaligid|VBTR sa|CCT mga|DTCP ilaw|NNC .|PMP
 Kapag|CCR ang|DTC mga|DTCP alitaptap|NNC ay|LM hindi|RBF makahanap|VBW ng|CCB kapareha|JJD ,|PMC maaari|VBS lamang|RBI silang|PRP_CCP mabuhay|VBW ng|CCB isang|PRI_CCP gabi|NNC .|PMP
 Kapag|CCR naging|VBTS matagumpay|JJD naman|RBI sila|PRP sa|CCT paghahanap|NNC ng|CCB katuwang|JJD ,|PMC bubuo|VBTF sila|PRP ng|CCB bagong|JJD_CCP kolonya|NNC o|CCT grupo|NNC .|PMP
-Ang|DTC mga|DTCP babaeng|JJD_CCP gamo|NNC -|PMS gamo|FW ay|LM maaaring|RBM mangitlog|VBW ng|CCB tatlumpung|JJN_CCP libong|JJN_CCP itlog|NNC sa|CCT isang|PRI_CCP araw.Nakatuon|NNC ang|DTC proyekto|NNC sa|CCT pagbuo|NNC ng|CCB aklat|NNC na|CCP ito|PRO sa|CCT mga|DTCP tema|NNC ng|CCB Science|NNP ,|PMC Technology|NNP ,|PMC Engineering|NNP ,|PMC and|FW Mathematics|NNP (|PMS STEM|NNPA )|PMS sa|CCT pang|RBI_CCP -|PMS araw|NNC -|PMS araw|NNC na|CCP buhay|NNC ng|CCB mga|DTCP bata|NNC .|PMP
+Ang|DTC mga|DTCP babaeng|JJD_CCP gamo|NNC -|PMS gamo|FW ay|LM maaaring|RBM mangitlog|VBW ng|CCB tatlumpung|JJN_CCP libong|JJN_CCP itlog|NNC sa|CCT isang|PRI_CCP araw|NNC .|PMP
+Nakatuon|VBTS ang|DTC proyekto|NNC sa|CCT pagbuo|NNC ng|CCB aklat|NNC na|CCP ito|PRO sa|CCT mga|DTCP tema|NNC ng|CCB Science|NNP ,|PMC Technology|NNP ,|PMC Engineering|NNP ,|PMC and|FW Mathematics|NNP (|PMS STEM|NNPA )|PMS sa|CCT pang|RBI_CCP -|PMS araw|NNC -|PMS araw|NNC na|CCP buhay|NNC ng|CCB mga|DTCP bata|NNC .|PMP
 Ang|DTC proyektong|NNC_CCP ito|PRO ay|LM kinabibilangan|VBTR ng|CCB halos|JJD lahat|PRI ng|CCB babaeng|JJD_CCP manunulat|NNC ,|PMC ilustrador|NNC ,|PMC editor|NNC ,|PMC at|CCA taga|JJD -|PMS disenyo|NNC .|PMP
 Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM binuo|VBTS sa|CCT pamamagitan|NNC ng|CCB book|FW development|FW workshop|FW na|CCP ginanap|VBTS sa|CCT pakikipagtulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundationsa|NNP pamamagitan|NNC ng|CCB Let|NNP 's|NNP Read|NNP program|NNC sa|CCT suporta|NNC ng|CCB Estee|NNP Lauder|NNP Companies|NNP Charity|NNP Foundation|NNP (|PMS ELCCF|NNPA )|PMS .|PMP
 Ang|DTC Let|NNP 's|NNP Read|NNP ay|LM isang|PRI_CCP digital|FW library|FW platform|FW na|CCP may|VBH koleksyon|NNC ng|CCB libu|FW -|PMS libong|NNC_CCP storybook|FW ng|CCB mga|DTCP bata|NNC na|CCP madaling|RBD_CCP ma|CCP -|PMS access|FW at|CCA libre|JJD .|PMP

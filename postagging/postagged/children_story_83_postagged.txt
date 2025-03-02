@@ -14,7 +14,8 @@ Pagkatapos|VBW nating|PRP_CCP kumain|VBAF ay|LM ako|PRS na|CCP po|RBS ang|DTC ma
 Huwag|RBF na|RBI .|PMP
 Ako|PRS na|RBI .|PMP
 Makipaglaro|VBW ka|PRS na|CCP sa|CCT mga|DTCP pinsan|NNC mo|PRS sa|CCT kabila|JJD at|CCA hinihintay|VBTR ka|PRS na|CCP ,|PMC "|PMS sabi|VBS ng|CCB Mama|NNC .|PMP "|PMS
-Salamat|RBS po|RBS ,|PMC Mama|NNC ,|PMC "|PMS sabi|VBS ni|DTP Nanoy|NNP ,|PMC at|CCA tumakbo|VBAF siya|PRS papunta|RBL sa|CCT kabilang|CCB bahay|NNC para|CCT maglaro.Isang|VBW_CCP araw|NNC ,|PMC nagising|VBTS si|DTP Nanoy|NNP na|CCP hinahanap|VBTR ang|DTC Papa|NNP niya|PRS .|PMP "|PMS
+Salamat|RBS po|RBS ,|PMC Mama|NNC ,|PMC "|PMS sabi|VBS ni|DTP Nanoy|NNP ,|PMC at|CCA tumakbo|VBAF siya|PRS papunta|RBL sa|CCT kabilang|CCB bahay|NNC para|CCT maglaro|VBAF .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC nagising|VBTS si|DTP Nanoy|NNP na|CCP hinahanap|VBTR ang|DTC Papa|NNP niya|PRS .|PMP "|PMS
 Ma|NNP !|PMS
 Ma|NNP !|PMS
 nasaan|JJD po|RBS si|DTP Papa|NNP ?|PMQ "|PMS
@@ -49,12 +50,14 @@ O|NNPA ,|PMC bakit|PRQ narito|PRL ka|PRS na|CCP kaagad|RBW ?|PMQ
 Ang|DTC liksi|NNC -|PMS liksi|FW mo|PRS naman|RBI !|PMS "|PMS
 sabi|VBS ng|CCB Mama|NNC niya|PRS na|CCP namamagha|VBTR .|PMP "|PMS
 Tapos|RBW na|CCP ba|RBI kayo|PRP ng|CCB ginagawa|VBTR ninyo|PRP ni|DTP Lina|NNP ?|PMQ "|PMS "|PMS
-Opo|NNP ,|PMC Mama|NNP ,|PMC "|PMS sagot|NNC ni|DTP Nanoy.Araw|NNP -|PMS araw|NNC ganun|PRC na|CCP ang|DTC naging|VBTS ugali|NNC ni|DTP Nanoy|NNP .|PMP
+Opo|NNP ,|PMC Mama|NNP ,|PMC "|PMS sagot|NNC ni|DTP Nanoy|NNP .|PMP
+Araw|NNP -|PMS araw|NNC ganun|PRC na|CCP ang|DTC naging|VBTS ugali|NNC ni|DTP Nanoy|NNP .|PMP
 Lagi|RBW siyang|PRS_CCP alerto|JJD sa|CCT pagtulong|NNC sa|CCT Mama|NNC niya|PRS .|PMP
 Maasikaso|VBTF rin|RBI sa|CCT kapatid|NNC niya|PRS .|PMP
 Masipag|JJD mag|VBW -|PMS aral|NNC .|PMP
 At|CCA kahit|CCT nakikipaglaro|VBTR sa|CCT ibang|PRI_CCP mga|DTCP bata|NNC ,|PMC palagi|RBW siyang|PRS_CCP alisto|JJD .|PMP
-Iyan|PRS si|DTP Nanoy|NNP ,|PMC ang|DTC batang|JJD_CCP di|RBF -|PMS nagpapatawag.Kinaumagahan|VBTR nagyaya|VBTS ang|DTC mga|DTCP kaibigan|NNC ni|DTP Nanoy|NNP na|CCP mamingwit|NNC ng|CCB isda|NNC sa|CCT lawa|NNC .|PMP "|PMS
+Iyan|PRS si|DTP Nanoy|NNP ,|PMC ang|DTC batang|JJD_CCP di|RBF -|PMS nagpapatawag|VBTR .|PMP
+Kinaumagahan|NNP nagyaya|VBTS ang|DTC mga|DTCP kaibigan|NNC ni|DTP Nanoy|NNP na|CCP mamingwit|NNC ng|CCB isda|NNC sa|CCT lawa|NNC .|PMP "|PMS
 Nanoy|NNP ,|PMC di|RBF ba|RBI '|PMS t|NNCA matagal|JJD mo|PRS nang|RBW gusto|VBS na|CCP pumunta|VBAF doon|PRL sa|CCT lawa|NNC ng|CCB Bato|NNC upang|CCB mamangka|VBW at|CCA mamingwit|VBW ng|CCB isda|NNC ?|PMQ
 Tara|NNP na|CCP !|PMS
 Sama|NNP na|CCP kayo|PRP !|PMQ
@@ -66,7 +69,8 @@ Pag|CCR -|PMS uwi|NNCA raw|RBI niya|PRS ay|LM sabay|RBD tayong|PRP_CCP mamamasya
 Alam|VBS kong|PRS_CCP matagal|JJD mo|PRS na|CCP '|PMS yang|PRO gustong|VBS_CCP puntahan|VBOF ,|PMC "|PMS masayang|JJD_CCP ibinalita|VBTS ng|CCB Mama|NNC ni|DTP Nanoy|NNP sakaniya|NNC .|PMP "|PMS
 Yehey|NNP !|PMS
 Yehey|NNP !|PMS "|PMS
-sobrang|JJCS_CCP nagtatalon|VBTR si|DTP Nanoy|NNP sa|CCT kasiyahan.Alas|NNP -|PMS singko|NNC ng|CCB madaling|JJD_CCP araw|NNC ay|LM nagising|VBTS na|CCP si|DTP Nanoy|NNP .|PMP
+sobrang|JJCS_CCP nagtatalon|VBTR si|DTP Nanoy|NNP sa|CCT kasiyahan|NNC .|PMP
+Alas|NNP -|PMS singko|NNC ng|CCB madaling|JJD_CCP araw|NNC ay|LM nagising|VBTS na|CCP si|DTP Nanoy|NNP .|PMP
 Pakakita|VBTS niya|PRS kay|DTP Papa|NNP niya|PRS ay|LM niyakap|VBTS niya|PRS ito|PRO ng|CCB napakahigpit|JJCS_JJD .|PMP "|PMS
 Salamat|RBS ,|PMC Papa|NNP ,|PMC at|CCA nakauwi|VBTS ka|PRS na|CCP ,|PMC "|PMS masayang|JJD_CCP sabi|VBS ni|DTP Nanoy|NNP .|PMP "|PMS
 Nabalitaan|VBTR ko|PRS ,|PMC anak|NNC ,|PMC na|CCP tinutulungan|VBTR mo|PRS ang|DTC Mama|NNP mo|PRS dito|PRL sa|CCT bahay|NNC ,|PMC kaya|CCR ngayon|RBW ay|LM pupuntahan|RBD_CCP natin|PRP ang|DTC matagal|JJD mo|PRS nang|RBW gustong|VBS_CCP puntahan|VBOF .|PMP
@@ -75,7 +79,8 @@ Diretso|JJD na|CCP tayong|PRP_CCP magpipiknik|VBW ,|PMC at|CCA pinapaluto|VBTR k
 Talaga|NNP ,|PMC Papa|NNP ?|PMQ
 Yehey|NNP !|PMS
 Yehey|NNP !|PMS "|PMS
-nagtatalon|VBTR siNanoy|NNC sa|CCT sobrang|JJCS_CCP kasiyahan.Namasyal|JJD na|CCP sila|PRP doon|PRL sa|CCT lawa|NNC ng|CCB Bato|NNC .|PMP
+nagtatalon|VBTR siNanoy|NNC sa|CCT sobrang|JJCS_CCP kasiyahan|NNC .|PMP
+Namasyal|NNP na|CCP sila|PRP doon|PRL sa|CCT lawa|NNC ng|CCB Bato|NNC .|PMP
 Sumasagwan|NNP ang|DTC papa|NNC niya|PRS habang|RBW namimingwit|VBTR naman|RBI si|DTP Nanoy|NNP ng|CCB isda|NNC kasama|CCB ang|DTC Mama|NNC niya|PRS at|CCA si|DTP Lina|NNP .|PMP
 Halos|JJD di|RBF na|CCP mabura|VBW ang|DTC ngiti|NNC sa|CCT labi|NNC ni|DTP Nanoy|NNP .|PMP
 Habang|RBW nagkukuwentuhan|VBTS sila|PRP doon|PRL sa|CCT bangka|NNC ,|PMC napasigaw|VBTS nang|RBW malakas|JJD si|DTP Nanoy|NNP .|PMP "|PMS
@@ -85,4 +90,6 @@ isda|NNC !|PMS "|PMS
 sigaw|NNC ni|DTP Nanoy|NNP na|CCP pinagtatawanan|VBTR_VBRF ng|CCB Papa|NNP at|CCA Mama|NNP niya|PRS .|PMP "|PMS
 Ano|PRQ '|PMS yan|PRO ,|PMC Nanoy|NNP ?|PMQ "|PMS
 tanong|NNC ng|CCB Papa|NNP niya|PRS .|PMP "|PMS
-Nakahuli|VBTS ako|PRS ng|CCB isda|NNC ,|PMC Pa|NNC ,|PMC "|PMS mas|JJCC lalong|JJCC_CCP nadagdagan|VBTS ang|DTC kasiyahan|NNC ni|DTP Nanoy.Masaya|NNP si|DTP Nanoy|NNP dahil|CCR nakompleto|VBTS silang|PRP_CCP magpamilya|VBW at|CCA nakamit|VBTS ang|DTC matagal|JJD na|CCP niyang|PRS_CCP gusto|VBS ,|PMC na|CCP makasama|VBW silang|PRP_CCP mamasyal|VBW doon|PRL sa|CCT lawa|NNC ng|CCB Bato.Nagpatuloy|NNP ang|DTC Papa|NNP ni|DTP Nanoy|NNP sa|CCT pagtatrabaho|NNC bilang|CCT karpintero|NNC sa|CCT iba|PRI -|PMS ibang|PRI_CCP lugar|NNC ,|PMC kaya|CCR nakapag|VBTS -|PMS aral|NNC sa|CCT Nanoy|NNP sa|CCT siyudad|NNC at|CCA lalo|JJCC pang|RBI_CCP nagsipag|VBTS ,|PMC hanggang|RBW sa|CCT lumaki|VBAF siya|PRS na|CCP di|RBF nagpapatawag|VBTR .|PMP
+Nakahuli|VBTS ako|PRS ng|CCB isda|NNC ,|PMC Pa|NNC ,|PMC "|PMS mas|JJCC lalong|JJCC_CCP nadagdagan|VBTS ang|DTC kasiyahan|NNC ni|DTP Nanoy|NNP .|PMP
+Masaya|NNP si|DTP Nanoy|NNP dahil|CCR nakompleto|VBTS silang|PRP_CCP magpamilya|VBW at|CCA nakamit|VBTS ang|DTC matagal|JJD na|CCP niyang|PRS_CCP gusto|VBS ,|PMC na|CCP makasama|VBW silang|PRP_CCP mamasyal|VBW doon|PRL sa|CCT lawa|NNC ng|CCB Bato|NNC .|PMP
+Nagpatuloy|VBTS ang|DTC Papa|NNP ni|DTP Nanoy|NNP sa|CCT pagtatrabaho|NNC bilang|CCT karpintero|NNC sa|CCT iba|PRI -|PMS ibang|PRI_CCP lugar|NNC ,|PMC kaya|CCR nakapag|VBTS -|PMS aral|NNC sa|CCT Nanoy|NNP sa|CCT siyudad|NNC at|CCA lalo|JJCC pang|RBI_CCP nagsipag|VBTS ,|PMC hanggang|RBW sa|CCT lumaki|VBAF siya|PRS na|CCP di|RBF nagpapatawag|VBTR .|PMP

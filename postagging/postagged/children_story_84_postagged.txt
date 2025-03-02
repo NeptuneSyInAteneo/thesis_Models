@@ -10,11 +10,13 @@ Huwag|RBF kang|PRS_CCP pumunta|VBAF diyan|PRL .|PMP
 Huwag|RBF kang|PRS_CCP pumunta|VBAF rito|PRL .|PMP
 Huwag|RBF mong|PRS_CCP hahawakan|VBTF '|PMS yan|PRO .|PMP
 Lahat|PRI bawal|JJD .|PMP "|PMS
-Kaya|CCR si|DTP Pogi|NNP ,|PMC panay|JJD ang|DTC simangot.Habang|JJD_CCP ang|DTC magkapatid|NNC ay|LM namamasyal|VBTR sa|CCT mapupulang|JJD_CCP korales|NNC ,|PMC biglang|RBD_CCP nakaisip|VBTS ng|CCB plano|NNC si|DTP Pogi|NNP .|PMP "|PMS
+Kaya|CCR si|DTP Pogi|NNP ,|PMC panay|JJD ang|DTC simangot|NNC .|PMP
+Habang|RBW ang|DTC magkapatid|NNC ay|LM namamasyal|VBTR sa|CCT mapupulang|JJD_CCP korales|NNC ,|PMC biglang|RBD_CCP nakaisip|VBTS ng|CCB plano|NNC si|DTP Pogi|NNP .|PMP "|PMS
 Pogs|NNP ,|PMC taguan|NNC tayo|PRP .|PMP
 Ako|PRS ang|DTC taya|NNC .|PMP
 Pag|CCR nahuli|VBTS kita|NNC ,|PMC ikaw|PRS ang|DTC maghahanap|VBTF_VBAF ng|CCB alimasag|NNC na|CCP kakainin|VBTF natin|PRP pero|CCT pag|CCR hindi|RBF ,|PMC ako|PRS ang|DTC maghahanap|VBTF_VBAF ng|CCB alimasag|NNC .|PMP "|PMS
-Hamon|NNP ni|DTP Pogi.Nagtago|NNP silang|PRP_CCP dalawa|CDB .|PMP
+Hamon|NNP ni|DTP Pogi|NNP .|PMP
+Nagtago|VBTS silang|PRP_CCP dalawa|CDB .|PMP
 Kaagad|RBD na|CCP nagtago|VBTS si|DTP Pogs|NNP sa|CCT mga|DTCP korales|NNC .|PMP
 At|CCA si|DTP Pogi|NNP ,|PMC ginaya|VBOF ang|DTC kulay|NNC ng|CCB buhangin|NNC .|PMP "|PMS
 Makakatakas|VBTF na|CCP ako|PRS kay|DTP Pogs|NNP .|PMP "|PMS
@@ -26,11 +28,13 @@ Hindi|RBF mo|PRS naman|RBI ako|PRS hinahanap|VBTR .|PMP
 Ikaw|NNP na|CCP ang|DTC kukuha|VBTF ng|CCB kakainin|VBTF natin|PRP .|PMP "|PMS
 At|CCA walang|VBN_CCP sumagot|VBAF kay|DTP Pogs|NNP .|PMP
 Lumangoy|VBAF na|CCP pala|NNC palayo|RBD si|DTP Pogi|NNP .|PMP
-Nakaabot|VBTS siya|PRS sa|CCT madamong|JJD_CCP lugar|NNC ng|CCB karagatan.Sa|NNC gitna|JJD ng|CCB damuhan|NNC ,|PMC mayroong|VBH_CCP malaki|JJD at|CCA matabang|JJD_CCP alimasag|NNC .|PMP
+Nakaabot|VBTS siya|PRS sa|CCT madamong|JJD_CCP lugar|NNC ng|CCB karagatan|NNC .|PMP
+Sa|CCT gitna|JJD ng|CCB damuhan|NNC ,|PMC mayroong|VBH_CCP malaki|JJD at|CCA matabang|JJD_CCP alimasag|NNC .|PMP
 Mabilis|RBD na|CCP pinuluputan|VBTR ito|PRO ni|DTP Pogi|NNP ng|CCB kanyang|PRSP_CCP mga|DTCP galamay|NNC .|PMP
 Nasundan|VBTS pala|NNC siya|PRS ni|DTP Pogs|NNP .|PMP "|PMS
 Pogi|NNP ,|PMC bitawan|VBOF mo|PRS iyan|PRO ,|PMC tora|FW -|PMS tora|NNC iyan|PRO !|PMQ "|PMS "|PMS
-Hinila|VBOF na|CCP si|DTP Pogi|NNP ng|CCB tora|NNC -|PMS tora.Napapikit|RBD si|DTP Pogs|NNP .|PMP
+Hinila|VBOF na|CCP si|DTP Pogi|NNP ng|CCB tora|NNC -|PMS tora|NNC .|PMP
+Napapikit|VBTS si|DTP Pogs|NNP .|PMP
 Umiiyak|VBTR_VBAF si|DTP Pogi|NNP habang|RBW hinihila|VBTR pataas|NNC ng|CCB tora|NNC -|PMS tora|NNC .|PMP
 Naisip|VBTS ni|DTP Pogs|NNP na|CCP wala|VBN na|CCP siyang|PRS_CCP magagawa|VBTF dahil|CCR ganoon|PRC din|RBI ang|DTC nangyari|VBTS sa|CCT kanilang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
 Maganda|JJD ,|PMC makintab|JJD ,|PMC at|CCA mapula|JJD ang|DTC kulay|NNC ng|CCB tora|NNC -|PMS tora|NNC .|PMP

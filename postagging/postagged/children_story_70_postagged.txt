@@ -3,23 +3,31 @@ Ang|DTC agila|NNC na|CCP ito|PRO ay|LM may|VBH mga|DTCP mahaba|JJD at|CCA malapa
 Ang|DTC mga|DTCP ibon|NNC ba|RBI ang|DTC tanging|JJD_CCP mga|DTCP hayop|NNC na|CCP may|VBH pakpak?Hindi|NNC .|PMP
 May|VBH mga|DTCP ilang|PRQ_CCP insekto|NNC na|CCP may|VBH mga|DTCP pakpak|NNC .|PMP
 Ang|DTC tutubi|NNC na|CCP ito|PRO ay|LM may|VBH mga|DTCP pakpak|NNC .|PMP
-Ang|DTC mga|DTCP isdang|NNC_CCP bolador|FW ay|LM may|VBH mga|DTCP palikpik|NNC na|CCP parang|CCT mga|DTCP pakpak.Ang|NNC_CCP parrot|JJD at|CCA hornbill|FW na|CCP ito|PRO ay|LM mayroong|VBH_CCP tuka|NNC .|PMP
+Ang|DTC mga|DTCP isdang|NNC_CCP bolador|FW ay|LM may|VBH mga|DTCP palikpik|NNC na|CCP parang|CCT mga|DTCP pakpak|NNC .|PMP
+Ang|DTC parrot|FW at|CCA hornbill|FW na|CCP ito|PRO ay|LM mayroong|VBH_CCP tuka|NNC .|PMP
 Ang|DTC isang|PRI_CCP tuka|NNC ay|LM maaari|VBS ding|RBI_CCP tawaging|VBOF isang|PRI_CCP beak|NNC .|PMP
 Ang|DTC mga|DTCP ibon|NNC lamang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH tuka?Hindi|NNC .|PMP
-Ang|DTC platypus|FW ay|LM mayroong|VBH_CCP tuka.Ang|JJN_CCP mga|DTCP ibon|NNC lamang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP nangingitlog?Hindi|VBTS .|PMP
-Nangingitlog|VBTR din|RBI ang|DTC mga|DTCP isda|NNC ,|PMC palaka|NNC ,|PMC ahas|NNC at|CCA pagong.Ang|VBW_CCP lalaking|NNC_CCP ibon|NNC ng|CCB paraiso|NNC ay|LM may|VBH maliliwanag|JJD na|CCP kulay|NNC .|PMP
+Ang|DTC platypus|FW ay|LM mayroong|VBH_CCP tuka|NNC .|PMP
+Ang|DTC mga|DTCP ibon|NNC lamang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP nangingitlog?Hindi|VBTS .|PMP
+Nangingitlog|VBTR din|RBI ang|DTC mga|DTCP isda|NNC ,|PMC palaka|NNC ,|PMC ahas|NNC at|CCA pagong|NNC .|PMP
+Ang|DTC lalaking|NNC_CCP ibon|NNC ng|CCB paraiso|NNC ay|LM may|VBH maliliwanag|JJD na|CCP kulay|NNC .|PMP
 Ang|DTC mga|DTCP ibon|NNC lamang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH maliliwanag|JJD na|CCP kulay?Hindi|NNC .|PMP
-Ang|DTC mga|DTCP salagubang|NNC ,|PMC kulisap|NNC ,|PMC paru|FW -|PMS paro|NNC at|CCA isda|NNC ay|LM may|VBH matitingkad|JJD na|CCP kulay.Ang|NNC_CCP agila|NNC at|CCA seagull|NNC na|CCP ito|PRO ay|LM may|VBH matalas|JJD na|CCP mata|NNC .|PMP
+Ang|DTC mga|DTCP salagubang|NNC ,|PMC kulisap|NNC ,|PMC paru|FW -|PMS paro|NNC at|CCA isda|NNC ay|LM may|VBH matitingkad|JJD na|CCP kulay|NNC .|PMP
+Ang|DTC agila|NNC at|CCA seagull|NNC na|CCP ito|PRO ay|LM may|VBH matalas|JJD na|CCP mata|NNC .|PMP
 Ang|DTC mga|DTCP ibon|NNC lang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH matalas|JJD na|CCP mata?Hindi|VBW .|PMP
-Maraming|PRI_CCP hayop|NNC ,|PMC tulad|JJC ng|CCB mga|DTCP pusa|NNC at|CCA buwaya|NNC ,|PMC ang|DTC may|VBH matalas|JJD na|CCP mata.Ang|FW cassowary|FW at|CCA kuwago|NNC na|CCP ito|PRO ay|LM may|VBH matatalas|JJD na|CCP kuko|NNC .|PMP
+Maraming|PRI_CCP hayop|NNC ,|PMC tulad|JJC ng|CCB mga|DTCP pusa|NNC at|CCA buwaya|NNC ,|PMC ang|DTC may|VBH matalas|JJD na|CCP mata|NNC .|PMP
+Ang|DTC cassowary|FW at|CCA kuwago|NNC na|CCP ito|PRO ay|LM may|VBH matatalas|JJD na|CCP kuko|NNC .|PMP
 Ang|DTC mga|DTCP ibon|NNC ba|RBI ang|DTC tanging|JJD_CCP mga|DTCP hayop|NNC na|CCP may|VBH matalas|JJD na|CCP kuko?Hindi|NNC .|PMP
-Ang|DTC Cuscus|NNP ,|PMC kangaroo|JJD at|CCA marami|PRI pang|RBI_CCP ibang|PRI_CCP hayop|NNC ay|LM may|VBH matalas|JJD na|CCP kuko.Ano|NNC ang|DTC pagkakaiba|NNC ng|CCB mga|DTCP ibon|NNC sa|CCT ibang|PRI_CCP mga|DTCP hayop|NNC ?|PMQ
-Ang|DTC mga|DTCP ibon|NNC lamang|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH balahibo.Ang|JJD_CCP mga|DTCP plumahe|FW ay|LM lubhang|JJCS_CCP kapaki|NNC -|PMS pakinabang|NNC .|PMP
+Ang|DTC Cuscus|NNP ,|PMC kangaroo|JJD at|CCA marami|PRI pang|RBI_CCP ibang|PRI_CCP hayop|NNC ay|LM may|VBH matalas|JJD na|CCP kuko|NNC .|PMP
+Ano|PRQ ang|DTC pagkakaiba|NNC ng|CCB mga|DTCP ibon|NNC sa|CCT ibang|PRI_CCP mga|DTCP hayop|NNC ?|PMQ
+Ang|DTC mga|DTCP ibon|NNC lamang|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH balahibo|NNC .|PMP
+Ang|DTC mga|DTCP plumahe|FW ay|LM lubhang|JJCS_CCP kapaki|NNC -|PMS pakinabang|NNC .|PMP
 •|PMS Pinapanatili|VBTR nilang|PRP_CCP mainit|JJD ang|DTC ibon|NNC .|PMP
 •|PMS Tinutulungan|VBTR_VBOF nila|PRP ang|DTC ibon|NNC na|CCP lumipad|VBAF .|PMP
 •|PMS Ang|DTC mga|DTCP plumahe|FW ng|CCB buntot|NNC ay|LM tumutulong|VBTR_VBAF sa|CCT ibon|NNC na|CCP lumiko|VBAF .|PMP
 •|PMS Ang|DTC kulay|NNC ng|CCB kanilang|PRSP_CCP mga|DTCP plumahe|FW ay|LM tumutulong|VBTR_VBAF sa|CCT mga|DTCP ibon|NNC na|CCP magtago|VBW .|PMP
-•|PMS Ang|DTC kulay|NNC ng|CCB kanilang|PRSP_CCP mga|DTCP plumahe|FW ay|LM tumutulong|VBTR_VBAF din|RBI sa|CCT mga|DTCP ibon|NNC na|CCP makahanapng|VBW mapapangasawa.Mga|VBW Tanong|NNC sa|CCT Pag|CCR -|PMS unawa|NNC .|PMP
+•|PMS Ang|DTC kulay|NNC ng|CCB kanilang|PRSP_CCP mga|DTCP plumahe|FW ay|LM tumutulong|VBTR_VBAF din|RBI sa|CCT mga|DTCP ibon|NNC na|CCP makahanapng|RBD_CCP mapapangasawa|VBW .|PMP
+Mga|DTCP Tanong|NNC sa|CCT Pag|CCR -|PMS unawa|NNC .|PMP
 Ang|DTC mga|DTCP ibon|NNC lang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH pakpak|NNC ?|PMQ .|PMP
 Ano|PRQ pang|RBI_CCP mga|DTCP hayop|NNC ang|DTC may|VBH pak|RBD pak|RBD ?|PMQ .|PMP
 Ang|DTC mga|DTCP ibon|NNC lang|RBI ba|RBI ang|DTC maaring|RBM mangitlong|VBW_CCP ?|PMQ .|PMP
@@ -31,10 +39,12 @@ Ano|PRQ ang|DTC pagkakaiba|NNC ng|CCB mga|DTCP ibon|NNC sa|CCT ibang|PRI_CCP mga
 Sa|CCT anong|PRQ_CCP mga|DTCP paraan|NNC kapaki|NNC -|PMS pakinabang|NNC ang|DTC mga|DTCP balahibo|NNC ?|PMQ .|PMP
 Gusto|VBS mo|PRS bang|RBM maging|VBW ibon|NNC ?|PMQ
 Bakit|PRQ ?|PMQ
-Aktibidad|NNP Iguhit|VBOF ang|DTC iyong|PRSP_CCP paboritong|JJD_CCP ibon.Ang|NNC_CCP Bilum|NNP Books|NNP ay|LM naglalathala|RBD ng|CCB mga|DTCP de|FW -|PMS kalidad|NNC na|CCP mapagkukunang|VBW_CCP pang|RBI_CCP -|PMS edukasyon|NNC para|CCT sa|CCT mga|DTCP paaralan|NNC sa|CCT Papua|NNP New|NNP Guinea|NNP .|PMP
+Aktibidad|NNP Iguhit|VBOF ang|DTC iyong|PRSP_CCP paboritong|JJD_CCP ibon|NNC .|PMP
+Ang|DTC Bilum|NNP Books|NNP ay|LM naglalathala|RBD ng|CCB mga|DTCP de|FW -|PMS kalidad|NNC na|CCP mapagkukunang|VBW_CCP pang|RBI_CCP -|PMS edukasyon|NNC para|CCT sa|CCT mga|DTCP paaralan|NNC sa|CCT Papua|NNP New|NNP Guinea|NNP .|PMP
 Ang|DTC aming|PRSP_CCP priyoridad|NNC sa|CCT pag|CCR -|PMS publish|JJD ay|LM literacy|FW .|PMP
 Ang|DTC aming|PRSP_CCP pangako|NNC ay|LM tumulong|RBD na|CCP itaas|JJD ang|DTC mga|DTCP pamantayan|NNC sa|CCT pamamagitan|NNC ng|CCB paggawa|NNC ng|CCB mga|DTCP de-kalidad|JJD na|CCP libro|NNC sa|CCT mga|DTCP makatwirang|JJD_CCP presyo|NNC at|CCA naaayon|VBTR sa|CCT PNG|NNPA Department|NNP of|FW Education|NNP Syllabus|NNP .|PMP
 Ang|DTC Bilum|NNP Books|NNP ay|LM nagpapatakbo|VBTR ng|CCB mga|DTCP workshop|NNC sa|CCT pagsasanay|NNC ng|CCB guro|NNC upang|CCB tulungan|VBTF_VBOF ang|DTC propesyonal|JJD na|CCP pag|CCR -|PMS unlad|JJD ng|CCB mga|DTCP guro|NNC sa|CCT Elementarya|NNP ,|PMC sa|CCT partikular|JJD .|PMP
-Bisitahinang|NNP_CCP aming|PRSP_CCP website|FW :|PMS www.bilumbooks.com|FW o|CCT Facebook.Ang|VBTR_CCP produktong|NNC_CCP ito|PRO ay|LM naging|VBTS posible|JJD sa|CCT pamamagitan|NNC ng|CCB suporta|NNC ng|CCB All|NNP Children|NNP Reading|NNP :|PMS A|NNP Grand|NNP Challenge|NNP for|FW Development|NNP (|PMS ACR|NNPA GCD|NNPA )|PMS Founding|NNP Partners|NNP (|PMS ang|DTC United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP [|PMS USAID|NNPA ]|PMS ,|PMC World|NNP Vision|NNP ,|PMC at|CCA ang|DTC Australian|NNP Government|NNP )|PMS sa|CCT pakikipagtulungan|NNC ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
+Bisitahinang|NNP_CCP aming|PRSP_CCP website|FW :|PMS www.bilumbooks.com|FW o|CCT Facebook|NNP .|PMP
+Ang|DTC produktong|NNC_CCP ito|PRO ay|LM naging|VBTS posible|JJD sa|CCT pamamagitan|NNC ng|CCB suporta|NNC ng|CCB All|NNP Children|NNP Reading|NNP :|PMS A|NNP Grand|NNP Challenge|NNP for|FW Development|NNP (|PMS ACR|NNPA GCD|NNPA )|PMS Founding|NNP Partners|NNP (|PMS ang|DTC United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP [|PMS USAID|NNPA ]|PMS ,|PMC World|NNP Vision|NNP ,|PMC at|CCA ang|DTC Australian|NNP Government|NNP )|PMS sa|CCT pakikipagtulungan|NNC ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
 Inihanda|VBTS ito|PRO ng|CCB The|NNP Asia|NNP Foundation|NNP at|CCA hindi|RBF kinakailangang|VBTR_CCP sumasalamin|VBTR_VBAF sa|CCT mga|DTCP pananaw|NNC ng|CCB ACR|NNPA GCD|NNPA Founding|NNP Partners|NNP o|CCT ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
 Ang|DTC anumang|PRI_CCP adaptasyon|NNC o|CCT pagsasalin|NNC ng|CCB gawaing|NNC_CCP ito|PRO ay|LM hindi|RBF dapat|VBS ituring|VBOF na|CCP isang|PRI_CCP opisyal|JJD na|CCP pagsasalin|NNC ng|CCB ACR|NNPA GCD|NNPA ,|PMC at|CCA ang|DTC ACR|NNPA GCD|NNPA ay|LM hindi|RBF mananagot|VBTF para|CCT sa|CCT anumang|PRI_CCP nilalaman|NNC o|CCT mga|DTCP pagkakamali|NNC sa|CCT pagsasaling|NNC_CCP ito|PRO .|PMP

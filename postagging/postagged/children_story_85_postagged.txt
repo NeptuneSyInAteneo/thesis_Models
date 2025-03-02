@@ -1,22 +1,36 @@
-Ito|PRO ang|DTC bahay|NNC ni|DTP Pusa.Ito|NNP ay|LM si|DTP Aso.Naglalakad|NNP si|DTP Aso|NNP papunta|RBL sa|CCT bahay|NNC ni|DTP Pusa|NNP .|PMP
+Ito|PRO ang|DTC bahay|NNC ni|DTP Pusa|NNP .|PMP
+Ito|PRO ay|LM si|DTP Aso|NNP .|PMP
+Naglalakad|VBTR si|DTP Aso|NNP papunta|RBL sa|CCT bahay|NNC ni|DTP Pusa|NNP .|PMP
 Bukas|JJD ang|DTC pinto|NNC .|PMP
-Bukas|JJD ang|DTC pinto|NNC ng|CCB bahay.Pumasok|NNC sa|CCT pinto|NNC si|DTP Aso|NNP .|PMP
+Bukas|JJD ang|DTC pinto|NNC ng|CCB bahay|NNC .|PMP
+Pumasok|VBAF sa|CCT pinto|NNC si|DTP Aso|NNP .|PMP
 Ngayon|RBW ,|PMC nasa|RBL loob|NNC ng|CCB bahay|NNC si|DTP Aso|NNP .|PMP
-Nasa|RBL loob|JJD na|CCP ng|CCB bahay|NNC ni|DTP Pusa|NNP si|DTP Aso.Subalit|NNP wala|VBN si|DTP Pusa|NNP sa|CCT loob|NNC ng|CCB bahay|NNC .|PMP
+Nasa|RBL loob|JJD na|CCP ng|CCB bahay|NNC ni|DTP Pusa|NNP si|DTP Aso|NNP .|PMP
+Subalit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT loob|NNC ng|CCB bahay|NNC .|PMP
 Hm|NNP !|PMS
 Hm|NNP !|PMS
-Nasaan|VBTS kaya|CCR si|DTP Pusa?Tiningnan|NNP ni|DTP Aso|NNP sa|CCT higaan|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT higaan.Tiningnan|NNC ni|DTP Aso|NNP ang|DTC ilalim|JJD ng|CCB mesa|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT ilalim|JJD ng|CCB mesa.Tiningnan|NNC ni|DTP Aso|NNP sa|CCT harapan|NNC ng|CCB upuan|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT harapan|NNC ng|CCB upuan.Tumingin|NNC si|DTP Aso|NNP sa|CCT likod|NNC ng|CCB pinto|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa.Pagkatapos|NNP ,|PMC nakita|VBTS ni|DTP Aso|NNP ang|DTC isang|PRI_CCP hagdan|NNC .|PMP
+Nasaan|VBTS kaya|CCR si|DTP Pusa?Tiningnan|NNP ni|DTP Aso|NNP sa|CCT higaan|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT higaan|NNC .|PMP
+Tiningnan|VBOF ni|DTP Aso|NNP ang|DTC ilalim|JJD ng|CCB mesa|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT ilalim|JJD ng|CCB mesa|NNC .|PMP
+Tiningnan|VBOF ni|DTP Aso|NNP sa|CCT harapan|NNC ng|CCB upuan|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT harapan|NNC ng|CCB upuan|NNC .|PMP
+Tumingin|VBAF si|DTP Aso|NNP sa|CCT likod|NNC ng|CCB pinto|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP .|PMP
+Pagkatapos|VBW ,|PMC nakita|VBTS ni|DTP Aso|NNP ang|DTC isang|PRI_CCP hagdan|NNC .|PMP
 Nakita|VBTS niya|PRS ang|DTC hagdanan|NNC malapit|JJD sa|CCT puno|NNC .|PMP
-Sira|JJD ang|DTC hagdan.Tumingala|NNC si|DTP Aso|NNP .|PMP
+Sira|JJD ang|DTC hagdan|NNC .|PMP
+Tumingala|VBAF si|DTP Aso|NNP .|PMP
 Tinitingala|VBTR niya|PRS ang|DTC puno|NNC .|PMP
-Tinitingala|VBTR niya|PRS ang|DTC mga|DTCP dahon|NNC ng|CCB puno.May|NNC nakitang|VBTS_CCP paa|NNC si|DTP Aso|NNP .|PMP
+Tinitingala|VBTR niya|PRS ang|DTC mga|DTCP dahon|NNC ng|CCB puno|NNC .|PMP
+May|VBH nakitang|VBTS_CCP paa|NNC si|DTP Aso|NNP .|PMP
 May|VBH paa|NNC sa|CCT gitna|JJD ng|CCB mga|DTCP dahon|NNC .|PMP
 At|CCA nakita|VBTS rin|RBI niya|PRS ang|DTC isang|PRI_CCP kamay|NNC .|PMP
 May|VBH kamay|NNC sa|CCT gitna|JJD ng|CCB mga|DTCP dahon|NNC .|PMP
-At|CCA pagkatapos|VBW ,|PMC nakita|VBTS ni|DTP Aso|NNP ang|DTC isang|PRI_CCP mukha.Nakita|NNC ni|DTP Aso|NNP ang|DTC mukha|NNC ni|DTP Pusa|NNP .|PMP
+At|CCA pagkatapos|VBW ,|PMC nakita|VBTS ni|DTP Aso|NNP ang|DTC isang|PRI_CCP mukha|NNC .|PMP
+Nakita|VBTS ni|DTP Aso|NNP ang|DTC mukha|NNC ni|DTP Pusa|NNP .|PMP
 Si|DTP Pusa|NNP ay|LM nakaupo|VBTS sa|CCT itaas|JJD ng|CCB puno|NNC .|PMP
 Siya|PRS ay|LM nakaupo|VBTS na|CCP may|VBH hawak|JJD na|CCP bola|NNC .|PMP
 Hindi|RBF makaalis|VBW si|DTP Pusa|NNP .|PMP
-Hindi|RBF siya|PRS makababa|VBW dahil|CCR nasira|VBTS ang|DTC hagdanan.Tinulungan|NNC ni|DTP Aso|NNP si|DTP Pusa|NNP .|PMP
-Tinulungan|VBOF ni|DTP Aso|NNP si|DTP Pusa|NNP na|CCP makaalis|VBW sa|CCT itaas|JJD ng|CCB puno.Noong|RBD_CCP makababa|VBW si|DTP Pusa|NNP ,|PMC hinalikan|VBTS niya|PRS nang|RBW buong|PRI_CCP puso|NNC si|DTP Aso.Paalam|NNP ,|PMC Pusa|NNP .|PMP
+Hindi|RBF siya|PRS makababa|VBW dahil|CCR nasira|VBTS ang|DTC hagdanan|NNC .|PMP
+Tinulungan|VBOF ni|DTP Aso|NNP si|DTP Pusa|NNP .|PMP
+Tinulungan|VBOF ni|DTP Aso|NNP si|DTP Pusa|NNP na|CCP makaalis|VBW sa|CCT itaas|JJD ng|CCB puno|NNC .|PMP
+Noong|RBW_CCP makababa|VBW si|DTP Pusa|NNP ,|PMC hinalikan|VBTS niya|PRS nang|RBW buong|PRI_CCP puso|NNC si|DTP Aso|NNP .|PMP
+Paalam|NNP ,|PMC Pusa|NNP .|PMP
 Paalam|NNP ,|PMC Aso|NNC .|PMP

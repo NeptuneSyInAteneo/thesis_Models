@@ -11,7 +11,8 @@ Nay|NNP ,|PMC gusto|VBS ko|PRS po|RBS dito|PRL lang|RBI ako|PRS sa|CCT bahay|NNC
 Sino|PRQ po|RBS ang|DTC magpapakain|VBTF sa|CCT akin|PRSP doon|PRL ?|PMQ
 Baka|NNP hindi|RBF ako|PRS doon|PRL pwedeng|RBT_CCP maglaro|VBAF .|PMP "|PMS "|PMS
 Masaya|NNP sa|CCT paaralan|NNC ,|PMC Bentong|NNC_CCP !|PMQ
-Magugustuhan|VBTF mo|PRS doon|PRL ,|PMC "|PMS sabi|VBS ngnanay.Hinatid|VBTR ni|DTP nanay|NNC si|DTP Bentong|NNP sa|CCT paaralan|NNC .|PMP
+Magugustuhan|VBTF mo|PRS doon|PRL ,|PMC "|PMS sabi|VBS ngnanay|VBOF .|PMP
+Hinatid|VBOF ni|DTP nanay|NNC si|DTP Bentong|NNP sa|CCT paaralan|NNC .|PMP
 Kinakabahan|VBTR siya|PRS .|PMP
 Mahigpit|JJD ang|DTC hawak|NNC niya|PRS sa|CCT kamay|NNC ng|CCB kanyang|PRSP_CCP nanay|NNC .|PMP "|PMS
 Nay|NNP ,|PMC pareho|JJC po|RBS kami|PRP ng|CCB damit|NNC .|PMP
@@ -24,36 +25,43 @@ Iihi|NNP lang|RBI po|RBS ako|PRS ,|PMC G.|NNPA Ramos|NNP ,|PMC "|PMS paalam|NNC 
 Tumakbo|VBAF siya|PRS palabas|NNC .|PMP
 Wala|VBN si|DTP nanay|NNC .|PMP
 Lumabas|VBAF siya|PRS sa|CCT gate|FW ng|CCB paaralan|NNC .|PMP
-Wala|VBN si|DTP nanay.Umiyak|NNP si|DTP Bentong|NNP .|PMP
+Wala|VBN si|DTP nanay|NNC .|PMP
+Umiyak|VBAF si|DTP Bentong|NNP .|PMP
 Umupo|VBAF sa|CCT gilid|JJD ng|CCB kalsada|NNC .|PMP "|PMS
 Nanay|NNC ,|PMC asan|NNC ka|PRS na|CCP ?|PMQ "|PMS
-iyak|VBTR_VBOF niya.RRIINNGG|VBTS !|PMQ
+iyak|NNC niya|PRS .|PMP
+RRIINNGG|NNP !|PMS
 RRIINNGG|NNP !|PMS
 RRIINNGG|NNP !|PMS
 Tumakbo|VBAF ang|DTC mga|DTCP bata|NNC papasok|VBTF sa|CCT gate|FW ng|CCB paaralan|NNC .|PMP
 Nagulat|VBTS si|DTP Bentong|NNP .|PMP
 Tumigil|VBAF siya|PRS sa|CCT pag|CCR -|PMS iyak|NNC .|PMP
-Sumunod|VBAF siya|PRS sa|CCT mga|DTCP bata|NNC papasok|NNC ng|CCB paaralan.Naglakad|VBW siya|PRS sa|CCT pasilyo|NNC .|PMP
+Sumunod|VBAF siya|PRS sa|CCT mga|DTCP bata|NNC papasok|NNC ng|CCB paaralan|NNC .|PMP
+Naglakad|VBTS siya|PRS sa|CCT pasilyo|NNC .|PMP
 Sa|CCT isang|PRI_CCP silid|NNC -|PMS aralan|NNC ,|PMC sumasayaw|VBTR at|CCA kumakanta|VBTR_VBAF ang|DTC mga|DTCP bata|NNC .|PMP
 Sa|CCT katabing|JJD_CCP silid|NNC naman|RBI ay|LM nagbabasa|VBTR at|CCA nagsusulat|VBTR ang|DTC mga|DTCP bata|NNC .|PMP
 Sa|CCT kabilang|CCB kwarto|NNC ,|PMC naglalaro|VBTR ang|DTC mga|DTCP bata|NNC .|PMP
-May|VBH nakita|VBTS siyang|PRS_CCP tindahan|NNC na|CCP puno|NNC ng|CCB pagkain.Sinilip|VBW niya|PRS ang|DTC isang|PRI_CCP klase|NNC .|PMP
+May|VBH nakita|VBTS siyang|PRS_CCP tindahan|NNC na|CCP puno|NNC ng|CCB pagkain|NNC .|PMP
+Sinilip|VBTS niya|PRS ang|DTC isang|PRI_CCP klase|NNC .|PMP
 Ang|DTC mga|DTCP bata|NNC ay|LM nakapalibot|VBTS kay|DTP G.|NNPA Ramos|NNP .|PMP
 Nagbabasa|VBTR siya|PRS ng|CCB kwento|NNC sa|CCT mga|DTCP bata|NNC .|PMP
 Maganda|JJD ang|DTC mga|DTCP drowing|FW ng|CCB libro|NNC .|PMP
 Dahan|NNP -|PMS dahang|NNC_CCP pumasok|VBAF si|DTP Bentong|NNP sa|CCT silid|NNC .|PMP
 Umupo|VBAF siya|PRS malapit|JJD kay|DTP G.|NNPA Ramos|NNP .|PMP
-Nakinig|VBTS siya|PRS kasama|CCB ang|DTC mga|DTCP kaklase.Tumawa|NNC ang|DTC mga|DTCP bata|NNC .|PMP
+Nakinig|VBTS siya|PRS kasama|CCB ang|DTC mga|DTCP kaklase|NNC .|PMP
+Tumawa|VBAF ang|DTC mga|DTCP bata|NNC .|PMP
 Nagustuhan|VBTS nila|PRP ang|DTC kwento|NNC .|PMP
 Tumawa|VBAF din|RBI si|DTP Bentong|NNP .|PMP "|PMS
 Mga|DTCP bata|NNC ,|PMC kumuha|VBAF ng|CCB papel|NNC .|PMP
 Ilabas|VBOF ang|DTC inyong|PRSP_CCP mga|DTCP krayola|NNC .|PMP
-Idrowing|NNP ang|DTC nagustuhan|VBTS ninyong|NNC_CCP bagay|NNC o|CCT pangyayari|NNC sa|CCT kwento|NNC ,|PMC "|PMS sabi|VBS ni|DTP Ginoong|NNP Ramos.RRIINNGG|NNP !|PMS
+Idrowing|NNP ang|DTC nagustuhan|VBTS ninyong|NNC_CCP bagay|NNC o|CCT pangyayari|NNC sa|CCT kwento|NNC ,|PMC "|PMS sabi|VBS ni|DTP Ginoong|NNP Ramos|NNP .|PMP
+RRIINNGG|NNP !|PMS
 RRIINNGG|NNP !|PMS
 RRIINNGG|NNP !|PMS
 Natapos|VBTS na|RBI ni|DTP Bentong|NNP ang|DTC kanyang|PRSP_CCP drowing|FW na|CCP flag|FW .|PMP
 Paglingon|NNP niya|PRS sa|CCT labas|NNC ,|PMC nakita|VBTS niyang|PRS_CCP may|VBH mga|DTCP tao|NNC na|RBI .|PMP
-May|VBH nakatitig|VBTS sa|CCT kaniya|PRSP ,|PMC ang|DTC kanyang|PRSP_CCP nanay.Pauwi|VBTR na|CCP si|DTP Bentong|NNP at|CCA kanyang|PRSP_CCP nanay|NNC .|PMP "|PMS
+May|VBH nakatitig|VBTS sa|CCT kaniya|PRSP ,|PMC ang|DTC kanyang|PRSP_CCP nanay|NNC .|PMP
+Pauwi|NNP na|CCP si|DTP Bentong|NNP at|CCA kanyang|PRSP_CCP nanay|NNC .|PMP "|PMS
 Nay|NNP ,|PMC ang|DTC saya|NNC pala|NNC sa|CCT paaralan|NNC .|PMP
 Marami|PRI akong|PRS_CCP nakilalang|VBTS mga|DTCP bata|NNC .|PMP
 Maraming|PRI_CCP ginagawang|VBTR_CCP nakakapagpasaya|RBD sa|CCT mga|DTCP bata|NNC .|PMP

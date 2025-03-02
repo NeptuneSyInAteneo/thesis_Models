@@ -7,22 +7,27 @@ Sa|CCT dilim!Alitaptap|NNP !|PMS
 Alitaptap|NNP !|PMS
 Halina|NNP ,|PMC halina|NNC !|PMS
 Ang|DTC araw|NNC ay|LM sisikat|VBTF .|PMP
-Darating|VBTF ang|DTC umaga.Halina|VBTR '|PMS t|NNCA sabihin|VBOF Huwag|RBF matakot|VBW sa|CCT dilim|NNC !|PMS
+Darating|VBTF ang|DTC umaga|NNC .|PMP
+Halina|NNP '|PMS t|NNCA sabihin|VBOF Huwag|RBF matakot|VBW sa|CCT dilim|NNC !|PMS
 Alitaptap|NNP !|PMS
 Alitaptap|NNP !|PMS
 Halina|NNP !|PMS
 Halina!Halina|NNP '|PMS t|NNCA kami|PRP ay|LM aliwinNabalot|NNC ng|CCB dilim|NNC .|PMP
-Mga|DTCP matang|NNC_CCP malungkot|JJD at|CCA luhaan.Alitaptap|NNP !|PMS
+Mga|DTCP matang|NNC_CCP malungkot|JJD at|CCA luhaan|JJD .|PMP
+Alitaptap|NNP !|PMS
 Alitaptap|NNP !|PMS
 Halina|NNP !|PMS
-Halina!Katulad|NNP ng|CCB isang|PRI_CCP pilyong|JJD_CCP bata.Halina|NNC '|PMS t|NNCA tuksuhin|VBOF .|PMP
-Ang|DTC bruha|NNC sa|CCT dilim.Alitaptap|NNP !|PMQ
+Halina!Katulad|NNP ng|CCB isang|PRI_CCP pilyong|JJD_CCP bata|NNC .|PMP
+Halina|NNP '|PMS t|NNCA tuksuhin|VBOF .|PMP
+Ang|DTC bruha|NNC sa|CCT dilim|NNC .|PMP
+Alitaptap|NNP !|PMS
 Alitaptap|NNP !|PMS
 Halina|NNP !|PMS
 Halina!Manukso|NNP nang|RBW manukso|VBW !|PMQ
 Hanggang|RBW sa|CCT mahilo|VBW nang|RBW mahilo!Manukso|VBW nang|RBW manukso|VBW !|PMQ
 Hanggang|RBW sa|CCT mahilo|VBW nang|RBW mahilo!Hilahin|VBW pababa|JJD ang|DTC elepante|NNC .|PMP
-Tulad|JJC ng|CCB isang|PRI_CCP anay.Alitaptap|NNP !|PMS
+Tulad|JJC ng|CCB isang|PRI_CCP anay|NNC .|PMP
+Alitaptap|NNP !|PMS
 Alitaptap|NNP !|PMS
 Halina|NNP !|PMS
 Halina!Kasama|NNP ang|DTC araw|NNC Ang|DTC gintong|JJD_CCP pintuan|NNC Marahan|JJD at|CCA banayad|JJD Halina|NNP at|CCA buksan|VBOF !|PMS
@@ -38,9 +43,12 @@ Alitaptap|NNP !|PMS
 Halina|NNP !|PMS
 Halina!Ang|NNP May|NNP Akda|NNP Si|DTP Durga|NNP Lal|NNP Shrestha|NNP ay|LM isang|PRI_CCP tanyag|JJD na|CCP makata|NNC mula|RBL sa|CCT Nepal|NNP Bhasa|NNP at|CCA Nepali|NNP .|PMP
 Bilang|CCT isang|PRI_CCP guro|NNC sa|CCT Nepal|NNP Bhasa|NNP sa|CCT Kanya|NNP Mandir|NNP Higher|NNP Secondary|NNP School|NNP noong|RBW_CCP dekada|NNC singkwenta|JJN hanggang|RBW dekada|NNC sitenta|NNC ,|PMC gumagawa|VBTR_VBAF siya|PRS ng|CCB mga|DTCP kanta|NNC upang|CCB makakuha|VBW ng|CCB inspirasyon|NNC ang|DTC mga|DTCP bata|NNC na|CCP maipahayag|VBW ang|DTC kanilang|PRSP_CCP mga|DTCP sarili|NNC sa|CCT kanilang|PRSP_CCP sariling|JJD_CCP salita|NNC .|PMP
-Ang|DTC kaniyang|PRSP_CCP mga|DTCP kanta|NNC ay|LM nakilala|VBTS sa|CCT buong|PRI_CCP Kathmandu|NNP Valley|NNP at|CCA ang|DTC mga|DTCP koleksyon|NNC ng|CCB mga|DTCP kantang|NNC_CCP pambata|JJD ay|LM umabot|VBAF hanggangikalabintatlong|NNC_CCP imprenta|JJD at|CCA patuloy|JJD pa|RBI din|RBI hanggang|RBW sa|CCT ngayon.Tungkol|NNP sa|CCT Ilustrador|NNP Si|DTP Mrigaja|NNP Bajracharya|NNP ay|LM isang|PRI_CCP independiyenteng|JJD_CCP ilustrador|NNC na|CCP nagtapos|VBTS ng|CCB BFA|NNPA sa|CCT Studio|NNP Art|NNP sa|CCT Centre|NNP for|FW Art|NNP and|FW Design|NNP ng|CCB Kathmandu|NNP University|NNP .|PMP
+Ang|DTC kaniyang|PRSP_CCP mga|DTCP kanta|NNC ay|LM nakilala|VBTS sa|CCT buong|PRI_CCP Kathmandu|NNP Valley|NNP at|CCA ang|DTC mga|DTCP koleksyon|NNC ng|CCB mga|DTCP kantang|NNC_CCP pambata|JJD ay|LM umabot|VBAF hanggangikalabintatlong|NNC_CCP imprenta|JJD at|CCA patuloy|JJD pa|RBI din|RBI hanggang|RBW sa|CCT ngayon|RBW .|PMP
+Tungkol|RBR sa|CCT Ilustrador|NNP Si|DTP Mrigaja|NNP Bajracharya|NNP ay|LM isang|PRI_CCP independiyenteng|JJD_CCP ilustrador|NNC na|CCP nagtapos|VBTS ng|CCB BFA|NNPA sa|CCT Studio|NNP Art|NNP sa|CCT Centre|NNP for|FW Art|NNP and|FW Design|NNP ng|CCB Kathmandu|NNP University|NNP .|PMP
 Siya|PRS ay|LM nailathala|VBTS ng|CCB mga|DTCP organisasyon|NNC tulad|JJC ng|CCB Room|NNP to|FW Read|NNP at|CCA UNICEF|NNPA .|PMP
-Ang|DTC kaniyang|PRSP_CCP mga|DTCP personal|JJD na|CCP guhit|NNC na|CCP kadalasan|RBW ay|LM mga|DTCP likha|NNC gawa|VBS sa|CCT bolpen|NNC at|CCA tinta|NNC ay|LM nagpapakita|VBTR ng|CCB kaniyang|PRSP_CCP mga|DTCP pananaw|NNC sa|CCT mundo|NNC at|CCA tumutuklas|VBTR_VBAF sa|CCT kamatayan|NNC at|CCA ang|DTC pagiging|VBTR pansamantala|JJD ng|CCB buhay.Pagkilala|NNP Una|CDB sa|CCT lahat|PRI kami|PRP ay|LM lubos|JJCS na|CCP nagpapasalamat|VBTR sa|CCT pagiging|VBTR bukas|JJD palad|NNC ni|DTP Durga|NNP Lal|NNP Shrestha|NNP sa|CCT lubos|JJCS na|CCP pagtanggap|NNC ng|CCB proyektong|NNC_CCP ito|PRO .|PMP
+Ang|DTC kaniyang|PRSP_CCP mga|DTCP personal|JJD na|CCP guhit|NNC na|CCP kadalasan|RBW ay|LM mga|DTCP likha|NNC gawa|VBS sa|CCT bolpen|NNC at|CCA tinta|NNC ay|LM nagpapakita|VBTR ng|CCB kaniyang|PRSP_CCP mga|DTCP pananaw|NNC sa|CCT mundo|NNC at|CCA tumutuklas|VBTR_VBAF sa|CCT kamatayan|NNC at|CCA ang|DTC pagiging|VBTR pansamantala|JJD ng|CCB buhay|NNC .|PMP
+Pagkilala|NNP Una|CDB sa|CCT lahat|PRI kami|PRP ay|LM lubos|JJCS na|CCP nagpapasalamat|VBTR sa|CCT pagiging|VBTR bukas|JJD palad|NNC ni|DTP Durga|NNP Lal|NNP Shrestha|NNP sa|CCT lubos|JJCS na|CCP pagtanggap|NNC ng|CCB proyektong|NNC_CCP ito|PRO .|PMP
 Isa|PRI siyang|PRS_CCP inspirasyon|NNC para|CCT sa|CCT susunod|VBTF na|CCP henerasyon|NNC na|CCP may|VBH malikhaing|JJD_CCP imahinasyon|NNC .|PMP
 Pasasalamat|NNP din|RBI sa|CCT ilustrador|NNC na|CCP si|DTP Amber|NNP Delaheya|NNP mula|RBL sa|CCT Stichting|NNC_CCP Thang|NNC na|CCP siyang|PRS_CCP humawak|VBAF ng|CCB illustration|FW workshops|FW .|PMP
-At|CCA higit|JJCC sa|CCT lahat|PRI ,|PMC angakdang|NNC_CCP ito|PRO ay|LM hindi|RBF magagawa|VBTF kung|CCR wala|VBN sina|DTPP Suman|NNP at|CCA Suchita|NNP Shrestha|NNP ,|PMC na|CCP mga|DTCP anak|NNC ni|DTP Durga|NNP Lal|NNP Shrestha|NNP 's|FW at|CCA ang|DTC kaniyang|PRSP_CCP kabiyak|NNC ,|PMC Purnadevi|NNP Shrestha|NNP na|CCP palagi|RBD niyang|PRS_CCP karamay.Management|NNC Division|NNP (|PMS CLMD|NNPA )|PMS .|PMP
+At|CCA higit|JJCC sa|CCT lahat|PRI ,|PMC angakdang|NNC_CCP ito|PRO ay|LM hindi|RBF magagawa|VBTF kung|CCR wala|VBN sina|DTPP Suman|NNP at|CCA Suchita|NNP Shrestha|NNP ,|PMC na|CCP mga|DTCP anak|NNC ni|DTP Durga|NNP Lal|NNP Shrestha|NNP 's|FW at|CCA ang|DTC kaniyang|PRSP_CCP kabiyak|NNC ,|PMC Purnadevi|NNP Shrestha|NNP na|CCP palagi|RBD niyang|PRS_CCP karamay|NNC .|PMP
+Management|NNP Division|NNP (|PMS CLMD|NNPA )|PMS .|PMP

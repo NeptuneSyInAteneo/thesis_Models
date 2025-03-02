@@ -13,7 +13,8 @@ Hindi|RBF tayo|PRP magpapagabi|VBTF .|PMP
 Ikaw|NNP lang|RBI doon|PRL mamaya|RBW ang|DTC wala|VBN kung|CCR hindika|VBOF sasama|VBTF ,|PMC "|PMS pangungumbinsi|JJD ni|DTP Niko|NNP .|PMP "|PMS
 Sige|NNP !|PMS
 Magkita|VBW kita|NNC nalang|VBTS_CCP doon|PRL mamaya|RBW !|PMS "|PMS
-At|CCA saka|CCA siya|PRS mabilis|RBD na|CCP nagpatakbo|VBTS ng|CCB bisekleta|NNC pauwi.Pabalik|NNP -|PMS balik|NNC na|CCP tumatakbo|VBTR_VBAF si|DTP Mako|NNP sa|CCT harap|NNC ng|CCB kaniyang|PRSP_CCP Nanay|NNC ngunit|CCT hindi|RBF niya|PRS ito|PRO masabi|VBW .|PMP
+At|CCA saka|CCA siya|PRS mabilis|RBD na|CCP nagpatakbo|VBTS ng|CCB bisekleta|NNC pauwi|NNC .|PMP
+Pabalik|NNP -|PMS balik|NNC na|CCP tumatakbo|VBTR_VBAF si|DTP Mako|NNP sa|CCT harap|NNC ng|CCB kaniyang|PRSP_CCP Nanay|NNC ngunit|CCT hindi|RBF niya|PRS ito|PRO masabi|VBW .|PMP
 Gustong|VBS_CCP -|PMS gusto|VBS talaga|RBT niya|PRS na|CCP makapunta|VBW sa|CCT esplanade|FW kasama|CCB sina|DTPP Niko|NNP .|PMP
 Sa|CCT tuwing|RBW tinitingnan|VBTR niya|PRS ang|DTC kaniyang|PRSP_CCP bisekleta|NNC ay|LM parang|CCT inaanyaya|VBTR talaga|RBT nito|PRO na|CCP sumakay|VBAF .|PMP
 Ngunit|CCT alam|VBS niya|PRS na|CCP hindi|RBF siya|PRS papayagan|VBTF ng|CCB kaniyang|PRSP_CCP Nanay|NNC kung|CCR magpapaalam|VBW siya|PRS .|PMP "|PMS
@@ -22,7 +23,8 @@ Bilisan|VBOF mo|PRS lang|RBI ha|NNCA ,|PMC kasi|CCR magprito|VBW pa|RBI ako|PRS 
 Opo|NNP ,|PMC Nanay|NNP !|PMS "|PMS
 Habang|RBW nakasakay|VBTS si|DTP Mako|NNP ng|CCB kaniyang|PRSP_CCP bisekleta|NNC ,|PMC naalala|VBTS niya|PRS ang|DTC sinabi|VBTS ni|DTP Niko|NNP —|CDB "|PMS Ikaw|RBW lang|RBI ang|DTC wala|VBN doon|PRL mamaya|RBW kung|RBK hindi|RBF ka|PRS sasama|VBTF .|PMP "|PMS
 Kung|CCR kaya|CCR ,|PMC sa|CCT halip|CCT na|CCP pupunta|VBTF ito|PRO sa|CCT palengke|NNC ay|LM tumungo|VBAF si|DTP Mako|NNP sa|CCT esplanade|FW .|PMP
-Dahil|CCR mabilis|JJD itong|PRO_CCP magpatakbo|VBW ,|PMC makababalik|VBW din|RBI ito|PRO agad|RBD at|CCA makabibili|VBW ng|CCB mantika.Masaya|VBW silang|PRP_CCP nagpaikot|VBTS -|PMS ikot|NNC sa|CCT esplanade|FW .|PMP
+Dahil|CCR mabilis|JJD itong|PRO_CCP magpatakbo|VBW ,|PMC makababalik|VBW din|RBI ito|PRO agad|RBD at|CCA makabibili|VBW ng|CCB mantika|NNC .|PMP
+Masaya|NNP silang|PRP_CCP nagpaikot|VBTS -|PMS ikot|NNC sa|CCT esplanade|FW .|PMP
 Maraming|PRI_CCP tao|NNC doon|PRL .|PMP
 Mayroong|VBH_CCP naglalakad|VBTR ,|PMC may|VBH tumatakbo|VBTR_VBAF ,|PMC at|CCA may|VBH nagbibisekleta|VBTS rin|RBI kagaya|JJC nila|PRP .|PMP
 Marami|PRI rin|RBI ang|DTC nagbebenta|VBTR ng|CCB mga|DTCP pagkain|NNC at|CCA nagseselpon|VBTS dahil|CCR sa|CCT marami|PRI ang|DTC magagandang|JJD_CCP tanawin|NNC ,|PMC lalo|JJCC na|RBI ang|DTC papalubog|JJD na|CCP araw|NNC .|PMP
@@ -40,19 +42,22 @@ Ginusto|VBTS niyang|PRS_CCP magpahuli|VBAF para|CCT makaliko|VBW siya|PRS sa|CCT
 Medyo|JJCC mataas|JJD at|CCA masikip|JJD nga|RBI lang|RBI pero|CCT mas|JJCC madali|JJD ang|DTC rutangito|NNC .|PMP "|PMS
 Hahaha|NNP !|PMS
 Ako|PRS na|RBI ang|DTC mauuna|VBTF nito|PRO !|PMS "|PMS
-pagmamayabang|NNC ni|DTP Mako|NNP sa|CCT kaniyang|PRSP_CCP sarili.Dahil|RBL_NNP medyo|JJCC madilim|JJD na|CCP ,|PMC hindi|RBF nakita|VBTS ni|DTP Mako|NNP ang|DTC nakaharang|JJD na|CCP bato|NNC sa|CCT daanan|NNC .|PMP
+pagmamayabang|NNC ni|DTP Mako|NNP sa|CCT kaniyang|PRSP_CCP sarili|NNC .|PMP
+Dahil|CCR medyo|JJC madilim|JJD na|CCP ,|PMC hindi|RBF nakita|VBTS ni|DTP Mako|NNP ang|DTC nakaharang|JJD na|CCP bato|NNC sa|CCT daanan|NNC .|PMP
 Biglang|RBD_CCP sumirko|VBAF ang|DTC kaniyang|PRSP_CCP bisekleta|NNC .|PMP
 Tumalsik|VBAF si|DTP Mako|NNP at|CCA napunta|VBTS sa|CCT mabatong|JJD_CCP bahagi|NNC .|PMP "|PMS
 Aray|NNP !|PMS
 Dugo|NNP !?|CDB
 May|VBH dugo|NNC sa|CCT paa|NNC ko|PRS !|PMQ
 Tulong|NNC !!|PMS "|PMS
-sigaw|NNC ni|DTP Mako|NNP ngunit|CCT walang|VBN_CCP may|VBH nakarinig.Pinilit|RBD niyang|PRS_CCP makatayo|VBW at|CCA puntahan|VBOF ang|DTC kaniyang|PRSP_CCP nahulog|VBTS na|CCP bisekleta|NNC .|PMP "|PMS
+sigaw|NNC ni|DTP Mako|NNP ngunit|CCT walang|VBN_CCP may|VBH nakarinig|VBTS .|PMP
+Pinilit|VBTS niyang|PRS_CCP makatayo|VBW at|CCA puntahan|VBOF ang|DTC kaniyang|PRSP_CCP nahulog|VBTS na|CCP bisekleta|NNC .|PMP "|PMS
 Ang|DTC bisekleta|NNC ko|PRS !|PMQ
 Bakit|PRQ nasira|VBTS ang|DTC bisekleta|NNC ko|PRS !?|PMS
 sabi|VBS ni|DTP Mako|NNP .|PMP
 Gusto|VBS niyang|PRS_CCP malaman|VBW kung|CCR may|VBH sira|JJD pero|CCT hindi|RBF niya|PRS ito|PRO makita|VBW .|PMP
-Itinulak|VBTS niya|PRS nalang|VBTS_CCP ito|PRO at|CCA ipinagpatuloy|VBTS ang|DTC paika|NNC -|PMS ika|JJN nitong|PRO_CCP paglalakad|NNC "|PMS Kung|CCR naniwala|VBTS lang|RBI sana|VBS ako|PRS kay|DTP Nanay|NNP na|CCP hindi|RBF magpagabi|VBW ,|PMC hindi|RBF sana|VBS ako|PRS nahulog|VBTS ,|PMC "|PMS pagsisisi|NNC ni|DTP Mako.Malalim|NNP na|CCP ang|DTC gabi|RBW nang|RBW makarating|VBW ito|PRO sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP
+Itinulak|VBTS niya|PRS nalang|VBTS_CCP ito|PRO at|CCA ipinagpatuloy|VBTS ang|DTC paika|NNC -|PMS ika|JJN nitong|PRO_CCP paglalakad|NNC "|PMS Kung|CCR naniwala|VBTS lang|RBI sana|VBS ako|PRS kay|DTP Nanay|NNP na|CCP hindi|RBF magpagabi|VBW ,|PMC hindi|RBF sana|VBS ako|PRS nahulog|VBTS ,|PMC "|PMS pagsisisi|NNC ni|DTP Mako|NNP .|PMP
+Malalim|JJD na|CCP ang|DTC gabi|RBW nang|RBW makarating|VBW ito|PRO sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP
 Nandoon|VBTS si|DTP Nanay|NNP na|CCP naghihintay|VBTR sa|CCT labas|NNC .|PMP "|PMS
 Mako|NNP !|PMS
 Bakit|PRQ ngayon|RBW ka|PRS lang|RBI ?|PMQ
@@ -76,4 +81,5 @@ Tingnan|VBOF mo|PRS ang|DTC nangyari|VBTS sa|CCT iyo|PRSP ngayon|RBW .|PMP
 Oh|CCT ano|PRQ ,|PMC uulit|VBTF ka|PRS pa|RBI ba|RBI ?|PMQ "|PMS
 sabi|VBS ng|CCB Nanay|NNC niya|PRS .|PMP "|PMS
 Hindi|RBF na|CCP po|RBS ako|PRS uulit|VBTF pa|RBI ,|PMC Nanay|NNC !|PMS "|PMS
-pangako|NNC ni|DTP Mako.Simula|NNP noon|RBW ay|LM hindi|RBF na|RBI pumupunta|VBTR_VBAF sa|CCT malayo|JJD si|DTP Mako|NNP at|CCA bago|RBW pa|RBI man|RBI din|RBI dumilim|VBAF ay|LM nandoon|RBL na|CCP ito|PRO sa|CCT kanilang|PRSP_CCP bahay|NNC kasama|CCB ang|DTC kaniyang|PRSP_CCP bisekleta|NNC .|PMP
+pangako|NNC ni|DTP Mako|NNP .|PMP
+Simula|RBW noon|RBW ay|LM hindi|RBF na|RBI pumupunta|VBTR_VBAF sa|CCT malayo|JJD si|DTP Mako|NNP at|CCA bago|RBW pa|RBI man|RBI din|RBI dumilim|VBAF ay|LM nandoon|RBL na|CCP ito|PRO sa|CCT kanilang|PRSP_CCP bahay|NNC kasama|CCB ang|DTC kaniyang|PRSP_CCP bisekleta|NNC .|PMP

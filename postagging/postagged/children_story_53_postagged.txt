@@ -1,11 +1,18 @@
-Nang|RBW tumahimik|VBAF ang|DTC bayan|NNC ,|PMC dumami|VBAF ang|DTC aking|PRSP_CCP kaibigan.May|NNC usa|NNC na|CCP malumanay|JJD Dambuhala|NNC ang|DTC kaniyang|PRSP_CCP sungay|NNC Parang|RBM puno|NNC ng|CCB bignay.May|FW musang|FW na|CCP malikot|JJD Sa|CCT puno|NNC '|PMS y|FW paikot|JJD -|PMS ikot|NNC Pinapapak|VBTR ang|DTC kapeng|NNC_CCP tanim|NNC ni|DTP Ingkong.May|NNP maamong|JJD_CCP lumba|NNC -|PMS lumba|NNC .|PMP
+Nang|RBW tumahimik|VBAF ang|DTC bayan|NNC ,|PMC dumami|VBAF ang|DTC aking|PRSP_CCP kaibigan|NNC .|PMP
+May|VBH usa|NNC na|CCP malumanay|JJD Dambuhala|NNC ang|DTC kaniyang|PRSP_CCP sungay|NNC Parang|RBM puno|NNC ng|CCB bignay|NNC .|PMP
+May|VBH musang|NNC na|CCP malikot|JJD Sa|CCT puno|NNC '|PMS y|FW paikot|JJD -|PMS ikot|NNC Pinapapak|VBTR ang|DTC kapeng|NNC_CCP tanim|NNC ni|DTP Ingkong|NNP .|PMP
+May|VBH maamong|JJD_CCP lumba|NNC -|PMS lumba|NNC .|PMP
 Sumakay|VBAF ako|PRS sa|CCT likod|NNC niya|PRS .|PMP
 Sinalakay|VBTS namin|PRP ang|DTC higanteng|JJD_CCP alon|NNC .|PMP
-Namasyal|VBTS kami|PRP sa|CCT mga|DTCP lumubog|VBAF na|CCP galyon.May|FW aspin|FW na|CCP namamasyal|VBTR sa|CCT kalye|NNC .|PMP
-Batik|NNP -|PMS batik|NNC ang|DTC balahibo|NNC at|CCA naglalaro|VBTR sa|CCT nyebe.May|NNP tuko|NNC sa|CCT puno|NNC ng|CCB mangga|NNC .|PMP
+Namasyal|VBTS kami|PRP sa|CCT mga|DTCP lumubog|VBAF na|CCP galyon|NNC .|PMP
+May|VBH aspin|NNC na|CCP namamasyal|VBTR sa|CCT kalye|NNC .|PMP
+Batik|NNP -|PMS batik|NNC ang|DTC balahibo|NNC at|CCA naglalaro|VBTR sa|CCT nyebe|NNC .|PMP
+May|VBH tuko|NNC sa|CCT puno|NNC ng|CCB mangga|NNC .|PMP
 Tumatalon|NNP sa|CCT mga|DTCP bunga|NNC .|PMP
 Kumakapit|VBTR_VBAF sa|CCT sanga|NNC .|PMP
-Nagtatago|VBTR na|CCP parang|CCT ninja.May|FW alitaptap|FW na|CCP umaandap|VBTR_VBAF Tila|RBM poste|NNC ng|CCB ilaw|NNC sa|CCT ulap|NNC ,|PMC sumisipsip|VBAF ng|CCB hamog|NNC kasama|CCB ni|DTP Kulisap.Pero|NNP may|VBH isa|PRI akong|PRS_CCP kaibigan|NNC na|CCP malungkot|JJD at|CCA nag|VBTS -|PMS iisa|JJD .|PMP
+Nagtatago|VBTR na|CCP parang|CCT ninja|NNC .|PMP
+May|VBH alitaptap|NNC na|CCP umaandap|VBTR_VBAF Tila|RBM poste|NNC ng|CCB ilaw|NNC sa|CCT ulap|NNC ,|PMC sumisipsip|VBAF ng|CCB hamog|NNC kasama|CCB ni|DTP Kulisap|NNP .|PMP
+Pero|CCT may|VBH isa|PRI akong|PRS_CCP kaibigan|NNC na|CCP malungkot|JJD at|CCA nag|VBTS -|PMS iisa|JJD .|PMP
 Siya|PRS si|DTP Kabog|NNP .|PMP "|PMS
 Bakit|PRQ ka|PRS umiiyak|VBTR_VBAF ,|PMC Kabog|NNP ?|PMQ "|PMS
 usisa|VBS ko|PRS .|PMP "|PMS
@@ -13,6 +20,7 @@ Iniiwasan|VBTR ako|PRS at|CCA pinandidirian|VBTR .|PMP "|PMS
 Paano|PRQ magiging|VBTF masaya|JJD si|DTP Kabog|NNP ?|PMQ
 Alam|VBS ko|PRS na!Sa|VBTS lahat|PRI ng|CCB kaibigan|NNC ko|PRS ,|PMC si|DTP Kabog|NNP ang|DTC pinakamabait|JJCS_JJD .|PMP
 Hindi|RBF siya|PRS mapanakit|VBW .|PMP
-Huwag|RBF mo|PRS lang|RBI siya|PRS ipipiit.Iba|VBOF man|RBI sa|CCT ating|PRSP_CCP paningin|NNC ,|PMC bigay|VBS pa|RBI rin|RBI sila|PRP ng|CCB Diyos|NNP sa|CCT atin|PRSP .|PMP
+Huwag|RBF mo|PRS lang|RBI siya|PRS ipipiit|VBOF .|PMP
+Iba|PRI man|RBI sa|CCT ating|PRSP_CCP paningin|NNC ,|PMC bigay|VBS pa|RBI rin|RBI sila|PRP ng|CCB Diyos|NNP sa|CCT atin|PRSP .|PMP
 Gusto|VBS lang|RBI nilang|PRP_CCP makipagkaibigan|VBW .|PMP
 At|CCA kung|CCR mayroon|VBH akong|PRS_CCP hiling|NNC ,|PMC '|PMS yon|PRO ay|LM bigyan|VBOF sila|PRP ng|CCB puwang|NNC sa|CCT mundong|NNC_CCP ginagalawan|VBTR natin|PRP .|PMP

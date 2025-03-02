@@ -1,8 +1,10 @@
 Sa|CCT taas|NNC ng|CCB bundok|NNC ,|PMC may|VBH isang|PRI_CCP bayan|NNC –|PMS Ang|DTC munting|JJD_CCP Kamayanan|NNC .|PMP
 Ngunit|CCT ang|DTC mga|DTCP nakatira|VBTS '|PMS y|FW tila|RBM mga|DTCP bathala|NNC ;|PMSC '|PMS Sing|NNP laki|NNC ng|CCB ulap|NNC ang|DTC mga|DTCP kamay|NNC nila|PRP .|PMP '|PMS
 Pag|CCR sila|PRP '|PMS y|FW pumalakpak|VBAF ,|PMC hatid|JJD ay|LM kulog|NNC ;|PMSC '|PMS Pag|CCR pinaglapat|VBRF ang|DTC mga|DTCP kamay|NNC ,|PMC pati|CCA balyena|NNC '|PMS y|FW inaalon|FW .|PMP
-Sa|CCT rurok|JJD ,|PMC nananahan|VBTR silang|PRP_CCP kasama|CCB ng|CCB mga|DTCP ibon|NNC ;|PMSC Payapang|NNP_CCP -|PMS payapa|JJD ,|PMC walang|VBN_CCP imik|NNC ni|DTP bulong.Gumapang|NNC_CCP palabas|NNC ng|CCB kuweba|NNC si|DTP CoVully|NNP ;|PMSC Parang|RBM multong|NNC_CCP nagmula|VBTS sa|CCT hukay|NNC .|PMP
-Buga|NNP niya|PRS '|PMS y|FW koronang|NNC_CCP sumasakal|VBAF ,|PMC Hininga|NNP '|PMS y|FW mauubos|FW ,|PMC at|CCA dilim|NNC ay|LM bumabalot.Ginulat|VBTR_VBAF ni|DTP CoVully|NNP ang|DTC lahat|PRI ;|PMSC Gumawa|VBAF ng|CCB higanteng|JJD_CCP pandemic|FW !|PMS
+Sa|CCT rurok|JJD ,|PMC nananahan|VBTR silang|PRP_CCP kasama|CCB ng|CCB mga|DTCP ibon|NNC ;|PMSC Payapang|NNP_CCP -|PMS payapa|JJD ,|PMC walang|VBN_CCP imik|NNC ni|DTP bulong|NNC .|PMP
+Gumapang|NNP_CCP palabas|NNC ng|CCB kuweba|NNC si|DTP CoVully|NNP ;|PMSC Parang|RBM multong|NNC_CCP nagmula|VBTS sa|CCT hukay|NNC .|PMP
+Buga|NNP niya|PRS '|PMS y|FW koronang|NNC_CCP sumasakal|VBAF ,|PMC Hininga|NNP '|PMS y|FW mauubos|FW ,|PMC at|CCA dilim|NNC ay|LM bumabalot|VBTR_VBAF .|PMP
+Ginulat|VBTS ni|DTP CoVully|NNP ang|DTC lahat|PRI ;|PMSC Gumawa|VBAF ng|CCB higanteng|JJD_CCP pandemic|FW !|PMS
 Karamiha|NNP '|PMS y|FW namutla|FW at|CCA nagkasakit|VBTS ;|PMSC Nawala|VBTS ang|DTC mga|DTCP kapatid|NNC ,|PMC lumisan|VBTS_VBAF nang|RBW mabilis!Nagtipon|VBW ang|DTC buong|PRI_CCP Kamayanan|NNP ;|PMSC Nag|PRSP_CCP -|PMS alala|NNC ,|PMC nanginig|VBTS ,|PMC at|CCA pinagpawisan|VBRF :|PMS "|PMS Anong|PRQ_CCP gagawin|VBTF natin|PRP ?|PMQ
 Magkulong|VBW ?|PMQ
 Hangang|RBW tayo|PRP '|PMS y|FW maubos|VBW ,|PMC magtago|VBW '|PMS t|NNCA sumilong|VBAF ?|PMQ "|PMS
@@ -13,11 +15,15 @@ Anila|NNP ,|PMC nababaliw|VBTR na|CCP yata|RBM sa|CCT katandaan|NNC .|PMP
 Lumukso|NNP '|PMS t|NNCA sumubok|VBAF ang|DTC batang|NNC_CCP si|DTP Kingan|NNP .|PMP "|PMS
 Sa|CCT galaw|NNC ng|CCB mga|DTCP kamay|NNC ,|PMC virus|FW gagawing|VBTF_CCP talunan|NNC !|PMS "|PMS
 Lumitaw|VBAF ang|DTC maduming|JJD_CCP CoVully|FW ,|PMC Mabubuhay|VBTF kaya|CCR sila|PRP ?|PMQ
-Hinarap|VBTS siya|PRS ni|DTP Kingan|NNP nang|RBW buong|PRI_CCP loob|NNC at|CCA isip|NNC ;|PMSC Umindak|NNP ,|PMC umawit|VBAF ,|PMC mga|DTCP buhay|NNC ay|LM sinagip.Sayaw|VBTS ng|CCB palad|NNC at|CCA kamay|NNC ;|PMSC Kalarong|JJD_CCP sabon|NNC at|CCA tubig|NNC .|PMP
+Hinarap|VBTS siya|PRS ni|DTP Kingan|NNP nang|RBW buong|PRI_CCP loob|NNC at|CCA isip|NNC ;|PMSC Umindak|NNP ,|PMC umawit|VBAF ,|PMC mga|DTCP buhay|NNC ay|LM sinagip|VBTS .|PMP
+Sayaw|NNC ng|CCB palad|NNC at|CCA kamay|NNC ;|PMSC Kalarong|JJD_CCP sabon|NNC at|CCA tubig|NNC .|PMP
 Hugasan|NNP ,|PMC hilurin|FW ;|PMSC Huwag|RBF mong|PRS_CCP bibiruin|VBTF .|PMP
-Sakit|NNP ay|LM iwasan|VBOF ,|PMC virus|FW ay|LM talunin|VBOF ;|PMSC Sayaw|NNC ng|CCB palad|NNC at|CCA kamay.Naalog|NNC ,|PMC nangatog|VBTS si|DTP CoVully|NNP ;|PMSC Mga|DTCP korona|NNC '|PMS y|FW natigil|VBTS ,|PMC namanhid|VBTS at|CCA natunaw|VBTS .|PMP
-Tunay|RBT na|CCP kapangyarihan|NNC ay|LM lumitaw|VBAF ;|PMSC Malilinis|VBTF na|CCP kamay|NNC ay|LM mangingibabaw.Sumilip|VBW at|CCA sumali|VBAF sa|CCT saliw|NNC ng|CCB oyayi|NNC nang|RBW matauhan|VBW ;|PMSC Winawagayway|VBTR ,|PMC sama|CCB -|PMS samang|NNC_CCP mga|DTCP kamay|NNC ng|CCB bayan|NNC .|PMP "|PMS
+Sakit|NNP ay|LM iwasan|VBOF ,|PMC virus|FW ay|LM talunin|VBOF ;|PMSC Sayaw|NNC ng|CCB palad|NNC at|CCA kamay|NNC .|PMP
+Naalog|NNP ,|PMC nangatog|VBTS si|DTP CoVully|NNP ;|PMSC Mga|DTCP korona|NNC '|PMS y|FW natigil|VBTS ,|PMC namanhid|VBTS at|CCA natunaw|VBTS .|PMP
+Tunay|RBT na|CCP kapangyarihan|NNC ay|LM lumitaw|VBAF ;|PMSC Malilinis|VBTF na|CCP kamay|NNC ay|LM mangingibabaw|VBTR .|PMP
+Sumilip|NNP at|CCA sumali|VBAF sa|CCT saliw|NNC ng|CCB oyayi|NNC nang|RBW matauhan|VBW ;|PMSC Winawagayway|VBTR ,|PMC sama|CCB -|PMS samang|NNC_CCP mga|DTCP kamay|NNC ng|CCB bayan|NNC .|PMP "|PMS
 Nasa|RBL atin|PRSP ang|DTC susi|NNC upang|CCB sa|CCT kalamidad|NNC ay|LM magwagi|VBW .|PMP "|PMS
-Habang|RBW natalo|VBTS at|CCA nawala|VBTS si|DTP CoVully.Sa|NNP taas|NNC ng|CCB bundok|NNC ,|PMC may|VBH isang|PRI_CCP bayan|NNC –|PMS Ang|DTC munting|JJD_CCP Kamayanan|NNC .|PMP
+Habang|RBW natalo|VBTS at|CCA nawala|VBTS si|DTP CoVully|NNP .|PMP
+Sa|CCT taas|NNC ng|CCB bundok|NNC ,|PMC may|VBH isang|PRI_CCP bayan|NNC –|PMS Ang|DTC munting|JJD_CCP Kamayanan|NNC .|PMP
 Namuhay|VBTS silang|PRP_CCP tila|RBM mga|DTCP bathala|NNC mula|RBW noon|RBW ;|PMSC Sa|CCT ating|PRSP_CCP mga|DTCP kamay|NNC ,|PMC tatalunin|VBTF ang|DTC mga|DTCP hamon|NNC .|PMP
 WAKAS|NNPA

@@ -1,7 +1,12 @@
 May|VBH bagong|JJD_CCP sumbrero|NNC si|DTP Bountong|NNP .|PMP
-Siya|PRS mismo|RBT ang|DTC gumawa|VBAF nito.Ito|RBL_NNP ay|LM kulay|NNC kayumanggi|JJD na|CCP may|VBH mahabang|JJD_CCP buntot|NNC .|PMP
-Mayroon|VBH itong|PRO_CCP mga|DTCP sungay|NNC at|CCA malalaking|JJD_CCP mga|DTCP mata.Kahawig|VBW ito|PRO ni|DTP Buk|NNP -|PMS Le|NNP ,|PMC ang|DTC kanyang|PRSP_CCP kalabaw.Kapag|NNC_CCP umihip|VBAF na|CCP ang|DTC malakas|JJD na|CCP hangin|NNC ,|PMC ang|DTC buntot|NNC nito|PRO ay|LM lumilipad|VBTR_VBAF ng|CCB mataas.Masaya|VBW si|DTP Bountong|NNP sa|CCT kanyang|PRSP_CCP bagong|JJD_CCP sumbrero|NNC .|PMP
-Isinuot|VBTS niya|PRS ito|PRO at|CCA patakbong|RBD_CCP pinuntahan|VBOF si|DTP Buk|NNP -|PMS Le.Ngayon|NNP ,|PMC maaari|VBS na|CCP silang|PRP_CCP maglaro|VBAF tulad|JJC ng|CCB dalawang|JJN_CCP kalabaw!Tumakbo|NNC sila|PRP bukid|NNC kasabay|CCB ng|CCB pag|CCR -|PMS ihip|FW ng|CCB hangin|NNC .|PMP "|PMS
+Siya|PRS mismo|RBT ang|DTC gumawa|VBAF nito|PRO .|PMP
+Ito|PRO ay|LM kulay|NNC kayumanggi|JJD na|CCP may|VBH mahabang|JJD_CCP buntot|NNC .|PMP
+Mayroon|VBH itong|PRO_CCP mga|DTCP sungay|NNC at|CCA malalaking|JJD_CCP mga|DTCP mata|NNC .|PMP
+Kahawig|JJD ito|PRO ni|DTP Buk|NNP -|PMS Le|NNP ,|PMC ang|DTC kanyang|PRSP_CCP kalabaw|NNC .|PMP
+Kapag|CCR umihip|VBAF na|RBI ang|DTC malakas|JJD na|CCP hangin|NNC ,|PMC ang|DTC buntot|NNC nito|PRO ay|LM lumilipad|VBTR_VBAF ng|CCB mataas|JJD .|PMP
+Masaya|NNP si|DTP Bountong|NNP sa|CCT kanyang|PRSP_CCP bagong|JJD_CCP sumbrero|NNC .|PMP
+Isinuot|VBTS niya|PRS ito|PRO at|CCA patakbong|RBD_CCP pinuntahan|VBOF si|DTP Buk|NNP -|PMS Le|NNP .|PMP
+Ngayon|RBW ,|PMC maaari|VBS na|CCP silang|PRP_CCP maglaro|VBAF tulad|JJC ng|CCB dalawang|JJN_CCP kalabaw!Tumakbo|NNC sila|PRP bukid|NNC kasabay|CCB ng|CCB pag|CCR -|PMS ihip|FW ng|CCB hangin|NNC .|PMP "|PMS
 Woooooo|NNP !|PMS "|PMS
 sigaw|NNC ni|DTP Bountong|NNP .|PMP "|PMS
 Mooooo|NNP !|PMS
@@ -9,26 +14,37 @@ sambit|CCR ni|DTP Buk|NNP -|PMS Le|NNP .|PMP "|PMS
 Woooosh|NNP !|PMS "|PMS
 ihip|VBTF ng|CCB hangin|NNC .|PMP "|PMS
 Wheeee|NNP !|PMS
-sabi|VBS ng|CCB sumbrero.Biglang|NNC_CCP umihip|VBAF ang|DTC malakas|JJD na|CCP hangin|NNC .|PMP
-Nahila|NNP ang|DTC buntot|NNC ng|CCB kaniyang|PRSP_CCP sumbrero|NNC at|CCA inilipad|VBTS ito.Sumabit|VBTR kay|DTP Boutong|NNP ang|DTC buntot|NNC ng|CCB sumbrero|NNC .|PMP
-Nahulog|VBTS siya|PRS mula|RBL kay|DTP Buk|NNP -|PMS Le.Nalungkot|NNC si|DTP Buk|NNP -|PMS Le|NNP para|CCT sa|CCT kaniyang|PRSP_CCP kaibigan|NNC .|PMP
+sabi|VBS ng|CCB sumbrero|NNC .|PMP
+Biglang|RBD_CCP umihip|VBAF ang|DTC malakas|JJD na|CCP hangin|NNC .|PMP
+Nahila|NNP ang|DTC buntot|NNC ng|CCB kaniyang|PRSP_CCP sumbrero|NNC at|CCA inilipad|VBTS ito|PRO .|PMP
+Sumabit|VBAF kay|DTP Boutong|NNP ang|DTC buntot|NNC ng|CCB sumbrero|NNC .|PMP
+Nahulog|VBTS siya|PRS mula|RBL kay|DTP Buk|NNP -|PMS Le|NNP .|PMP
+Nalungkot|VBTS si|DTP Buk|NNP -|PMS Le|NNP para|CCT sa|CCT kaniyang|PRSP_CCP kaibigan|NNC .|PMP
 Nag|NNP -|PMS alala|NNC sa|CCT kaniya|PRSP ang|DTC hangin|NNC .|PMP
 Ang|DTC kaniyang|PRSP_CCP sumbrero|NNC ay|LM nakaramdam|VBTS ng|CCB awa|NNC .|PMP "|PMS
 Alis|NNP !|PMS "|PMS
 Sigaw|NNC ni|DTP Bountong|NNP .|PMP
 Inihagis|VBOF niya|PRS ang|DTC sumbrero|NNC .|PMP
-Inilipad|VBAF ng|CCB hangin|NNC ang|DTC sumbrero|NNC paitaas|RBD ,|PMC paitaas|RBD ,|PMC nang|RBW paitaas.Alis|RBD !|PMQ
+Inilipad|VBAF ng|CCB hangin|NNC ang|DTC sumbrero|NNC paitaas|RBD ,|PMC paitaas|RBD ,|PMC nang|RBW paitaas|RBD .|PMP
+Alis|NNP !|PMS
 Alis!Alis|NNP !|PMS
 ang|DTC sabi|NNC ng|CCB hangin|NNC sa|CCT sumbrero|NNC .|PMP
-Malungkot|JJD na|CCP nagpaalam|VBTS ang|DTC sumbrero.Lumipad|VBAF ang|DTC sumbrero|NNC sa|CCT hangin|NNC .|PMP
-Naglaho|NNP ito.Ngunit|NNP ngayon|RBW ,|PMC nagsimulang|RBD_CCP umihip|VBAF ang|DTC hangin|NNC .|PMP
+Malungkot|JJD na|CCP nagpaalam|VBTS ang|DTC sumbrero|NNC .|PMP
+Lumipad|VBAF ang|DTC sumbrero|NNC sa|CCT hangin|NNC .|PMP
+Naglaho|VBTS ito|PRO .|PMP
+Ngunit|CCT ngayon|RBW ,|PMC nagsimulang|RBD_CCP umihip|VBAF ang|DTC hangin|NNC .|PMP
 Nagsimulang|VBTS_CCP bumuhos|VBAF ang|DTC ulan|NNC .|PMP
-Naisip|VBTS ni|DTP Bountong|NNP ang|DTC kanyang|PRSP_CCP sumbrero.Bumalik|NNC sina|DTPP Bountong|NNP at|CCA Buk|NNP -|PMS Le|NNP sa|CCT bukid|NNC .|PMP
-Bumuhos|VBAF ang|DTC ulan|NNC na|CCP parang|CCT karayom|NNC sa|CCT kanilang|PRSP_CCP mga|DTCP likod.Nanginig|NNC sa|CCT lamig|NNC sina|DTPP Bountong|NNP at|CCA Buk|NNP -|PMS le.Nagsimulang|RBD_CCP umiyak|VBAF si|DTP Bountong|NNP .|PMP
+Naisip|VBTS ni|DTP Bountong|NNP ang|DTC kanyang|PRSP_CCP sumbrero|NNC .|PMP
+Bumalik|VBAF sina|DTPP Bountong|NNP at|CCA Buk|NNP -|PMS Le|NNP sa|CCT bukid|NNC .|PMP
+Bumuhos|VBAF ang|DTC ulan|NNC na|CCP parang|CCT karayom|NNC sa|CCT kanilang|PRSP_CCP mga|DTCP likod|NNC .|PMP
+Nanginig|VBTR sa|CCT lamig|NNC sina|DTPP Bountong|NNP at|CCA Buk|NNP -|PMS le|FW .|PMP
+Nagsimulang|VBTS_CCP umiyak|VBAF si|DTP Bountong|NNP .|PMP
 Naalala|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP sumbrero|NNC .|PMP "|PMS
 Nasaan|VBTS ka|PRS ,|PMC aking|PRSP_CCP sumbrero|NNC ?|PMQ "|PMS
 Nang|RBW marinig|VBW ng|CCB hangin|NNC ang|DTC pag|CCR -|PMS iyak|NNC ni|DTP Bountong|NNP ,|PMC hinanap|VBTS nito|PRO ang|DTC kaniyang|PRSP_CCP sumbrero|NNC .|PMP
 Nakita|VBTS niya|PRS ito|PRO !|PMQ
-Umihip|NNP nang|RBW umihip|VBAF ang|DTC hangin.Dahan|NNP -|PMS dahang|NNC_CCP umuwi|VBAF sa|CCT kanilang|PRSP_CCP bahay|NNC sina|DTPP Bountong|NNP at|CCA Buk|NNP -|PMS le.Nang|RBD_CCP makauwi|VBW na|RBI ng|CCB bahay|NNC si|DTP Bountong|NNP ,|PMC ano|PRQ ang|DTC kanyang|PRSP_CCP natagpuan?Ngayon|VBW ,|PMC maaari|VBS na|CCP silang|PRP_CCP muling|RBW_CCP maglaro|VBAF tulad|JJC ng|CCB dalawang|JJN_CCP kalabaw|NNC .|PMP
+Umihip|NNP nang|RBW umihip|VBAF ang|DTC hangin|NNC .|PMP
+Dahan|NNP -|PMS dahang|NNC_CCP umuwi|VBAF sa|CCT kanilang|PRSP_CCP bahay|NNC sina|DTPP Bountong|NNP at|CCA Buk|NNP -|PMS le|FW .|PMP
+Nang|RBW makauwi|VBW na|RBI ng|CCB bahay|NNC si|DTP Bountong|NNP ,|PMC ano|PRQ ang|DTC kanyang|PRSP_CCP natagpuan?Ngayon|VBW ,|PMC maaari|VBS na|CCP silang|PRP_CCP muling|RBW_CCP maglaro|VBAF tulad|JJC ng|CCB dalawang|JJN_CCP kalabaw|NNC .|PMP
 Si|DTP Bountong|NNP ,|PMC si|DTP Buk|NNP -|PMS le|FW at|CCA ang|DTC sumbrero|NNC .|PMP
 Ang|DTC kamangha|NNC -|PMS manghang|NNC_CCP kayumangging|JJD_CCP sumbrero|NNC na|CCP may|VBH mahabang|JJD_CCP buntot|NNC ,|PMC sungay|NNC at|CCA malalaking|JJD_CCP mata|NNC .|PMP

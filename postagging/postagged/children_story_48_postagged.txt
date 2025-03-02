@@ -2,11 +2,13 @@ Tuwing|RBW gabi|RBW ,|PMC isang|PRI_CCP malaking|JJD_CCP ibon|NNC ang|DTC sumasa
 Ang|DTC ibon|NNC ay|LM kasinlaki|JJC ng|CCB isang|PRI_CCP inahing|JJD_CCP baboy|NNC .|PMP
 Ang|DTC kaniyang|PRSP_CCP mga|DTCP mata|NNC ay|LM nanlilisik|VBTR at|CCA tila|RBM umaapoy|VBTR_VBAF .|PMP
 Ang|DTC kaniyang|PRSP_CCP tuka|NNC ay|LM kasingtalim|JJCC ng|CCB sibat|NNC .|PMP
-Ang|DTC kaniyang|PRSP_CCP mga|DTCP pakpak|NNC ay|LM nakakikilabot.Ang|VBTS lahat|PRI ng|CCB insekto|NNC ay|LM natatakot|VBTR .|PMP
+Ang|DTC kaniyang|PRSP_CCP mga|DTCP pakpak|NNC ay|LM nakakikilabot|VBTR .|PMP
+Ang|DTC lahat|PRI ng|CCB insekto|NNC ay|LM natatakot|VBTR .|PMP
 Isang|PRI_CCP araw|NNC ,|PMC sila|PRP ay|LM nagtipon|VBTS -|PMS tipon|NNC upang|CCB mapag|VBW -|PMS usapan|NNC ang|DTC problema|NNC .|PMP "|PMS
 Kailangan|VBS natin|PRP siyang|PRS_CCP hagisan|VBOF ng|CCB maruming|PRI_CCP bola|NNC ,|PMC "|PMS mungkahi|NNC ni|DTP kuliglig|NNC .|PMP "|PMS
 Hindi|RBF "|PMS pigil|NNC ni|DTP tipaklong|NNC .|PMP "|PMS
-Dapat|VBS tayong|PRP_CCP gumawa|VBAF ng|CCB apoy|NNC para|CCT maitaboy|VBW ito|PRO paalis|JJD "|PMS "|PMS Ngunit|CCT maaaring|RBM masunog|VBW ang|DTC buong|PRI_CCP palayan|NNC "|PMS tugon|NNC ni|DTP bubuyog.Walang|NNC_CCP sumang|NNC_CCP -|PMS ayon|RBR sa|CCT mga|DTCP solusyon|NNC .|PMP
+Dapat|VBS tayong|PRP_CCP gumawa|VBAF ng|CCB apoy|NNC para|CCT maitaboy|VBW ito|PRO paalis|JJD "|PMS "|PMS Ngunit|CCT maaaring|RBM masunog|VBW ang|DTC buong|PRI_CCP palayan|NNC "|PMS tugon|NNC ni|DTP bubuyog|NNC .|PMP
+Walang|VBN_CCP sumang|NNC_CCP -|PMS ayon|RBR sa|CCT mga|DTCP solusyon|NNC .|PMP
 Maya|NNP -|PMS maya|NNC ,|PMC gumapang|VBAF ang|DTC kamaksi|NNC patungo|RBL sa|CCT mikropono|NNC na|CCP naiwan|VBTS sa|CCT lupa|NNC .|PMP "|PMS
 Mayroon|VBH akong|PRS_CCP naisip|VBTS kung|RBK paano|RBQ maitataboy|VBW ang|DTC ibon|NNC .|PMP "|PMS
 sinabi|VBTS niya|PRS ito|PRO sa|CCT lahat|PRI .|PMP "|PMS
@@ -16,13 +18,16 @@ Kung|CCR ilalagay|VBTF natin|PRP ang|DTC ating|PRSP_CCP mga|DTCP boses|NNC ng|CC
 Ang|DTC lahat|PRI ng|CCB insekto|NNC ay|LM sumang|VBAF -|PMS ayon|RBR sa|CCT kamaksi|NNC .|PMP
 At|CCA noong|RBW_CCP gabing|RBW_CCP iyon|PRO ,|PMC ang|DTC kamaksi|NNC kasama|CCB ang|DTC ibang|PRI_CCP insekto|NNC ay|LM nagsama|VBTS sama|NNC at|CCA bumuo|VBAF ng|CCB malaking|JJD_CCP hugis|NNC na|CCP malaking|JJD_CCP megapon|NNC .|PMP
 Ang|DTC mga|DTCP insektong|NNC_CCP may|VBH malalaking|JJD_CCP katawan|NNC at|CCA may|VBH malalakas|JJD na|CCP boses|NNC ay|LM tumayo|VBAF sa|CCT likuran|NNC .|PMP
-At|CCA ang|DTC mga|DTCP insektong|NNC_CCP may|VBH maliliit|JJD na|CCP katawan|NNC at|CCA may|VBH mataas|JJD na|CCP boses|NNC ay|LM pumunta|VBAF sa|CCT harapan.Sa|NNP wakas|RBW ,|PMC ang|DTC malaking|JJD_CCP ibon|NNC ay|LM dumating|VBAF na|RBI .|PMP
+At|CCA ang|DTC mga|DTCP insektong|NNC_CCP may|VBH maliliit|JJD na|CCP katawan|NNC at|CCA may|VBH mataas|JJD na|CCP boses|NNC ay|LM pumunta|VBAF sa|CCT harapan|NNC .|PMP
+Sa|CCT wakas|RBW ,|PMC ang|DTC malaking|JJD_CCP ibon|NNC ay|LM dumating|VBAF na|RBI .|PMP
 Umiikot|VBTR_VBAF ito|PRO sa|CCT kanila|PRSP na|CCP nakahugis|VBTS megapon|NNC .|PMP
 Ang|DTC mga|DTCP insekto|NNC ay|LM biglang|RBD_CCP natakot|VBTS at|CCA nagsimulang|VBTS_CCP lumipad|VBAF palayo|RBD sa|CCT isat|FW -|PMS isa|PRI .|PMP
-Ang|DTC malaking|JJD_CCP ibon|NNC ay|LM nakahuli|VBTS ng|CCB ilang|PRQ_CCP insekto|NNC para|CCT sa|CCT kaniyang|PRSP_CCP hapunan.Sumunod|RBW na|CCP gabi|RBW ,|PMC ang|DTC mga|DTCP insekto|NNC ay|LM nagsama|VBTS -|PMS samang|NNC_CCP muli|RBW ,|PMC Sa|CCT pagkakataong|NNC_CCP ito|PRO ,|PMC nagsimula|VBTS silang|PRP_CCP gumawa|VBAF ng|CCB ingay|NNC .|PMP
+Ang|DTC malaking|JJD_CCP ibon|NNC ay|LM nakahuli|VBTS ng|CCB ilang|PRQ_CCP insekto|NNC para|CCT sa|CCT kaniyang|PRSP_CCP hapunan|NNC .|PMP
+Sumunod|VBAF na|CCP gabi|RBW ,|PMC ang|DTC mga|DTCP insekto|NNC ay|LM nagsama|VBTS -|PMS samang|NNC_CCP muli|RBW ,|PMC Sa|CCT pagkakataong|NNC_CCP ito|PRO ,|PMC nagsimula|VBTS silang|PRP_CCP gumawa|VBAF ng|CCB ingay|NNC .|PMP
 Ngunit|CCT hindi|RBF sabay|JJD -|PMS sabay|JJD at|CCA sama|NNC -|PMS sama|NNC ang|DTC ingay|NNC na|CCP nalikha|VBTS nila|PRP .|PMP
 Ang|DTC ibon|NNC ay|LM lumusob|VBAF palipad|JJD sa|CCT kanila|PRSP at|CCA sinira|VBOF ang|DTC kanilang|PRSP_CCP hugis|NNC megapon|NNC na|CCP hanay|NNC .|PMP
-Ang|DTC mga|DTCP insekto|NNC ay|LM nahulog|VBTS sa|CCT lupa|NNC at|CCA ang|DTC iba|PRI sa|CCT kanila|PRSP ay|LM nasugatan.Pagkatapos|VBTR nito|PRO ,|PMC marami|PRI sa|CCT kanila|PRSP ang|DTC nawalan|VBTS ng|CCB interes|NNC na|CCP sumali|VBAF sa|CCT plano|NNC .|PMP
+Ang|DTC mga|DTCP insekto|NNC ay|LM nahulog|VBTS sa|CCT lupa|NNC at|CCA ang|DTC iba|PRI sa|CCT kanila|PRSP ay|LM nasugatan|VBTS .|PMP
+Pagkatapos|VBW nito|PRO ,|PMC marami|PRI sa|CCT kanila|PRSP ang|DTC nawalan|VBTS ng|CCB interes|NNC na|CCP sumali|VBAF sa|CCT plano|NNC .|PMP
 Hinikayat|VBOF ng|CCB kamaksi|NNC ang|DTC lahat|PRI .|PMP "|PMS
 Sa|CCT lahat|PRI !|PMQ
 Kung|RBK hindi|RBF natin|PRP susubukan|VBTF ,|PMC lahat|PRI tayo|PRP ay|LM mamamatay|VBTF .|PMP
@@ -34,7 +39,8 @@ Chrek|NNP !|PMS '|PMS
 Pagkatapos|VBW nito|PRO ,|PMC tayong|PRP_CCP lahat|PRI ay|LM mag|VBW -|PMS iingay|VBTF ng|CCB sama|NNC -|PMS sama|NNC .|PMP "|PMS
 At|CCA sa|CCT sumunod|VBAF na|CCP gabi|RBW ,|PMC ang|DTC malaking|JJD_CCP ibon|NNC ay|LM lumusob|VBAF muli|RBW sa|CCT nayon|NNC .|PMP
 Muli|RBW na|CCP namang|RBI_CCP nakita|VBTS ng|CCB ibon|NNC ang|DTC hugis|NNC megapon|NNC nilang|PRP_CCP hanay|NNC sa|CCT parehong|JJC_CCP lugar|NNC katulad|JJC noong|RBW_CCP isang|PRI_CCP gabi|RBW .|PMP
-Alam|VBS niya|PRS na|CCP ang|DTC megapon|NNC ay|LM binubuo|VBTR lamang|RBI ng|CCB mga|DTCP maliliit|JJD na|CCP insekto|NNC ,|PMC kaya|CCR '|PMS t|NNCA bumulusok|VBAF agad|RBD ang|DTC ibon|NNC pababa.Nagbigay|VBTS ng|CCB hudyat|NNC ang|DTC kamaksi|NNC "|PMS Chrek|NNP !|PMS
+Alam|VBS niya|PRS na|CCP ang|DTC megapon|NNC ay|LM binubuo|VBTR lamang|RBI ng|CCB mga|DTCP maliliit|JJD na|CCP insekto|NNC ,|PMC kaya|CCR '|PMS t|NNCA bumulusok|VBAF agad|RBD ang|DTC ibon|NNC pababa|JJD .|PMP
+Nagbigay|VBTS ng|CCB hudyat|NNC ang|DTC kamaksi|NNC "|PMS Chrek|NNP !|PMS
 Chrek|NNP !|PMS
 Chrek|NNP !|PMS "|PMS
 Ang|DTC mga|DTCP insekto|NNC ay|LM nag|VBTS -|PMS ingay|NNC nang|CCB sabay|RBD -|PMS sabay|JJD ,|PMC katulad|JJC ng|CCB isang|PRI_CCP higanteng|JJD_CCP halimaw|NNC :|PMS "|PMS Tung|FW !|PMS

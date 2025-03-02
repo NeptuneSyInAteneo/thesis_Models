@@ -1,5 +1,8 @@
 Ang|DTC mga|DTCP ulap|NNC ay|LM maaaring|RBM magdala|VBW ng|CCB ulan|NNC .|PMP
-Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap.Ang|NNC_CCP mga|DTCP ulap|NNC ay|LM maaaring|RBM magdala|VBW ng|CCB niyebe|NNC .|PMP
-Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap.Maaaring|NNC_CCP itago|VBOF ng|CCB mga|DTCP ulap|NNC ang|DTC araw|NNC .|PMP
-Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap.Maaaring|NNC_CCP maitago|VBW ng|CCB mga|DTCP ulap|NNC ang|DTC mga|DTCP bituin|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap|NNC .|PMP
+Ang|DTC mga|DTCP ulap|NNC ay|LM maaaring|RBM magdala|VBW ng|CCB niyebe|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap|NNC .|PMP
+Maaaring|RBM itago|VBOF ng|CCB mga|DTCP ulap|NNC ang|DTC araw|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap|NNC .|PMP
+Maaaring|RBM maitago|VBW ng|CCB mga|DTCP ulap|NNC ang|DTC mga|DTCP bituin|NNC .|PMP
 Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap|NNC .|PMP

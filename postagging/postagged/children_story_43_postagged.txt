@@ -1,10 +1,20 @@
 Nais|VBS ni|DTP Edi|NNP na|CCP maglaro|VBAF ng|CCB saranggola|NNC subalit|CCT wala|VBN siyang|PRS_CCP salapi|NNC upang|CCB bumili|VBAF ng|CCB kahit|CCT isa|PRI .|PMP
-Nagbasa|VBTS siya|PRS ng|CCB libro|NNC ukol|NNC sa|CCT paggawa|NNC nito.Kumuha|VBTR si|DTP Edi|NNP ng|CCB mga|DTCP piraso|NNC ng|CCB kahoy|NNC ,|PMC ng|CCB martilyo|NNC at|CCA mga|DTCP pako|NNC upang|CCB buohin|VBOF ang|DTC saranggola.Ginamit|NNC ni|DTP Edi|NNP ang|DTC mga|DTCP pako|NNC at|CCA martilyo|NNC upang|CCB pagdugtungin|VBW ang|DTC mga|DTCP piraso|NNC ng|CCB kahoy|NNC .|PMP
-Naging|VBTS maingat|RBD siya|PRS upang|CCB hindi|RBF maipit|VBW ang|DTC mga|DTCP daliri|NNC sa|CCT pagpupukpok|NNC gamit|VBS ang|DTC martilyo.Nabuo|NNC ni|DTP Edi|NNP ang|DTC katawan|NNC ng|CCB saranggola|NNC .|PMP
-Alam|VBS niyang|PRS_CCP ang|DTC saranggola|NNC ay|LM binubuo|VBTR ng|CCB apat|JJN na|CCP tatsulok.Kumuha|NNC si|DTP Edi|NNP ng|CCB papel|NNC at|CCA ng|CCB lapis|NNC pangkulay|JJD .|PMP
-Kinulayan|VBTS niya|PRS ang|DTC mga|DTCP tatsulok|NNC ng|CCB bughaw|NNC ,|PMC pula|JJD ,|PMC dilaw|JJD at|CCA berde.Nagmukang|JJD_CCP kaaya|NNC -|PMS aya|NNC ang|DTC apat|JJN na|CCP tatsulok|NNC !|PMS
-Pagkatapos|VBW ay|LM ginamit|VBOF ni|DTP Edi|NNP ang|DTC martilyo|NNC at|CCA mga|DTCP pako|NNC upang|CCB pagkonektahin|VBOF ang|DTC mga|DTCP tatsulok|NNC sa|CCT katawan|NNC ng|CCB kanyang|PRSP_CCP saranggola.Pagkatapos|NNC noon|RBW ,|PMC gumawa|VBAF si|DTP Edi|NNP ng|CCB buntot|NNC para|CCT sa|CCT kanyang|PRSP_CCP saranggola|NNC .|PMP
-Gumupit|VBAF siya|PRS ng|CCB laso|NNC para|CCT sa|CCT buntot|NNC ng|CCB kanyang|PRSP_CCP saranggola.Naging|JJD_CCP lubhang|JJCS_CCP napakaganda|JJCS_JJD ng|CCB saranggola|NNC ni|DTP Edi|NNP pagkatapos|VBW lagyan|VBOF ng|CCB mga|DTCP laso|NNC ang|DTC buntot|NNC nito.Binasang|VBTS_CCP muli|RBW ni|DTP Edi|NNP ang|DTC libro|NNC .|PMP
-Kailangan|VBS niyang|PRS_CCP lagyan|VBOF ng|CCB tali|NNC ang|DTC kanyang|PRSP_CCP saranggola.May|RBL_NNP napakahabang|JJCS_JJD_CCP tali|NNC na|CCP nakaugnay|VBTS sa|CCT saranggola|NNC ni|DTP Edi|NNP .|PMP
-Ngayon|RBW handa|JJD ng|CCB lumipad|NNC ang|DTC saranggola|NNC niya.Si|NNP Edi|NNP ay|LM lumabas|VBAF at|CCA nagpalipad|VBTS ng|CCB kanyang|PRSP_CCP saranggola|NNC !|PMS
+Nagbasa|VBTS siya|PRS ng|CCB libro|NNC ukol|NNC sa|CCT paggawa|NNC nito|PRO .|PMP
+Kumuha|VBAF si|DTP Edi|NNP ng|CCB mga|DTCP piraso|NNC ng|CCB kahoy|NNC ,|PMC ng|CCB martilyo|NNC at|CCA mga|DTCP pako|NNC upang|CCB buohin|VBOF ang|DTC saranggola|NNC .|PMP
+Ginamit|VBTS ni|DTP Edi|NNP ang|DTC mga|DTCP pako|NNC at|CCA martilyo|NNC upang|CCB pagdugtungin|VBW ang|DTC mga|DTCP piraso|NNC ng|CCB kahoy|NNC .|PMP
+Naging|VBTS maingat|RBD siya|PRS upang|CCB hindi|RBF maipit|VBW ang|DTC mga|DTCP daliri|NNC sa|CCT pagpupukpok|NNC gamit|VBS ang|DTC martilyo|NNC .|PMP
+Nabuo|VBTS ni|DTP Edi|NNP ang|DTC katawan|NNC ng|CCB saranggola|NNC .|PMP
+Alam|VBS niyang|PRS_CCP ang|DTC saranggola|NNC ay|LM binubuo|VBTR ng|CCB apat|JJN na|CCP tatsulok|NNC .|PMP
+Kumuha|VBAF si|DTP Edi|NNP ng|CCB papel|NNC at|CCA ng|CCB lapis|NNC pangkulay|JJD .|PMP
+Kinulayan|VBTS niya|PRS ang|DTC mga|DTCP tatsulok|NNC ng|CCB bughaw|NNC ,|PMC pula|JJD ,|PMC dilaw|JJD at|CCA berde|JJD .|PMP
+Nagmukang|VBTS_CCP kaaya|NNC -|PMS aya|NNC ang|DTC apat|JJN na|CCP tatsulok|NNC !|PMS
+Pagkatapos|VBW ay|LM ginamit|VBOF ni|DTP Edi|NNP ang|DTC martilyo|NNC at|CCA mga|DTCP pako|NNC upang|CCB pagkonektahin|VBOF ang|DTC mga|DTCP tatsulok|NNC sa|CCT katawan|NNC ng|CCB kanyang|PRSP_CCP saranggola|NNC .|PMP
+Pagkatapos|RBW noon|RBW ,|PMC gumawa|VBAF si|DTP Edi|NNP ng|CCB buntot|NNC para|CCT sa|CCT kanyang|PRSP_CCP saranggola|NNC .|PMP
+Gumupit|VBAF siya|PRS ng|CCB laso|NNC para|CCT sa|CCT buntot|NNC ng|CCB kanyang|PRSP_CCP saranggola|NNC .|PMP
+Naging|VBTS lubhang|JJCS_CCP napakaganda|JJCS_JJD ng|CCB saranggola|NNC ni|DTP Edi|NNP pagkatapos|VBW lagyan|VBOF ng|CCB mga|DTCP laso|NNC ang|DTC buntot|NNC nito|PRO .|PMP
+Binasang|NNP_CCP muli|RBW ni|DTP Edi|NNP ang|DTC libro|NNC .|PMP
+Kailangan|VBS niyang|PRS_CCP lagyan|VBOF ng|CCB tali|NNC ang|DTC kanyang|PRSP_CCP saranggola|NNC .|PMP
+May|VBH napakahabang|JJCS_JJD_CCP tali|NNC na|CCP nakaugnay|VBTS sa|CCT saranggola|NNC ni|DTP Edi|NNP .|PMP
+Ngayon|RBW handa|JJD ng|CCB lumipad|NNC ang|DTC saranggola|NNC niya|PRS .|PMP
+Si|DTP Edi|NNP ay|LM lumabas|VBAF at|CCA nagpalipad|VBTS ng|CCB kanyang|PRSP_CCP saranggola|NNC !|PMS
 Naging|VBTS labis|JJCS ang|DTC kanyang|PRSP_CCP kaligayahan|NNC !|PMS

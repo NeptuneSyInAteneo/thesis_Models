@@ -1,45 +1,59 @@
 Si|DTP Luta|NNP ay|LM mahilig|JJD maglaro|VBAF buong|PRI_CCP araw|NNC .|PMP
 Talon|NNP dito|PRL ,|PMC indayog|NNC doon|PRL .|PMP
 Isang|PRI_CCP araw|NNC ,|PMC may|VBH narinig|VBTS siyang|PRS_CCP kakaiba|JJD .|PMP
-Ito|PRO ay|LM malapit|JJD lamang|RBI sa|CCT kanyang|PRSP_CCP kinatatayuan.Naramdaman|VBOF ni|DTP Luta|NNP ang|DTC kakaibang|JJD_CCP pagyanig|VBW .|PMP
-Dahil|CCR doon|PRL ,|PMC siya|PRS ay|LM napaisip.Ano|VBTS kaya|CCR iyon|PRO ?|PMQ
+Ito|PRO ay|LM malapit|JJD lamang|RBI sa|CCT kanyang|PRSP_CCP kinatatayuan|VBTR .|PMP
+Naramdaman|VBTS ni|DTP Luta|NNP ang|DTC kakaibang|JJD_CCP pagyanig|VBW .|PMP
+Dahil|CCR doon|PRL ,|PMC siya|PRS ay|LM napaisip|VBTS .|PMP
+Ano|PRQ kaya|CCR iyon|PRO ?|PMQ
 Tara|NNP at|CCA tingnan|VBOF natin!Umihip|VBTR ang|DTC mainit|JJD na|CCP hangin|NNC .|PMP
 Ito|PRO ba|RBI ay|LM hudyat|NNC ng|CCB pagsabog|NNC ng|CCB bulkan|NNC ?|PMQ
 Ang|DTC puso|NNC ni|DTP Luta|NNP ay|LM napuno|VBTS ng|CCB pag|CCR -|PMS alala|NNC .|PMP
-Nagmadali|VBTS siyang|PRS_CCP tumingin|VBAF sa|CCT langit|NNC para|CCT sa|CCT mga|DTCP palatandaan.Dumating|NNC ang|DTC agila|NNC na|CCP may|VBH dalang|JJD_CCP balita|NNC .|PMP
-Nababalot|VBTR ng|CCB usok|NNC ang|DTC hangin|NNC mula|RBL sa|CCT tuktok|NNC ng|CCB bundok.Ayon|NNC sa|CCT plano|NNC ,|PMC ang|DTC balita|NNC ay|LM dapat|VBS ipakalat|VBOF .|PMP
+Nagmadali|VBTS siyang|PRS_CCP tumingin|VBAF sa|CCT langit|NNC para|CCT sa|CCT mga|DTCP palatandaan|NNC .|PMP
+Dumating|VBAF ang|DTC agila|NNC na|CCP may|VBH dalang|JJD_CCP balita|NNC .|PMP
+Nababalot|VBTR ng|CCB usok|NNC ang|DTC hangin|NNC mula|RBL sa|CCT tuktok|JJD ng|CCB bundok|NNC .|PMP
+Ayon|RBR sa|CCT plano|NNC ,|PMC ang|DTC balita|NNC ay|LM dapat|VBS ipakalat|VBOF .|PMP
 Ngunit|CCT hindi|RBF maintindihan|VBW ng|CCB ibang|PRI_CCP langur|NNC .|PMP
 Hindi|RBF sila|PRP naniwala|VBTS kay|DTP Luta|NNP .|PMP
 Nadismaya|VBTS si|DTP Luta|NNP .|PMP
-Ang|DTC pag|CCR -|PMS iingat|VBTF lamang|RBI ang|DTC tangi|JJD niyang|PRS_CCP hangad.Madalas|RBW umihip|VBAF ang|DTC mainit|JJD na|CCP hangin|NNC .|PMP
+Ang|DTC pag|CCR -|PMS iingat|VBTF lamang|RBI ang|DTC tangi|JJD niyang|PRS_CCP hangad|NNC .|PMP
+Madalas|RBW umihip|VBAF ang|DTC mainit|JJD na|CCP hangin|NNC .|PMP
 Patuloy|RBD ang|DTC pagyanig|VBW ng|CCB lupa|NNC .|PMP
-Nagpapahiwatig|VBTR na|CCP ang|DTC bulkan|NNC ay|LM handa|JJD nang|RBD sumabog.Aray|VBAF !|PMQ
+Nagpapahiwatig|VBTR na|CCP ang|DTC bulkan|NNC ay|LM handa|JJD nang|RBD sumabog|VBAF .|PMP
+Aray|NNP !|PMS
 Naku|NNP po!Maririnig|FW ang|DTC malakas|JJD na|CCP ingay|NNC .|PMP
 Gumalaw|VBTS_VBAF ang|DTC ibang|PRI_CCP kasama|CCB habang|RBW sumisigaw|VBTR_VBAF si|DTP Luta|NNP .|PMP
 Bilis|NNP ,|PMC kailangan|VBS nating|PRP_CCP makalayo|VBW !|PMQ
-Sumunod|VBAF sila|PRP ng|CCB walang|VBN_CCP pag|CCR -|PMS aalinlangan.Ang|NNC_CCP ibang|PRI_CCP malalapit|JJD na|CCP hayop|NNC ay|LM pinagsabihan|VBRF ni|DTP Luta|NNP .|PMP
-Kita|NNP sa|CCT kanilang|PRSP_CCP mga|DTCP mata|NNC ang|DTC takot|NNC kaya|CCR huminto|VBTS_VBAF sa|CCT paglalaro.Takbo|NNC ,|PMC magmadali|VBW !|PMQ
+Sumunod|VBAF sila|PRP ng|CCB walang|VBN_CCP pag|CCR -|PMS aalinlangan|VBTF .|PMP
+Ang|DTC ibang|PRI_CCP malalapit|JJD na|CCP hayop|NNC ay|LM pinagsabihan|VBRF ni|DTP Luta|NNP .|PMP
+Kita|NNP sa|CCT kanilang|PRSP_CCP mga|DTCP mata|NNC ang|DTC takot|NNC kaya|CCR huminto|VBTS_VBAF sa|CCT paglalaro|NNC .|PMP
+Takbo|NNP ,|PMC magmadali|VBW !|PMQ
 Walang|VBN_CCP oras|NNC na|CCP dapat|VBS sayangin|VBOF .|PMP "|PMS
 Ala|NNP ,|PMC anong|PRQ_CCP gusto|VBS niya|PRS ?|PMQ '|PMS
-Hindi|RBF ito|PRO oras|NNC para|CCT manghuli.Ang|RBD_CCP gutom|JJD at|CCA tusong|JJD_CCP leopard|FW ay|LM lumitaw|VBAF .|PMP
+Hindi|RBF ito|PRO oras|NNC para|CCT manghuli|VBW .|PMP
+Ang|DTC gutom|NNC at|CCA tusong|JJD_CCP leopard|FW ay|LM lumitaw|VBAF .|PMP
 Isang|PRI_CCP pagsubok|NNC kay|DTP Luta|NNP na|CCP kailangang|VBS_CCP iwasan|VBOF .|PMP
 Aray|NNP !|PMS
 Naku|NNP ,|PMC naku|VBTS po!Ang|NNC_CCP lahat|PRI ay|LM mabilis|RBD na|CCP nagtakbuhan|VBTS .|PMP "|PMS
-Takbo|NNP ,|PMC at|CCA huwag|RBF huminto|VBAF ,|PMC "|PMS sabi|VBS ni|DTP Luta.Nakarating|NNC_CCP sila|PRP sa|CCT pinakamalapit|JJCS_JJD na|CCP nayon|NNC .|PMP
+Takbo|NNP ,|PMC at|CCA huwag|RBF huminto|VBAF ,|PMC "|PMS sabi|VBS ni|DTP Luta|NNP .|PMP
+Nakarating|VBTS sila|PRP sa|CCT pinakamalapit|JJCS_JJD na|CCP nayon|NNC .|PMP
 Bakit|PRQ takot|JJD na|CCP lumalayo|VBTR_VBAF ang|DTC mga|DTCP tao|NNC ?|PMQ
 Natatakot|VBTR din|RBI ba|RBI sila|PRP na|CCP makagat|VBW ng|CCB leopard?Sa|FW wakas|FW ,|PMC ang|DTC mga|DTCP hayop|NNC ay|LM nakalayo|VBTS .|PMP
-Pinagmasdan|VBRF nila|PRP ang|DTC bundok|NNC mula|RBL sa|CCT ligtas|JJD na|CCP lugar.Kapani|NNC -|PMS paniwala|NNC ba|RBI ang|DTC kutob|NNC ni|DTP Luta?Bubuga|NNP kaya|CCR ng|CCB apoy|NNC ang|DTC matinding|RBD_CCP pagsabog?Tumaas|VBW ang|DTC makapal|JJD na|CCP usok|NNC .|PMP
+Pinagmasdan|VBRF nila|PRP ang|DTC bundok|NNC mula|RBL sa|CCT ligtas|JJD na|CCP lugar|NNC .|PMP
+Kapani|NNP -|PMS paniwala|NNC ba|RBI ang|DTC kutob|NNC ni|DTP Luta?Bubuga|NNP kaya|CCR ng|CCB apoy|NNC ang|DTC matinding|RBD_CCP pagsabog?Tumaas|VBW ang|DTC makapal|JJD na|CCP usok|NNC .|PMP
 May|VBH paunti|NNC -|PMS unting|PRI_CCP pagsabog|NNC .|PMP
 Paf|NNP !|PMS
 Bang|NNP !|PMS
 Blap!Naghintay|NNP ang|DTC mga|DTCP hayop|NNC ng|CCB isang|PRI_CCP palatandaan|NNC o|CCT tunog|NNC .|PMP
-Pagkaraan|VBW ng|CCB ilang|PRQ_CCP sandali|NNC ,|PMC walang|VBN_CCP nangyari.Lumalabas|VBTS na|CCP walang|VBN_CCP dapat|VBS katakutan|VBOF !|PMQ
+Pagkaraan|VBW ng|CCB ilang|PRQ_CCP sandali|NNC ,|PMC walang|VBN_CCP nangyari|VBTS .|PMP
+Lumalabas|VBTR_VBAF na|CCP walang|VBN_CCP dapat|VBS katakutan|VBOF !|PMQ
 Ang|DTC lahat|PRI ng|CCB hayop|NNC ay|LM pinagalitan|VBRF si|DTP Luta|NNP .|PMP
 Ngunit|CCT gusto|VBS lamang|RBI niyang|PRS_CCP maging|VBW alerto|JJD !|PMS
-Maging|VBW handa|JJD ,|PMC at|CCA makaiwas.Sa|VBW huli|RBW ,|PMC ang|DTC lahat|PRI ay|LM ligtas|JJD at|CCA maayos|JJD .|PMP
+Maging|VBW handa|JJD ,|PMC at|CCA makaiwas|VBW .|PMP
+Sa|CCT huli|RBW ,|PMC ang|DTC lahat|PRI ay|LM ligtas|JJD at|CCA maayos|JJD .|PMP
 Wala|VBN na|CCP kayang|RBD_CCP mga|DTCP banta|NNC sa|CCT paligid?Takbo|NNP !|PMQ
 Huwag|RBF huminto|VBAF ,|PMC ipagpatuloy|VBOB ng|CCB buong|PRI_CCP lakas|NNC .|PMP
-Maging|VBW maingat|JJD ,|PMC araw|NNC man|RBI o|CCT gabi.Alamin|NNP Natin|NNP :|PMS Mga|DTCP Palatandaan|NNC ng|CCB Pagputok|NNC ng|CCB Bulkan|NNP May|VBH mga|DTCP senyales|NNC na|CCP maaaring|RBM malaman|VBW kapag|CCR malapit|JJD ng|CCB sumabog|VBAF ang|DTC bulkan|NNC .|PMP
+Maging|VBW maingat|JJD ,|PMC araw|NNC man|RBI o|CCT gabi|RBW .|PMP
+Alamin|NNP Natin|NNP :|PMS Mga|DTCP Palatandaan|NNC ng|CCB Pagputok|NNC ng|CCB Bulkan|NNP May|VBH mga|DTCP senyales|NNC na|CCP maaaring|RBM malaman|VBW kapag|CCR malapit|JJD ng|CCB sumabog|VBAF ang|DTC bulkan|NNC .|PMP
 Isa|PRI na|CCP rito|PRL ang|DTC pagkilos|VBW palayo|RBD ng|CCB mga|DTCP hayop|NNC sa|CCT bulkan|NNC .|PMP
 Bago|RBW ang|DTC pagsabog|NNC ,|PMC nagkakaroon|VBTR ng|CCB puwersa|NNC sa|CCT loob|NNC ng|CCB bulkan|NNC .|PMP
 Ang|DTC matinding|JJD_CCP pwersa|NNC na|CCP ito|PRO ay|LM nakakalikha|VBTR ng|CCB tunog|NNC at|CCA pagyanig|VBW na|CCP maririnig|VBTF atmararamdaman|VBTR lamang|RBI ng|CCB mga|DTCP hayop|NNC na|CCP malapit|JJD sa|CCT bulkan|NNC .|PMP
@@ -47,12 +61,14 @@ Kaya|CCR naman|RBI agad|RBW silang|PRP_CCP lumalayo|VBTR_VBAF dito|PRL .|PMP
 Bukod|CCT pa|RBI riyan|NNC ,|PMC may|VBH ilang|PRQ_CCP palatandaan|NNC tulad|JJC ng|CCB lindol|NNC ,|PMC bumubuga|VBAF ng|CCB usok|NNC mula|RBL sa|CCT tuktok|NNC ng|CCB bulkan|NNC ,|PMC pagtaas|NNC ng|CCB temperatura|NNC ,|PMC at|CCA ang|DTC paulit|NNC -|PMS ulit|RBW na|CCP dagundong|JJD .|PMP
 Ang|DTC mga|DTCP tao|NNC ay|LM nangangailangan|VBTR ng|CCB mga|DTCP kagamitan|NNC upang|CCB makuha|VBW ang|DTC tunog|NNC at|CCA yanig|JJD na|CCP iyon|PRO .|PMP
 Ang|DTC seismograph|FW ay|LM isang|PRI_CCP kasangkapan|NNC na|CCP inilalagay|VBTR sa|CCT bawat|PRI istasyon|NNC para|CCT sa|CCT pag|CCR -|PMS oobserba|NNC ng|CCB bulkan|NNC .|PMP
-Sa|CCT tulong|NNC ng|CCB kasangkapan|NNC na|CCP ito|PRO ,|PMC maaaring|RBM balaan|VBOF ng|CCB mga|DTCP opisyal|NNC ang|DTC mga|DTCP taong|NNC_CCP nakatira|VBTS malapit|JJD sa|CCT bulkan|NNC upang|CCB makapaghanda|VBW sa|CCT paglikas.This|VBW book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
+Sa|CCT tulong|NNC ng|CCB kasangkapan|NNC na|CCP ito|PRO ,|PMC maaaring|RBM balaan|VBOF ng|CCB mga|DTCP opisyal|NNC ang|DTC mga|DTCP taong|NNC_CCP nakatira|VBTS malapit|JJD sa|CCT bulkan|NNC upang|CCB makapaghanda|VBW sa|CCT paglikas|NNC .|PMP
+This|NNP book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
 This|NNP project|FW involves|FW almost|FW all|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW designers|FW .|PMP
 This|NNP book|FW was|FW developed|FW through|FW a|FW book|FW development|FW workshop|FW held|FW in|FW collaboration|FW with|FW Litara|NNP Foundation|NNP and|FW The|NNP Asia|NNP Foundation|NNP through|FW the|FW Let|NNP 's|NNP Read|NNP program|FW with|FW the|FW support|FW of|FW EsteeLauder|NNP Companies|NNP Charity|NNP Foundation|NNP (|PMS ELCCF|NNPA )|PMS .|PMP
 Let|NNP 's|CDB Read|NNP is|FW a|FW digital|FW library|FW platform|FW with|FW a|FW collection|FW of|FW thousands|FW of|FW children|FW 's|FW storybooks|FW that|FW can|FW be|FW accessed|FW easily|FW and|FW for|FW free|FW .|PMP
 Mentoring|NNP along|NNC_CCP with|FW story|FW ,|PMC text|FW ,|PMC illustration|FW ,|PMC and|FW design|FW editing|FW are|DTC carried|FW out|FW by|FW the|FW Litara|NNP Foundation|NNP .|PMP
-The|NNP Litara|NNP Foundation|NNP is|FW a|FW nonprofit|FW organization|FW dedicated|FW to|FW promoting|FW literacy|FW through|FW children|FW 's|FW books.This|FW book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
+The|NNP Litara|NNP Foundation|NNP is|FW a|FW nonprofit|FW organization|FW dedicated|FW to|FW promoting|FW literacy|FW through|FW children|FW 's|FW books|FW .|PMP
+This|NNP book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
 This|NNP project|FW involves|FW almost|FW all|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW designers|FW .|PMP
 This|NNP book|FW was|FW developed|FW through|FW a|FW book|FW development|FW workshop|FW held|FW in|FW collaboration|FW with|FW Litara|NNP Foundation|NNP and|FW The|NNP Asia|NNP Foundation|NNP through|FW the|FW Let|NNP 's|NNP Read|NNP program|FW with|FW the|FW support|FW of|FW Estee|FW Lauder|FW Companies|FW Charity|NNP Foundation|NNP (|PMS ELCCF|NNPA )|PMS .|PMP
 Let|NNP 's|CDB Read|NNP is|FW a|FW digital|FW library|FW platform|FW with|FW a|FW collection|FW of|FW thousands|FW of|FW children|FW 's|FW storybooks|FW that|FW can|FW be|FW accessed|FW easily|FW and|FW for|FW free|FW .|PMP

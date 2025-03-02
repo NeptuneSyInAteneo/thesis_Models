@@ -18,12 +18,14 @@ Masakit|JJD bang|RBM magpatuli|VBW ?|PMQ "|PMS
 tanong|NNC ni|DTP Carl|NNP sa|CCT kanyang|PRSP_CCP kaibigan|NNC .|PMP "|PMS
 Aray|NNP !|PMS
 Ang|DTC sakit|NNC !|PMS
-Yan|NNP ang|DTC sinabi|VBOF ko|PRS nung|RBW tinuli|VBTS_VBOF ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Pino|NNP sabaypaalam|RBD na|CCP uuwi|JJD na|CCP siya.Naglakad|NNC na|CCP pauwi|NNC si|DTP Carl|NNP .|PMP
+Yan|NNP ang|DTC sinabi|VBOF ko|PRS nung|RBW tinuli|VBTS_VBOF ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Pino|NNP sabaypaalam|RBD na|CCP uuwi|JJD na|CCP siya|PRS .|PMP
+Naglakad|VBTS na|CCP pauwi|NNC si|DTP Carl|NNP .|PMP
 Napatigil|VBTS siya|PRS sa|CCT tapat|JJD ng|CCB Health|NNP Center|NNP nang|RBW marinig|VBW niya|PRS ang|DTC sigaw|NNC ng|CCB mga|DTCP batang|JJD_CCP nagpapatuli|VBTR sa|CCT loob|NNC ,|PMC "|PMS Aray|FW !|PMS
 Ang|DTC sakitt|FW !|PMQ "|PMS "|PMS
 Aray|NNP !|PMS
 Ang|DTC sakit|NNC -|PMS sakit|NNC talaga|RBT !|PMS "|PMS
-halos|JJD di|RBF makalakad|VBW na|CCP sabi|VBS ng|CCB batang|JJD_CCP katatapos|VBW lang|RBI magpatuli.Di|VBW pa|RBI nakakalayo|VBTR si|DTP Carl|NNP nang|RBW makarinig|VBW ulit|RBW siya|PRS ng|CCB iyak|NNC at|CCA sigaw|NNC ng|CCB batang|JJD_CCP nasa|RBL loob|NNC ng|CCB Health|NNP Center|NNP .|PMP "|PMS
+halos|JJD di|RBF makalakad|VBW na|CCP sabi|VBS ng|CCB batang|JJD_CCP katatapos|VBW lang|RBI magpatuli|VBW .|PMP
+Di|RBF pa|RBI nakakalayo|VBTR si|DTP Carl|NNP nang|RBW makarinig|VBW ulit|RBW siya|PRS ng|CCB iyak|NNC at|CCA sigaw|NNC ng|CCB batang|JJD_CCP nasa|RBL loob|NNC ng|CCB Health|NNP Center|NNP .|PMP "|PMS
 Aray|NNP !|PMS
 Ang|DTC sakit!Tumakbo|NNC si|DTP Carl|NNP pauwi|RBD nang|RBD makasalubong|VBW niya|PRS si|DTP Tiyo|NNP Kokoy|NNP .|PMP "|PMS
 Tito|NNP ,|PMC masakit|JJD po|RBS bang|RBM magpatuli|VBW ?|PMQ "|PMS
@@ -48,15 +50,18 @@ Nars|NNP ako|PRS ,|PMC katulong|NNC ng|CCB doktor|NNC sa|CCT pagtuli|NNC .|PMP
 May|VBH anestisya|NNC para|CCT hindi|RBF makaramdam|VBW ng|CCB sakit|NNC ang|DTC batang|JJD_CCP tinutuli|VBTR .|PMP
 Pagkatapos|VBW ,|PMC binibigyan|VBTR ng|CCB gamot|NNC sa|CCT sakit|NNC upang|CCB may|VBH mainom|JJD pagdatingsa|NNC bahay|NNC ,|PMC "|PMS sagot|NNC ni|DTP Tatay|NNP Aldo|NNP .|PMP "|PMS
 Anak|NNP ,|PMC andito|RBR kami|PRP para|CCT sayo|PRSP ,|PMC hindi|RBF ka|PRS namin|PRP pababayaan|RBD .|PMP
-Ako|PRS ang|DTC mag|VBW -|PMS aalaga|VBTF sayo|PRSP pagkatapos|VBW mong|PRS_CCP matuli|VBW ,|PMC "|PMS dagdag|JJD naman|RBI ni|DTP Nanay|NNP Sita.Tatangkad|NNP na|CCP po|RBS ba|RBI ako|PRS kapag|CCR nagpatuli|VBTS na|RBI ?|PMQ "|PMS
+Ako|PRS ang|DTC mag|VBW -|PMS aalaga|VBTF sayo|PRSP pagkatapos|VBW mong|PRS_CCP matuli|VBW ,|PMC "|PMS dagdag|JJD naman|RBI ni|DTP Nanay|NNP Sita|NNP .|PMP
+Tatangkad|NNP na|CCP po|RBS ba|RBI ako|PRS kapag|CCR nagpatuli|VBTS na|RBI ?|PMQ "|PMS
 tanong|NNC ni|DTP Carl|NNP .|PMP "|PMS
 Kahit|CCT di|RBF ka|PRS pa|RBI tuli|RBW ,|PMC tatangkad|VBTF ka|PRS ,|PMC basta|CCT '|PMS t|NNCA kumain|VBAF ka|PRS lang|RBI ng|CCB masusustansiyang|JJD_CCP pagkain|NNC ,|PMC uminom|VBAF ng|CCB gatas|NNC ,|PMC at|CCA laging|RBD_CCP matulog|VBW sa|CCT tamang|JJD_CCP oras|NNC ,|PMC "|PMS sagot|NNC ni|DTP Tatay|NNP Aldo|NNP .|PMP "|PMS
 Alam|VBS kong|PRS_CCP pangarap|NNC mong|PRS_CCP maging|VBW sikat|JJD na|CCP basketbolista|NNC .|PMP
-Mangyayariyan|VBTR_VBOF kung|CCR palagi|RBW kang|PRS_CCP magpapraktis|VBW at|CCA susundin|VBTF mo|PRS ang|DTC mga|DTCP sinabi|VBTS namin|PRP ng|CCB tatay|NNC mo|PRS ,|PMC "|PMS dagdag|JJD pa|RBI ni|DTP Nanay|NNP Sita.Pinahid|NNP ni|DTP Carl|NNP ang|DTC kanyang|PRSP_CCP mga|DTCP luha|NNC sabay|RBD yakap|NNC sa|CCT magulang|NNC .|PMP "|PMS
+Mangyayariyan|VBTR_VBOF kung|CCR palagi|RBW kang|PRS_CCP magpapraktis|VBW at|CCA susundin|VBTF mo|PRS ang|DTC mga|DTCP sinabi|VBTS namin|PRP ng|CCB tatay|NNC mo|PRS ,|PMC "|PMS dagdag|JJD pa|RBI ni|DTP Nanay|NNP Sita|NNP .|PMP
+Pinahid|VBTS ni|DTP Carl|NNP ang|DTC kanyang|PRSP_CCP mga|DTCP luha|NNC sabay|RBD yakap|NNC sa|CCT magulang|NNC .|PMP "|PMS
 Hindi|RBF na|CCP ako|PRS takot|NNC magpatuli|VBW ,|PMC Nay|NNCA ,|PMC Tay|NNC .|PMP
 Pagsampung|JJN_CCP taong|NNC_CCP gulang|NNC na|CCP ako|PRS ,|PMC magpapatuli|VBTF ako|PRS para|CCT hindi|RBF na|CCP ako|PRS asarin|VBOF ng|CCB mga|DTCP kalaro|NNC ko|PRS sa|CCT basketbol|NNC .|PMP
 Magpapraktis|NNP ako|PRS lagi|RBW para|CCT lalo|JJCC akong|PRS_CCP gumaling|VBAF .|PMP
-Paglaki|VBW ko|PRS magiging|VBTF sikat|JJD akong|PRS_CCP basketbolista|NNC na|CCP may|VBH medalya|NNC at|CCA tropiyo|NNC ,|PMC "|PMS masayang|JJD_CCP wika|NNC ni|DTP Carl.Takot|NNP !|PMS
+Paglaki|VBW ko|PRS magiging|VBTF sikat|JJD akong|PRS_CCP basketbolista|NNC na|CCP may|VBH medalya|NNC at|CCA tropiyo|NNC ,|PMC "|PMS masayang|JJD_CCP wika|NNC ni|DTP Carl|NNP .|PMP
+Takot|NNP !|PMS
 Sakit|NNP !|PMS
 Yan|NNP ang|DTC nararamdaman|VBTR ng|CCB isang|PRI_CCP bata|NNC sa|CCT bagay|NNC na|CCP hindi|RBF pamilyar|JJD sa|CCT kanila|PRSP .|PMP "|PMS
 Aray|NNP !|PMS
