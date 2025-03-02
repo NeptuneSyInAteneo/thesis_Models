@@ -1,0 +1,20 @@
+Kaarawan|NNP ng|CCB mpagmahal|NNC na|CCP nanay|NNC bukas|JJD .|PMP
+Nais|VBS ni|DTP Sara|NNP na|CCP bigyan|VBOF ng|CCB espesyal|JJD na|CCP regalo|NNC ang|DTC kanyang|PRSP_CCP nanay|NNC .|PMP
+Naalala|VBTS ni|DTP Sara|NNP na|CCP siya|PRS ay|LM may|VBH naitagong|VBTS_CCP kahon|NNC ng|CCB makukulay|JJD na|CCP beads|FW na|CCP nais|VBS niyang|PRS_CCP gamitin|VBOF .|PMP "|PMS
+Naku|NNP !|PMS
+Saan|PRQ ko|PRS kaya|CCR nailagay|VBTS ang|DTC mga|DTCP kahon|NNC ng|CCB beads|FW ?|FW "|PMS
+sabi|VBS ni|DTP Sara.Nandito|NNP kaya|CCR sa|CCT lagayan|NNC ng|CCB laruan|NNC ?|PMQ
+Naku|NNP ,|PMC wala|VBN pala|NNC dito|PRL ?|PMQ
+Patuloy|JJD pa|RBI ring|RBI_CCP naghanap|VBTS ng|CCB kahon|NNC si|DTP Sara.Nandito|NNP kaya|CCR sa|CCT kabinet|NNC ng|CCB mga|DTCP damit|NNC ?|PMQ
+Ayun|NNP !|PMS
+nakita|VBTS ko|PRS na|CCP ang|DTC isa|PRI pang|RBI_CCP kahon|NNC .|PMP
+Aaaahhh|NNP !|PMS
+Pero|CCT nasaan|JJD ang|DTC isa|PRI pang|RBI_CCP kahon?Ah|FW !|PMS
+nandito|VBTS na!Bakit|VBTR kaya|CCR ang|DTC isa|PRI ay|LM nandito|VBTS sa|CCT pinakailalim|JJCS_JJD ng|CCB mga|DTCP kagamitan?Naku|JJD_CCP po!Ano|NNC kaya|CCR ang|DTC dapat|VBS gawin|VBOF ni|DTP Sara|NNP ?|PMQ
+Ginulo|NNP niya|PRS lahat|PRI ng|CCB kagamitan|NNC para|CCT lamang|RBI makita|VBW ang|DTC mga|DTCP makukulay|JJD na|CCP beads?Unti|FW unting|FW inayos|VBOF ni|DTP Sara|NNP ang|DTC lahat|PRI ng|CCB kanyang|PRSP_CCP kinalat.Tiniklop|VBTS ni|DTP Sara|NNP ang|DTC mga|DTCP damit|NNC ,|PMC muling|RBW_CCP itinago|VBTS ang|DTC mga|DTCP laruan|NNC sa|CCT tamang|JJD_CCP mga|DTCP kahon|NNC nito|PRO at|CCA ang|DTC lahat|PRI ng|CCB mga|DTCP ay|LM maayos|RBD niyang|PRS_CCP pinagpatong|VBRF_CCP patong|NNC sa|CCT sahig.Maayos|NNC na|CCP ang|DTC lahat!Makakapagumpisa|NNC na|CCP si|DTP Sara|NNP na|CCP gawin|VBOF ang|DTC napakagandang|JJCS_JJD_CCP bracelet|FW para|CCT sa|CCT kanyang|PRSP_CCP nanay.Umaasa|VBTS si|DTP Sara|NNP na|CCP ang|DTC bracelet|FW na|CCP kanyang|PRSP_CCP gagawin|VBTF ay|LM magugustuhan|VBTF ng|CCB kanyang|PRSP_CCP pinakamamahal|JJCS_JJD na|CCP nanay|NNC .|PMP "|PMS
+Maligayang|NNP_CCP Kaarawan|NNP ,|PMC Mahal|NNP kong|PRS_CCP Nanay|NNC !|PMS "|PMS
+Wow!Masayang|RBD_CCP masaya|JJD ang|DTC nanay|NNC sa|CCT kanyang|PRSP_CCP natanggap|VBTS na|CCP regalo|NNC galing|RBL kay|DTP Sara|NNP .|PMP
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+The|NNP book|FW creation|FW project|FW features|FW mighty|FW girls|FW and|FW women|FW as|FW the|FW main|FW character|FW (|PMS s|NNCA )|PMS of|FW the|FW story|FW and|FW involves|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW designers|FW .|PMP
+This|NNP book|FW was|FW created|FW through|FW a|FW book|FW creation|FW workshop|FW conducted|FW in|FW collaboration|FW between|FW Litara|NNP Foundation|NNP and|FW the|FW Asia|NNP Foundation|NNP with|FW the|FW support|FW of|FW Estée|FW Lauder|FW Companies|FW .|PMP
+The|NNP workshop|FW and|FW professional|FW development|FW ,|PMC along|NNC_CCP withthe|FW editing|FW and|FW design|FW of|FW this|FW book|FW ,|PMC was|FW conducted|FW by|FW Litara|NNP Foundation|NNP .|PMP

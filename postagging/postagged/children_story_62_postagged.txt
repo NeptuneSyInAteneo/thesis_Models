@@ -1,0 +1,4 @@
+Gustong|VBS_CCP matulog|VBW ni|DTP Panca|NNP . . .|NNPA . . .|NNPA ngunit|CCT hindi|RBF siya|PRS makatulog|VBW nang|CCB wala|VBN si|DTP Bonta.Hay|NNP ,|PMC nasaan|JJD kaya|CCR si|DTP Bonta?Baka|NNP nahulog|VBTS sa|CCT ilalim|JJD ng|CCB kama|NNC .|PMP
+Si|DTP Bonta|NNP kaya|CCR yun?Isang|RBD_CCP kamiseta|JJD lang|RBI pala|NNC na|CCP katulad|JJC ng|CCB kulay|NNC ni|DTP Bonta|NNP ,|PMC ngunit|CCT hindi|RBF ito|PRO si|DTP Bonta|NNP .|PMP
+Napalingon|NNP s|NNCA '|PMS ya|NNCA ,|PMC si|DTP Bonta|NNP ba|RBI '|PMS yun?Hay|FW ,|PMC inakala|VBTS ni|DTP Panca|NNP na|CCP ang|DTC isang|PRI_CCP balumbon|NNC ng|CCB sinulid|NNC ay|LM borlas|NNC ni|DTP Bonta.Si|NNP Bonta|NNP ba|FW '|PMS yan|PRO ?|PMQ
+Pareho|JJC sila|PRP ng|CCB hugis.Eeek!Nanay!Malambing|JJD na|CCP iniabot|VBTS ng|CCB kanyang|PRSP_CCP ina|NNC si|DTP Bonta|NNP ,|PMC ang|DTC kanyang|PRSP_CCP unan|NNC at|CCA niyaya|VBTS na|CCP s|NNCA '|PMS yang|PRO matulog|VBW .|PMP

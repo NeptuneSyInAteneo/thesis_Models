@@ -1,0 +1,66 @@
+Siya|PRS si|DTP Bentong|NNP ,|PMC anim|JJN na|CCP taong|NNC_CCP gulang|NNC .|PMP
+Ayaw|RBF niyang|PRS_CCP kumain|VBAF kapag|RBK hindi|RBF sinusubuan|VBTR_VBOF .|PMP
+Ang|DTC tanging|JJD_CCP gusto|VBS niya|PRS lang|RBI ay|LM maglaro|VBAF .|PMP "|PMS
+Bentong|NNP ,|PMC anak|NNC ,|PMC papasok|VBTF ka|PRS na|CCP sa|CCT paaralan|NNC sa|CCT Lunes|NNP ,|PMC "|PMS turan|JJD ng|CCB Nanay|NNC .|PMP "|PMS
+Po|NNP !|PMS
+Papasok|NNP ?|PMQ
+Ayoko|NNP po|RBS ,|PMC Nay|NNC .|PMP
+Ayokong|RBF mag|VBW -|PMS aral|NNC !|PMS "|PMS
+tugon|NNC ni|DTP Bentong|NNP .|PMP "|PMS
+Nay|NNP ,|PMC gusto|VBS ko|PRS po|RBS dito|PRL lang|RBI ako|PRS sa|CCT bahay|NNC .|PMP
+Sino|PRQ po|RBS ang|DTC magpapakain|VBTF sa|CCT akin|PRSP doon|PRL ?|PMQ
+Baka|NNP hindi|RBF ako|PRS doon|PRL pwedeng|RBT_CCP maglaro|VBAF .|PMP "|PMS "|PMS
+Masaya|NNP sa|CCT paaralan|NNC ,|PMC Bentong|NNC_CCP !|PMQ
+Magugustuhan|VBTF mo|PRS doon|PRL ,|PMC "|PMS sabi|VBS ngnanay.Hinatid|VBTR ni|DTP nanay|NNC si|DTP Bentong|NNP sa|CCT paaralan|NNC .|PMP
+Kinakabahan|VBTR siya|PRS .|PMP
+Mahigpit|JJD ang|DTC hawak|NNC niya|PRS sa|CCT kamay|NNC ng|CCB kanyang|PRSP_CCP nanay|NNC .|PMP "|PMS
+Nay|NNP ,|PMC pareho|JJC po|RBS kami|PRP ng|CCB damit|NNC .|PMP
+Ayun|NNP pa|RBI ,|PMC pareho|JJC kami|PRP ng|CCB sapatos|NNC .|PMP
+May|VBH backpack|FW din|RBI po|RBS sila|PRP !|PMQ "|PMS "|PMS
+Magandang|JJD_CCP umaga|RBW ,|PMC "|PMS bati|VBS ni|DTP G.|NNPA Ramos|NNP "|PMS Ano|PRQ Bentong|RBJ ,|PMC handa|JJD ka|PRS na|CCP ba|RBI saating|JJD_CCP klase|NNC ?|PMQ "|PMS
+Ayaw|RBF sanang|VBS_CCP bitawan|VBOF ni|DTP Bentong|NNP ang|DTC kamay|NNC ng|CCB ina|NNC ngunit|CCT pinapasok|VBTR na|CCP siya|PRS ni|DTP G.|NNPA Ramos|NNP sa|CCT klasrum|NNC .|PMP
+Paglingon|NNP niya|PRS ,|PMC umalis|VBAF na|CCP si|DTP Nanay|NNP .|PMP "|PMS
+Iihi|NNP lang|RBI po|RBS ako|PRS ,|PMC G.|NNPA Ramos|NNP ,|PMC "|PMS paalam|NNC ni|DTP Bentong|NNP .|PMP
+Tumakbo|VBAF siya|PRS palabas|NNC .|PMP
+Wala|VBN si|DTP nanay|NNC .|PMP
+Lumabas|VBAF siya|PRS sa|CCT gate|FW ng|CCB paaralan|NNC .|PMP
+Wala|VBN si|DTP nanay.Umiyak|NNP si|DTP Bentong|NNP .|PMP
+Umupo|VBAF sa|CCT gilid|JJD ng|CCB kalsada|NNC .|PMP "|PMS
+Nanay|NNC ,|PMC asan|NNC ka|PRS na|CCP ?|PMQ "|PMS
+iyak|VBTR_VBOF niya.RRIINNGG|VBTS !|PMQ
+RRIINNGG|NNP !|PMS
+RRIINNGG|NNP !|PMS
+Tumakbo|VBAF ang|DTC mga|DTCP bata|NNC papasok|VBTF sa|CCT gate|FW ng|CCB paaralan|NNC .|PMP
+Nagulat|VBTS si|DTP Bentong|NNP .|PMP
+Tumigil|VBAF siya|PRS sa|CCT pag|CCR -|PMS iyak|NNC .|PMP
+Sumunod|VBAF siya|PRS sa|CCT mga|DTCP bata|NNC papasok|NNC ng|CCB paaralan.Naglakad|VBW siya|PRS sa|CCT pasilyo|NNC .|PMP
+Sa|CCT isang|PRI_CCP silid|NNC -|PMS aralan|NNC ,|PMC sumasayaw|VBTR at|CCA kumakanta|VBTR_VBAF ang|DTC mga|DTCP bata|NNC .|PMP
+Sa|CCT katabing|JJD_CCP silid|NNC naman|RBI ay|LM nagbabasa|VBTR at|CCA nagsusulat|VBTR ang|DTC mga|DTCP bata|NNC .|PMP
+Sa|CCT kabilang|CCB kwarto|NNC ,|PMC naglalaro|VBTR ang|DTC mga|DTCP bata|NNC .|PMP
+May|VBH nakita|VBTS siyang|PRS_CCP tindahan|NNC na|CCP puno|NNC ng|CCB pagkain.Sinilip|VBW niya|PRS ang|DTC isang|PRI_CCP klase|NNC .|PMP
+Ang|DTC mga|DTCP bata|NNC ay|LM nakapalibot|VBTS kay|DTP G.|NNPA Ramos|NNP .|PMP
+Nagbabasa|VBTR siya|PRS ng|CCB kwento|NNC sa|CCT mga|DTCP bata|NNC .|PMP
+Maganda|JJD ang|DTC mga|DTCP drowing|FW ng|CCB libro|NNC .|PMP
+Dahan|NNP -|PMS dahang|NNC_CCP pumasok|VBAF si|DTP Bentong|NNP sa|CCT silid|NNC .|PMP
+Umupo|VBAF siya|PRS malapit|JJD kay|DTP G.|NNPA Ramos|NNP .|PMP
+Nakinig|VBTS siya|PRS kasama|CCB ang|DTC mga|DTCP kaklase.Tumawa|NNC ang|DTC mga|DTCP bata|NNC .|PMP
+Nagustuhan|VBTS nila|PRP ang|DTC kwento|NNC .|PMP
+Tumawa|VBAF din|RBI si|DTP Bentong|NNP .|PMP "|PMS
+Mga|DTCP bata|NNC ,|PMC kumuha|VBAF ng|CCB papel|NNC .|PMP
+Ilabas|VBOF ang|DTC inyong|PRSP_CCP mga|DTCP krayola|NNC .|PMP
+Idrowing|NNP ang|DTC nagustuhan|VBTS ninyong|NNC_CCP bagay|NNC o|CCT pangyayari|NNC sa|CCT kwento|NNC ,|PMC "|PMS sabi|VBS ni|DTP Ginoong|NNP Ramos.RRIINNGG|NNP !|PMS
+RRIINNGG|NNP !|PMS
+RRIINNGG|NNP !|PMS
+Natapos|VBTS na|RBI ni|DTP Bentong|NNP ang|DTC kanyang|PRSP_CCP drowing|FW na|CCP flag|FW .|PMP
+Paglingon|NNP niya|PRS sa|CCT labas|NNC ,|PMC nakita|VBTS niyang|PRS_CCP may|VBH mga|DTCP tao|NNC na|RBI .|PMP
+May|VBH nakatitig|VBTS sa|CCT kaniya|PRSP ,|PMC ang|DTC kanyang|PRSP_CCP nanay.Pauwi|VBTR na|CCP si|DTP Bentong|NNP at|CCA kanyang|PRSP_CCP nanay|NNC .|PMP "|PMS
+Nay|NNP ,|PMC ang|DTC saya|NNC pala|NNC sa|CCT paaralan|NNC .|PMP
+Marami|PRI akong|PRS_CCP nakilalang|VBTS mga|DTCP bata|NNC .|PMP
+Maraming|PRI_CCP ginagawang|VBTR_CCP nakakapagpasaya|RBD sa|CCT mga|DTCP bata|NNC .|PMP
+Marami|PRI ding|RBI_CCP pagkain|NNC doon|PRL at|CCA mabait|JJD si|DTP G.|NNPA Ramos|NNP !|PMS "|PMS
+Panay|NNP ang|DTC kwento|NNC ni|DTP Bentong|NNP .|PMP
+Natutuwa|VBTS naman|RBI si|DTP Nanay|NNP .|PMP "|PMS
+Diba|NNP ,|PMC sabi|VBS ko|PRS sayo|PRSP masaya|JJD doon|PRL .|PMP
+Marami|PRI kang|PRS_CCP magagawa|VBTF at|CCA matututuhan|VBTF .|PMP "|PMS "|PMS
+Pero|CCT Nay|NNC ,|PMC lumabas|VBAF ako|PRS kanina|RBW nang|RBD walang|RBF paalam|NNC ,|PMC hindi|RBF ko|PRS na|CCP po|RBS uulitin|VBTF '|PMS yon|PRO .|PMP
+Bukas|JJD ,|PMC maaga|JJD pa|RBI tayong|PRP_CCP pupunta|VBTF sa|CCT paaralan|NNC ,|PMC "|PMS masayang|JJD_CCP wika|NNC ni|DTP Bentong|NNP .|PMP

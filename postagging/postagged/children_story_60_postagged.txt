@@ -1,0 +1,28 @@
+Napakamapagmasid|VBTS ni|DTP Kakay|NNP sa|CCT mga|DTCP bagay|NNC -|PMS bagay|NNC kahit|CCT pitong|JJN_CCP taon|NNC pa|RBI lamang|RBI siya|PRS .|PMP
+Iniidolo|VBTS kasi|CCR niya|PRS si|DTP Sherlock|NNP Holmes|NNP .|PMP
+At|CCA ginagaya|VBTR niya|PRS ito|PRO .|PMP
+Libot|NNP siya|PRS ng|CCB libot|FW doon|PRL sa|CCT kapitbahayan|NNC nila|PRP ,|PMC bitbit|JJD ang|DTC magnifying|JJD_CCP glass|FW ng|CCB nakatatanda|VBTR niyang|PRS_CCP kapatid|NNC na|CCP babae|NNC at|CCA isang|PRI_CCP notebook|FW .|PMP
+Dito|PRL niya|PRS sinusulat|VBTR ang|DTC mga|DTCP nakikita|VBTR at|CCA naoobserbahan|VBTR niya.Bilang|RBL_CCP halimbawa|NNC :|PMS Setyembre|NNP ,|PMC Lunes|NNP .|PMP
+Meron|VBH akong|PRS_CCP nakitang|VBTS_CCP maliit|JJD na|CCP itlog|NNC sa|CCT dahon|NNC ng|CCB tanim|NNC ni|DTP Inay|NNP .|PMP
+Itlog|NNC kaya|CCR ito|PRO ng|CCB ano?Setyembre|FW ,|PMC Miyerkoles|FW .|PMP
+Di|RBF ko|PRS pa|RBI rin|RBI talaga|RBT alam|VBS kung|CCR itlog|NNC ng|CCB anong|PRQ_CCP hayop|NNC o|CCT insekto|NNC ang|DTC narito|PRL sa|CCT dahon.Setyembre|FW ,|PMC Biyernes|NNP .|PMP
+Napisa|NNP na|CCP ang|DTC itlog|NNC .|PMP
+Lumabas|VBAF mula|RBW doon|PRL ang|DTC maliit|JJD na|CCP uodSetyembre|NNC ,|PMC Linggo|NNP .|PMP
+Mabilis|RBD na|CCP lumaki|VBAF ng|CCB uod|NNC .|PMP
+Magaling|JJD na|CCP kasi|CCR itong|PRO_CCP kumain|VBAF .|PMP
+Kinakain|VBTR niya|PRS ang|DTC dahon|NNC na|CCP kinadidikitan|VBTR niya.Setyembre|RBT ,|PMC Sabado|NNP .|PMP
+Mas|JJCC lalo|JJCC pang|RBI_CCP lumaki|VBAF ang|DTC uod|NNC .|PMP
+Nagpalipat|NNP -|PMS lipat|FW na|CCP siya|PRS sa|CCT iba|PRI -|PMS ibang|PRI_CCP dahon|NNC at|CCA kumain|VBAF ng|CCB marami.Setyembre|VBW ,|PMC Lunes|NNP .|PMP
+Nawala|VBTS na|RBI ang|DTC uod|NNC sa|CCT doon|PRL mga|DTCP dahon|NNC ,|PMC pero|CCT sa|CCT malapit|JJD na|CCP sanga|NNC ,|PMC meron|VBH akong|PRS_CCP nakitang|VBTS_CCP nakabitin|VBTS at|CCA nababalot|VBTR sa|CCT berdeng|JJD_CCP dahon.Setyembre|NNC ,|PMC Sabado|NNP .|PMP
+Wala|VBN namang|RBI_CCP nagbago|VBTS sa|CCT kulay|NNC berdeng|JJD_CCP bagay|NNC na|CCP nakabitin|VBTS .|PMP
+Pareho|JJC pa|RBI rin|RBI ang|DTC itsura|NNC at|CCA ang|DTC kulay|NNC nito.Setyembre|NNP ,|PMC Huwebes|NNP .|PMP
+Wala|VBN pa|RBI ring|RBI_CCP nagbabago|VBTR sa|CCT kulay|NNC berdeng|JJD_CCP bagay|NNC na|CCP nakabitin|VBTS .|PMP
+Ano|PRQ kaya|CCR ang|DTC nasa|RBL loob|NNC nun?Oktubre|NNP ,|PMC Martes|NNP .|PMP
+Naiinip|VBTS na|CCP ako|PRS sa|CCT paghihintay|NNC kulay|NNC berdeng|JJD_CCP bagay|NNC na|CCP nakabitin|VBTS .|PMP
+Ano|PRQ kaya|CCR ang|DTC laman|NNC nun?Oktubre|NNP ,|PMC Biyernes|NNP .|PMP "|PMS
+Ah|RBJ !|PMS
+Alam|VBS ko|PRS na|CCP ,|PMC paruparo|JJD pala|NNC ang|DTC nasa|RBL loob|NNC nung|RBW_CCP berdeng|JJD_CCP nakabitin|VBTS .|PMP
+Nagsimula|VBTS sa|CCT itlog|NNC ,|PMC naging|VBTS uod|NNC ,|PMC at|CCA pagkalipas|VBW ng|CCB ilang|PRQ_CCP araw|NNC ang|DTC uod|NNC ay|LM naging|VBTS paruparo|RBD na|RBI ,|PMC "|PMS manghang|VBW_CCP sabi|VBS ni|DTP Kakay.Oktubre|NNP ,|PMC Lunes|NNP .|PMP
+May|VBH napulot|VBTS na|CCP naman|RBI akong|PRS_CCP maliit|JJD na|CCP parang|CCT bato|NNC .|PMP
+Kulay|NNP dilaw|JJD ito|PRO na|CCP napakakintab|JJCS_JJD .|PMP
+Nang|RBW inilagay|VBOF ko|PRS ito|PRO sa|CCT palad|NNC ko|PRS ,|PMC lumipad|VBAF naman|RBI ito|PRO na|CCP parang|CCT paruparo|JJD lang|RBI .|PMP

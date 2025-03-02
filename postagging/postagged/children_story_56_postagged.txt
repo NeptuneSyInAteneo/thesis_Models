@@ -1,0 +1,15 @@
+Ang|DTC ina|NNC ni|DTP Rohana|NNP ay|LM aalis|VBTF para|CCT sa|CCT isang|PRI_CCP tradisyonal|JJD na|CCP seremonya|NNC ,|PMC at|CCA kailangang|VBS_CCP alagaan|VBOF ni|DTP Rohana|NNP ang|DTC kanyang|PRSP_CCP mga|DTCP kapatid.Gusto|NNC ni|DTP Rohana|NNP na|CCP tapusin|VBOF ang|DTC pagbabasa|NNC ng|CCB kanyang|PRSP_CCP libro.Abala|NNC sa|CCT paglalaro|VBW ang|DTC mga|DTCP kapatid|NNC ni|DTP Rohana.Siguro|NNP ngayon|RBW na|RBI ang|DTC magandang|JJD_CCP panahon|NNC para|CCT basahin|VBOF ni|DTP Rohana|NNP ang|DTC libro|NNC na|CCP ibinigay|VBTS sa|CCT kanya|PRSP ng|CCB kanyang|PRSP_CCP Ama|NNC kahapon.Ito|NNC ay|LM isang|PRI_CCP kwentong|NNC_CCP pagbasa|VBW ng|CCB Dutch|NNP na|CCP tinatawag|VBTR na|CCP De|FW Circus.Hindi|FW ngayon|RBW ang|DTC magandang|JJD_CCP panahon|NNC para|CCT magbasa.Kailangan|VBW muna|RBI niyang|PRS_CCP tulungan|VBTF_VBOF ang|DTC kapatid|NNC na|CCP babae.Kailangan|VBTF din|RBI ng|CCB tulong|NNC ng|CCB kapatid|NNC niyang|PRS_CCP lalaki|NNC .|PMP
+Kailan|PRI kaya|CCR niya|PRS matatapos|VBTF ang|DTC kanyang|PRSP_CCP pagbabasa|NNC ng|CCB libro?Oh|NNP no|FW ,|PMC ano|PRQ ang|DTC dapat|VBS niyang|PRS_CCP gawin|VBOF ngayon|RBW ?|PMQ
+Kailangan|VBS niyang|PRS_CCP habulin|VBOF muli|RBW si|DTP Ratna!Paano|NNP kaya|CCR magbasa|VBW sya|PRS ng|CCB malakas|JJD ?|PMQ "|PMS
+Ruskan|NNP !|PMS
+Halika|NNP ,|PMC sumali|VBAF ka|PRS sa|CCT amin|PRSP .|PMP "|PMS
+Nagbasa|VBTS si|DTP Rohana|NNP ng|CCB malakas.Gumagana|NNC sya|PRS !|PMQ
+Gustong|VBS_CCP -|PMS gusto|VBS ni|DTP Ratna|NNP at|CCA Ruskan|NNP ang|DTC kwento|NNC ng|CCB Dutch|NNP tungkol|RBR sa|CCT circus.Binasa|NNC ni|DTP Rohana|NNP ang|DTC kwento|NNC sa|CCT wika|NNC ng|CCB Indonesia|NNP .|PMP
+Ito|PRO ay|LM nakatulong|VBTS para|CCT maintindihan|VBW nina|DTPP Ratna|NNP at|CCA Ruskan|NNP ang|DTC kwento.Lahat|FW sila|PRP ay|LM nasisiyahan|VBTR sa|CCT kwento.Ngayon|NNC ,|PMC Makapagbabasa|VBW na|CCP si|DTP Rohana|NNP habang|RBW binabantayan|VBTR nya|PRS ang|DTC kanyang|PRSP_CCP mga|DTCP kapatid.Pati|NNC mga|DTCP kaibigan|NNC nila|PRP ay|LM pumunta|VBAF rin|RBI sa|CCT kanila|PRSP para|CCT makinig|VBW din|RBI sa|CCT kwento|NNC .|PMP "|PMS
+The|NNP end|FW !|PMS "|PMS
+Wow|NNP ,|PMC maraming|PRI_CCP mga|DTCP tao|NNC ang|DTC mahal|JJD din|RBI makinig|VBW sa|CCT kwento|NNC .|PMP
+Napagtanto|VBTS ni|DTP Rohana|NNP na|CCP mahal|JJD at|CCA gusto|VBS nyang|PRS_CCP nagbabasa|VBTR sya|PRS ng|CCB malakas|JJD .|PMP
+Gusto|VBS niyang|PRS_CCP gawin|VBOF ito|PRO araw|NNC -|PMS araw.Dahil|NNC sa|CCT mga|DTCP kwento|NNC ni|DTP Rohana|NNP ,|PMC gusto|VBS ng|CCB kanyang|PRSP_CCP mga|DTCP kaibigan|NNC na|CCP matutong|RBD_CCP magbas|VBW at|CCA sumulat|VBAF .|PMP
+Puwede|RBT silang|PRP_CCP turuan|VBOF ni|DTP Rohana.Marahil|NNP ang|DTC mga|DTCP tao|NNC sa|CCT parke|NNC na|CCP ito|PRO ay|LM gustong|VBS_CCP makinig|VBW sa|CCT mga|DTCP artikulo|NNC sa|CCT pahayagang|NNC_CCP ito.Oo|NNP nga|RBI !|PMQ
+Nagustuhan|VBTS nga|RBI nila|PRP !|PMQ
+Gustong|VBS_CCP -|PMS gusto|VBS ni|DTP Rohana|NNP na|CCP magbasa|VBAF ng|CCB malakas|JJD sa|CCT mga|DTCP taong|NNC_CCP gusto|VBS at|CCA mahal|JJD ang|DTC mga|DTCP kwento|NNC .|PMP

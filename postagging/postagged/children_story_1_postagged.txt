@@ -1,61 +1,32 @@
-Kompleto|JJD na|CCP ang|DTC gamit|VBS ni|DTP Maria|NNP para|CCT sa|CCT pagsisimula|NNC niya|PRS sa|CCT Grade|NNP One|NNP ngayong|RBW_CCP pasukan|NNC .|PMP
-Sabik|RBD na|CCP sabik|JJD na|CCP siyang|PRS_CCP pumasok|VBAF sa|CCT eskuwela|NNC ,|PMC at|CCA gusto|VBS na|CCP niyang|PRS_CCP makilala|VBW ang|DTC mga|DTCP bago|JJD niyang|PRS_CCP kaklase|NNC .|PMP
-Napaaga|VBTS ng|CCB gising|JJD si|DTP Maria|NNP .|PMP
-Naghanda|VBTS agad|RBD siya|PRS para|CCT di|RBF mahuli|VBW .|PMP
-Habang|RBW nag|CDB -|PMS aalmusal|FW ,|PMC narinig|VBTS niya|PRS ng|CCB malakas|JJD sa|CCT radyo|NNC na|CCP bawal|JJD na|CCP raw|RBI lumabas|VBAF ang|DTC mga|DTCP tao|NNC dahil|CCR may|VBH kumakalat|VBTR_VBAF daw|RBI na|CCP pandemya|NNC .|PMP "|PMS
-Bakit|PRQ naman|RBI ,|PMC Mama|NNP ?|PMQ
-Ano|PRQ po|RBS ang|DTC pandemya|NNC ?|PMQ "|PMS
-takot|JJD na|CCP tanong|NNC ni|DTP Maria|NNP .|PMP "|PMS
-Pandemya|NNP ang|DTC tawag|NNC sa|CCT mabilis|JJD na|CCP pagkalat|VBW ng|CCB isang|PRI_CCP sakit|NNC .|PMP
-Di|RBF lang|RBI sa|CCT isang|PRI_CCP bansa|NNC kundi|CCT sa|CCT buong|PRI_CCP mundo|NNC ,|PMC "|PMS sabi|VBS ng|CCB Mama|NNC niya|PRS .|PMP "|PMS
-Nakatatakot|JJD pala|NNC ng|CCB pandemya|NNC ,|PMC Mama|NNC !|PMS "|PMS
-sabi|VBS ni|DTP Maria|NNP .|PMP "|PMS
-Oo|RBT ,|PMC anak|NNC ,|PMC madaling|RBD_CCP makahawa|VBW ang|DTC COVID|NNPA -19|CDB virus|FW .|PMP
-Kaya|CCR dapat|VBS tayong|PRP_CCP mag|VBW -|PMS ingat|FW lahat|PRI .|PMP
-Bawal|NNP munang|RBW_CCP lumabas|VBAF ang|DTC mga|DTCP matatanda|NNC pati|CCA mga|DTCP bata|NNC ,|PMC "|PMS sabi|VBS ni|DTP Mama|NNP .|PMP
-Lumipas|VBAF ang|DTC mga|DTCP linggo|NNC at|CCA buwan|NNC ay|LM di|RBF pa|RBI rin|RBI lumalabas|VBTR_VBAF ang|DTC mga|DTCP tao|NNC .|PMP
-Kung|CCR lumabas|VBAF man|RBI ay|LM lagi|RBW silang|PRP_CCP naka|RBD -|PMS face|FW mask|FW at|CCA naka|RBD -|PMS face|FW shield|FW .|PMP
-Malungkot|JJD palagi|RBW si|DTP Maria|NNP .|PMP
-Gusto|VBS na|RBI niyang|PRS_CCP pumasok|VBAF sa|CCT klase|NNC .|PMP "|PMS
-Ano|PRQ naman|RBI po|RBS ,|PMC Mama|NNC ,|PMC ang|DTC mga|DTCP ginagawa|VBTR sa|CCT eskuwelahan|NNC kapag|CCR Grade|NNP na|CCP ?|PMQ
-Gusto|VBS ko|PRS pong|PRO_CCP malaman|VBW ,|PMC "|PMS tanong|NNC ni|DTP Maria|NNP .|PMP "|PMS
-Teka|NNP lang|RBI ,|PMC Maria|NNP ,|PMC at|CCA mag|VBW -|PMS iskwe|NNC -|PMS eskuwelahan|NNC tayo|PRP ,|PMC "|PMS sabi|VBS ni|DTP Manay|NNP Precy|NNP niya|PRS .|PMP "|PMS
-Isasama|VBTF rin|RBI natin|PRP sa|CCT laro|NNC ang|DTC mga|DTCP kapatid|NNC natin|PRP para|CCT lalong|JJCC_CCP maging|VBW masaya|JJD .|PMP
-Ako|PRS ang|DTC teacher|NNC ,|PMC kayo|PRP ang|DTC mga|DTCP magkaklase|NNC ,|PMC "|PMS dagdag|JJD pa|RBI ng|CCB Manay|NNP Precy|NNP niya|PRS .|PMP "|PMS
-Good|NNP morning|FW ,|PMC class|FW ,|PMC "|PMS sabi|VBS ni|DTP Titser|NNP Precy|NNP .|PMP "|PMS
-Good|NNP morning|FW ,|PMC Titser|FW ,|PMC "|PMS sabay|RBD -|PMS sabay|JJD na|CCP sagot|NNC ni|DTP Manoy|NNP Nilo|NNP ,|PMC Manoy|NNP Pilo|NNP ,|PMC at|CCA ni|DTP Manay|NNP Lina|NNP .|PMP
-Lahat|PRI sila|PRP ’|PMS y|FW may|VBH kaniya|PRSP -|PMS kaniyang|PRSP_CCP bag|FW na|CCP dala|JJD .|PMP "|PMS
-Kumusta|NNP ,|PMC kumusta|VBAF ,|PMC kumusta|VBAF .|PMP
-Ako|PRS ’|PMS y|FW natutuwa|FW ,|PMC tralala|FW ,|PMC lalala|VBTF ,|PMC tralala|NNC ,|PMC lalala|VBTF .|PMP "|PMS
-Ang|DTC kanta|NNC nila|PRP ay|LM sumasabay|VBTR_VBAF sa|CCT gitara|NNC ni|DTP Manay|NNP Lina|NNP .|PMP
-Sabi|VBS ni|DTP Titser|NNP Percy|NNP ay|LM gayahin|VBTS ang|DTC mga|DTCP hayop|NNC na|CCP naririnig|VBTR .|PMP "|PMS
-Moooo|NNP ,|PMC "|PMS sabi|VBS ko|PRS .|PMP "|PMS
-Aw|NNP ,|PMC aw|NNC ,|PMC aw|NNC ,|PMC "|PMS sabi|VBS ni|DTP Manay|NNP Lina|NNP .|PMP "|PMS
-Ngiyaw|NNP ,|PMC ngiyaw|FW ,|PMC "|PMS sabi|VBS ni|DTP Manoy|NNP Pilo|NNP .|PMP "|PMS
-Kwak|NNP ,|PMC kwak|NNC ,|PMC kwak|NNC ,|PMC "|PMS sabi|VBS naman|RBI ni|DTP Manoy|NNP Nilo|NNP .|PMP
-Lumabas|VBAF sila|PRP at|CCA pumunta|VBAF sa|CCT lugar|NNC na|CCP merong|VBH_CCP baboy|NNC ,|PMC manok|NNC ,|PMC kalabaw|NNC ,|PMC kambing|NNC ,|PMC at|CCA baka|NNC .|PMP
-Pagkatapos|VBW ,|PMC gumuhit|VBAF sila|PRP ng|CCB mga|DTCP hayop|NNC na|CCP ginaya|VBTS nila|PRP .|PMP
-Si|DTP Maria|NNP ay|LM nag|VBTS -|PMS trace|FW ng|CCB baka|NNC .|PMP "|PMS
-Mmmm|NNP ,|PMC ang|DTC sarap|NNC ng|CCB naaamoy|VBTR ko|PRS ;|PMSC parang|CCT nagluluto|VBTR si|DTP Mama|NNP ng|CCB pansit|JJD Bato|NNC .|PMP
-Aha|NNP ,|PMC recess|FW na|CCP pala|NNC !|PMS "|PMS
-masayang|JJD_CCP sinabi|VBTS ni|DTP Maria|NNP .|PMP "|PMS
-Tara|NNP na|CCP ’|PMS t|NNCA kumain|VBAF na|CCP tayo|PRP ,|PMC "|PMS tawag|NNC ni|DTP Manoy|NNP Pilo|NNP .|PMP "|PMS
-Dahil|CCR busog|JJD na|CCP kayo|PRP ,|PMC halikayo|NNC at|CCA babasahan|VBOF ko|PRS kayo|PRP ng|CCB kuwento|NNC ,|PMC "|PMS alok|NNC ni|DTP Titser|NNP Precy|NNP .|PMP
-Pagkatapos|VBW na|CCP magkuwento|VBW ni|DTP Titser|NNP Precy|NNP ,|PMC naglaro|VBTS sila|PRP ng|CCB luksong|NNC_CCP -|PMS baka|NNC .|PMP "|PMS
-Ikaw|RBW naman|RBI ngayon|RBW ang|DTC baka|NNC ,|PMC Maria|NNP ,|PMC "|PMS sabi|VBS nila|PRP Manoy|NNP Pilo|NNP .|PMP "|PMS
-Ang|DTC bibigat|FW ninyo|PRP ,|PMC di|RBF ko|PRS naman|RBI kayo|PRP kaya|CCR ,|PMC "|PMS sagot|NNC ni|DTP Maria|NNP .|PMP "|PMS
-Ang|DTC daya|NNC .|PMP
-Ikaw|NNP na|CCP ang|DTC taya|NNC ,|PMC Maria|NNP .|PMP
-Huwag|RBF ka|PRS na|CCP ngang|RBI_CCP sumali|VBAF sa|CCT laro|NNC natin|PRP !|PMS "|PMS
-galit|JJD na|CCP sabi|VBS ni|DTP Manay|NNP Lina|NNP .|PMP "|PMS
-Ayoko|NNP ko|PRS nang|RBW maglaro|VBAF ng|CCB eskuwe|FW -|PMS eskuwelahan|NNC ,|PMC ayoko|NNC na|CCP rin|RBI kayong|PRO_CCP maging|VBW kaklase|JJD .|PMP
-Ang|DTC gusto|VBS ko|PRS ay|LM sa|CCT tunay|JJD na|CCP eskuwelahan|NNC !|PMS "|PMS
-umiiyak|VBTR_VBAF na|CCP sabi|VBS ni|DTP Maria|NNP .|PMP "|PMS
-Maria|NNP ,|PMC sa|CCT bahay|NNC at|CCA sa|CCT eskuwelahan|NNC ay|LM pareho|JJC lang|RBI naman|RBI .|PMP
-Bawal|JJD ang|DTC mandaya|VBW ,|PMC dapat|VBS ay|LM maging|VBW taya|NNC ka|PRS rin|RBI ,|PMC "|PMS saway|NNC ni|DTP Mama|NNP "|PMS Ngayong|RBW_CCP pandemya|NNC ,|PMC kayong|JJD_CCP magkakapatid|NNC ang|DTC magkakaklase|VBAF .|PMP
-Itong|PRO_CCP bahay|NNC natin|PRP ang|DTC klasrum|NNC ,|PMC ako|PRS ang|DTC titser|FW ninyo|PRP ,|PMC "|PMS paliwanag|NNC ni|DTP Mama|NNP .|PMP
-Nang|RBW sumunod|VBAF na|CCP araw|NNC ay|LM dumating|VBAF na|CCP ang|DTC mga|DTCP bagong|JJD_CCP modyul|NNC .|PMP
-Masikap|NNP na|CCP sumagot|VBAF sa|CCT modyul|NNC si|DTP Maria|NNP .|PMP
-Kahit|CCT marong|NNC_CCP pandemya|JJD at|CCA sarado|JJD ang|DTC eskuwelahan|NNC ,|PMC patuloy|RBD ang|DTC pag|CCR -|PMS aaral|NNC ni|DTP Maria|NNP sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP
-Bukod|CCT kay|DTP Mama|NNP ,|PMC tinutulungan|VBTR din|RBI siya|PRS ng|CCB mga|DTCP nakatatanda|VBTR niyang|PRS_CCP kapatid|NNC .|PMP
-Kaya|CCR naging|VBTS madali|JJD at|CCA masaya|JJD ang|DTC pagkatuto|NNC niya|PRS .|PMP
+Habang|RBW hinihikayat|VBTR at|CCA sinusuportahan|VBTR ng|CCB may|VBH -|PMS akda|NNC ,|PMC ilustrador|NNC ,|PMC at|CCA tagapaglathala|NNC ng|CCB aklat|NNC na|CCP ito|PRO ang|DTC pagsasalin|NNC ng|CCB gawaing|NNC_CCP ito|PRO sa|CCT ibang|PRI_CCP mga|DTCP wika|NNC ,|PMC hinihiling|VBTR nila|PRP na|CCP ang|DTC mga|DTCP makabuluhang|JJD_CCP pagbabago|NNC sa|CCT teksto|NNC at|CCA sining|NNC ay|LM panatilihin|VBOF sa|CCT pinakamababa.Nakatira|JJCS_JJD ako|PRS sa|CCT kalye|NNC ng|CCB Mosque|NNP Rameswaram|NNP ,|PMC isang|PRI_CCP lungsod|NNC na|CCP sikat|JJD dahil|CCR narito|PRL ang|DTC Templo|NNP ng|CCB Shiva|NNP .|PMP
+Tuwing|RBW gabi|RBW sa|CCT aking|PRSP_CCP pag|CCR -|PMS uwi|FW mula|RBL sa|CCT mosque|FW ,|PMC ako|PRS ay|LM nagtatagal|VBTR malapit|JJD sa|CCT templo.Pakiramdam|FW ko|PRS ay|LM isa|PRI akong|PRS_CCP estranghero|NNC doon|PRL ,|PMC habang|RBW pinagmamasdan|VBTR_VBRF ako|PRS ng|CCB mga|DTCP pumupunta|VBTR_VBAF sa|CCT templo|NNC .|PMP
+Marahil|RBM ay|LM nagtataka|VBTR sila|PRP kung|RBK ano|RBQ ang|DTC ginagawa|VBTR ng|CCB isang|PRI_CCP bata|NNC sa|CCT harap|NNC ng|CCB isang|PRI_CCP templo.Ang|JJD_CCP totoo|RBT ay|LM gusto|VBS kong|PRS_CCP makinig|VBW sa|CCT maindayog|JJD na|CCP pag|CCR -|PMS awit|NNC ng|CCB mga|DTCP mantra|NNC ,|PMC kahit|CCT na|CCP wala|VBN akong|PRS_CCP naintindihan|VBTS na|CCP salita|NNC .|PMP
+May|VBH kakaibang|JJD_CCP mahika|VBW sa|CCT mga|DTCP awit|NNC na|CCP ito.Ang|VBTS_VBOF naghatid|VBTS sa|CCT akin|PRSP doon|PRL ay|LM ang|DTC aking|PRSP_CCP matalik|JJD na|CCP kaibigan|NNC ,|PMC si|DTP Ramanadha|NNP Sastry|NNP .|PMP
+Siya|PRS ay|LM anak|NNC ng|CCB punong|JJD_CCP pari|NNC .|PMP
+Uupo|NNP siya|PRS sa|CCT tabi|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC sa|CCT oras|NNC na|CCP ito|PRO ,|PMC nagbibigkas|VBTS ng|CCB mga|DTCP himno|NNC .|PMP
+Paminsan|RBW -|PMS minsan|RBW ay|LM sinusulyapan|VBTR ako|PRS ni|DTP Ram|NNP at|CCA ngumingiti|VBTR sa|CCT akin.Sa|NNC paaralan|NNC ,|PMC lagi|RBW kaming|PRP_CCP magkasama|VBW ni|DTP Ram|NNP sa|CCT unang|JJN_CCP hilera|NNC ng|CCB aming|PRSP_CCP silid|NNC .|PMP
+Para|CCT kaming|PRP_CCP magkapatid|NNC .|PMP
+Gayunpaman|CCB ,|PMC bilang|CCT anak|NNC ng|CCB isang|PRI_CCP paring|NNC_CCP Hindu|NNP ,|PMC nagsusuot|VBTS siya|PRS ng|CCB isang|PRI_CCP sagradong|JJD_CCP sinulid|NNC ,|PMC habang|RBW ang|DTC aking|PRSP_CCP puting|JJD_CCP sumbrero|NNC ay|LM marka|NNC ng|CCB aking|PRSP_CCP pagiging|VBTR Muslim.Isang|RBL_CCP araw|NNC ,|PMC noong|RBW_CCP kami|PRP ay|LM nasa|RBL ikalimang|JJN_CCP pamantayan|NNC ,|PMC isang|PRI_CCP bagong|JJD_CCP guro|NNC ang|DTC dumating|VBAF sa|CCT aming|PRSP_CCP klase|NNC .|PMP
+Mukha|RBD siyang|PRS_CCP mahigpit|JJD .|PMP
+Umikot|VBAF siya|PRS sa|CCT klase|NNC habang|RBW tinapik|VBOF ang|DTC kaniyang|PRSP_CCP tungkod|NNC sa|CCT kaniyang|PRSP_CCP palad|NNC at|CCA huminto|VBAF sa|CCT harap|NNC namin|PRP .|PMP "|PMS
+Ikaw|NNP ,|PMC yung|PRO naka|RBD -|PMS puting|JJD_CCP sumbrero|NNC ,|PMC "|PMS sigaw|NNC niya|PRS .|PMP "|PMS
+Anong|PRQ_CCP karapatan|NNC mong|PRS_CCP umupo|VBAF sa|CCT tabi|NNC ng|CCB anak|NNC ng|CCB pari|NNC !|PMS
+Umupo|VBTS_VBAF ka|PRS sa|CCT huling|JJD_CCP bangko|NNC .|PMP "|PMS
+Nasaktan|VBTS ako|PRS .|PMP
+Habang|RBW may|VBH luha|NNC sa|CCT aking|PRSP_CCP mga|DTCP mata|NNC ,|PMC kinuha|VBOF ko|PRS ang|DTC aking|PRSP_CCP mga|DTCP libro|NNC at|CCA lumipat|VBAF sa|CCT huling|JJD_CCP hanay.Tahimik|NNC kaming|PRP_CCP umiyak|VBAF ni|DTP Ram|NNP habang|RBW naglalakad|VBTR pagkatapos|VBW ng|CCB klase|NNC .|PMP
+Akala|NNP namin|PRP hindi|RBF na|CCP kami|PRP papayagan|VBTF na|CCP maging|VBW magkaibigan.Nang|VBAF_CCP makarating|VBW ako|PRS sa|CCT bahay|NNC noong|RBW_CCP araw|NNC na|CCP iyon|PRO ay|LM tumingin|VBAF sa|CCT akin|PRSP ang|DTC aking|PRSP_CCP ama|NNC at|CCA nagtanong|VBTS .|PMP "|PMS
+Umiiyak|VBTR_VBAF kaba|NNC ?|PMQ
+Anong|PRQ_CCP nanagyare|VBTR anak|NNC ?|PMQ "|PMS
+Ikinuwento|VBOF ko|PRS ang|DTC buong|PRI_CCP pangyayari|NNC sa|CCT aking|PRSP_CCP ama|NNC ,|PMC habang|RBW ikinuwento|VBTS_VBOF ni|DTP Ram|NNP sa|CCT kaniyang|PRSP_CCP pamilya|NNC ang|DTC parehong|JJC_CCP kuwento.Kinaumagahan|NNC ,|PMC tumakbo|VBAF si|DTP Ram|NNP sa|CCT aming|PRSP_CCP bahay|NNC at|CCA nagsabi|VBTS :|PMS "|PMS Iniimbitahan|VBTS ka|PRS ni|DTP Itay|NNP na|CCP pumunta|VBAF kaagad|RBW sa|CCT aming|PRSP_CCP bahay|NNC .|PMP "|PMS
+Kinilabutan|VBTR ako|PRS .|PMP
+Akala|VBS ko|PRS may|VBH problema|NNC na|CCP naman.Nagmamadali|VBTS kaming|PRP_CCP bumalik|VBAF sa|CCT bahay|NNC ni|DTP Ram|NNP .|PMP
+Bumilis|NNP ang|DTC tibok|NNC ng|CCB puso|NNC ko|PRS nang|RBW makita|VBW ko|PRS ang|DTC bago|RBW naming|PRP_CCP guro|NNC na|CCP nakatayo|VBTS doon.Ayon|NNC sa|CCT ating|PRSP_CCP napag|VBTS -|PMS usapan|NNC ,|PMC humingi|VBAF ka|PRS rito|PRL ng|CCB patawad|NNC kay|DTP Kalam|NNP ,|PMC "|PMS seryesong|JJD_CCP sabi|NNC ng|CCB ama|NNC ni|DTP Ram|NNP .|PMP
+Hindi|RBF ako|PRS makapaniwala|VBW sa|CCT narinig|VBTS ko|PRS !|PMQ
+Ang|DTC punong|JJD_CCP pari|NNC ang|DTC nagsasabi|VBTR sa|CCT aming|PRSP_CCP guro|NNC na|CCP humingi|VBAF ng|CCB tawad|NNC sa|CCT akin|PRSP ?|PMQ "|PMS
+Walang|VBN_CCP bata|NNC ang|DTC mas|JJCC mababa|JJD sa|CCT iba|PRI pang|RBI_CCP bata|NNC sa|CCT mata|NNC ng|CCB Diyos|NNP ,|PMC "|PMS sabi|VBS ng|CCB ama|NNC ni|DTP Ram|NNP .|PMP "|PMS
+Tungkulin|NNC mo|PRS bilang|CCT isang|PRI_CCP guro|NNC na|CCP tulungan|VBTF_VBOF ang|DTC mga|DTCP mag|VBW -|PMS aaral|FW na|CCP mamuhay|VBW nang|RBD maayos|RBD sa|CCT kabila|JJD ng|CCB pagkakaiba|NNC -|PMS iba|PRI ng|CCB kanilang|PRSP_CCP pinagmulan|VBRF .|PMP
+Hindi|RBF ka|PRS na|CCP makakapagturo|VBW sa|CCT paaralang|NNC_CCP ito|PRO .|PMP "|PMS
+Agad|RBW namang|RBI_CCP humingi|VBAF ng|CCB patawad|NNC ang|DTC aming|PRSP_CCP guro|NNC .|PMP
+Niyakap|VBTS niya|PRS ako|PRS at|CCA sinabing|VBOF_CCP :|PMS "|PMS Patawad|NNC ,|PMC Kalam|NNC .|PMP
+Natutunan|VBTR ko|PRS ang|DTC isang|PRI_CCP mahalagang|JJD_CCP aral|NNC sa|CCT buhay|NNC ngayon|RBW .|PMP "|PMS
+Nakita|VBTS ng|CCB ama|NNC ni|DTP Ram|NNP na|CCP taos|NNC -|PMS pusong|NNC_CCP pinagsisihan|VBTR_VBRF ng|CCB guro|NNC ang|DTC kaniyang|PRSP_CCP inasal|VBTS at|CCA pinahintulutan|VBTS siyang|PRS_CCP magpatuloy|VBW sa|CCT pagtuturo.Simula|NNC nang|CCB araw|NNC na|CCP iyon|PRO ,|PMC ako|PRS at|CCA si|DTP Ram|NNP ay|LM naging|VBTS matalik|JJD na|CCP magkaibigan|NNC .|PMP

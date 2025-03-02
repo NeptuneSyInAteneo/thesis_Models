@@ -1,53 +1,19 @@
-"|PMS Yehey|FW "|PMS Sigaw|NNC ng|CCB pugitang|NNC_CCP si|DTP Pogi|NNP .|PMP
-Mabilis|RBD ang|DTC paghakbang|NNC ni|DTP Pogi|NNP sa|CCT mapupulang|JJD_CCP korales|NNC sa|CCT dagat|NNC ng|CCB Palumban|NNP habang|RBW sinusundan|VBTR siya|PRS ng|CCB isa|PRI pang|RBI_CCP pugitang|NNC_CCP si|DTP Pogs|NNP .|PMP "|PMS
-Pogi|NNP ,|PMC tama|JJD na|RBI .|PMP
-Huwag|RBF kang|PRS_CCP maglaro|VBAF diyan|PRL .|PMP "|PMS
-Walang|VBN_CCP ginagawa|VBTR si|DTP Pogi|NNP kung|RBK hindi|RBF ang|DTC sumunod|VBAF kay|DTP Pogs|NNP .|PMP
-Magkapatid|JJD na|CCP pugita|NNC sila|PRP Pogi|NNP at|CCA Pogs|NNP .|PMP
-Wala|VBN na|CCP silang|PRP_CCP mga|DTCP magulang|NNC kaya|CCR ang|DTC panganay|NNC na|CCP si|DTP Pogs|NNP ang|DTC palaging|JJD_CCP nasusunod|VBTR .|PMP
-Hindi|RBF siya|PRS pwedeng|RBT_CCP suwayin|VBOF ng|CCB kapatid|NNC niyang|PRS_CCP si|DTP Pogi|NNP .|PMP "|PMS
-Huwag|RBF kang|PRS_CCP pumunta|VBAF diyan|PRL .|PMP
-Huwag|RBF kang|PRS_CCP pumunta|VBAF rito|PRL .|PMP
-Huwag|RBF mong|PRS_CCP hahawakan|VBTF ’|PMS yan|PRO .|PMP
-Lahat|PRI bawal|JJD .|PMP "|PMS
-Kaya|CCR si|DTP Pogi|NNP ,|PMC panay|JJD ang|DTC simangot|NNC .|PMP
-Habang|RBW ang|DTC magkapatid|NNC ay|LM namamasyal|VBTR sa|CCT mapupulang|JJD_CCP korales|NNC ,|PMC biglang|RBD_CCP nakaisip|VBTS ng|CCB plano|NNC si|DTP Pogi|NNP .|PMP "|PMS
-Pogs|NNP ,|PMC taguan|NNC tayo|PRP .|PMP
-Ako|PRS ang|DTC taya|NNC .|PMP
-Pag|CCR nahuli|VBTS kita|NNC ,|PMC ikaw|PRS ang|DTC maghahanap|VBTF_VBAF ng|CCB alimasag|NNC na|CCP kakainin|VBTF natin|PRP pero|CCT pag|CCR hindi|RBF ,|PMC ako|PRS ang|DTC maghahanap|VBTF_VBAF ng|CCB alimasag|NNC .|PMP "|PMS
-Hamon|NNP ni|DTP Pogi|NNP .|PMP
-Nagtago|VBTS silang|PRP_CCP dalawa|CDB .|PMP
-Kaagad|RBD na|CCP nagtago|VBTS si|DTP Pogs|NNP sa|CCT mga|DTCP korales|NNC .|PMP
-At|CCA si|DTP Pogi|NNP ,|PMC ginaya|VBOF ang|DTC kulay|NNC ng|CCB buhangin|NNC .|PMP "|PMS
-Makakatakas|VBTF na|CCP ako|PRS kay|DTP Pogs|NNP .|PMP "|PMS
-Matagal|JJD na|CCP naghintay|VBTS si|DTP Pogs|NNP kay|DTP Pogi|NNP .|PMP
-Nang|RBW mainip|VBW ,|PMC lumabas|VBAF na|CCP siya|PRS sa|CCT kanyang|PRSP_CCP pinagtataguan|VBTR_VBRF ,|PMC subalit|CCT hindi|RBF na|RBI niya|PRS nakita|VBTS si|DTP Pogi|NNP .|PMP "|PMS
-Pogi|NNP ,|PMC nasaan|JJD ka|PRS ?|PMQ
-Kanina|RBW pa|RBI ako|PRS naghihintay|VBTR sa|CCT iyo|PRSP .|PMP
-Hindi|RBF mo|PRS naman|RBI ako|PRS hinahanap|VBTR .|PMP
-Ikaw|NNP na|CCP ang|DTC kukuha|VBTF ng|CCB kakainin|VBTF natin|PRP .|PMP "|PMS
-At|CCA walang|VBN_CCP sumagot|VBAF kay|DTP Pogs|NNP .|PMP
-Lumangoy|VBAF na|CCP pala|NNC palayo|RBD si|DTP Pogi|NNP .|PMP
-Nakaabot|VBTS siya|PRS sa|CCT madamong|JJD_CCP lugar|NNC ng|CCB karagatan|NNC .|PMP
-Sa|CCT gitna|JJD ng|CCB damuhan|NNC ,|PMC mayroong|VBH_CCP malaki|JJD at|CCA matabang|JJD_CCP alimasag|NNC .|PMP
-Mabilis|RBD na|CCP pinuluputan|VBTR ito|PRO ni|DTP Pogi|NNP ng|CCB kanyang|PRSP_CCP mga|DTCP galamay|NNC .|PMP
-Nasundan|VBTS pala|NNC siya|PRS ni|DTP Pogs|NNP .|PMP "|PMS
-Pogi|NNP ,|PMC bitawan|VBOF mo|PRS iyan|PRO ,|PMC tora|FW -|PMS tora|NNC iyan|PRO !|PMQ "|PMS "|PMS
-Hinila|VBOF na|CCP si|DTP Pogi|NNP ng|CCB tora|NNC -|PMS tora|NNC .|PMP
-Napapikit|VBTS si|DTP Pogs|NNP .|PMP
-Umiiyak|VBTR_VBAF si|DTP Pogi|NNP habang|RBW hinihila|VBTR pataas|NNC ng|CCB tora|NNC -|PMS tora|NNC .|PMP
-Naisip|VBTS ni|DTP Pogs|NNP na|CCP wala|VBN na|CCP siyang|PRS_CCP magagawa|VBTF dahil|CCR ganoon|PRC din|RBI ang|DTC nangyari|VBTS sa|CCT kanilang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
-Maganda|JJD ,|PMC makintab|JJD ,|PMC at|CCA mapula|JJD ang|DTC kulay|NNC ng|CCB tora|NNC -|PMS tora|NNC .|PMP
-Katulad|JJC ito|PRO ng|CCB itsura|NNC ng|CCB alimasag|NNC na|CCP paboritong|JJD_CCP kainin|VBOF ng|CCB mga|DTCP pugita|NNC .|PMP
-Hinihila|VBOF nito|PRO paitaas|RBD ng|CCB dagat|NNC ang|DTC mga|DTCP pugita|NNC at|CCA hindi|RBF na|RBI sila|PRP nakakabalik|VBTR .|PMP "|PMS
-Pinangako|VBOF ko|PRS sa|CCT sarili|NNC ko|PRS na|CCP poprotektahan|VBTF ko|PRS ang|DTC kapatid|NNC ko|PRS sa|CCT tora|NNC -|PMS tora|NNC .|PMP
-Subalit|CCT hindi|RBF ko|PRS ito|PRO nagawa|VBTS .|PMP "|PMS
-Tumalikod|VBAF na|RBI si|DTP Pogs|NNP para|CCT bumalik|VBAF sa|CCT mga|DTCP korales|NNC .|PMP "|PMS
-Pogs|NNP !|PMS
-Pogs|NNP !|PMS "|PMS
-Paglingon|NNP ni|DTP Pogs|NNP ,|PMC lumalangoy|VBTR_VBAF na|CCP si|DTP Pogi|NNP papalapit|JJD sa|CCT kaniya|PRSP !|PMS "|PMS
-Pogs|NNP ,|PMC akala|VBS ko|PRS talaga|RBT alimasag|NNC iyon|PRO ,|PMC mabuti|RBD na|RBI lang|RBI nakatakas|VBTS ako|PRS .|PMP
-Susundin|VBTF na|CCP kita|NNC mula|RBW ngayon|RBW ,|PMC "|PMS naiiyak|VBTR na|CCP sabi|VBS ni|DTP Pogi|NNP .|PMP "|PMS
-Pogi|NNP ,|PMC iyon|PRO ang|DTC tora|NNC -|PMS tora|RBD na|CCP kamukha|JJD ng|CCB alimasag|NNC ,|PMC iyon|PRO ang|DTC kumuha|VBAF kay|DTP Nanay|NNP at|CCA kay|DTP Tatay|NNP .|PMP
-Kaya|CCR palagi|RBW kitang|RBD_CCP sinasaway|VBTR dahil|CCR ayaw|RBF kong|PRS_CCP matulad|VBW ka|PRS sa|CCT kanila|PRSP .|PMP "|PMS
-Niyakap|VBTS ni|DTP Pogs|NNP ang|DTC kanyang|PRSP_CCP kapatid|NNC at|CCA magkasama|VBW silang|PRP_CCP lumangoy|VBAF papalayo|RBD sa|CCT tora|NNC -|PMS tora|NNC .|PMP
+Labing|NNP dalawang|JJN_CCP konstelasyon|NNC na|CCP lumulutang|VBTR_VBAF sa|CCT kalawakanAng|JJD_CCP konstelasyon|NNC ay|LM grupo|NNC ng|CCB mga|DTCP bituin|NNC na|CCP bumubuo|VBTR_VBAF ng|CCB hugis|NNC sa|CCT kalangitan|NNC .|PMP
+Kadalasan|RBW kawangis|NNC sya|PRS ng|CCB karakter|NNC sa|CCT mitolohiya|NNC o|CCT hayop|NNC kung|CCR may|VBH malawak|JJD kang|PRS_CCP imahinasyon|NNC .|PMP
+Cygnus|NNP ,|PMC Lacerta|NNP ,|PMC Triangulum|NNP ,|PMC Cepheus|NNP ,|PMC the|FW Little|NNP Dipper|NNP ,|PMC Lynx|NNP ,|PMC Draco|NNP ,|PMC Hercules|NNP ,|PMC the|FW Big|NNP Dipper|NNP ,|PMC Scutum|NNP at|CCA Orion|NNP ang|DTC mga|DTCP pangalan|NNC ng|CCB konstelasyon|NNC sa|CCT nakaraang|JJD_CCP pahina.Labing|NNC_CCP isa|PRI ang|DTC kumikinang|JJD na|CCP planeta|NNC ang|DTC nasa|RBL kalangitanAng|JJD_CCP satelayt|NNC ay|LM bagay|NNC ba|RBI umiikot|VBTR_VBAF sa|CCT planeta|NNC o|CCT bituin|NNC .|PMP
+Ang|DTC mundo|NNC ay|LM natural|JJD na|CCP satelayt|NNC –|PMS ang|DTC buwan|NNC .|PMP
+Artipisyal|JJD na|CCP satelayt|NNC ang|DTC inilunsad|VBTS sa|CCT kalawakan|NNC para|CCT sa|CCT komunikasyon|NNC ,|PMC astronomiya|NNC at|CCA pagsasaliksik.Sampung|JJN_CCP magagaling|JJD na|CCP inhinyero|NNC ang|DTC gumagawa|VBTR_VBAF ng|CCB isang|PRI_CCP raketa.mekanikong|JJD_CCP INHINYERO|NNC ,|PMC elektrikal|JJD na|CCP INHINYERO|NNC at|CCA elektronikang|NNC_CCP INHINYERO|NNC ang|DTC sama|NNC samang|NNC_CCP gumagawa|VBTR_VBAF para|CCT makabuo|VBW ng|CCB raketa.Siyam|JJN na|CCP ekspertong|JJD_CCP siyentista|NNC ang|DTC kumakalkula|VBAF sa|CCT pag|CCR ikot|NNC .|PMP
+Siyentista|NNP ang|DTC humahanap|VBTR_VBAF ng|CCB daan|NNC sa|CCT mga|DTCP satelayt|NNC para|CCT makapunta|VBW sa|CCT kalawakan|NNC .|PMP
+Ang|DTC daan|NNC ay|LM tinatawag|VBTR na|CCP orbita.Walo|NNP ang|DTC matatag|JJD na|CCP planeta|NNC na|CCP umiikot|VBTR_VBAF sa|CCT arawApat|FW ang|DTC mababatong|JJD_CCP loob|NNC PLANETA|NNPA –|PMS Mercury|NNP ,|PMC Venus|NNP ,|PMC Earth|NNP ,|PMC Mars|NNP –|CDB at|CCA apat|CDB na|CCP puno|NNC ng|CCB hangin|NNC sa|CCT labas|NNC ng|CCB PLANETA|NNPA –|PMS Jupiter|NNP ,|PMC Saturn|NNP ,|PMC Uranus|NNP ,|PMC Neptune|NNP –|CDB sa|CCT kabuuang|PRI_CCP walong|JJN_CCP malalaking|JJD_CCP PLANETA|NNC ng|CCB ating|PRSP_CCP sistemang|NNC_CCP solar|FW .|PMP
+Pluto|NNP ang|DTC dating|JJD_CCP pang|RBI_CCP siyan|NNC ba|RBI planet|FW ngunit|CCT in|FW ,|PMC International|NNP Astronomical|NNP Union|NNP (|PMS IAU|NNPA )|PMS pinagdesisyunan|VBRF na|CCP ang|DTC Pluto|NNP ay|LM isang|PRI_CCP maliit|JJD na|CCP planeta.Pito|NNC ang|DTC dumadaan|VBTR_VBAF na|CCP nagyeyelong|VBTS_CCP kometaKometa|NNC ay|LM malaking|JJD_CCP kumpol|NNC ng|CCB yelo|NNC ,|PMC bato|NNC at|CCA hangin|NNC .|PMP
+Sila|PRP ay|LM umiikot|VBTR_VBAF sa|CCT araw|NNC ,|PMC ngunit|CCT madalas|JJD ay|LM malayo|JJD sa|CCT mundo|NNC .|PMP
+Sa|CCT pagdaan|NNC ng|CCB panahon|NNC ,|PMC nag|VBTS -|PMS iiwan|VBTF sikla|NNC ng|CCB hugis|NNC buntot|NNC .|PMP
+Katulad|JJC ng|CCB sikat|JJD na|CCP kometa|NNC ay|LM ang|DTC mga|DTCP Hale|NNP -|PMS Bopp|NNP ,|PMC Halley|NNP ,|PMC Hyakutake|NNP at|CCA Shoemaker|NNP -|PMS Levy.Anim|NNP na|CCP mausisang|JJD_CCP tao|NNC ang|DTC sumisilip|VBAF sa|CCT teleskopyo.Teleskopyo|NNC ang|DTC tumutulong|VBTR_VBAF sa|CCT atin|PRSP makita|VBW ang|DTC mga|DTCP bagay|NNC na|CCP malalayo|JJD ,|PMC malalayo|JJD katulad|JJC ng|CCB kometa|NNC ,|PMC bituin|NNC ,|PMC planeta|NNC at|CCA bwan.Limang|RBD_CCP maliliit|JJD na|CCP planeta|NNC ang|DTC lumilipad|VBTR_VBAF sa|CCT kalawakandwarf|FW planeta|NNC ang|DTC parang|CCT planeta|NNC ngunit|CCT sila|PRP at|CCA malilit|JJD walang|VBN_CCP siguradong|RBT_CCP daan|JJN na|CCP umiikot|VBTR sa|CCT araw|NNC .|PMP
+Ibig|VBS sabihin|VBOF ang|DTC mga|DTCP bagay|NNC na|CCP katulad|JJC ng|CCB asteroid|FW at|CCA kometa|NNC mas|JJCC maliit|JJD ang|DTC daan|NNC .|PMP
+Pluto|NNP ,|PMC Ceres|NNP ,|PMC Eris|NNP ,|PMC Makemake|NNP at|CCA Haumea|NNP ang|DTC bumubuo|VBTR_VBAF ng|CCB limang|JJN_CCP rekognitong|NNC_CCP dwark|FW planets|FW sa|CCT ating|PRSP_CCP sistemang|NNC_CCP solar.Apat|JJD na|CCP maingat|RBD na|CCP manggagawa|NNC ang|DTC naggagasolina|VBTS sa|CCT raketa.Katulad|NNC ng|CCB sasakyan|NNC kailangan|VBS din|RBI nila|PRP ng|CCB gasolina|NNC para|CCT gumana|VBAF ,|PMC gasolina|NNC ang|DTC kailangan|VBS ng|CCB raketa|NNC upang|CCB magawa|VBW nito|PRO ang|DTC kanyang|PRSP_CCP gawain|NNC .|PMP
+Parehong|JJC_CCP tubig|NNC na|CCP gaas|NNC at|CCA matibay|JJD na|CCP gaas|NNC ang|DTC pwedeng|RBT_CCP magamit|VBW sa|CCT raketa.Tatlong|NNC_CCP mahuhusay|JJD na|CCP astronomiya|NNC ang|DTC suot|JJD ang|DTC kanilang|PRSP_CCP damit|NNC pang|RBI_CCP kalawakan.Damit|NNC pangkalawakan|NNC ang|DTC nagprprotekta|VBTS sa|CCT mga|DTCP astronomiya|NNC sa|CCT kalawakan|NNC .|PMP
+Ang|DTC damit|NNC na|CCP ito|PRO ang|DTC may|VBH suplay|NNC na|CCP oxygen|FW para|CCT makahinga|VBW at|CCA makainom|VBW ng|CCB tubig|NNC .|PMP
+Iniiwasan|VBTR nito|PRO makaramdam|VBW ng|CCB sobrang|JJCS_CCP init|NNC o|CCT sobrang|JJCS_CCP lamig|JJD ang|DTC mga|DTCP astronomiya|NNC ,|PMC at|CCA pinoprotektahan|VBTR sila|PRP nito|PRO sa|CCT alikabok|NNC ng|CCB kalawakan.Dalawang|NNC_CCP sabik|JJD na|CCP mga|DTCP bata|NNC ang|DTC nasa|RBL misyon|NNC kontrol|NNC centerMission|FW control|FW centre|FW ay|LM isang|PRI_CCP kwarto|NNC kung|RBK saan|RBQ ang|DTC mga|DTCP puno|NNC ng|CCB mga|DTCP pangkat|NNC ay|LM nagsasama|VBTR sama|NNC at|CCA sinisiguradong|VBTR_VBOF nailulunsad|VBTS ng|CCB maayos|JJD at|CCA nasa|RBL plano|NNC ang|DTC misyon|NNC parang|CCT maging|VBW kumpleto.Isang|NNC_CCP umuusok|VBTR_VBAF na|CCP raketa|NNC ang|DTC handang|RBD_CCP lumipad|VBAF !|PMQ
+Ang|DTC raketa|NNC at|CCA isang|PRI_CCP sasakyang|NNC_CCP pwedeng|RBT_CCP bumulusok|VBAF sa|CCT kalawakan|NNC .|PMP
+Ito|PRO ay|LM ginagamit|VBTR upang|CCB malunsad|VBW ang|DTC gawang|JJD_CCP taong|NNC_CCP satelayt|NNC sa|CCT kalawakan.Lipad!India|NNC ang|DTC gumawa|VBAF ng|CCB rekord|NNC sa|CCT mundo|NNC noong|RBW_CCP na|CCP naglunsad|VBTS sila|PRP ng|CCB 4s|CDB atelayt|NNC mula|RBL sa|CCT isang|PRI_CCP raketa|NNC ,|PMC PSLV|NNPA -|PMS C37|CDB .|PMP
+Naglunsad|VBTS ng|CCB raketa|NNC ang|DTC siyentista|NNC sa|CCT Indian|NNP Space|NNP Research|NNP Organisation|NNP (|PMS ISRO|NNPA )|PMS mula|RBL sa|CCT Satisg|NNP Dhawan|NNP Space|NNP Centre|NNP sa|CCT Sriharikota|NNP Andhra|NNP Pradesh|NNP

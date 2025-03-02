@@ -1,34 +1,12 @@
-Kapag|CCR aalis|VBTF kami|PRP ni|DTP Lolo|NNP Osito|NNP ,|PMC ang|DTC aking|PRSP_CCP hiling|NNC ay|LM masakyan|VBW ang|DTC habal|NNC -|PMS habal|NNC ni|DTP Hannibal|NNP .|PMP
-Ayan|NNP na|CCP !|PMS
-Ayan|NNP na|CCP !|PMS
-Ayan|NNP na|CCP si|DTP Hannibal|NNP !|PMS
-Ang|DTC habal|NNC -|PMS habal|NNC ni|DTP Hannibal|NNP ay|LM parang|CCT eroplano|NNC .|PMP
-May|VBH dalawang|JJN_CCP pakpak|NNC :|PMS isa|PRI sa|CCT kanan|JJD ,|PMC isa|PRI sa|CCT kaliwa|JJD .|PMP
-Kung|CCR sa|CCT motorsiklo|NNC isa|PRI lang|RBI ang|DTC pasahero|NNC ,|PMC sa|CCT habal|NNC -|PMS habal|NNC ni|DTP Hannibal|NNP ,|PMC anim|JJN ang|DTC pasahero|NNC !|PMS
-May|VBH mga|DTCP upuang|CCB tabla|NNC para|CCT sa|CCT pasahero|NNC ;|PMSC dalawa|JJN sa|CCT kaliwa|JJD ,|PMC dalawa|CDB sa|CCT kanan|JJD .|PMP
-May|VBH dalawa|CDB pa|RBI sa|CCT likod|NNC niya|PRS ,|PMC kaya|CCR anim|JJN ang|DTC pwedeng|RBT_CCP makasakay|VBW .|PMP
-Hindi|RBF lamang|RBI tao|NNC ang|DTC naisasakay|VBTS ni|DTP Hannibal|NNP :|PMS may|VBH bigas|NNC ,|PMC kopra|NNC ,|PMC at|CCA minsan|RBW may|VBH karga|NNC pa|RBI siyang|PRS_CCP kambing|NNC at|CCA mga|DTCP itik|NNC .|PMP
-Kapag|CCR dumadaan|VBTR_VBAF kami|PRP sa|CCT kagubatan|NNC na|CCP nababalot|VBTR ng|CCB mga|DTCP ulap|NNC ,|PMC para|CCT akong|PRS_CCP lumilipad|VBTR_VBAF sa|CCT langit|NNC !|PMS
-Napapangiti|JJCS_JJD ako|PRS sa|CCT haplos|NNC ng|CCB hangin|NNC sa|CCT aking|PRSP_CCP mukha|NNC .|PMP
-Parang|CCT musika|NNC sa|CCT aking|PRSP_CCP tainga|NNC ang|DTC ihip|VBTF ng|CCB hangin|NNC .|PMP
-Si|DTP Hannibal|NNP parang|CCT piloto|NNC ;|PMSC mabilis|JJD ,|PMC alerto|JJD ,|PMC at|CCA maingat|RBD magmaneho|VBAF .|PMP
-Kaya|CCR naman|RBI ang|DTC mga|DTCP tao|NNC gustong|VBS_CCP -|PMS gustong|VBS_CCP sumakay|VBAF sa|CCT habal|NNC -|PMS habal|NNC ni|DTP Hannibal|NNP .|PMP
-Nakakarating|VBTR agad|RBW sa|CCT paroroonan|PRL sapagkat|CCR mabilis|JJD ang|DTC biyahe|NNC .|PMP
-Gusto|VBS ko|PRS sanang|VBS_CCP umupo|VBAF sa|CCT pakpak|NNC na|CCP upuan|NNC ,|PMC ngunit|CCT sabi|VBS ni|DTP Hannibal|NNP baka|RBM daw|RBI ako|PRS mahulog|VBW at|CCA masugatan|VBW .|PMP
-Matulungin|NNP din|RBI si|DTP Hannibal|NNP .|PMP
-Minsan|RBW ,|PMC may|VBH motorsiklong|RBD_CCP nabaon|VBTS sa|CCT lubak|NNC na|CCP daan|NNC .|PMP
-Hinila|VBOF ang|DTC motorsiklo|NNC ng|CCB habal|FW -|PMS habal|FW nya|PRS .|PMP "|PMS
-Tila|RBM isang|PRI_CCP kalabaw|NNC na|CCP may|VBH hilang|JJD_CCP karosa|NNC ang|DTC habal|NNC -|PMS habal|NNC ni|DTP Hannibal|NNP .|PMP "|PMS
-Kahit|CCT lubak|NNC ang|DTC daan|NNC ay|LM hindi|RBF sasakit|VBTF ang|DTC iyong|PRSP_CCP pwet|FW dahil|CCR may|VBH kutson|NNC ang|DTC upuan|NNC .|PMP "|PMS
-Hannibal|NNP !|PMS
-Ang|DTC sarap|NNC sumakay|VBAF sa|CCT iyong|PRSP_CCP habal|NNC -|PMS habal|NNC ,|PMC para|CCT akong|PRS_CCP dinuduyan|VBTS_VBOF !|PMS "|PMS
-wika|NNC ni|DTP Carlos|NNP .|PMP
-Kapag|CCR nasa|RBL maayos|JJD na|CCP daan|NNC ,|PMC napapasigaw|VBTR kami|PRP ni|DTP Nina|NNP sa|CCT saya|NNC .|PMP "|PMS
-Aba|NNP !|PMS
-Hindi|RBF lang|RBI tayo|PRP nakasakay|VBTS sa|CCT habal|NNC -|PMS habal|NNC ,|PMC minsan|RBW sa|CCT eroplano|NNC ,|PMC minsan|RBW din|RBI sa|CCT kabayo|NNC !|PMS "|PMS
-Pagdating|VBW sa|CCT aming|PRSP_CCP destinasyon|NNC ay|LM malugod|JJD at|CCA may|VBH paggalang|NNC na|CCP nagpapaalam|VBTR si|DTP Hannibal|NNP sa|CCT amin|PRSP .|PMP "|PMS
-Mag|NNP -|PMS iingat|VBTF kayo|PRP ,|PMC "|PMS lagi|RBD niyang|PRS_CCP sinasabi|VBTR sa|CCT amin|PRSP .|PMP
-Hihintayin|NNP ko|PRS kayo|PRP mamayang|RBW_CCP hapon|NNC .|PMP "|PMS
-Ang|DTC aking|PRSP_CCP hiling|NNC sa|CCT aming|PRSP_CCP pag|CCR -|PMS uwi|FW ,|PMC ay|LM makasakay|VBW ulit|RBW sa|CCT habal|NNC -|PMS habal|NNC ni|DTP Hannibal|NNP .|PMP
-Ang|DTC habal|NNC -|PMS habal|FW ay|LM motorsiklong|RBD_CCP inaarkelahan|VBTR ng|CCB mga|DTCP pasahero|NNC para|CCT magpahatid|VBW sa|CCT kani|NNC -|PMS kanilang|PRSP_CCP pupuntahan|NNC .|PMP
-Ito|PRO ang|DTC sinasakyan|VBTR papunta|VBW sa|CCT mga|DTCP lugar|NNC na|CCP hindi|RBF kayang|RBD_CCP abutin|VBOF ng|CCB mga|DTCP traysikel|FW ,|PMC dyip|FW ,|PMC o|CCT bus|NNC .|PMP
+Ito|PRO ang|DTC aking|PRSP_CCP katawanIto|NNC ang|DTC aking|PRSP_CCP buhok|NNC .|PMP
+Ang|DTC aking|PRSP_CCP buhok|NNC ay|LM proteksion|FW ng|CCB aking|PRSP_CCP anitIto|NNC ang|DTC aking|PRSP_CCP mga|DTCP mata|NNC .|PMP
+Ginagamit|VBTR ito|PRO upang|CCB makakita.Ito|VBW ang|DTC aking|PRSP_CCP Tenga|NNC .|PMP
+Gamit|VBS ito|PRO upang|CCB makarinig.Ito|VBW ang|DTC aking|PRSP_CCP ilong|NNC .|PMP
+Ginagamit|VBTR ito|PRO upang|CCB makahinga|VBW at|CCA makaamoy.Ito|VBW ang|DTC aking|PRSP_CCP bibig|NNC .|PMP
+Gamit|VBS ko|PRS ito|PRO upang|CCB makainom|VBW ,|PMC makakain|VBW ,|PMC at|CCA makapagsalita.Ito|VBW ang|DTC aking|PRSP_CCP ipin|NNC .|PMP
+Gamit|VBS ko|PRS ito|PRO upang|CCB makanguya|VBW ng|CCB pagkainIto|VBW ang|DTC aking|PRSP_CCP dila|NNC .|PMP
+Gamit|VBS ko|PRS ito|PRO upang|CCB makalasaIto|VBW ang|DTC aking|PRSP_CCP mga|DTCP kamay|NNC .|PMP
+Gamit|VBS ko|PRS ito|PRO upang|CCB makahawak|VBW makapagsulat.Ito|VBW ang|DTC aking|PRSP_CCP mga|DTCP paa|NNC .|PMP
+Gamit|VBS ko|PRS ito|PRO upang|CCB makatayo|VBW ,|PMC makalakag|VBW at|CCA makatakbo.Pum|VBW Anh|NNP Lao|NNP is|FW a|FW nonprofit|FW ,|PMC social|FW enterprise|FW that|FW publishes|FW children|FW 's|FW books|FW and|FW promotes|FW reading|FW for|FW disadvantaged|FW groups|FW .|PMP
+Pum|NNP Anh|NNP conducts|FW writers|FW '|PMS workshops|FW with|FW children|FW and|FW adults|FW to|FW develop|FW stories|FW –|FW including|FW for|FW children|FW with|FW disabilities|FW and|FW for|FW ethnic|FW minorities|FW .|PMP
+Pum|NNP Anh|NNP has|FW developed|FW ,|PMC designed|FW and|FW illustrated|FW a|FW wide|FW range|FW of|FW teaching|FW and|FW reading|FW materials|FW for|FW UN|NNPA agencies|FW and|FW NGOs|FW ,|PMC working|FW closely|FW with|FW the|FW Ministry|FW of|FW Educationand|NNP Sports|NNP and|FW the|FW Ministry|FW of|FW Information|NNP ,|PMC Culture|NNP and|FW Tourism|NNP .|PMP

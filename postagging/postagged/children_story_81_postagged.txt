@@ -1,0 +1,64 @@
+"|PMS Ma|NNC !|PMS
+Gusto|VBS ko|PRS ng|CCB ice|FW cream|FW !|PMS "|PMS
+sabi|VBS ni|DTP Lisa|NNP .|PMP "|PMS
+Lisa|NNP ,|PMC mamaya|RBW na|RBI .|PMP
+Di|RBF ba|RBI may|VBH gawa|VBS pa|RBI si|DTP Mama|NNP ,|PMC "|PMS sabi|VBS ni|DTP Sara|NNP habang|RBW nagbobomba|VBTR ng|CCB poso|NNC na|CCP ipanlalaba|VBTR ng|CCB Mama|NNP nila.Sila|VBTS ni|DTP Lisa|NNP at|CCA Sara|NNP ang|DTC magkakambal|JJD na|CCP anak|NNC nila|PRP Mama|NNP Helen|NNP at|CCA Papa|NNP Romeo|NNP .|PMP
+Pareho|JJC silang|PRP_CCP nasa|RBL ikalawang|JJN_CCP grado|NNC sa|CCT San|NNP Nicolas|NNP Elementary|NNP School|NNP .|PMP
+Pareho|JJC silang|PRP_CCP magaling|JJD sa|CCT klase|NNC at|CCA maganda|JJD .|PMP
+Si|DTP Sara|NNP ay|LM mabait|JJD at|CCA masunurin|JJD sa|CCT nakatatanda|NNC ,|PMC habang|RBW si|DTP Lisa|NNP naman|RBI ay|LM gustong|VBS_CCP laging|RBD_CCP mangyari|VBW ang|DTC nais|VBS niya.Naglalaba|VBTR sina|DTPP Mama|NNP Helen|NNP at|CCA Sara|NNP habang|RBW nagkukuwentuhan|VBTR tungkol|RBR sa|CCT mga|DTCP gawain|NNC sa|CCT eskuwelahan|NNC .|PMP
+Si|DTP Lisa|NNP ,|PMC nakaupo|VBTS sa|CCT sala|NNC habang|RBW nanonood|VBTR ng|CCB TV|NNPA .|PMP "|PMS
+Lisa|NNP ,|PMC isalansan|VBTS mo|PRS nga|RBI ang|DTC mga|DTCP hanger|FW diyan|PRL sa|CCT upuan|NNC ,|PMC "|PMS utos|NNC ni|DTP Mama|NNP Helen|NNP .|PMP "|PMS
+Sige|NNP ,|PMC Mama|NNP ,|PMC pero|CCT pupunta|VBTF tayo|PRP ng|CCB bayan|NNC mamaya|RBW .|PMP
+Bili|NNP tayo|PRP sa|CCT laruan|NNC ,|PMC opo|NNC ?|PMQ "|PMS
+masayang|JJD_CCP sabi|VBS ni|DTP Lisa|NNP .|PMP "|PMS
+Lisa|NNP ,|PMC marami|PRI pang|RBI_CCP gagawin|VBTF mamaya|RBW si|DTP Mama|NNP ,|PMC "|PMS sabi|VBS ni|DTP Sara|NNP .|PMP "|PMS
+Isa|PRI pa|RBI ,|PMC di|RBF ka|PRS naman|RBI kasama|CCB mamaya|RBW .|PMP
+May|VBH gagawin|VBTF ka|PRS ,|PMC di|RBF ba|RBI ?|PMQ "|PMS
+Pagkasalansan|NNP ng|CCB mga|DTCP hanger|FW ,|PMC lumapit|VBAF si|DTP Lisa|NNP sa|CCT Mama|NNC niya|PRS .|PMP "|PMS
+Mama|NNP ,|PMC bibili|VBTF ako|PRS ng|CCB sitsirya|NNC ,|PMC nagugutom|VBTR ako|PRS .|PMP "|PMS "|PMS
+Sumosobra|NNP ka|PRS na|CCP ,|PMC Lisa|NNC .|PMP
+Lahat|PRI na|RBI lang|RBI .|PMP
+Alam|VBS mo|PRS naman|RBI ,|PMC di|RBF ba|RBI ,|PMC na|CCP bawal|JJD kang|PRS_CCP kumain|VBAF niyan|PRO .|PMP
+Pinapabayaan|VBTR na|RBI lang|RBI nga|RBI kita|NNC sa|CCT mga|DTCP gusto|VBS mong|PRS_CCP gawin|VBOF ,|PMC kung|RBK ano|RBQ -|PMS ano|PRQ pa|RBI ang|DTC pumapasok|VBTR_VBAF sa|CCT isip|NNC mo|PRS !|PMQ
+Kung|CCR nagugutom|VBTR ka|PRS ,|PMC maerong|JJD_CCP biskuwit|NNC at|CCA kanin|NNC .|PMP
+Talagang|RBT_CCP sitsiryapa|VBTR ang|DTC gusto|VBS mo|PRS ?|PMQ "|PMS
+Bumalik|VBAF si|DTP Lisa|NNP sa|CCT sala|NNC at|CCA nanonood|VBTR na|RBI lang|RBI ulit|RBW siya|PRS ng|CCB TV|NNPA .|PMP
+Ganiyan|NNP lagi|RBW ang|DTC eksena|NNC sa|CCT bahay|NNC nila|PRP .|PMP
+Kung|RBK ano|RBQ ang|DTC hingin|VBOF ni|DTP Lisa|NNP ,|PMC gusto|VBS niyang|PRS_CCP maibigay|VBW sa|CCT kaniya.Isa|JJC araw|NNC ng|CCB Linggo|NNP ,|PMC maaga|JJD pa|RBI '|PMS y|FW naghanda|VBTS na|CCP ang|DTC pamilya|NNC para|CCT magsimba|VBW .|PMP
+Maganda|JJD ang|DTC panahon|NNC .|PMP
+Maganda|JJD ang|DTC araw|NNC .|PMP
+Walang|VBN_CCP tanda|NNC ng|CCB pag|CCR -|PMS uulan|NNC o|CCT ano|PRQ mang|RBI_CCP sama|NNC ng|CCB panahon|NNC .|PMP
+Maraming|PRI_CCP tao|NNC ang|DTC nagsimba|VBTS ,|PMC marami|PRI ring|RBI_CCP bata|NNC na|CCP tulad|JJC nila.Tumahimik|VBTS na|CCP ang|DTC mga|DTCP nagsisimba|VBTR ,|PMC ngunit|CCT nakakita|VBTS si|DTP Lisa|NNP sa|CCT nagtitinda|VBTR ng|CCB magagandang|JJD_CCP lobo|NNC .|PMP
+Mga|DTCP lobong|JJD_CCP sari|NNC -|PMS sari|NNC ang|DTC kulay|NNC at|CCA porma|NNC .|PMP
+Lumabas|VBAF siya|PRS upang|CCB tingnan|VBOF ang|DTC makukulay|JJD na|CCP mga|DTCP lobo|NNC .|PMP
+Natuwa|VBTS siya|PRS dahil|CCR nakita|VBTS niya|PRS ang|DTC mga|DTCP paborito|NNC niyang|PRS_CCP mga|DTCP bulaklak|NNC at|CCA laruan|NNC na|CCP nakadrowing|VBTS sa|CCT mga|DTCP lobo|NNC at|CCA may|VBH sari|NNC -|PMS saring|NNC_CCP kulay.Sumunod|JJD si|DTP Sara|NNP kay|DTP Lisa|NNP .|PMP
+Sinabihan|VBTS niyang|PRS_CCP pumasok|VBAF muna|RBI sa|CCT simbahan|NNC .|PMP
+Kumurap|NNP -|PMS kurap|NNC lang|RBI si|DTP Lisa|NNP at|CCA nagsabi|VBTS ,|PMC "|PMS Alam|VBS mo|PRS ,|PMC Sara|NNP ,|PMC ang|DTC gaganda|VBTF nitong|PRO_CCP mga|DTCP lobo|NNC .|PMP
+Maganda|JJD silang|PRP_CCP tingnan|VBOF na|CCP lumilipad|VBTR_VBAF -|PMS lipad|NNC .|PMP
+Gusto|VBS ko|PRS rin|RBI niyan|PRO kaya|CCR mamaya|RBW ,|PMC magpapabili|VBTF ako|PRS kay|DTP Mama|NNP ng|CCB dalawa|CDB .|PMP '|PMS
+Yang|RBF mga|DTCP drowing|FW sa|CCT mga|DTCP retrato|NNC sa|CCT lobo|NNC ,|PMC gusto|VBS ko|PRS silang|PRP_CCP kalaruin|VBOF .|PMP "|PMS
+Sumimangot|NNP si|DTP Sara|NNP sa|CCT sinabi|VBTS ni|DTP Lisa|NNP .|PMP "|PMS
+Pero|CCT ,|PMC Lisa|NNC ,|PMC sabi|VBS ni|DTP Mama|NNP pumasok|VBAF ka|PRS na|CCP raw|RBI muna|RBI .|PMP
+Mamaya|RBW ka|PRS na|RBI lang|RBI daw|RBI lumabas|VBAF pag|CCR tapos|RBW na|RBI ang|DTC misa|NNC para|CCT sama|NNC -|PMS sama|NNC na|CCP daw|RBI tayong|PRP_CCP pupunta|VBTF .|PMP "|PMS
+Tumayo|VBAF si|DTP Lisa|NNP at|CCA sumunod|VBAF kay|DTP Sara|NNP papasok|VBTF sa|CCT simbahan.Pagkatapos|NNC ng|CCB misa|NNC ,|PMC kumain|VBAF ang|DTC magpamilya|VBAF sa|CCT isang|PRI_CCP restawran|NNC .|PMP
+Nakatutuwa|RBD silang|PRP_CCP pagmasdan|VBW .|PMP
+Larawan|NNC sila|PRP ng|CCB mabuting|JJD_CCP pamilya.Pagkatapos|NNC kumain|VBAF ,|PMC umuwi|VBAF na|RBI sila|PRP at|CCA nagpahinga|VBTS .|PMP
+Nag|NNP -|PMS aayos|FW na|CCP si|DTP Sara|NNP ng|CCB mga|DTCP gagamitin|VBTF kinabukasan|RBW sa|CCT eskuwelahan|NNC dahil|CCR Lunes|NNP na|CCP naman|RBI .|PMP
+Habang|RBW si|DTP Lisa|NNP ,|PMC ang|DTC ganda|NNC ng|CCB upo|NNC ,|PMC kumakain|VBTR_VBAF ng|CCB donut|NNC habang|RBW nanonood|VBTR ng|CCB TV.Malalim|NNC na|CCP ang|DTC gabi|NNC .|PMP
+Tahimik|JJD na|CCP ang|DTC mga|DTCP kabahayan|NNC .|PMP
+Pinatulog|VBTS na|RBI ni|DTP Mama|NNP Helen|NNP ang|DTC dalawa|CDB dahil|CCR may|VBH pasok|NNC kinabukasan.Nakatulog|JJD na|CCP si|DTP Sara|NNP ngunit|CCT nagising|VBTS siya|PRS dahil|CCR nagsasalita|VBTR ng|CCB kung|RBK ano|RBQ -|PMS ano|PRQ si|DTP Lisa|NNP .|PMP
+Tinitigan|VBOF niya|PRS ang|DTC kakambal|NNC dahil|CCR alam|VBS niyang|PRS_CCP mapagbiro|VBW ito|PRO sa|CCT kaniya.Pero|PRSP_CCP biglang|JJD_CCP bumangon|VBAF si|DTP Lisa|NNP na|CCP sunod|JJD -|PMS sunod|JJD ang|DTC paghinga.Niyakap|VBW niya|PRS si|DTP Sara|NNP habang|RBW umiiyak|VBTR_VBAF .|PMP
+Tinanong|VBTS ni|DTP Sara|NNP si|DTP Lisa|NNP kung|CCR may|VBH karamdaman|NNC o|CCT may|VBH masakit|JJD .|PMP
+Patuloy|JJD pa|RBI rin|RBI ang|DTC iyak|NNC ni|DTP Lisa|NNP na|CCP nagkukuwento|VBTR sa|CCT kakambal|NNC niya|PRS .|PMP "|PMS
+Sara|NNP ,|PMC nanaginip|VBTR ako|PRS .|PMP
+Nabuhay|VBTS '|PMS yong|PRO_CCP mga|DTCP lobo|NNC sa|CCT simbahan|NNC .|PMP
+Gusto|VBS nila|PRP akong|PRS_CCP kunin|VBOF upang|CCB dalhin|VBOF sa|CCT kanila|PRSP .|PMP
+Di|RBF na|RBI nila|PRP ako|PRS ibabalik|VBTF kina|DTPP Mama|NNP at|CCA Papa|NNP .|PMP
+Ililipad|VBOF na|CCP nila|PRP sana|VBS ako|PRS sa|CCT Asog|NNP dahil|CCR doon|PRL daw|RBI ang|DTC tirahan|NNC nila|PRP .|PMP
+Mabuti|JJD na|RBI lang|RBI at|CCA nagising|VBTS ako|PRS .|PMP
+Sara|NNP ,|PMC nakatatakot|JJD sobra|JJCS .|PMP
+Ayoko|NNP na|CCP nun|FW .|PMP "|PMS
+Kinalma|VBTS ni|DTP Sara|NNP ang|DTC isip|NNC ni|DTP Lisa|NNP .|PMP
+Pinagsabihan|VBRF siya|PRS na|CCP makinig|VBW dapat|VBS sa|CCT mas|JJCC nakatatanda|VBTR sa|CCT kaniya|PRSP .|PMP
+Na|CCP lagi|RBW dapat|VBS magdasal|VBW bago|RBW matulog|VBW upang|CCB di|RBF managinip|NNC ng|CCB kung|RBK ano|RBQ -|PMS ano|PRQ .|PMP
+Nakatulog|VBTS na|CCP si|DTP Lisa|NNP na|CCP yakap|NNC -|PMS yakap|NNC ang|DTC kakambal|NNC niya|PRS .|PMP

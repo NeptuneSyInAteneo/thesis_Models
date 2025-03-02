@@ -1,0 +1,19 @@
+Nagtatampo|VBTS ako|PRS kay|DTP nanay.Nagmumukha|RBD siyang|PRS_CCP ninja|VBTS sa|CCT pag|CCR -|PMS alis|NNC at|CCA pagbalik|NNC ng|CCB bahay.Lunes|FW ,|PMC hindi|RBF niya|PRS ako|PRS hinalikan|VBOF .|PMP
+Paglalampaso|NNP ng|CCB sahig|NNC ang|DTC kaniyang|PRSP_CCP ginagawa.Martes|FW ,|PMC hindi|RBF niya|PRS ako|PRS niyakap|VBOF .|PMP
+Bumili|VBTS_VBAF siya|PRS ng|CCB ulam|NNC sa|CCT tindahan.Miyerkules|FW ,|PMC pinagbawalan|VBRF niya|PRS akong|PRS_CCP mamasyal|VBW .|PMP
+Napabalita|VBTS sa|CCT radyo|NNC ang|DTC Covid|NNP virus.Huwebes|FW ,|PMC namili|VBTS siya|PRS ng|CCB alcohol|NNC .|PMP
+Facemask|NNP sa|CCT akin|PRSP ay|LM pinasuot.Biyernes|FW ,|PMC "|PMS Nanay|NNC ,|PMC wala|VBN ka|PRS nang|RBW panahon|NNC sa|CCT akin|PRSP .|PMP "|PMS "|PMS
+Ang|DTC lahat|PRI ng|CCB ito|PRO ay|LM para|CCT sa|CCT iyong|PRSP_CCP ikabubuti|VBTF .|PMP "|PMS "|PMS
+Maglinis|VBW at|CCA mag|VBW -|PMS alcohol|FW para|CCT mawala|VBW ang|DTC virus|FW .|PMP
+Masustansiyang|NNP_CCP pagkain|NNC para|CCT ikaw|PRS ay|LM lumusog|VBAF .|PMP "|PMS "|PMS
+E|NNP ,|PMC sa|CCT Sabado|NNP puwede|RBT ba|RBI tayong|PRP_CCP maglaro|VBAF ?|PMQ "|PMS "|PMS
+Madami|PRI pang|RBI_CCP gawain|NNC sa|CCT ospital|NNC ,|PMC Anak|NNC .|PMP "|PMS "|PMS
+Sa|CCT Linggo|NNP ,|PMC sabay|RBD tayong|PRP_CCP magdasal|VBW na|CCP puksain|VBOF nawa|VBTS ng|CCB Diyos|NNP ang|DTC virus|FW .|PMP "|PMS "|PMS
+Dito|PRL ka|PRS lang|RBI sa|CCT bahay|NNC .|PMP
+Kayo|NNP nina|DTPP Lolo|NNP at|CCA Lola|NNP ang|DTC magkakasama|VBTF .|PMP "|PMS "|PMS
+Hindi|RBF na|CCP ako|PRS nagtatampo|VBTR .|PMP
+Mahal|NNP pala|NNC ako|PRS ni|DTP Nanay|NNP .|PMP "|PMS
+Ano|PRQ kaya|CCR ang|DTC virus|FW ?|PMQ
+May|VBH ilang|PRQ_CCP araw|NNC kaya|CCR sa|CCT isang|PRI_CCP linggo|NNC ?|PMQ
+Tara|NNP !|PMS
+Basahin|NNP natin|PRP ang|DTC kuwento|NNC para|CCT ating|PRSP_CCP malaman|VBW .|PMP

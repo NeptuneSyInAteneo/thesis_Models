@@ -1,0 +1,29 @@
+Bumangon|VBAF si|DTP Neo|NNP ,|PMC ramdam|JJD ang|DTC kaniyang|PRSP_CCP gutom|NNC .|PMP
+Kailangan|VBS niyang|PRS_CCP maghanap|VBAF ng|CCB makakain|VBW .|PMP
+May|VBH mga|DTCP isdang|NNC_CCP lumalangoy|VBTR_VBAF sa|CCT paligid|NNC .|PMP
+Hindi|RBF pa|RBI nakakain|VBTR si|DTP Neo|NNP ng|CCB kasing|JJC laki|NNC ng|CCB isdang|NNC_CCP tulad|JJC nito.Papalapit|VBTR ang|DTC isang|PRI_CCP isda|NNC kay|DTP Neo|NNP .|PMP
+Mahuhuli|VBTF kaya|CCR niya|PRS ito?Hinuli|JJD ng|CCB kanyang|PRSP_CCP galamay|NNC ang|DTC isda.Aray|NNP !|PMS
+Natusok|VBTS ang|DTC isda.Mukhang|NNC_CCP nasaktan|VBTS talaga|RBT ang|DTC isda|NNC .|PMP
+Ito|PRO ang|DTC unang|JJN_CCP pagkakataon|NNC na|CCP malinaw|JJD niya|PRS itong|PRO_CCP nakita.Nalungkot|VBTS nang|RBW sobra|JJCS si|DTP Neo|NNP .|PMP
+Naisip|VBTS niyang|PRS_CCP mas|JJCC mabuting|JJD_CCP kumain|VBAF na|CCP lamang|RBI siya|PRS ng|CCB iba|PRI maliban|CCT sa|CCT isda.Iniwasan|NNC na|CCP ni|DTP Neo|NNP ang|DTC ibang|PRI_CCP mga|DTCP isda.Pero|PRF isang|PRI_CCP isda|NNC ang|DTC lumalapit|VBTR_VBAF sa|CCT kanya|PRSP nang|RBW husto.Isang|RBD_CCP maliit|JJD at|CCA maganda|JJD na|CCP may|VBH matingkad|JJD na|CCP mga|DTCP kulay|NNC .|PMP
+Ayaw|RBF ni|DTP Neo|NNP na|CCP ito|PRO '|PMS y|FW masaktan.Lumayo|JJD ka|PRS ,|PMC maliit|JJD na|CCP isda!Layo!Matutusok|NNP ka.Naku|NNP ,|PMC huwag|RBF !|PMQ
+Alis!Hay|NNP ,|PMC mabuti|JJD naman|RBI nawala|VBTS na|CCP ang|DTC maliit|JJD na|CCP isda|NNC .|PMP
+Sa|CCT wakas|RBW ,|PMC makapag|VBW -|PMS iisa|JJD na|CCP si|DTP Neo.Bulaga!Naku|NNP ,|PMC bumalik|VBAF ang|DTC maliit|JJD na|CCP isda|NNC !|PMS
+At|CCA ito|PRO '|PMS y|FW tumatawa.Ngayon|VBTR_VBAF mukhang|RBM takot|NNC na|CCP takot|NNC .|PMP
+May|VBH napakalaking|JJCS_JJD_CCP anino|NNC .|PMP
+Anong|PRQ_CCP mayron|FW doon?Isang|RBD_CCP malaking|JJD_CCP mandaragit|NNC !|PMS
+Lumangoy|VBAF nang|RBD mabilis|RBD ang|DTC maliit|JJD na|CCP isda|NNC patungo|RBL kay|DTP Neo.Ay|NNP naku|NNP !|PMS
+Natakpan|VBTS ng|CCB mga|DTCP galamay|NNC ni|DTP Neo|NNP ang|DTC isda.Hindi|RBF kayang|CCR_CCP makita|VBW ito|PRO ni|DTP Neo|NNP .|PMP
+Siguradong|RBT_CCP natusok|VBTS at|CCA nalason|VBTS na|RBI ni|DTP Neo|NNP ang|DTC isda.Sandali|NNP !|PMS
+May|VBH gumagalaw|VBTR_VBAF sa|CCT pagitan|NNC ng|CCB mga|DTCP galamay|NNC ni|DTP Neo.Wow|NNP ,|PMC ang|DTC maliit|JJD na|CCP isda|NNC !|PMS
+Nasaktan|VBTS kaya|CCR siya?Tingnan|VBOF ang|DTC kanyang|PRSP_CCP mukha|NNC .|PMP
+Mukha|NNP naman|RBI siyang|PRS_CCP ayos|NNC na|CCP ayos.Sandali|FW ,|PMC ano|PRQ ang|DTC kanyang|PRSP_CCP ginagawa?O|VBTR ,|PMC kinakain|VBTR ng|CCB isda|NNC ang|DTC lumot|NNC sa|CCT katawan|NNC ni|DTP Neo.Paanong|NNC_CCP hindi|RBF siya|PRS nasaktan?Kitang|VBTS_CCP -|PMS kita|NNC na|CCP hindi|RBF nalason|VBTS ng|CCB kamandag|NNC ang|DTC isda|NNC .|PMP
+Ang|DTC galing|RBL !|PMQ
+Makakapaglaro|VBTF na|CCP silang|PRP_CCP magkasama.Let|VBW 's|NNCA Learn|NNP About|NNP :|PMS Mutualism|NNP Symbiosis|NNP Neo|NNP ,|PMC in|NNP this|FW story|FW ,|PMC is|FW a|FW sea|FW anemone|FW .|PMP
+The|NNP small|FW bright|FW colored|FW fish|FW which|FW approaches|FW Neo|FW is|FW a|FW clown|FW fish|FW .|PMP
+These|NNP two|FW sea|FW creatures|FW have|FW a|FW special|FW relationship|FW with|FW one|FW another|FW .|PMP
+Sea|NNP anemones|FW have|FW poisonous|FW tentacles|FW that|FW clown|FW fishes|FW are|DTC immune|FW to|FW because|FW of|FW a|FW certain|FW slime|FW on|FW their|FW body|FW .|PMP
+Because|NNP the|FW sea|FW anemone|FW 's|FW tentacles|FW deter|FW predators|FW fromapproaching|FW ,|PMC clown|FW fishes|FW often|FW hide|FW there|FW to|FW stay|FW protected|FW .|PMP
+Meanwhile|NNP ,|PMC clown|FW fishes|FW help|FW sea|FW anemones|FW by|FW eating|FW the|FW parasitic|FW algae|FW that|FW grow|FW on|FW their|FW bodies|FW .|PMP
+This|NNP relationship|FW is|FW called|FW mutualism|FW symbiosis|FW because|FW of|FW the|FW mutual|FW benefits|FW on|FW both|FW sides|FW .|PMP
+Thisbookdevelopmentprojectfocusesonscience|NNP ,|PMC t|NNCA
