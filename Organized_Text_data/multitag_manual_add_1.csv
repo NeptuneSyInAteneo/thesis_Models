@@ -1,0 +1,251 @@
+tokens,just_category,manual_tag,,match_type
+kagat|NNC,"['gerund', 'no_tag']",gerund,,Match
+tilapya|NNC,"['animal', 'food']",food,,Match
+ani|NNC,"['object', 'no_tag']",object,,Match
+pagkabahala|NNC,"['no_tag', 'gerund']",emotion,,Mismatch
+dilim|NNC,"['location', 'MISC']","location,MISC",*most MISC nouns can be concrete nouns as well,Mismatch
+iyak|NNC,"['no_tag', 'gerund']",gerund,,Match
+hawak|NNC,"['object', 'no_tag']",MISC,,Mismatch
+duyan|NNC,"['object', 'location']","gerund,object,location",,Mismatch
+kwento|NNC,"['no_tag', ' MISC']",MISC,,Match
+paalala|NNC,"['no_tag', 'MISC']",MISC,,Match
+takbo|NNC,"['gerund', 'MISC']",gerund,,Match
+kalayuan|NNC,"['MISC', 'no_tag']",measurement,,Mismatch
+pala|NNC,"['object', 'no_tag']",no_tag,,Match
+disenyo|NNC,"['MISC', 'person']",MISC,,Match
+kanta|NNC,"['no_tag', 'gerund']","gerund,MISC",,Mismatch
+takot|NNC,"['emotion', 'no_tag']",emotion,,Match
+sagot|NNC,"['no_tag', 'gerund']","gerund,MISC",,Mismatch
+hamon|NNC,"['not_tag', 'gerund']","gerund,MISC",,Mismatch
+saya|NNC,"['no_tag', 'emotion']",emotion,,Match
+paghila|NNC,"['no_tag', 'gerund']",gerund,,Match
+hapunan|NNC,"['food', 'event']",food,,Match
+uwi|NNC,"['no_tag', 'gerund']",gerund,,Match
+sambit|NNC,"['gerund', 'MISC']",MISC,,Match
+paalam|NNC,"['no_tag', 'gerund']",gerund,,Match
+batuan|NNC,"['no_tag', 'food']",food ,*weirdly used as person sometimes,Mismatch
+parte|NNC,"['object', 'location']","location,MISC",,Mismatch
+taas|NNC,"['location', 'MISC', 'no_tag']",location,,Match
+papag|NNC,"['object', 'location']","object,location",,Mismatch
+tawag|NNC,"['gerund', 'no_tag']","gerund,MISC",,Mismatch
+klase|NNC,"['event', 'MISC']","event,location",,Mismatch
+meryenda|NNC,"['food', 'event']","food,event",,Mismatch
+pakinabang|NNC,"['MISC', 'no_tag']",MISC,,Match
+kabiyak|NNC,"['animal', 'object', 'person']",person,*doesn't show in in misc_examples,Match
+pamumuno|NNC,"['organization', 'event']",MISC,*same here,Mismatch
+magsasaka|NNC,"['object', 'person']",person,,Match
+buhay|NNC,"['object', 'event']",MISC,,Mismatch
+lungsod|NNC,"['location', 'object']",location,,Match
+loob|NNC,"['location', 'object']","location,MISC",,Mismatch
+tabi|NNC,"['location', 'object']",location,,Match
+Araw|NNP,"['object', 'person']","event,MISC",,Mismatch
+Timog|NNP,"['location', 'object', 'person', 'animal']",location,,Match
+magulang|NNC,"['person', 'object']",person,,Match
+suklay|NNC,"['event', 'object']",object,,Match
+utos|NNC,"['event', 'organization', 'person']",MISC,,Mismatch
+panaderya|NNC,"['location', 'object']","location,object",,Mismatch
+WAKAS|NNPA,"['location', 'object']","location,object",,Mismatch
+lupang|NNC_CCP,"['location', 'object']","location,object",,Mismatch
+pamilihan|NNC,"['event', 'organization']","event,organization",,Mismatch
+Reyna|NNP,"['animal', 'object', 'person']",person,,Match
+anak|NNC,"['person', 'object']",person,,Match
+panulat|NNC,"['animal', 'object']",object,,Match
+Tabi|NNP,"['location', 'object']",location,*Already tagged in tabi|NNC,Match
+hilig|NNC,"['organization', 'location', 'object']",MISC,,Mismatch
+ahas|NNC,"['animal', 'object', 'person']",animal,,Match
+upuan|NNC,"['location', 'object']","location,object",,Mismatch
+Anak|NNP,"['person', 'object']",person,*Also tagged in anak|NNC,Match
+plasa|NNC,"['object', 'location']",location,,Match
+pintor|NNC,"['person', 'object']",person,,Match
+tagaplano|NNC,"['object', 'person']",person,,Match
+manunulat|NNC,"['person', 'object']",person,,Match
+pelikula|NNC,"['event', 'object']","event, object, MISC",,Mismatch
+boluntaryo|NNC,"['object', 'person']",person,,Match
+epekto|NNC,"['consequence', 'object']","consequence, MISC",,Mismatch
+taniman|NNC,"['object', 'location']","location, object",,Mismatch
+bata|NNC,"['person', 'object']",person,,Match
+larong|NNC_CCP,"['event', 'object']","event, object",,Mismatch
+taong|NNC,"['object', 'person']",person,,Match
+araw|NNC,"['object', 'person']","event, MISC",*tagged in Araw|NNP,Mismatch
+pinuno|NNC,"['person', 'organization', 'object']",person,"*could be organization, but often won't be",Match
+palatandaan|NNC,"['event', 'location', 'object']","object, location, MISC",,Mismatch
+Ibong|NNP,"['animal', 'person', 'object']",animal,,Match
+paghahanda|NNC,"['event', 'organization']",gerund,,Mismatch
+Studio|NNP,"['location', 'object']","location, object",,Mismatch
+American|NNP,"['object', 'person']",person,,Match
+kabataan|NNC,"['object', 'person']",person,,Match
+Aso|NNP,"['animal', 'object', 'person']",animal,,Match
+lokasyon|NNC,"['location', 'object']",location,,Match
+estranghero|NNC,"['person', 'object']",person,,Match
+Bato|NNC,"['object', 'animal']",object,,Match
+bloke|NNC,"['organization', 'location', 'object']","location, object",,Mismatch
+batang|NNC_CCP,"['person', 'object', 'animal']",person,*tagged in bata|NNC,Match
+istasyon|NNC,"['object', 'location', 'event']",location,,Match
+kahon|NNC,"['object', 'person']",object,,Match
+taguan|NNC,"['object', 'location']",location,,Match
+gamot|NNC,"['object', 'animal']",object,,Match
+Romeo|NNP,"['object', 'person']",no_tag,*proper noun,Mismatch
+damo|NNC,"['animal', 'object']","location, object",,Mismatch
+hayop|NNC,"['person', 'animal', 'object']",animal, ,Match
+pasyente|NNC,"['person', 'object']",person,"*could be animal, but often not",Match
+bida|NNC,"['event', 'object', 'person']",person,,Match
+taong|NNC_CCP,"['object', 'person']",person,*tagged in taong|NNC,Match
+isip|NNC,"['animal', 'object']",MISC,,Mismatch
+mananayaw|NNC,"['person', 'object']",person,,Match
+aral|NNC,"['object', 'person']",MISC,,Mismatch
+Nars|NNP,"['person', 'object']",person,,Match
+oso|NNC,"['animal', 'person']",animal,,Match
+kasal|NNC,"['person', 'event']",event,,Match
+apoy|NNC,"['event', 'object']","event, object",,Mismatch
+Pinuno|NNP,"['person', 'organization', 'object']","person, organization",*tagge in pinuno|NNC,Mismatch
+kaibigan|NNC,"['object', 'person']",person,,Match
+anggulo|NNC,"['location', 'object', 'person']",object,"*could be abtract, but often not",Match
+Silangang|NNP_CCP,"['person', 'location']",location,,Match
+bayan|NNC,"['location', 'object', 'organization', 'person']","location, object, organization",,Mismatch
+tuktok|NNC,"['object', 'location']",location,,Match
+bantay|NNC,"['person', 'object', 'organization']",person,"*can be guard dog, but often not",Match
+kalaban|NNC,"['object', 'person', 'organization']",person,,Match
+bakal|NNC,"['object', 'organization']",object,,Match
+bituin|NNC,"['object', 'person']",object,,Match
+lumot|NNC,"['object', 'person']",object,,Match
+Bayan|NNP,"['location', 'object', 'organization', 'person']","
+location, object, organization
+",,Mismatch
+parke|NNC,"['location', 'object']","location, object",,Mismatch
+isla|NNC,"['object', 'location']","location, object",,Mismatch
+laban|NNC,"['object', 'event']",event,,Match
+alagang|NNC_CCP,"['object', 'animal']",animal,,Match
+babae|NNC,"['object', 'person', 'animal']",person,*can be animal,Match
+Lugar|NNP,"['location', 'object', 'event']",location,"*honestly all location can be object if you put ""Ang"" before it",Match
+alagad|NNC,"['object', 'person']",person,,Match
+lalaking|NNC_CCP,"['animal', 'person', 'object']",person,,Match
+hardin|NNC,"['location', 'object']","location, object",,Mismatch
+ninuno|NNC,"['object', 'person']",person,,Match
+tabla|NNC,"['object', 'organization']","object, event",,Mismatch
+Australian|NNP,"['object', 'person']",person,*proper noun,Match
+hangganan|NNC,"['location', 'object']","location, MISC",,Mismatch
+Muslim|NNP,"['object', 'person']",person,*proper noun,Match
+ingat|NNC,"['person', 'object']",no_tag,adjective,Mismatch
+pasahero|NNC,"['object', 'person', 'animal']",person,,Match
+Kompyuter|NNP,"['object', 'event']",object,,Match
+Ama|NNC,"['object', 'person']",person,,Match
+pamayanan|NNC,"['location', 'organization']","location, organization",,Mismatch
+School|NNP,"['organization', 'object']","location, organization",,Mismatch
+alaga|NNC,"['person', 'object']","person, animal",,Mismatch
+ibon|NNC,"['animal', 'object', 'person']",animal,,Match
+pinsan|NNC,"['object', 'person']",person,,Match
+plaza|NNC,"['location', 'object']","location, object",,Mismatch
+Isla|NNP,"['object', 'location']","location, object",*most |NNP has a tagged |NNC counterpart,Mismatch
+Pusa|NNP,"['animal', 'object']",animal,,Match
+Bloke|NNP,"['organization', 'location', 'object']","location, object",,Mismatch
+uri|NNC,"['object', 'person']",MISC,,Mismatch
+bag|NNC,"['object', 'person']",object,,Match
+paaralan|NNC,"['organization', 'object']","location, organization",,Mismatch
+Aso|NNC,"['animal', 'object', 'person']",animal,,Match
+sulok|NNC,"['event', 'location', 'object']",location,"*can be object, but often not",Match
+manggagawa|NNC,"['person', 'object', 'animal']",person,,Match
+residente|NNC,"['object', 'person']",person,,Match
+Center|NNP,"['location', 'object', 'organization']","location, organization",,Mismatch
+NG|NNPA,"['object', 'person']",no_tag,*determiner,Mismatch
+patong|NNC,"['location', 'object']",gerund,,Mismatch
+lalaki|NNC,"['object', 'person', 'animal']",person,,Match
+Ng|NNP,"['object', 'person']",no_tag,,Mismatch
+bintana|NNC,"['object', 'aim']","location, object",,Mismatch
+oras|NNC,"['location', 'object']",MISC,,Mismatch
+depensa|NNC,"['event', 'organization']","MISC, event",,Mismatch
+bahay|NNC,"['organization', 'location', 'object', 'administration', 'event']","location, object",,Mismatch
+butas|NNC,"['event', 'location', 'object']","location, object",,Mismatch
+ANG|NNPA,"['event', 'animal', 'person']",no_tag,determiner,Mismatch
+gawa|NNC,"['object', 'event']",MISC,,Mismatch
+tirahan|NNC,"['object', 'location']","location, object",,Mismatch
+bakod|NNC,"['object', 'person']","location, object",,Mismatch
+Indian|NNP,"['object', 'person']",person,*proper noun,Match
+aaral|NNC,"['event', 'person', 'object']","gerund, MISC",,Mismatch
+labas|NNC,"['object', 'location']","location, object",,Mismatch
+palaka|NNC,"['animal', 'object', 'person']",animal,,Match
+dagat|NNC,"['animal', 'object']",location,,Mismatch
+Oras|NNP,"['location', 'object']",MISC,,Mismatch
+Uod|NNC,"['animal', 'object', 'person']",animal,,Match
+Palaka|NNC,"['animal', 'object', 'person']",animal,,Match
+INHINYERO|NNC,"['object', 'person']",person,,Match
+orbita|NNC,"['location', 'object']",MISC,"*object if referreing to eye, unlikely though",Mismatch
+digmaan|NNC,"['event', 'organization']",event,,Match
+tigre|NNC,"['person', 'animal', 'object']",animal,,Match
+abala|NNC,"['object', 'organization', 'person', 'event']",no_tag,verb,Mismatch
+kapitbahay|NNC,"['object', 'person']",person,,Match
+ruta|NNC,"['location', 'object', 'event']",location,,Match
+daga|NNC,"['animal', 'object', 'person']",animal,,Match
+tanawin|NNC,"['location', 'object']",location,,Match
+liham|NNC,"['object', 'person']",object,,Match
+aso|NNC,"['animal', 'object', 'person']",animal,,Match
+pusa|NNC,"['animal', 'object']",animal,,Match
+baybayin|NNC,"['object', 'location']",location,,Match
+nars|NNC,"['person', 'object']",person,,Match
+Larawan|NNC,"['object', 'event']",MISC,MISC,Mismatch
+tagagawa|NNC,"['person', 'object', 'organization']",person,,Match
+suporta|NNC,"['event', 'object']",gerund,,Mismatch
+talunan|NNC,"['object', 'person']",MISC,probably adjective but it's a noun,Mismatch
+Ang|NNP,"['event', 'animal', 'person']",no_tag,not an entity,Mismatch
+paglalakad|NNC,"['event', 'object']","gerund,no_tag",verb,Mismatch
+ama|NNC,"['object', 'person']",person,,Match
+posisyon|NNC,"['location', 'object']",location,,Match
+kama|NNC,"['object', 'organization']",object,,Match
+babaeng|NNC_CCP,"['person', 'object']",person,,Match
+pulutong|NNC,"['organization', 'event']",organization,,Match
+bato|NNC,"['object', 'animal']","object,no_tag",verb in one use case,Mismatch
+tauhan|NNC,"['organization', 'object']",person,,Mismatch
+pangkat|NNC,"['organization', 'event']",organization,,Match
+Hindu|NNP,"['object', 'person']",person,,Match
+palaruan|NNC,"['object', 'location']",location,,Match
+daanan|NNC,"['object', 'event']","location,no_tag",verb in one case,Mismatch
+panig|NNC,"['location', 'object', 'organization']",organization,,Match
+larawan|NNC,"['object', 'event']",object,,Match
+reyna|NNC,"['animal', 'object', 'person']",person,,Match
+Palatandaan|NNC,"['event', 'location', 'object']",MISC,,Mismatch
+kapatid|NNC,"['person', 'object']",person,,Match
+Rehiyon|NNP,"['location', 'object']",location,,Match
+kabayanan|NNC,"['location', 'object']",location,,Match
+daan|NNC,"['object', 'location']","location,MISC",,Mismatch
+tagapangasiwa|NNC,"['person', 'object']",person,,Match
+dulo|NNC,"['location', 'object']","location,object",,Mismatch
+militar|NNC,"['organization', 'event', 'object']",organization,,Match
+okasyon|NNC,"['event', 'aim']",event,,Match
+bakuran|NNC,"['location', 'object']",location,,Match
+Palaka|NNP,"['animal', 'object', 'person']",animal,,Match
+sunog|NNC,"['event', 'person']","event,no_tag",,Mismatch
+tungkod|NNC,"['animal', 'object']",object,,Match
+bisita|NNC,"['person', 'object']",person,,Match
+paggawa|NNC,"['event', 'object']",gerund,,Mismatch
+lupa|NNC,"['object', 'animal']","object,location",,Mismatch
+lalawigan|NNC,"['location', 'object']",location,,Match
+inhinyero|NNC,"['object', 'person']",person,,Match
+arkitekto|NNC,"['object', 'person']",person,,Match
+tao|NNC,"['event', 'person', 'object']",person,,Match
+sanggol|NNC,"['person', 'animal']",person,,Match
+pelikulang|NNC_CCP,"['object', 'event']",event,,Match
+Bantay|NNP,"['person', 'object', 'organization']",no_tag,named entity,Mismatch
+papel|NNC,"['event', 'object']","MISC,object",,Mismatch
+May|NNP,"['animal', 'object', 'person']",no_tag,not an entity,Mismatch
+gamit|NNC,"['object', 'event']",object,,Match
+tahanan|NNC,"['location', 'object']","location,object",,Mismatch
+bukirin|NNC,"['location', 'object']",location,,Match
+halaman|NNC,"['object', 'person']",object,,Match
+nilalang|NNC,"['person', 'object']",person,,Match
+Hunyango|NNP,"['person', 'object']",person,,Match
+barangay|NNC,"['animal', 'object']",location,,Mismatch
+kahoy|NNC,"['animal', 'object']",object,,Match
+bahagi|NNC,"['location', 'object']","location,object,MISC",,Mismatch
+satelayt|NNC,"['object', 'person']",object,,Match
+pastulan|NNC,"['location', 'object']",location,,Match
+bukid|NNC,"['location', 'object']",location,,Match
+ari|NNC,"['animal', 'person', 'object']",person,,Match
+gilid|NNC,"['object', 'location']",location,,Match
+Bukid|NNP,"['location', 'object']",location,,Match
+katulong|NNC,"['object', 'person']",person,,Match
+lugar|NNC,"['location', 'object', 'event']",location,,Match
+siyentipiko|NNC,"['person', 'object']",person,,Match
+kausap|NNC,"['object', 'person']",person,,Match
+ulo|NNC,"['object', 'person', 'animal']",body part,,Mismatch
+kabayo|NNC,"['animal', 'object']",animal,,Match
+Anak|NNC,"['person', 'object']",person,,Match
+uod|NNC,"['animal', 'object', 'person']",animal,,Match
