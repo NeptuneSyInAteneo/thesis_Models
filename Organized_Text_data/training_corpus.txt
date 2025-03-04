@@ -912,7 +912,7 @@ Bumalik|VBAF	no_tag
 si|DTP	no_tag
 Donna|NNP	no_tag
 sa|CCT	no_tag
-plaza|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+plaza|NNC	location
 kung|RBK	no_tag
 saan|RBQ	no_tag
 madalas|RBD	no_tag
@@ -1024,13 +1024,13 @@ ang|DTC	no_tag
 pagitan|NNC	location
 ng|CCB	no_tag
 aming|PRSP_CCP	no_tag
-tahanan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tahanan|NNC	location
 sa|CCT	no_tag
 kaniyang|PRSP_CCP	no_tag
 bakuran|NNC	location
 .|PMP	no_tag
 
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 –|CDB	no_tag
 araw|NNC	event
 na|CCP	no_tag
@@ -1067,7 +1067,7 @@ sa|CCT	no_tag
 pamimili|NNC	no_tag
 sa|CCT	no_tag
 aming|PRSP_CCP	no_tag
-Bayan|NNP	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+Bayan|NNP	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -1113,7 +1113,7 @@ si|DTP	no_tag
 Aling|PRQ_CCP	no_tag
 Sitang|NNC	no_tag
 sa|CCT	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 "|PMS	no_tag
 Buksan|VBOF	no_tag
 ninyo|PRP	no_tag
@@ -1453,7 +1453,7 @@ puno|NNC	object
 ng|CCB	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -1463,7 +1463,7 @@ ano|PRQ	no_tag
 po|RBS	no_tag
 ang|DTC	no_tag
 inyong|PRSP_CCP	no_tag
-hawak|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+hawak|NNC	object
 ?|PMQ	no_tag
 
 "|PMS	no_tag
@@ -1481,7 +1481,7 @@ anak|NNC	person
 
 ito|PRO	no_tag
 ay|LM	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 na|CCP	no_tag
 mula|RBL	no_tag
 sa|CCT	no_tag
@@ -1795,7 +1795,7 @@ na|CCP	no_tag
 modelo|NNC	person
 ng|CCB	no_tag
 masustansiyang|JJD_CCP	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 sa|CCT	no_tag
 aming|PRSP_CCP	no_tag
 lalawigan|NNC	location
@@ -1936,7 +1936,7 @@ lavae|NNC	misc
 sa|CCT	no_tag
 ilalim|JJD	no_tag
 ng|CCB	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 .|PMP	no_tag
 
 Languar|NNP	misc
@@ -1998,7 +1998,7 @@ O|NNPA	no_tag
 ,|PMC	no_tag
 kayo|PRP	no_tag
 lang|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -2733,7 +2733,7 @@ hapon|RBW	no_tag
 Ngunit|CCT	no_tag
 nagbago|VBTS	no_tag
 ang|DTC	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 nila|PRP	no_tag
 nang|RBW	no_tag
 niligtas|VBTS	no_tag
@@ -2769,7 +2769,7 @@ Napakaliwanag|VBTS	no_tag
 nito|PRO	no_tag
 na|CCP	no_tag
 parang|CCT	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	misc
 sa|CCT	no_tag
 umaga|RBW	no_tag
 .|PMP	no_tag
@@ -2790,7 +2790,7 @@ Namangha|VBTS	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
 taong|NNC_CCP	person
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	organization
 ng|CCB	no_tag
 Kamaligan|NNP	no_tag
 .|PMP	no_tag
@@ -2866,7 +2866,7 @@ Kinabukasan|RBW	no_tag
 hindi|RBF	no_tag
 lumitaw|VBAF	no_tag
 ang|DTC	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	misc
 .|PMP	no_tag
 
 Lumipas|VBAF	no_tag
@@ -2899,7 +2899,7 @@ hindi|RBF	no_tag
 muling|RBW_CCP	no_tag
 nagpakita|VBTS	no_tag
 ang|DTC	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	misc
 .|PMP	no_tag
 
 Pagkatapos|VBW	no_tag
@@ -3049,7 +3049,7 @@ at|CCA	no_tag
 imbitahang|RBD_CCP	no_tag
 bumalik|VBAF	no_tag
 ang|DTC	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	misc
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -3143,7 +3143,7 @@ niya|PRS	no_tag
 
 Napuno|VBTS	no_tag
 ng|CCB	no_tag
-dilim|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+dilim|NNC	misc
 ang|DTC	no_tag
 buong|PRI_CCP	no_tag
 nayon|NNC	location
@@ -3164,7 +3164,7 @@ inanyayahan|VBTS	no_tag
 ni|DTP	no_tag
 Kurakog|NNP	no_tag
 ang|DTC	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	misc
 pabalik|RBD	no_tag
 .|PMP	no_tag
 
@@ -3247,7 +3247,7 @@ Masaya|NNP	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
 taong|NNC_CCP	person
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	organization
 ng|CCB	no_tag
 Kamaligan|NNP	no_tag
 .|PMP	no_tag
@@ -3323,7 +3323,7 @@ na|CCP	no_tag
 dating|JJD_CCP	no_tag
 kinakatakutan|VBTR	no_tag
 sa|CCT	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 ng|CCB	no_tag
 mga|DTCP	no_tag
 matatanda|NNC	person
@@ -3335,7 +3335,7 @@ ngayon|RBW	no_tag
 ng|CCB	no_tag
 mga|DTCP	no_tag
 taong|NNC_CCP	person
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	organization
 ng|CCB	no_tag
 Kamaligan|NNP	no_tag
 —|CDB	no_tag
@@ -3382,7 +3382,7 @@ ito|PRO	no_tag
 ay|LM	no_tag
 binuo|VBTS	no_tag
 bilang|CCT	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	misc
 ng|CCB	no_tag
 ABC|NNPA	no_tag
 +|PMS	no_tag
@@ -3445,7 +3445,7 @@ pag|CCR	no_tag
 -|PMS	no_tag
 edit|NNC	no_tag
 at|CCA	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	misc
 ng|CCB	no_tag
 aklat|NNC	object
 na|CCP	no_tag
@@ -3535,7 +3535,7 @@ mga|DTCP	no_tag
 isda|NNC	animal
 sa|CCT	no_tag
 mga|DTCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -3718,7 +3718,7 @@ na|CCP	no_tag
 may|VBH	no_tag
 laman|NNC	object
 ang|DTC	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 na|CCP	no_tag
 hinuhukay|VBTS	no_tag
 nila|PRP	no_tag
@@ -3807,7 +3807,7 @@ may|VBH	no_tag
 hinuhukay|VBTS	no_tag
 sila|PRP	no_tag
 na|CCP	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 ,|PMC	no_tag
 "|PMS	no_tag
 sabi|VBS	no_tag
@@ -3832,10 +3832,10 @@ hindi|RBF	no_tag
 ito|PRO	no_tag
 lalagyan|VBTF	no_tag
 ng|CCB	no_tag
-bakod|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bakod|NNC	object
 ,|PMC	no_tag
 "|PMS	no_tag
-pagkabahala|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+pagkabahala|NNC	no_tag
 na|CCP	no_tag
 sabi|VBS	no_tag
 ni|DTP	no_tag
@@ -3849,7 +3849,7 @@ ang|DTC	no_tag
 buong|PRI_CCP	no_tag
 paligid|NNC	location
 ng|CCB	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 .|PMP	no_tag
 
 Tinuro|VBTS	no_tag
@@ -3864,7 +3864,7 @@ itlog|NNC	object
 na|CCP	no_tag
 parang|CCT	no_tag
 mga|DTCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 -|PMS	no_tag
 bantiling|FW	no_tag
 na|CCP	no_tag
@@ -3893,7 +3893,7 @@ Pia|NNP	no_tag
 habang|RBW	no_tag
 tinatanaw|VBTR	no_tag
 ang|DTC	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 na|CCP	no_tag
 hanggang|RBW	no_tag
 baywang|NNC	body part
@@ -3977,7 +3977,7 @@ malalim|JJD	no_tag
 ang|DTC	no_tag
 kanilang|PRSP_CCP	no_tag
 ginagawang|VBTR_CCP	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 ,|PMC	no_tag
 "|PMS	no_tag
 paliwanag|NNC	misc
@@ -4019,7 +4019,7 @@ itlog|NNC	object
 
 "|PMS	no_tag
 Isang|PRI_CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	misc
 !|PMS	no_tag
 
 Minsan|RBW	no_tag
@@ -4039,7 +4039,7 @@ lima|CDB	no_tag
 hanggang|RBW	no_tag
 pitong|JJN_CCP	no_tag
 mga|DTCP	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 .|PMP	no_tag
 
 Ilang|PRQ_CCP	no_tag
@@ -4107,7 +4107,7 @@ pawikan|NNC	animal
 at|CCA	no_tag
 lalabas|VBTF	no_tag
 sa|CCT	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 papunta|VBW	no_tag
 sa|CCT	no_tag
 dagat|NNC	location
@@ -4368,7 +4368,7 @@ kung|RBK	no_tag
 lalabas|VBTF	no_tag
 na|RBI	no_tag
 sa|CCT	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 ang|DTC	no_tag
 mga|DTCP	no_tag
 anak|NNC	person
@@ -4792,7 +4792,7 @@ manok|NNC	animal
 Gumapang|NNP_CCP	no_tag
 mula|RBW	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 ,|PMC	no_tag
 sinabi|VBTS	no_tag
 ni|DTP	no_tag
@@ -4806,7 +4806,7 @@ sa|CCT	no_tag
 pagtakip|NNC	misc
 sa|CCT	no_tag
 anumang|PRI_CCP	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -4896,7 +4896,7 @@ ang|DTC	no_tag
 mga|DTCP	no_tag
 pintuang|NNC_CCP	misc
 -|PMS	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	misc
 ay|LM	no_tag
 hinahampas|VBTR_VBOF	no_tag
 ng|CCB	no_tag
@@ -5063,7 +5063,7 @@ at|CCA	no_tag
 inawit|VBOF	no_tag
 ang|DTC	no_tag
 tamang|JJD_CCP	no_tag
-kanta|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kanta|NNC	gerund
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -5117,7 +5117,7 @@ na|CCP	no_tag
 ginamit|VBOF	no_tag
 ng|CCB	no_tag
 mga|DTCP	no_tag
-pamayanan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+pamayanan|NNC	location
 ng|CCB	no_tag
 Tharu|NNP	misc
 upang|CCB	no_tag
@@ -5568,7 +5568,7 @@ galaw|NNC	gerund
 Ng|NNP	no_tag
 anino|NNC	misc
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 Samantalang|CCT_CCP	no_tag
@@ -5658,7 +5658,7 @@ ilang|PRQ_CCP	no_tag
 saglit|RBW	no_tag
 ,|PMC	no_tag
 ang|DTC	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 ay|LM	no_tag
 umalog|VBAF	no_tag
 at|CCA	no_tag
@@ -5680,7 +5680,7 @@ ang|DTC	no_tag
 malaking|JJD_CCP	no_tag
 bitak|NNC	object
 ng|CCB	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 Lalo|JJCC	no_tag
@@ -5832,7 +5832,7 @@ kamay|NNC	event
 Tayo|PRS	no_tag
 ay|LM	no_tag
 nasa|RBL	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 isang|PRI_CCP	no_tag
 malaking|JJD_CCP	no_tag
@@ -6048,10 +6048,10 @@ sa|CCT	no_tag
 unang|JJN_CCP	no_tag
 pagkakataon|NNC	misc
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	misc
 ng|CCB	no_tag
 isang|PRI_CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	misc
 at|CCA	no_tag
 limampu|JJN	no_tag
 '|PMS	no_tag
@@ -6080,7 +6080,7 @@ ang|DTC	no_tag
 nag|RBD_CCP	no_tag
 patigil|VBW	no_tag
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 Malaking|JJD_CCP	no_tag
 Ben|NNP	object
@@ -6189,7 +6189,7 @@ dito|PRL	no_tag
 na|CCP	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -6211,7 +6211,7 @@ at|CCA	no_tag
 ang|DTC	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 ...|PMS	no_tag
 .|PMP	no_tag
 
@@ -6230,7 +6230,7 @@ bote|NNC	object
 sa|CCT	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 na|CCP	no_tag
 nasa|RBL	no_tag
 mesa|NNC	object
@@ -6252,7 +6252,7 @@ bagay|NNC	object
 sa|CCT	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 na|CCP	no_tag
 ito?Didikit|VBTR	no_tag
 kaya|CCR	no_tag
@@ -6317,7 +6317,7 @@ idikit|VBOF	no_tag
 ang|DTC	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 sa|CCT	no_tag
 metal|NNC	misc
 na|CCP	no_tag
@@ -6355,7 +6355,7 @@ dumikit|VBAF	no_tag
 
 malungkot|JJD	no_tag
 na|CCP	no_tag
-sambit|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+sambit|NNC	no_tag
 ni|DTP	no_tag
 AnaBiglang|NNP	misc
 nabahing|VBTS	no_tag
@@ -6474,9 +6474,9 @@ Ana|NNP	no_tag
 ang|DTC	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 sa|CCT	no_tag
-dulo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+dulo|NNC	location
 ng|CCB	no_tag
 ruler|FW	no_tag
 .|PMP	no_tag
@@ -6492,7 +6492,7 @@ hinawakan|VBOF	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
 kabilang|JJD_CCP	no_tag
-dulo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+dulo|NNC	location
 sa|CCT	no_tag
 kanyang|PRSP_CCP	no_tag
 isang|PRI_CCP	no_tag
@@ -6543,7 +6543,7 @@ panulat|NNC	object
 ,|PMC	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 ,|PMC	no_tag
 aklat|NNC	object
 ,|PMC	no_tag
@@ -6610,12 +6610,12 @@ ng|CCB	no_tag
 Mahiwagang|NNP_CCP	misc
 Itim|NNP	animal
 na|CCP	no_tag
-Bloke|NNP	['location', 'object'] #NEEDS MANUAL INTERVENTION
+Bloke|NNP	object
 Ang|DTC	no_tag
 mahiwagang|JJD_CCP	no_tag
 itim|JJD	no_tag
 na|CCP	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 sa|CCT	no_tag
 kuwento|NNC	misc
 ay|LM	no_tag
@@ -6897,7 +6897,7 @@ pasalubong|NNC	misc
 .|PMP	no_tag
 
 Sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 kahon|NNC	object
 ,|PMC	no_tag
@@ -7093,7 +7093,7 @@ laruang|JJD_CCP	no_tag
 sasakyan|NNC	object
 na|CCP	no_tag
 hindi|RBF	no_tag
-kalayuan|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kalayuan|NNC	no_tag
 sa|CCT	no_tag
 dalawang|JJN_CCP	no_tag
 pirasong|NNC_CCP	misc
@@ -7216,7 +7216,7 @@ mga|DTCP	no_tag
 bagay|NNC	object
 mula|RBL	no_tag
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 bahay|NNC	location
 .|PMP	no_tag
@@ -7869,7 +7869,7 @@ akin|PRSP	no_tag
 .|PMP	no_tag
 
 Sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 ,|PMC	no_tag
 lagi|RBW	no_tag
 kaming|PRP_CCP	no_tag
@@ -7935,7 +7935,7 @@ ang|DTC	no_tag
 dumating|VBAF	no_tag
 sa|CCT	no_tag
 aming|PRSP_CCP	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 .|PMP	no_tag
 
 Mukha|RBD	no_tag
@@ -7946,7 +7946,7 @@ mahigpit|JJD	no_tag
 Umikot|VBAF	no_tag
 siya|PRS	no_tag
 sa|CCT	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 habang|RBW	no_tag
 tinapik|VBOF	no_tag
 ang|DTC	no_tag
@@ -8031,7 +8031,7 @@ habang|RBW	no_tag
 naglalakad|VBTR	no_tag
 pagkatapos|VBW	no_tag
 ng|CCB	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 .|PMP	no_tag
 
 Akala|NNP	no_tag
@@ -8523,7 +8523,7 @@ mo|PRS	no_tag
 ba|RBI	no_tag
 ang|DTC	no_tag
 mahabang|JJD_CCP	no_tag
-paglalakad|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paglalakad|NNC	gerund
 sa|CCT	no_tag
 mga|DTCP	no_tag
 burol|NNC	object
@@ -8643,7 +8643,7 @@ ngayon|RBW	no_tag
 .|PMP	no_tag
 
 Ang|DTC	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ay|LM	no_tag
 mabato|VBW	no_tag
 at|CCA	no_tag
@@ -8811,7 +8811,7 @@ Binilisan|VBTS	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
 kanyang|PRSP_CCP	no_tag
-paglalakad|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paglalakad|NNC	gerund
 para|CCT	no_tag
 makasabay|VBW	no_tag
 siya|PRS	no_tag
@@ -8911,7 +8911,7 @@ ni|DTP	no_tag
 Ambu|NNP	misc
 .|PMP	no_tag
 
-Pinuno|NNP	['organization', 'person'] #NEEDS MANUAL INTERVENTION
+Pinuno|NNP	person
 ni|DTP	no_tag
 Nesa|NNP	misc
 ang|DTC	no_tag
@@ -8945,7 +8945,7 @@ sa|CCT	no_tag
 matarik|JJD	no_tag
 na|CCP	no_tag
 mga|DTCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 .|PMP	no_tag
 
 Ah|RBJ	no_tag
@@ -8961,7 +8961,7 @@ si|DTP	no_tag
 Nesa|NNP	misc
 sa|CCT	no_tag
 isang|PRI_CCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 .|PMP	no_tag
 
 Oh|NNP	no_tag
@@ -9121,7 +9121,7 @@ Alam|VBS	no_tag
 na|RBI	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 pauwi|NNC	no_tag
 ngayon|RBW	no_tag
 .|PMP	no_tag
@@ -9155,7 +9155,7 @@ ako|PRS	no_tag
 
 "|PMS	no_tag
 Sobrang|JJCS_CCP	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
 ko|PRS	no_tag
 na|CCP	no_tag
 nakakaipon|VBTR	no_tag
@@ -9192,7 +9192,7 @@ Ang|DTC	no_tag
 Sumba|NNP	misc
 ay|LM	no_tag
 isang|PRI_CCP	no_tag
-isla|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+isla|NNC	location
 sa|CCT	no_tag
 Silangang|NNP_CCP	location
 Indonesia|NNP	misc
@@ -9349,7 +9349,7 @@ pag|CCR	no_tag
 -|PMS	no_tag
 edit|NNC	no_tag
 at|CCA	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	misc
 ng|CCB	no_tag
 mga|DTCP	no_tag
 libro|NNC	object
@@ -9571,10 +9571,10 @@ Mae|NNP	misc
 Sot|NNP	misc
 ,|PMC	no_tag
 isang|PRI_CCP	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 malapit|JJD	no_tag
 sa|CCT	no_tag
-hangganan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+hangganan|NNC	location
 ng|CCB	no_tag
 Thailand|NNP	misc
 at|CCA	no_tag
@@ -9591,7 +9591,7 @@ kongkretong|JJD_CCP	no_tag
 bahay|NNC	object
 na|CCP	no_tag
 may|VBH	no_tag
-lupang|NNC_CCP	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupang|NNC_CCP	object
 sahig|NNC	object
 ang|DTC	no_tag
 klinika|NNC	organization
@@ -9608,7 +9608,7 @@ niya|PRS	no_tag
 sa|CCT	no_tag
 panggagamot|NNC	event
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 rice|FW	no_tag
 cooker|FW	no_tag
@@ -10026,7 +10026,7 @@ masira|VBW	no_tag
 "|PMS	no_tag
 Pagkatapos|VBW	no_tag
 ng|CCB	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 ay|LM	no_tag
 agad|RBD	no_tag
 na|CCP	no_tag
@@ -10149,7 +10149,7 @@ Nanghina|VBTS	no_tag
 at|CCA	no_tag
 mangiyak|NNC	no_tag
 -|PMS	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 si|DTP	no_tag
 ManangAmanda|NNP	misc
 .|PMP	no_tag
@@ -10183,7 +10183,7 @@ noon|RBW	no_tag
 ay|LM	no_tag
 puro|RBT	no_tag
 manikang|VBW_CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 lang|RBI	no_tag
 ang|DTC	no_tag
 nilalaro|VBTR	no_tag
@@ -11078,7 +11078,7 @@ sa|CCT	no_tag
 pagdarasal|NNC	misc
 .|PMP	no_tag
 
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 -|PMS	no_tag
 araw|NNC	event
 ,|PMC	no_tag
@@ -11371,7 +11371,7 @@ nakakatakot|RBD	no_tag
 !|PMQ	no_tag
 
 Isang|PRI_CCP	no_tag
-duyan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+duyan|NNC	object
 lang|RBI	no_tag
 ,|PMC	no_tag
 nakahuhuli|VBTS	no_tag
@@ -11478,7 +11478,7 @@ lumapit|VBAF	no_tag
 .|PMP	no_tag
 
 Hindi|RBF	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ito|PRO	no_tag
 ang|DTC	no_tag
 pinagmumulan|VBTR_VBRF	no_tag
@@ -11987,7 +11987,7 @@ editor|NNC	person
 at|CCA	no_tag
 taga|JJD	no_tag
 -|PMS	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	person
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -12076,7 +12076,7 @@ pag|CCR	no_tag
 -|PMS	no_tag
 edit|NNC	no_tag
 ng|CCB	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	misc
 ay|LM	no_tag
 isinasagawa|VBTR	no_tag
 ng|CCB	no_tag
@@ -12117,7 +12117,7 @@ ng|CCB	no_tag
 Kenya|NNP	misc
 sa|CCT	no_tag
 Silangang|NNP_CCP	location
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	location
 ng|CCB	no_tag
 Africa|NNP	misc
 ,|PMC	no_tag
@@ -12154,7 +12154,7 @@ lumabas|VBAF	no_tag
 Sa|CCT	no_tag
 hardin|NNC	location
 na|CCP	no_tag
-taniman|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+taniman|NNC	location
 ng|CCB	no_tag
 mga|DTCP	no_tag
 pagkain|NNC	organization
@@ -12165,11 +12165,11 @@ pamilya|NNC	organization
 binungkal|VBTR	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 gamit|VBS	no_tag
 ang|DTC	no_tag
 kanyang|PRSP_CCP	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	object
 .|PMP	no_tag
 
 Ibinabaon|VBTS	no_tag
@@ -12179,7 +12179,7 @@ mga|DTCP	no_tag
 mumunting|JJD_CCP	no_tag
 buto|NNC	misc
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -12233,7 +12233,7 @@ niya|PRS	no_tag
 ang|DTC	no_tag
 makitid|JJD	no_tag
 na|CCP	no_tag
-daanan|NNC	['location', 'no_tag'] #NEEDS MANUAL INTERVENTION
+daanan|NNC	location
 sa|CCT	no_tag
 bukid|NNC	location
 ,|PMC	no_tag
@@ -12262,7 +12262,7 @@ antay|FW	no_tag
 na|CCP	no_tag
 pumasok|VBAF	no_tag
 ng|CCB	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Ngunit|CCT	no_tag
@@ -12309,7 +12309,7 @@ payagan|VBOF	no_tag
 ng|CCB	no_tag
 pumasok|VBAF	no_tag
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Gusto|VBS	no_tag
@@ -12336,7 +12336,7 @@ siya|PRS	no_tag
 ng|CCB	no_tag
 kagalingan|NNC	misc
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 kung|CCR	no_tag
 kaya|CCR	no_tag
 '|PMS	no_tag
@@ -12466,7 +12466,7 @@ naaalala|VBTR	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
 kanilang|PRSP_CCP	no_tag
-tahanan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tahanan|NNC	location
 sa|CCT	no_tag
 Africa|NNP	misc
 .|PMP	no_tag
@@ -12478,7 +12478,7 @@ siya|PRS	no_tag
 sa|CCT	no_tag
 kanyang|PRSP_CCP	no_tag
 pag|CCR	no_tag
-aaral|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+aaral|NNC	gerund
 ,|PMC	no_tag
 bumalik|VBAF	no_tag
 siya|PRS	no_tag
@@ -12871,7 +12871,7 @@ Vita|NNP	misc
 ,|PMC	no_tag
 ayoko|NNC	no_tag
 ng|CCB	no_tag
-larong|NNC_CCP	['event', 'object'] #NEEDS MANUAL INTERVENTION
+larong|NNC_CCP	event
 ito|PRO	no_tag
 .|PMP	no_tag
 
@@ -13112,7 +13112,7 @@ kahon|NNC	object
 sa|CCT	no_tag
 pamamagitan|NNC	event
 ng|CCB	no_tag
-bloke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bloke|NNC	object
 at|CCA	no_tag
 mahabang|JJD_CCP	no_tag
 kahoy|NNC	object
@@ -13391,7 +13391,7 @@ palabas|NNC	event
 sa|CCT	no_tag
 labas|NNC	location
 ng|CCB	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -13427,7 +13427,7 @@ silid|NNC	object
 -|PMS	no_tag
 aklatan|NNC	object
 ng|CCB	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Katatapos|NNP	misc
@@ -13472,7 +13472,7 @@ na|CCP	no_tag
 libro|NNC	object
 ,|PMC	no_tag
 ang|DTC	no_tag
-Isla|NNP	['location', 'object'] #NEEDS MANUAL INTERVENTION
+Isla|NNP	location
 ng|CCB	no_tag
 Dragon|NNP	misc
 ,|PMC	no_tag
@@ -13960,7 +13960,7 @@ mga|DTCP	no_tag
 gamit|NNC	object
 sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 .|PMP	no_tag
 
 Pinaalala|VBTS	no_tag
@@ -14330,7 +14330,7 @@ ng|CCB	no_tag
 aming|PRSP_CCP	no_tag
 pagpasok|NNC	gerund
 sa|CCT	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 .|PMP	no_tag
 "|PMS	no_tag
 
@@ -14476,7 +14476,7 @@ impormasyon|NNC	misc
 sa|CCT	no_tag
 taas|NNC	location
 na|CCP	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	location
 ng|CCB	no_tag
 pahina|NNC	misc
 ng|CCB	no_tag
@@ -14812,7 +14812,7 @@ hamog|NNC	misc
 ay|LM	no_tag
 nakapalibot|VBTS	no_tag
 sa|CCT	no_tag
-isla|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+isla|NNC	location
 .....|NNPA	misc
 "|PMS	no_tag
 Suportado|VBW	no_tag
@@ -14825,7 +14825,7 @@ Ningning|NNP	no_tag
 ay|LM	no_tag
 isang|PRI_CCP	no_tag
 batang|JJD_CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 na|CCP	no_tag
 hindi|RBF	no_tag
 ngumingiti|VBTR	no_tag
@@ -14859,7 +14859,7 @@ damit|NNC	object
 na|CCP	no_tag
 yari|VBS	no_tag
 sa|CCT	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 .|PMP	no_tag
 
 Meron|VBH	no_tag
@@ -14892,7 +14892,7 @@ pagturing|VBW	no_tag
 nito|PRO	no_tag
 sa|CCT	no_tag
 batang|JJD_CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 .|PMP	no_tag
 
 Marami|PRI	no_tag
@@ -15177,7 +15177,7 @@ niya|PRS	no_tag
 ang|DTC	no_tag
 liwanag|NNC	misc
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 bote|NNC	object
 ,|PMC	no_tag
@@ -15278,21 +15278,21 @@ Balabaw|NNP	no_tag
 
 Sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-paglalakad|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paglalakad|NNC	no_tag
 ay|LM	no_tag
 may|VBH	no_tag
 nakita|VBTS	no_tag
 silang|PRP_CCP	no_tag
 isang|PRI_CCP	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 Para|CCT	no_tag
 makapasok|VBW	no_tag
 sa|CCT	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 ,|PMC	no_tag
 ginamit|VBOF	no_tag
 ni|DTP	no_tag
@@ -15310,21 +15310,21 @@ maliit|JJD	no_tag
 
 Sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-paglalakad|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paglalakad|NNC	no_tag
 ay|LM	no_tag
 may|VBH	no_tag
 nakita|VBTS	no_tag
 silang|PRP_CCP	no_tag
 isang|PRI_CCP	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 Para|CCT	no_tag
 makapasok|VBW	no_tag
 sa|CCT	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 ,|PMC	no_tag
 ginamit|VBOF	no_tag
 ni|DTP	no_tag
@@ -15360,7 +15360,7 @@ ng|CCB	no_tag
 matang|NNC_CCP	body part
 lumiliwanag|VBTR_VBAF	no_tag
 sa|CCT	no_tag
-dilim|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+dilim|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -15415,7 +15415,7 @@ palay|NNC	food
 Sa|CCT	no_tag
 taas|NNC	location
 ng|CCB	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 ay|LM	no_tag
 naroon|PRL	no_tag
 ang|DTC	no_tag
@@ -15495,7 +15495,7 @@ mo.|NNCA	no_tag
 .|PMP	no_tag
 
 Hindi|RBF	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 totoong|RBT_CCP	no_tag
 may|VBH	no_tag
 sakit|NNC	object
@@ -15582,7 +15582,7 @@ Marie|NNP	no_tag
 Biglang|RBD_CCP	no_tag
 nahulog|VBTS	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 si|DTP	no_tag
 Bituon|NNP	no_tag
 .|PMP	no_tag
@@ -15990,7 +15990,7 @@ nangyayari|VBTR	no_tag
 bago|RBW	no_tag
 matapos|VBW	no_tag
 ang|DTC	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 nina|DTPP	no_tag
 Islaw|NNP	no_tag
 at|CCA	no_tag
@@ -16267,7 +16267,7 @@ na|CCP	no_tag
 tila|RBM	no_tag
 babagsak|VBTF	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 ,|PMC	no_tag
 ipikit|VBOF	no_tag
 mo|PRS	no_tag
@@ -16445,7 +16445,7 @@ Sabado|NNP	no_tag
 pumunta|VBAF	no_tag
 sila|PRP	no_tag
 sa|CCT	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 ng|CCB	no_tag
 kaniyang|PRSP_CCP	no_tag
 Lola|NNC	person
@@ -16588,7 +16588,7 @@ sinilip|VBTS	no_tag
 ni|DTP	no_tag
 Islaw|NNP	no_tag
 ang|DTC	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 bahay|NNC	location
 nina|DTPP	no_tag
@@ -16611,13 +16611,13 @@ gabi|RBW	no_tag
 Hmm|FW	no_tag
 …|PMS	no_tag
 kaya|CCR	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 hindi|RBF	no_tag
 siya|PRS	no_tag
 lumalabas|VBTR	no_tag
 ,|PMC	no_tag
 "|PMS	no_tag
-sambit|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+sambit|NNC	no_tag
 ni|DTP	no_tag
 Islaw|NNP	no_tag
 habang|RBW	no_tag
@@ -16670,7 +16670,7 @@ dagat|NNC	location
 pauwi|NNC	no_tag
 sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-tahanan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tahanan|NNC	location
 ,|PMC	no_tag
 muli|RBW	no_tag
 siyang|PRS_CCP	no_tag
@@ -16692,7 +16692,7 @@ alitaptap|NNC	animal
 na|CCP	no_tag
 kumukutikutitap|VBTR_VBAF	no_tag
 sa|CCT	no_tag
-dilim|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+dilim|NNC	location
 .|PMP	no_tag
 
 Nang|RBW	no_tag
@@ -16752,7 +16752,7 @@ nakagawian|VBTS	no_tag
 pagkatapos|VBW	no_tag
 marinig|VBW	no_tag
 ng|CCB	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 ang|DTC	no_tag
 kuliling|NNC	misc
 ,|PMC	no_tag
@@ -16881,7 +16881,7 @@ sabihin|VBOF	no_tag
 Huwag|RBF	no_tag
 matakot|VBW	no_tag
 sa|CCT	no_tag
-dilim|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+dilim|NNC	misc
 !|PMS	no_tag
 
 Alitaptap|NNP	animal
@@ -16900,7 +16900,7 @@ kami|PRP	no_tag
 ay|LM	no_tag
 aliwinNabalot|NNC	misc
 ng|CCB	no_tag
-dilim|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+dilim|NNC	misc
 .|PMP	no_tag
 
 Mga|DTCP	no_tag
@@ -16935,7 +16935,7 @@ tuksuhin|VBOF	no_tag
 Ang|DTC	no_tag
 bruha|NNC	misc
 sa|CCT	no_tag
-dilim|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+dilim|NNC	location
 .|PMP	no_tag
 
 Alitaptap|NNP	animal
@@ -17061,7 +17061,7 @@ Kanya|NNP	misc
 Mandir|NNP	misc
 Higher|NNP	misc
 Secondary|NNP	misc
-School|NNP	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+School|NNP	location
 noong|RBW_CCP	no_tag
 dekada|NNC	misc
 singkwenta|JJN	no_tag
@@ -17073,7 +17073,7 @@ gumagawa|VBTR_VBAF	no_tag
 siya|PRS	no_tag
 ng|CCB	no_tag
 mga|DTCP	no_tag
-kanta|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kanta|NNC	gerund
 upang|CCB	no_tag
 makakuha|VBW	no_tag
 ng|CCB	no_tag
@@ -17096,7 +17096,7 @@ salita|NNC	misc
 Ang|DTC	no_tag
 kaniyang|PRSP_CCP	no_tag
 mga|DTCP	no_tag
-kanta|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kanta|NNC	gerund
 ay|LM	no_tag
 nakilala|VBTS	no_tag
 sa|CCT	no_tag
@@ -17139,7 +17139,7 @@ nagtapos|VBTS	no_tag
 ng|CCB	no_tag
 BFA|NNPA	misc
 sa|CCT	no_tag
-Studio|NNP	['location', 'object'] #NEEDS MANUAL INTERVENTION
+Studio|NNP	location
 Art|NNP	object
 sa|CCT	no_tag
 Centre|NNP	misc
@@ -18218,7 +18218,7 @@ incubator|FW	no_tag
 "|PMS	no_tag
 ngunit|CCT	no_tag
 sira|JJD	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ito|PRO	no_tag
 .|PMP	no_tag
 
@@ -18309,7 +18309,7 @@ nila|PRP	no_tag
 na|CCP	no_tag
 magbato|VBAF	no_tag
 -|PMS	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	no_tag
 pick|NNC	misc
 .|PMP	no_tag
 
@@ -18326,7 +18326,7 @@ mga|DTCP	no_tag
 itlog|NNC	object
 .|PMP	no_tag
 
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 -|PMS	no_tag
 araw|NNC	event
 minamasdan|VBTF	no_tag
@@ -18515,7 +18515,7 @@ ng|CCB	no_tag
 mga|DTCP	no_tag
 itlog|NNC	object
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	misc
 ng|CCB	no_tag
 maikling|JJD_CCP	no_tag
 panahon|NNC	event
@@ -18715,7 +18715,7 @@ Ay|NNP	no_tag
 
 Ang|DTC	no_tag
 haba|NNC	misc
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ng|CCB	no_tag
 buntot|NNC	body part
 ng|CCB	no_tag
@@ -19007,7 +19007,7 @@ bitag|NNC	object
 .|PMP	no_tag
 
 Kinain|VBOF	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ng|CCB	no_tag
 daga|NNC	animal
 ang|DTC	no_tag
@@ -19298,7 +19298,7 @@ ng|CCB	no_tag
 hayop|NNC	animal
 ,|PMC	no_tag
 iyon|PRO	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ahas|NNC	animal
 !|PMS	no_tag
 
@@ -19603,7 +19603,7 @@ Tinuka|VBOF	no_tag
 ni|DTP	no_tag
 Tamsi|NNP	no_tag
 ang|DTC	no_tag
-dulo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+dulo|NNC	location
 ng|CCB	no_tag
 sinulid|NNC	object
 .|PMP	no_tag
@@ -19664,7 +19664,7 @@ ahas|NNC	animal
 
 Mula|RBW	no_tag
 sa|CCT	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 ay|LM	no_tag
 natanaw|VBTS	no_tag
 ni|DTP	no_tag
@@ -19740,7 +19740,7 @@ hayop|NNC	animal
 
 Napalitan|VBTS	no_tag
 ng|CCB	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	emotion
 ang|DTC	no_tag
 nakakatakot|VBTR	no_tag
 na|CCP	no_tag
@@ -20141,7 +20141,7 @@ aso!Hay|NNC	misc
 nakaka|RBD	no_tag
 -|PMS	no_tag
 stress|NNC	misc
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ang|DTC	no_tag
 paglalaro|NNC	no_tag
 sa|CCT	no_tag
@@ -20327,7 +20327,7 @@ sa|CCT	no_tag
 malambot|JJD	no_tag
 na|CCP	no_tag
 berdeng|JJD_CCP	no_tag
-damo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+damo|NNC	object
 .|PMP	no_tag
 
 Hay|NNP	misc
@@ -20469,7 +20469,7 @@ na|CCP	no_tag
 residente|NNC	person
 upang|CCB	no_tag
 ang|DTC	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	misc
 ay|LM	no_tag
 naaayon|VBTR	no_tag
 sa|CCT	no_tag
@@ -20840,7 +20840,7 @@ sa|CCT	no_tag
 isang|PRI_CCP	no_tag
 makitid|JJD	no_tag
 na|CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ,|PMC	no_tag
 si|DTP	no_tag
 Nou|NNP	misc
@@ -20879,7 +20879,7 @@ sa|CCT	no_tag
 isang|PRI_CCP	no_tag
 matirik|JJD	no_tag
 na|CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 at|CCA	no_tag
 tumalon|VBAF	no_tag
 sa|CCT	no_tag
@@ -21179,7 +21179,7 @@ at|CCA	no_tag
 mga|DTCP	no_tag
 maliliit|JJD	no_tag
 na|CCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -21333,7 +21333,7 @@ pahinaan|NNC	no_tag
 mo|PRS	no_tag
 lamang|RBI	no_tag
 ang|DTC	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 para|CCT	no_tag
 ito|PRO	no_tag
 ay|LM	no_tag
@@ -21470,9 +21470,9 @@ niya|PRS	no_tag
 kaagad|RBW	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	object
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 bahay|NNC	location
 .|PMP	no_tag
@@ -21597,7 +21597,7 @@ nang|RBW	no_tag
 maamoy|VBW	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
-sunog|NNC	['event', 'no_tag'] #NEEDS MANUAL INTERVENTION
+sunog|NNC	no_tag
 na|CCP	no_tag
 sinaing|VBTS	no_tag
 .|PMP	no_tag
@@ -21625,7 +21625,7 @@ ni|DTP	no_tag
 Nanay|NNP	no_tag
 Isay|NNP	no_tag
 ang|DTC	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -21648,13 +21648,13 @@ natin|PRP	no_tag
 ,|PMC	no_tag
 puro|JJD	no_tag
 na|CCP	no_tag
-sunog|NNC	['event', 'no_tag'] #NEEDS MANUAL INTERVENTION
+sunog|NNC	no_tag
 !|PMS	no_tag
 
 "|PMS	no_tag
 Pag|CCR	no_tag
 -|PMS	no_tag
-uwi|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+uwi|NNC	no_tag
 ni|DTP	no_tag
 Tatay|NNP	no_tag
 Dodong|NNP	no_tag
@@ -21724,7 +21724,7 @@ Masarap|NNP	no_tag
 ba|FW	no_tag
 kumain|VBAF	no_tag
 ng|CCB	no_tag
-sunog|NNC	['event', 'no_tag'] #NEEDS MANUAL INTERVENTION
+sunog|NNC	no_tag
 na|CCP	no_tag
 kanin|NNC	food
 ?|PMQ	no_tag
@@ -21796,7 +21796,7 @@ mabuti|RBD	no_tag
 .|PMP	no_tag
 
 Hindi|RBF	no_tag
-sunog|NNC	['event', 'no_tag'] #NEEDS MANUAL INTERVENTION
+sunog|NNC	no_tag
 ,|PMC	no_tag
 hindi|RBF	no_tag
 hilaw|JJD	no_tag
@@ -21867,7 +21867,7 @@ Budang|NNP	no_tag
 Madali|RBD	no_tag
 lang|RBI	no_tag
 naman|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
 hakbang|NNC	event
@@ -21923,7 +21923,7 @@ iniisip|VBTR	no_tag
 .|PMP	no_tag
 
 Dahil|CCR	no_tag
-sunog|NNC	['event', 'no_tag'] #NEEDS MANUAL INTERVENTION
+sunog|NNC	no_tag
 ang|DTC	no_tag
 kalahati|PRI	no_tag
 ng|CCB	no_tag
@@ -21985,7 +21985,7 @@ binato|VBOF	no_tag
 ko|PRS	no_tag
 ng|CCB	no_tag
 mga|DTCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 habang|RBW	no_tag
 sumisigaw|VBTR_VBAF	no_tag
 ,|PMC	no_tag
@@ -22065,7 +22065,7 @@ tulad|JJC	no_tag
 ng|CCB	no_tag
 bata|NNC	person
 sa|CCT	no_tag
-panaderya|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+panaderya|NNC	location
 na|CCP	no_tag
 nagbigay|VBTS	no_tag
 sa|CCT	no_tag
@@ -22119,7 +22119,7 @@ tao|NNC	person
 sa|CCT	no_tag
 tabi|NNC	location
 ng|CCB	no_tag
-panaderya|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+panaderya|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -22174,7 +22174,7 @@ bahay|NNC	location
 Umakyat|VBAF	no_tag
 ako|PRS	no_tag
 sa|CCT	no_tag
-bakod|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bakod|NNC	object
 at|CCA	no_tag
 nakita|VBTS	no_tag
 ko|PRS	no_tag
@@ -22320,12 +22320,12 @@ na|CCP	no_tag
 may|VBH	no_tag
 hawak|JJD	no_tag
 na|CCP	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ,|PMC	no_tag
 nakaramdam|VBTS	no_tag
 ako|PRS	no_tag
 ng|CCB	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	emotion
 .|PMP	no_tag
 
 Sasaktan|VBOF	no_tag
@@ -22343,7 +22343,7 @@ ahas|NNC	animal
 at|CCA	no_tag
 inilagay|VBTS	no_tag
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 sako|NNC	object
 .|PMP	no_tag
@@ -22445,7 +22445,7 @@ niya|PRS	no_tag
 .|PMP	no_tag
 
 Sobrang|JJCS_CCP	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
 ko!Narrator|NNC	misc
 :|PMS	no_tag
 Chirath|NNP	no_tag
@@ -22611,7 +22611,7 @@ Dumadausdos|VBTR	no_tag
 na|CCP	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 doon|PRL	no_tag
 sa|CCT	no_tag
 itaas|JJD	no_tag
@@ -22692,7 +22692,7 @@ naman|RBI	no_tag
 "|PMS	no_tag
 
 "|PMS	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 -|PMS	no_tag
 araw|NNC	event
 na|CCP	no_tag
@@ -22820,7 +22820,7 @@ binata|NNC	person
 
 "|PMS	no_tag
 Meron|VBH	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 niyan|PRO	no_tag
 dito|PRL	no_tag
 sa|CCT	no_tag
@@ -22906,7 +22906,7 @@ kaninang|NNC_CCP	no_tag
 nadaanan|VBTS	no_tag
 nating|PRP_CCP	no_tag
 gumuguhong|VBTR_VBAF_CCP	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 doon|PRL	no_tag
 sa|CCT	no_tag
 bangin|NNC	object
@@ -22924,7 +22924,7 @@ Binuldoser|NNP	no_tag
 dahil|CCR	no_tag
 ipagbibili|VBOB	no_tag
 ang|DTC	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 ,|PMC	no_tag
 "|PMS	no_tag
 sabi|VBS	no_tag
@@ -22965,7 +22965,7 @@ kaingero|NNC	person
 mga|DTCP	no_tag
 maghuhukay|VBTF_VBAF	no_tag
 ng|CCB	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 ,|PMC	no_tag
 at|CCA	no_tag
 mga|DTCP	no_tag
@@ -23084,13 +23084,13 @@ usok|NNC	misc
 sa|CCT	no_tag
 di|RBF	no_tag
 -|PMS	no_tag
-kalayuan|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kalayuan|NNC	no_tag
 ,|PMC	no_tag
 may|VBH	no_tag
 nakikitang|VBTR_CCP	no_tag
 dumadausdos|VBTR_VBAF	no_tag
 na|CCP	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 galing|RBL	no_tag
 sa|CCT	no_tag
 itaas|JJD	no_tag
@@ -23451,7 +23451,7 @@ Paalam|NNP	no_tag
 ,|PMC	no_tag
 pugad|NNC	object
 ,|PMC	no_tag
-paalam|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paalam|NNC	no_tag
 mga|DTCP	no_tag
 balahibo|NNC	object
 ,|PMC	no_tag
@@ -23748,7 +23748,7 @@ pumila|VBAF	no_tag
 diyan|PRL	no_tag
 sa|CCT	no_tag
 Health|NNP	no_tag
-Center|NNP	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+Center|NNP	location
 para|CCT	no_tag
 magpatuli|VBW	no_tag
 ,|PMC	no_tag
@@ -23821,7 +23821,7 @@ sa|CCT	no_tag
 tapat|JJD	no_tag
 ng|CCB	no_tag
 Health|NNP	no_tag
-Center|NNP	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+Center|NNP	location
 nang|RBW	no_tag
 marinig|VBW	no_tag
 niya|PRS	no_tag
@@ -23832,7 +23832,7 @@ mga|DTCP	no_tag
 batang|JJD_CCP	no_tag
 nagpapatuli|VBTR	no_tag
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ,|PMC	no_tag
 "|PMS	no_tag
 Aray|FW	no_tag
@@ -23877,16 +23877,16 @@ makarinig|VBW	no_tag
 ulit|RBW	no_tag
 siya|PRS	no_tag
 ng|CCB	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	gerund
 at|CCA	no_tag
 sigaw|NNC	no_tag
 ng|CCB	no_tag
 batang|JJD_CCP	no_tag
 nasa|RBL	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 Health|NNP	no_tag
-Center|NNP	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+Center|NNP	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -24308,7 +24308,7 @@ magulang|NNC	person
 Hindi|RBF	no_tag
 na|CCP	no_tag
 ako|PRS	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	no_tag
 magpatuli|VBW	no_tag
 ,|PMC	no_tag
 Nay|NNCA	person
@@ -24853,7 +24853,7 @@ meron|VBH	no_tag
 mga|DTCP	no_tag
 maliliit|JJD	no_tag
 na|CCP	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 .|PMP	no_tag
 
 Hindi|RBF	no_tag
@@ -24939,7 +24939,7 @@ lobo|NNC	object
 .|PMP	no_tag
 
 Hindi|RBF	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 si|DTP	no_tag
 Porcupine|NNP	animal
 ang|DTC	no_tag
@@ -24954,7 +24954,7 @@ lobo|NNC	object
 
 Ang|DTC	no_tag
 dahilan|NNC	object
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 kung|RBK	no_tag
 bakit|RBQ	no_tag
 pumutok|VBAF	no_tag
@@ -25006,7 +25006,7 @@ orange|FW	no_tag
 .|PMP	no_tag
 
 Ang|DTC	no_tag
-epekto|NNC	['consequence', 'misc'] #NEEDS MANUAL INTERVENTION
+epekto|NNC	consequence
 ng|CCB	no_tag
 volatile|FW	no_tag
 at|CCA	no_tag
@@ -25109,7 +25109,7 @@ editor|NNC	person
 at|CCA	no_tag
 taga|JJD	no_tag
 -|PMS	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	person
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -25196,7 +25196,7 @@ pag|CCR	no_tag
 -|PMS	no_tag
 edit|NNC	no_tag
 ng|CCB	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	misc
 ay|LM	no_tag
 isinasagawa|VBTR	no_tag
 ng|CCB	no_tag
@@ -25387,7 +25387,7 @@ Siyentista|NNP	misc
 ang|DTC	no_tag
 humahanap|VBTR_VBAF	no_tag
 ng|CCB	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 sa|CCT	no_tag
 mga|DTCP	no_tag
 satelayt|NNC	object
@@ -25398,7 +25398,7 @@ kalawakan|NNC	misc
 .|PMP	no_tag
 
 Ang|DTC	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ay|LM	no_tag
 tinatawag|VBTR	no_tag
 na|CCP	no_tag
@@ -25416,7 +25416,7 @@ sa|CCT	no_tag
 arawApat|FW	no_tag
 ang|DTC	no_tag
 mababatong|JJD_CCP	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 PLANETA|NNPA	object
 –|PMS	no_tag
 Mercury|NNP	misc
@@ -25496,7 +25496,7 @@ kumpol|NNC	misc
 ng|CCB	no_tag
 yelo|NNC	misc
 ,|PMC	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 at|CCA	no_tag
 hangin|NNC	event
 .|PMP	no_tag
@@ -25623,7 +25623,7 @@ kometa|NNC	object
 mas|JJCC	no_tag
 maliit|JJD	no_tag
 ang|DTC	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 .|PMP	no_tag
 
 Pluto|NNP	misc
@@ -25990,7 +25990,7 @@ Kumuha|VBAF	no_tag
 si|DTP	no_tag
 Edi|NNP	misc
 ng|CCB	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 at|CCA	no_tag
 ng|CCB	no_tag
 lapis|NNC	object
@@ -26206,7 +26206,7 @@ Lolo|NNP	person
 papuntang|RBL_CCP	no_tag
 Bulwagan|NNC	organization
 ng|CCB	no_tag
-Bayan|NNP	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+Bayan|NNP	location
 .|PMP	no_tag
 
 Sabi|VBS	no_tag
@@ -26399,7 +26399,7 @@ salamangkero|NNC	person
 Walang|VBN_CCP	no_tag
 kahit|CCT	no_tag
 isang|PRI_CCP	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 para|CCT	no_tag
 sa|CCT	no_tag
 mga|DTCP	no_tag
@@ -26609,7 +26609,7 @@ ang|DTC	no_tag
 pasahero!May|NNC	misc
 mga|DTCP	no_tag
 upuang|CCB	no_tag
-tabla|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+tabla|NNC	object
 para|CCT	no_tag
 sa|CCT	no_tag
 pasahero|NNC	person
@@ -26750,7 +26750,7 @@ umupo|VBAF	no_tag
 sa|CCT	no_tag
 pakpak|NNC	event
 na|CCP	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	location
 ,|PMC	no_tag
 ngunit|CCT	no_tag
 sabi|VBS	no_tag
@@ -26778,7 +26778,7 @@ nabaon|VBTS	no_tag
 sa|CCT	no_tag
 lubak|NNC	location
 na|CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 .|PMP	no_tag
 
 Hinila|VBOF	no_tag
@@ -26811,7 +26811,7 @@ Hannibal|NNP	no_tag
 Kahit|CCT	no_tag
 lubak|NNC	location
 ang|DTC	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ay|LM	no_tag
 hindi|RBF	no_tag
 sasakit|VBTF	no_tag
@@ -26822,7 +26822,7 @@ dahil|CCR	no_tag
 may|VBH	no_tag
 kutson|NNC	object
 ang|DTC	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -26853,14 +26853,14 @@ Kapag|CCR	no_tag
 nasa|RBL	no_tag
 maayos|JJD	no_tag
 na|CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ,|PMC	no_tag
 napapasigaw|VBTR	no_tag
 kami|PRP	no_tag
 ni|DTP	no_tag
 Nina|NNP	no_tag
 sa|CCT	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	emotion
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -27150,7 +27150,7 @@ niyang|PRS_CCP	no_tag
 mas|JJCC	no_tag
 malaki|JJD	no_tag
 ang|DTC	no_tag
-parte|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+parte|NNC	object
 ng|CCB	no_tag
 kanyang|PRSP_CCP	no_tag
 kapatid|NNC	person
@@ -27385,7 +27385,7 @@ para|CCT	no_tag
 sindihan|VBOF	no_tag
 an|DTC	no_tag
 ang|DTC	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 .|PMP	no_tag
 
 At|CCA	no_tag
@@ -27397,7 +27397,7 @@ na|CCP	no_tag
 ang|DTC	no_tag
 pagsindi|NNC	misc
 ng|CCB	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 ay|LM	no_tag
 hindi|RBF	no_tag
 ganon|PRC	no_tag
@@ -27571,7 +27571,7 @@ Sa|CCT	no_tag
 oras|NNC	misc
 ng|CCB	no_tag
 kanilang|PRSP_CCP	no_tag
-hapunan|NNC	['event', 'food'] #NEEDS MANUAL INTERVENTION
+hapunan|NNC	event
 ,|PMC	no_tag
 Binigyan|VBOF	no_tag
 na|RBI	no_tag
@@ -27633,7 +27633,7 @@ Raju|NNP	misc
 habang|RBW	no_tag
 papunta|VBW	no_tag
 silang|PRP_CCP	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Habang|RBW	no_tag
@@ -27724,7 +27724,7 @@ kanilang|PRSP_CCP	no_tag
 mga|DTCP	no_tag
 pamilya|NNC	organization
 at|CCA	no_tag
-pamayanan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+pamayanan|NNC	organization
 sa|CCT	no_tag
 buong|PRI_CCP	no_tag
 Timog|NNP	location
@@ -27735,7 +27735,7 @@ ng|CCB	no_tag
 mga|DTCP	no_tag
 animated|FW	no_tag
 na|CCP	no_tag
-pelikula|NNC	['event', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+pelikula|NNC	misc
 ,|PMC	no_tag
 aklat|NNC	object
 na|CCP	no_tag
@@ -27769,7 +27769,7 @@ insekto|NNC	animal
 para|CCT	no_tag
 sa|CCT	no_tag
 kaniyang|PRSP_CCP	no_tag
-hapunan|NNC	['event', 'food'] #NEEDS MANUAL INTERVENTION
+hapunan|NNC	food
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -27862,7 +27862,7 @@ Dapat|VBS	no_tag
 tayong|PRP_CCP	no_tag
 gumawa|VBAF	no_tag
 ng|CCB	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 para|CCT	no_tag
 maitaboy|VBW	no_tag
 ito|PRO	no_tag
@@ -27903,7 +27903,7 @@ mikropono|NNC	misc
 na|CCP	no_tag
 naiwan|VBTS	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -28104,7 +28104,7 @@ insekto|NNC	animal
 para|CCT	no_tag
 sa|CCT	no_tag
 kaniyang|PRSP_CCP	no_tag
-hapunan|NNC	['event', 'food'] #NEEDS MANUAL INTERVENTION
+hapunan|NNC	food
 .|PMP	no_tag
 
 Sumunod|VBAF	no_tag
@@ -28170,7 +28170,7 @@ insekto|NNC	animal
 ay|LM	no_tag
 nahulog|VBTS	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 at|CCA	no_tag
 ang|DTC	no_tag
 iba|PRI	no_tag
@@ -28520,7 +28520,7 @@ ng|CCB	no_tag
 watawat|NNC	object
 sa|CCT	no_tag
 aming|PRSP_CCP	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 ,|PMC	no_tag
 Santa|NNP	no_tag
 Barbara|NNP	no_tag
@@ -28559,7 +28559,7 @@ kaibigan|NNC	person
 na|CCP	no_tag
 dumaan|VBAF	no_tag
 sa|CCT	no_tag
-plaza|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+plaza|NNC	location
 para|CCT	no_tag
 makita|VBW	no_tag
 ang|DTC	no_tag
@@ -28568,7 +28568,7 @@ monumento|NNC	object
 .|PMP	no_tag
 
 Sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 ,|PMC	no_tag
 ako|PRS	no_tag
 ang|DTC	no_tag
@@ -28681,7 +28681,7 @@ ay|LM	no_tag
 parang|CCT	no_tag
 gusot|JJD	no_tag
 na|CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -28929,7 +28929,7 @@ kaibigan|NNC	person
 bago|RBW	no_tag
 pumunta|VBAF	no_tag
 ng|CCB	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -28984,7 +28984,7 @@ malinaw|JJD	no_tag
 Ay|NNP	no_tag
 ,|PMC	no_tag
 ikaw|PRS	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 si|DTP	no_tag
 Pangga|NNP	no_tag
 ?|PMQ	no_tag
@@ -29008,7 +29008,7 @@ Martin|NNP	no_tag
 "|PMS	no_tag
 Hindi|RBF	no_tag
 na|CCP	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ikaw|PRS	no_tag
 si|DTP	no_tag
 Heneral|NNP	person
@@ -29068,12 +29068,12 @@ bahay|NNC	location
 .|PMP	no_tag
 
 Sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 ,|PMC	no_tag
 parang|CCT	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	event
 ng|CCB	no_tag
-sunog|NNC	['event', 'no_tag'] #NEEDS MANUAL INTERVENTION
+sunog|NNC	event
 sa|CCT	no_tag
 bilis|NNC	no_tag
 ng|CCB	no_tag
@@ -29441,7 +29441,7 @@ noo|NNC	body part
 .|PMP	no_tag
 
 Maganda|JJD	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ang|DTC	no_tag
 pangalang|NNC_CCP	misc
 Pangga|NNP	no_tag
@@ -29848,7 +29848,7 @@ hangin|NNC	event
 ang|DTC	no_tag
 pag|CCR	no_tag
 -|PMS	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	gerund
 ni|DTP	no_tag
 Bountong|NNP	misc
 ,|PMC	no_tag
@@ -30143,9 +30143,9 @@ tumatawa|VBTR_VBAF	no_tag
 
 Ngayon|RBW	no_tag
 mukhang|JJD_CCP	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	no_tag
 na|CCP	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	no_tag
 .|PMP	no_tag
 
 May|VBH	no_tag
@@ -30608,7 +30608,7 @@ nagtatampo|VBTR	no_tag
 .|PMP	no_tag
 
 Mahal|NNP	object
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ako|PRS	no_tag
 ni|DTP	no_tag
 Nanay|NNP	no_tag
@@ -30683,7 +30683,7 @@ mo|PRS	no_tag
 pa|RBI	no_tag
 kinuha|VBOF	no_tag
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 karton|NNC	object
 ?|PMQ	no_tag
@@ -30839,7 +30839,7 @@ nakita|VBTS	no_tag
 ni|DTP	no_tag
 Titay|NNP	no_tag
 sa|CCT	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 sina|DTPP	no_tag
 Cora|NNP	no_tag
 na|CCP	no_tag
@@ -30879,7 +30879,7 @@ Titay|NNP	no_tag
 Tinignan|VBOF	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	object
 ,|PMC	no_tag
 mataas|JJD	no_tag
 ito|PRO	no_tag
@@ -31121,7 +31121,7 @@ kuya|NNC	person
 Ah|RBJ	no_tag
 ,|PMC	no_tag
 kaya|CCR	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 pinapakita|VBTR	no_tag
 nina|DTPP	no_tag
 mama|NNC	person
@@ -31389,7 +31389,7 @@ pa|RBI	no_tag
 Nang|RBW	no_tag
 tumahimik|VBAF	no_tag
 ang|DTC	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 ,|PMC	no_tag
 dumami|VBAF	no_tag
 ang|DTC	no_tag
@@ -31643,7 +31643,7 @@ mahika|JJD	no_tag
 ang|DTC	no_tag
 kahit|CCT	no_tag
 anong|PRQ_CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 na|CCP	no_tag
 nahahawakan|VBTS	no_tag
 ni|DTP	no_tag
@@ -31709,7 +31709,7 @@ na|CCP	no_tag
 may|VBH	no_tag
 lamang|RBI	no_tag
 mga|DTCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 ,|PMC	no_tag
 tinutungo|VBTR	no_tag
 niya|PRS	no_tag
@@ -31725,7 +31725,7 @@ mangolekta|VBW	no_tag
 ng|CCB	no_tag
 mga|DTCP	no_tag
 sobrang|JJCS_CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 upang|CCB	no_tag
 makagawa|VBW	no_tag
 ng|CCB	no_tag
@@ -31741,7 +31741,7 @@ hiwalay|JJD	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 ayon|RBR	no_tag
 sa|CCT	no_tag
 kulay|NNC	object
@@ -31749,7 +31749,7 @@ ngunit|CCT	no_tag
 lahat|PRI	no_tag
 ng|CCB	no_tag
 pulang|JJD_CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 ay|LM	no_tag
 tinatago|VBTR	no_tag
 niya|PRS	no_tag
@@ -31770,7 +31770,7 @@ mo|PRS	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
 pulang|JJD_CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 ?|PMQ	no_tag
 
 "|PMS	no_tag
@@ -31821,7 +31821,7 @@ sa|CCT	no_tag
 lipad|NNC	no_tag
 ng|CCB	no_tag
 eroplanong|NNC_CCP	object
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 ang|DTC	no_tag
 mga|DTCP	no_tag
 tutubi|NNC	animal
@@ -31871,7 +31871,7 @@ tubig|NNC	object
 sa|CCT	no_tag
 mababaw|JJD	no_tag
 na|CCP	no_tag
-parte|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+parte|NNC	location
 ng|CCB	no_tag
 sapa|NNC	location
 ang|DTC	no_tag
@@ -31924,7 +31924,7 @@ paborito|NNC	no_tag
 niyang|PRS_CCP	no_tag
 pampatulog|JJD	no_tag
 na|CCP	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 sa|CCT	no_tag
 pamamagitan|NNC	event
 ng|CCB	no_tag
@@ -32108,7 +32108,7 @@ papelastika|NNC	object
 !|PMS	no_tag
 
 Kaya|CCR	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 tahimik|JJD	no_tag
 ka|PRS	no_tag
 lang|RBI	no_tag
@@ -32184,7 +32184,7 @@ papasok|VBTF	no_tag
 ka|PRS	no_tag
 na|CCP	no_tag
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 sa|CCT	no_tag
 Lunes|NNP	no_tag
 ,|PMC	no_tag
@@ -32253,7 +32253,7 @@ maglaro|VBAF	no_tag
 "|PMS	no_tag
 Masaya|NNP	no_tag
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 ,|PMC	no_tag
 Bentong|NNC_CCP	no_tag
 !|PMQ	no_tag
@@ -32273,7 +32273,7 @@ nanay|NNC	person
 si|DTP	no_tag
 Bentong|NNP	no_tag
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Kinakabahan|VBTR	no_tag
@@ -32282,7 +32282,7 @@ siya|PRS	no_tag
 
 Mahigpit|JJD	no_tag
 ang|DTC	no_tag
-hawak|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+hawak|NNC	no_tag
 niya|PRS	no_tag
 sa|CCT	no_tag
 kamay|NNC	event
@@ -32336,7 +32336,7 @@ ka|PRS	no_tag
 na|CCP	no_tag
 ba|RBI	no_tag
 saating|JJD_CCP	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 ?|PMQ	no_tag
 
 "|PMS	no_tag
@@ -32379,7 +32379,7 @@ G.|NNPA	no_tag
 Ramos|NNP	no_tag
 ,|PMC	no_tag
 "|PMS	no_tag
-paalam|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paalam|NNC	no_tag
 ni|DTP	no_tag
 Bentong|NNP	no_tag
 .|PMP	no_tag
@@ -32399,7 +32399,7 @@ siya|PRS	no_tag
 sa|CCT	no_tag
 gate|FW	no_tag
 ng|CCB	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Wala|VBN	no_tag
@@ -32428,7 +32428,7 @@ na|CCP	no_tag
 ?|PMQ	no_tag
 
 "|PMS	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 niya|PRS	no_tag
 .|PMP	no_tag
 
@@ -32449,7 +32449,7 @@ papasok|VBTF	no_tag
 sa|CCT	no_tag
 gate|FW	no_tag
 ng|CCB	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Nagulat|VBTS	no_tag
@@ -32462,7 +32462,7 @@ siya|PRS	no_tag
 sa|CCT	no_tag
 pag|CCR	no_tag
 -|PMS	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 .|PMP	no_tag
 
 Sumunod|VBAF	no_tag
@@ -32472,7 +32472,7 @@ mga|DTCP	no_tag
 bata|NNC	person
 papasok|NNC	no_tag
 ng|CCB	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Naglakad|VBTS	no_tag
@@ -32532,7 +32532,7 @@ Sinilip|VBTS	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
 isang|PRI_CCP	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -32548,7 +32548,7 @@ Ramos|NNP	no_tag
 Nagbabasa|VBTR	no_tag
 siya|PRS	no_tag
 ng|CCB	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 sa|CCT	no_tag
 mga|DTCP	no_tag
 bata|NNC	person
@@ -32597,7 +32597,7 @@ bata|NNC	person
 Nagustuhan|VBTS	no_tag
 nila|PRP	no_tag
 ang|DTC	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 .|PMP	no_tag
 
 Tumawa|VBAF	no_tag
@@ -32612,7 +32612,7 @@ bata|NNC	person
 ,|PMC	no_tag
 kumuha|VBAF	no_tag
 ng|CCB	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 .|PMP	no_tag
 
 Ilabas|VBOF	no_tag
@@ -32630,7 +32630,7 @@ bagay|NNC	object
 o|CCT	no_tag
 pangyayari|NNC	event
 sa|CCT	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 ,|PMC	no_tag
 "|PMS	no_tag
 sabi|VBS	no_tag
@@ -32695,10 +32695,10 @@ nanay|NNC	person
 Nay|NNP	no_tag
 ,|PMC	no_tag
 ang|DTC	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
+pala|NNC	no_tag
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Marami|PRI	no_tag
@@ -32730,7 +32730,7 @@ Ramos|NNP	no_tag
 "|PMS	no_tag
 Panay|NNP	no_tag
 ang|DTC	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	no_tag
 ni|DTP	no_tag
 Bentong|NNP	no_tag
 .|PMP	no_tag
@@ -32768,7 +32768,7 @@ ako|PRS	no_tag
 kanina|RBW	no_tag
 nang|RBD	no_tag
 walang|RBF	no_tag
-paalam|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paalam|NNC	gerund
 ,|PMC	no_tag
 hindi|RBF	no_tag
 ko|PRS	no_tag
@@ -32786,7 +32786,7 @@ pa|RBI	no_tag
 tayong|PRP_CCP	no_tag
 pupunta|VBTF	no_tag
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 ,|PMC	no_tag
 "|PMS	no_tag
 masayang|JJD_CCP	no_tag
@@ -32970,7 +32970,7 @@ Ratna|NNP	misc
 at|CCA	no_tag
 Ruskan|NNP	misc
 ang|DTC	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 ng|CCB	no_tag
 Dutch|NNP	misc
 tungkol|RBR	no_tag
@@ -32982,7 +32982,7 @@ Binasa|VBOF	no_tag
 ni|DTP	no_tag
 Rohana|NNP	misc
 ang|DTC	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 sa|CCT	no_tag
 wika|NNC	misc
 ng|CCB	no_tag
@@ -32999,7 +32999,7 @@ Ratna|NNP	misc
 at|CCA	no_tag
 Ruskan|NNP	misc
 ang|DTC	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 .|PMP	no_tag
 
 Lahat|PRI	no_tag
@@ -33007,7 +33007,7 @@ sila|PRP	no_tag
 ay|LM	no_tag
 nasisiyahan|VBTR	no_tag
 sa|CCT	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 .|PMP	no_tag
 
 Ngayon|RBW	no_tag
@@ -33038,7 +33038,7 @@ para|CCT	no_tag
 makinig|VBW	no_tag
 din|RBI	no_tag
 sa|CCT	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -33057,7 +33057,7 @@ mahal|JJD	no_tag
 din|RBI	no_tag
 makinig|VBW	no_tag
 sa|CCT	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 .|PMP	no_tag
 
 Napagtanto|VBTS	no_tag
@@ -33086,7 +33086,7 @@ araw|NNC	event
 Dahil|CCR	no_tag
 sa|CCT	no_tag
 mga|DTCP	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 ni|DTP	no_tag
 Rohana|NNP	misc
 ,|PMC	no_tag
@@ -33114,7 +33114,7 @@ ang|DTC	no_tag
 mga|DTCP	no_tag
 tao|NNC	person
 sa|CCT	no_tag
-parke|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+parke|NNC	location
 na|CCP	no_tag
 ito|PRO	no_tag
 ay|LM	no_tag
@@ -33154,14 +33154,14 @@ at|CCA	no_tag
 mahal|JJD	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 .|PMP	no_tag
 
 Nakasimangot|RBD	no_tag
 na|CCP	no_tag
 nakaupo|VBTS	no_tag
 sa|CCT	no_tag
-papag|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+papag|NNC	object
 si|DTP	no_tag
 Piringkay|NNP	no_tag
 .|PMP	no_tag
@@ -33219,7 +33219,7 @@ may|VBH	no_tag
 balahibong|JJD_CCP	no_tag
 kasingkulay|NNC	no_tag
 ng|CCB	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 .|PMP	no_tag
 
 Nang|RBW	no_tag
@@ -33336,7 +33336,7 @@ siyang|PRS_CCP	no_tag
 pasok|RBD	no_tag
 .|PMP	no_tag
 
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 ng|CCB	no_tag
 linggo|NNC	event
 .|PMP	no_tag
@@ -33712,7 +33712,7 @@ may|VBH	no_tag
 balahibong|JJD_CCP	no_tag
 kasingkulay|NNC	no_tag
 ng|CCB	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 .|PMP	no_tag
 
 Isang|PRI_CCP	no_tag
@@ -33777,7 +33777,7 @@ lang|RBI	no_tag
 sila|PRP	no_tag
 makapunta|VBW	no_tag
 ng|CCB	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 .|PMP	no_tag
 
 Isang|PRI_CCP	no_tag
@@ -33939,7 +33939,7 @@ nagpipigil|VBTS	no_tag
 sa|CCT	no_tag
 pag|CCR	no_tag
 -|PMS	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 .|PMP	no_tag
 
 Paalis|NNP	no_tag
@@ -34050,7 +34050,7 @@ na|CCP	no_tag
 nakita|VBTS	no_tag
 ko|PRS	no_tag
 sa|CCT	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 .|PMP	no_tag
 '|PMS	no_tag
 
@@ -34128,7 +34128,7 @@ laruang|NNC_CCP	object
 nakita|VBTS	no_tag
 niya|PRS	no_tag
 sa|CCT	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -34165,7 +34165,7 @@ ako|PRS	no_tag
 pagbalik|VBW	no_tag
 namin|PRP	no_tag
 sa|CCT	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 .|PMP	no_tag
 
 Hayaan|VBOF	no_tag
@@ -34458,7 +34458,7 @@ tinusukan|VBTS	no_tag
 ng|CCB	no_tag
 tingting|NNC	object
 sa|CCT	no_tag
-dulo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+dulo|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -34541,9 +34541,9 @@ palengke|NNC	location
 .|PMP	no_tag
 
 Ang|DTC	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
 -|PMS	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
 ni|DTP	no_tag
 Tikboy|NNP	no_tag
 .|PMP	no_tag
@@ -34563,13 +34563,13 @@ sa|CCT	no_tag
 torotot|NNC	object
 doon|PRL	no_tag
 sa|CCT	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 !|PMS	no_tag
 
 May|VBH	no_tag
 torotot|NNC	object
 din|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 sa|CCT	no_tag
 niyogan|NNC	location
 ?|PMQ	no_tag
@@ -34725,7 +34725,7 @@ siya|PRS	no_tag
 sa|CCT	no_tag
 likod|NNC	object
 ng|CCB	no_tag
-bakod|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bakod|NNC	object
 ng|CCB	no_tag
 eskuwelahan|NNC	location
 nila|PRP	no_tag
@@ -34776,7 +34776,7 @@ Ondoy|NNP	no_tag
 na|CCP	no_tag
 kanina|RBW	no_tag
 pa|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 siya|PRS	no_tag
 pinapanood|VBTR	no_tag
 at|CCA	no_tag
@@ -34892,7 +34892,7 @@ inaabot|VBTR	no_tag
 Nagbabalanse|VBTS	no_tag
 siya|PRS	no_tag
 sa|CCT	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 at|CCA	no_tag
 itinuturo|VBTR	no_tag
 ang|DTC	no_tag
@@ -35111,7 +35111,7 @@ Undo|NNP	no_tag
 
 Kumakaripas|NNP	no_tag
 ng|CCB	no_tag
-takbo|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+takbo|NNC	gerund
 ang|DTC	no_tag
 mga|DTCP	no_tag
 taong|NNC_CCP	person
@@ -35132,7 +35132,7 @@ napansin|VBTS	no_tag
 na|CCP	no_tag
 hatinggabi|RBW	no_tag
 na|CCP	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 .|PMP	no_tag
 
 Hanggang|RBW	no_tag
@@ -35157,7 +35157,7 @@ wala|VBN	no_tag
 namang|RBI_CCP	no_tag
 kabayo|NNC	animal
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 eskuwelahan|NNC	location
 .|PMP	no_tag
@@ -35224,7 +35224,7 @@ yan|PRO	no_tag
 ?|PMQ	no_tag
 
 "|PMS	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	no_tag
 naman|RBI	no_tag
 na|CCP	no_tag
 tanong|NNC_CCP	event
@@ -35247,7 +35247,7 @@ sumilip|VBAF	no_tag
 siya|PRS	no_tag
 sa|CCT	no_tag
 sirang|JJD_CCP	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -35301,7 +35301,7 @@ niya|PRS	no_tag
 ay|LM	no_tag
 napalitan|VBTS	no_tag
 ng|CCB	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	emotion
 .|PMP	no_tag
 
 Bigla|NNP	no_tag
@@ -35317,7 +35317,7 @@ nila|PRP	no_tag
 
 Kumaripas|NNP	no_tag
 ng|CCB	no_tag
-takbo|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+takbo|NNC	gerund
 ang|DTC	no_tag
 tikbalang|NNC	mythical creature
 ,|PMC	no_tag
@@ -35365,7 +35365,7 @@ Akala|NNP	no_tag
 ko|PRS	no_tag
 tuloy|JJD	no_tag
 isang|PRI_CCP	no_tag
-damo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+damo|NNC	object
 siya|PRS	no_tag
 "|PMS	no_tag
 "|PMS	no_tag
@@ -35429,7 +35429,7 @@ Tumayo|VBAF	no_tag
 ang|DTC	no_tag
 duwende|NNC	mythical creature
 sa|CCT	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 upang|CCB	no_tag
 makita|VBW	no_tag
 ,|PMC	no_tag
@@ -35606,7 +35606,7 @@ sinisiksik|VBTR	no_tag
 ang|DTC	no_tag
 sarili|NNC	object
 sa|CCT	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 .|PMP	no_tag
 
 Habang|RBW	no_tag
@@ -35956,7 +35956,7 @@ niya|PRS	no_tag
 
 "|PMS	no_tag
 Nakatatakot|JJD	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ng|CCB	no_tag
 pandemya|NNC	event
 ,|PMC	no_tag
@@ -36050,7 +36050,7 @@ na|RBI	no_tag
 niyang|PRS_CCP	no_tag
 pumasok|VBAF	no_tag
 sa|CCT	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -36212,7 +36212,7 @@ lalala|VBTF	no_tag
 
 "|PMS	no_tag
 Ang|DTC	no_tag
-kanta|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kanta|NNC	no_tag
 nila|PRP	no_tag
 ay|LM	no_tag
 sumasabay|VBTR_VBAF	no_tag
@@ -36349,7 +36349,7 @@ Aha|NNP	no_tag
 ,|PMC	no_tag
 recess|FW	no_tag
 na|CCP	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 !|PMS	no_tag
 
 "|PMS	no_tag
@@ -36601,7 +36601,7 @@ patuloy|RBD	no_tag
 ang|DTC	no_tag
 pag|CCR	no_tag
 -|PMS	no_tag
-aaral|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+aaral|NNC	gerund
 ni|DTP	no_tag
 Maria|NNP	no_tag
 sa|CCT	no_tag
@@ -36901,7 +36901,7 @@ Ano|PRQ	no_tag
 kaya|CCR	no_tag
 ang|DTC	no_tag
 nasa|RBL	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 nun?Oktubre|NNP	misc
 ,|PMC	no_tag
 Martes|NNP	no_tag
@@ -36937,10 +36937,10 @@ ko|PRS	no_tag
 na|CCP	no_tag
 ,|PMC	no_tag
 paruparo|JJD	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ang|DTC	no_tag
 nasa|RBL	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 nung|RBW_CCP	no_tag
 berdeng|JJD_CCP	no_tag
 nakabitin|VBTS	no_tag
@@ -36985,7 +36985,7 @@ akong|PRS_CCP	no_tag
 maliit|JJD	no_tag
 na|CCP	no_tag
 parang|CCT	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 .|PMP	no_tag
 
 Kulay|NNP	object
@@ -37035,7 +37035,7 @@ pagtulak|NNC	event
 sa|CCT	no_tag
 sinasakyan|VBTR	no_tag
 kong|PRS_CCP	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 .|PMP	no_tag
 
 Drayber|NNP	object
@@ -37159,7 +37159,7 @@ Wala|VBN	no_tag
 na|CCP	no_tag
 talaga|RBT	no_tag
 akong|PRS_CCP	no_tag
-pakinabang|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+pakinabang|NNC	misc
 ,|PMC	no_tag
 "|PMS	no_tag
 umiiyak|VBTR_VBAF	no_tag
@@ -37182,7 +37182,7 @@ nila|PRP	no_tag
 .|PMP	no_tag
 
 Ang|DTC	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
 ni|DTP	no_tag
 Nanay|NNP	no_tag
 Sula|NNP	no_tag
@@ -37209,7 +37209,7 @@ ang|DTC	no_tag
 buwan|NNC	object
 ,|PMC	no_tag
 "|PMS	no_tag
-kanta|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kanta|NNC	no_tag
 ko|PRS	no_tag
 upang|CCB	no_tag
 makatago|VBW	no_tag
@@ -37229,7 +37229,7 @@ tatlo|CDB	no_tag
 tinapos|VBOF	no_tag
 ko|PRS	no_tag
 ang|DTC	no_tag
-kanta|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kanta|NNC	gerund
 .|PMP	no_tag
 
 Hinanap|VBOF	no_tag
@@ -37489,7 +37489,7 @@ na|CCP	no_tag
 silang|PRP_CCP	no_tag
 hanapin|VBOF	no_tag
 ang|DTC	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 pauwi|VBW	no_tag
 ,|PMC	no_tag
 "|PMS	no_tag
@@ -37502,7 +37502,7 @@ Lita|NNP	no_tag
 
 "|PMS	no_tag
 Kaya|CCR	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 di|RBF	no_tag
 na|CCP	no_tag
 tinatawag|VBTR	no_tag
@@ -37515,7 +37515,7 @@ ko|PRS	no_tag
 .|PMP	no_tag
 
 Kaya|CCR	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 bigla|JJD	no_tag
 na|RBI	no_tag
 lang|RBI	no_tag
@@ -37528,7 +37528,7 @@ Sula|NNP	no_tag
 .|PMP	no_tag
 
 Kaya|CCR	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 di|RBF	no_tag
 nakabalik|VBTS	no_tag
 si|DTP	no_tag
@@ -37815,7 +37815,7 @@ ko|PRS	no_tag
 
 "|PMS	no_tag
 Ibang|PRI_CCP	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	misc
 na|CCP	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
@@ -37883,7 +37883,7 @@ kaya|CCR	no_tag
 yun?Isang|RBD_CCP	no_tag
 kamiseta|JJD	no_tag
 lang|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 na|CCP	no_tag
 katulad|JJC	no_tag
 ng|CCB	no_tag
@@ -38188,7 +38188,7 @@ rito|PRL	no_tag
 "|PMS	no_tag
 Magagaling|JJD	no_tag
 naman|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 kayong|JJC	no_tag
 tumago|NNC	no_tag
 ,|PMC	no_tag
@@ -38213,7 +38213,7 @@ Aha|NNP	no_tag
 
 Nandiyan|VBTS	no_tag
 lang|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 kayo|PRP	no_tag
 ,|PMC	no_tag
 "|PMS	no_tag
@@ -38316,7 +38316,7 @@ kaibigan|NNC	person
 
 Mabilis|RBD	no_tag
 ang|DTC	no_tag
-takbo|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+takbo|NNC	gerund
 ni|DTP	no_tag
 Hanah|NNP	no_tag
 Hunyango|NNP	person
@@ -38349,7 +38349,7 @@ ako|PRS	no_tag
 ang|DTC	no_tag
 malakas|JJD	no_tag
 na|CCP	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	misc
 na|CCP	no_tag
 sabi|VBS	no_tag
 ni|DTP	no_tag
@@ -39058,7 +39058,7 @@ ikot|NNC	event
 si|DTP	no_tag
 Saturn|NNP	misc
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 kaniyang|PRSP_CCP	no_tag
 bilog|NNC	object
@@ -39280,7 +39280,7 @@ may|VBH	no_tag
 umiiyak|VBTR_VBAF	no_tag
 sa|CCT	no_tag
 hindi|RBF	no_tag
-kalayuan|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kalayuan|NNC	no_tag
 .|PMP	no_tag
 
 Nagmamadali|VBTS	no_tag
@@ -39360,7 +39360,7 @@ At|CCA	no_tag
 biglang|RBD_CCP	no_tag
 dumating|VBAF	no_tag
 si|DTP	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	misc
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -39374,7 +39374,7 @@ maliit|JJD	no_tag
 "|PMS	no_tag
 sabi|VBS	no_tag
 ni|DTP	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	misc
 nang|RBW	no_tag
 may|VBH	no_tag
 pagmamahal|NNC	gerund
@@ -39393,7 +39393,7 @@ Ikaw|NNP	no_tag
 ay|LM	no_tag
 laging|RBD_CCP	no_tag
 magiging|VBTF	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	misc
 ng|CCB	no_tag
 ating|PRSP_CCP	no_tag
 pamilya|NNC	organization
@@ -39430,7 +39430,7 @@ system|FW	no_tag
 !|PMS	no_tag
 
 "|PMS	no_tag
-WAKAS|NNPA	['location', 'object'] #NEEDS MANUAL INTERVENTION
+WAKAS|NNPA	location
 
 Noong|RBW_CCP	no_tag
 unang|JJN_CCP	no_tag
@@ -39455,7 +39455,7 @@ rosas|NNC	animal
 
 Ang|DTC	no_tag
 bawat|PRI	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	location
 ng|CCB	no_tag
 nayon|NNC	location
 ay|LM	no_tag
@@ -39473,7 +39473,7 @@ Kilalang|JJD_CCP	no_tag
 kilala|JJD	no_tag
 kahit|CCT	no_tag
 sa|CCT	no_tag
-kalayuan|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kalayuan|NNC	misc
 ang|DTC	no_tag
 reputasyon|NNC	misc
 ng|CCB	no_tag
@@ -39499,7 +39499,7 @@ nang|CCB	no_tag
 pare|FW	no_tag
 -|PMS	no_tag
 parehong|JJC_CCP	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	misc
 ng|CCB	no_tag
 pulang|JJD_CCP	no_tag
 rosas|NNC	animal
@@ -40623,7 +40623,7 @@ Akay|NNP	no_tag
 "|PMS	no_tag
 Kumakain|VBTR_VBAF	no_tag
 ka|PRS	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ng|CCB	no_tag
 mga|DTCP	no_tag
 gulay|NNC	food
@@ -40956,7 +40956,7 @@ manilo|NNC	no_tag
 ng|CCB	no_tag
 baboy|NNC	animal
 -|PMS	no_tag
-damo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+damo|NNC	location
 .|PMP	no_tag
 
 Si|DTP	no_tag
@@ -40975,7 +40975,7 @@ ang|DTC	no_tag
 may|VBH	no_tag
 pinakamalawak|JJCS_JJD	no_tag
 na|CCP	no_tag
-taniman|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+taniman|NNC	location
 ng|CCB	no_tag
 saging|NNC	food
 ,|PMC	no_tag
@@ -40995,7 +40995,7 @@ ng|CCB	no_tag
 husto|JJD	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
-ani|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+ani|NNC	object
 niya|PRS	no_tag
 tuwing|RBW	no_tag
 siya|PRS	no_tag
@@ -41135,7 +41135,7 @@ doon|PRL	no_tag
 sa|CCT	no_tag
 pinakaitaas|JJCS_JJD	no_tag
 na|CCP	no_tag
-parte|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+parte|NNC	location
 ng|CCB	no_tag
 bundok|NNC	object
 .|PMP	no_tag
@@ -41231,14 +41231,14 @@ nilang|PRP_CCP	no_tag
 binagtas|VBOF	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 papuntang|RBL_CCP	no_tag
 bundok|NNC	object
 .|PMP	no_tag
 
 Madulas|NNP	no_tag
 ang|DTC	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 at|CCA	no_tag
 marami|PRI	no_tag
 silang|PRP_CCP	no_tag
@@ -41442,7 +41442,7 @@ Sumagang|VBAF	no_tag
 
 Malakas|JJD	no_tag
 ang|DTC	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	misc
 niya|PRS	no_tag
 na|CCP	no_tag
 makakapatubo|VBW	no_tag
@@ -41604,7 +41604,7 @@ iba|PRI	no_tag
 '|PMS	no_tag
 t|NNCA	no_tag
 ibang|PRI_CCP	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	location
 ng|CCB	no_tag
 Sumagang|NNP	no_tag
 .|PMP	no_tag
@@ -41850,7 +41850,7 @@ plato|NNC	object
 apat|JJN	no_tag
 na|CCP	no_tag
 malalaking|JJD_CCP	no_tag
-tilapya|NNC	['animal', 'food'] #NEEDS MANUAL INTERVENTION
+tilapya|NNC	food
 ,|PMC	no_tag
 at|CCA	no_tag
 limang|JJN_CCP	no_tag
@@ -41887,7 +41887,7 @@ dibdib|NNC	body part
 ni|DTP	no_tag
 Rona|NNP	no_tag
 sa|CCT	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	emotion
 habang|RBW	no_tag
 sumasakay|VBTR_VBAF	no_tag
 .|PMP	no_tag
@@ -41904,7 +41904,7 @@ siya|PRS	no_tag
 Paano|PRQ	no_tag
 kung|CCR	no_tag
 sa|CCT	no_tag
-paghila|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paghila|NNC	gerund
 ng|CCB	no_tag
 pamaba|NNC	object
 biglang|JJD_CCP	no_tag
@@ -41953,7 +41953,7 @@ kamay|NNC	event
 .|PMP	no_tag
 
 Sa|CCT	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ay|LM	no_tag
 natanaw|VBTS	no_tag
 nila|PRP	no_tag
@@ -42046,7 +42046,7 @@ mapadaan|VBW	no_tag
 sa|CCT	no_tag
 malubak|JJD	no_tag
 na|CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ang|DTC	no_tag
 pamabang|JJD_CCP	no_tag
 sinasakyan|VBTR	no_tag
@@ -42059,7 +42059,7 @@ Nanay|NNP	no_tag
 "|PMS	no_tag
 natatakot|VBTR	no_tag
 na|CCP	no_tag
-sambit|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+sambit|NNC	no_tag
 niya|PRS	no_tag
 .|PMP	no_tag
 
@@ -42076,7 +42076,7 @@ mga|DTCP	no_tag
 bakang|NNC_CCP	animal
 kumakain|VBTR_VBAF	no_tag
 ng|CCB	no_tag
-damo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+damo|NNC	object
 ,|PMC	no_tag
 bilangin|VBOF	no_tag
 mo|PRS	no_tag
@@ -42227,7 +42227,7 @@ kendeng|JJD	no_tag
 na|CCP	no_tag
 tumatawid|VBTR_VBAF	no_tag
 sa|CCT	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -42267,7 +42267,7 @@ lahat|PRI	no_tag
 "|PMS	no_tag
 Patuloy|JJD	no_tag
 sa|CCT	no_tag
-paghila|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paghila|NNC	no_tag
 ang|DTC	no_tag
 kalabaw|NNC	animal
 sa|CCT	no_tag
@@ -42282,14 +42282,14 @@ Rona|NNP	no_tag
 sa|CCT	no_tag
 baba|JJD	no_tag
 ng|CCB	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 .|PMP	no_tag
 
 May|VBH	no_tag
 mga|DTCP	no_tag
 suso|NNC	animal
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 na|CCP	no_tag
 dahan|NNC	no_tag
 -|PMS	no_tag
@@ -42465,7 +42465,7 @@ ito|PRO	no_tag
 ay|LM	no_tag
 ginawa|VBTS	no_tag
 bilang|CCT	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	misc
 ng|CCB	no_tag
 proyektong|NNC_CCP	misc
 ABC|NNPA	no_tag
@@ -42682,7 +42682,7 @@ ng|CCB	no_tag
 isa|PRI	no_tag
 pang|RBI_CCP	no_tag
 malaking|JJD_CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 noong|RBW_CCP	no_tag
 .|PMP	no_tag
 
@@ -42885,7 +42885,7 @@ na|CCP	no_tag
 dumadaan|VBTR_VBAF	no_tag
 sa|CCT	no_tag
 malalaking|JJD_CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ng|CCB	no_tag
 Panama|NNP	misc
 Canal|NNP	misc
@@ -43268,7 +43268,7 @@ upang|CCB	no_tag
 magkaroon|VBW	no_tag
 ng|CCB	no_tag
 mahalagang|JJD_CCP	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	misc
 sa|CCT	no_tag
 mundo|NNC	location
 .|PMP	no_tag
@@ -43906,7 +43906,7 @@ gawin|VBOF	no_tag
 Malapit|JJD	no_tag
 na|CCP	no_tag
 ang|DTC	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 ng|CCB	no_tag
 Kalayaan|NNP	misc
 ng|CCB	no_tag
@@ -43928,7 +43928,7 @@ tarangkahan|NNC	object
 upang|CCB	no_tag
 ipagdiwang|VBOB	no_tag
 ang|DTC	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 ng|CCB	no_tag
 Kalayaan|NNP	misc
 .|PMP	no_tag
@@ -44033,7 +44033,7 @@ ang|DTC	no_tag
 gate|FW	no_tag
 para|CCT	no_tag
 sa|CCT	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 ng|CCB	no_tag
 Kalayaan|NNP	misc
 .|PMP	no_tag
@@ -44326,7 +44326,7 @@ isa|PRI	no_tag
 .|PMP	no_tag
 
 Masaya|NNP	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 sa|CCT	no_tag
 pakiramdam|NNC	emotion
 kapag|CCR	no_tag
@@ -44452,7 +44452,7 @@ sa|CCT	no_tag
 ilalim|JJD	no_tag
 ng|CCB	no_tag
 kalahating|JJD_CCP	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	location
 lamang|RBI	no_tag
 .|PMP	no_tag
 
@@ -44464,7 +44464,7 @@ ang|DTC	no_tag
 mas|JJCC	no_tag
 mataas|JJD	no_tag
 na|CCP	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	location
 .|PMP	no_tag
 
 Hmmmm|NNP	misc
@@ -44778,7 +44778,7 @@ tatay|NNC	person
 ang|DTC	no_tag
 mataas|JJD	no_tag
 na|CCP	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	location
 ng|CCB	no_tag
 pader|NNC	object
 .|PMP	no_tag
@@ -44867,7 +44867,7 @@ Wowwwww|NNP	misc
 
 Ang|DTC	no_tag
 ganda!Sobrang|JJD_CCP	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
 ko|PRS	no_tag
 ngayon|RBW	no_tag
 .|PMP	no_tag
@@ -45375,7 +45375,7 @@ ay|LM	no_tag
 lubhang|JJCS_CCP	no_tag
 kapaki|NNC	misc
 -|PMS	no_tag
-pakinabang|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+pakinabang|NNC	no_tag
 .|PMP	no_tag
 
 •|PMS	no_tag
@@ -45557,7 +45557,7 @@ mga|DTCP	no_tag
 paraan|NNC	event
 kapaki|NNC	misc
 -|PMS	no_tag
-pakinabang|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+pakinabang|NNC	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
 balahibo|NNC	object
@@ -45600,7 +45600,7 @@ edukasyon|NNC	event
 para|CCT	no_tag
 sa|CCT	no_tag
 mga|DTCP	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 sa|CCT	no_tag
 Papua|NNP	object
 New|NNP	misc
@@ -45882,7 +45882,7 @@ laruan|NNC	object
 Naku|NNP	no_tag
 ,|PMC	no_tag
 wala|VBN	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 dito|PRL	no_tag
 ?|PMQ	no_tag
 
@@ -46172,7 +46172,7 @@ Mam|NNP	person
 
 Sa|CCT	no_tag
 sobrang|JJCS_CCP	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
 ,|PMC	no_tag
 gumalaw|VBAF	no_tag
 -|PMS	no_tag
@@ -46195,7 +46195,7 @@ Dayday|NNP	no_tag
 bukas|JJD	no_tag
 ,|PMC	no_tag
 "|PMS	no_tag
-hamon|NNC	['gerund', 'not_tag'] #NEEDS MANUAL INTERVENTION
+hamon|NNC	no_tag
 ni|DTP	no_tag
 Bisel|NNP	no_tag
 .|PMP	no_tag
@@ -46453,7 +46453,7 @@ gamit|VBS	no_tag
 ang|DTC	no_tag
 shell|FW	no_tag
 at|CCA	no_tag
-kagat|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kagat|NNC	gerund
 ng|CCB	no_tag
 alimasag|NNC	animal
 .|PMP	no_tag
@@ -46466,7 +46466,7 @@ katawan|NNC	object
 .|PMP	no_tag
 
 Ang|DTC	no_tag
-kagat|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kagat|NNC	gerund
 ang|DTC	no_tag
 ginawang|VBTS_CCP	no_tag
 ulo|NNC	body part
@@ -46479,7 +46479,7 @@ at|CCA	no_tag
 maliit|JJD	no_tag
 ang|DTC	no_tag
 bawat|PRI	no_tag
-dulo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+dulo|NNC	object
 .|PMP	no_tag
 
 Dagdagan|VBTF	no_tag
@@ -46653,7 +46653,7 @@ katawan|NNC	object
 at|CCA	no_tag
 sa|CCT	no_tag
 bawat|PRI	no_tag
-dulo|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+dulo|NNC	location
 ay|LM	no_tag
 buntot|NNC	body part
 at|CCA	no_tag
@@ -46689,7 +46689,7 @@ sakit|NNC	object
 
 "|PMS	no_tag
 Hindi|RBF	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 kasya|NNC	no_tag
 ang|DTC	no_tag
 katawan|NNC	object
@@ -46711,7 +46711,7 @@ Pani|NNP	no_tag
 ,|PMC	no_tag
 matulis|JJD	no_tag
 ang|DTC	no_tag
-kagat|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kagat|NNC	gerund
 at|CCA	no_tag
 shell|FW	no_tag
 ng|CCB	no_tag
@@ -47062,7 +47062,7 @@ nakapikit|RBD	no_tag
 Ang|DTC	no_tag
 mabunggo|JJD	no_tag
 sa|CCT	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 siyang|PRS_CCP	no_tag
 talo|NNC	no_tag
 !|PMS	no_tag
@@ -47093,7 +47093,7 @@ Lani|NNP	no_tag
 
 Hindi|RBF	no_tag
 naman|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 pwede|RBT	no_tag
 .|PMP	no_tag
 "|PMS	no_tag
@@ -47309,7 +47309,7 @@ Pani|NNP	no_tag
 Gabay|NNP	no_tag
 :|PMS	no_tag
 Ang|DTC	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 ni|DTP	no_tag
 Pani|NNP	no_tag
 ay|LM	no_tag
@@ -47350,7 +47350,7 @@ mapag|VBW	no_tag
 -|PMS	no_tag
 usupan|NNC	no_tag
 sa|CCT	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 angkaranasan|NNC	misc
 ni|DTP	no_tag
 Pani|NNP	no_tag
@@ -47358,13 +47358,13 @@ Pani|NNP	no_tag
 .|PMP	no_tag
 
 Anong|PRQ_CCP	no_tag
-hamon|NNC	['gerund', 'not_tag'] #NEEDS MANUAL INTERVENTION
+hamon|NNC	misc
 ang|DTC	no_tag
 nararanasan|VBTR	no_tag
 ni|DTP	no_tag
 Pani|NNP	no_tag
 sa|CCT	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 ?|PMQ	no_tag
 .|PMP	no_tag
 
@@ -47430,7 +47430,7 @@ bundok|NNC	object
 ,|PMC	no_tag
 may|VBH	no_tag
 isang|PRI_CCP	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 –|PMS	no_tag
 Ang|DTC	no_tag
 munting|JJD_CCP	no_tag
@@ -47530,7 +47530,7 @@ y|FW	no_tag
 mauubos|FW	no_tag
 ,|PMC	no_tag
 at|CCA	no_tag
-dilim|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+dilim|NNC	misc
 ay|LM	no_tag
 bumabalot|VBTR_VBAF	no_tag
 .|PMP	no_tag
@@ -47697,7 +47697,7 @@ ni|DTP	no_tag
 Kingan|NNP	no_tag
 nang|RBW	no_tag
 buong|PRI_CCP	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	misc
 at|CCA	no_tag
 isip|NNC	misc
 ;|PMSC	no_tag
@@ -47795,7 +47795,7 @@ samang|NNC_CCP	no_tag
 mga|DTCP	no_tag
 kamay|NNC	event
 ng|CCB	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	organization
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -47826,7 +47826,7 @@ bundok|NNC	object
 ,|PMC	no_tag
 may|VBH	no_tag
 isang|PRI_CCP	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 –|PMS	no_tag
 Ang|DTC	no_tag
 munting|JJD_CCP	no_tag
@@ -47849,10 +47849,10 @@ kamay|NNC	event
 tatalunin|VBTF	no_tag
 ang|DTC	no_tag
 mga|DTCP	no_tag
-hamon|NNC	['gerund', 'not_tag'] #NEEDS MANUAL INTERVENTION
+hamon|NNC	misc
 .|PMP	no_tag
 
-WAKAS|NNPA	['location', 'object'] #NEEDS MANUAL INTERVENTION
+WAKAS|NNPA	location
 
 Yehey|NNP	no_tag
 !|PMS	no_tag
@@ -47865,7 +47865,7 @@ naman|RBI	no_tag
 .|PMP	no_tag
 
 Masayang|JJD_CCP	no_tag
-kanta|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kanta|NNC	no_tag
 ni|DTP	no_tag
 Guntur|NNP	misc
 .|PMP	no_tag
@@ -48084,7 +48084,7 @@ madilim|JJD	no_tag
 at|CCA	no_tag
 tuyot|JJD	no_tag
 na|CCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -48100,7 +48100,7 @@ Ngunit|CCT	no_tag
 napakasikip|JJCS_JJD	no_tag
 ng|CCB	no_tag
 kanilang|PRSP_CCP	no_tag
-tirahan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tirahan|NNC	location
 .|PMP	no_tag
 
 Napakasaya|VBTS	no_tag
@@ -48335,7 +48335,7 @@ kabatsoy|NNC	misc
 Maging|VBW	no_tag
 ang|DTC	no_tag
 kanilang|PRSP_CCP	no_tag
-tirahan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tirahan|NNC	location
 ay|LM	no_tag
 magkaiba|VBAF	no_tag
 rin|RBI	no_tag
@@ -48455,7 +48455,7 @@ tagapaglathala|NNC	misc
 at|CCA	no_tag
 taga|JJD	no_tag
 -|PMS	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	person
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -48533,7 +48533,7 @@ Ang|DTC	no_tag
 pagtuturo|NNC	event
 ng|CCB	no_tag
 mga|DTCP	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 ,|PMC	no_tag
 pagsulat|NNC	event
 ,|PMC	no_tag
@@ -48618,7 +48618,7 @@ ka|PRS	no_tag
 muna|RBI	no_tag
 mag|VBW	no_tag
 -|PMS	no_tag
-aaral|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+aaral|NNC	misc
 sa|CCT	no_tag
 bahay|NNC	location
 ,|PMC	no_tag
@@ -48870,7 +48870,7 @@ titser|FW	no_tag
 
 Ang|DTC	no_tag
 tatay|NNC	person
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ay|LM	no_tag
 titser|FW	no_tag
 din|RBI	no_tag
@@ -49077,7 +49077,7 @@ gulang|NNC	misc
 na|CCP	no_tag
 naka|RBD	no_tag
 -|PMS	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 na|CCP	no_tag
 may|VBH	no_tag
 gulong|NNC	object
@@ -49451,7 +49451,7 @@ mabilis|JJD	no_tag
 na|CCP	no_tag
 bola|NNC	object
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	misc
 ng|CCB	no_tag
 sampung|JJN_CCP	no_tag
 minuto|NNC	misc
@@ -49559,7 +49559,7 @@ malungkot|JJD	no_tag
 na|CCP	no_tag
 maliliit|JJD	no_tag
 na|CCP	no_tag
-taas|NNC	['location', 'misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+taas|NNC	location
 ,|PMC	no_tag
 habang|RBW	no_tag
 tayo|PRP	no_tag
@@ -49751,7 +49751,7 @@ maliit|JJD	no_tag
 na|CCP	no_tag
 kamera|NNC	object
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 kanyang|PRSP_CCP	no_tag
 daliri|NNC	misc
@@ -49959,7 +49959,7 @@ at|CCA	no_tag
 nakakasama|VBTR	no_tag
 ko|PRS	no_tag
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 .|PMP	no_tag
 
 Pero|CCT	no_tag
@@ -50093,7 +50093,7 @@ o|CCT	no_tag
 galit|NNC	emotion
 ,|PMC	no_tag
 o|CCT	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	emotion
 ,|PMC	no_tag
 nawawala|VBTR	no_tag
 ang|DTC	no_tag
@@ -50169,7 +50169,7 @@ at|CCA	no_tag
 narito|PRL	no_tag
 ang|DTC	no_tag
 pinakamagandang|JJCS_JJD_CCP	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	object
 –|PMS	no_tag
 hindi|RBF	no_tag
 ko|PRS	no_tag
@@ -50178,7 +50178,7 @@ makaramdam|VBW	no_tag
 ng|CCB	no_tag
 sama|NNC	no_tag
 ng|CCB	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	misc
 na|CCP	no_tag
 nagsasaya|VBTR	no_tag
 siya|PRS	no_tag
@@ -50582,7 +50582,7 @@ naramdaman|VBTS	no_tag
 ko|PRS	no_tag
 ,|PMC	no_tag
 ang|DTC	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	emotion
 -|PMS	no_tag
 at|CCA	no_tag
 -|PMS	no_tag
@@ -50749,7 +50749,7 @@ mas|JJCC	no_tag
 makikita|VBTF	no_tag
 kahit|CCT	no_tag
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	misc
 ng|CCB	no_tag
 25taon|RBW	no_tag
 mula|RBW	no_tag
@@ -50819,7 +50819,7 @@ kang|PRS_CCP	no_tag
 nanonood|VBTR	no_tag
 ng|CCB	no_tag
 napakaraming|JJCS_JJD_CCP	no_tag
-pelikula|NNC	['event', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+pelikula|NNC	misc
 at|CCA	no_tag
 palabas|NNC	event
 sa|CCT	no_tag
@@ -50895,7 +50895,7 @@ pabrika|NNC	object
 ,|PMC	no_tag
 bodega|NNC	object
 ,|PMC	no_tag
-taniman|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+taniman|NNC	location
 ,|PMC	no_tag
 ospital|NNC	location
 at|CCA	no_tag
@@ -51152,7 +51152,7 @@ makahanap|VBW	no_tag
 ng|CCB	no_tag
 kapaki|NNC	misc
 -|PMS	no_tag
-pakinabang|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+pakinabang|NNC	no_tag
 na|CCP	no_tag
 impormasyon|NNC	misc
 -|PMS	no_tag
@@ -51163,7 +51163,7 @@ sa|CCT	no_tag
 mga|DTCP	no_tag
 proyekto|NNC	event
 sa|CCT	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 ,|PMC	no_tag
 mga|DTCP	no_tag
 ulat|NNC	misc
@@ -51239,7 +51239,7 @@ order|NNC	misc
 ng|CCB	no_tag
 aming|PRSP_CCP	no_tag
 mga|DTCP	no_tag
-pamilihan|NNC	['event', 'organization'] #NEEDS MANUAL INTERVENTION
+pamilihan|NNC	event
 ,|PMC	no_tag
 at|CCA	no_tag
 sabihin|VBOF	no_tag
@@ -51494,7 +51494,7 @@ nganga|NNC	object
 habang|RBW	no_tag
 nakasakay|VBTS	no_tag
 sa|CCT	no_tag
-duyan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+duyan|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -51542,7 +51542,7 @@ ngumiti|VBAF	no_tag
 Halika|NNP	no_tag
 dito|PRL	no_tag
 sa|CCT	no_tag
-duyan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+duyan|NNC	location
 dahil|CCR	no_tag
 ikekwento|VBOF	no_tag
 ko|PRS	no_tag
@@ -51615,7 +51615,7 @@ kalangitan|NNC	location
 ,|PMC	no_tag
 "|PMS	no_tag
 paunang|JJD_CCP	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	no_tag
 ni|DTP	no_tag
 Ulang|NNP	no_tag
 Bayi|NNP	no_tag
@@ -51810,7 +51810,7 @@ Kabugwasun|NNP	no_tag
 .|PMP	no_tag
 
 "|PMS	no_tag
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	misc
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -51834,7 +51834,7 @@ iba|PRI	no_tag
 t|NNCA	no_tag
 -|PMS	no_tag
 ibang|PRI_CCP	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	misc
 ng|CCB	no_tag
 bituin|NNC	object
 .|PMP	no_tag
@@ -51870,7 +51870,7 @@ Ulang|NNC	no_tag
 
 Ang|DTC	no_tag
 araw|NNC	misc
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ay|LM	no_tag
 isang|PRI_CCP	no_tag
 ring|RBI_CCP	no_tag
@@ -51907,7 +51907,7 @@ mundo|NNC	location
 Ah|RBJ	no_tag
 ,|PMC	no_tag
 ganiyan|PRC_CCP	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ...|PMS	no_tag
 Oh|NNP	no_tag
 !|PMS	no_tag
@@ -51973,7 +51973,7 @@ nahulog|VBTS	no_tag
 na|RBI	no_tag
 sila|PRP	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 ,|PMC	no_tag
 Dulis|NNP	no_tag
 na|CCP	no_tag
@@ -51992,7 +51992,7 @@ Bayi|NNP	no_tag
 Ay|NNP	no_tag
 ,|PMC	no_tag
 ganun|PRC	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 !|PMS	no_tag
 
 "|PMS	no_tag
@@ -52132,7 +52132,7 @@ Tatay|NNC	person
 .|PMP	no_tag
 
 Kaya|CCR	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ako|PRS	no_tag
 laging|RBW_CCP	no_tag
 nalulungkot|VBTR	no_tag
@@ -52373,7 +52373,7 @@ mo|PRS	no_tag
 bang|RBM	no_tag
 marinig|VBW	no_tag
 ang|DTC	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 ni|DTP	no_tag
 Kara|NNP	no_tag
 at|CCA	no_tag
@@ -52535,7 +52535,7 @@ kalaban|NNC	person
 "|PMS	no_tag
 Kara|NNP	no_tag
 ,|PMC	no_tag
-depensa|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+depensa|NNC	misc
 !|PMS	no_tag
 
 "|PMS	no_tag
@@ -52612,7 +52612,7 @@ Yay|NNP	no_tag
 Ang|DTC	no_tag
 galing|RBL	no_tag
 po|RBS	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 nila|PRP	no_tag
 Kara|NNP	no_tag
 !|PMS	no_tag
@@ -52716,7 +52716,7 @@ Masustansya|NNP	no_tag
 po|RBS	no_tag
 ba|RBI	no_tag
 ang|DTC	no_tag
-hapunan|NNC	['event', 'food'] #NEEDS MANUAL INTERVENTION
+hapunan|NNC	food
 natin|PRP	no_tag
 ,|PMC	no_tag
 mama|NNC	person
@@ -52786,7 +52786,7 @@ po|RBS	no_tag
 mama|NNC	person
 sa|CCT	no_tag
 iyong|PRSP_CCP	no_tag
-kwento|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kwento|NNC	misc
 .|PMP	no_tag
 
 Marami|PRI	no_tag
@@ -52948,7 +52948,7 @@ sila|PRP	no_tag
 mismo|RBT	no_tag
 sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-tirahan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tirahan|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -52981,7 +52981,7 @@ ng|CCB	no_tag
 buhangin|NNC	object
 at|CCA	no_tag
 mga|DTCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 ang|DTC	no_tag
 sisidlan|NNC	object
 nito|PRO	no_tag
@@ -53053,7 +53053,7 @@ binitbit|VBOF	no_tag
 ito|PRO	no_tag
 sa|CCT	no_tag
 kaniyang|PRSP_CCP	no_tag
-paglalakad|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paglalakad|NNC	gerund
 sa|CCT	no_tag
 tabing|NNC	object
 -|PMS	no_tag
@@ -53290,7 +53290,7 @@ umang|VBAF	no_tag
 umang|VBAF	no_tag
 sa|CCT	no_tag
 kaniyang|PRSP_CCP	no_tag
-tirahan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tirahan|NNC	location
 .|PMP	no_tag
 "|PMS	no_tag
 
@@ -53301,7 +53301,7 @@ nag|VBTS	no_tag
 -|PMS	no_tag
 alaga|NNC	animal
 ka|PRS	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ng|CCB	no_tag
 umang|NNC_CCP	animal
 -|PMS	no_tag
@@ -53469,7 +53469,7 @@ Kokoy|NNP	no_tag
 pauwi|NNC	no_tag
 sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-tahanan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tahanan|NNC	location
 .|PMP	no_tag
 
 Talasalitaan|NNP	no_tag
@@ -53485,7 +53485,7 @@ Ins|NNC	event
 ins|FW	no_tag
 -|PMS	no_tag
 mga|DTCP	no_tag
-larong|NNC_CCP	['event', 'object'] #NEEDS MANUAL INTERVENTION
+larong|NNC_CCP	event
 pinoyPalaging|VBTR_CCP	no_tag
 nag|NNCA	person
 -|PMS	no_tag
@@ -53872,7 +53872,7 @@ sabay|RBD	no_tag
 -|PMS	no_tag
 sabay|RBD	no_tag
 na|CCP	no_tag
-kanta|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+kanta|NNC	no_tag
 nila|PRP	no_tag
 .|PMP	no_tag
 
@@ -54074,7 +54074,7 @@ niyang|PRS_CCP	no_tag
 tinatapos|VBTR	no_tag
 ang|DTC	no_tag
 kaniyang|PRSP_CCP	no_tag
-hapunan|NNC	['event', 'food'] #NEEDS MANUAL INTERVENTION
+hapunan|NNC	food
 at|CCA	no_tag
 uminum|VBAF	no_tag
 ng|CCB	no_tag
@@ -54334,7 +54334,7 @@ ama|NNC	person
 
 Sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 pauwi|NNC	no_tag
 ,|PMC	no_tag
 nakita|VBTS	no_tag
@@ -54464,7 +54464,7 @@ lima|CDB	no_tag
 .|PMP	no_tag
 
 Ang|DTC	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	no_tag
 ni|DTP	no_tag
 Lilly|NNP	no_tag
 dahil|CCR	no_tag
@@ -54495,7 +54495,7 @@ tubig|NNC	object
 
 Sinapaw|NNP	no_tag
 ang|DTC	no_tag
-tirahan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tirahan|NNC	location
 ng|CCB	no_tag
 mag|VBW	no_tag
 -|PMS	no_tag
@@ -54738,7 +54738,7 @@ Langit|NNP	no_tag
 sa|CCT	no_tag
 pag|CCR	no_tag
 -|PMS	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 ?|PMQ	no_tag
 
 "|PMS	no_tag
@@ -54878,7 +54878,7 @@ siya|PRS	no_tag
 sa|CCT	no_tag
 labas|NNC	location
 ng|CCB	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 kung|CCR	no_tag
 may|VBH	no_tag
 natamaan|VBTS	no_tag
@@ -54903,7 +54903,7 @@ Nabitawan|VBTS	no_tag
 niya|PRS	no_tag
 bigla|JJD	no_tag
 ang|DTC	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 na|CCP	no_tag
 hawak|JJD	no_tag
 -|PMS	no_tag
@@ -54961,7 +54961,7 @@ Nakasandal|RBD	no_tag
 lamang|RBI	no_tag
 siya|PRS	no_tag
 sa|CCT	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	object
 na|CCP	no_tag
 halo|JJD	no_tag
 -|PMS	no_tag
@@ -55032,7 +55032,7 @@ ay|LM	no_tag
 umupo|VBAF	no_tag
 malapit|JJD	no_tag
 sa|CCT	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 kung|CCR	no_tag
 nasaan|JJD	no_tag
 si|DTP	no_tag
@@ -55048,11 +55048,11 @@ para|CCT	no_tag
 makababa|VBW	no_tag
 dito|PRL	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 dahil|CCR	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 nang|RBW	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 pa|RBI	no_tag
 rin|RBI	no_tag
 si|DTP	no_tag
@@ -55148,7 +55148,7 @@ na|CCP	no_tag
 sana|VBS	no_tag
 niya|PRS	no_tag
 ang|DTC	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	object
 nang|RBW	no_tag
 dinukot|VBOF	no_tag
 ng|CCB	no_tag
@@ -55207,7 +55207,7 @@ niya|PRS	no_tag
 pang|RBI_CCP	no_tag
 pigilan|VBOF	no_tag
 ang|DTC	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	gerund
 niya|PRS	no_tag
 .|PMP	no_tag
 
@@ -55221,7 +55221,7 @@ ang|DTC	no_tag
 kamay|NNC	event
 niya|PRS	no_tag
 sa|CCT	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 at|CCA	no_tag
 inilagay|VBTS	no_tag
 ang|DTC	no_tag
@@ -55371,13 +55371,13 @@ kaya|CCR	no_tag
 sa|CCT	no_tag
 pag|CCR	no_tag
 -|PMS	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 niya|PRS	no_tag
 ,|PMC	no_tag
 nagkaroon|VBTS	no_tag
 kami|PRP	no_tag
 ng|CCB	no_tag
-daanan|NNC	['location', 'no_tag'] #NEEDS MANUAL INTERVENTION
+daanan|NNC	location
 para|CCT	no_tag
 madala|VBW	no_tag
 si|DTP	no_tag
@@ -55583,14 +55583,14 @@ sa|CCT	no_tag
 San|NNP	no_tag
 Nicolas|NNP	no_tag
 Elementary|NNP	no_tag
-School|NNP	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+School|NNP	location
 .|PMP	no_tag
 
 Pareho|JJC	no_tag
 silang|PRP_CCP	no_tag
 magaling|JJD	no_tag
 sa|CCT	no_tag
-klase|NNC	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+klase|NNC	event
 at|CCA	no_tag
 maganda|JJD	no_tag
 .|PMP	no_tag
@@ -55656,7 +55656,7 @@ mga|DTCP	no_tag
 hanger|FW	no_tag
 diyan|PRL	no_tag
 sa|CCT	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	location
 ,|PMC	no_tag
 "|PMS	no_tag
 utos|NNC	misc
@@ -55674,7 +55674,7 @@ pero|CCT	no_tag
 pupunta|VBTF	no_tag
 tayo|PRP	no_tag
 ng|CCB	no_tag
-bayan|NNC	['location', 'object', 'organization'] #NEEDS MANUAL INTERVENTION
+bayan|NNC	location
 mamaya|RBW	no_tag
 .|PMP	no_tag
 
@@ -56281,7 +56281,7 @@ Patuloy|JJD	no_tag
 pa|RBI	no_tag
 rin|RBI	no_tag
 ang|DTC	no_tag
-iyak|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+iyak|NNC	no_tag
 ni|DTP	no_tag
 Lisa|NNP	no_tag
 na|CCP	no_tag
@@ -56339,7 +56339,7 @@ dahil|CCR	no_tag
 doon|PRL	no_tag
 daw|RBI	no_tag
 ang|DTC	no_tag
-tirahan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tirahan|NNC	location
 nila|PRP	no_tag
 .|PMP	no_tag
 
@@ -56529,7 +56529,7 @@ at|CCA	no_tag
 magagabihan|VBTF	no_tag
 ako|PRS	no_tag
 ng|CCB	no_tag
-uwi|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+uwi|NNC	gerund
 .|PMP	no_tag
 
 Papagalitan|NNP	no_tag
@@ -56894,7 +56894,7 @@ Niko|NNP	no_tag
 Mabilis|RBD	no_tag
 ang|DTC	no_tag
 kanilang|PRSP_CCP	no_tag
-takbo|NNC	['gerund', 'misc'] #NEEDS MANUAL INTERVENTION
+takbo|NNC	gerund
 maliban|CCT	no_tag
 na|RBI	no_tag
 lang|RBI	no_tag
@@ -56916,7 +56916,7 @@ eskenita|NNC	location
 na|CCP	no_tag
 maari|VBS	no_tag
 niyang|PRS_CCP	no_tag
-daanan|NNC	['location', 'no_tag'] #NEEDS MANUAL INTERVENTION
+daanan|NNC	no_tag
 .|PMP	no_tag
 
 Medyo|JJCC	no_tag
@@ -56964,9 +56964,9 @@ Mako|NNP	no_tag
 ang|DTC	no_tag
 nakaharang|JJD	no_tag
 na|CCP	no_tag
-bato|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+bato|NNC	object
 sa|CCT	no_tag
-daanan|NNC	['location', 'no_tag'] #NEEDS MANUAL INTERVENTION
+daanan|NNC	location
 .|PMP	no_tag
 
 Biglang|RBD_CCP	no_tag
@@ -56983,7 +56983,7 @@ at|CCA	no_tag
 napunta|VBTS	no_tag
 sa|CCT	no_tag
 mabatong|JJD_CCP	no_tag
-bahagi|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+bahagi|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -57067,7 +57067,7 @@ paika|NNC	no_tag
 -|PMS	no_tag
 ika|JJN	no_tag
 nitong|PRO_CCP	no_tag
-paglalakad|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+paglalakad|NNC	no_tag
 "|PMS	no_tag
 Kung|CCR	no_tag
 naniwala|VBTS	no_tag
@@ -58093,7 +58093,7 @@ ni|DTP	no_tag
 Nanoy|NNP	no_tag
 .|PMP	no_tag
 
-Araw|NNP	['event', 'misc'] #NEEDS MANUAL INTERVENTION
+Araw|NNP	event
 -|PMS	no_tag
 araw|NNC	event
 ganun|PRC	no_tag
@@ -58455,7 +58455,7 @@ ni|DTP	no_tag
 Lina|NNP	no_tag
 na|CCP	no_tag
 pikadilyong|NNC_CCP	food
-tilapya|NNC	['animal', 'food'] #NEEDS MANUAL INTERVENTION
+tilapya|NNC	food
 at|CCA	no_tag
 gulay|NNC	food
 na|CCP	no_tag
@@ -58949,7 +58949,7 @@ Pogs|NNP	no_tag
 
 Lumangoy|VBAF	no_tag
 na|CCP	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 palayo|RBD	no_tag
 si|DTP	no_tag
 Pogi|NNP	no_tag
@@ -58989,7 +58989,7 @@ galamay|NNC	body part
 .|PMP	no_tag
 
 Nasundan|VBTS	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 siya|PRS	no_tag
 ni|DTP	no_tag
 Pogs|NNP	no_tag
@@ -59286,7 +59286,7 @@ Aso|NNP	animal
 Ngayon|RBW	no_tag
 ,|PMC	no_tag
 nasa|RBL	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 bahay|NNC	location
 si|DTP	no_tag
@@ -59309,7 +59309,7 @@ wala|VBN	no_tag
 si|DTP	no_tag
 Pusa|NNP	animal
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 bahay|NNC	location
 .|PMP	no_tag
@@ -59361,7 +59361,7 @@ Aso|NNP	animal
 sa|CCT	no_tag
 harapan|NNC	misc
 ng|CCB	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 ,|PMC	no_tag
 ngunit|CCT	no_tag
 wala|VBN	no_tag
@@ -59370,7 +59370,7 @@ Pusa|NNP	animal
 sa|CCT	no_tag
 harapan|NNC	misc
 ng|CCB	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 .|PMP	no_tag
 
 Tumingin|VBAF	no_tag
@@ -59700,7 +59700,7 @@ mabagal|JJD	no_tag
 dahil|CCR	no_tag
 pababa|JJD	no_tag
 ang|DTC	no_tag
-daan|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+daan|NNC	location
 ,|PMC	no_tag
 pero|CCT	no_tag
 tingnan|VBOF	no_tag
@@ -59819,7 +59819,7 @@ kay|DTP	no_tag
 Nanay|NNP	no_tag
 doon|PRL	no_tag
 sa|CCT	no_tag
-taniman|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+taniman|NNC	location
 .|PMP	no_tag
 
 Dala|VBS	no_tag
@@ -59867,7 +59867,7 @@ Antipolo|NNP	no_tag
 para|CCT	no_tag
 mag|VBW	no_tag
 -|PMS	no_tag
-ani|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+ani|NNC	no_tag
 ng|CCB	no_tag
 kaniyang|PRSP_CCP	no_tag
 mga|DTCP	no_tag
@@ -60010,7 +60010,7 @@ naiisip|VBTR	no_tag
 
 Sa|CCT	no_tag
 may|VBH	no_tag
-bintana|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+bintana|NNC	location
 umupo|VBAF	no_tag
 ,|PMC	no_tag
 at|CCA	no_tag
@@ -60288,7 +60288,7 @@ sampalok|NNC	food
 kalamansi|NNC	food
 laban|NNC	event
 kay|DTP	no_tag
-batuan|NNC	['food', 'no_tag'] #NEEDS MANUAL INTERVENTION
+batuan|NNC	no_tag
 .|PMP	no_tag
 
 Yay|NNP	no_tag
@@ -60314,7 +60314,7 @@ nagsibabaan|VBTS	no_tag
 mula|RBW	no_tag
 sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-tahanan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tahanan|NNC	location
 .|PMP	no_tag
 
 "|PMS	no_tag
@@ -60398,7 +60398,7 @@ tayo|PRP	no_tag
 yaya|NNC	object
 ulit|RBW	no_tag
 ni|DTP	no_tag
-batuan|NNC	['food', 'no_tag'] #NEEDS MANUAL INTERVENTION
+batuan|NNC	no_tag
 .|PMP	no_tag
 
 Masama|JJD	no_tag
@@ -60549,7 +60549,7 @@ tumakbo|VBAF	no_tag
 papunta|VBW	no_tag
 sa|CCT	no_tag
 kanilang|PRSP_CCP	no_tag
-tirahan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tirahan|NNC	location
 .|PMP	no_tag
 
 Nagsiksikan|VBTR	no_tag
@@ -60578,7 +60578,7 @@ Pasilip|NNP	no_tag
 -|PMS	no_tag
 silip|NNC	no_tag
 sa|CCT	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 ng|CCB	no_tag
 dahon|NNC	object
 habang|RBW	no_tag
@@ -60733,7 +60733,7 @@ dahoon|NNC	object
 
 Mahigpit|JJD	no_tag
 ang|DTC	no_tag
-hawak|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+hawak|NNC	no_tag
 nina|DTPP	no_tag
 Wanda|NNP	no_tag
 ,|PMC	no_tag
@@ -60755,7 +60755,7 @@ mabuti|JJD	no_tag
 "|PMS	no_tag
 sabi|VBS	no_tag
 ni|DTP	no_tag
-batuan|NNC	['food', 'no_tag'] #NEEDS MANUAL INTERVENTION
+batuan|NNC	no_tag
 .|PMP	no_tag
 
 Walang|VBN_CCP	no_tag
@@ -60768,7 +60768,7 @@ lahat|PRI	no_tag
 .|PMP	no_tag
 
 Sa|CCT	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	emotion
 ,|PMC	no_tag
 di|RBF	no_tag
 makasagot|VBW	no_tag
@@ -60808,7 +60808,7 @@ mapuputol|VBW	no_tag
 ,|PMC	no_tag
 dinuduyan|VBTR	no_tag
 -|PMS	no_tag
-duyan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+duyan|NNC	object
 .|PMP	no_tag
 
 Hinawakan|VBOF	no_tag
@@ -60875,7 +60875,7 @@ sampalok|NNC	food
 kalamansi|NNC	food
 ,|PMC	no_tag
 at|CCA	no_tag
-batuan|NNC	['food', 'no_tag'] #NEEDS MANUAL INTERVENTION
+batuan|NNC	food
 .|PMP	no_tag
 
 Yay|NNP	no_tag
@@ -60964,7 +60964,7 @@ mag|VBW	no_tag
 -|PMS	no_tag
 alab|NNC	no_tag
 ang|DTC	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -61014,7 +61014,7 @@ patak|NNC	object
 na|CCP	no_tag
 iyon|PRO	no_tag
 sa|CCT	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 .|PMP	no_tag
 
 Paulit|NNP	no_tag
@@ -61042,7 +61042,7 @@ at|CCA	no_tag
 ibinubuhos|VBTR	no_tag
 ito|PRO	no_tag
 sa|CCT	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -61505,7 +61505,7 @@ puno|NNC	object
 ,|PMC	no_tag
 nakaramdam|VBTS	no_tag
 ng|CCB	no_tag
-saya|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+saya|NNC	emotion
 ang|DTC	no_tag
 Hari|NNP	person
 ,|PMC	no_tag
@@ -61540,7 +61540,7 @@ karpintero|NNC	person
 ,|PMC	no_tag
 at|CCA	no_tag
 mga|DTCP	no_tag
-tahanan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+tahanan|NNC	object
 para|CCT	no_tag
 sa|CCT	no_tag
 mga|DTCP	no_tag
@@ -61688,7 +61688,7 @@ mga|DTCP	no_tag
 lantang|NNC_CCP	no_tag
 halaman|NNC	object
 at|CCA	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	object
 sa|CCT	no_tag
 paglampas|NNC	gerund
 ng|CCB	no_tag
@@ -61730,7 +61730,7 @@ Hari|NNP	person
 Nakayukong|JJD_CCP	no_tag
 natutulog|VBTR	no_tag
 sa|CCT	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 ,|PMC	no_tag
 narinig|VBTS	no_tag
 niya|PRS	no_tag
@@ -61895,7 +61895,7 @@ kapag|CCR	no_tag
 nasa|RBL	no_tag
 labas|JJD	no_tag
 ng|CCB	no_tag
-paaralan|NNC	['location', 'organization'] #NEEDS MANUAL INTERVENTION
+paaralan|NNC	location
 ?|PMQ	no_tag
 "|PMS	no_tag
 
@@ -62014,7 +62014,7 @@ bilang|NNC	event
 ay|LM	no_tag
 kapaki|NNC	misc
 -|PMS	no_tag
-pakinabang|NNC	['misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+pakinabang|NNC	no_tag
 pagkatapos|VBW	no_tag
 ng|CCB	no_tag
 lahat|PRI	no_tag
@@ -62059,7 +62059,7 @@ tindahan|NNC	location
 Kumuha|VBAF	no_tag
 siya|PRS	no_tag
 ng|CCB	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 ,|PMC	no_tag
 gunting|FW	no_tag
 ,|PMC	no_tag
@@ -62075,7 +62075,7 @@ pera|NNC	object
 na|CCP	no_tag
 gawa|VBS	no_tag
 sa|CCT	no_tag
-papel|NNC	['misc', 'object'] #NEEDS MANUAL INTERVENTION
+papel|NNC	object
 na|CCP	no_tag
 may|VBH	no_tag
 sulat|NNC	object
@@ -62700,7 +62700,7 @@ Multiplikasyon|NNC	misc
 ay|LM	no_tag
 hindi|RBF	no_tag
 naman|RBI	no_tag
-pala|NNC	['no_tag', 'object'] #NEEDS MANUAL INTERVENTION
+pala|NNC	no_tag
 ganon|PRC	no_tag
 ka|PRS	no_tag
 sama|NNC	no_tag
@@ -63061,7 +63061,7 @@ sila|PRP	no_tag
 sa|CCT	no_tag
 malambot|JJD	no_tag
 na|CCP	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 Nagsisimula|VBTR	no_tag
@@ -63332,7 +63332,7 @@ editor|NNC	person
 at|CCA	no_tag
 taga|JJD	no_tag
 -|PMS	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	person
 .|PMP	no_tag
 
 Ang|DTC	no_tag
@@ -63419,7 +63419,7 @@ pag|CCR	no_tag
 -|PMS	no_tag
 edit|NNC	no_tag
 ng|CCB	no_tag
-disenyo|NNC	['misc', 'person'] #NEEDS MANUAL INTERVENTION
+disenyo|NNC	misc
 ay|LM	no_tag
 isinasagawa|VBTR	no_tag
 ng|CCB	no_tag
@@ -63568,7 +63568,7 @@ Bumagsak|VBAF	no_tag
 ang|DTC	no_tag
 calung|FW	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 Mabilis|RBD	no_tag
@@ -63708,7 +63708,7 @@ ang|DTC	no_tag
 mga|DTCP	no_tag
 maluluwag|JJD	no_tag
 na|CCP	no_tag
-parte|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+parte|NNC	object
 nito|PRO	no_tag
 .|PMP	no_tag
 
@@ -63757,7 +63757,7 @@ tok|NNCA	misc
 tunog|NNC	misc
 mula|RBL	no_tag
 sa|CCT	no_tag
-upuan|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+upuan|NNC	object
 .|PMP	no_tag
 
 Tek|NNP	misc
@@ -63932,7 +63932,7 @@ sa|CCT	no_tag
 kusina|NNC	object
 .|PMP	no_tag
 
-Pinuno|NNP	['organization', 'person'] #NEEDS MANUAL INTERVENTION
+Pinuno|NNP	no_tag
 ni|DTP	no_tag
 Cici|NNP	misc
 ng|CCB	no_tag
@@ -64494,7 +64494,7 @@ langit|NNC	location
 para|CCT	no_tag
 sa|CCT	no_tag
 mga|DTCP	no_tag
-palatandaan|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+palatandaan|NNC	misc
 .|PMP	no_tag
 
 Dumating|VBAF	no_tag
@@ -64572,7 +64572,7 @@ Patuloy|RBD	no_tag
 ang|DTC	no_tag
 pagyanig|VBW	no_tag
 ng|CCB	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 .|PMP	no_tag
 
 Nagpapahiwatig|VBTR	no_tag
@@ -64639,7 +64639,7 @@ kanilang|PRSP_CCP	no_tag
 mga|DTCP	no_tag
 mata|NNC	body part
 ang|DTC	no_tag
-takot|NNC	['emotion', 'no_tag'] #NEEDS MANUAL INTERVENTION
+takot|NNC	emotion
 kaya|CCR	no_tag
 huminto|VBTS_VBAF	no_tag
 sa|CCT	no_tag
@@ -64774,7 +64774,7 @@ ni|DTP	no_tag
 Luta?Bubuga|NNP	misc
 kaya|CCR	no_tag
 ng|CCB	no_tag
-apoy|NNC	['event', 'object'] #NEEDS MANUAL INTERVENTION
+apoy|NNC	object
 ang|DTC	no_tag
 matinding|RBD_CCP	no_tag
 pagsabog?Tumaas|VBW	no_tag
@@ -64803,7 +64803,7 @@ mga|DTCP	no_tag
 hayop|NNC	animal
 ng|CCB	no_tag
 isang|PRI_CCP	no_tag
-palatandaan|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+palatandaan|NNC	misc
 o|CCT	no_tag
 tunog|NNC	misc
 .|PMP	no_tag
@@ -64931,7 +64931,7 @@ nagkakaroon|VBTR	no_tag
 ng|CCB	no_tag
 puwersa|NNC	organization
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 bulkan|NNC	misc
 .|PMP	no_tag
@@ -64974,7 +64974,7 @@ riyan|NNC	no-tag
 ,|PMC	no_tag
 may|VBH	no_tag
 ilang|PRQ_CCP	no_tag
-palatandaan|NNC	['location', 'misc', 'object'] #NEEDS MANUAL INTERVENTION
+palatandaan|NNC	misc
 tulad|JJC	no_tag
 ng|CCB	no_tag
 lindol|NNC	misc
@@ -65711,7 +65711,7 @@ na|CCP	no_tag
 kulay|NNC	object
 lila|NNC	misc
 sa|CCT	no_tag
-taas|NNC	['location', 'misc', 'no_tag'] #NEEDS MANUAL INTERVENTION
+taas|NNC	location
 niya|PRS	no_tag
 .|PMP	no_tag
 
@@ -65777,7 +65777,7 @@ lumulusot|VBTR_VBAF	no_tag
 siya|PRS	no_tag
 sa|CCT	no_tag
 mga|DTCP	no_tag
-butas|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+butas|NNC	location
 ng|CCB	no_tag
 dahon|NNC	object
 na|CCP	no_tag
@@ -65914,7 +65914,7 @@ Nakaramdam|VBTS	no_tag
 si|DTP	no_tag
 Sophy|NNP	misc
 ng|CCB	no_tag
-pagkabahala|NNC	['gerund', 'no_tag'] #NEEDS MANUAL INTERVENTION
+pagkabahala|NNC	emotion
 sa|CCT	no_tag
 kaniyang|PRSP_CCP	no_tag
 bagong|JJD_CCP	no_tag
@@ -66101,7 +66101,7 @@ Sophy|NNP	misc
 papunta|RBL	no_tag
 sa|CCT	no_tag
 pinakagitnang|JJCS_JJD_CCP	no_tag
-parte|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+parte|NNC	location
 ng|CCB	no_tag
 bulaklak|NNC	object
 at|CCA	no_tag
@@ -66276,7 +66276,7 @@ Sila|PRP	no_tag
 ay|LM	no_tag
 nabitag|VBTS	no_tag
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 nito|PRO	no_tag
 .|PMP	no_tag
 
@@ -66287,7 +66287,7 @@ likido|NNC	misc
 ang|DTC	no_tag
 pumupuno|VBTR_VBAF	no_tag
 sa|CCT	no_tag
-loob|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+loob|NNC	location
 ng|CCB	no_tag
 bulaklak|NNC	object
 .|PMP	no_tag
@@ -66350,7 +66350,7 @@ pagod|NNC	no_tag
 bumagsak|VBAF	no_tag
 sila|PRP	no_tag
 sa|CCT	no_tag
-lupa|NNC	['location', 'object'] #NEEDS MANUAL INTERVENTION
+lupa|NNC	location
 at|CCA	no_tag
 nakatulog|VBTS	no_tag
 .|PMP	no_tag
@@ -66480,7 +66480,7 @@ habang|RBW	no_tag
 lumilipad|VBTR_VBAF	no_tag
 sila|PRP	no_tag
 sa|CCT	no_tag
-dilim|NNC	['location', 'misc'] #NEEDS MANUAL INTERVENTION
+dilim|NNC	location
 .|PMP	no_tag
 
 Ngunit|CCT	no_tag

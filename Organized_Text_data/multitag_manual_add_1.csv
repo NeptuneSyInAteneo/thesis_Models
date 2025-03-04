@@ -16,7 +16,7 @@ disenyo|NNC,"['MISC', 'person']",MISC,,Match
 kanta|NNC,"['no_tag', 'gerund']","gerund,MISC",,Mismatch
 takot|NNC,"['emotion', 'no_tag']",emotion,,Match
 sagot|NNC,"['no_tag', 'gerund']","gerund,MISC",,Mismatch
-hamon|NNC,"['not_tag', 'gerund']","gerund,MISC",,Mismatch
+hamon|NNC,"['no_tag', 'gerund']","gerund,MISC",,Mismatch
 saya|NNC,"['no_tag', 'emotion']",emotion,,Match
 paghila|NNC,"['no_tag', 'gerund']",gerund,,Match
 hapunan|NNC,"['food', 'event']",food,,Match
