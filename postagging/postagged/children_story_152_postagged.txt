@@ -1,0 +1,36 @@
+Yehey|NNP !|PMS
+Uuwi|NNP na|CCP si|DTP tatay|NNC .|PMP
+Naririnig|VBTR ko|PRS na|CCP ang|DTC kanyang|PRSP_CCP mga|DTCP sapatos|NNC -|PMS kalabog|PRI_CCP kalabog|NNC kalabog|JJD Gustong|VBS_CCP naririnig|VBTR ni|DTP Malik|NNP ang|DTC tunog|NNC na|CCP iyon|PRO .|PMP
+Kabog|NNP !|PMS
+Kabog|NNP !|PMS
+Kabog|NNP !|PMS
+Kasing|JJCC tunog|NNC ng|CCB bola|NNC na|CCP tumatalbog|VBTR_VBAF ,|PMC pero|CCT alam|VBS ko|PRS na|CCP yoon|PRO ay|LM bota|NNC ni|DTP tatayAng|VBTF_CCP tatay|NNC ni|DTP Malik|NNP ay|LM hinahayaan|VBTR siya|PRS ihiram|VBTF ang|DTC kanyang|PRSP_CCP bota|NNC .|PMP
+Gusto|VBS ni|DTP Malik|NNP mag|VBW gawa|VBS ng|CCB kumakabog|JJD na|CCP tunog|NNC .|PMP
+Ang|DTC bota|NNC ni|DTP tatay|NNC ay|LM sobrang|JJCS_CCP malaki|JJD .|PMP
+parang|CCT kasing|JJCC laki|NNC ni|DTP Malik|NNP !|PMS
+Napakataas|JJCS_JJD ng|CCB bota|NNC ng|CCB kanyang|PRSP_CCP tatay|NNC .|PMP
+Ngayon|RBW ,|PMC nakakatayo|VBTR na|RBI ng|CCB mas|JJCC matangkad|JJD si|DTP Malik|NNP .|PMP
+Ngayon|RBW si|DTP Malik|NNP ay|LM gustong|VBS_CCP maglinis|VBW katulad|JJC ni|DTP Tatay|NNP Pero|CCT ang|DTC bota|NNC na|CCP ito|PRO ay|LM sobrang|JJCS_CCP mabigat|JJD Screech|NNP . . .|NNPA screech|FW . . .|FW screech|FW .|PMP
+Pero|CCT bakit|PRQ hindi|RBF kumakabog|VBTR_VBAF ?|PMQ
+Hmm|NNP ,|PMC baka|RBM dapat|VBS itaas|VBOF ni|DTP Malik|NNP ang|DTC kanyang|PRSP_CCP paa|NNC ?|PMQ
+Ay|NNP ,|PMC aray|FW !|PMS
+Masyado|VBW silang|PRP_CCP mabigat|JJD .|PMP
+Siya|PRS ay|LM nadulas|VBTS ,|PMC at|CCA ang|DTC basura|NNC ay|LM pumunta|VBAF saanman|PRQ .|PMP
+Paano|PRQ kaya|CCR lilinisin|VBTF ni|DTP Malik|NNP ulit|RBW ?|PMQ
+Papano|NNP kung|CCR tanggalin|VBOF na|RBI lang|RBI nya|PRS ang|DTC mga|DTCP bota|NNC ?|PMQ
+Aray|NNP ,|PMC kinagat|VBOF ng|CCB langgam|NNC ang|DTC kanyang|PRSP_CCP paa|NNC .|PMP
+Ohhh|NNP ,|PMC nagmamartsa|VBTR ang|DTC mga|DTCP langgam|NNC habang|RBW dala|JJD dala|JJD ang|DTC kanilang|PRSP_CCP mga|DTCP pagkain|NNC Para|CCT silang|PRP_CCP tren|NNC ng|CCB mga|DTCP pagkain|NNC .|PMP
+Choo|NNP Choo|NNP !|PMS
+Ang|DTC laruang|NNC_CCP trak|NNC ni|DTP Malik|NNP ay|LM kaya|CCR din|RBI na|CCP mag|VBW sakay|NNC ng|CCB mga|DTCP bagay|NNC parang|CCT tren|NNC .|PMP
+Choo|NNP Choo|NNP !|PMS
+Hmm|NNP ,|PMC Nilagyan|VBTS ni|DTP Malik|NNP ng|CCB mga|DTCP bote|NNC ang|DTC dilaw|JJD na|CCP sasakyan|NNC .|PMP
+pagkatapos|RBW nilagyan|VBOF niya|PRS nman|JJD ng|CCB pandikit|NNC ang|DTC pulang|JJD_CCP sasakyan|NNC .|PMP
+Sunod|JJD ,|PMC nilagyan|VBTS nya|PRS ng|CCB mga|DTCP dahon|NNC ang|DTC berdeng|JJD_CCP sasakyan|NNC .|PMP
+Ngunit|CCT ang|DTC sasakyan|NNC ay|LM sobrang|JJCS_CCP liit|JJD .|PMP
+Kaya|CCR '|PMS t|NNCA inilalagay|VBTR niya|PRS ang|DTC mga|DTCP dahon|NNC sa|CCT bota|NNC .|PMP
+Kaya|CCR rin|RBI magdala|VBW ng|CCB mga|DTCP bagay|NNC ang|DTC bota|NNC .|PMP
+Choo|NNP choo|FW ...|PMS dug|FW dug|FW .|PMP
+Yehey|NNP !|PMS
+si|DTP Malik|NNP ay|LM meron|VBH nang|CCB mahabang|JJD_CCP tren|NNC .|PMP
+Choo|NNP choo|FW ...|PMS dug|FW dug|FW .|PMP
+Ipinagmamalaki|VBTR ni|DTP Tatay|NNP si|DTP Malik|NNP sa|CCT paglilinis|NNC katulad|JJC niya|PRS .|PMP

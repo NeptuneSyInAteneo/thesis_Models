@@ -1,0 +1,20 @@
+Sinubukan|VBTS ni|DTP nanay|NNC na|CCP suyuin|VBOF ang|DTC maysakit|NNC na|CCP si|DTP Nana|NNP .|PMP "|PMS
+Uminom|VBAF ka|PRS muna|RBI ng|CCB gatas|NNC ,|PMC Mahal|NNP !|PMQ "|PMS "|PMS
+Hindi|RBF masarap|JJD ang|DTC lasa|NNC !|PMS
+Ayaw|RBF ko|PRS !|PMQ "|PMS "|PMS
+Eh|NNP dalandan|NNC na|CCP inumin|VBOF ,|PMC gusto|VBS mo|PRS ba|RBI ?|PMQ "|PMS "|PMS
+Huhu|NNP …|CDB Ayaw|RBF ko|PRS rin|RBI niyan|PRO .|PMP "|PMS
+Bakit|PRQ napakarami|JJCS_JJD mong|PRS_CCP pula|JJD sa|CCT katawan|NNC ?|PMQ
+-|PMS Si|DTP Nini|NNP ay|LM inusisa|VBTS .|PMP
+-|PMS Itong|PRO_CCP mga|DTCP pula|JJD sa|CCT aking|PRSP_CCP katawan|NNC ay|LM bigla|JJD na|RBI lamang|RBI lumalabas|VBTR_VBAF sa|CCT aking|PRSP_CCP buong|PRI_CCP katawan|NNC "|PMS Maraming|PRI_CCP ginawang|VBOF_CCP paraan|NNC si|DTP nanay|NNC upang|CCB gumaling|VBAF at|CCA mawala|VBW ang|DTC kanyang|PRSP_CCP pantal|NNC .|PMP "|PMS "|PMS
+Ah|RBJ !|PMS "|PMS
+Hinanap|VBOF ni|DTP Nini|NNP ang|DTC kanyang|PRSP_CCP pulang|JJD_CCP pansulat|NNC .|PMP "|PMS
+Narito|VBTS pala|NNC ang|DTC kulay|NNC pula|JJD kong|PRS_CCP pansulat|JJD !|PMS "|PMS
+Nilagyan|VBTS ni|DTP Nini|NNP ng|CCB mga|DTCP pantal|NNC na|CCP marka|NNC ang|DTC kanyang|PRSP_CCP buong|PRI_CCP mukha|NNC ...|PMS .|PMP
+Maging|VBW ang|DTC kanyang|PRSP_CCP braso|NNC at|CCA binti|NNC .|PMP "|PMS
+Hehe|RBF mas|JJCC marami|JJD na|CCP akong|PRS_CCP pantal|NNC kaysa|JJC kay|DTP Nana|NNP "|PMS .|PMP .|PMP
+Patakbo|RBD siyang|PRS_CCP pumunta|VBAF sa|CCT kusina|NNC at|CCA masayang|JJD_CCP sinabi|VBTS ,|PMC "|PMS Nanay|NNC tingnan|VBOF mo|PRS ?|PMQ "|PMS
+May|VBH sakit|NNC narin|CCB ako|PRS tulad|JJC ni|DTP Nana|NNP .|PMP "|PMS .|PMP "|PMS
+Alam|VBS ko|PRS na|CCP kung|RBK paano|RBQ pagagalingin|VBW ang|DTC iyong|PRSP_CCP sakit|NNC ,|PMC Nini|FW "|PMS .|PMP "|PMS
+Nakita|VBTS mo|PRS ?|PMQ
+Sa|CCT isang|PRI_CCP paligo|NNC lang|RBI ,|PMC wala|VBN na|RBI ang|DTC sakit|NNC mo.|NNCA "|PMS Niyakap|VBTS ni|DTP Nini|NNP ang|DTC kanyang|PRSP_CCP ina|NNC ,|PMC sabay|RBD sinabi|VBTS na|CCP ,|PMC "|PMS Nay|NNC ,|PMC "|PMS Ikaw|VBTS_VBOF ang|DTC pinakamagaling|JJCS_JJD na|CCP doktor|NNC sa|CCT buong|PRI_CCP mundo|NNC "|PMS .|PMP

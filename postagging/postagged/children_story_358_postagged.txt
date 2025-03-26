@@ -1,0 +1,34 @@
+"|PMS Tatay|NNC ,|PMC papasok|RBD na|CCP ba|RBI ako|PRS sa|CCT pasukan|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Ping|NNP .|PMP "|PMS
+Sana|VBS .|PMP
+Kaso|CCR hindi|RBF pa|RBI tayo|PRP sigurado|RBT kung|RBK kailan|RBQ ang|DTC pasukan|NNC dahil|CCR sa|CCT COVID|NNPA -|PMS .|PMP
+Kaya|CCR dito|PRL ka|PRS muna|RBI mag|VBW -|PMS aaral|NNC sa|CCT bahay|NNC ,|PMC "|PMS ang|DTC tugon|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Sino|PRQ po|RBS ang|DTC magiging|VBTF titser|FW ko|PRS ?|PMQ "|PMS
+ang|DTC nasasabik|VBTR na|CCP tanong|NNC ni|DTP Ping|NNP .|PMP "|PMS
+Ako|PRS siyempre|RBT o|CCT kaya|CCR si|DTP Nanay|NNP mo|PRS ,|PMC "|PMS ang|DTC nakangiting|JJD_CCP tugon|NNC ni|DTP Tatay|NNP .|PMP "|PMS
+Ano|PRQ po|RBS ang|DTC ituturo|VBTF ninyo|PRP sa|CCT akin|PRSP ,|PMC Tatay|NNC ?|PMQ "|PMS "|PMS
+Marami|PRI .|PMP
+Tuturuan|RBW kitang|RBD_CCP magbasa|VBW ,|PMC magsulat|VBAF ,|PMC at|CCA magbilang|VBAF .|PMP
+Magdodrowing|NNP din|RBI tayo|PRP ,|PMC "|PMS ang|DTC tugon|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP
+Napaisip|VBTS si|DTP Ping|NNP .|PMP "|PMS
+Wala|VBN naman|RBI tayong|PRP_CCP pisara|NNC .|PMP
+Saan|PRQ po|RBS tayo|PRP magsusulat|VBTF ?|PMQ "|PMS "|PMS
+Marami|PRI tayong|PRP_CCP malalaking|JJD_CCP karton|NNC ,|PMC Ping|NNC .|PMP
+Igagawa|VBTS na|RBI lang|RBI kita|NNC .|PMP "|PMS "|PMS
+Pero|CCT Tatay|NNC ,|PMC wala|VBN naman|RBI po|RBS tayong|PRP_CCP tsok|NNC .|PMP
+Ano|PRQ po|RBS ang|DTC ipansusulat|VBTR natin|PRP ?|PMQ "|PMS "|PMS
+Walang|VBN_CCP problema|NNC ,|PMC anak|NNC .|PMP
+Marami|PRI pa|RBI tayong|PRP_CCP imbak|NNC na|CCP uling|NNC .|PMP
+Iyon|PRO ang|DTC gagawin|VBTF nating|PRP_CCP tsok|NNC .|PMP "|PMS "|PMS
+Eh|NNP ,|PMC ano|PRQ naman|RBI po|RBS ang|DTC gagamitin|VBTF kong|PRS_CCP pangkulay|JJD ?|PMQ "|PMS "|PMS
+May|VBH mga|DTCP lumang|JJD_CCP pangkulay|JJD ang|DTC ate|FW mo.|NNCA .|PMP
+Puwede|RBT mong|PRS_CCP gamitin|VBOF ang|DTC mga|DTCP iyon|PRO ,|PMC Ping|FW ,|PMC "|PMS ang|DTC tugon|NNC ni|DTP Tatay|NNP .|PMP "|PMS
+Sana|VBS maging|VBW tatay|NNC na|CCP ako|PRS agad|RBW ,|PMC "|PMS ang|DTC nasasabik|VBTR na|CCP wika|NNC ni|DTP Ping|NNP .|PMP "|PMS
+Ha|NNP ?|PMQ
+At|CCA bakit|PRQ naman|RBI gusto|VBS mong|PRS_CCP maging|VBW tatay|NNC agad|RBW ?|PMQ "|PMS
+ang|DTC nagtatakang|VBTR wika|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Gusto|VBS ko|PRS kasing|JJCC maging|VBW titser|FW !|PMS
+Ang|DTC tatay|NNC pala|NNC ay|LM titser|FW din|RBI ,|PMC "|PMS ang|DTC masayang|JJD_CCP wika|NNC ni|DTP Ping|NNP .|PMP "|PMS
+Hahaha|NNP !|PMS
+Ikaw|NNP talaga|RBT bunso|NNC ,|PMC pinatawa|VBTS mo|PRS si|DTP Tatay|NNP .|PMP
+Hindi|RBF mo|PRS kailangang|VBS_CCP maging|VBW tatay|NNC para|CCT maging|VBW titser|FW .|PMP "|PMS

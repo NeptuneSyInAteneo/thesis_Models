@@ -1,0 +1,67 @@
+Si|DTP Nita|NNP ang|DTC nangunguna|VBTR sa|CCT kanilang|PRSP_CCP klase|NNC sa|CCT Agham|NNP .|PMP
+Sa|CCT kaniyang|PRSP_CCP mga|DTCP libreng|JJD_CCP oras|NNC ,|PMC gusto|VBS niyang|PRS_CCP gumawa|VBAF ng|CCB mga|DTCP bagong|JJD_CCP kagamitan|NNC .|PMP
+Alam|VBS niya|PRS kung|RBK paano|RBQ gumawa|VBAF ng|CCB kompas|NNC .|PMP
+Alam|VBS niya|PRS kung|RBK paano|RBQ magpailaw|VBW ng|CCB bombilya|NNC gamit|VBS ang|DTC enerhiya|NNC mula|RBL sa|CCT sikat|JJD ng|CCB araw|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC may|VBH napakalakas|JJCS_JJD na|CCP ingay|NNC siyang|PRS_CCP narining|VBTS_CCP mula|RBL sa|CCT bundok|NNC malapit|JJD sa|CCT likuran|NNC ng|CCB kanilang|PRSP_CCP bahay|NNC .|PMP
+Hinanap|VBOF niya|PRS ang|DTC pinagmulan|VBRF ng|CCB ingay|NNC .|PMP
+Doon|PRL ,|PMC nakita|VBTS niya|PRS ang|DTC isang|PRI_CCP kakaibang|JJD_CCP batang|JJD_CCP lalaki|NNC .|PMP "|PMS
+Kumusta|NNP ,|PMC ano|PRQ ang|DTC ginagawa|VBTR mo|PRS ?|PMQ "|PMS
+tanong|NNC ni|DTP Nita|NNP sa|CCT kakaibang|JJD_CCP batang|JJD_CCP lalaki|NNC .|PMP
+Nagulat|VBTS ang|DTC bata|NNC nang|RBW marinig|VBW ang|DTC kaniyang|PRSP_CCP boses|NNC .|PMP
+Tumakbo|VBTS_VBAF ito|PRO at|CCA nagtago|VBTS sa|CCT likuran|NNC ng|CCB puno|NNC .|PMP
+Sinisilip|VBTR niya|PRS si|DTP Nita|NNP mula|RBL sa|CCT likuran|NNC ng|CCB puno|NNC .|PMP "|PMS
+Lumabas|VBAF ka|PRS riyan|NNC !|PMS
+Nakakatakot|VBTR ba|RBI ako|PRS ?|PMQ "|PMS
+tanong|NNC ni|DTP Nita|NNP at|CCA tinawanan|VBOF ang|DTC bata|NNC .|PMP
+May|VBH tunog|NNC na|CCP nanggagaling|VBTR sa|CCT kamay|NNC ng|CCB kakaibang|JJD_CCP batang|JJD_CCP lalaki|NNC .|PMP
+Toot|NNP ...|PMS Toot|NNP .|PMP
+Lumabas|VBAF siya|PRS mula|RBL sa|CCT likuran|NNC ng|CCB puno|NNC .|PMP
+Itinuro|VBTS niya|PRS ang|DTC araw|NNC .|PMP "|PMS
+Ano|PRQ ang|DTC ginagawa|VBTR mo|PRS ?|PMQ "|PMS
+tanong|NNC ni|DTP Nita|NNP .|PMP
+At|CCA sumagot|VBAF siya|PRS ,|PMC "|PMS Kumukuha|VBTR_VBAF ako|PRS ng|CCB enerhiya|NNC mula|RBL sa|CCT araw|NNC .|PMP "|PMS "|PMS
+Ah|RBJ !|PMS
+Saan|PRQ ka|PRS galing|RBL ?|PMQ "|PMS
+gulat|JJD na|CCP tanong|NNC ni|DTP Nita|NNP .|PMP
+Sumagot|VBAF sa|CCT kaniya|PRSP ang|DTC bata|NNC ,|PMC "|PMS Galing|FW ako|PRS sa|CCT ibang|PRI_CCP planeta|NNC .|PMP
+Nasira|VBTS ang|DTC aking|PRSP_CCP sasakyang|NNC_CCP pangkalawakan|NNC ,|PMC at|CCA nawala|VBTS ko|PRS ang|DTC aking|PRSP_CCP bola|NNC ng|CCB enerhiya|NNC .|PMP
+Kailangan|VBS kong|PRS_CCP makita|VBW ang|DTC aking|PRSP_CCP bola|NNC ng|CCB enerhiya|NNC .|PMP
+Matutulungan|VBTF ako|PRS ng|CCB bola|NNC ng|CCB enerhiya|NNC na|CCP ito|PRO upang|CCB makabalik|VBW sa|CCT aming|PRSP_CCP planeta|NNC .|PMP "|PMS
+Tutulungan|NNP kitang|RBD_CCP mahanap|VBW '|PMS yon|PRO .|PMP
+Anong|PRQ_CCP pangalan|NNC mo|PRS ?|PMQ "|PMS
+tanong|NNC ni|DTP Nita|NNP .|PMP
+Umiling|NNP ang|DTC batang|JJD_CCP lalaki|NNC .|PMP "|PMS
+Wala|VBN kang|PRS_CCP pangalan|NNC ?|PMQ
+Kung|CCR wala|VBN ,|PMC tatawagin|VBTF na|RBI lang|RBI kitang|RBD_CCP "|PMS Green|NNP Star|NNP !|PMS "|PMS
+saad|NNC ni|DTP Nita|NNP .|PMP
+Ngumiti|VBAF ang|DTC batang|JJD_CCP lalaki|NNC at|CCA tumango|VBAF .|PMP
+Sabay|RBD silang|PRP_CCP naglakad|VBTS upang|CCB hanapin|VBOF ang|DTC bola|NNC ng|CCB enerhiya|NNC . . . . .|NNPA .|PMP
+mula|RBW tanghali|RBW hanggang|RBW gabi|RBW . . .|NNPA Pero|CCT hindi|RBF nila|PRP ito|PRO makita|VBW .|PMP "|PMS
+Lagi|RBW kong|PRS_CCP naiisip|VBTR ang|DTC aming|PRSP_CCP tahanan|NNC .|PMP "|PMS
+Malungkot|JJD na|CCP sabi|VBS ni|DTP Green|NNP Star|NNP .|PMP
+Nagsimulang|VBTS_CCP maglabas|VBW ng|CCB liwanag|NNC ang|DTC katawan|NNC niya|PRS .|PMP "|PMS
+Halos|JJD gabi|RBW na|CCP ,|PMC mauubos|VBTF na|RBI ang|DTC enerhiya|NNC ko|PRS .|PMP
+Kailangan|VBS mong|PRS_CCP makabalik|VBW na|CCP sa|CCT inyo|PRSP .|PMP "|PMS
+Sabi|VBS ni|DTP Green|NNP Star|NNP .|PMP
+Nang|RBW gabing|RBW_CCP iyon|PRO ,|PMC hindi|RBF makatulog|VBW si|DTP Nita|NNP .|PMP
+Nakatingin|RBD siya|PRS sa|CCT maliliit|JJD na|CCP larawan|NNC ng|CCB bituin|NNC na|CCP nakadikit|VBTS sa|CCT dingding|NNC .|PMP
+Naisip|VBTS niya|PRS ang|DTC liwanag|NNC na|CCP nanggagaling|VBTR sa|CCT katawan|NNC ni|DTP Green|NNP Star|NNP .|PMP "|PMS
+Ah|RBJ !|PMS
+Alam|VBS ko|PRS na|CCP !|PMS
+Naglalabas|VBTR ng|CCB liwanag|NNC sa|CCT gabi|RBW ang|DTC bola|NNC ng|CCB enerhiya|NNC .|PMP "|PMS
+Sabi|VBS ni|DTP Nita|NNP .|PMP
+Kinaumagahan|NNP ,|PMC ikinuwento|VBTS_VBOF ni|DTP Nita|NNP kay|DTP Green|NNP Star|NNP ang|DTC naisip|VBTS niya|PRS noong|RBW_CCP nakaraang|JJD_CCP gabi|RBW .|PMP
+Ginamit|VBTS ni|DTP Green|NNP Star|NNP ang|DTC kasangkapang|NNC_CCP ginawa|VBOF ni|DTP Nita|NNP .|PMP
+Puno|JJD siya|PRS ng|CCB enerhiya|NNC pagsapit|VBW ng|CCB gabi|RBW .|PMP
+Ipinagpatuloy|VBTS nila|PRP ang|DTC paghahanap|NNC ng|CCB bola|NNC ng|CCB enerhiya|NNC noong|RBW_CCP gabi|RBW .|PMP "|PMS
+Hayun|NNP ,|PMC doon|PRL ay|LM may|VBH berdeng|JJD_CCP liwanag|NNC na|CCP galing|RBL sa|CCT isang|PRI_CCP butas|NNC ng|CCB puno|NNC !|PMS "|PMS
+Masayang|JJD_CCP sigaw|NNC ni|DTP Nita|NNP .|PMP "|PMS
+Sa|CCT wakas|RBW ,|PMC nakita|VBTS na|CCP natin|PRP !|PMS "|PMS
+sigaw|NNC ni|DTP Green|NNP Star|NNP .|PMP "|PMS
+Paalam|NNP ,|PMC Nita|NNP !|PMS
+Isa|PRI kang|PRS_CCP matapang|JJD at|CCA matalinong|JJD_CCP bata|NNC .|PMP
+Sana|VBS isang|PRI_CCP araw|NNC ,|PMC makadalaw|VBW ka|PRS sa|CCT aming|PRSP_CCP planeta|NNC ,|PMC "|PMS saad|NNC ni|DTP Green|NNP Star|NNP .|PMP "|PMS
+Gagawa|VBTF ako|PRS ng|CCB sasakyang|NNC_CCP pangkalawakan|NNC .|PMP
+Paliliparin|NNP ko|PRS ito|PRO upang|CCB makita|VBW kita|NNC balang|NNC araw|NNC .|PMP "|PMS
+Sabi|VBS ni|DTP Nita|NNP .|PMP
+Kumakaway|VBTR_VBAF siya|PRS habang|RBW nagpapaalam|VBTR kay|DTP Green|NNP Star|NNP .|PMP

@@ -1,0 +1,33 @@
+Nanay|NNP !|PMS
+Pakitawag|NNP po|RBS ang|DTC ibon|NNC na|CCP nakatira|VBTS sa|CCT punong|JJD_CCP iyon|PRO .|PMP
+Nanay|NNP !|PMS
+Maari|VBS po|RBS bang|RBM magsaboy|VBW tayo|PRP ng|CCB ilang|PRQ_CCP butil|NNC ng|CCB palay|NNC para|CCT lumapit|VBAF sa|CCT atin|PRSP ang|DTC ibon|NNC .|PMP
+Nanay|NNP !|PMS
+Gusto|VBS ko|PRS pong|PRO_CCP makita|VBW kung|RBK paano|RBQ kumakain|VBTR_VBAF ng|CCB mga|DTCP butil|NNC ng|CCB palay|NNC ang|DTC ibon|NNC .|PMP
+Nanay|NNP !|PMS
+Paano|PRQ po|RBS ba|RBI siya|PRS lumapag|VBAF ?|PMQ
+Nanay|NNP !|PMS
+Paano|PRQ po|RBS ba|RBI siya|PRS maglakad|VBAF sa|CCT lupa|NNC ?|PMQ
+Nanay|NNP !|PMS
+Baka|NNP po|RBS nauuhaw|VBTR ang|DTC ibon|NNC ,|PMC bigyan|VBOF po|RBS natin|PRP siya|PRS ng|CCB kaunting|PRI_CCP tubig|NNC na|CCP maiinom|VBW .|PMP
+Nanay|NNP !|PMS
+Napakaganda|JJCS_JJD po|RBS ng|CCB ibon|NNC .|PMP
+Nanay|NNP !|PMS
+Gusto|VBS ko|PRS pong|PRO_CCP makinig|VBW sa|CCT kaniyang|PRSP_CCP kanta|NNC .|PMP
+Nanay|NNP !|PMS
+Gusto|VBS ko|PRS pong|PRO_CCP makita|VBW kung|RBK paano|RBQ siya|PRS sumayaw|VBAF .|PMP
+Nanay|NNP !|PMS
+Gusto|VBS ko|PRS pong|PRO_CCP makipaglaro|VBW sa|CCT ibon|NNC .|PMP
+Nanay|NNP !|PMS
+Gumawa|VBAF po|RBS tayo|PRP ng|CCB duyan|NNC para|CCT sa|CCT kaniya|PRSP .|PMP
+Nanay|NNP !|PMS
+Nakayapak|RBD po|RBS ang|DTC ibon|NNC .|PMP
+Bigyan|VBOF po|RBS natin|PRP siya|PRS ng|CCB sapatos|NNC .|PMP
+Nanay|NNP !|PMS
+Wala|VBN pong|JJD_CCP damit|NNC ang|DTC ibon|NNC .|PMP
+Tahian|NNP po|RBS natin|PRP siya|PRS ng|CCB damit|NNC .|PMP
+Nanay|NNP !|PMS
+Kaibigan|VBOF ko|PRS po|RBS ang|DTC ibon|NNC .|PMP
+Nanay|NNP !|PMS
+Pakisabihan|NNP po|RBS ang|DTC ibon|NNC na|CCP manatili|VBW sa|CCT atin|PRSP habambuhay|NNC .|PMP
+Signer|NNP :|PMS Lasata|NNP Maharjan|NNP .|PMP

@@ -1,0 +1,30 @@
+Gustong|VBS_CCP -|PMS gustong|VBS_CCP sundan|VBOF ni|DTP Tupe|NNP ang|DTC mga|DTCP yapak|NNC ng|CCB kaniyang|PRSP_CCP amang|NNC_CCP litratista|NNC ,|PMC ang|DTC tagakuha|NNC ng|CCB larawan|NNC sa|CCT nayon|NNC .|PMP
+Gusto|VBS niyang|PRS_CCP maging|VBW kagaya|JJC nito|PRO .|PMP
+Nagsasanay|VBTR siya|PRS sa|CCT pamamagitan|NNC ng|CCB pagkuha|NNC ng|CCB larawan|NNC ng|CCB kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC gamit|VBS ang|DTC lumang|JJD_CCP kamera|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC mayroong|VBH_CCP isang|PRI_CCP malaking|JJD_CCP pagdiriwang|NNC sa|CCT nayon|NNC ,|PMC ngunit|CCT ang|DTC kaniyang|PRSP_CCP ama|NNC ay|LM may|VBH sakit|NNC at|CCA hindi|RBF maaring|RBM pumunta|VBAF .|PMP
+Hiniling|VBOF sa|CCT kaniya|PRSP ng|CCB kaniyang|PRSP_CCP ama|NNC na|CCP siya|PRS ang|DTC pumunta|VBAF kapalit|CCB nito|PRO bilang|CCT isang|PRI_CCP litratista|NNC .|PMP
+Sa|CCT pagdiriwang|NNC ,|PMC nakakita|VBTS si|DTP Tupe|NNP ng|CCB mga|DTCP hayop|NNC na|CCP nagsasayaw|VBTR ,|PMC kumakanta|VBTR_VBAF at|CCA kumakain|VBTR_VBAF .|PMP
+Aling|PRQ_CCP pangkat|NNC ang|DTC dapat|VBS niyang|PRS_CCP unahing|VBOF_CCP kuhanan|VBTS_VBOF ng|CCB larawan|NNC ?|PMQ
+Nagpasiya|VBTS siyang|PRS_CCP magsimula|VBW sa|CCT isang|PRI_CCP pamilya|NNC ng|CCB mga|DTCP elepante|NNC .|PMP
+Madali|RBD lang|RBI iyon|PRO !|PMQ
+Pagkatapos|VBW ay|LM kinuhanan|VBTS niya|PRS ng|CCB mga|DTCP larawan|NNC ang|DTC sumasayaw|VBTR na|CCP mga|DTCP giraffe|FW .|PMP
+Masaya|NNP iyon|PRO !|PMQ
+Pagkatapos|VBW nito|PRO ,|PMC umakyat|VBAF ang|DTC dalawang|JJN_CCP daga|NNC sa|CCT kaniyang|PRSP_CCP likuran|NNC at|CCA hiniling|VBOF sa|CCT kaniya|PRSP na|CCP kuhanan|VBTS_VBOF sila|PRP ng|CCB larawan|NNC .|PMP
+Si|DTP Tupe|NNP ay|LM kumuha|VBAF nang|RBD kumuha|VBAF ng|CCB maraming|PRI_CCP larawan|NNC ng|CCB mga|DTCP daga|NNC ,|PMC ngunit|CCT naging|VBTS mahirap|RBD dahil|CCR sa|CCT liit|NNC ng|CCB mga|DTCP ito|PRO .|PMP
+Wala|VBN sa|CCT mga|DTCP larawan|NNC ang|DTC may|VBH magandang|JJD_CCP kuha|NNC !|PMS
+Hiniling|VBOF ni|DTP Tupe|NNP sa|CCT mga|DTCP daga|NNC na|CCP tumalon|VBAF nang|RBD mataas|JJD at|CCA ngumiti|VBAF ,|PMC ngunit|CCT ulo|NNC lamang|RBI ng|CCB mga|DTCP ito|PRO ang|DTC nakita|VBTS sa|CCT larawan|NNC .|PMP
+Pagkatapos|VBW ay|LM hiniling|VBOF ni|DTP Tupe|NNP na|CCP umakyat|VBAF sila|PRP sa|CCT isang|PRI_CCP puno|NNC ,|PMC ngunit|CCT mga|DTCP dahon|NNC lamang|RBI ang|DTC nakita|VBTS sa|CCT larawan|NNC .|PMP
+Nabigo|VBTS si|DTP Tupe|NNP na|CCP kumuha|VBAF ng|CCB magagandang|JJD_CCP larawan|NNC ng|CCB mga|DTCP daga|NNC .|PMP
+Paano|PRQ niya|PRS makukuhanan|VBW ng|CCB larawan|NNC ang|DTC ganoong|PRC_CCP maliliit|JJD na|CCP hayop|NNC ?|PMQ
+Sinubukan|VBTS ni|DTP Tupe|NNP ang|DTC bawat|PRI posibleng|RBT_CCP paraan|NNC para|CCT makuhanan|VBW ng|CCB larawan|NNC ang|DTC pares|NNC ng|CCB daga|NNC .|PMP
+Ngunit|CCT hindi|RBF pa|RBI rin|RBI nasiyahan|VBTS ang|DTC mga|DTCP daga|NNC sa|CCT mga|DTCP larawan|NNC .|PMP
+Habang|RBW nakikipag|VBTR -|PMS usap|NNC si|DTP Tupe|NNP sa|CCT mga|DTCP daga|NNC ,|PMC sinusubukan|VBTR niyang|PRS_CCP humanap|VBAF ng|CCB ibang|PRI_CCP paraan|NNC upang|CCB kuhanan|VBTS_VBOF ng|CCB larawan|NNC ang|DTC mga|DTCP ito|PRO .|PMP
+Isang|PRI_CCP parada|NNC ang|DTC sumulpot|VBAF mula|RBL sa|CCT kaniyang|PRSP_CCP likuran|NNC .|PMP
+Bago|RBW niya|PRS napagtanto|VBTS kung|RBK ano|RBQ ang|DTC nangyayari|VBTR ,|PMC ang|DTC parada|NNC ay|LM dumaan|VBAF na|RBI sa|CCT kaniya|PRSP at|CCA siya|PRS ay|LM natumba|VBTS sa|CCT lupa|NNC .|PMP
+Nang|RBW bumagsak|VBAF si|DTP Tupe|NNP ,|PMC aksidenteng|NNC_CCP nakakakuha|VBTR siya|PRS ng|CCB maraming|PRI_CCP larawan|NNC .|PMP
+At|CCA sa|CCT hindi|RBF niya|PRS inaasahan|VBTR ,|PMC napakaganda|JJCS_JJD ng|CCB mga|DTCP larawang|NNC_CCP ito|PRO !|PMQ
+Nalaman|VBTS ni|DTP Tupe|NNP na|CCP ang|DTC pinakamagandang|JJCS_JJD_CCP paraan|NNC upang|CCB kuhanan|VBTS_VBOF ng|CCB larawan|NNC ang|DTC mga|DTCP daga|NNC ay|LM ang|DTC humiga|VBAF sa|CCT lupa|NNC ,|PMC kapantay|JJD ng|CCB mga|DTCP ito|PRO .|PMP
+Natutuhan|VBTS ni|DTP Tupe|NNP na|CCP ito|PRO ang|DTC magandang|JJD_CCP posisyon|NNC sa|CCT pagkuha|VBW ng|CCB larawan|NNC ng|CCB maraming|PRI_CCP hayop|NNC .|PMP
+Sa|CCT pagtatapos|NNC ng|CCB pagdiriwang|NNC ,|PMC ang|DTC mga|DTCP larawang|NNC_CCP kuha|NNC ni|DTP Tupe|NNP ay|LM ipinakita|VBTS upang|CCB magbigay|VBAF ng|CCB kasiyahan|NNC sa|CCT lahat|PRI .|PMP
+Mula|RBW noon|RBW ay|LM palagi|RBW nang|RBW sumasama|VBTR_VBAF si|DTP Tupe|NNP sa|CCT kaniyang|PRSP_CCP ama|NNC bilang|CCT isang|PRI_CCP totoong|JJD_CCP litratista|NNC .|PMP
+Malugod|RBD na|CCP itinataguyod|VBTR ng|CCB SMART|NNPA .|PMP

@@ -1,0 +1,24 @@
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC salamat|RBS sa|CCT mabuting|JJD_CCP panahon|NNC ,|PMC marami|PRI ang|DTC aning|JJD_CCP gulay|NNC .|PMP
+Nagdiwang|VBTS ang|DTC lahat|PRI ng|CCB hayop|NNC sa|CCT pagiging|VBTR sagana|JJD at|CCA masayang|JJD_CCP buhay|NNC .|PMP
+Ang|DTC mga|DTCP maliit|JJD na|CCP hayoy|NNC ay|LM tahimik|JJD na|CCP namumuhay|VBTR sa|CCT luntiang|JJD_CCP bukid|NNC nang|RBW isang|PRI_CCP araw|NNC .....|NNPA .|PMP
+Isang|PRI_CCP mabangis|JJD na|CCP elepante|NNC ay|LM nagmula|VBTS sa|CCT kahit|RBK saan|RBQ .|PMP
+Sinimulan|VBTS niyang|PRS_CCP sirain|VBTS_VBOF ang|DTC nayon|NNC .|PMP
+Itinaboy|VBTS ng|CCB masungit|JJD na|CCP elepante|NNC ang|DTC lahat|PRI ng|CCB mga|DTCP naninirahan|VBTR sa|CCT komunidad|NNC .|PMP
+Lubhang|JJCS_CCP nakakatakot|JJD ang|DTC masungit|JJD na|CCP elepante|NNC ,|PMC hindi|RBF makapaghap|VBW ng|CCB pagkain|NNC ang|DTC mga|DTCP maliit|JJD na|CCP hayop|NNC ,|PMC hangga|NNC '|PMS t|NNCA hindi|RBF nakakatulog|VBTR ang|DTC masungit|JJD na|CCP elepante|NNC .|PMP
+Ang|DTC maliit|JJD na|CCP tipaklong|NNC na|CCP naninirahan|VBTR sa|CCT damuhan|NNC ay|LM laging|RBD_CCP natatakot|VBTR sa|CCT masungit|JJD na|CCP elepante|NNC .|PMP
+Kapag|CCR natapakan|VBTS ng|CCB masungit|JJD na|CCP elepante|NNC ang|DTC maliit|JJD na|CCP tipaklong|NNC ,|PMC madudurog|VBTF at|CCA mamamatay|VBTF ito|PRO .|PMP
+Hindi|RBF na|RBI rin|RBI makakatayo|VBW kailanman|RBW ,|PMC tinawag|VBOF ng|CCB maliit|JJD na|CCP tipaklong|NNC ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigang|NNC_CCP tipaklong|NNC upang|CCB maitaboy|VBW nila|PRP ang|DTC masungit|JJD na|CCP elepante|NNC .|PMP
+Sabi|VBW ng|CCB maliit|JJD na|CCP tipaklong|NNC .|PMP
+Kapag|CCR pumayag|VBAF tayo|PRP na|CCP manatili|VBW sa|CCT atin|PRSP ang|DTC higanteng|JJD_CCP elepante|NNC ,|PMC lahat|PRI ng|CCB maliit|JJD hayop|NNC sa|CCT damuhan|NNC ay|LM mamatay|VBW dahil|CCR sa|CCT gutom|NNC .|PMP
+At|CCA lahat|PRI tayo|PRP ay|LM mamamatay|VBTF ,|PMC anumang|PRI_CCP oras|NNC dahil|CCR malalaki|JJD ang|DTC kaniyang|PRSP_CCP mga|DTCP paa|NNC .|PMP
+Maliit|JJD ,|PMC mahina|JJD at|CCA may|VBH malabong|JJD_CCP paningin|NNC tulad|JJC ko|PRS ,|PMC siguradong|RBT_CCP mamamatay|VBTF ako|PRS ,|PMC kung|CCR ako|PRS lamang|RBI mag|VBW -|PMS isa|PRI ang|DTC haharap|VBTF sa|CCT kaniya|PRSP ...|PMS Subalit|CCT kung|CCR tayong|PRP_CCP lahat|PRI ang|DTC haharap|VBTF o|CCT lalaban|VBTF sa|CCT kaniya|PRSP ...|PMS Tingnan|VBOF natin|PRP kung|CCR kaya|CCR niya|PRS tayong|PRP_CCP harapin|VBOF o|CCT kalabanin|VBOF .|PMP
+Habang|RBW nakikinig|VBTR sa|CCT maliit|JJD na|CCP tipaklong|NNC ,|PMC pumayag|VBAF ang|DTC kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Nagsama|VBTS -|PMS sama|NNC ang|DTC lahat|PRI ng|CCB magkakaibigan|VBTF upang|CCB pagtulugang|RBD_CCP harapin|VBOF at|CCA itaboy|VBOF ang|DTC masungit|JJD na|CCP elepante|NNC .|PMP
+Ang|DTC pangkat|NNC ng|CCB mga|DTCP tipaklong|NNC ay|LM nagsama|VBTS -|PMS sama|NNC sa|CCT damuhan|NNC .|PMP
+Sinugod|VBTS nilang|PRP_CCP lahat|PRI ang|DTC masungit|JJD na|CCP elepante|NNC .|PMP
+Biglang|RBD_CCP atake|NNC ,|PMC Evil|NNP Elephant|NNP nakuha|VBTS sa|CCT anim|JJN at|CCA pito|CDB at|CCA tiyak|RBT na|CCP hindi|RBF makitungo|VBW sa|CCT isang|PRI_CCP dagat|NNC ng|CCB mga|DTCP tipaklong|NNC .|PMP
+Wala|VBN siyang|PRS_CCP magawa|VBW kundi|CCT tumakas|VBAF at|CCA hindi|RBF na|RBI muling|RBW_CCP bumalik|VBAF .|PMP
+Salamat|RBS sa|CCT sama|NNC -|PMS samang|PRI_CCP lakas|NNC ng|CCB mga|DTCP maliliit|JJD at|CCA mahihinang|JJD_CCP tipaklong|NNC .|PMP
+Nagwagi|VBTS sila|PRP laban|NNC sa|CCT masungit|JJD na|CCP elepante|NNC .|PMP
+Muling|RBW_CCP naibalik|VBTS ang|DTC masaya|JJD at|CCA komunidad|NNC ng|CCB mga|DTCP tipakplong|NNC .|PMP
+Mabuhay|VBW ,|PMC naitaboy|VBTS ng|CCB mga|DTCP maliliit|JJD na|CCP tipaklong|NNC ang|DTC masungit|JJD na|CCP elepante|NNC .|PMP

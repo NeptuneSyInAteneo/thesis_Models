@@ -1,0 +1,5 @@
+Bakit|PRQ ang|DTC ulan|NNC ay|LM nahuhulog|VBTR sa|CCT lupa|NNC ,|PMC samantalang|CCT_CCP ang|DTC usok|NNC ay|LM pumapahimpapawid|VBTR_VBAF ?|PMQ
+Bakit|PRQ ang|DTC inahing|VBOF_CCP manok|NNC ay|LM itim|JJD ,|PMC samantalang|CCT_CCP ang|DTC sisiw|NNC nito|PRO '|PMS y|FW puti|JJD ?|PMQ
+Pag|CCR -|PMS sapit|JJD ng|CCB gabi|RBW ,|PMC saan|PRQ nagtatago|VBTR ang|DTC araw|NNC ?|PMQ
+Bakit|PRQ ang|DTC maliit|JJD na|CCP kambing|NNC ay|LM may|VBH balbas|NNC ,|PMC katulad|JJC ng|CCB parang|CCT isang|PRI_CCP lolo|NNC ?|PMQ
+Gugugol|NNP ng|CCB mahabang|JJD_CCP panahon|NNC Sa|CCT katanungan|NNC tungkol|RBR sa|CCT nangyayari|VBTR sa|CCT mundo|NNC Ngunit|CCT kapag|CCR natuto|VBTS kang|PRS_CCP magbasa|VBW Malalaman|VBTF mo|PRS ang|DTC kasagutang|NNC_CCP hinahanap|VBTR mo.|NNCA .|PMP

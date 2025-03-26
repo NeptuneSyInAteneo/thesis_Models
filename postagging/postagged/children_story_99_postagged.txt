@@ -1,0 +1,24 @@
+Nagsimulang|VBTS_CCP magkulay|VBW si|DTP Rajani|NNP .|PMP "|PMS
+Hindi|RBF ba|RBI dapat|VBS dilaw|JJD ang|DTC kulay|NNC ng|CCB araw|NNC ,|PMC anak|NNC ?|PMQ "|PMS
+Tanong|NNC ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Ngunit|CCT ito|PRO po|RBS ang|DTC kulay|NNC ng|CCB araw|NNC sa|CCT bukang|NNC_CCP -|PMS liwayway|NNC ,|PMC ina|NNC ,|PMC "|PMS sagot|NNC ng|CCB batang|NNC_CCP si|DTP Rajani|NNP .|PMP
+Kinulayan|VBTS ni|DTP Rajani|NNP ang|DTC dahon|NNC na|CCP kayumanggi|JJD .|PMP "|PMS
+Hindi|RBF ba|RBI dapat|VBS luntian|NNC ang|DTC kulay|NNC ng|CCB dahon|NNC ,|PMC anak|NNC ?|PMQ "|PMS
+Tanong|NNC ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Ngunit|CCT ito|PRO po|RBS ay|LM isang|PRI_CCP tuyot|JJD na|CCP dahon|NNC ,|PMC inay|NNC .|PMP "|PMS "|PMS
+Ina|NNC ,|PMC tingnan|VBOF mo|PRS po|RBS !|PMQ
+Nagpinta|VBTS ako|PRS ng|CCB magandang|JJD_CCP bulaklak|NNC .|PMP "|PMS "|PMS
+Ang|DTC mga|DTCP bulaklak|NNC natin|PRP ay|LM pula|JJD ,|PMC anak|NNC ,|PMC "|PMS sambit|JJD ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Pero|CCT ang|DTC mga|DTCP bulaklak|NNC sa|CCT aking|PRSP_CCP paaralan|NNC ay|LM dilaw|JJD ,|PMC ina|NNC .|PMP "|PMS
+Ipininta|VBTS ni|DTP Rajani|NNP ang|DTC kalangitan|NNC na|CCP kulay|NNC abo|NNC .|PMP "|PMS
+Hindi|RBF ba|RBI dapat|VBS bughaw|JJD ang|DTC kulay|NNC ng|CCB kalangitan|NNC ,|PMC anak|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Ang|DTC kalangitan|NNC po|RBS ay|LM mukhang|RBM madilim|JJD tuwing|RBW gabi|RBW ,|PMC ina|NNC .|PMP "|PMS
+Pinintahan|VBOF ni|DTP Rajani|NNP ang|DTC mansanas|NNC .|PMP "|PMS
+Hindi|RBF ba|RBI dapat|VBS pula|JJD '|PMS yan|PRO ,|PMC anak|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Ito|PRO po|RBS ay|LM mansanas|NNC na|CCP hindi|RBF pa|RBI hinog|JJD ,|PMC ina|NNC .|PMP "|PMS "|PMS
+Halos|JJD lahat|PRI ng|CCB berdeng|JJD_CCP mansanas|NNC ay|LM maasim|JJD ,|PMC anak|NNC .|PMP "|PMS
+Sabi|VBS ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Bakit|PRQ po|RBS kayo|PRP nag|NNCA -|PMS aalala|NNC ,|PMC ina|NNC ?|PMQ
+Heto|NNP po|RBS ang|DTC matamis|JJD na|CCP mansanas|NNC para|CCT sa|CCT inyo|PRSP ,|PMC "|PMS sambit|NNC ni|DTP Rajani|NNP .|PMP

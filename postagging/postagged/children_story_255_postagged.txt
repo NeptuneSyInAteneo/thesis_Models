@@ -1,0 +1,8 @@
+Kung|CCR ang|DTC tagak|NNC ay|LM makakasayaw|VBW ,|PMC sasayaw|JJD siya|PRS sa|CCT isang|PRI_CCP paa|NNC .|PMP
+Kung|CCR ang|DTC kabayo|NNC ay|LM makakasayaw|VBW ,|PMC sasayaw|JJD siya|PRS sa|CCT dalawang|JJN_CCP paa|NNC .|PMP
+Kung|CCR ang|DTC elepante|NNC ay|LM makakasayaw|VBW ,|PMC sasayaw|JJD siya|PRS sa|CCT pagduyan|NNC ng|CCB kanyang|PRSP_CCP paa|NNC .|PMP
+Kung|CCR ang|DTC oter|FW ay|LM makakasayaw|VBW ,|PMC sasayaw|RBD siyang|PRS_CCP tumatalon|VBTR_VBAF .|PMP
+Kung|CCR ang|DTC manok|NNC ay|LM makakasayaw|VBW ,|PMC sasayaw|RBD siyang|PRS_CCP mabilis|RBD .|PMP
+Kung|CCR ang|DTC ahas|NNC ay|LM makakasayaw|VBW ,|PMC sasayaw|RBD siyang|PRS_CCP napakaganda|JJCS_JJD .|PMP
+Kung|CCR ang|DTC kuwago|NNC ay|LM makakasayaw|VBW ,|PMC sasayaw|RBD siyang|PRS_CCP paikot|JJD .|PMP
+Kapag|CCR sila|PRP ay|LM sumasayaw|VBTR ,|PMC sila|PRP ay|LM masaya|JJD .|PMP .|PMP

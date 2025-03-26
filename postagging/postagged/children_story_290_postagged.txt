@@ -1,0 +1,16 @@
+Saan|PRQ kaya|CCR pupunta|VBTF si|DTP Dina|NNP ?|PMQ
+Hinahanap|VBTR niya|PRS si|DTP Dara|NNP .|PMP
+Saan|PRQ kaya|CCR pupunta|VBTF si|DTP Dara|NNP ?|PMQ
+Hinahanap|VBTR ni|DTP Dara|NNP ang|DTC kaniyang|PRSP_CCP baka|NNC .|PMP
+Saan|PRQ kaya|CCR pupunta|VBTF ang|DTC baka|NNC ?|PMQ
+Sinusundan|VBTR ng|CCB baka|NNC ang|DTC ibon|NNC .|PMP
+Saan|PRQ kaya|CCR pupunta|VBTF ang|DTC ibon|NNC ?|PMQ
+Sinusundan|VBTR ng|CCB ibon|NNC ang|DTC aso|NNC ?|PMQ
+Saan|PRQ kaya|CCR pupunta|VBTF ang|DTC aso|NNC ?|PMQ
+Sinusundan|VBTR ng|CCB aso|NNC ang|DTC ahas|NNC .|PMP
+Saan|PRQ kaya|CCR pupunta|VBTF ang|DTC ahas|NNC ?|PMQ
+Sinusundan|VBTR ng|CCB ahas|NNC ang|DTC palaka|NNC .|PMP
+Saan|PRQ kaya|CCR pupunta|VBTF ang|DTC palaka|NNC ?|PMQ
+Ang|DTC palaka|NNC ay|LM tumatalon|VBTR_VBAF -|PMS talon|NNC sa|CCT bukid|NNC .|PMP
+Saan|PRQ kaya|CCR silang|PRP_CCP lahat|PRI pupunta|VBTF ?|PMQ
+Silang|CCT lahat|PRI ay|LM pupunta|VBTF sa|CCT bukid|NNC .|PMP .|PMP .|PMP .|PMP .|PMP

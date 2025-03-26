@@ -1,0 +1,55 @@
+Dumating|VBAF na|RBI ang|DTC panahon|NNC ng|CCB tagsibol|NNC .|PMP
+Ang|DTC mga|DTCP bulaklak|NNC ay|LM nagbigay|VBTS ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP kulay|NNC sa|CCT mundo|NNC .|PMP
+Sa|CCT isang|PRI_CCP bahagi|NNC ng|CCB kagubatan|NNC ay|LM may|VBH isang|PRI_CCP bulaklak|NNC na|CCP nakalambitin|VBTS sa|CCT sanga|NNC ng|CCB punong|JJD_CCP Ilang|PRQ_CCP -|PMS ilang|PRQ_CCP .|PMP "|PMS
+Ako|PRS si|DTP Ilang|PRQ_CCP .|PMP
+Ako|PRS ay|LM isang|PRI_CCP dilaw|JJD na|CCP bulaklak|NNC .|PMP
+Napakaganda|JJCS_JJD ko|PRS raw|RBI .|PMP
+Iyan|VBTS_VBOF ang|DTC sabi|NNC ng|CCB mga|DTCP tao|NNC .|PMP "|PMS
+Napakaganda|JJCS_JJD ng|CCB lugar|NNC na|CCP ito|PRO .|PMP
+Mahina|JJD ang|DTC ihip|FW ng|CCB hangin|NNC at|CCA sumisikat|VBTR_VBAF ang|DTC araw|NNC .|PMP
+Ngunit|CCT parang|CCT may|VBH kulang|JJD .|PMP
+Hindi|RBF ako|PRS napapansin|VBTR ng|CCB mga|DTCP tao|NNC !|PMS
+Dahil|CCR ba|RBI ito|PRO sa|CCT itsura|NNC ko|PRS ?|PMQ
+O|NNPA baka|RBM naman|RBI sa|CCT amoy|NNC ko|PRS ?|PMQ
+Pinapangarap|VBTR ko|PRS na|CCP balang|JJD_CCP araw|NNC ,|PMC ako|PRS ang|DTC magiging|VBTF pinakamagandang|JJCS_JJD_CCP bulaklak|NNC sa|CCT buong|PRI_CCP mundo|NNC –|PMS magandang|JJD_CCP bulaklak|NNC na|CCP may|VBH matingkad|JJD na|CCP kulay|NNC at|CCA napakabango|JJCS_JJD .|PMP
+Tinatanong|VBTR ko|PRS ang|DTC buwan|NNC tuwing|RBW gabi|RBW ,|PMC "|PMS Buwan|NNP ,|PMC sino|PRQ ang|DTC pinakamagandang|JJCS_JJD_CCP bulaklak|NNC sa|CCT buong|PRI_CCP mundo|NNC ?|PMQ "|PMS
+Hindi|RBF sumasagot|VBTR_VBAF ang|DTC buwan|NNC .|PMP
+Tahimik|JJD lamang|RBI itong|PRO_CCP nagliliwanag|VBTS mula|RBL sa|CCT kalangitan|NNC .|PMP
+Isang|PRI_CCP gabi|RBW ,|PMC habang|RBW ako|PRS ay|LM natutulog|VBTR ,|PMC may|VBH bumulong|VBTR_VBAF sa|CCT akin|PRSP .|PMP "|PMS
+Gumising|NNP ka|PRS ,|PMC Ilang|PRQ_CCP !|PMS "|PMS
+bulong|NNC sa|CCT akin|PRSP .|PMP
+Gumising|NNP ako|PRS na|CCP pupungas|FW -|PMS pungas|NNC .|PMP "|PMS
+Ilang|PRQ_CCP ,|PMC gusto|VBS mong|PRS_CCP hanapin|VBOF natin|PRP ang|DTC pinakamagandang|JJCS_JJD_CCP bulaklak|NNC sa|CCT buong|PRI_CCP mundo|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB buwan|NNC .|PMP "|PMS
+Sige|NNP !|PMS
+Gustong|VBS_CCP -|PMS gusto|VBS ko|PRS iyon|PRO !|PMS "|PMS
+sagot|NNC ni|DTP Ilang|PRQ_CCP .|PMP
+Pinaakyat|VBTR ng|CCB buwan|NNC si|DTP Ilang|PRQ_CCP sa|CCT bahaghari|NNC .|PMP
+Itinupi|NNP ng|CCB bahaghari|NNC ang|DTC kaniyang|PRSP_CCP kulay|NNC hanggang|RBW sa|CCT naging|VBTS isa|PRI itong|PRO_CCP malaki|JJD at|CCA makulay|JJD na|CCP lobo|NNC at|CCA ipinasyal|VBTS si|DTP Ilang|PRQ_CCP .|PMP "|PMS
+Napakaganda|JJCS_JJD n'yo|NNC naman|RBI ,|PMC mga|DTCP kaibigan|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Ilang|PRQ_CCP .|PMP
+Nakita|VBTS niya|PRS ang|DTC mga|DTCP magagandang|JJD_CCP bulaklak|NNC mula|RBL sa|CCT iba|PRI '|PMS t|NNCA ibang|PRI_CCP lugar|NNC .|PMP
+Mayroong|VBH_CCP rosas|NNC ,|PMC gumamela|NNC ,|PMC santan|NNC ,|PMC sampaguita|NNC at|CCA orkidas|NNC .|PMP
+Napakarami|JJCS_JJD at|CCA iba|PRI '|PMS t|NNCA iba|PRI ang|DTC mga|DTCP nakitang|VBTS_CCP bulaklak|NNC ni|DTP Ilang|PRQ_CCP –|PMS mga|DTCP bulaklak|NNC na|CCP iba|PRI -|PMS iba|PRI ang|DTC hugis|NNC ,|PMC kulay|NNC at|CCA laki|NNC .|PMP
+Walang|VBN_CCP bulaklak|NNC ang|DTC mas|JJCC nakakaangat|VBTR sa|CCT iba|PRI .|PMP
+Bawat|PRI isang|PRI_CCP bulaklak|NNC ay|LM espesyal|JJD .|PMP
+Natuwa|VBTS si|DTP Ilang|PRQ_CCP sa|CCT kanyang|PRSP_CCP nakita|VBTS .|PMP
+Umuwi|VBAF na|CCP si|DTP Ilang|PRQ_CCP .|PMP
+Kinabukasan|RBW ,|PMC masayang|JJD_CCP namukadkad|VBTR ang|DTC mga|DTCP bulaklak|NNC .|PMP "|PMS
+Itong|PRO_CCP puno|NNC ay|LM palaging|RBD_CCP tinatago|VBTR ang|DTC kaniyang|PRSP_CCP magandang|JJD_CCP mga|DTCP bulaklak|NNC sa|CCT kaniyang|PRSP_CCP mga|DTCP sanga|NNC na|CCP para|CCT bang|RBM nahihiya|VBTS .|PMP "|PMS "|PMS
+Hmm|NNP ...|PMS Hindi|RBF pa|RBI ako|PRS nakakita|VBTR ng|CCB ganitong|PRC_CCP bulaklak|NNC noon|RBW !|PMQ
+Para|CCT silang|PRP_CCP mahiwagang|JJD_CCP kayamanan|NNC .|PMP "|PMS
+Lumipas|VBAF ang|DTC mga|DTCP araw|NNC at|CCA si|DTP Ilang|PRQ_CCP ay|LM patuloy|RBD sa|CCT pag|CCR -|PMS iisip|FW .|PMP
+Nagpasya|VBTS siyang|PRS_CCP ayaw|RBF na|CCP niyang|PRS_CCP maging|VBW sikat|JJD .|PMP
+Mamumuhay|NNP na|CCP siya|PRS bilang|CCT simple|JJD sa|CCT loob|NNC ng|CCB kagubatan|NNC .|PMP
+Sa|CCT kaibuturan|NNC ng|CCB kaniyang|PRSP_CCP puso|NNC ay|LM may|VBH narinig|VBTS siyang|PRS_CCP boses|NNC .|PMP "|PMS
+Katangi|NNP -|PMS tangi|JJD ka|PRS Ilang|PRQ_CCP ,|PMC bilang|CCT isang|PRI_CCP simpleng|JJD_CCP bulaklak|NNC .|PMP "|PMS
+Tuwang|NNP -|PMS tuwa|NNC sa|CCT narinig|VBTS si|DTP Ilang|PRQ_CCP .|PMP
+Nakahinga|VBTS siya|PRS ng|CCB maluwag|JJD .|PMP
+Patuloy|RBD siyang|PRS_CCP sumasayaw|VBTR sa|CCT mga|DTCP sanga|NNC na|CCP magaan|JJD ang|DTC pakiramdam|NNC at|CCA ikinalulugod|VBTR ang|DTC bawat|PRI sandali|NNC .|PMP
+Magbasa|VBAF ng|CCB aklat|NNC ngayon|RBW at|CCA mangarap|VBW bukas|JJD !|PMS
+Ang|DTC Books|NNP International|NNP ay|LM isang|PRI_CCP NGO|NNPA na|CCP naglalathala|RBD ng|CCB mga|DTCP picture|FW books|FW .|PMP
+Sila|PRP ay|LM nagsusulat|VBTR ,|PMC gumuguhit|VBTR_VBAF ,|PMC at|CCA naglalathala|RBD ng|CCB mga|DTCP picture|FW books|FW para|CCT mga|DTCP bata|NNC sa|CCT kanilang|PRSP_CCP sariling|JJD_CCP wika|NNC .|PMP
+Nilalayon|VBTR ng|CCB organisasyon|NNC na|CCP mabigyan|VBW ng|CCB pangarap|NNC ang|DTC mga|DTCP bata|NNC .|PMP
+Ang|DTC aming|PRSP_CCP mga|DTCP kuwento|NNC ay|LM nagtuturo|VBTR rin|RBI sa|CCT mga|DTCP bata|NNC kung|RBK paano|RBQ solusyonan|VBOF ang|DTC mgasiyung|NNC_CCP panlipunan|JJD sa|CCT kasalukuyan|RBW .|PMP
+Ninanais|VBTR ng|CCB Books|NNP International|NNP na|CCP makapabigay|VBW ng|CCB de-kalidad|JJD na|CCP edukasyon|NNC sa|CCT lahat|PRI .|PMP

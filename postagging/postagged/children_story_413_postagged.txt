@@ -1,0 +1,78 @@
+Sa|CCT isang|PRI_CCP malayong|JJD_CCP karagatan|NNC kalapit|JJD ng|CCB kumpol|NNC ng|CCB isla|NNC ,|PMC nagising|VBTS si|DTP Tuna|FW sa|CCT sigaw|NNC ng|CCB kaniyang|PRSP_CCP kapatid|NNC na|CCP si|DTP Twain|NNP .|PMP
+Lumangoy|VBAF siya|PRS papunta|RBL dito|PRL .|PMP
+Tinapik|VBTS niya|PRS ng|CCB palikpik|NNC ang|DTC likuran|NNC nito|PRO at|CCA tinanong|VBTS ,|PMC "|PMS Ano|PRQ ang|DTC nangyari|VBTS ,|PMC bakit|PRQ ka|PRS sumisigaw|VBTR_VBAF ?|PMQ "|PMS
+Lumingon|NNP sa|CCT kaniya|PRSP ang|DTC kapatid|NNC at|CCA sinabing|VBOF_CCP "|PMS gusto|VBS ko|PRS ng|CCB pulang|JJD_CCP halamang|NNC_CCP may|VBH kakaibang|JJD_CCP maliliit|JJD na|CCP sanga|NNC .|PMP "|PMS
+Alam|VBS kaya|CCR ni|DTP Tuna|FW iyon|PRO ?|PMQ
+Nag|NNP -|PMS isip|NNC nang|CCB nag|VBTS -|PMS isip|NNC si|DTP Tuna|FW at|CCA saka|CCA sinabi|VBTS ,|PMC "|PMS Aha|FW .|PMP
+Pulang|NNP_CCP lumot|NNC ba|RBI ang|DTC ibig|VBS mo|PRS !|PMQ
+Saan|PRQ ka|PRS nakakita|VBTS ng|CCB ganoon|PRC ?|PMQ "|PMS "|PMS
+Nakita|VBTS ko|PRS iyong|PRSP_CCP dala|JJD ng|CCB isang|PRI_CCP sardinas|NNC ,|PMC "|PMS sagot|NNC ni|DTP Twain|NNP .|PMP "|PMS
+Mukha|NNP itong|PRO_CCP masarap|JJD at|CCA katakam|JJD -|PMS takam|NNC .|PMP
+Gusto|VBS ko|PRS ng|CCB ganoon|PRC .|PMP "|PMS
+Tinanong|VBTS siya|PRS ni|DTP Tuna|FW ,|PMC "|PMS pero|CCT hindi|RBF tayo|PRP kumakain|VBTR_VBAF ng|CCB lumot|NNC .|PMP "|PMS
+Naglabas|VBTS siya|PRS ng|CCB pagkain|NNC at|CCA sinabing|VBTS ,|PMC "|PMS Ayaw|RBF mo|PRS ba|RBI ng|CCB mga|DTCP pusit|NNC o|CCT hipon|NNC ?|PMQ
+O|NNPA baka|RBM gusto|VBS mo|PRS ng|CCB alumahan|NNC ?|PMQ "|PMS
+Sumigaw|VBAF si|DTP Twain|NNP at|CCA nagmamaktol|VBTR na|CCP lumangoy|VBAF at|CCA pagkatapos|VBW ,|PMC paulit|VBW -|PMS ulit|RBW na|CCP sinabing|VBTS_CCP "|PMS Hindi|RBF ,|PMC hindi|RBF !|PMQ
+Gusto|VBS ko|PRS ng|CCB lumot|NNC ngayon|RBW at|CCA hindi|RBF ako|PRS kakain|VBTF ng|CCB kahit|CCT ano|PRQ .|PMP "|PMS
+Nag|NNP -|PMS isip|NNC ng|CCB malalim|JJD si|DTP Tuna|FW kung|RBK paano|RBQ siya|PRS makakakuha|VBTF ng|CCB lumot|NNC sa|CCT kailaliman|NNC ng|CCB dagat|NNC .|PMP
+Naalala|VBTS niyang|PRS_CCP tanungin|VBOF ang|DTC kaniyang|PRSP_CCP kaibigang|NNC_CCP si|DTP Kabayong|NNP Dagat|NNP .|PMP
+Lumalangoy|VBTR_VBAF kaya|CCR siya|PRS ngayon|RBW sa|CCT mababaw|JJD na|CCP parte|NNC ng|CCB tubig|NNC ?|PMQ
+Naghanap|VBTS siya|PRS ng|CCB naghanap|VBTS hanggang|RBW matagpuan|VBW na|CCP niya|PRS ito|PRO .|PMP
+Dahan|NNP -|PMS dahan|NNC niya|PRS itong|PRO_CCP nilapitan|VBTS at|CCA sinabing|VBTS ,|PMC "|PMS Kailangan|VBS ko|PRS ng|CCB pulang|JJD_CCP lumot|NNC na|CCP mula|RBL sa|CCT pinakailalim|JJCS_JJD ng|CCB dagat|NNC para|CCT sa|CCT kapatid|NNC kong|PRS_CCP si|DTP Twain|NNP .|PMP
+Maaari|VBS mo|PRS ba|RBI akong|PRS_CCP ikuha|VBOF ng|CCB kaunti|PRI ?|PMQ "|PMS "|PMS
+Patawad|NNP ,|PMC kaibigan|NNC ,|PMC ngunit|CCT napakabagal|JJCS_JJD ko|PRS ,|PMC "|PMS sagot|NNC ni|DTP Kabayong|NNP -|PMS Dagat|NNP .|PMP "|PMS
+Balikan|NNP mo|PRS ako|PRS pagkaraan|RBW ng|CCB isa|JJN o|CCT dalawang|JJN_CCP araw|NNC .|PMP "|PMS
+Naisip|VBTS ni|DTP Tuna|FW na|CCP hindi|RBF siya|PRS makapaghihintay|VBW .|PMP
+Wala|VBN nang|RBW kakainin|VBTF si|DTP Twain|NNP ngayon|RBW .|PMP
+Nagpasalamat|VBTS si|DTP Tuna|FW kay|DTP Kabayong|NNP -|PMS Dagat|NNP at|CCA pinagmasdan|VBRF niya|PRS itong|PRO_CCP lumangoy|VBAF papunta|VBW sa|CCT tahanan|NNC nitong|PRO_CCP nasa|RBL gitna|JJD ng|CCB mga|DTCP bangkota|NNC na|CCP nasa|RBL pinakailalim|JJCS_JJD ng|CCB dagat|NNC .|PMP
+Ano|PRQ na|CCP ang|DTC gagawin|VBTF ni|DTP Tuna|FW ?|PMQ
+Naalala|VBTS ni|DTP Tuna|FW si|DTP Lamprea|NNP .|PMP
+Mabilis|RBD niya|PRS itong|PRO_CCP pinuntahan|VBOF at|CCA nakita|VBTS niya|PRS itong|PRO_CCP nakakabit|VBTS sa|CCT isang|PRI_CCP salmon|FW .|PMP
+Tumingin|VBAF siya|PRS dito|PRL at|CCA sinabing|VBTS ,|PMC "|PMS Kailangan|VBS ko|PRS ng|CCB lumot|NNC para|CCT sa|CCT kapatid|NNC kong|PRS_CCP si|DTP Twain|NNP .|PMP
+Maaari|VBS mo|PRS ba|RBI akong|PRS_CCP ikuha|VBOF ng|CCB ilan|PRQ ?|PMQ "|PMS "|PMS
+Patawad|NNP ,|PMC kaibigan|NNC ,|PMC "|PMS sagot|NNC ni|DTP Lamprea|NNP .|PMP "|PMS
+Di|RBF ko|PRS maiiwan|VBTF ang|DTC pagkain|NNC ko|PRS .|PMP "|PMS
+Napakalungkot|VBTS ni|DTP Tuna|FW .|PMP
+Wala|VBN siyang|PRS_CCP makitang|VBW_CCP kahit|CCT na|CCP sino|PRQ na|CCP ikukuha|VBOF siya|PRS ng|CCB pulang|JJD_CCP lumot|NNC .|PMP
+Maya|NNP -|PMS maya|NNC ,|PMC nakita|VBTS niya|PRS ang|DTC isang|PRI_CCP sapsap|NNC ,|PMC na|CCP kahit|CCT nakatira|VBTS sa|CCT pinakailalim|JJCS_JJD ng|CCB dagat|NNC ,|PMC ay|LM paminsan|RBW -|PMS minsang|RBW_CCP nagpupunta|VBTR sa|CCT mababaw|JJD na|CCP tubig|NNC .|PMP
+Kinakain|VBTR nito|PRO ang|DTC huling|JJD_CCP dalang|NNC_CCP kabibeng|NNC_CCP nakaipit|JJD sa|CCT mga|DTCP palikpik|NNC nito|PRO .|PMP
+Pinuntahan|VBTS ito|PRO ni|DTP Tuna|FW at|CCA sinabing|VBOF_CCP "|PMS Kailangan|VBS ko|PRS ng|CCB lumot|NNC para|CCT sa|CCT kapatid|NNC kong|PRS_CCP si|DTP Twain|NNP .|PMP
+Kaya|CCR mo|PRS ba|RBI akong|PRS_CCP ikuha|VBOF ng|CCB kaunti|PRI ?|PMQ "|PMS "|PMS
+Siyempre|RBT ,|PMC kaya|CCR ko|PRS ,|PMC "|PMS sagot|NNC ni|DTP Sapsap|NNP .|PMP "|PMS
+Pero|CCT ano|PRQ '|PMS ng|CCB ibibigay|VBTF mong|PRS_CCP kapalit|CCB ?|PMQ "|PMS "|PMS
+Ano|PRQ ba|RBI '|PMS ng|CCB gusto|VBS mo|PRS ?|PMQ "|PMS
+balisang|JJD_CCP tanong|NNC ni|DTP Tuna|FW .|PMP "|PMS
+Gusto|VBS ko|PRS ng|CCB mga|DTCP kabibeng|JJD_CCP kulay|NNC kalimbahin|NNC .|PMP
+Gilalas|NNP na|CCP nagsalita|VBTS si|DTP Tuna|FW ,|PMC "|PMS ngunit|CCT sa|CCT pinakailalim|JJCS_JJD din|RBI ng|CCB dagat|NNC makikita|VBTF ang|DTC mga|DTCP iyon|PRO !|PMQ "|PMS "|PMS
+Mga|DTCP kabibe|NNC kapalit|CCB ng|CCB lumot|NNC ,|PMC "|PMS matatag|JJD na|CCP sagot|NNC ni|DTP Sapsap|NNP .|PMP "|PMS
+Kung|CCR pupunta|VBTF lang|RBI din|RBI ako|PRS sa|CCT pinakailalim|JJCS_JJD ng|CCB dagat|NNC para|CCT kumuha|VBAF ng|CCB mga|DTCP kabibe|NNC ,|PMC "|PMS mabilis|JJD na|CCP sagot|NNC ni|DTP Tuna|FW ,|PMC "|PMS bakit|PRQ hindi|RBF pa|RBI ako|PRS kumuha|VBAF na|CCP rin|RBI ng|CCB mga|DTCP lumot|NNC ?|PMQ "|PMS
+Lumangoy|VBAF si|DTP Tuna|FW patungo|RBL sa|CCT ilalim|JJD ng|CCB dagat|NNC .|PMP
+Nakita|VBTS nya|PRS na|CCP pakonti|JJD konting|PRI_CCP nawawala|VBTR ang|DTC liwanag|NNC ng|CCB araw|NNC at|CCA palamig|RBD ng|CCB palamig|JJD habang|RBW lumalalim|VBTR_VBAF .|PMP
+Habang|RBW palalim|RBD nang|RBD palalim|RBD ang|DTC nilalangoy|VBTR niya|PRS ,|PMC mas|JJCC kaunting|PRI_CCP ingay|NNC ang|DTC naririnig|VBTR hanggang|RBW ganap|RBD nang|RBD tahimik|RBD .|PMP
+Pinataas|VBTS ni|DTP Tuna|FW ang|DTC temperatura|NNC ng|CCB katawan|NNC niya|PRS at|CCA hindi|RBF na|RBI siya|PRS gininaw|VBOF ,|PMC ngunit|CCT hindi|RBF naman|RBI siya|PRS makaangkop|VBW sa|CCT dilim|NNC .|PMP
+Sa|CCT katunayan|NNC ,|PMC nanginginig|VBTR siya|PRS dahil|CCR sa|CCT takot|NNC .|PMP
+Wala|VBN siyang|PRS_CCP makitang|VBW_CCP kahit|CCT ano|PRQ .|PMP
+Maya|NNP -|PMS maya|NNC ,|PMC may|VBH sumulpot|VBAF na|CCP malamlam|JJD na|CCP liwanag|NNC malapit|JJD sa|CCT kaniya|PRSP .|PMP
+Mabilis|RBD niya|PRS itong|PRO_CCP pinuntahan|VBOF habang|RBW naghahanap|VBTR ng|CCB pulang|JJD_CCP lumot|NNC ,|PMC lunting|NNC halaman|NNC ,|PMC at|CCA bulateng|NNC_CCP -|PMS dagat|NNC .|PMP
+May|VBH nakita|VBTS din|RBI siyang|PRS_CCP mga|DTCP kabibeng|JJD_CCP kulay|NNC kalimbahin|NNC .|PMP
+Si|DTP Tuna|FW ay|LM lumapit|VBAF sa|CCT pinagmumulan|VBTR_VBRF ng|CCB liwanag|NNC .|PMP
+Ano|PRQ kaya|CCR ito|PRO ?|PMQ
+Malaking|JJD_CCP ipin|NNC ,|PMC kakaibang|JJD_CCP itsura|NNC at|CCA ilaw|NNC na|CCP nagmumula|VBTR sa|CCT kanyang|PRSP_CCP ulo|NNC !|PMS
+Oh|NNP ,|PMC isa|PRI ba|RBI itong|PRO_CCP isdang|NNC_CCP me|FW malaking|JJD_CCP ipin|NNC ?|PMQ
+Nanginginig|VBTR si|DTP Tuna|FW at|CCA mabilis|RBD na|CCP lumangoy|VBAF papalayo|RBD .|PMP
+Siya|PRS ay|LM biktima|NNC at|CCA hinabol|VBOF ng|CCB galit|NNC na|CCP isda|NNC .|PMP
+Binilisan|VBTS niya|PRS ang|DTC paglangoy|NNC at|CCA pinilit|RBD niyang|PRS_CCP makakuha|VBW ng|CCB lumot|NNC gamit|VBS ang|DTC bibig|NNC ,|PMC ngunit|CCT hindi|RBF niya|PRS nagawa|VBTS .|PMP
+Siya|PRS ay|LM inatake|VBTS uli|RBW ng|CCB isda|NNC .|PMP
+Mabilis|RBD na|CCP naiwasan|VBTS ito|PRO ni|DTP Tuna|FW at|CCA sa|CCT wakas|RBW nakakuha|VBTS siya|PRS ng|CCB kaunting|PRI_CCP lumot|NNC .|PMP
+Dinala|VBOF niya|PRS ito|PRO gamit|VBS ang|DTC kanyang|PRSP_CCP bibig|NNC at|CCA lumangoy|VBAF paitaas|RBD .|PMP
+Sa|CCT kanyang|PRSP_CCP pagbalik|NNC ,|PMC nadaanan|VBTS niya|PRS si|DTP isdang|NNC_CCP lapad|NNC ,|PMC at|CCA isdang|NNC_CCP lampay|JJD na|CCP nakasunod|VBTS pa|RBI din|RBI sa|CCT isdang|NNC_CCP salmon|FW .|PMP
+Nadaanan|VBTS niya|PRS rin|RBI si|DTP kabayong|NNC_CCP dagat|NNC na|CCP papunta|VBW pa|RBI lang|RBI sa|CCT ilalim|JJD ng|CCB dagat|NNC .|PMP
+Sa|CCT wakas|RBW ,|PMC nakita|VBTS niya|PRS rin|RBI ang|DTC liwanag|NNC at|CCA doon|PRL lang|RBI siya|PRS nakaramdam|VBTS na|CCP ligtas|JJD siya|PRS .|PMP
+Naabutan|VBTR niya|PRS si|DTP Twain|NNP na|CCP naghihintay|VBTR sa|CCT kaniya|PRSP .|PMP
+Nakita|VBTS siya|PRS nito|PRO ,|PMC humarap|VBAF sa|CCT kaniya|PRSP ,|PMC at|CCA sumigaw|VBAF na|CCP "|PMS pulang|JJD_CCP lumot|NNC ,|PMC pulang|JJD_CCP lumot|NNC !|PMS "|PMS
+Ibinigay|VBTS ni|DTP Tuna|FW sa|CCT kaniya|PRSP ang|DTC pulang|JJD_CCP lumot|NNC at|CCA sinabing|VBTS ,|PMC "|PMS Masaya|NNP sana|VBS ang|DTC pagkain|NNC mo.|NNCA "|PMS Pagkasubo|VBW pa|RBI lang|RBI ni|DTP Twain|NNP ay|LM agad|RBD niya|PRS rin|RBI itong|PRO_CCP iniluwa|VBTS at|CCA sinabing|VBTS ,|PMC "|PMS Kadiri|FW !|PMS
+Ang|DTC sama|NNC ng|CCB lasa|NNC !|PMS "|PMS
+Habang|RBW buong|PRI_CCP lugod|NNC na|CCP pinagmamasdan|VBTR_VBRF ang|DTC kabibe|NNC ,|PMC sinabi|VBTS ni|DTP Tina|NNP na|CCP ,|PMC "|PMS Mabuti|JJD na|RBI lang|RBI at|CCA may|VBH nakuha|VBTS akong|PRS_CCP alaala|NNC mula|RBL sa|CCT kailaliman|NNC ng|CCB dagat|NNC .|PMP
+Biglang|RBD_CCP narinig|VBTS niya|PRS si|DTP Twain|NNP na|CCP sumisigaw|VBTR_VBAF uli|RBW habang|RBW nakaturo|VBTS sa|CCT sardinas|NNC na|CCP kumakain|VBTR_VBAF ng|CCB alumahan|NNC ;|PMSC "|PMS Gusto|VBS ko|PRS ng|CCB isa|PRI rin|RBI niyan|PRO .|PMP
+Gusto|VBS ko|PRS ng|CCB isa|PRI para|CCT sa|CCT akin|PRSP .|PMP "|PMS
+Wakas|NNP

@@ -1,0 +1,27 @@
+Mahal|NNP na|CCP mahal|JJD ni|DTP Nana|NNP and|CCA kaniyang|PRSP_CCP laruang|NNC_CCP kamelyo|NNC .|PMP
+Ito|PRO ay|LM gawa|VBS sa|CCT malambot|JJD na|CCP tela|NNC .|PMP
+Malapit|JJD na|CCP kaibigan|NNC naman|RBI ni|DTP Nini|NNP ang|DTC kaniyang|PRSP_CCP laruang|NNC_CCP giraffe|JJD na|CCP gawa|NNC rin|RBI sa|CCT mga|DTCP malambot|JJD na|CCP tela|NNC .|PMP
+Pero|CCT ,|PMC gusto|VBS ring|RBI_CCP makipaglaro|VBW ni|DTP Nini|NNP sa|CCT kamelyo|NNC .|PMP
+Ginawa|VBOF ni|DTP Nana|NNP na|CCP isang|PRI_CCP disyerto|JJD ang|DTC karpet|NNC ng|CCB kanilang|PRSP_CCP sala|NNC at|CCA masaya|JJD siyang|PRS_CCP nagpaikot|VBTS -|PMS ikot|NNC dito|PRL habang|RBW nakasakay|VBTS sa|CCT likod|NNC ng|CCB kaniyang|PRSP_CCP kamelyo|NNC .|PMP "|PMS
+Marunong|NNP_CCP kayang|RBD_CCP lumangoy|VBAF ang|DTC kamelyo|NNC kagaya|JJC ng|CCB balyena|NNC ?|PMQ "|PMS
+usisa|NNC ni|DTP Nini|NNP nang|RBW makita|VBW ang|DTC kapatid|NNC .|PMP
+Ngunit|CCT hindi|RBF nakalalangoy|VBTR ang|DTC kamelyo|NNC katulad|JJC ng|CCB isang|PRI_CCP balyena|NNC .|PMP
+Nabasa|VBTS lamang|RBI ang|DTC kamelyo|NNC .|PMP
+Biglang|RBD_CCP dumating|VBAF ang|DTC kanilang|PRSP_CCP ina|NNC .|PMP "|PMS
+Tama|RBT na|CCP mga|DTCP anak|NNC ,|PMC "|PMS sabi|VBS nito|PRO .|PMP "|PMS
+Basang|JJD_CCP -|PMS basa|JJD na|CCP ito|PRO .|PMP "|PMS "|PMS
+Haha|NNP !|PMS
+Tuyong|NNP -|PMS tuyong|JJD_CCP pa|RBI ang|DTC aking|PRSP_CCP giraffe|NNC ,|PMC "|PMS pangungutya|VBW ni|DTP Nini|NNP .|PMP "|PMS
+Hindi|RBF na|CCP !|PMS "|PMS
+sigaw|NNC ni|DTP Nana|NNP at|CCA inilublob|VBTS din|RBI ito|PRO sa|CCT tubig|NNC .|PMP
+Dahil|CCR dito|PRL ay|LM kinuha|VBOF ng|CCB kanilang|PRSP_CCP ina|NNC ang|DTC kanilang|PRSP_CCP mga|DTCP laruan|NNC .|PMP
+Nagkatampohan|VBTS sina|DTPP Nana|NNP at|CCA Nini|FW sa|CCT nangyari|VBTS .|PMP "|PMS
+Bumalik|VBAF na|CCP kayo|PRP sa|CCT kwarto|NNC niyo|PRP ,|PMC mga|DTCP anak|NNC !|PMS "|PMS
+utos|NNC ng|CCB kanilang|PRSP_CCP ina|NNC .|PMP "|PMS
+Ibabalik|VBTF ko|PRS ang|DTC inyong|PRSP_CCP mga|DTCP laruan|NNC kapag|CCR nagkaayos|VBTS na|CCP kayong|JJD_CCP dalawa|CDB .|PMP "|PMS
+Nahiga|VBTS sina|DTPP Nana|NNP at|CCA Nini|FW sa|CCT kama|NNC na|CCP pawang|PRI_CCP may|VBH sama|NNC ng|CCB loob|NNC sa|CCT isa|PRI '|PMS t|NNCA isa|PRI at|CCA hindi|RBF nag|VBTS -|PMS iimikan|VBTF .|PMP
+Hindi|RBF nagtagal|VBTS ay|LM nalungkot|VBTS si|DTP Nana|NNP at|CCA nangungulila|VBTS sa|CCT kaniyang|PRSP_CCP kamelyo|NNC .|PMP "|PMS
+Pasensya|NNP na|CCP ,|PMC Nini|FW ,|PMC "|PMS inabot|VBTS ni|DTP Nana|NNP ang|DTC kamay|NNC ni|DTP Nini|NNP .|PMP "|PMS
+Patawad|NNP din|RBI ,|PMC Nana|NNP ,|PMC "|PMS sagot|NNC ni|DTP Nini|NNP .|PMP
+Natuyo|VBTS na|CCP ngayon|RBW ang|DTC laruang|NNC_CCP kamelyo|NNC at|CCA giraffe|NNC .|PMP
+Marahang|RBD_CCP inilagay|VBTS ng|CCB kanilang|PRSP_CCP ina|NNC sa|CCT mga|DTCP bisig|NNC ng|CCB kaniyang|PRSP_CCP munting|JJD_CCP mga|DTCP anak|NNC habang|RBW mahimbing|JJD silang|PRP_CCP natutulog|VBTR .|PMP

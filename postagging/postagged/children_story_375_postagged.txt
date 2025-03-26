@@ -1,0 +1,24 @@
+Ang|DTC lahat|PRI ng|CCB mga|DTCP dragon|NNC sa|CCT bayan|NNC ay|LM naghahanda|VBTR napara|VBTS sa|CCT taunang|RBW_CCP paligsahan|NNC sapagbugangapoy|NNC .|PMP
+Maliban|CCT kay|DTP Drake|NNP .|PMP
+Nakabilad|VBTS pa|RBI rin|RBI sa|CCT araw|NNC si|DTP Drake|NNP habang|RBW kumakain|VBTR_VBAF ng|CCB masasarap|JJD na|CCP mangga|NNC .|PMP
+Kung|CCR makikita|VBTF ninyo|PRP si|DTP Drake|NNP ay|LM aakalin|VBTF ninyo|PRP na|CCP hindi|RBF niya|PRS gustong|VBS_CCP manalo|VBW sa|CCT paligsahan|NNC .|PMP
+Pero|CCT alam|VBS ba|RBI ninyo|PRP ?|PMQ
+Gusto|VBS niya|PRS ring|RBI_CCP sumali|VBAF at|CCA manalo|VBW sa|CCT paligsahan|NNC .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS !|PMQ
+Subalit|CCT siya|PRS ay|LM medyo|JJCC ...|PMS medyo|JJCC ...|PMS tamad|JJD .|PMP
+Nagpasyang|RBD_CCP pumunta|VBAF si|DTP Drake|NNP sa|CCT paligsahan|NNC .|PMP
+Habang|RBW naglalakad|VBTR ,|PMC iniensayo|VBTS niya|PRS ang|DTC pagbuga|NNC ng|CCB matingkad|JJD at|CCA malakas|JJD na|CCP ginintuang|JJD_CCP dilaw|NNC na|CCP apoy|NNC .|PMP
+Ngunit|CCT ang|DTC naibuga|VBTS niya|PRS ay|LM isang|PRI_CCP kulay|NNC -|PMS abong|JJD_CCP usok|NNC .|PMP "|PMS
+Naku|NNP !|PMS
+Hindi|RBF mabuti|JJD ito|PRO para|CCT sa|CCT isang|PRI_CCP dragon|NNC ,|PMC "|PMS sabi|VBS ni|DTP Inang|NNP_CCP Dragon|NNP .|PMP
+Iyak|NNP nang|RBW iyak|NNC si|DTP Drake|NNP !|PMS
+Magtatagumpay|VBTF kaya|CCR siya|PRS at|CCA maipagmamalaki|VBW ng|CCB kaniyang|PRSP_CCP nanay|NNC ?|PMQ
+Biglang|RBD_CCP nakita|VBTS ni|DTP Drake|NNP ang|DTC kaniyang|PRSP_CCP guro|NNC na|CCP si|DTP Dambuhalang|NNP Sili|NNP .|PMP
+Inensayo|VBTS niya|PRS si|DTP Drake|NNP sa|CCT pagbuga|NNC ng|CCB apoy|NNC sa|CCT pamamagitan|NNC ng|CCB pagkain|NNC ng|CCB napakaraming|JJCS_JJD_CCP siling|NNC_CCP pula|JJD .|PMP
+Parang|CCT mahika|VBW ang|DTC epekto|NNC ng|CCB mga|DTCP siling|NNC_CCP pula|JJD !|PMS
+Nag|NNP -|PMS ensayo|NNC nang|CCB nag|VBTS -|PMS ensayo|NNC si|DTP Drake|NNP hanggang|RBW sa|CCT kaya|JJD na|CCP niyang|PRS_CCP magbuga|VBW ng|CCB matingkad|JJD na|CCP ginintuang|JJD_CCP dilaw|NNC na|CCP apoy|NNC .|PMP
+Dahil|CCR sa|CCT kanyang|PRSP_CCP bagong|JJD_CCP kakayahan|NNC ,|PMC ang|DTC liwanag|NNC ng|CCB kanyang|PRSP_CCP apoy|NNC ay|LM maaari|VBS nang|RBW maging|VBW gabay|NNC at|CCA ang|DTC ilaw|NNC ng|CCB mga|DTCP barko|NNC sa|CCT karagatan|NNC .|PMP
+Mula|RBW sa|CCT araw|NNC na|CCP iyon|PRO ,|PMC siya|PRS na|CCP ang|DTC nagsilbing|VBTS_CCP ilaw|NNC at|CCA gabay|NNC ng|CCB mga|DTCP barko|NNC sa|CCT dagat|NNC .|PMP
+Wala|VBN ng|CCB barko|NNC ang|DTC nawala|VBTS dahil|CCR sa|CCT tulong|NNC ni|DTP Drake|NNP .|PMP
+Dahil|CCR dito|PRL ,|PMC ipinagmalaki|VBTS si|DTP Drake|NNP ng|CCB kaniyang|PRSP_CCP Inang|NNP_CCP Dragon|NNP .|PMP
+Daig|NNP pa|RBI niya|PRS ang|DTC nanalo|VBTS sa|CCT paligsahan|NNC ng|CCB pinakamalaki|JJCS_JJD at|CCA pinakamalakas|JJCS_JJD na|CCP pagbuga|NNC ng|CCB apoy|NNC .|PMP

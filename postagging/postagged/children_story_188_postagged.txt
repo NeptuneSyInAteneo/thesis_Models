@@ -1,0 +1,38 @@
+Kumusta|NNP !|PMS
+Isa|PRI akong|PRS_CCP VIRUS|NNPA ,|PMC pinsan|NNC nina|DTPP Trangkaso|NNP at|CCA Sipon|NNP .|PMP
+Ako|PRS si|DTP Coronavirus|NNP .|PMP
+Mahilig|JJD akong|PRS_CCP maglakbay|VBAF ...|PMS at|CCA magpalipat|VBW -|PMS lipat|NNC sa|CCT isang|PRI_CCP kamay|NNC papunta|VBW sa|CCT isa|PRI pang|RBI_CCP kamay|NNC para|CCB mag|VBW -|PMS Hi|NNC .|PMP
+Apir|NNP !|PMS
+Narinig|VBTS mo|PRS na|CCP ba|RBI ang|DTC tungkol|RBR sa|CCT akin|PRSP ?|PMQ
+Oo|RBT ?|PMQ
+Hindi|RBF ?|PMQ
+Ano|PRQ ang|DTC nararamdaman|VBTR mo|PRS kapag|CCR naririnig|VBTR mo|PRS ang|DTC pangalan|NNC ko|PRS ?|PMQ )|PMS
+Kalmado|JJD ?|PMQ )|PMS
+Nalilito|VBTR ?|FW )|PMS
+Nag|NNP -|PMS aalala|FW ?|FW )|PMS
+Nagtataka|VBTR ?|FW )|PMS
+Natatakot|VBTR ?|FW )|PMS
+Nalulungkot|VBTR ?|PMQ
+Ano|PRQ '|PMS ng|CCB nararamdaman|VBTR mo|PRS tungkol|RBR sa|CCT '|PMS kin|FW ,|PMC ang|DTC coronavirus|FW ?|PMQ
+Naiintindihan|VBTR ko|PRS .|PMP
+Mararamdaman|VBTF ko|PRS rin|RBI iyan|PRO .|PMP
+(|PMS Kung|CCR mayroon|VBH kang|PRS_CCP papel|NNC ,|PMC gumuhit|VBAF ng|CCB isang|PRI_CCP mukha|NNC na|CCP magpapakita|VBTF ng|CCB iyong|PRSP_CCP nararamdaman|VBTR .|PMP )|PMS
+Kung|CCR minsan|RBW nangangamba|VBTR ang|DTC mga|DTCP matatanda|NNC tuwing|RBW nagbabasa|VBTR ng|CCB balita|NNC o|CCT nakikita|VBTR ako|PRS sa|CCT TV|NNPA .|PMP
+Ngunit|CCT ipapaliwanag|VBOF ko|PRS ang|DTC aking|PRSP_CCP sarili|NNC para|CCT mas|JJCC maintindihan|VBW mo.|NNCA .|PMP
+Kapag|CCR bumibisita|VBTR_VBAF ako|PRS ,|PMC nagbibigay|VBTR ako|PRS ng|CCB :|PMS hirap|JJD sa|CCT paghinga|NNC ,|PMC lagnat|NNC ,|PMC at|CCA ubo|NNC .|PMP
+Ngunit|CCT ,|PMC hindi|RBF naman|RBI ako|PRS tumatagal|VBTR_VBAF kapag|CCR ako|PRS ay|LM bumibista|VBTR_VBAF .|PMP
+Kalimitan|RBW ,|PMC gumagaling|VBTR_VBAF naman|RBI ang|DTC karamihan|PRI tulad|JJC na|RBI lang|RBI kapag|CCR nadapa|VBTS ka|PRS at|CCA ito|PRO ay|LM gumagaling|VBTR_VBAF .|PMP
+Bye|NNC bye|NNC !|PMS
+Huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC !|PMS
+(|PMS Ibigay|VBOF ang|DTC pangalan|NNC ng|CCB nag|FW -|PMS aalaga|NNC sa|CCT '|PMS yo|NNC .|PMP )|PMS
+Pananatilihin|VBTF ka|PRS nilang|PRP_CCP ligtas|JJD .|PMP
+At|CCA makakatulong|VBTF ka|PRS sa|CCT pamamagitan|NNC ng|CCB :|PMS )|PMS Paghugas|VBW ng|CCB kamay|NNC gamit|VBS ang|DTC sabon|NNC at|CCA tubig|NNC habang|RBW kumakanta|VBTR_VBAF .|PMP
+Maaari|VBS mong|PRS_CCP kantahin|VBOF ang|DTC paborito|NNC mong|PRS_CCP kanta|NNC ,|PMC ang|DTC "|PMS happy|FW birthday|FW "|PMS song|FW or|CCT ang|DTC "|PMS alphabet|FW song|FW "|PMS .|PMP )|PMS
+Paggamit|VBW ng|CCB hand|FW sanitizer|FW at|CCA pagpapatuyo|NNC ng|CCB kamay|NNC .|PMP
+Huwag|RBF gagalawin|VBOF ang|DTC kamay|NNC habang|RBW nagbibilang|VBTR hanggang|RBW sampu|JJN :|PMS ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC .|PMP
+Kapag|CCR tuyona|VBOF ang|DTC kamay|NNC mo|PRS ,|PMC maaari|VBS ka|PRS nang|RBW maglaro|VBAF ulit|RBW !|PMQ
+Kapag|CCR ang|DTC lahat|PRI ng|CCB ito|PRO '|PMS y|FW iyong|PRO_CCP sinunod|VBOF ,|PMC hindi|RBF na|RBI ako|PRS makabibisita|VBW pa|RBI sa|CCT inyo|PRSP .|PMP
+Samantala|CCT ,|PMC ang|DTC mga|DTCP doktor|NNC ay|LM masikap|JJD na|CCP naghahanap|VBTR ng|CCB bakuna|NNC upang|CCB hindi|RBF ka|PRS na|CCP magkasakit|VBW kahit|CCT na|CCP kumustahin|VBOF pa|RBI kita|NNC .|PMP
+WAKAS|NNPA Maaaring|RBM i|NNCA -|PMS download|NNC ang|DTC PDF|NNPA sa|CCT :|PMS www.mindheart.co/descargables|FW May|VBH akda|NNC :|PMS Manuela|NNP Molina|NNP Cruz|NNP Instagram|NNP :|PMS @mindheart|FW .|PMP
+kids|FW manuela|FW @hotmail|FW .|PMP
+com|FW

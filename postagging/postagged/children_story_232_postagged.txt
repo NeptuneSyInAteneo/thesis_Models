@@ -1,0 +1,45 @@
+"|PMS Kuneho|NNC ,|PMC kailangan|VBS ko|PRS ang|DTC tulong|NNC mo|PRS !|PMS "|PMS
+ang|DTC tawag|NNC ni|DTP Ginoong|NNP Kambing|NNP .|PMP
+Maaari|VBS bang|RBI_CCP ipaskil|VBOF mo|PRS ang|DTC babalang|NNC_CCP ito|PRO ,|PMC upang|CCB walang|VBN_CCP magpatunog|VBAF ng|CCB kampanilya|NNC ?|PMQ
+Magdudulot|VBTF ng|CCB malaking|JJD_CCP kaguluhan|NNC kapag|CCR ito|PRO ay|LM pinatunog|VBTS .|PMP
+Labis|JJCS ang|DTC kasiyahan|NNC ng|CCB palundag|NNC -|PMS lundag|NNC na|CCP si|DTP Kuneho|NNP sa|CCT kanyang|PRSP_CCP pagtulong|NNC .|PMP
+Hindi|RBF niya|PRS namamalayan|VBTR na|CCP siya|PRS ay|LM napabilis|VBTS sa|CCT paglundag|NNC at|CCA nawala|VBTS ang|DTC ilang|PRQ_CCP papel|NNC na|CCP ibinigay|VBTS sa|CCT kanya|PRSP ni|DTP Ginoong|NNP Kambing|NNP .|PMP
+Mabilis|RBD na|CCP narating|VBTS ni|DTP Koneho|NNP ang|DTC kampanilya|NNC para|CCT ipaskil|VBOF ang|DTC babala|NNC .|PMP
+Lumundag|VBAF ng|CCB lumundag|VBAF si|DTP Kuneho|NNP ,|PMC gayun|PRC pa|RBI man|RBI di|RBF siya|PRS makalundag|VBW ng|CCB mas|JJCC mataas|JJD para|CCT maipaskil|VBW ang|DTC babala|NNC .|PMP
+Huh|NNP ,|PMC ano|PRQ ang|DTC gagawin|VBTF niya|PRS ?|PMQ
+Nang|RBW biglang|RBD_CCP dumating|VBAF si|DTP Tigre|NNP .|PMP "|PMS
+Ano|PRQ ang|DTC ginagawa|VBTR mo|PRS Kuneho|JJC ?|PMQ "|PMS "|PMS
+Ako|PRS ay|LM magpapaskil|VBAF ng|CCB isang|PRI_CCP babala|NNC para|CCT kay|DTP G.|NNPA Kambing|NNP ,|PMC "|PMS sagot|NNC ni|DTP Kuneho|NNP .|PMP "|PMS
+Ngunit|CCT di|RBF ko|PRS ito|PRO maabot|VBW .|PMP
+Matutulungan|VBTF mo|PRS ba|RBI ako|PRS ?|PMQ "|PMS "|PMS
+Sige|NNP ,|PMC pero|CCT gusto|VBS ko|PRS muna|RBI itong|PRO_CCP mabasa|VBW .|PMP "|PMS
+Kinuha|VBOF ni|DTP Tigre|NNP ang|DTC papel|NNC kay|DTP Kuneho|NNP .|PMP "|PMS
+Sabi|VBS dito|PRL ,|PMC '|PMS Huwag|RBF Patunugin|RBD ang|DTC Kampana|NNP !|PMS '|PMS
+Bakit|PRQ hindi|RBF ?|PMQ "|PMS
+Gustong|VBS_CCP malaman|VBW ni|DTP Tigre|NNP .|PMP
+Hindi|RBF naitanong|VBTS ni|DTP Kuneho|NNP kay|DTP G.|NNPA Kambing|NNP ang|DTC dahilan|NNC .|PMP
+Ngunit|CCT naalala|VBTS niya|PRS na|CCP mayroon|VBH siyang|PRS_CCP dalawang|JJN_CCP papel|NNC .|PMP
+Nawala|VBTS ang|DTC isa|PRI .|PMP
+Marahil|RBM ,|PMC nasa|RBL papel|NNC na|CCP iyon|PRO ang|DTC sagot|NNC ?|PMQ "|PMS
+Gusto|VBS ko|PRS pa|RBI rin|RBI patunugin|RBD ang|DTC kampana|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tigre|NNP .|PMP
+Napayuko|VBTS si|DTP Kuneho|NNP .|PMP "|PMS
+Hindi|RBF ko|PRS tiyak|RBT kung|CCR magandang|JJD_CCP ideya|NNC iyan|PRO .|PMP "|PMS
+Mayabang|JJD na|CCP sinagot|VBTS ni|DTP Tigre|NNP si|DTP Kuneho|NNP .|PMP "|PMS
+Wala|VBN akong|PRS_CCP pakialam|NNC .|PMP
+Walang|VBN_CCP makasasakit|VBW sa|CCT akin|PRSP !|PMS "|PMS
+Hinila|VBOF ni|DTP Tigre|NNP ang|DTC tali|NNC .|PMP
+Habang|RBW naghihintay|VBTR at|CCA nag|VBTS -|PMS aalala|NNC si|DTP Kuneho|NNP .|PMP
+DING|NNPA DONGGG|NNPA !|PMS
+May|VBH biglang|RBD_CCP bumagsak|VBAF mula|RBL sa|CCT kampanilya|NNC .|PMP
+Buzz|NNP ,|PMC buzz|FW !|PMS
+Isang|PRI_CCP pulut|NNC pukyutan|NNC ng|CCB mga|DTCP bubuyog|NNC !|PMS
+At|CCA sila|PRP ay|LM galit|RBD na|CCP galit|JJD !|PMS
+Blag|NNP ,|PMC blag|FW ,|PMC blag|FW !|PMS
+Takbo|NNP ,|PMC takbo|NNC ,|PMC takbo|NNC !|PMS "|PMS
+Umalis|VBAF na|CCP tayo|PRP dito|PRL !|PMS "|PMS
+Nagsisisigaw|VBTR ang|DTC Kuneho|NNC at|CCA Tigre|NNC .|PMP
+Tumalon|VBAF sila|PRP sa|CCT ilalim|JJD ng|CCB tubig|NNC ,|PMC ngayon|RBW nauunawaan|VBTR na|CCP nila|PRP kung|RBK bakit|RBQ hindi|RBF dapat|VBS patunugin|VBOF ang|DTC kampanilya|NNC .|PMP
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM binuo|VBTS sa|CCT pamamagitan|NNC ng|CCB palihan|NNC sa|CCT pagpapaunlad|NNC ng|CCB aklat|NNC na|CCP isinasagawa|VBTR sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP ,|PMC Faculty|NNP of|FW Arts|NNP and|FW Design|NNP ng|CCB Bandung|NNP Institute|NNP of|FW Technology|NNP ,|PMC at|CCA The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC palihan|NNC at|CCA pagbuo|NNC nito|PRO ,|PMC kabilang|CCB na|RBI ang|DTC pag|CCR -|PMS eedit|JJD at|CCA disenyo|NNC ng|CCB aklat|NNC na|CCP ito|PRO ,|PMC ay|LM pinangunahan|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP
+Ang|DTC Litara|NNP Foundation|NNP ay|LM isang|PRI_CCP nonprofit|FW naorganisasyong|VBTR_CCP naglalayong|VBTR_CCP pataasin|VBOF ang|DTC literasi|NNC at|CCA mga|DTCP aklat|NNC pambata|NNC sa|CCT Indonesia|NNP .|PMP
+Para|CCT sa|CCT dagdag|JJD na|CCP impormasyon|NNC ,|PMC bisitahin|VBOF ang|DTC :|PMS http://litara.or.id/|NNC

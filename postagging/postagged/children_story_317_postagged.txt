@@ -1,0 +1,8 @@
+Halos|JJD malapit|JJD na|CCP ang|DTC pasukan|NNC !|PMS
+Pumunta|VBAF si|DTP Sophy|NNP sa|CCT tindahan|NNC ng|CCB mga|DTCP aklat|NNC .|PMP
+Bumili|VBTS_VBAF si|DTP Sophy|NNP ng|CCB limang|JJN_CCP aklat|NNC tungkol|RBR sa|CCT pagsusulat|NNC .|PMP
+Bumili|VBTS_VBAF si|DTP Sophy|NNP ng|CCB apat|JJN na|CCP aklat|NNC tungkol|RBR sa|CCT pagbabasa|NNC .|PMP
+Bumili|VBTS_VBAF si|DTP Sophy|NNP ng|CCB tatlong|JJN_CCP bughaw|JJD na|CCP panulat|NNC .|PMP
+Bumili|VBTS_VBAF si|DTP Sophy|NNP ng|CCB dalawang|JJN_CCP kahon|NNC ng|CCB yeso|NNC .|PMP
+Bumili|VBTS_VBAF si|DTP Sophy|NNP ng|CCB isang|PRI_CCP bag|NNC .|PMP
+Ngayon|RBW si|DTP Sophy|NNP ay|LM handa|JJD na|RBI sa|CCT pasukan|NNC !|PMS

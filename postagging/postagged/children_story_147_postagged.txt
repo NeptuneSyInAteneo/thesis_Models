@@ -1,0 +1,39 @@
+Ngayon|RBW ay|LM kaarawan|NNC ng|CCB kaibigan|NNC ni|DTP Tutul|NNP .|PMP
+Lumapit|VBAF si|DTP Tutul|NNP sa|CCT kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Kaarawan|NNP ng|CCB kaibigan|NNC ko|PRS Inay|RBI .|PMP
+Maaari|VBS mo|PRS po|RBS ba|RBI akong|PRS_CCP bilihan|NNC ng|CCB tsokolate|NNC ?|PMQ "|PMS
+sabi|VBS ni|DTP Tutul|NNP .|PMP "|PMS
+Anak|NNP ,|PMC abala|NNC ako|PRS ngayon|RBW .|PMP
+Pwede|RBT bang|RBM mamaya|RBW na|RBI lang|RBI ?|PMQ "|PMS
+sabi|VBS ng|CCB kaniyang|PRSP_CCP Inay|NNC .|PMP
+Nagpunta|VBTS naman|RBI si|DTP Tutul|NNP sa|CCT kaniyang|PRSP_CCP Itay|NNC .|PMP "|PMS
+Itay|NNP ,|PMC maaari|VBS mo|PRS po|RBS ba|RBI akong|PRS_CCP bilihan|NNC ng|CCB tsokolate|NNC ?|PMQ "|PMS
+pakiusap|NNC niya|PRS .|PMP "|PMS
+Abala|NNP ako|PRS ngayon|RBW anak|NNC ,|PMC maaari|VBS bang|RBM sa|CCT susunod|VBTF na|CCP araw|NNC na|CCP lang|RBI ,|PMC "|PMS sabi|VBS ng|CCB kaniyang|PRSP_CCP Itay|NNC .|PMP
+Sa|CCT kaniyang|PRSP_CCP lolo|NNC naman|RBI pumunta|VBAF si|DTP Tutul|NNP .|PMP "|PMS
+Lolo|NNP pwede|RBT po|RBS bang|RBI_CCP bilhan|VBOF mo|PRS ako|PRS ng|CCB tsokolate|NNC !|PMS
+Pakiusap|NNP .|PMP "|PMS
+Pero|CCT wala|VBN akong|PRS_CCP pera|NNC apo|NNC ,|PMC "|PMS tugon|NNC ng|CCB kaniyang|PRSP_CCP Lolo|NNC .|PMP
+Ano|PRQ ang|DTC dapat|VBS gawin|VBOF ?|PMQ
+Gustong|VBS_CCP -|PMS gusto|VBS talaga|RBT ni|DTP Tutul|NNP na|CCP magkaroon|VBAF ng|CCB tsokolate|NNC .|PMP
+Maya|NNP maya|RBW pa|RBI ay|LM may|VBH naisip|VBTS na|CCP paraan|NNC si|DTP Tutul|NNP .|PMP
+Pumunta|VBAF siya|PRS sa|CCT tindahan|NNC .|PMP "|PMS
+Ako|PRS ang|DTC ina|NNC ni|DTP Tutul|NNP .|PMP
+Maaari|VBS mo|PRS ba|RBI akong|PRS_CCP bigyan|VBOF ng|CCB isang|PRI_CCP tsokolate|NNC .|PMP '|PMS "|PMS
+sabi|VBS niya|PRS sa|CCT tindero|NNC .|PMP "|PMS
+Ohh|NNP !|PMS
+Pero|CCT ,|PMC ang|DTC ina|NNC ni|DTP Tutul|NNP ay|LM palaging|RBD_CCP may|VBH suot|JJD na|CCP hikaw|NNC ,|PMC nasaan|JJD ang|DTC hikaw|NNC mo|PRS ,|PMC "|PMS tanong|NNC ng|CCB tindero|NNC sa|CCT kaniya|PRSP .|PMP
+Muling|RBW_CCP bumalik|VBAF si|DTP Tutul|NNP sa|CCT tindahan|NNC .|PMP "|PMS
+Ako|PRS ang|DTC ama|NNC ni|DTP Tutul|NNP ,|PMC maaari|VBS mo|PRS ba|RBI akong|PRS_CCP bigyan|VBOF ng|CCB isang|PRI_CCP tsokolate|NNC ?|PMQ "|PMS
+pakiusap|NNC niya|PRS sa|CCT tindero|NNC .|PMP
+Natawa|VBTS ang|DTC tindero|NNC ,|PMC "|PMS May|VBH bigote|NNC ang|DTC ama|NNC ni|DTP Tutul|NNP .|PMP
+Nasaan|VBTS ang|DTC iyong|PRSP_CCP bigote|NNC ?|PMQ "|PMS
+tanong|NNC niya|PRS .|PMP
+Si|DTP Tutul|NNP ay|LM may|VBH isa|PRI pang|RBI_CCP natitirang|VBTR_CCP ideya|NNC .|PMP
+Nagmamadali|VBTS siyang|PRS_CCP bumalik|VBAF muli|RBW sa|CCT tindahan|NNC .|PMP "|PMS
+Ako|PRS ang|DTC Lolo|NNC ni|DTP Tutul|NNP ,|PMC maaari|VBS mo|PRS ba|RBI akong|PRS_CCP bigyan|VBOF ng|CCB isang|PRI_CCP tsokolate|NNC ?|PMQ "|PMS
+patuloy|RBD na|CCP pakiusap|NNC niya|PRS .|PMP
+Hahaha|NNP !!!|CDB
+Malakas|JJD na|CCP tawa|NNC tindero|NNC .|PMP
+Sa|CCT pagkakataong|NNC_CCP iyon|PRO ay|LM binigyan|VBOF na|RBI niya|PRS ng|CCB isang|PRI_CCP tsokolate|NNC si|DTP Tutul|NNP .|PMP
+At|CCA ito|PRO ang|DTC kuwento|NNC ng|CCB tsokolateng|NNC_CCP regalo|NNC ni|DTP Tutul|NNP sa|CCT kaarawan|NNC ng|CCB pinakamamahal|JJCS_JJD niyang|PRS_CCP kaibigan|NNC .|PMP

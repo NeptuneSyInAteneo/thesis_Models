@@ -1,0 +1,35 @@
+Ito|PRO si|DTP Pusa|NNP .|PMP
+Ito|PRO si|DTP Aso|NNP .|PMP
+May|VBH sumbrero|NNC sina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+Bago|RBW ito|PRO .|PMP
+Berde|NNP ang|DTC kulay|NNC nito|PRO .|PMP
+Isinuot|VBTS ni|DTP Pusa|NNP ang|DTC sumbrero|NNC sa|CCT kanyang|PRSP_CCP ulo|NNC .|PMP
+Isinuot|VBTS ni|DTP Aso|NNP ang|DTC sumbrero|NNC sa|CCT kanyang|PRSP_CCP ulo|NNC .|PMP
+Lumabas|VBAF sina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+Lumabas|VBAF sina|DTPP Pusa|NNP at|CCA Aso|NNC upang|CCB maglakad|VBW -|PMS lakad|NNC .|PMP
+Naglakad|VBTS sina|DTPP Pusa|NNP at|CCA Aso|NNC papunta|RBL sa|CCT tubig|NNC .|PMP
+Naglakad|VBTS sila|PRP papunta|VBW sa|CCT tubig|NNC na|CCP suot|JJD -|PMS suot|JJD ang|DTC kani|NNC -|PMS kanilang|PRSP_CCP sumbrero|NNC .|PMP
+Umupo|VBAF sina|DTPP Pusa|NNP at|CCA Aso|NNC malapit|JJD sa|CCT tubig|NNC .|PMP
+Tiningnan|VBOF nina|DTPP Pusa|NNP at|CCA Aso|NNC ang|DTC tubig|NNC .|PMP
+Tiningnan|VBOF nila|PRP ang|DTC tubig|NNC habang|RBW suot|JJD -|PMS suot|JJD ang|DTC kani|NNC -|PMS kaniyang|PRSP_CCP sumbrero|NNC .|PMP
+Pagkatapos|VBW ,|PMC umihip|VBAF ang|DTC hangin|NNC .|PMP
+Malakas|JJD ang|DTC pag|CCR -|PMS ihip|FW ng|CCB hangin|NNC .|PMP
+Oy|NNP !|PMS
+Oy|NNP !|PMS
+Inilipad|VBAF ng|CCB ihip|FW ng|CCB hangin|NNC ang|DTC mga|DTCP sombrero|NNC papunta|RBL sa|CCT tubig|NNC .|PMP
+Umiyak|VBAF sina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+Maya|NNP -|PMS maya|NNC '|PMS y|FW dumating|VBAF si|DTP Elepante|NNP .|PMP
+Narinig|VBTS ni|DTP Elepante|NNP ang|DTC iyak|NNC nina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+Nakita|VBTS ni|DTP Elepante|NNP ang|DTC dalawang|JJN_CCP sumbrero|NNC sa|CCT tubig|NNC .|PMP
+Kaya|CCR ,|PMC naglakad|VBTS si|DTP Elepante|NNP papunta|RBL sa|CCT tubig|NNC .|PMP
+Pagkatapos|VBW ,|PMC ininom|VBTS ni|DTP Elepante|NNP ang|DTC tubig|NNC .|PMP
+Ininom|VBTS nang|RBW ininom|VBTS ni|DTP Elepante|NNP ang|DTC lahat|PRI ng|CCB tubig|NNC .|PMP
+Ngayon|RBW ,|PMC makukuha|VBTF na|CCP nina|DTPP Pusa|NNP at|CCA Aso|NNC ang|DTC kanilang|PRSP_CCP sumbrero|NNC .|PMP
+Inilagay|VBTS ni|DTP Pusa|NNP ang|DTC sumbrero|NNC sa|CCT kanyang|PRSP_CCP buhok|NNC .|PMP
+Inilagay|VBTS ni|DTP Aso|NNP ang|DTC sumbrero|NNC sa|CCT kanyang|PRSP_CCP buhok|NNC .|PMP
+Sumaya|VBAF sina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+Ngumiti|VBAF sila|PRP .|PMP
+At|CCA si|DTP Elepante|NNP ...|PMS kinailangang|RBD_CCP pumunta|VBAF ni|DTP Elepante|NNP sa|CCT palikuran|NNC .|PMP
+Paalam|NNP ,|PMC Pusa|NNP .|PMP
+Paalam|NNP ,|PMC Aso|NNC .|PMP
+Paalam|NNP ,|PMC Elepante|NNP .|PMP

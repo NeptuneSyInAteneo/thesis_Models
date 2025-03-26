@@ -1,0 +1,38 @@
+.|PMP
+Tip|NNC ,|PMC halika|NNC ka|PRS at|CCA samahan|NNC mo|PRS kaming|PRP_CCP magpalipad|VBW ng|CCB saranggola|NNC .|PMP
+Pero|CCT ,|PMC wala|VBN akong|PRS_CCP saranggola|NNC .|PMP
+Tuntun|NNP ,|PMC kung|CCR puwede|RBT ka|PRS lang|RBI lumipad|VBAF .|PMP
+Papa|NNP ,|PMC gusto|VBS ko|PRS po|RBS ng|CCB saranggola|NNC !|PMS
+Aba|NNP ,|PMC tamang|JJD_CCP -|PMS tama|RBT !|PMQ
+Halika|NNP ka|PRS dito|PRL at|CCA tulungan|VBTF_VBOF mo|PRS ako|PRS anak|NNC !|PMS
+Gagawa|VBTF tayo|PRP ng|CCB pinaka|JJCS espesyal|JJD na|CCP saranggola|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Oh|NNP la|FW la|FW ,|PMC isang|PRI_CCP dahon|NNC !|PMS
+Isang|PRI_CCP dahon|NNC na|CCP saranggola|NNC .|PMP
+Tpos|NNP na|CCP po|RBS ba|RBI iyan|PRO Papa|NNP ?|PMQ
+Hintayin|VBOF mo|PRS anak|NNC ,|PMC malapit|JJD na|CCP ito|PRO matapos|VBW .|PMP
+Papa|NNP ,|PMC ginawa|VBOF po|RBS ninyo|PRP itong|PRO_CCP sinuklay|VBTS na|CCP buwan|NNC .|PMP
+Iyan|PRS po|RBS ba|RBI ay|LM saranggola|JJD na|CCP hugis|NNC buwan|NNC ?|PMQ
+Ah|RBJ ,|PMC isang|PRI_CCP buntot|NNC !|PMS
+Isa|PRI na|RBI itong|PRO_CCP isda|NNC .|PMP
+Matatapos|VBTF na|CCP po|RBS ba|RBI ?|PMQ
+Bilisan|VBOF po|RBS ninyo|PRP Papa|NNP ,|PMC malapit|JJD na|CCP pong|NNC dumilim|VBAF .|PMP
+Wah|NNP la|FW la|FW ,|PMC isang|PRI_CCP ibon|NNC !|PMS
+Isang|PRI_CCP ibon|NNC na|CCP saranggola|NNC !|PMS
+At|CCA ,|PMC ano|PRQ naman|RBI po|RBS ito|PRO Papa|NNP ?|PMQ
+Ito|PRO ay|LM mga|DTCP plauta|NNC ng|CCB sarangggola|NNC anak|NNC .|PMP
+Ito|PRO ay|LM tutunog|VBTF na|CCP parang|CCT huni|NNC ng|CCB ibon|NNC kapag|CCR hinihipan|VBTR ng|CCB hangin|NNC .|PMP
+Tingnan|VBOF ninyo|PRP mga|DTCP bata|NNC !|PMS
+Si|DTP Tip|NNP ay|LM nagpapalipad|VBTR ng|CCB saranggola|NNC !|PMS
+Ah|RBJ ,|PMC isang|PRI_CCP saranggola|NNC na|CCP umaawit|VBTR_VBAF tulad|JJC ng|CCB mga|DTCP ibon|NNC .|PMP
+Tingnan|VBOF ninyo|PRP ako|PRS ,|PMC nagpapalipad|VBTR ako|PRS ng|CCB saranggola|NNC !|PMS
+At|CCA ,|PMC may|VBH isang|PRI_CCP bayan|NNC ng|CCB saranggola|NNC ang|DTC lumilipad|VBTR_VBAF sa|CCT dalampasigan|NNC .|PMP
+Paano|PRQ gumawa|VBAF ng|CCB saranggola|NNC kasama|CCB si|DTP Mama|NNP at|CCA Papa|NNP sa|CCT loob|NNC ng|CCB dawalang|JJD_CCP minuto|NNC :|PMS Kailangan|VBS ng|CCB mga|DTCP sumusunod|VBTR_VBAF :|PMS *|PMS Malaking|JJD_CCP piraso|NNC ng|CCB nylon|FW *|PMS Dalawang|JJN_CCP patpat|NNC na|CCP kawayan|NNC na|CCP may|VBH haba|NNC na|CCP 61sentimetro|CDB at|CCA 56sentimetro|CDB *|PMS Tape|NNP ,|PMC Tali|NNP o|CCT lubid|NNC Paalala|NNC :|PMS Ang|DTC patpat|NNC ay|LM kasing|JJCC laki|NNC ng|CCB inuming|NNC_CCP straw|NNC .|PMP
+Paano|PRQ ito|PRO gawin|VBOF :|PMS .|PMP
+Pagdikitin|NNP ang|DTC dalawang|JJN_CCP patpat|NNC para|CCT makabuo|VBW ng|CCB krus|NNC ,|PMC gamitin|VBOF ang|DTC tali|NNC upang|CCB itali|VBOF ang|DTC mga|DTCP ito|PRO ng|CCB mahigpit|JJD .|PMP .|PMP
+Itali|NNP ang|DTC buong|PRI_CCP krus|NNC gamit|VBS ang|DTC lubid|NNC para|CCT makabuo|VBW ng|CCB frame|FW .|PMP .|PMP
+Sunod|JJD ,|PMC ilagay|VBOF ang|DTC frame|FW sa|CCT piraso|NNC ng|CCB nylon|NNC ,|PMC at|CCA gupitin|VBOF ito|PRO na|CCP kahugis|NNC ng|CCB frame|FW .|PMP .|PMP
+Tupiin|NNP ang|DTC dulo|NNC ng|CCB piraso|NNC ng|CCB plastik|JJD at|CCA i|NNCA -|PMS tape|FW ito|PRO sa|CCT frame|FW .|PMP .|PMP
+Ilagay|VBOF ang|DTC mahabang|JJD_CCP tali|NNC sa|CCT frame|FW at|CCA dagdagan|VBTF ito|PRO ng|CCB dekorasyon|NNC ayon|RBR sa|CCT inyong|PRSP_CCP gusto|VBS .|PMP
+Pagkatapos|VBW ,|PMC puwede|RBT mo|PRS ng|CCB ipalipad|VBOF ang|DTC iyong|PRSP_CCP bagong|JJD_CCP saranggola|NNC .|PMP .|PMP
+Laging|RBD_CCP tandaan|VBOF ,|PMC HUWAG|NNPA magpalipad|VBW ng|CCB saranggola|NNC malapit|JJD sa|CCT mga|DTCP poste|NNC ng|CCB kuryente|NNC .|PMP
+At|CCA HUWAG|NNPA magpalipad|VBW ng|CCB saranggola|NNC sa|CCT itaas|JJD ng|CCB gusali|NNC .|PMP

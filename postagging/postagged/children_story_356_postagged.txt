@@ -1,0 +1,56 @@
+"|PMS Yehey|FW ,|PMC sa|CCT wakas|RBW nandito|VBTS ka|PRS na|CCP !|PMS "|PMS
+ang|DTC sigaw|NNC ni|DTP Kinan|NNP sa|CCT pinsan|NNC nyang|PRS_CCP si|DTP Kale|NNP ,|PMC habang|RBW kumakaway|VBTR_VBAF sa|CCT kalsada|NNC sa|CCT labas|NNC ng|CCB kanilang|PRSP_CCP bahay|NNC .|PMP
+Kay|DTP tagal|NNC na|CCP hinintay|VBTS ni|DTP Kinan|NNP ang|DTC araw|NNC na|CCP ito|PRO .|PMP
+Sabik|RBD na|CCP syang|RBD_CCP isama|VBOF si|DTP Kale|NNP sa|CCT pagpitas|NNC ng|CCB bayabas|NNC .|PMP "|PMS
+Bilisan|VBOF mo|PRS ,|PMC Kale|FW !|PMS "|PMS
+Hindi|RBF na|CCP makapaghintay|VBW si|DTP Kinan|NNP .|PMP "|PMS
+Tingnan|VBOF mo|PRS !|PMQ
+May|VBH nagsimula|VBTS nang|RBW kumain|VBAF ng|CCB bayabas|NNC na|CCP ito|PRO !|PMS "|PMS
+Sigaw|NNC ni|DTP Kale|NNP .|PMP
+Oh|NNP hindi|RBF !|PMQ
+Sino|PRQ ang|DTC gagawa|VBTF niyan|PRO ?|PMQ
+Sinabi|VBTS ni|DTP Kale|NNP ,|PMC ang|DTC uod|NNC siguro|RBM .|PMP "|PMS "|PMS
+Sigurado|NNP ka|PRS ba|RBI ?|PMQ "|PMS
+Sumagot|VBAF si|DTP Kinan|NNP ,|PMC "|PMS maliit|JJD ang|DTC bibig|NNC ng|CCB uod|NNC .|PMP "|PMS "|PMS
+O|NNPA baka|RBM yung|PRO_CCP tipaklong|NNC ?|PMQ "|PMS
+muling|RBW_CCP sabi|VBS ni|DTP Kale|NNP .|PMP "|PMS
+Hindi|RBF ,|PMC ang|DTC kagat|NNC ng|CCB tipaklong|NNC ay|LM hindi|RBF ganyan|PRC ang|DTC itsura|NNC !|PMS "|PMS
+atubiling|JJD_CCP sagot|NNC ni|DTP Kinan|NNP "|PMS O|NNPA baka|RBM naman|RBI tinuka|VBTS ng|CCB manok|NNC ,|PMC "|PMS hula|NNC ni|DTP Kinan|NNP .|PMP "|PMS
+Imposible|NNP !|PMS "|PMS
+hindi|RBF sumang|VBAF -|PMS ayon|RBR si|DTP Kale|NNP .|PMP "|PMS
+Hindi|RBF iyan|PRO kayang|RBD_CCP abutin|VBOF ng|CCB mga|DTCP manok|NNC .|PMP "|PMS
+Hmm|NNP ...|PMS kung|CCR gayon|PRC ,|PMC sino|PRQ kaya|CCR ?|PMQ
+Malapit|JJD na|CCP magdilim|VBTF .|PMP "|PMS
+Baka|NNP dumating|VBAF ang|DTC kumagat|VBAF ng|CCB guava|NNC sa|CCT gabi|RBW !|PMS "|PMS
+Sabi|VBS ni|DTP Kale|NNP .|PMP
+Sabik|NNP nang|RBW mahuli|VBW ni|DTP Kinan|NNP at|CCA Kale|NNP ang|DTC kumakagat|VBAF ng|CCB kanilang|PRSP_CCP bayabas|NNC .|PMP
+Eek|NNP !|PMS
+Ano|PRQ ang|DTC magiging|VBTF hitsura|NNC ng|CCB nilalang|NNC ?|PMQ
+Gaano|PRQ katalas|JJC ang|DTC ngipin|NNC nito|PRO ?|PMQ
+Gaano|PRQ kalaki|JJD ang|DTC katawan|NNC nito?gabing|VBTS_CCP gabi|RBW na|CCP siya|PRS .|PMP
+Si|DTP Kale|NNP at|CCA Kinan|NNP ay|LM nag|VBTS -|PMS aabang|NNC sa|CCT loob|NNC ng|CCB tent|NNC .|PMP
+Pagkatapos|VBW ...|PMS Screech|NNP !|PMS
+Screech|NNP !|PMS
+Ano|PRQ ang|DTC tunog|NNC na|CCP iyon|PRO ?|PMQ "|PMS
+Mabilis|RBD ,|PMC ilipat|VBOF ang|DTC flashlight|FW doon|PRL !|PMS "|PMS
+Bulong|NNP_CCP ni|DTP Kinan|NNP .|PMP "|PMS
+Doon|PRL ...|PMS oo|RBT ,|PMC ang|DTC tunog|NNC ay|LM nagmumula|VBTR doon|PRL !|PMQ "|PMS "|PMS
+Ayan|NNP !|PMS
+Kita|NNP mo|PRS ba|RBI ito|PRO ?|PMQ "|PMS
+Shhh|NNP ...|PMS tingnan|VBOF mo|PRS !|PMQ "|PMS "|PMS
+May|VBH gumagalaw|VBTR_VBAF sa|CCT mga|DTCP dahon|NNC ng|CCB bayabas|NNC !|PMS "|PMS "|PMS
+Www|NNP ...|PMS ano|PRQ yun|PRO ?|PMQ "|PMS "|PMS
+Hulihin|VBOF natin|PRP sya|PRS !|PMS "|PMS
+Blag|NNP !|PMS
+Blog|NNP !|PMS "|PMS
+Aray|NNP ,|PMC yung|PRO_CCP paa|NNC mo|PRS napatid|VBTS ako|PRS ,|PMC Kale|FW !|PMS "|PMS "|PMS
+Aruy|NNP !|PMS
+nadaganan|VBTR mo|PRS ako|PRS ,|PMC Kinan|NNP !|PMS "|PMS
+Hindi|RBF maaari|VBS ,|PMC huli|RBW na|CCP tayo|PRP .|PMP
+Tumakas|VBAF na|RBI ang|DTC hayop|NNC .|PMP
+Hindi|RBF ito|PRO isang|PRI_CCP uod|NNC .|PMP
+Hindi|RBF ito|PRO isang|PRI_CCP tipaklong|NNC .|PMP
+Hindi|RBF ito|PRO manok|NNC .|PMP
+Ngayon|RBW alam|VBS na|CCP ni|DTP Kinan|NNP at|CCA Kale|NNP kung|RBK sino|RBQ ang|DTC kumagat|VBAF ng|CCB bayabas|NNC .|PMP
+Ito|PRO ay|LM may|VBH pakpak|NNC ,|PMC ito|PRO ay|LM mabalahibo|JJD at|CCA ito|PRO ay|LM gising|JJD sa|CCT gabi|RBW .|PMP
+Alam|VBS nyo|NNCA ba|RBI kung|RBK anong|RBQ_CCP hayop|NNC ito|PRO ?|PMQ

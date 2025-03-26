@@ -1,0 +1,9 @@
+Isang|PRI_CCP ibon|NNC Isa|PRI pang|RBI_CCP ibonDalawa|FW ,|PMC apat|CDB ,|PMC anim|JJN na|CCP ibonMaraming|VBTS_CCP mga|DTCP ibonAng|NNC_CCP mga|DTCP ibon|NNC ay|LM humuhuni|VBAF .|PMP
+Ang|DTC mga|DTCP ibon|NNC ay|LM lumilipad|VBTR_VBAF .|PMP
+Ang|DTC mga|DTCP ibon|NNC ay|LM may|VBH iba|PRI '|PMS t|NNCA ibang|PRI_CCP kulay|NNC .|PMP
+Halika|NNP !|PMS
+Patukain|NNP natin|PRP ang|DTC mga|DTCP ibon|NNC .|PMP
+Mga|DTCP Ibon|NNP Tignan|VBOF natin|PRP sila|PRP .|PMP
+Alagaan|VBOF natin|PRP sila|PRP .|PMP
+Maaliw|NNP tayo|PRP sa|CCT kanila|PRSP .|PMP
+Psalamatan|NNP natin|PRP sila|PRP .|PMP

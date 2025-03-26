@@ -1,0 +1,10 @@
+Isang|PRI_CCP tasa|NNC ng|CCB tsaa|NNC ?|PMQ
+Hindi|RBF po|RBS .|PMP
+Hindi|RBF para|CCT sa|CCT akin|PRSP .|PMP
+Isang|PRI_CCP taro|NNC ng|CCB tsaa|NNC ?|PMQ
+Hindi|RBF .|PMP
+Masyadong|JJCS_CCP maliit|JJD para|CCT sa|CCT akin|PRSP .|PMP
+Isang|PRI_CCP kaldero|NNC ng|CCB tsaa|NNC ?|PMQ
+Hindi|RBF ,|PMC malaki|JJD ako|PRS !|PMQ
+Gusto|VBS kong|PRS_CCP uminom|VBAF .....|NNPA .|PMP
+ng|CCB isang|PRI_CCP batya|NNC ng|CCB tsaa|NNC !|PMS

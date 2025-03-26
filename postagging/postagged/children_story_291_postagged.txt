@@ -1,0 +1,45 @@
+Matagal|RBD nang|RBW magkaibigan|NNC sina|DTPP Ardilya|NNP at|CCA Trang|NNP .|PMP
+Naglalaro|VBTR sila|PRP araw|NNC -|PMS araw|NNC .|PMP
+Wala|VBN silang|PRP_CCP sinasayang|VBTR na|CCP sandali|NNC .|PMP
+Palagi|RBW silang|PRP_CCP masaya|JJD na|CCP magkasama|VBAF .|PMP
+Isang|PRI_CCP gabi|RBW ,|PMC tinanong|VBTS ni|DTP Trang|NNC_CCP si|DTP Ardilya|NNP kung|CCR nais|VBS nitong|PRO_CCP sumama|VBAF sa|CCT paaralan|NNC .|PMP
+Ngunit|CCT natatakot|VBTR si|DTP Ardilya|NNP na|CCP umalis|VBAF sa|CCT nayon|NNC !|PMS
+Napakalayo|VBTS ng|CCB paaralan|NNC .|PMP
+Ngunit|CCT nagpasya|VBTS si|DTP Ardilya|NNP na|CCP sumama|VBAF ,|PMC dahil|CCR sa|CCT hiling|NNC ni|DTP Trang|NNP .|PMP
+Sumunod|VBAF na|CCP araw|NNC bago|RBW magbukang|VBW_CCP -|PMS liwayway|NNC ,|PMC ang|DTC dalawang|JJN_CCP munting|JJD_CCP magkaibigan|NNC ay|LM nagsimulang|RBD_CCP maglakbay|VBAF .|PMP
+Madilim|JJD pa|RBI ang|DTC kapaligiran|NNC habang|RBW tumatawid|VBTR_VBAF sila|PRP sa|CCT mga|DTCP bundok|NNC .|PMP
+Maya|NNP -|PMS maya|RBW pa|RBI ay|LM biglang|RBD_CCP napasigaw|VBTS si|DTP Ardilya|NNP sa|CCT takot|NNC .|PMP "|PMS
+Naku|NNP !|PMS
+Halimaw|NNP !|PMS "|PMS
+Inilawan|VBTS ni|DTP Trang|NNP ang|DTC halamanan|NNC gamit|VBS ang|DTC lente|NNC at|CCA ipinakita|VBTS kay|DTP Iskuwirel|NNP na|CCP ito|PRO ay|LM isang|PRI_CCP bato|NNC lamang|RBI at|CCA napawi|VBTS ang|DTC takot|NNC niya|PRS .|PMP
+Nagpatuloy|VBTS sa|CCT paglakad|VBW ang|DTC magkaibigan|NNC .|PMP
+Napadaan|VBTS sila|PRP sa|CCT isang|PRI_CCP ilog|NNC na|CCP may|VBH rumaragasang|NNC_CCP mga|DTCP alon|NNC .|PMP
+Nabahala|VBTS si|DTP Ardilya|NNP .|PMP
+Sinabi|VBTS niya|PRS kay|DTP Trang|NNP ,|PMC "|PMS Bumalik|VBAF na|CCP tayo|PRP ,|PMC Trang|RBT !|PMS "|PMS
+Matapang|JJD sila|PRP .|PMP
+Ngunit|CCT basa|NNC na|CCP si|DTP Ardilya|NNP .|PMP "|PMS
+Gusto|VBS ko|PRS nang|RBW umuwi|VBAF !|PMS "|PMS
+umiiyak|VBTR_VBAF niyang|PRS_CCP sabi|VBS .|PMP "|PMS
+Ngunit|CCT sumisikat|VBTR_VBAF na|CCP ang|DTC araw|NNC !|PMS "|PMS
+Sabi|VBS ni|DTP Trang|NNP .|PMP "|PMS
+Matutuyo|VBTF ka|PRS na|RBI rin|RBI mamaya|RBW .|PMP "|PMS "|PMS
+Gusto|VBS ko|PRS na|CCP rito|PRL sa|CCT parang|CCT !|PMS "|PMS
+Sambit|NNP ni|DTP Ardilya|NNP .|PMP "|PMS
+Huwag|RBF na|CCP tayong|PRP_CCP pumasok|VBAF sa|CCT paaralan|NNC .|PMP
+Maglaro|VBAF na|RBI lang|RBI tayo|PRP rito|PRL .|PMP "|PMS "|PMS
+Subalit|CCT ,|PMC mas|JJCC masaya|JJD sa|CCT paaralan|NNC kaysa|JJC rito|PRL ,|PMC "|PMS sabi|VBS ni|DTP Trang|NNP .|PMP "|PMS
+Tara|NNP na|CCP !|PMS "|PMS "|PMS
+Hindi|RBF !|PMS "|PMS
+Sabi|VBS ni|DTP Ardilya|NNP .|PMP "|PMS
+Hindi|RBF ako|PRS sasama|VBTF sa|CCT iyo|PRSP !|PMQ "|PMS "|PMS
+Malayo|JJD pa|RBI ang|DTC paaralan|NNC .|PMP
+Huwag|RBF mo|PRS akong|PRS_CCP piliting|RBD_CCP sumama|VBAF sa|CCT '|PMS yo|NNCA !|PMQ "|PMS "|PMS
+Ardilya|NNP !|PMS "|PMS
+sigaw|NNC ni|DTP Trang|NNP .|PMP "|PMS
+Tingnan|VBOF mo|PRS !|PMS .|PMP "|PMS "|PMS
+Nandito|VBTS na|CCP tayo|PRP !|PMQ "|PMS "|PMS
+Lahat|PRI ng|CCB ating|PRSP_CCP mga|DTCP kaibigan|NNC ay|LM naririto|VBTR !|PMS "|PMS
+Hindi|RBF pa|RBI rin|RBI makaniwala|VBW si|DTP Ardilya|NNP .|PMP "|PMS
+Masaya|NNP ito|PRO !|PMS "|PMS
+Gusto|VBS na|RBI ulit|RBW bumalik|VBAF ni|DTP Ardilya|NNP bukas|JJD .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS na|CCP niyang|PRS_CCP pumasok|VBAF sa|CCT paaralan|NNC !|PMS

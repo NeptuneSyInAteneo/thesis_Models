@@ -1,0 +1,35 @@
+Ang|DTC batang|JJD_CCP babaeng|NNC_CCP si|DTP Mina|NNP ay|LM nakatira|VBTS sa|CCT isang|PRI_CCP baryo|NNC kasama|CCB ang|DTC kaniyang|PRSP_CCP mga|DTCP magulang|NNC ,|PMC lola|NNC ,|PMC kapatid|NNC na|CCP lalaking|NNC_CCP si|DTP Rahu|NNP ,|PMC at|CCA ang|DTC nakababatang|JJD_CCP kapatid|NNC na|CCP babaeng|NNC_CCP si|DTP Rani|NNP .|PMP
+Ang|DTC lorong|NNC_CCP si|DTP Mitu|NNP naman|RBI ay|LM kaniyang|PRSP_CCP matalik|JJD na|CCP kaibigan|NNC .|PMP
+Si|DTP Mina|NNP ay|LM kagaya|JJC rin|RBI ng|CCB ibang|PRI_CCP batang|JJD_CCP babae|NNC .|PMP
+Palakaibigan|RBD siya|PRS at|CCA hindi|RBF natatakot|VBTR magtanong|VBW .|PMP
+Samahan|NNP si|DTP Mina|NNP sa|CCT kaniyang|PRSP_CCP pakikipagsapalaranhabang|VBW_CCP tumatawa|VBTR_VBAF ,|PMC umaakyat|VBTR_VBAF sa|CCT mga|DTCP puno|NNC ,|PMC nagtatanong|VBTR at|CCA lumulutas|VBTR_VBAF ng|CCB mga|DTCP problema|NNC ,|PMC at|CCA ipakikita|VBTF rin|RBI sa|CCT iyo|PRSP ang|DTC lahat|PRI ng|CCB mga|DTCP bagay|NNC na|CCP kayang|RBD_CCP gawin|VBOF ng|CCB isang|PRI_CCP batang|JJD_CCP babae|NNC .|PMP
+Isang|PRI_CCP gabi|RBW ,|PMC nagkuwento|VBTR ang|DTC lola|NNC kina|DTPP Mina|NNP at|CCA Rahu|NNP tungkol|RBR sa|CCT kuwento|NNC ni|DTP Aladdin|NNP at|CCA ang|DTC kaniyang|PRSP_CCP mahiwagang|JJD_CCP lampara|NNC .|PMP
+Sa|CCT tuwing|RBW hahaplusin|VBOF ni|DTP Aladdin|NNP ang|DTC kaniyang|PRSP_CCP lampara|NNC ay|LM lumilitaw|VBTR_VBAF ang|DTC isang|PRI_CCP genie|FW at|CCA nagkakatotoo|VBTR ang|DTC lahat|PRI ng|CCB kaniyang|PRSP_CCP mga|DTCP hiling|NNC .|PMP
+Nang|RBW gabing|RBW_CCP iyon|PRO ,|PMC nanaginip|VBTR si|DTP Mina|NNP na|CCP sila|PRP ay|LM lumilipad|VBTR_VBAF gamit|VBS ang|DTC isang|PRI_CCP mahiwagang|JJD_CCP karpet|NNC .|PMP
+Marami|PRI silang|PRP_CCP nakitang|VBTS_CCP magagandang|JJD_CCP bagay|NNC .|PMP
+Nakakita|VBTS rin|RBI sila|PRP ng|CCB mga|DTCP baryo|NNC kung|RBK saan|RBQ ang|DTC mga|DTCP bata|NNC ay|LM may|VBH sakit|NNC at|CCA malulungkot|JJD .|PMP
+Nalungkot|VBTS si|DTP Mina|NNP nang|RBW makita|VBW ang|DTC mga|DTCP batang|NNC_CCP may|VBH sakit|NNC .|PMP
+Napagtanto|VBTS niyang|PRS_CCP maraming|PRI_CCP sakit|NNC ang|DTC naidudulot|VBTR nang|RBW hindi|RBF paggamit|VBW ng|CCB malinis|JJD na|CCP tubig|NNC sa|CCT paliligo|NNC at|CCA inumin|VBOF .|PMP
+May|VBH isang|PRI_CCP genie|FW na|CCP nag|VBTS -|PMS alok|NNC na|CCP tutuparin|VBTF ang|DTC ano|PRQ mang|RBI_CCP kahilingan|NNC ni|DTP Mina|NNP .|PMP
+Ano|PRQ kaya|CCR ang|DTC hihilingin|VBTF ni|DTP Mina|NNP ?|PMQ "|PMS
+Hiling|NNC ko|PRS na|CCP ang|DTC lahat|PRI ng|CCB tao|NNC ay|LM gagamit|VBTF ng|CCB malinis|JJD na|CCP palikuran|NNC ,|PMC "|PMS sabi|VBS ni|DTP Mina|NNP .|PMP "|PMS
+Ang|DTC ikalawa|CDB kong|PRS_CCP kahilingan|NNC ay|LM gumamit|VBAF ang|DTC lahat|PRI ng|CCB ligtas|JJD at|CCA malinis|JJD na|CCP tubig|NNC upang|CCB maiwasan|VBW ang|DTC anumang|PRI_CCP sakit|NNC .|PMP "|PMS "|PMS
+Hinihiling|VBTR ko|PRS rin|RBI na|CCP sila|PRP ay|LM maghugas|VBW ng|CCB kanilang|PRSP_CCP mga|DTCP kamay|NNC bago|RBW at|CCA pagkatapos|VBW gumamit|VBAF ng|CCB palikuran|NNC o|CCT maglinis|VBW ng|CCB dumi|NNC ng|CCB sanggol|NNC ,|PMC "|PMS dagdag|JJD pa|RBI ni|DTP Mina|NNP .|PMP
+Namangha|VBTS ang|DTC genie|FW sa|CCT tatlong|JJN_CCP kahilingan|NNC ni|DTP Mina|NNP at|CCA ipinagkaloob|VBTS niya|PRS ito|PRO sa|CCT kanila|PRSP .|PMP
+At|CCA sa|CCT kaniyang|PRSP_CCP panaginip|NNC ,|PMC nakita|VBTS ni|DTP Mina|NNP ang|DTC mga|DTCP tao|NNC sa|CCT baryo|NNC na|CCP naging|VBTS malusog|JJD at|CCA masaya|JJD .|PMP
+Kinaumagahan|NNP ay|LM ikinuwento|VBTS_VBOF ni|DTP Mina|NNP kay|DTP Rahu|NNP ang|DTC tungkol|RBR sa|CCT kaniyang|PRSP_CCP panaginip|NNC .|PMP
+Napagpasyahan|VBTS niyang|PRS_CCP magsisikap|VBAF upang|CCB matupad|VBW ang|DTC kaniyang|PRSP_CCP mga|DTCP kahilingan|NNC .|PMP
+Nang|RBW araw|RBW ding|RBI_CCP iyon|PRO ay|LM bumisita|VBAF sa|CCT bahay|NNC nina|DTPP Mina|NNP ang|DTC kaibigan|NNC niyang|PRS_CCP si|DTP Tara|NNP at|CCA ang|DTC pinuno|NNC ng|CCB baryo|NNC .|PMP
+Napag|NNP -|PMS usapan|NNC nila|PRP ang|DTC planong|NNC_CCP pagpapatayo|NNC ng|CCB mga|DTCP palikuran|NNC sa|CCT kanilang|PRSP_CCP baryo|NNC .|PMP
+Nakapagpatayo|VBTS ang|DTC pamilya|NNC nina|DTPP Mina|NNP ng|CCB mura|JJD at|CCA malinis|JJD na|CCP palikuran|NNC sa|CCT tulong|NNC ni|DTP Tara|NNP .|PMP
+Hindi|RBF nagtagal|VBTS ay|LM natupad|VBTS ang|DTC unang|JJN_CCP kahilingan|NNC ni|DTP Mina|NNP .|PMP
+Sumunod|VBAF na|CCP ring|RBI_CCP magpagawa|VBW ng|CCB sariling|JJD_CCP palikuran|NNC ang|DTC ibang|PRI_CCP tagabaryo|NNC .|PMP
+At|CCA tinitiyak|VBTR ni|DTP Mitu|NNP na|CCP ginagamit|VBTR ito|PRO ng|CCB lahat|PRI !|PMQ
+Ipinaliwanag|VBTS din|RBI nina|DTPP Mina|NNP at|CCA Rahu|NNP sa|CCT mga|DTCP tagabaryo|NNC na|CCP dapat|VBS silang|PRP_CCP gumamit|VBAF ng|CCB malinis|JJD na|CCP tubig|NNC para|CCT sa|CCT inumin|VBOF ,|PMC paliligo|NNC ,|PMC at|CCA paghuhugas|VBW ng|CCB pagkain|NNC at|CCA mga|DTCP kagamitan|NNC .|PMP
+Muling|RBW_CCP nag|CDB -|PMS ikot|NNC si|DTP Mitu|NNP sa|CCT buong|PRI_CCP baryo|NNC upang|CCB paalalahanan|VBOF ang|DTC mga|DTCP bata|NNC na|CCP huwag|RBF uminom|VBAF o|CCT maligo|VBW sa|CCT tubig|NNC na|CCP hindi|RBF malinis|JJD .|PMP
+Bagaman|CCT natupad|VBTS na|CCP ang|DTC dalawa|JJN sa|CCT kaniyang|PRSP_CCP mga|DTCP kahilingan|NNC ,|PMC marami|PRI pa|RBI ring|RBI_CCP mga|DTCP bata|NNC sa|CCT baryo|NNC ang|DTC nakararanas|VBTR ng|CCB pagtatae|NNC .|PMP
+Nagpatawag|VBTS si|DTP Mina|NNP ng|CCB pulong|NNC sa|CCT kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC para|CCT maagapan|VBW ang|DTC problema|NNC .|PMP
+Ipinaliwanag|VBTS nina|DTPP Mina|NNP na|CCP mahalaga|JJD na|CCP ang|DTC lahat|PRI ay|LM maghugas|VBW ng|CCB kanilang|PRSP_CCP mga|DTCP kamay|NNC gamit|VBS ang|DTC tubig|NNC at|CCA sabon|NNC o|CCT abo|NNC bago|RBW at|CCA pagkatapos|VBW gumamit|VBAF ng|CCB palikuran|NNC o|CCT maghugas|VBW ng|CCB dumi|NNC ng|CCB sanggol|NNC .|PMP
+Hindi|RBF nagtagal|VBTS ay|LM natupad|VBTS na|RBI rin|RBI ang|DTC pangatlong|JJN_CCP kahilingan|NNC ni|DTP Mina|NNP .|PMP
+Dahil|CCR sa|CCT malinis|JJD na|CCP mga|DTCP palikuran|NNC ,|PMC ligtas|JJD na|CCP inuming|NNC_CCP tubig|NNC ,|PMC at|CCA malinis|JJD na|CCP pamumuhay|NNC ,|PMC naging|VBTS malusog|JJD at|CCA masaya|JJD ang|DTC lahat|PRI ng|CCB mga|DTCP tao|NNC sa|CCT baryo|NNC .|PMP
+Ang|DTC Meena|NNP Communication|NNP Initiative|NNP ay|LM inilunsad|VBTS ng|CCB UNICEF|NNPA sa|CCT taong|NNC_CCP 1990upang|CDB ipakalat|VBOF ang|DTC mensahe|NNC ukol|NNC sa|CCT kasarian|NNC ,|PMC karapatang|NNC_CCP pambata|JJD ,|PMC edukasyon|NNC ,|PMC proteksyon|NNC at|CCA kaunlaran|NNC ,|PMC at|CCA upang|CCB magbigay|VBAF inspirasyon|NNC sa|CCT mga|DTCP kabababaihan|NNC at|CCA kanilang|PRSP_CCP mga|DTCP pamilyaat|NNC komunidad|NNC sa|CCT Katagalugang|NNP_CCP Asya|NNP gamit|VBS angmga|JJD pelikula|NNC ,|PMC komiks|NNC ,|PMC radyo|NNC ,|PMC at|CCA iba|PRI pa|RBI .|PMP

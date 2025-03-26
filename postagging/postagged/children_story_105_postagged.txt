@@ -1,0 +1,19 @@
+Sina|DTPP Sonu|NNP ,|PMC Monu|NNP at|CCA Rina|NNP ay|LM lumabas|VBAF para|CCT maglaro|VBAF .|PMP
+May|VBH nakita|VBTS silang|PRP_CCP kuting|NNC .|PMP
+Nakatingin|RBD siya|PRS sa|CCT isang|PRI_CCP malaking|JJD_CCP daga|NNC .|PMP "|PMS
+Tingnan|VBOF mo|PRS !|PMS "|PMS
+sigaw|NNC ni|DTP Sonu|NNP .|PMP
+Si|DTP Rina|NNP ay|LM nakakita|VBTS ng|CCB maliit|JJD na|CCP langgam|NNC patungo|RBL sa|CCT malaking|JJD_CCP daga|NNC .|PMP
+Nang|RBW biglang|RBD_CCP may|VBH malaking|JJD_CCP anino|NNC na|CCP nahulog|VBTS sa|CCT kanilang|PRSP_CCP lahat|PRI .|PMP
+Isang|PRI_CCP napakalaking|JJCS_JJD_CCP agila|NNC ang|DTC dumapo|VBAF sa|CCT pader|NNC .|PMP
+Maliit|JJD na|CCP langgam|NNC ,|PMC maliit|JJD na|CCP kuting|NNC ,|PMC malaking|JJD_CCP daga|NNC at|CCA napakalaking|JJCS_JJD_CCP agila|NNC sa|CCT parehong|JJC_CCP mahabang|JJD_CCP kalye|NNC .|PMP
+Ano|PRQ ang|DTC gagawin|VBTF ng|CCB tatlong|JJN_CCP magigiting|JJD na|CCP bata|NNC ?|PMQ
+Sabay|RBD sabay|RBD silang|PRP_CCP pumalakpak|VBAF !|PMQ
+Ibinuka|VBTS ng|CCB agila|NNC ang|DTC kaniyang|PRSP_CCP mga|DTCP pakpak|NNC at|CCA lumipad|VBAF palayo|RBD .|PMP
+Pinaakyat|VBTS ni|DTP Rina|NNP ang|DTC langgam|NNC sa|CCT isang|PRI_CCP dahon|NNC at|CCA iniwan|VBOF ito|PRO sa|CCT pader|NNC .|PMP
+Nakita|VBTS ng|CCB langgam|NNC ang|DTC butil|NNC ng|CCB asukal|NNC .|PMP
+Kinuha|VBOF niya|PRS ito|PRO ang|DTC nagmadaling|RBD_CCP umuwi|VBAF .|PMP
+Nakakuha|VBTS ang|DTC malaking|JJD_CCP daga|NNC ng|CCB kalahating|PRI_CCP pakoda|NNC at|CCA bumalik|VBAF na|RBI sa|CCT kanal|NNC .|PMP "|PMS
+Miaaww|NNP "|PMS sabi|VBS ng|CCB maliit|JJD na|CCP kuting|NNC at|CCA nagsimulang|RBD_CCP linisin|VBOF ang|DTC kanyang|PRSP_CCP mga|DTCP paa|NNC .|PMP
+Binigyan|VBOF ni|DTP Monu|NNP ng|CCB isang|PRI_CCP tasang|JJD_CCP gatas|NNC ang|DTC kuting|JJD and|FW nakipaglaro|VBTS ang|DTC tatlong|JJN_CCP bata|NNC rito|PRL .|PMP
+Ang|DTC napaka|JJCS -|PMS laking|NNC_CCP agila|JJD na|CCP nakaupo|VBTS sa|CCT puno|NNC ay|LM lumipad|VBAF papalayo|RBD .|PMP

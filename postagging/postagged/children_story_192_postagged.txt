@@ -1,0 +1,32 @@
+Kaarawan|RBW ko|PRS ngayon|RBW !|PMQ
+Ako|PRS '|PMS y|FW anim|JJN na|CCP taong|NNC_CCP gulang|NNC na|RBI .|PMP
+Ang|DTC sabi|VBS ni|DTP Nanay|NNP ay|LM magiging|VBTF mas|JJCC espesyal|JJD ang|DTC araw|NNC na|CCP ito|PRO .|PMP
+Bakit|PRQ kaya|CCR ?|PMQ
+Hmmm|NNP ...|PMS amoy|NNC masarap|JJD ang|DTC niluluto|VBTR sa|CCT kusina|NNC .|PMP
+Nagluluto|VBTR kaya|CCR si|DTP Nanay|NNP ng|CCB espesyal|JJD na|CCP pagkain|NNC ?|PMQ
+Si|DTP Nanay|NNP ay|LM naghahanda|VBTR ng|CCB napakaraming|JJCS_JJD_CCP pansit|NNC ,|PMC ngunit|CCT pangkaraniwan|JJD lamang|RBI iyon|PRO .|PMP
+Maaaring|RBM may|VBH mas|JJCC espesyal|JJD na|CCP magaganap|VBTF .|PMP
+Ano|PRQ kaya|CCR iyon|PRO ?|PMQ
+Si|DTP Tatay|NNP ay|LM nagsasabit|VBTR ng|CCB magagandang|JJD_CCP parol|NNC ,|PMC ngunit|CCT ginagawa|VBTR din|RBI naman|RBI niya|PRS iyon|PRO tuwing|RBW Chinese|NNP New|NNP Year|NNP .|PMP
+Mayroon|VBH dapat|VBS mas|JJCC espesyal|JJD na|CCP magaganap|VBTF .|PMP
+Ano|PRQ kaya|CCR iyon|PRO ?|PMQ
+May|VBH inilalagay|VBTR_VBOF si|DTP Nanay|NNP sa|CCT ref|FW .|PMP
+Ito|PRO kaya|CCR ay|LM espesyal|JJD na|CCP bagay|NNC ?|PMQ
+Wow|NNP !|PMS
+Isang|PRI_CCP malaking|JJD_CCP cake|FW !|PMS
+Espesyal|JJD ang|DTC cake|FW .|PMP
+Ngunit|CCT lagi|RBW naman|RBI akong|PRS_CCP may|VBH cake|FW tuwing|RBW kaarawan|NNC ko|PRS .|PMP
+Mayroon|VBH dapat|VBS mas|JJCC espesyal|JJD na|CCP magaganap|VBTF .|PMP
+Ano|PRQ kaya|CCR iyon|PRO ?|PMQ
+Sabi|VBS ni|DTP Nanay|NNP isuot|VBOF ko|PRS ang|DTC pinakamaganda|JJCS_JJD kong|PRS_CCP damit|NNC at|CCA inayos|VBOF niya|PRS ang|DTC aking|PRSP_CCP magandang|JJD_CCP buhok|NNC .|PMP
+Ngunit|CCT ,|PMC lagi|JJD naman|RBI namin|PRP itong|PRO_CCP ginagawa|VBTR tuwing|RBW kaarawan|NNC ko|PRS .|PMP
+Mayroon|VBH dapat|VBS mas|JJCC espesyal|JJD na|CCP magaganap|VBTF .|PMP
+Ano|PRQ kaya|CCR iyon|PRO ?|PMQ
+Ding|NNP Dong|NNP !|PMS
+Mayroon|VBH bang|RBI_CCP tao|NNC sa|CCT pinto|NNC ?|PMQ
+Huh|NNP !|PMS
+Ang|DTC daming|JJD_CCP tao|NNC !|PMS
+Ang|DTC aking|PRSP_CCP mga|DTCP kaibigan|NNC !|PMS
+Magkakaron|NNP ako|PRS ng|CCB isang|PRI_CCP pagdiriwang|NNC !|PMS
+Tunay|RBT ngang|RBI_CCP napaka|JJCS -|PMS espesyal|JJD ng|CCB aking|PRSP_CCP kaarawan|NNC !|PMS
+Pahina|NNP ng|CCB Karapatang|NNP_CCP Magpalathala|NNP

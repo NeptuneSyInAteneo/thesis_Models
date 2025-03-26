@@ -1,0 +1,31 @@
+Ngayon|RBW ang|DTC unang|JJN_CCP araw|NNC ng|CCB pamamasyal|NNC ni|DTP Tumi|NNP sa|CCT parke|NNC .|PMP "|PMS
+Mama|NNP ,|PMC ano|PRQ po|RBS iyon|PRO ?|PMQ "|PMS "|PMS
+Iyon|PRO ay|LM isang|PRI_CCP padausdusan|NNC ,|PMC "|PMS sabi|VBS ni|DTP Mama|NNP .|PMP "|PMS
+Maari|VBS po|RBS ba|RBI akong|PRS_CCP maglaro|VBAF doon|PRL ?|PMQ "|PMS
+tanong|NNC ni|DTP Tumi|NNP .|PMP "|PMS
+Oo|RBT naman|RBI !|PMS "|PMS
+sabi|VBS ni|DTP Mama|NNP .|PMP "|PMS
+Wheeeee|NNP !|PMS "|PMS "|PMS
+Tingnan|VBOF mo|PRS Mama|NNP ,|PMC Bumibitin|NNP ako|PRS tulad|JJC ng|CCB isang|PRI_CCP unggoy|NNC "|PMS .|PMP "|PMS
+Nalampasan|VBTS na|CCP kita|NNC ng|CCB sampung|JJN_CCP beses|NNC Mama|NNP !|PMS "|PMS
+sabi|VBS ni|DTP Tumi|NNP .|PMP "|PMS
+Magaling|JJD na|CCP bata|NNC !|PMS
+sabi|VBS ni|DTP Mama|NNP .|PMP "|PMS
+Marunong|NNP_CCP kang|PRS_CCP magbilang|VBW !|PMQ "|PMS "|PMS
+Gusto|VBS mo|PRS bang|RBM maglaro|VBAF ?|PMQ "|PMS
+tanong|NNC ni|DTP Tumi|NNP .|PMP "|PMS
+Oo|RBT !|PMS "|PMS
+sabi|VBS ng|CCB bata|NNC .|PMP "|PMS
+Ako|PRS si|DTP Tumi|NNP .|PMP "|PMS "|PMS
+Ako|PRS si|DTP Zakhe|NNP .|PMP "|PMS
+Nakita|VBTS ni|DTP Tumi|NNP ang|DTC bunton|NNC ng|CCB mga|DTCP buhangin|NNC .|PMP "|PMS
+Halika|NNP !|PMS
+Magtayo|NNP tayo|PRP ng|CCB isang|PRI_CCP kastilyong|JJD_CCP gawa|NNC sa|CCT buhangin|NNC ,|PMC "|PMS imbita|VBTS ni|DTP Tumi|NNP .|PMP "|PMS
+Kukuha|VBTF ako|PRS ng|CCB larawan|NNC para|CCT makita|VBW ni|DTP Gogo|NNP ,|PMC "|PMS sabi|VBS ni|DTP Mama|NNP "|PMS Kailangan|VBS na|CCP nating|PRP_CCP umuwi|VBAF ,|PMC Tumi|NNP .|PMP "|PMS
+Wika|NNP ni|DTP Mama|NNP .|PMP "|PMS
+Paalam|NNP Zakhe|NNP !|PMS "|PMS
+Kaway|NNP ni|DTP Tumi|NNP .|PMP "|PMS
+Paalam|NNP din|RBI Tumi|NNP !|PMS "|PMS
+sagot|NNC ni|DTP Zakhe|NNP .|PMP "|PMS
+Hanggang|RBW sa|CCT muli|RBW !|PMQ "|PMS "|PMS
+Maraming|PRI_CCP salamat|RBS po|RBS Mama|NNC dahil|CCR ipinasyal|JJD mo|PRS po|RBS ako|PRS sa|CCT Parke|NNP ,|PMC "|PMS wika|NNC ni|DTP Tumi|NNP sa|CCT kanyang|PRSP_CCP ina|NNC .|PMP

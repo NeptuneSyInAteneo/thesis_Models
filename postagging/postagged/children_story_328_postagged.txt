@@ -1,0 +1,9 @@
+Si|DTP Kong|NNP and|CCA Koung|NNP ay|LM magkapatidPinag|VBW -|PMS uusapan|NNC nina|DTPP Kong|NNP at|CCA Koung|NNP ang|DTC tungkol|RBR sa|CCT pagtulong|NNC kay|DTP nanay|NNC sa|CCT gawaing|NNC_CCP bahay|NNC araw|NNC -|PMS araw|NNC .|PMP
+Sa|CCT unang|JJN_CCP araw|NNC ,|PMC pinakain|VBOF nina|DTPP Kong|NNP at|CCA Koung|NNP ang|DTC mga|DTCP manok|NNC .|PMP
+Sa|CCT pangalawang|JJN_CCP araw|NNC ,|PMC nagwalis|VBTS sa|CCT bahay|NNC sina|DTPP Kong|NNP at|CCA Koung|NNP .|PMP
+Sa|CCT ikatatlong|JJN_CCP araw|NNC ,|PMC nilabhan|VBTS nina|DTPP Kong|NNP at|CCA Koung|NNP ang|DTC mga|DTCP damit|NNC ni|DTP nanay|NNC .|PMP
+Sa|CCT ika|JJN -|PMS apat|JJN na|CCP araw|NNC ,|PMC tinulungan|VBTS nina|DTPP Kong|NNP at|CCA Koung|PRO_CCP si|DTP nanay|NNC na|CCP maghugas|VBW ng|CCB pinggan|NNC .|PMP
+Sa|CCT ika|JJN -|PMS araw|NNC ,|PMC nilinis|VBTS nina|DTPP Kong|NNP at|CCA Koung|NNP ang|DTC bakuran|NNC .|PMP
+Sa|CCT ika|JJN -|PMS anim|JJN na|CCP araw|NNC ,|PMC diniligan|VBTR nina|DTPP Kong|NNP at|CCA Koung|NNP ang|DTC mga|DTCP bulaklak|NNC .|PMP
+Sa|CCT ika|JJN -|PMS pitong|JJN_CCP araw|NNC ,|PMC tinulungan|VBTS nina|DTPP Kong|NNP at|CCA Koung|PRO_CCP si|DTP nanay|NNC na|CCP magtiklop|VBW ng|CCB mga|DTCP damit|NNC .|PMP
+Masaya|NNP sina|DTPP nanay|NNC at|CCA tatay|NNC kaya|CCR dinala|VBOF nila|PRP sina|DTPP Kong|NNP at|CCA Koung|NNP sa|CCT perya|NNC .|PMP

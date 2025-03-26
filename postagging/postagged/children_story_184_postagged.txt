@@ -1,0 +1,22 @@
+Si|DTP Bino|NNP ay|LM matalinong|JJD_CCP bata|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC papunta|RBD sila|PRP sa|CCT palengke|NNC kasama|CCB ang|DTC kanyang|PRSP_CCP nanay|NNC at|CCA mga|DTCP kaibigan|NNC .|PMP
+Malapit|JJD ang|DTC kanilang|PRSP_CCP bahay|NNC sa|CCT palengke|NNC kaya|CCR naglalakad|VBTR lang|RBI sila|PRP .|PMP
+Pagkadating|VBW nila|PRP sa|CCT palengke|NNC ,|PMC inabutan|VBTS sila|PRP ng|CCB Php|NNP .150|CDB pesos|NNC ng|CCB kanyang|PRSP_CCP nanay|NNC .|PMP
+Bilis|NNP !|PMS "|PMS
+Anong|PRQ_CCP gusto|VBS ninyong|NNC_CCP bilhin|VBOF ?|PMQ "|PMS
+tanong|NNC ni|DTP Bino|NNP sa|CCT mga|DTCP kaibigan|NNC .|PMP "|PMS
+Gusto|VBS ko|PRS mangga|VBW ,|PMC iyan|PRO po|RBS kasi|CCR ang|DTC paborito|NNC kong|PRS_CCP prutas|NNC ,|PMC "|PMS sabi|VBS ni|DTP Ado|NNP .|PMP "|PMS
+Ang|DTC gusto|VBS kong|PRS_CCP bilhin|VBOF ay|LM mansanas|NNC ,|PMC "|PMS sabi|VBS ni|DTP Mito|NNP .|PMP .|PMP "|PMS
+Bakit|PRQ prutas|NNC ang|DTC gusto|VBS ninyong|NNC_CCP bilhin|VBOF ?|PMQ '|PMS
+,|PMC tanong|NNC ni|DTP Bino|NNP kina|DTPP Ado|NNP at|CCA Mito|NNP .|PMP "|PMS
+Prutas|NNP ang|DTC gusto|VBS kong|PRS_CCP bilhin|VBOF dahil|CCR maganda|JJD ito|PRO sa|CCT ating|PRSP_CCP kalusugan|NNC ,|PMC "|PMS sabi|VBS ni|DTP Ado|NNP .|PMP "|PMS
+Tama|RBT .|PMP
+Sabi|VBS ng|CCB aking|PRSP_CCP mga|DTCP magulang|NNC ang|DTC prutas|NNC ay|LM nakapagpatalino|VBTS at|CCA nakakatulong|VBTR ito|PRO sa|CCT mabilis|JJD na|CCP paglaki|NNC ,|PMC "|PMS sabi|VBS ni|DTP Mito|NNP .|PMP "|PMS
+Okey|NNP ,|PMC tara|FW bili|FW na|CCP tayo|PRP ng|CCB prutas|NNC ,|PMC "|PMS sabi|VBS ni|DTP Bino|NNP sa|CCT mga|DTCP kaibigan|NNC .|PMP "|PMS
+Gusto|VBS kong|PRS_CCP bumili|VBAF ng|CCB abokado|NNC .|PMP "|PMS
+Masaya|NNP silang|PRP_CCP bumili|VBAF ng|CCB kanilang|PRSP_CCP mga|DTCP gustong|VBS_CCP prutas|NNC .|PMP
+Pagkatapos|VBW bumili|VBAF ng|CCB prutas|NNC ang|DTC magkaibigan|NNC ,|PMC matiyagang|RBD_CCP nag|VBTS -|PMS antay|FW sila|PRP sa|CCT nanay|NNC ni|DTP Bino|NNP na|CCP makatapos|VBW sa|CCT pamimili|NNC .|PMP
+Sabay|NNP -|PMS sabay|RBD silang|PRP_CCP nakauwi|VBTS ng|CCB bahay|NNC .|PMP
+Inanyayahan|VBTS ni|DTP Bino|NNP ang|DTC mga|DTCP kaibigan|NNC na|CCP sabay|RBD -|PMS sabay|RBD nilang|PRP_CCP kainin|VBOF ang|DTC prutas|NNC na|CCP kanilang|PRSP_CCP pinamili|VBTS sa|CCT palengke|NNC .|PMP .|PMP
+Pagkatapos|VBW nilang|PRP_CCP kumain|VBAF ,|PMC pinaglalaruan|VBTR_VBRF na|CCP nila|PRP ang|DTC mga|DTCP balat|NNC ng|CCB prutas|NNC .|PMP
+Sila|PRP ay|LM masayang|JJD_CCP nagtatawanan|VBTR .|PMP .|PMP

@@ -1,0 +1,31 @@
+"|PMS Nakuha|VBTS rin|RBI kita|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Palaka|NNP .|PMP "|PMS
+Malas|NNP mo|PRS lang|RBI !|PMS "|PMS
+sagot|NNC ni|DTP Putakti|NNP .|PMP "|PMS
+Bakit|PRQ ?|PMQ
+tanong|NNC ni|DTP Palaka|NNP .|PMP "|PMS
+Tumingin|VBTS_VBAF ka|PRS sa|CCT likod|NNC mo|PRS ,|PMC "|PMS sagot|NNC ni|DTP Putakti|NNP .|PMP "|PMS
+Nakuha|VBTS rin|RBI kita|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Ahas|NNP .|PMP "|PMS
+Malas|NNP mo|PRS lang|RBI ,|PMC "|PMS sagot|NNC ni|DTP Palaka|NNP .|PMP "|PMS
+Bakit|PRQ ?|PMQ "|PMS
+tanong|NNC ni|DTP Ahas|NNP .|PMP "|PMS
+Tumingin|VBTS_VBAF ka|PRS sa|CCT likod|NNC mo|PRS ,|PMC "|PMS sagot|NNC ni|DTP Palaka|NNP .|PMP "|PMS
+Nakuha|VBTS rin|RBI kita|NNC !|PMS
+sabi|VBS ni|DTP Monggus|NNP .|PMP "|PMS
+Malas|NNP mo|PRS lang|RBI ,|PMC "|PMS sagot|NNC ni|DTP Ahas|NNP .|PMP "|PMS
+Bakit|PRQ ?|PMQ "|PMS
+tanong|NNC ni|DTP Monggus|NNP .|PMP "|PMS
+Tumingin|VBTS_VBAF ka|PRS sa|CCT likod|NNC mo|PRS ,|PMC "|PMS sagot|NNC ni|DTP Ahas|NNP .|PMP "|PMS
+Nakuha|VBTS rin|RBI kita|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Agila|NNP .|PMP "|PMS
+Palaka|NNP ,|PMC pakawalan|RBD mo|PRS ako|PRS at|CCA maliligtas|VBTF ang|DTC lahat|PRI !|PMS "|PMS
+sigaw|NNC ni|DTP Putakti|NNP .|PMP
+Pinakawalan|VBTS ni|DTP Palaka|NNP si|DTP Putakti|NNP .|PMP
+Lumipad|VBAF pataas|JJD si|DTP Putakti|NNP at|CCA kinagat|VBOF nang|RBD matindi|RBD si|DTP Agila|NNP sa|CCT leeg|NNC .|PMP
+Pinakawalan|VBTS ni|DTP Agila|NNP si|DTP Monggus|NNP .|PMP
+Pinakawalan|VBTS din|RBI ni|DTP Monggus|NNP si|DTP Ahas|NNP .|PMP
+Pinakawalan|VBTS ni|DTP Ahas|NNP si|DTP Palaka|NNP .|PMP
+KER|NNPA -|PMS ISPLASSHHH|CDB !|PMS
+Lahat|PRI sila|PRP '|PMS y|FW sumigaw|VBAF ,|PMC "|PMS Salamat|RBS ,|PMC Putakti|NNP !|PMS "|PMS
+At|CCA napaisip|VBTS si|DTP Buwaya|NNP ,|PMC "|PMS Nakuha|VBTS rin|RBI kita|NNC . . .|NNPA "|PMS Signer|FW :|PMS Hira|NNP Maharjan|NNP .|PMP

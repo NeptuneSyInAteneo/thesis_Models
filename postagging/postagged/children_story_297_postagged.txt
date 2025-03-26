@@ -1,0 +1,27 @@
+Noon|RBW ,|PMC may|VBH isang|PRI_CCP multo|NNC .|PMP
+Ang|DTC akala|NNC niya|PRS siya|PRS ay|LM nakatatakot|JJD .|PMP
+Kahit|CCT sino|PRQ tinatakot|VBTS niya|PRS araw|NNC -|PMS araw|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC tinakot|VBOF niya|PRS ang|DTC mabangis|JJD na|CCP leon|NNC .|PMP
+Sa|CCT isa|PRI pang|RBI_CCP araw|NNC ,|PMC ang|DTC higanteng|JJD_CCP elepante|NNC .|PMP
+Nang|RBW sumunod|VBAF na|CCP araw|NNC ,|PMC isang|PRI_CCP mambubunong|NNC_CCP may|VBH malaking|JJD_CCP katawan|NNC .|PMP
+Sa|CCT iba|PRI pang|RBI_CCP araw|NNC ,|PMC isang|PRI_CCP pulis|NNC na|CCP may|VBH malagong|JJD_CCP bigote|NNC .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS niyang|PRS_CCP makakita|VBW ng|CCB mga|DTCP tao|NNC na|CCP tumatakbo|VBTR_VBAF dahil|CCR sa|CCT takot|NNC .|PMP
+Hindi|RBF siya|PRS makatulog|VBW hanggat|RBW hindi|RBF siya|PRS nakapapanakot|VBTS ng|CCB isang|PRI_CCP tao|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC nagkasakit|VBTS siya|PRS .|PMP
+Ngunit|CCT gusto|VBS pa|RBI rin|RBI niyang|PRS_CCP manakot|VBW .|PMP
+Naisip|VBTS niya|PRS na|CCP takutin|RBD ang|DTC daga|NNC dahil|CCR sabi|VBS niya|PRS ay|LM madaling|RBD_CCP takutin|RBD iyon|PRO .|PMP
+Nang|RBW malalim|JJD na|CCP ang|DTC gabi|NNC ,|PMC pumasok|VBAF siya|PRS sa|CCT lungga|NNC ng|CCB daga|NNC .|PMP
+Himbing|NNP na|CCP himbing|FW ang|DTC daga|NNC sa|CCT kanyang|PRSP_CCP pagkakatulog|NNC .|PMP
+Dhhummm|NNP Dhhummm|NNP ...|PMS lakad|NNC ng|CCB multo|NNC .|PMP
+At|CCA ang|DTC daga|NNC ay|LM nagising|VBTS .|PMP
+Nanginig|VBTR at|CCA nautal|VBTS sa|CCT takot|NNC ang|DTC daga|NNC .|PMP "|PMS
+S.|NNPA .|PMP
+si|DTP .|PMP .|PMP
+sino|PRQ iyan|PRO ?|PMQ
+Sumagot|VBAF ang|DTC multo|NNC na|CCP may|VBH nakapangingilabot|RBD na|CCP boses|NNC ,|PMC "|PMS AKO|NNPA ...|PMS .|PMP
+ANG|NNPA ...|PMS .|PMP
+MULTO|NNPA !|PMS
+Sumagot|VBAF ang|DTC daga|NNC ,|PMC "|PMS Hay|NNP Naku|NNP !|PMS
+Multo|NNP lang|RBI naman|RBI pala|NNC .|PMP
+Akala|VBS ko|PRS naman|RBI ay|LM pusa|NNC na|CCP .|PMP "|PMS
+Nagtaklob|VBTS na|RBI lang|RBI muli|RBW ng|CCB kumot|NNC sa|CCT ulo|NNC ang|DTC daga|NNC at|CCA bumalik|VBAF sa|CCT kanyang|PRSP_CCP mahimbing|JJD na|CCP tulog|NNC .|PMP

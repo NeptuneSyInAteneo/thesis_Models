@@ -1,0 +1,8 @@
+Maliliit|JJD na|CCP mga|DTCP puno|NNC Malalaking|JJD_CCP mga|DTCP punoNamumungang|NNC_CCP mga|DTCP punoNamumulaklak|NNC na|CCP mga|DTCP punoAng|NNC_CCP mga|DTCP puno|NNC ay|LM ating|PRSP_CCP tahanan|NNC .|PMP
+Ang|DTC mga|DTCP kendi|NNC ba|RBI ay|LM tumutubo|VBTR_VBAF sa|CCT mga|DTCP puno|NNC ?|PMQ
+Halika|NNP !|PMS
+Magtanim|NNP tayo|PRP ng|CCB mga|DTCP puno|NNC .|PMP
+Mga|DTCP Puno|JJD Tingnan|VBOF natin|PRP sila|PRP .|PMP
+Alagaan|VBOF natin|PRP sila|PRP .|PMP
+Maging|VBW masaya|JJD tayo|PRP sa|CCT kanila|PRSP .|PMP
+At|CCA pasalamatan|RBD_CCP natin|PRP sila|PRP .|PMP

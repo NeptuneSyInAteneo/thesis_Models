@@ -1,0 +1,42 @@
+Si|DTP Chandu|NNP ay|LM nakatulog|VBTS habang|RBW nakikinig|VBTR sa|CCT malambing|JJD at|CCA nakakakalmang|JJD_CCP awitin|NNC ni|DTP inay|NNP .|PMP
+Sa|CCT kanyang|PRSP_CCP panaginip|NNC ,|PMC siya|PRS ay|LM lumilipad|VBTR_VBAF .|PMP
+Maligalig|RBD akong|PRS_CCP lumilipad|VBTR_VBAF papunta|VBW sa|CCT hardin|NNC .|PMP
+Tignan|VBOF mo|PRS ,|PMC may|VBH magandang|JJD_CCP paruparo|NNC .|PMP "|PMS
+Kamusta|NNP ka|PRS ?|PMQ "|PMS
+ani|NNC ng|CCB paruparo|NNC .|PMP "|PMS
+Maayos|JJD naman|RBI ,|PMC salamat|RBS !|PMQ
+,|PMC sagot|NNC ni|DTP Chandu|NNP .|PMP
+Lumipad|VBAF nang|RBW medyo|JJCC mas|JJCC mataas|JJD ang|DTC Chandu|NNP .|PMP
+Lumilipad|VBTR_VBAF ,|PMC lumilipad|VBTR_VBAF .|PMP
+Lumipad|VBAF siya|PRS sa|CCT isang|PRI_CCP maya|NNC .|PMP "|PMS
+Hi|NNP there|FW !|PMS
+How|NNP do|FW you|FW do|NNCA ?|PMQ "|PMS
+tanong|NNC niya|PRS .|PMP "|PMS
+Napakahusay|JJCS_JJD ,|PMC salamat|RBS ,|PMC "|PMS sabi|VBS ni|DTP Chandu|NNP .|PMP
+Lumipad|VBAF pa|RBI ng|CCB mas|JJCC mataas|JJD si|DTP Chandu|NNP .|PMP
+Lumipad|VBAF pa|RBI siya|PRS ng|CCB lumipad|NNC at|CCA nakilala|VBTS niya|PRS ang|DTC isang|PRI_CCP agila|NNC .|PMP "|PMS
+Kamusta|NNP ka|PRS aking|PRSP_CCP kaibigan|NNC ?|PMQ "|PMS
+ani|NNC ng|CCB agila|NNC .|PMP "|PMS
+Maayos|JJD naman|RBI ,|PMC "|PMS sagot|NNC ni|DTP Chandu|NNP .|PMP
+Lumipad|VBAF pa|RBI ng|CCB mas|JJCC mataas|JJD si|DTP Chandu|NNP .|PMP
+Animo|NNP '|PMS y|FW napakadali|JJCS_JJD lamang|RBI lumipad|VBAF .|PMP
+Lumipad|VBAF pa|RBI ng|CCB lumipad|NNC at|CCA nakita|VBTS nya|PRS ang|DTC isang|PRI_CCP eroplano|NNC .|PMP "|PMS
+Chandu|NNP ,|PMC kamusta|NNC ka|PRS ?|PMQ "|PMS
+ani|NNC ng|CCB eroplano|NNC .|PMP "|PMS
+Maayos|JJD naman|RBI ,|PMC magingat|VBTF ka|PRS sa|CCT iyong|PRSP_CCP paglalakbay|NNC !|PMS
+,|PMC "|PMS sagot|NNC ni|DTP Chandu|NNP .|PMP
+Hanggang|RBW sa|CCT lumipad|VBAF pa|RBI si|DTP Chandu|NNP ng|CCB mas|JJCC mataas|JJD .|PMP
+Lumipad|VBAF pa|RBI ng|CCB lumipad|NNC at|CCA nakita|VBTS nya|PRS ang|DTC isang|PRI_CCP rocket|NNC .|PMP "|PMS
+Kamusta|NNP ka|PRS ginoo|NNC ?|PMQ "|PMS
+sigaw|NNC ng|CCB rocket|NNC .|PMP "|PMS
+Maayos|JJD naman|RBI ,|PMC ,|PMC "|PMS ngiting|FW sagot|NNC ni|DTP Chandu|NNP .|PMP
+Lumilipad|VBTR_VBAF pa|RBI rin|RBI si|DTP Chandu|NNP ng|CCB mataas|JJD .|PMP
+Hanggang|RBW sa|CCT naligiran|VBTS siya|PRS ng|CCB mga|DTCP nag|FW niningning|FW na|CCP mga|DTCP bituin|NNC .|PMP
+Lahat|PRI sila|PRP ay|LM naka|RBD ngiti|NNC kay|DTP Chandu|NNP na|CCP animo|NNC '|PMS y|FW siya|PRS ay|LM kabilang|CCB nito|PRO .|PMP "|PMS
+Kamusta|NNP ka|PRS ,|PMC Chandu|NNP ?|PMQ "|PMS
+tanong|NNC ng|CCB isa|PRI sa|CCT mga|DTCP bituin|NNC .|PMP "|PMS
+Napakasaya|NNP ng|CCB aking|PRSP_CCP pakiramdam|NNC !|PMS "|PMS
+ani|NNC ni|DTP Chandu|NNP .|PMP
+Biglang|RBD_CCP nanginig|VBTR at|CCA umalog|VBAF ang|DTC mga|DTCP bituin|NNC .|PMP
+Ginising|NNP ng|CCB kanyang|PRSP_CCP ina|NNC si|DTP Chandu|NNP ,|PMC "|PMS Magandang|JJD_CCP umaga|NNC ,|PMC kamusta|NNC ang|DTC iyong|PRSP_CCP pakiramdam|NNC ?|PMQ "|PMS .|PMP
+Niyakap|VBTS niya|PRS ng|CCB mahigpit|JJD ang|DTC kanyang|PRSP_CCP ina|NNC at|CCA magaang|JJD_CCP loob|NNC niyang|PRS_CCP sinabi|VBTS ,|PMC "|PMS Maganda|JJD at|CCA maayos|JJD na|CCP po|RBS ang|DTC pakiramdam|NNC ko|PRS inay|RBI .|PMP "|PMS

@@ -1,0 +1,59 @@
+Nasasabik|VBTR si|DTP Aldo|NNP na|CCP sumali|VBAF sa|CCT soccer|FW club|FW ng|CCB Mitra|NNP Naga|NNP .|PMP
+Ipinangako|VBTS niya|PRS sa|CCT kanyang|PRSP_CCP sarili|NNC na|CCP magsasanay|VBW siya|PRS ng|CCB mabuti|JJD upang|CCB siya|PRS ay|LM maging|VBW isang|PRI_CCP mahusay|JJD na|CCP striker|FW .|PMP
+Katunayan|NNC nagsasanay|VBTR na|CCP siya|PRS kung|RBK paano|RBQ magdiriwang|VBTR_VBAF kung|CCR siya|PRS ay|LM nakapuntos|VBTS !|PMQ
+Si|DTP Aldo|NNP ay|LM nagsasanay|VBTR sa|CCT kanyang|PRSP_CCP pagpagpapatalbog|NNC ng|CCB bola|NNC .|PMP
+Ang|DTC lahat|PRI ng|CCB iba|PRI pang|RBI_CCP mga|DTCP bata|NNC ay|LM masigasig|JJD na|CCP nagsasanay|VBTR sa|CCT kanilang|PRSP_CCP pagpapatalbog|NNC at|CCA pagtudla|NNC ng|CCB bola|NNC .|PMP
+Sinipa|VBTS nila|PRP ang|DTC bola|NNC sa|CCT ganitong|PRC_CCP at|CCA sa|CCT ganoong|PRC_CCP paraan|NNC .|PMP
+Sa|CCT wakas|RBW ,|PMC nagsasanay|VBTR sila|PRP ng|CCB pagharap|NNC .|PMP
+Sa|CCT gayon|PRC pinakamahusay|JJCS_JJD si|DTP Aldo|NNP !|PMS
+Panahon|NNP na|CCP upang|CCB magtalaga|VBW ng|CCB lahat|PRI ng|CCB mga|DTCP posisyon|NNC ng|CCB mga|DTCP bata|NNC para|CCT sa|CCT isang|PRI_CCP magiliw|JJD na|CCP laro|NNC .|PMP
+Si|DTP Aldo|NNP ang|DTC napiling|RBD_CCP maging|VBW ......|NNPA isang|PRI_CCP tagapagtanggol|NNC !|PMS
+Ugh|NNP !|PMS
+Papatunayan|VBTF ni|DTP Aldo|NNP sa|CCT tagasanay|NNC na|CCP may|VBH kakayahang|NNC_CCP maglaro|VBAF bilang|CCT isang|PRI_CCP striker|FW .|PMP
+Makakapuntos|VBW din|RBI xa|NNCA ng|CCB goal|FW !|PMS
+Ang|DTC laro|NNC ay|LM magsisimula|VBTF na|RBI .|PMP
+Kailangan|VBS harapin|VBOF ni|DTP Aldo|NNP ang|DTC bola|NNC .|PMP
+Nakuha|VBTS niya|PRS ang|DTC bola|NNC !|PMS "|PMS
+Aldo|NNP ,|PMC ipasa|VBOF mo|PRS sa|CCT akin|PRSP ang|DTC bola|NNC !|PMS "|PMS
+Sigaw|NNC ni|DTP Nafi|NNP .|PMP "|PMS
+Handa|JJD na|CCP ako|PRS dito|PRL !|PMS "|PMS
+Sigaw|NNC ni|DTP Dudi|NNP .|PMP "|PMS
+Ipasa|VBTS_VBOF mo|PRS yan|PRO ,|PMC Aldo|NNP !|PMS "|PMS
+Sigaw|NNP ng|CCB tagasanay|NNC .|PMP
+Ngunit|CCT si|DTP Aldo|NNP ay|LM patuloy|RBD sa|CCT pagpapatalbog|VBW ng|CCB bola|NNC hanggang|RBW sa|CCT dulo|NNC ng|CCB parang|CCT .|PMP
+Bigla|NNP na|CCP lang|RBI ...|PMS .|PMP
+Ang|DTC mga|DTCP kalabang|NNC_CCP manlalaro|NNC ay|LM inagaw|VBTS_VBOF ang|DTC bola|NNC at|CCA sumugod|VBAF pabalik|RBD sa|CCT parang|CCT . . .|NNPA at|CCA walang|VBN_CCP nagbabantay|VBTR sa|CCT panig|NNC na|CCP iyon|PRO upang|CCB pigilan|VBOF sila|PRP !|PMQ
+At|CCA sumugod|VBAF sa|CCT likod|JJD na|CCP bahagi|NNC ...|PMS at|CCA walang|VBN_CCP nagbabantay|VBTR upang|CCB pigilan|VBOF sila|PRP !|PMQ
+At|CCA ...|PMS Goaaal|NNP !|PMS
+Ang|DTC kalaban|NNC na|CCP grupo|NNC ay|LM nanalo|VBTS .|PMP "|PMS
+Kasalanan|NNP mo|PRS !|PMS "|PMS
+Sinisisi|VBTS ni|DTP Dudi|NNP kay|DTP Aldo|NNP .|PMP "|PMS
+Aldo|NNP ,|PMC binantayan|VBTS mo|PRS sana|VBS ang|DTC dulo|NNC ng|CCB parang|CCT !|PMS "|PMS
+Mukha|NNP ring|FW nababagabag|VBTR ang|DTC tagasanay|NNC .|PMP
+Nagsisimula|VBTR ang|DTC ikalawang|JJN_CCP kalahati|PRI ng|CCB laban|NNC .|PMP
+Sa|CCT oras|NNC na|CCP ito|PRO ,|PMC matagumpay|JJD na|CCP naharangan|VBTS ni|DTP Aldo|NNP ang|DTC mga|DTCP tira|NNC ng|CCB kalaban|NNC .|PMP
+Hinarap|VBTS ni|DTP Aldo|NNP ang|DTC bola|NNC .|PMP
+Sasipa|NNP niya|PRS ang|DTC bola|NNC pasulong|NNC .|PMP
+Ngunit|CCT ang|DTC lahat|PRI ng|CCB kanyang|PRSP_CCP mga|DTCP kasamahan|NNC sa|CCT koponan|NNC ay|LM maingat|RBD na|CCP binabantayan|VBTR ,|PMC at|CCA walang|VBN_CCP malaya|JJD .|PMP
+May|VBH halong|JJD_CCP agam|NNC -|PMS agam|FW ,|PMC na|CCP ipinasa|VBTS ni|DTP Aldo|NNP ang|DTC bola|NNC kay|DTP Dudi|NNP .|PMP "|PMS
+Imposible|NNP ,|PMC "|PMS sigaw|NNC ni|DTP Dudi|NNP ,|PMC sinipa|VBOF ang|DTC bola|NNC pabalik|RBD kay|DTP Aldo|NNP .|PMP
+Pinatalbog|VBTR ni|DTP Aldo|NNP ang|DTC bola|NNC habang|RBW iniiwasan|VBTR ang|DTC mga|DTCP kalaban|NNC .|PMP
+Naghahanap|VBTR siya|PRS ng|CCB pagkakataon|NNC na|CCP maipasa|VBW ang|DTC bola|NNC sa|CCT isa|PRI sa|CCT kanyang|PRSP_CCP mga|DTCP kasamahan|NNC sa|CCT koponan|NNC .|PMP
+Ayan|NNP !|PMS
+Ipinasa|VBTS ni|DTP Aldo|NNP ang|DTC bola|NNC kay|DTP Nafi|NNP .|PMP
+Ipinasa|VBTS ito|PRO ni|DTP Nafi|NNP kay|DTP Rahman|NNP .|PMP
+Ang|DTC isang|PRI_CCP kalaban|NNC ay|LM humadlang|VBAF kay|DTP Rahman|NNP ,|PMC ngunit|CCT binato|VBTS niya|PRS ang|DTC bola|NNC at|CCA tumama|VBAF ito|PRO . . .|NNPA Paa|NNC ni|DTP Aldo|NNP !|PMS
+Anong|PRQ_CCP kailangang|VBS_CCP gawin|VBOF ni|DTP Aldo|NNP ngayon|RBW ?|PMQ "|PMS
+Dali|NNP ,|PMC Aldo|NNP !|PMS
+Supangin|NNP mo|PRS na|CCP !|PMS "|PMS
+ang|DTC sigaw|NNC ng|CCB tagasanay|NNC .|PMP
+Goaaaaaal|NNP !!!|CDB
+Ipinakita|VBTS ni|DTP Aldo|NNP ang|DTC kanyang|PRSP_CCP pagsasaya|NNC !|PMS
+Nagtatapos|VBTR ang|DTC laro|NNC ,|PMC at|CCA ang|DTC puntos|NNC ay|LM nakatali|RBD .|PMP
+Ngayon|RBW naiintindihan|VBTR ni|DTP Aldo|NNP na|CCP ang|DTC makakuha|VBW ng|CCB puntos|NNC ng|CCB goal|NNC ay|LM nangangailangan|VBTR ng|CCB mahusay|JJD na|CCP pagtutulungan|NNC .|PMP
+Ang|DTC lahat|PRI ng|CCB mga|DTCP tungkulin|NNC ay|LM pantay|JJD na|CCP mahalaga|JJD .|PMP
+At|CCA ang|DTC mga|DTCP tagapagtanggol|NNC ay|LM maaari|VBS ring|RBI_CCP makapuntos|VBW ng|CCB goal|NNC habang|RBW ipinapakita|VBTR ang|DTC paggalaw|NNC ngpagdiriwang|NNC .|PMP
+Bakit|PRQ hindi|RBF ?|PMQ
+Ang|DTC Asia|NNP Foundation|NNP .|PMP
+Ang|DTC librong|NNC_CCP ito|PRO ay|LM nilikha|VBTS sa|CCT pamamagitan|NNC ng|CCB isang|PRI_CCP pagawaan|NNC para|CCT sa|CCT paglikha|NNC ng|CCB mga|DTCP libro|NNC sa|CCT lokal|JJD na|CCP wika|NNC na|CCP isinagawa|VBTS sa|CCT pakikipagtulungan|NNC sa|CCT pagitan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC pagawaan|NNC at|CCA pag|CCR -|PMS unlad|JJD na|CCP propesyonal|NNC ,|PMC kasama|CCB ang|DTC pag|CCR -|PMS edit|NNC at|CCA disenyo|NNC ng|CCB aklat|NNC na|CCP ito|PRO ,|PMC ay|LM pinangunahan|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

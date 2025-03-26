@@ -1,0 +1,35 @@
+Kaming|PRI_CCP magkapatid|NNC ay|LM mahilig|JJD maglaro|VBAF sa|CCT parke|NNC .|PMP
+Ahh|NNP !|PMS
+Isang|PRI_CCP araw|NNC ,|PMC biglang|RBD_CCP umulan|VBAF .|PMP
+Mabilis|RBD akong|PRS_CCP naghanap|VBTS ng|CCB masisilungan|JJD ,|PMC ngunit|CCT nagpatuloy|VBTS pa|RBI rin|RBI sa|CCT paglalaro|VBW ang|DTC aking|PRSP_CCP kapatid|NNC .|PMP
+Hindi|RBF ko|PRS gusto|VBS ang|DTC ulan|NNC .|PMP
+Pinadidilim|VBTR nito|PRO at|CCA pinalulungkot|VBTR ang|DTC araw|NNC .|PMP
+Nababasa|VBTS rin|RBI nito|PRO ang|DTC aking|PRSP_CCP damit|NNC na|CCP puwedeng|RBT_CCP maging|VBW dahilan|NNC para|CCT ako|PRS ay|LM magkasakit|VBW .|PMP
+Kadiri|NNP !|PMS
+Sinabuyan|VBOF ako|PRS ng|CCB putik|NNC ng|CCB aking|PRSP_CCP kapatid|NNC !|PMS
+Basang|JJD_CCP -|PMS basa|JJD na|CCP ang|DTC aking|PRSP_CCP damit|NNC .|PMP
+Basang|JJD_CCP -|PMS basa|JJD na|CCP rin|RBI ang|DTC damit|NNC ng|CCB aking|PRSP_CCP kapatid|NNC ngunit|CCT wala|VBN siyang|PRS_CCP pakialam|NNC .|PMP
+Masaya|NNP pa|RBI rin|RBI niyang|PRS_CCP ipinagpatuloy|VBTS ang|DTC paglalaro|NNC .|PMP
+Kinawayan|NNP ako|PRS ng|CCB aking|PRSP_CCP kapatid|NNC at|CCA tumakbo|VBAF pauwi|JJD .|PMP
+Naku|NNP !|PMS
+Tatakbo|VBTF siya|PRS sa|CCT gitna|JJD ng|CCB ulan|NNC !?|PMS
+Tatakbo|VBTF ba|RBI ako|PRS ?|PMQ
+Ayaw|RBF kong|PRS_CCP mabasa|VBW .|PMP
+Pero|CCT ayaw|VBS ko|PRS ring|RBI_CCP maiwang|VBTF_CCP mag|VBW -|PMS isa|PRI sa|CCT parke|NNC .|PMP
+Pssh|NNP !|PMS
+Pssh|NNP !|PMS
+Pssh|NNP !|PMS
+Hmm|NNP ...|PMS Napakaraming|RBD_CCP putik|NNC ...|PMS Talon|NNP !|PMS
+Talon|NNP !|PMS
+Talon|NNP !|PMS
+Wow|NNP !|PMS
+Tumatalsik|NNP ang|DTC tubig|NNC kung|RBK saan|RBQ -|PMS saan|PRQ !|PMQ
+Ha|NNP ha|NNCA ha|NNCA !|PMQ
+Masaya|NNP palang|RBD_CCP maglaro|VBAF sa|CCT ulan|NNC .|PMP
+Huminto|VBAF na|RBI ang|DTC ulan|NNC .|PMP
+Oras|NNP na|CCP para|CCT umuwi|VBAF .|PMP
+Naroon|PRL ang|DTC aking|PRSP_CCP kapatid|NNC .|PMP
+Nagulat|VBTS siya|PRS nang|RBW makita|VBW ako......basang|NNC_CCP -|PMS basa|JJD at|CCA maputik|JJD .|PMP
+Pero|CCT masayang|JJD_CCP -|PMS masaya|JJD ako|PRS !|PMQ
+Gustong|VBS_CCP -|PMS gusto|VBS ko|PRS ang|DTC ulan|NNC !|PMS
+Copyright|NNP Page|NNP

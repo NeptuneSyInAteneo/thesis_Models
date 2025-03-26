@@ -1,21 +1,67 @@
-Ito|PRO si|DTP Samuel|NNP ,|PMC ang|DTC anak|NNC na|CCP lalaki|NNC .|PMP
-Ito|PRO si|DTP Sofia|NNP ,|PMC ang|DTC kaniyang|PRSP_CCP ina|NNC .|PMP
-Naglalakad|VBTR sila|PRP sa|CCT hardin|NNC .|PMP
-Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC mga|DTCP puno|NNC ng|CCB Kalachuchi|NNP ?|PMQ
-Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC mga|DTCP puno|NNC ng|CCB Kalachuchi|NNP .|PMP
-Binilang|VBTS ni|DTP Samuel|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ina|NNC ang|DTC mga|DTCP puno|NNC ng|CCB Kalachuchi|NNP :|PMS isa|PRI ,|PMC dalawa|CDB .|PMP
-Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC mga|DTCP ibon|NNC ?|PMQ
-Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC mga|DTCP ibon|NNC .|PMP
-Binilang|VBTS ni|DTP Samuel|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ina|NNC ang|DTC mga|DTCP ibon|NNC :|PMS isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB .|PMP
-Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC mga|DTCP paruparo|NNC ?|PMQ
-Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC mga|DTCP paruparo|NNC .|PMP
-Binilang|VBTS ni|DTP Samuel|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ina|NNC ang|DTC mga|DTCP paruparo|NNC :|PMS isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB ,|PMC apat|CDB .|PMP
-Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC mga|DTCP bag|NNC na|CCP plastik|JJD ?|PMQ
-Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC mga|DTCP bag|NNC na|CCP plastik|JJD .|PMP
-Binilang|VBTS ni|DTP Samuel|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ina|NNC ang|DTC mga|DTCP bag|NNC na|CCP plastik|JJD :|PMS isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB ,|PMC apat|CDB ,|PMC lima|CDB .|PMP
-Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC basurahan|NNC ?|PMQ
-Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC basurahan|NNC .|PMP
-Pinulot|VBOF ni|DTP Samuel|NNP ang|DTC mga|DTCP bag|NNC na|CCP plastik|JJD upang|CCB ilagay|VBOF sa|CCT basurahan|NNC .|PMP
-Naging|VBTS maganda|JJD ang|DTC karanasan|NNC ni|DTP Samuel|NNP sa|CCT pamamasyal|NNC sa|CCT hardin|NNC kasama|CCB ang|DTC kaniyang|PRSP_CCP ina|NNC .|PMP
-Natuto|VBTS siyang|PRS_CCP magbilang|VBAF at|CCA nakatulong|VBTS pa|RBI na|CCP maging|VBW malinis|JJD ang|DTC kapaligiran|NNC .|PMP
-Signer|NNP :|PMS Kumar|NNP Regmi|NNP .|PMP
+Sa|CCT wakas|RBW ,|PMC nakarating|VBTS na|RBI rin|RBI si|DTP Sarah|NNP sa|CCT bahay|NNC ni|DTP Reta|NNP !|PMS
+Ito|PRO ang|DTC unang|JJN_CCP beses|NNC na|CCP bumisita|VBAF siya|PRS sa|CCT bahay|NNC ng|CCB pinsan|NNC .|PMP
+Mula|RBW pa|RBI si|DTP Sarah|NNP sa|CCT Ottawa|NNP ,|PMC Canada|NNP .|PMP "|PMS
+Wow|NNP ,|PMC galing|RBL ito|PRO sa|CCT Riedau|NNP Canal|NNP ah|FW !|PMS
+Kung|RBK saan|RBQ maaaring|RBM sumakay|VBAF sa|CCT bangka|NNC ,|PMC mangisda|VBW at|CCA mag|VBW -|PMS ski|FW ang|DTC mga|DTCP turista|NNC .|PMP "|PMS
+Nasasabik|VBTR na|CCP sigaw|NNC ni|DTP Reta|NNP .|PMP
+Hindi|RBF naman|RBI inasahan|VBTS ni|DTP Sarah|NNP ang|DTC gano|PRC '|PMS ng|CCB reaksyon|NNC .|PMP
+Pa|NNP '|PMS no|FW iyon|PRO nalaman|VBTS ni|DTP Reta|NNP ?|PMQ
+Hmmm|NNP !|PMS
+Mukhang|RBM masasarap|VBW ang|DTC mga|DTCP nakahain|VBTS .|PMP
+Ngunit|CCT saan|PRQ magsisimula|VBTF si|DTP Sarah|NNP ?|PMQ
+Mukhang|RBM nakatatakam|VBTS yung|PRO fruit|FW salad|FW .|PMP
+Sabi|VBS ni|DTP Reta|NNP "|PMS rujak|FW "|PMS ang|DTC tawag|NNC doon|PRL .|PMP
+Ang|DTC rujak|NNC ay|LM sobrang|JJCS_CCP anghang|NNC .|PMP
+Tubig|NNC !|PMS
+Kailangan|VBS ni|DTP Sarah|NNP ng|CCB tubig|NNC .|PMP
+Sinabi|VBTS ni|DTP Reta|NNP na|CCP ang|DTC asin|NNC ,|PMC mainit|JJD na|CCP tubig|NNC o|CCT gatas|NNC ay|LM mabisang|RBD_CCP lunas|NNC sa|CCT napasong|VBTS_CCP dila|NNC .|PMP
+Sabi|VBS iyon|PRO ng|CCB guro|NNC niya|PRS sa|CCT kan|NNC '|PMS ya|NNCA .|PMP
+Hm|NNP ...|PMS Tama|RBT s|NNCA '|PMS ya|NNCA .|PMP
+Nawala|VBTS agad|RBW ang|DTC sakit|NNC .|PMP
+Matalino|JJD ang|DTC guro|NNC ni|DTP Reta|NNP !|PMS
+Sumunod|VBAF si|DTP Sarah|NNP kay|DTP Reta|NNP sa|CCT bilihan|NNC ng|CCB pagkain|NNC .|PMP
+Dala|VBS -|PMS dala|JJD ng|CCB pinsan|NNC niya|PRS ang|DTC isang|PRI_CCP bayong|NNC sa|CCT pamamalengke|NNC .|PMP
+Sabi|VBS ng|CCB guro|NNC ni|DTP Reta|NNP sa|CCT kaniya|PRSP na|CCP bawasan|VBOF ang|DTC paggamit|NNC ng|CCB plastik|JJD .|PMP
+Gusto|VBS namang|RBI_CCP makilala|VBW ni|DTP Sarah|NNP ang|DTC guro|NNC ni|DTP Reta|NNP .|PMP
+Magkano|VBW kaya|CCR ang|DTC babayaran|VBTF ni|DTP Reta|NNP ?|PMQ
+Nagbilang|VBTS siya|PRS sa|CCT kan|NNC '|PMS yang|PRO daliri|NNC sa|CCT kamay|NNC .|PMP
+Wow|NNP ,|PMC tama|JJD ang|DTC kwenta|NNC ni|DTP Reta|NNP !|PMS
+Kagaya|JJC ito|PRO ng|CCB sagot|NNC na|CCP nakuha|VBTS sa|CCT calculator|FW .|PMP
+Sinabi|VBOF muli|RBW niya|PRS na|CCP ang|DTC kan|NNC '|PMS yang|PRO guro|NNC ang|DTC nagturo|VBTS para|CCT mapabilis|VBW ang|DTC pagbibilang|NNC .|PMP
+Paano|PRQ kaya|CCR makikilala|VBW ni|DTP Sarah|NNP ang|DTC guro|NNC ni|DTP Reta|NNP ?|PMQ "|PMS
+Be|NNP patient|FW ,|PMC "|PMS sambit|NNC ni|DTP Reta|NNP .|PMP
+Marunong|JJD din|RBI siya|PRS magsalita|VBAF ng|CCB Ingles|NNP !|PMS
+Marahil|RBM ay|LM tinuruan|VBTS din|RBI siya|PRS nito|PRO ng|CCB kaniyang|PRSP_CCP guro|NNC !|PMS
+Yehey|NNP !|PMS
+Makasasama|VBTF si|DTP Sarah|NNP kay|DTP Reta|NNP upang|CCB mag|VBW -|PMS aral|NNC sa|CCT bahay|NNC ng|CCB kaniyang|PRSP_CCP guro|NNC .|PMP
+Walang|VBN_CCP babayaran|VBTF at|CCA walang|VBN_CCP gastos|NNC .|PMP
+Sobrang|JJCS_CCP dali|JJD lang|RBI !|PMQ
+Pero|CCT ,|PMC para|CCT saan|PRQ naman|RBI ang|DTC walis|NNC ?|PMQ "|PMS
+Lahat|PRI ng|CCB batang|NNC_CCP ito|PRO ay|LM pupunta|VBTF rin|RBI sa|CCT bahay|NNC ng|CCB guro|NNC upang|CCB mag|VBW -|PMS aral|NNC .|PMP
+Nagdala|VBTS rin|RBI sila|PRP ng|CCB mga|DTCP gamit|VBS pang|RBI_CCP -|PMS linis|JJD .|PMP
+Sabi|VBS ni|DTP Reta|NNP hindi|RBF kaya|CCR ng|CCB kaniyang|PRSP_CCP guro|NNC na|CCP maglinis|VBW mag|VBW -|PMS isa|PRI sa|CCT kaniyang|PRSP_CCP bahay|NNC .|PMP
+Nagmamadaling|RBD_CCP naglakad|VBTS si|DTP Sarah|NNP .|PMP
+Kung|CCR tatakbo|VBTF sila|PRP ay|LM mas|JJCC mabilis|JJD silang|PRP_CCP makararating|VBW doon|PRL .|PMP "|PMS
+Huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC .|PMP
+Mayroong|VBH_CCP lunas|NNC ang|DTC guro|NNC ko|PRS para|CCT sa|CCT iyong|PRSP_CCP sugat|NNC .|PMP "|PMS
+Wika|NNP ni|DTP Reta|NNP .|PMP
+Hindi|RBF na|CCP makapaghintay|VBW si|DTP Sarah|NNP na|CCP makilala|VBW ang|DTC guro|NNC .|PMP
+Nakarating|VBTS na|RBI sila|PRP !|PMQ
+Ah|RBJ ,|PMC siya|PRS pala|NNC ang|DTC guro|NNC ni|DTP Reta|NNP .|PMP
+Wow|NNP !|PMS
+Ang|DTC ilang|PRQ_CCP mga|DTCP bata|NNC ay|LM nag|VBTS -|PMS aaral|NNC tungkol|RBR sa|CCT Matematika|NNC ;|PMSC ang|DTC iba|PRI ay|LM nag|VBTS -|PMS aaral|NNC ng|CCB Ingles|NNP at|CCA Agham|NNP .|PMP
+Natutuhan|VBTS nila|PRP ang|DTC lahat|PRI ng|CCB asignatura|NNC .|PMP
+Ngayon|RBW ,|PMC napatunayan|VBTS na|RBI ni|DTP Sarah|NNP .|PMP
+Totoo|RBT ngang|RBI_CCP dakila|JJD ang|DTC guro|NNC ni|DTP Reta|NNP .|PMP
+Ang|DTC guro|NNC ay|LM si|DTP Een|NNP Sukaesih|NNP ,|PMC kilala|JJD sa|CCT tawag|NNC na|CCP Bu|NNP Een|NNP .|PMP
+Nakapagtapos|VBTS si|DTP Bu|NNP Een|NNP sa|CCT Indonesian|NNP University|NNP of|FW Education|NNP sa|CCT Bandung|NNP .|PMP
+Nagkaroon|VBTS siya|PRS ng|CCB sakit|NNC na|CCP Rheumathoid|NNP Arthritis|NNP (|PMS RA|NNPA )|PMS na|CCP naging|VBTS dahilan|NNC kung|RBK bakit|RBQ hindi|RBF siya|PRS nakakagalaw|VBTR ng|CCB na|CCP taon|NNC .|PMP
+Sa|CCT pagsusumikap|NNC ,|PMC nagturo|VBTS siya|PRS kahit|CCT nakahiga|VBTS mula|RBL ng|CCB umaga|RBW hanggang|RBW ng|CCB gabi|RBW .|PMP
+Nagtuturo|VBTR siya|PRS ng|CCB Ingles|NNP ,|PMC Kasaysayan|NNP ,|PMC Kompyuter|NNP at|CCA Matematika|NNC .|PMP
+Kahit|CCT sino|PRQ galingsa|FW elementarya|NNC at|CCA sekondarya|NNC ay|LM tinatanggap|VBTR .|PMP
+Mahal|NNP siya|PRS ng|CCB kanyang|PRSP_CCP mga|DTCP estudyante|NNC kaya|CCR tinutulungan|VBTR siya|PRS sa|CCT mga|DTCP gawaing|NNC_CCP bahay|NNC katulad|JJC ng|CCB paglilinis|NNC .|PMP
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC proyekto|NNC ng|CCB paggawa|NNC ng|CCB mga|DTCP libro|NNC ay|LM itinatampok|VBTR ang|DTC mga|DTCP dakilang|JJD_CCP babae|NNC bilang|CCT mga|DTCP pangunahing|JJD_CCP tauhan|NNC sa|CCT istorya|NNC at|CCA kasama|CCB ang|DTC mga|DTCP babaeng|NNC_CCP manunulat|NNC ,|PMC illustrator|NNC ,|PMC editor|NNC at|CCA designer|FW .|PMP
+Ang|DTC librong|NNC_CCP Ito|PRO ay|LM nilikha|VBTS sa|CCT pamamagitan|NNC ng|CCB pagsasagawa|NNC ng|CCB workshop|NNC sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP at|CCA sa|CCT suporta|NNC ng|CCB Estée|NNP Lauder|NNP Companies|NNP .|PMP
+Ang|DTC workshop|FW at|CCA angprofessional|FW development|FW kasama|CCB na|CCP ang|DTC pag|CCR edit|NNC at|CCA pagdidisenyo|VBW ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP
+Management|NNP Division|NNP (|PMS CLMD|NNPA )|PMS .|PMP

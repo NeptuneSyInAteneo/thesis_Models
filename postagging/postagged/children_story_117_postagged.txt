@@ -1,0 +1,28 @@
+Sina|DTPP Sandro|NNP ,|PMC Miguel|NNP ,|PMC Emman|NNP ,|PMC at|CCA Jesi|NNP ay|LM handa|JJD nang|RBD maglaro|VBAF .|PMP "|PMS
+Sandali|RBW lamang|RBI ,|PMC kukunin|VBTF_VBOF ko|PRS ang|DTC aking|PRSP_CCP bola|NNC .|PMP "|PMS
+sabi|VBS ni|DTP Jesi|NNP .|PMP
+Nagmamadaling|VBTR pumasok|VBAF si|DTP Jesi|NNP sa|CCT kaniyang|PRSP_CCP silid|NNC .|PMP
+Naku|PRS po|RBS !|PMQ
+Sobrang|JJCS_CCP makalat|JJD ang|DTC kaniyang|PRSP_CCP kuwarto|NNC !|PMS
+Saan|PRQ kaya|CCR magsisimulang|RBD_CCP maghanap|VBW si|DTP Jesi|NNP ng|CCB kaniyang|PRSP_CCP bola|NNC ?|PMQ
+Nasa|RBL kaniyang|PRSP_CCP kama|NNC kaya|CCR ang|DTC bola|NNC ?|PMQ
+Naku|NNP ,|PMC wala|VBN !|PMQ
+Nasa|RBL kaniyang|PRSP_CCP mesa|NNC kaya|CCR ang|DTC bola|NNC ?|PMQ
+Naku|NNP ,|PMC wala|VBN rin|RBI !|PMS "|PMS
+Jesi|NNP ,|PMC bilisan|VBOF mo|PRS !|PMS "|PMS
+sigaw|NNC ni|DTP Sandro|NNP .|PMP
+Mula|RBW sa|CCT kaniyang|PRSP_CCP silid|NNC ay|LM sumigaw|VBAF rin|RBI si|DTP Jesi|NNP ,|PMC "|PMS Hintay|JJD lang|RBI !|PMQ
+Hindi|RBF ko|PRS mahanap|VBW ang|DTC bola|NNC ko|PRS !|PMS "|PMS
+Malapit|JJD kaya|CCR sa|CCT damitan|NNC ang|DTC bola|NNC ?|PMQ
+Nasa|RBL ilalim|JJD ba|RBI ito|PRO ng|CCB mga|DTCP damit|NNC ?|PMQ
+Hindi|RBF !|PMS
+Wala|VBN rin|RBI dito|PRL ang|DTC bola|NNC !|PMS
+Sumagot|VBAF sina|DTPP Sandro|NNP ,|PMC Miguel|NNP ,|PMC at|CCA Emman|NNP "|PMS Naiinip|VBTS na|CCP kami|PRP Jesi|NNP .|PMP
+Ayaw|RBF na|CCP naming|PRP_CCP maghintay|VBW !|PMQ
+Aalis|NNP na|CCP kami|PRP !|PMS "|PMS
+Galit|RBD si|DTP Jesi|NNP sa|CCT kaniyang|PRSP_CCP sarili|NNC .|PMP
+Hindi|RBF niya|PRS mahanap|VBW ang|DTC kaniyang|PRSP_CCP bola|NNC kahit|CCT saan|PRQ !|PMQ
+Ngunit|CCT nagmukhang|RBD_CCP malinis|JJD ang|DTC kaniyang|PRSP_CCP silid|NNC ....|PMS maliban|CCT sa|CCT kahong|NNC_CCP iyon|PRO ,|PMC sa|CCT itaas|JJD ng|CCB kabinet|NNC ...|PMS Tingnan|VBOF mo|PRS !|PMQ
+Narito|NNP pala|NNC ang|DTC bola|NNC !|PMS
+Kinabukasan|RBW ,|PMC hinanap|VBTS ni|DTP Jesi|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Ngayon|RBW ,|PMC Ang|DTC may|VBH bola|NNC na|CCP silang|PRP_CCP gagamitin|VBTF sa|CCT paglalaro|VBW !|PMQ

@@ -1,14 +1,74 @@
-Ang|DTC martilyo|NNC ni|DTP Lolo|NNP .|PMP
-Iginuhit|VBOF ng|CCB Apong|NNC_CCP si|DTP Ngee|NNP ang|DTC martilyo|NNC nang|RBW kanyang|PRSP_CCP Lolo|NNC .|PMP
-Ang|DTC tanin|NNC na|CCP Asian|NNP Eryngo|NNP ni|DTP Lolo|NNP .|PMP
-Iginiguhit|VBTR ng|CCB apong|NNC_CCP si|DTP Nge|NNP ang|DTC tanim|NNC na|CCP Asian|NNP Eryngo|NNP .|PMP
-Ang|DTC baka|NNC ni|DTP Lolo|NNP .|PMP
-Iginuhit|VBOF ng|CCB Apong|NNC_CCP si|DTP Ngee|NNP ang|DTC baka|NNC ng|CCB kanyang|PRSP_CCP Lolo|NNC .|PMP
-Naglalakad|VBTR si|DTP Lolo|NNP papuntang|RBL_CCP Bulwagan|NNC ng|CCB Bayan|NNP .|PMP
-Sabi|VBS ni|DTP Lolo|NNP ,|PMC "|PMS Huwag|RBF mong|PRS_CCP iguhit|VBOF si|DTP Lolo|NNP !|PMS "|PMS
-Mga|DTCP Katanungan|NNC .|PMP
-Anu|CCT ano|PRQ ang|DTC iginuhit|VBTF ng|CCB apong|NNC_CCP si|DTP Ngee|NNP ?|PMQ .|PMP
-Saan|PRQ nag|PRSP_CCP punta|NNC si|DTP Lolo|NNP ?|PMQ .|PMP
-Sa|CCT iyong|PRSP_CCP palagay|NNC ,|PMC anung|PRQ_CCP dahilan|NNC ni|DTP Lolo|NNP bakit|PRQ ayaw|VBS niyang|PRS_CCP iguhit|VBOF siya|PRS nang|RBW kaniyang|PRSP_CCP apong|NNC_CCP si|DTP Ngee|NNP ?|PMQ .|PMP
-Ikaw|RBF mahilig|JJD kabang|JJD_CCP gumuhit|VBAF ?|PMQ
-Bakit|PRQ ?|PMQ
+Panahon|NNP na|CCP ng|CCB pagaani|NNC ng|CCB mga|DTCP labanos|NNC ngayong|RBW_CCP umaga|RBW .|PMP
+Wow|NNP ,|PMC tingnan|VBOF mo|PRS ang|DTC labanos|NNC na|CCP may|VBH higanteng|JJD_CCP mga|DTCP dahon|NNC !|PMS
+Nagtaka|VBTS si|DTP Ginoong|NNP Orangutan|NNP .|PMP
+Ang|DTC labanos|NNC ba|RBI ay|LM malaki|JJD ?|PMQ
+Sinubukan|VBTS niya|PRS itong|PRO_CCP hilain|VBOF palabas|NNC .|PMP
+Umph|NNP ,|PMC ito|PRO ay|LM hindi|RBF mahila|VBW !|PMQ
+Bumagsak|VBAF !|PMS
+Ito|PRO ba|RBI ang|DTC malaking|JJD_CCP labanos|NNC ,|PMC wika|NNC ni|DTP Ginoong|NNP Orangutan|NNP .|PMP
+Langur|NNP ay|LM napaisip|VBTS din|RBI .|PMP "|PMS
+Hukayin|VBOF natin|PRP "|PMS wika|NNC nito|PRO .|PMP
+Si|DTP Langur|NNP ay|LM nagsimulang|VBTS_CCP maghukay|VBAF sa|CCT paligid|NNC ng|CCB labanos|NNC .|PMP
+Pagkatapos|VBW …|PMS isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB ,|PMC at|CCA hila|NNC !|PMS
+Bumulyaw|NNP !|PMS
+Oh|NNP hindi|RBF ,|PMC ano|PRQ ito|PRO ?|PMQ
+Ginoong|NNP_CCP Orangutan|NNP ay|LM meron|VBH ideya|NNC .|PMP
+Ano|PRQ kaya|CCR kung|CCR tanungin|VBOF ko|PRS si|DTP Pangolin|NNP para|CCT humingi|VBAF ng|CCB tulong|NNC ?|PMQ
+Pangolin|NNP ay|LM isang|PRI_CCP experto|NNC sa|CCT paghuhukay|VBW .|PMP
+Siya|PRS ay|LM gumagamit|VBTR_VBAF ng|CCB panghuling|JJD_CCP langgam|NNC at|CCA lavae|NNC sa|CCT ilalim|JJD ng|CCB lupa|NNC .|PMP
+Languar|NNP pumayag|VBAF naman|RBI .|PMP
+Oras|NNP na|CCP para|CCT anihin|VBOF ang|DTC labanos|FW ngayong|RBW_CCP umaga|RBW .|PMP
+Kay|DTP ganda|NNC pagmasdan|VBW ang|DTC malalaking|JJD_CCP dahon|NNC ng|CCB labanos|NNC .|PMP
+Huli|RBW na|RBI !|PMQ
+Pffft|NNP !|PMS
+Si|DTP Pangolin|NNP ay|LM naglabas|VBTS ng|CCB mabahong|JJD_CCP amoy|NNC .|PMP "|PMS
+Ew|NNP ,|PMC ang|DTC baho|NNC !|PMS "|PMS
+bulalas|VBTS ni|DTP Langur|NNP .|PMP "|PMS
+O|NNPA ,|PMC kayo|PRP lang|RBI pala|NNC .|PMP "|PMS
+Si|DTP Pangolin|NNP ay|LM naiinis|VBTR .|PMP "|PMS
+Bakit|PRQ ninyo|PRP ginagambala|VBTR ang|DTC aking|PRSP_CCP pag|CCR -|PMS idlip|FW ?|FW "|PMS
+Krrr|NNP …|CDB krrr|FW …|FW krrr|FW .|PMP
+Si|DTP Pangolin|NNP ay|LM nagsimulang|VBTS_CCP maghukay|VBW habang|RBW si|DTP Ginoong|NNP Orangutan|NNP ay|LM matiyagang|RBD_CCP naghihintay|VBTR .|PMP
+Gaano|PRQ kaya|CCR kahaba|JJD ang|DTC labanos|NNC ?|PMQ
+Sa|CCT wakas|RBW ay|LM lumitaw|VBAF si|DTP Pangolin|NNP .|PMP "|PMS
+Dalawampung|JJN_CCP dangkal|NNC !|PMS "|PMS
+wika|NNC niya|PRS .|PMP
+Dalawampung|JJN_CCP dangkal|NNC ay|LM talaga|RBT naming|PRP_CCP napakahaba|JJCS_JJD .|PMP
+Ang|DTC labanos|NNC na|CCP ito|PRO ay|LM maaring|RBM maibenta|VBW sa|CCT malaking|JJD_CCP halaga|NNC .|PMP "|PMS
+Maari|VBS akong|PRS_CCP makabili|VBW ng|CCB bagong|JJD_CCP kariton|NNC !|PMS "|PMS
+Masayang|RBD_CCP bulalas|VBOF ni|DTP Ginoong|NNP Orangutan|NNP .|PMP "|PMS
+Hilain|VBOF natin|PRP itong|PRO_CCP muli|RBW palabas|NNC !|PMS "|PMS
+Isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB !|PMS
+Tagumpay|NNP !|PMS
+Ang|DTC labanos|NNC ay|LM talagang|RBT_CCP malaki|JJD .....|NNPA .|PMP
+at|CCA mahaba|JJD !|PMS
+Sandali|RBW lang|RBI .|PMP
+Hindi|RBF ito|PRO dalawampung|JJN_CCP dangkal|NNC na|CCP haba|NNC .|PMP
+Nasukat|VBTS ni|DTP Ginoong|NNP Orangutan|NNP ng|CCB pitong|JJN_CCP dangkal|NNC lamang|RBI .|PMP
+Sinukat|VBOF din|RBI ito|PRO ni|DTP Langur|NNP .|PMP "|PMS
+Ito|PRO '|PMS y|FW labingdalawang|JJN_CCP dangkal|NNC ,|PMC "|PMS sabi|VBS niya|PRS .|PMP
+Iniunat|VBTS muli|RBW ni|DTP Pangolin|NNP ang|DTC kanyang|PRSP_CCP hinlalaki|NNC at|CCA maliliit|JJD na|CCP daliri|NNC .|PMP "|PMS
+Ito|PRO ay|LM dalawampung|JJN_CCP dangkal|NNC ,|PMC "|PMS wika|NNC niya|PRS .|PMP
+Ito|PRO ay|LM dalawampu|CDB ,|PMC ngunit|CCT sa|CCT pagdangkal|NNC ni|DTP Pangolin|NNP .|PMP
+Lumilitaw|VBTR_VBAF na|RBI ang|DTC kanilang|PRSP_CCP dangkal|NNC ay|LM hindi|RBF magkakapareho|VBW .|PMP
+Nauunawaan|VBTR na|CCP ngayon|RBW ni|DTP Ginoong|NNP Orangutan|NNP .|PMP
+Gusto|VBS niyang|PRS_CCP makakuhang|JJD_CCP muli|RBW ng|CCB malaking|JJD_CCP labanos|NNC upang|CCB makabili|VBW siya|PRS ng|CCB mas|JJCC malaking|JJD_CCP kariton|NNC .|PMP
+Si|DTP Langur|NNP ay|LM naghanap|VBTS ng|CCB mas|JJCC marami|PRI pang|RBI_CCP tanim|NNC na|CCP labanos|NNC na|CCP may|VBH higanteng|JJD_CCP mga|DTCP dahon|NNC .|PMP
+Ayun|NNP !|PMS
+Wow|NNP ,|PMC Ang|DTC mga|DTCP dahon|NNC ay|LM malago|RBD .|PMP
+Ang|DTC labanos|NNC na|CCP ito|PRO ay|LM maaring|RBM malaki|JJD .|PMP
+Isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB ...|PMS hila|NNC !|PMS
+Uy|NNP ,|PMC bakit|PRQ ang|DTC liit|NNC nito|PRO ?|PMQ
+Sa|CCT kwentong|NNC_CCP ito|PRO ,|PMC tama|RBT lahat|PRI ang|DTC mga|DTCP sukat|NNC ng|CCB haba|NNC ng|CCB labanos|NNC gamit|VBS ang|DTC mga|DTCP dangkal|NNC ng|CCB Pangolin|NNP ,|PMC Orangutan|NNP ,|PMC at|CCA Langur|NNP .|PMP
+Gayunpaman|CCB ,|PMC naiiba|VBTR ang|DTC kanilang|PRSP_CCP mga|DTCP sukat|NNC dahil|CCR gumamit|VBAF sila|PRP ng|CCB hindi|RBF karaniwang|JJD_CCP mga|DTCP yunit|NNC .|PMP
+Ang|DTC mga|DTCP non-standard|FW na|CCP unit|NNC ay|LM mga|DTCP yunit|NNC ng|CCB pagsukat|NNC na|CCP ,|PMC kapag|CCR ginamit|VBOF ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP tao|NNC ,|PMC ay|LM maaaring|RBM magbunga|VBW ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP resulta|NNC .|PMP
+Ang|DTC mga|DTCP dangkal|NNC ,|PMC siko|NNC ,|PMC atdipa|NNC ay|LM mga|DTCP halimbawa|NNC ng|CCB hindi|RBF karaniwang|JJD_CCP mga|DTCP yunit|NNC .|PMP
+Ang|DTC mga|DTCP unit|NNC na|CCP ito|PRO ay|LM hindi|RBF magagamit|VBTF sa|CCT buong|PRI_CCP mundo|NNC dahil|CCR ang|DTC laki|NNC ng|CCB isang|PRI_CCP dangkal|NNC ,|PMC cubit|NNC ,|PMC o|CCT dipa|FW ay|LM nag|VBTS -|PMS iiba|NNC -|PMS iba|PRI sa|CCT bawat|PRI tao|NNC .|PMP
+Iyon|PRO ang|DTC dahilan|NNC kung|RBK bakit|RBQ itinatag|VBTS ng|CCB internasyonal|JJD na|CCP sistema|NNC ang|DTC mga|DTCP karaniwang|JJD_CCP yunit|NNC para|CCT sa|CCT haba|NNC na|CCP maaaring|RBM magamit|VBW sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Kasama|CCB sa|CCT mga|DTCP karaniwang|JJD_CCP yunit|NNC na|CCP ito|PRO ang|DTC mga|DTCP sentimetro|NNC ,|PMC metro|NNC ,|PMC kilometro|NNC ,|PMC at|CCA iba|PRI pa|RBI .|PMP
+This|NNP book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
+This|NNP project|FW involves|FW almost|FW all|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW designers|FW .|PMP
+This|NNP book|FW was|FW developed|FW through|FW a|FW book|FW development|FW workshop|FW held|FW in|FW collaboration|FW with|FW Litara|NNP Foundation|NNP and|FW The|NNP Asia|NNP Foundation|NNP through|FW the|FW Let|NNP 's|NNP Read|NNP program|FW with|FW the|FW support|FW of|FW EsteeLauder|NNP Companies|NNP Charity|NNP Foundation|NNP (|PMS ELCCF|NNPA )|PMS .|PMP
+Let|NNP 's|CDB Read|NNP is|FW a|FW digital|FW library|FW platform|FW with|FW a|FW collection|FW of|FW thousands|FW of|FW children|FW 's|FW storybooks|FW that|FW can|FW be|FW accessed|FW easily|FW and|FW for|FW free|FW .|PMP
+Mentoring|NNP along|NNC_CCP with|FW story|FW ,|PMC text|FW ,|PMC illustration|FW ,|PMC and|FW design|FW editing|FW are|DTC carried|FW out|FW by|FW the|FW Litara|NNP Foundation|NNP .|PMP
+The|NNP Litara|NNP Foundation|NNP is|FW a|FW nonprofit|FW organization|FW dedicated|FW to|FW promoting|FW literacy|FW through|FW children|FW 's|FW books|FW .|PMP

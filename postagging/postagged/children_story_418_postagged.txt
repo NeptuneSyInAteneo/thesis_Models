@@ -1,0 +1,9 @@
+Ang|DTC pato|NNC ay|LM tumatakbo|VBTR_VBAF .|PMP
+Tumakbo|VBAF siya|PRS upang|CCB makipagkita|VBW sa|CCT kambing|NNC .|PMP
+Tumakbo|VBAF ang|DTC kambing|NNC upang|CCB makipagkita|VBW sa|CCT tupa|NNC .|PMP
+Tumakbo|VBAF ang|DTC tupa|NNC upang|CCB makipagkita|VBW sa|CCT asno|NNC .|PMP
+Tumakbo|VBAF ang|DTC asno|NNC upang|CCB makipagkita|VBW sa|CCT kabayo|NNC .|PMP
+Tumakbo|VBAF ang|DTC kabayo|NNC upang|CCB makipagkita|VBW sa|CCT elepante|NNC .|PMP
+Tumakbo|VBAF ang|DTC elepante|NNC upang|CCB makipagkita|VBW sa|CCT leon|NNC .|PMP
+Tumakbo|VBAF ang|DTC elepante|NNC papalayo|NNC sa|CCT leon|NNC .|PMP
+Sila|PRP ay|LM tumakbo|VBAF papalayo|RBD sa|CCT leon|NNC nang|RBD mabilis|RBD .|PMP

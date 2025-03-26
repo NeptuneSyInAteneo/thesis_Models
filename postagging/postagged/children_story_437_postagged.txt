@@ -1,0 +1,47 @@
+Gumising|VBOF si|DTP Tutu|NNP ng|CCB ika|JJN -|PMS pito|CDB ng|CCB umaga|RBW .|PMP
+Ngayon|RBW ay|LM ang|DTC unang|JJN_CCP araw|NNC ng|CCB pasukan|NNC .|PMP
+Subalit|CCT siya|PRS ay|LM huli|JJD na|RBI sa|CCT klase|NNC .|PMP
+Tumatakbo|VBTR_VBAF ng|CCB mabilis|RBD si|DTP Tutu|NNP papunta|RBL sa|CCT banyo|NNC ,|PMC nagsisipilyo|VBTR at|CCA naliligo|VBTR .|PMP
+Nagmamadali|VBTS syang|NNC_CCP nagbihis|VBTS .|PMP
+Ngunit|CCT maiksi|JJD ang|DTC kanyang|PRSP_CCP damit|NNC at|CCA mahaba|JJD ang|DTC kanyang|PRSP_CCP pantalon|NNC .|PMP "|PMS
+Tutu|NNP !|PMS
+Bilisan|VBOF mo|PRS at|CCA mahuhuli|VBTF ka|PRS na|CCP sa|CCT unang|JJN_CCP araw|NNC ng|CCB pagpasok|NNC !|PMS "|PMS
+Ang|DTC sapatos|NNC ni|DTP Tutu|NNP ay|LM masyadong|JJCS_CCP maliit|JJD samantalang|CCT_CCP ang|DTC kanyang|PRSP_CCP dilaw|JJD na|CCP bag|NNC ay|LM masyadong|JJCS_CCP mabigat|JJD !|PMS
+Subalit|CCT ika|JJN -|PMS pito|CDB at|CCA kalahati|JJD na|CCP ng|CCB umaga|RBW .|PMP
+Oras|NNP na|CCP para|CCT umalis|VBAF !|PMQ
+Nagulat|VBTS si|DTP Tutu|NNP dahil|CCR mag|VBW -|PMS isa|PRI lamang|RBI siyang|PRS_CCP naglalakad|VBTR patungong|RBL_CCP paaralan|NNC .|PMP
+Nasaan|VBTS ang|DTC kanyang|PRSP_CCP mga|DTCP kapitbahay|NNC na|CCP sina|DTPP Teytey|NNP at|CCA Pipi|NNP ?|PMQ
+Baka|NNP naroon|PRL na|CCP sila|PRP .|PMP
+Siya|PRS ay|LM totoong|RBT_CCP huli|JJD na|CCP sa|CCT klase|NNC !|PMS
+Bigla|NNP may|VBH isang|PRI_CCP tuta|NNC ,|PMC at|CCA nagsimula|VBTS itong|PRO_CCP habulin|VBOF siya|PRS .|PMP
+Si|DTP Tutu|NNP ay|LM tumakbo|VBAF at|CCA pawis|NNC na|CCP pawis|NNC .|PMP
+Pagkatapos|VBW ,|PMC bigla|JJD na|RBI lamang|RBI umulan|VBAF .|PMP
+Nabasa|VBTS si|DTP Tutu|NNP at|CCA nadulas|VBTS sa|CCT daan|NNC .|PMP
+Nadumihan|VBTS ang|DTC kanyang|PRSP_CCP damit|NNC .|PMP
+Sa|CCT ngayon|RBW ,|PMC mukhang|RBM hindi|RBF maganda|JJD ang|DTC unang|JJN_CCP araw|NNC ng|CCB klase|NNC .|PMP
+Nang|RBW sa|CCT wakas|RBW ay|LM makarating|VBW siya|PRS sa|CCT paaralan|NNC ,|PMC walang|VBN_CCP ibang|PRI_CCP mga|DTCP mag|VBW -|PMS aaral|FW doon|PRL !|PMQ
+Isang|PRI_CCP lalaki|NNC na|CCP naglalakad|VBTR ay|LM nagsabing|VBTS ang|DTC paaralan|NNC ay|LM sarado|JJD .|PMP
+Labis|JJCS ang|DTC pagkalito|NNC si|DTP Tutu|NNP !|PMS
+Maya|NNP -|PMS maya|NNC ay|LM narinig|VBTS ni|DTP Tutu|NNP ang|DTC boses|NNC ng|CCB kanyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Sarado|JJD po|RBS ang|DTC paaralan|NNC ,|PMC Inay|NNC ,|PMC "|PMS bulong|NNC ni|DTP Tutu|NNP habang|RBW nakapikit|VBTR ang|DTC mga|DTCP mata|NNC .|PMP "|PMS
+Buksan|VBOF mo|PRS ang|DTC mga|DTCP mata|NNC mo|PRS !|PMQ
+Nanaginip|VBTR ka|PRS ,|PMC "|PMS sabi|VBS ng|CCB kanyang|PRSP_CCP ina|NNC .|PMP
+Bumangon|VBAF na|RBI at|CCA tumungo|VBAF sa|CCT paliguan|NNC si|DTP Tutu|NNP .|PMP
+Naligo|VBTS at|CCA nagsipilyo|VBTS siya|PRS ng|CCB maayos|JJD .|PMP
+Pagkatapos|VBW maligo|VBW ay|LM nagbihis|VBTS na|CCP si|DTP Tutu|NNP .|PMP
+Kasya|NNP ang|DTC kanyang|PRSP_CCP damit|NNC .|PMP
+Kasya|NNP ang|DTC kanyang|PRSP_CCP pantalon|NNC Kasya|NNC ang|DTC kanyang|PRSP_CCP sapatos|NNC At|CCA ang|DTC kanyang|PRSP_CCP sisidlan|NNC ay|LM sapat|JJD lang|RBI ang|DTC bigat|NNC .|PMP
+Iniabot|VBTS na|RBI ng|CCB kanyang|PRSP_CCP Ina|NNC ang|DTC kanyang|PRSP_CCP baon|NNC at|CCA sinabing|VBTS ,|PMC "|PMS Oras|NNP na|CCP ng|CCB pagalis|NNC ,|PMC magkita|VBW tayo|PRP mamayang|RBW_CCP hapon|NNC .|PMP "|PMS
+Tumingin|VBAF sa|CCT bintana|NNC si|DTP Tutu|NNP at|CCA nakita|VBTS niyang|PRS_CCP maraming|PRI_CCP mag|VBW -|PMS aaral|FW ang|DTC naglalakad|VBTR patungong|RBL_CCP paaralan|NNC .|PMP '|PMS
+Ito|PRO na|CCP nga|RBI talaga|RBT ang|DTC unang|JJN_CCP araw|NNC ng|CCB pasukan|NNC !|PMS '|PMS
+sigaw|NNC niya|PRS .|PMP
+Paglabas|NNP ng|CCB bahay|NNC ,|PMC nakita|VBTS ni|DTP Tutu|NNP ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigang|NNC_CCP sina|DTPP Teytey|NNP at|CCA Pipi|NNP .|PMP
+Sama|NNP -|PMS sama|CCB silang|PRP_CCP naglakad|VBTS patungong|RBL_CCP paaralan|NNC .|PMP
+Sa|CCT daan|NNC ,|PMC nakakita|VBTS siya|PRS ng|CCB isang|PRI_CCP tuta|NNC ,|PMC ngunit|CCT hindi|RBF sya|PRS nito|PRO hinabol|VBOF .|PMP
+Masayang|RBD_CCP naglalakad|VBTR si|DTP Tutu|NNP sa|CCT ilalim|JJD ng|CCB malinaw|JJD ,|PMC maaraw|JJD na|CCP langit|NNC .|PMP
+Nang|RBW dumating|VBAF sa|CCT paaralan|NNC ,|PMC ang|DTC kanilang|PRSP_CCP guro|NNC ay|LM naghihintay|VBTR na|CCP .|PMP "|PMS
+Magandang|JJD_CCP umaga|RBW po|RBS !|PMS "|PMS
+bati|VBS ni|DTP Tutu|NNP at|CCA ng|CCB kanyang|PRSP_CCP mga|DTCP kamag|NNC -|PMS aral|NNC .|PMP
+Nang|RBW dumating|VBAF ang|DTC oras|NNC ng|CCB pahinga|NNC sa|CCT klase|NNC ,|PMC nagtungo|VBTS sila|PRP Tutu|NNP at|CCA mga|DTCP kaibigan|NNC sa|CCT hardin|NNC at|CCA naglaro|VBTS .|PMP
+Isang|PRI_CCP napakasayang|JJCS_JJD_CCP unang|JJN_CCP araw|NNC ng|CCB pasukan|NNC !|PMS
+Handog|NNP sa|CCT inyo|PRSP ng|CCB SMART|NNPA

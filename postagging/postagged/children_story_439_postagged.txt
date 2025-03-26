@@ -1,0 +1,17 @@
+Ito|PRO ang|DTC pamilya|NNC ng|CCB mga|DTCP Hugis|NNP .|PMP
+Ngayon|RBW ,|PMC ibinalita|VBTS ang|DTC magaganap|VBTF ng|CCB Paligsahan|NNP ng|CCB Parol|NNP sa|CCT kanilang|PRSP_CCP baya|NNC .|PMP
+Ang|DTC mga|DTCP Hugis|NNP ay|LM naghanda|VBTS para|CCT sa|CCT paligsahan|NNC .|PMP
+Gumawa|VBAF na|RBI ang|DTC Bilog|NNP .|PMP
+Subalit|CCT ,|PMC hindi|RBF niya|PRS pinayagang|RBD_CCP tumulong|VBAF sa|CCT paggawa|NNC ng|CCB parol|NNC ang|DTC kaniyang|PRSP_CCP nakababatang|JJD_CCP babaeng|NNC_CCP kapatid|NNC na|CCP Tatsulok|NNC .|PMP
+Binibining|NNP Parisukat|NNP ,|PMC sabi|VBS niya|PRS ,|PMC "|PMS Gawin|VBOF mo|PRS ang|DTC iyong|PRSP_CCP parol|NNC sa|CCT pamamagitan|NNC ng|CCB mga|DTCP tatsulok|NNC !|PMS "|PMS
+Ginawa|VBOF ni|DTP Bilog|NNP ang|DTC kanyang|PRSP_CCP parol|NNC sa|CCT pamamagitan|NNC ng|CCB mga|DTCP bilog|NNC .|PMP
+Ipinakita|VBTS niya|PRS ito|PRO kay|DTP Ginoong|NNP Kuwadrado|NNP .|PMP
+Si|DTP Tatsulok|NNP ay|LM gumawa|VBAF ng|CCB parol|NNC sa|CCT pamamagitan|NNC ng|CCB mga|DTCP tatsulok|NNC .|PMP "|PMS
+Maaari|VBS ba|RBI tayong|PRP_CCP gumawa|VBAF ng|CCB parehong|JJC_CCP mga|DTCP hugis|NNC ?|PMQ
+tanong|NNC ni|DTP Bilog|NNP .|PMP
+Sumang|NNP -|PMS ayon|RBR naman|RBI si|DTP Tatsulok|NNP .|PMP
+Magkasa|VBW silang|PRP_CCP gumawa|VBAF ng|CCB bagong|JJD_CCP parol|NNC sa|CCT pamamagitan|NNC ng|CCB mga|DTCP bilog|NNC at|CCA tatsulok|NNC .|PMP
+Si|DTP Ginoong|NNP Kuwadrado|NNP ay|LM gumawa|VBAF ng|CCB parol|NNC sa|CCT pamamagitan|NNC ng|CCB mga|DTCP kuwadrado|NNC .|PMP
+Natapos|VBTS nang|RBW gawinng|PRC_CCP mga|DTCP Hugis|NNP ang|DTC kanilang|PRSP_CCP mga|DTCP parol|NNC .|PMP
+Ang|DTC parol|NNC na|CCP nagwagi|VBTS ay|LM ipinahayag|VBTS na|RBI .|PMP
+Ito|PRO ay|LM ang|DTC bilog|NNC -|PMS tatsulok|NNC na|CCP parol|NNC !|PMS

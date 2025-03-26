@@ -1,0 +1,16 @@
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP bughaw|JJD na|CCP paruparong|NNC_CCP masayang|JJD_CCP kumakaway|VBTR_VBAF .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP dilaw|JJD na|CCP bubuyog|NNC na|CCP umiinom|VBTR_VBAF ng|CCB tsaa|NNC sa|CCT tasa|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP pulang|JJD_CCP isda|NNC na|CCP nakahain|VBTS sa|CCT mesa|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP berdeng|JJD_CCP palaka|NNC na|CCP nakikipaglaro|VBTR sa|CCT tuta|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP kahel|JJD na|CCP bibe|NNC na|CCP sa|CCT akin|PRSP ay|LM naghahangad|VBTR ng|CCB kabutihan|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP lilang|NNC_CCP bulaklak|NNC na|CCP sumasayaw|VBTR kasama|CCB ang|DTC uod|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP kulay|NNC abo|NNC at|CCA itim|JJD na|CCP pusa|NNC na|CCP may|VBH suot|JJD na|CCP sumbrerong|NNC_CCP kahel|JJD .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP kulay|NNC abo|NNC at|CCA kayumangging|JJD_CCP daga|NNC na|CCP nagtatago|VBTR sa|CCT tahanang|NNC_CCP kulay|NNC rosas|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP kulay|NNC pula|JJD at|CCA kulay|NNC ube|NNC na|CCP aso|NNC na|CCP nakasuot|VBTS ng|CCB bota|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP berdeng|JJD_CCP tipaklong|NNC na|CCP nagbabasa|VBTR ng|CCB dyaryong|NNC_CCP may|VBH kulay|NNC itim|JJD na|CCP tinta|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP kulay|NNC itim|JJD at|CCA puti|JJD na|CCP kambing|NNC na|CCP naglalayag|VBTR gamit|VBS ang|DTC isang|PRI_CCP pulang|JJD_CCP bangka|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC kulay|NNC berde|JJD at|CCA kayumangging|JJD_CCP buwaya|NNC na|CCP nakangiti|VBTS sa|CCT akin|PRSP .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP kulay|NNC itim|JJD at|CCA bughaw|JJD na|CCP ahas|NNC na|CCP kumakain|VBTR_VBAF ng|CCB kapirasong|NNC_CCP keyk|JJD .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP dilaw|JJD at|CCA pulang|JJD_CCP inahing|RBD_CCP manok|NNC na|CCP nagsusulat|VBTR gamit|VBS ang|DTC bolpen|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC isang|PRI_CCP kulay|NNC kahel|JJD at|CCA itim|JJD na|CCP tigre|NNC na|CCP nakatayo|VBTS sa|CCT sapa|NNC .|PMP
+Nakita|VBTS ko|PRS ang|DTC iba|PRI '|PMS t|NNCA ibang|PRI_CCP masasayang|JJD_CCP kulay|NNC sa|CCT aking|PRSP_CCP paligid|NNC .|PMP

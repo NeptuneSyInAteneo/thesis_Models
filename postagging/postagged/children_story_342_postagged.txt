@@ -1,0 +1,15 @@
+Bumalik|VBAF ka|PRS aking|PRSP_CCP pusa|NNC !|PMS
+makipag|VBW laro|NNC ka|PRS saakin|VBOF .|PMP
+Umupo|VBTS_VBAF ka|PRS sa|CCT iyong|PRSP_CCP higaan|NNC at|CCA manatili|VBW ka|PRS dyan|NNCA !|PMQ
+Bumalik|VBAF ka|PRS rito|PRL ,|PMC aking|PRSP_CCP pusa|NNC !|PMS
+Masaydong|NNP_CCP mataas|JJD diyan|PRL .|PMP
+Bumalik|VBAF ka|PRS dito|PRL ,|PMC aking|PRSP_CCP pusa|NNC !|PMS
+Huwag|RBF kang|PRS_CCP lumabas|VBAF .|PMP
+Bumalik|VBAF ka|PRS pusa|NNC !|PMS
+Hindi|RBF iyo|PRSP yan|PRO .|PMP
+Bumalik|VBAF ka|PRS pusa|NNC !|PMS
+Ano|PRQ ang|DTC nakuha|VBTS mo|PRS ?|PMQ
+Bumalik|VBAF ka|PRS pusa|NNC .|PMP
+Hindi|RBF mo|PRS yan|PRO kaibigan|NNC !|PMS
+Aking|PRSP_CCP pusa|NNC ,|PMC naka|VBTS balik|NNC kana|NNC ba|RBI ?|PMQ
+Pumunta|VBAF ka|PRS na|CCP saiyong|NNC_CCP higaan|NNC ,|PMC oras|NNC na|CCP ng|CCB pagtulogPusa|VBW ?|PMQ

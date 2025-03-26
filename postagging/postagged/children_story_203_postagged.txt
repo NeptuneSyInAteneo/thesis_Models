@@ -1,0 +1,58 @@
+May|VBH isang|JJN_CCP itim|JJD na|CCP kakok|NNC .|PMP
+Inawit|VBOF niya|PRS ang|DTC magagandang|JJD_CCP awit|NNC ng|CCB mga|DTCP panahon|NNC sa|CCT Bangladesh|NNP .|PMP
+At|CCA ,|PMC sa|CCT Baishakh|NNP ,|PMC sa|CCT unang|JJN_CCP buwan|NNC ng|CCB taon|NNC ,|PMC ang|DTC kakok|NNC ay|LM nagkasakit|VBTS .|PMP
+Biglang|RBD_CCP hindi|RBF na|RBI siya|PRS makaawit|VBW ngayon|RBW !|PMQ
+Sobra|RBD siyang|PRS_CCP nakaramdam|VBTS ng|CCB nalungkot|VBTS .|PMP
+Sa|CCT buwan|NNC ng|CCB Jaishtha|NNP ,|PMC ang|DTC mangga|NNC at|CCA langka|NNC ay|LM hinog|JJD na|RBI .|PMP
+Gusto|VBS ni|DTP Cuckoo|NNP na|CCP kumanta|VBAF dahil|CCR sa|CCT sarap|NNC ng|CCB lasa|NNC nito|PRO !|PMQ
+Lumipad|VBAF sya|PRS bawat|PRI puno|NNC ,|PMC at|CCA sinubukang|VBOF_CCP kumanta|VBAF ng|CCB masarap|JJD na|CCP awit|NNC .|PMP
+Subalit|CCT ,|PMC wala|VBN ni|DTP isang|PRI_CCP ingay|NNC ang|DTC lumabas|VBAF sa|CCT kanyang|PRSP_CCP lalamunan|NNC .|PMP
+Dumating|VBAF ang|DTC tag|FW -|PMS init|NNC .|PMP
+Nakita|VBTS ng|CCB Punong|NNP_CCP Shimul|NNP ang|DTC kakok|JJD na|CCP malungkot|JJD .|PMP
+Sinabi|VBTS ng|CCB puno|NNC :|PMS "|PMS Ngayon|RBW ang|DTC panahon|NNC ay|LM sobrang|JJCS_CCP init|NNC .|PMP
+Siguradong|RBT_CCP iyan|PRO ang|DTC rason|NNC na|CCP ikaw|PRS ay|LM hindi|RBF makaawit|VBW .|PMP
+Hintayin|VBOF mo|PRS lang|RBI ang|DTC tag|FW -|PMS ulan|NNC !|PMS
+Malalakas|JJD na|CCP ulan|NNC ang|DTC magsisimula|VBTF at|CCA ang|DTC awit|NNC ng|CCB pagpatak|VBW ng|CCB ulan|NNC ang|DTC makakatulong|VBTF sa|CCT iyong|PRSP_CCP pag|CCR -|PMS awit|NNC din|RBI .|PMP "|PMS
+Dumating|VBAF ang|DTC tag|FW -|PMS ulan|NNC .|PMP
+Bumagsak|VBAF ang|DTC ulan|NNC sa|CCT mabibigat|JJD na|CCP pilyego|NNC sa|CCT buong|PRI_CCP mga|DTCP buwan|NNC ng|CCB Ashar|NNP at|CCA Shrabon|NNP .|PMP
+Ang|DTC mga|DTCP ilog|NNC ,|PMC kanal|NNC ,|PMC lawa|NNC at|CCA bukirin|NNC ay|LM lahat|PRI napuno|VBTS ng|CCB tubig|NNC .|PMP
+Ang|DTC puno|NNC ng|CCB kadam|NNC ay|LM namulaklak|VBTR ng|CCB kanyang|PRSP_CCP mga|DTCP bilog|NNC na|CCP madidilaw|JJD na|CCP kumpol|NNC .|PMP
+Ang|DTC kakok|NNC ay|LM lumipad|VBAF sa|CCT ulan|NNC mula|RBL sa|CCT kada|PRI puno|NNC ,|PMC naghahanap|VBTR ng|CCB kanyang|PRSP_CCP boses|NNC .|PMP
+Ngunit|CCT ,|PMC hindi|RBF pa|RBI rin|RBI makaawit|VBW .|PMP
+Natapos|VBTS ang|DTC tag|FW -|PMS ulan|NNC .|PMP
+Dumating|VBAF ang|DTC taglagas|NNC sa|CCT mga|DTCP buwan|NNC ng|CCB Bhadra|NNP at|CCA Ashwin|NNP .|PMP
+Mga|DTCP puting|JJD_CCP bulaklak|NNC ng|CCB Kash|NNP ay|LM namulaklak|VBTR .|PMP
+Ang|DTC mga|DTCP lupa|NNC ay|LM natakpan|VBTS ng|CCB mga|DTCP talulot|NNC .|PMP
+Pinahinog|VBTR na|CCP mga|DTCP prutas|NNC ng|CCB palmera|NNC ay|LM nakabitin|VBTS ng|CCB mabigat|JJD mula|RBL sa|CCT puno|NNC .|PMP
+Sinubukan|VBTS ng|CCB kakok|JJD na|CCP umawit|VBAF sa|CCT kagandahan|NNC nito|PRO .|PMP
+Subalit|CCT hindi|RBF pa|RBI rin|RBI niya|PRS magawa|VBW .|PMP
+At|CCA dumating|VBAF ang|DTC huling|JJD_CCP taglagas|NNC .|PMP
+Ang|DTC mga|DTCP magsasaka|NNC ay|LM umani|VBAF ng|CCB mga|DTCP bagong|JJD_CCP palay|NNC sa|CCT mga|DTCP buwan|NNC ng|CCB Kartik|NNP at|CCA Agryahayan|NNP .|PMP
+Ngunit|CCT ,|PMC ang|DTC kakok|NNC ay|LM hindi|RBF pa|RBI rin|RBI makaawit|VBW sa|CCT masaganang|JJD_CCP ani|NNC para|CCT sa|CCT piyesta|NNC ng|CCB Nabonno|NNP .|PMP
+Malapit|JJD na|CCP siyang|PRS_CCP sumabog|VBAF sa|CCT pagkabigo|NNC !|PMS
+Ang|DTC panahon|NNC ng|CCB tagyelo|NNC ay|LM dumating|VBAF sa|CCT mga|DTCP buwan|NNC ng|CCB Poush|NNP at|CCA Magh|NNP .|PMP
+Sobrang|JJCS_CCP lamig|NNC ng|CCB panahon|NNC .|PMP
+Sinubukan|VBTS ng|CCB mga|DTCP tao|NNC na|CCP magpainit|VBAF sa|CCT araw|NNC .|PMP
+Ang|DTC mga|DTCP kababaihan|NNC ay|LM gumawa|VBAF ng|CCB jaggery|FW mula|RBL sa|CCT mainit|JJD na|CCP katas|NNC ng|CCB datiles|NNC .|PMP
+Gumawa|VBAF sila|PRP ng|CCB mga|DTCP matatamis|JJD na|CCP keyk|NNC .|PMP
+Bumagsak|VBAF ang|DTC mga|DTCP dahon|NNC mula|RBL sa|CCT mga|DTCP puno|NNC .|PMP
+Ang|DTC mga|DTCP bukirin|NNC ay|LM nabalutan|VBTR ng|CCB mga|DTCP dilaw|JJD na|CCP bulaklak|NNC ng|CCB mustasa|NNC .|PMP
+Ang|DTC taon|NNC ay|LM malapit|JJD ng|CCB matapos|VBW .|PMP
+At|CCA ganon|PRC pa|RBI rin|RBI ,|PMC ang|DTC kakok|NNC ay|LM hindi|RBF makaawit|VBW .|PMP
+Nagsimula|VBTS siyang|PRS_CCP umiyak|VBAF .|PMP
+Ano|PRQ na|CCP ang|DTC ibig|VBS sabihin|VBOF kung|CCR ang|DTC awit|NNC niya|PRS ay|LM magpakailanman|RBW ng|CCB nawala|VBTS ?|PMQ
+Sa|CCT wakas|RBW ,|PMC dumating|VBAF ang|DTC tagsibol|NNC .|PMP
+Ito|PRO ang|DTC huling|JJD_CCP dalawang|JJN_CCP buwan|NNC ng|CCB taon|NNC ,|PMC Falgun|NNP at|CCA Chaitra|NNP .|PMP
+Sumibol|VBAF sa|CCT mga|DTCP puno|NNC ang|DTC mga|DTCP bagong|JJD_CCP dahon|NNC .|PMP
+Tumubo|VBAF ang|DTC mga|DTCP bagong|JJD_CCP usbong|NNC sa|CCT mga|DTCP puno|NNC ng|CCB mangga|NNC .|PMP
+Nagsimulang|VBTS_CCP lumipad|VBAF at|CCA kumanta|VBAF ang|DTC mga|DTCP pulot|NNC -|PMS pukyutan|NNC .|PMP
+Ang|DTC pulot|NNC -|PMS pukyutan|NNC ay|LM nanatili|VBTS sa|CCT tenga|NNC ng|CCB kakok|NNC .|PMP
+Sinubukan|VBTS muli|RBW ng|CCB kakok|JJD na|CCP umawit|VBAF ngunit|CCT bigo|JJD pa|RBI rin|RBI .|PMP
+Ngunit|CCT ang|DTC awit|NNC ng|CCB mga|DTCP pulot|NNC -|PMS pukyutan|NNC hindi|RBF tumigil|VBAF .|PMP
+Sila|PRP ay|LM .|PMP
+Kaya|CCR ang|DTC kakok|NNC ay|LM sumubok|VBAF pa|RBI rin|RBI na|CCP umawit|VBAF .|PMP
+Sa|CCT wakas|RBW ,|PMC nahanap|VBTS niya|PRS rin|RBI .|PMP
+At|CCA sa|CCT wakas|RBW ,|PMC ang|DTC kakok|NNC ay|LM nakaawit|VBTS ng|CCB maikling|JJD_CCP awit|NNC .|PMP
+Ang|DTC taon|NNC ng|CCB kanyang|PRSP_CCP pagsisikap|NNC ay|LM hindi|RBF nawalan|VBTS ng|CCB saysay|NNC !|PMS
+At|CCA ngayon|RBW ,|PMC ang|DTC kakok|NNC ay|LM kilalang|JJD_CCP ibon|NNC ng|CCB tagsibol|NNC .|PMP
+Sa|CCT tuwing|RBW ang|DTC mga|DTCP tao|NNC ng|CCB Bangladesh|NNP ay|LM nakakarinig|VBTR ng|CCB kanyang|PRSP_CCP mahimig|JJD na|CCP awit|NNC ,|PMC alam|VBS nila|PRP na|CCP dumating|VBAF na|RBI ang|DTC tagsibol|NNC .|PMP

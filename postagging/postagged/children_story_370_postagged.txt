@@ -1,0 +1,56 @@
+Si|DTP Bora|NNP at|CCA ang|DTC kaniyang|PRSP_CCP pamilya|NNC ay|LM nakatira|VBTS sa|CCT isang|PRI_CCP nayon|NNC sa|CCT tabi|NNC ng|CCB dagat|NNC .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS niya|PRS ang|DTC tubig|NNC .|PMP
+Mahilig|JJD din|RBI siyang|PRS_CCP mamangka|VBW kasama|CCB ang|DTC kaniyang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
+Isang|PRI_CCP umaga|RBW ,|PMC nakakita|VBTS si|DTP Bora|NNP ng|CCB isang|PRI_CCP munting|JJD_CCP dolphin|FW na|CCP nabitag|VBTS ng|CCB isang|PRI_CCP lambat|NNC !|PMS
+Pinipilit|VBTR ng|CCB dolphin|FW na|CCP makawala|VBW sa|CCT lambat|NNC .|PMP "|PMS
+Huwag|RBF kang|PRS_CCP matakot|VBW .|PMP
+Tutulungan|NNP kita|NNC ,|PMC "|PMS sabi|VBS ni|DTP Bora|NNP .|PMP
+Matapos|VBW mapalaya|VBW ang|DTC munting|JJD_CCP dolphin|FW ay|LM pinapakain|VBTR at|CCA inaalagaan|VBTR na|CCP ito|PRO ni|DTP Bora|NNP araw|RBW araw|NNC .|PMP
+Minahal|NNP na|CCP niya|PRS ang|DTC dolphin|FW at|CCA itinuring|VBTS bilang|CCT isang|PRI_CCP kaibigan|NNC .|PMP
+Ngunit|CCT isang|PRI_CCP araw|NNC ,|PMC ang|DTC munting|JJD_CCP dolphin|FW ay|LM hindi|RBF na|RBI nagpakita|VBTS kay|DTP Bora|NNP .|PMP
+Labis|JJCS na|CCP nalungkot|VBTS si|DTP Bora|NNP at|CCA nag|VBTS -|PMS aalala|NNC sa|CCT kaniyang|PRSP_CCP kaibigan|NNC .|PMP
+Bumabalik|VBTR_VBAF pa|RBI rin|RBI si|DTP Bora|NNP sa|CCT tabing|NNC -|PMS dagat|NNC araw|NNC -|PMS araw|NNC upang|CCB hintayin|VBOF ang|DTC muling|RBW_CCP pagbabalik|NNC ng|CCB dolphin|FW .|PMP
+Makaraan|VBW ang|DTC maraming|PRI_CCP araw|NNC ay|LM muling|RBW_CCP bumalik|VBAF ang|DTC dolphin|FW .|PMP
+Tuwang|NNP -|PMS tuwa|NNC si|DTP Bora|NNP !|PMS
+Ngunit|CCT tila|RBM nag|VBTS -|PMS aalala|VBTR ang|DTC munting|JJD_CCP dolphin|FW .|PMP
+Lumalangoy|VBTR_VBAF ito|PRO nang|CCB pabalik|RBD -|PMS balik|NNC na|CCP para|CCT bang|RBM gusto|VBS nitong|PRO_CCP lumusong|VBAF sa|CCT tubig|NNC ang|DTC kaibigan|NNC .|PMP "|PMS
+Ano|PRQ iyon|PRO ,|PMC munting|JJD_CCP dolphin|FW ?|PMQ
+Paano|PRQ kita|NNC matutulungan|VBTF ?|PMQ "|PMS
+tanong|NNC ni|DTP Bora|NNP .|PMP
+Sumisid|NNP at|CCA umahon|VBAF ang|DTC dolphin|FW na|CCP may|VBH dalang|NNC_CCP isang|PRI_CCP munting|JJD_CCP mahiwagang|JJD_CCP bato|NNC .|PMP
+Ibinigay|VBTS niya|PRS ang|DTC bato|NNC kay|DTP Bora|NNP .|PMP
+Mahigpit|JJD na|CCP hinawakan|VBOF ni|DTP Bora|NNP ang|DTC bato|NNC habang|RBW ang|DTC isang|PRI_CCP kamay|NNC naman|RBI ay|LM nakaakap|VBTS sa|CCT dolphin|FW .|PMP
+Nagulat|VBTS si|DTP Bora|NNP na|CCP siya|PRS ay|LM may|VBH kakayahang|NNC_CCP huminga|VBAF habang|RBW sila|PRP ay|LM sumisisid|VBTR_VBAF sa|CCT dagat|NNC .|PMP
+Lumangoy|VBAF sila|PRP hanggang|RBW sa|CCT marating|VBW ang|DTC tirahan|NNC ng|CCB mga|DTCP dolphin|FW .|PMP
+Lumapit|VBAF ang|DTC lahat|PRI ng|CCB dolphin|FW upang|CCB batiin|VBOF si|DTP Bora|NNP .|PMP
+Humingi|VBAF ng|CCB tulong|NNC ang|DTC pinuno|NNC ng|CCB mga|DTCP dolphin|FW kay|DTP Bora|NNP .|PMP
+Napaisip|VBTS si|DTP Bora|NNP kung|RBK ano|RBQ ang|DTC puwede|RBT niyang|PRS_CCP maitulong|VBW sa|CCT kanila|PRSP .|PMP
+Dinala|VBOF si|DTP Bora|NNP ng|CCB pinuno|NNC ng|CCB mga|DTCP dolphin|FW sa|CCT isang|PRI_CCP bahagi|NNC ng|CCB dagat|NNC na|CCP hindi|RBF pa|RBI niya|PRS nakikita|VBTR .|PMP
+Punong|NNP_CCP -|PMS puno|JJD ang|DTC lugar|NNC ng|CCB mga|DTCP palutang|NNC -|PMS lutang|NNC na|CCP mga|DTCP basura|NNC at|CCA naamoy|VBTS ang|DTC mga|DTCP mabahong|JJD_CCP kemikal|NNC .|PMP
+Lumangoy|VBAF sila|PRP sa|CCT ibabaw|JJD na|CCP bahagi|NNC ng|CCB dagat|NNC malapit|JJD sa|CCT mga|DTCP basura|NNC .|PMP
+Langhap|NNP na|CCP langhap|NNC ni|DTP Bora|NNP ang|DTC nakasusukang|VBTR_CCP amoy|NNC ng|CCB basura|NNC .|PMP "|PMS
+Umalis|VBAF na|CCP tayo|PRP rito|PRL ,|PMC "|PMS sabi|VBS ni|DTP Bora|NNP .|PMP "|PMS
+Hindi|RBF maganda|JJD sa|CCT kalusugan|NNC ang|DTC amoy|NNC na|CCP ito|PRO .|PMP "|PMS
+Nang|RBW paalis|RBD na|CCP sila|PRP ,|PMC isang|PRI_CCP grupo|NNC ng|CCB mga|DTCP dolphin|FW ang|DTC mabilis|JJD na|CCP lumalangoy|VBTR_VBAF patungo|RBL sa|CCT kanila|PRSP .|PMP
+May|VBH nakabuntot|VBTS sa|CCT kanila|PRSP na|CCP isang|PRI_CCP sasakyang|NNC_CCP pangisda|JJD na|CCP may|VBH malaking|JJD_CCP lambat|NNC .|PMP
+Sinubukan|VBTS nilang|PRP_CCP lumayo|VBAF at|CCA tumakas|VBAF .|PMP
+Ngunit|CCT si|DTP Bora|NNP at|CCA ang|DTC mga|DTCP dolphin|FW ay|LM nahuli|VBTS ng|CCB lambat|NNC .|PMP
+Hindi|RBF nila|PRP alam|VBS kung|RBK ano|RBQ ang|DTC gagawin|VBTF .|PMP
+Naalala|VBTS ni|DTP Bora|NNP ang|DTC kaniyang|PRSP_CCP mahiwagang|JJD_CCP bato|NNC .|PMP
+Ginamit|VBTS niya|PRS ito|PRO upang|CCB putulin|VBOF at|CCA makawala|VBW sila|PRP sa|CCT lambat|NNC .|PMP
+Ang|DTC kasunod|JJD na|CCP naalala|VBTS ni|DTP Bora|NNP ay|LM nakatayo|VBTS na|CCP siya|PRS sa|CCT tabing|NNC -|PMS dagat|NNC kasama|CCB ang|DTC iba|PRI pang|RBI_CCP mga|DTCP taga|JJD -|PMS baryo|NNC .|PMP
+Sa|CCT gitna|JJD ng|CCB dagat|NNC ,|PMC kitang|RBD_CCP -|PMS kita|NNC ang|DTC sanhi|NNC ng|CCB mga|DTCP basura|NNC .|PMP
+Naisip|VBTS ni|DTP Bora|NNP na|CCP ito|PRO na|CCP ang|DTC tamang|JJD_CCP oras|NNC upang|CCB simulan|VBOF ang|DTC pagbabago|NNC at|CCA paglilinis|NNC ng|CCB dagat|NNC .|PMP
+Hinikayat|VBOF ni|DTP Bora|NNP ang|DTC mga|DTCP tao|NNC sa|CCT baryo|NNC na|CCP linisin|VBOF ang|DTC dagat|NNC .|PMP
+Pinakiusapan|VBTS niya|PRS rin|RBI ang|DTC lahat|PRI na|CCP iwasan|VBOF ang|DTC pagtatapon|NNC ng|CCB langis|NNC at|CCA kemikal|NNC sa|CCT tubig|NNC .|PMP
+Sa|CCT muling|RBW_CCP pagbisita|NNC ni|DTP Bora|NNP sa|CCT dagat|NNC ,|PMC malinaw|JJD at|CCA malinis|JJD na|CCP ito|PRO .|PMP
+Gusto|VBS niyang|PRS_CCP magdiwang|VBAF kasama|CCB ang|DTC mga|DTCP kaibigan|NNC niyang|PRS_CCP dolphin|FW .|PMP
+Ngunit|CCT nasaan|JJD na|CCP kaya|CCR ang|DTC mga|DTCP ito|PRO ?|PMQ
+Isang|PRI_CCP araw|NNC ,|PMC habang|RBW kasamang|CCB_CCP namamangka|VBTR ni|DTP Bora|NNP ang|DTC kaniyang|PRSP_CCP ina|NNC sa|CCT ilog|NNC nakita|VBTS nila|PRP ang|DTC mga|DTCP dolphin|FW .|PMP
+Masaya|NNP ang|DTC mga|DTCP ito|PRO na|CCP tumatalon|VBTR_VBAF talon|NNC at|CCA nagtatampisaw|VBTR sa|CCT malinaw|JJD at|CCA malinis|JJD na|CCP tubig|NNC -|PMS dagat|NNC .|PMP
+Ngayon|RBW ay|LM nagtutulungan|VBTR ang|DTC lahat|PRI ng|CCB mga|DTCP taga|JJD baryo|NNC upang|CCB panatilihing|RBD_CCP malinis|JJD ang|DTC dagat|NNC at|CCA mapangalagaan|VBW ang|DTC mga|DTCP dolphin|FW .|PMP
+Dahil|CCR sa|CCT kalinisan|NNC ng|CCB tubig|NNC -|PMS dagat|NNC at|CCA sa|CCT mga|DTCP dolphin|FW na|CCP palangoy|NNC -|PMS langoy|NNC dito|PRL ,|PMC nakahikayat|VBTS ang|DTC baryo|NNC ng|CCB mga|DTCP turista|NNC mula|RBL sa|CCT iba|PRI '|PMS t|NNCA ibang|PRI_CCP panig|NNC ng|CCB mundo|NNC .|PMP
+Karagdagang|JJD_CCP Impormasyon|NNP Tungkol|RBR sa|CCT Kapaligiran|NNP Ang|NNP World|NNP Wildlife|NNP Fund|NNP (|PMS WWF|NNPA )|PMS ay|LM patuloy|RBD na|CCP tumutulong|VBTR_VBAF sa|CCT Cambodia|NNP upang|CCB pangalagaan|VBOF ang|DTC mga|DTCP lumba|NNC -|PMS lumba|JJD na|CCP matatagpuan|VBTF sa|CCT Ilog|NNP Mekong|NNP .|PMP
+Para|CCT sa|CCT mga|DTCP karagdagang|JJD_CCP impormasyon|NNC ,|PMC bisitahin|VBOF lamang|RBI ang|DTC :|PMS http|FW :|PMS /|PMS /|PMS cambodia.panda.org|FW /|PMS Ang|DTC gobyerno|NNC ng|CCB Cambodia|NNP ay|LM nakipagtutulungan|VBTS din|RBI sa|CCT Wildlife|NNP Alliance|NNP upang|CCB iligtas|VBOF ang|DTC napinsalang|VBTR_CCP kalikasan|NNC sa|CCT buong|PRI_CCP bansa|NNC .|PMP
+Para|CCT sa|CCT karagdagang|JJD_CCP impormasyon|NNC ,|PMC bisitahin|VBOF ang|DTC :|PMS https|FW :|PMS /|PMS /|PMS www.wildlifealliance.org/tag/wildlife|FW -|PMS rapid|FW -|PMS rescue|FW -|PMS team|NNC /|PMS Ang|DTC karagdagang|JJD_CCP impormasyong|NNC_CCP pangkapaligiranay|JJD ibinahagi|VBTS ng|CCB Conservation|NNP International|NNP sa|CCT pakikipagtulungan|NNC ng|CCB The|NNP Asia|NNP FoundationMalugod|NNP na|CCP itinataguyod|VBTR ng|CCB SMART|NNPA .|PMP
+Learning|NNP Resources|NNP .|PMP

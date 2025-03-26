@@ -1,0 +1,56 @@
+Ang|DTC batang|JJD_CCP babae|NNC na|CCP si|DTP Mina|NNP ay|LM nakatira|VBTS sa|CCT isang|PRI_CCP baryo|NNC kasama|CCB ang|DTC kaniyang|PRSP_CCP mga|DTCP magulang|NNC ,|PMC lola|NNC ,|PMC kapatid|NNC na|CCP lalaki|NNC na|CCP si|DTP Raja|NNP ,|PMC and|CCA nakababatang|JJD_CCP kapatid|NNC na|CCP si|DTP Rani|NNP .|PMP
+Ang|DTC loran|NNC si|DTP Mithu|NNP naman|RBI ang|DTC matakilik|VBW niyang|PRS_CCP kaibigan|NNC .|PMP
+Si|DTP Meena|NNP ay|LM kagaya|JJC rin|RBI ng|CCB ibang|PRI_CCP batang|JJD_CCP babae|NNC .|PMP
+Palakaibigan|RBD siya|PRS at|CCA hindi|RBF natatakot|VBTR magtanong|VBW .|PMP
+Samahan|NNP si|DTP Meena|NNP sa|CCT kaniyang|PRSP_CCP paglalakbay|NNC –|PMS sa|CCT kaniyang|PRSP_CCP pagtawa|NNC ,|PMC pag|CCR -|PMS akyat|NNC sa|CCT mga|DTCP puno|NNC ,|PMC pagtatanong|NNC at|CCA pag|CCR -|PMS ayos|NNC ng|CCB mga|DTCP problema|NNC ,|PMC at|CCA pagpapakita|VBW ng|CCB kakayahan|NNC ng|CCB mga|DTCP babae|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC binisita|VBOF ni|DTP Meena|NNP ang|DTC pinsan|NNC nyang|PRS_CCP si|DTP Rita|NNP ,|PMC dala|JJD -|PMS dala|JJD ang|DTC isang|PRI_CCP malaking|JJD_CCP basket|NNC ng|CCB manggang|NNC_CCP hinog|NNC .|PMP
+Kasama|CCB nya|PRS ang|DTC kanyang|PRSP_CCP lorong|NNC_CCP si|DTP Mithu|NNP .|PMP
+Sa|CCT daan|NNC ,|PMC nakita|VBTS niya|PRS ang|DTC tindero|NNC ng|CCB nayon|NNC .|PMP
+Siya|PRS ay|LM nagsasalita|VBTR nang|RBD malakas|JJD sa|CCT kanyang|PRSP_CCP sarili|NNC at|CCA sumasayaw|VBTR nang|RBD may|VBH kagalakan|NNC para|CCT sa|CCT pagkakaroon|NNC ng|CCB isang|PRI_CCP batang|JJD_CCP nobya|NNC para|CCT sa|CCT kanyang|PRSP_CCP anak|NNC .|PMP "|PMS
+Gagawin|VBTF ng|CCB isang|PRI_CCP batang|JJD_CCP babae|NNC ang|DTC lahat|PRI ng|CCB gawaing|NNC_CCP bahay|NNC ,|PMC at|CCA hindi|RBF ko|PRS na|CCP kailangang|VBS_CCP bayaran|VBOF iyon|PRO !|PMS "|PMS
+tumawa|VBAF siya|PRS .|PMP
+Laking|JJD_CCP gulat|NNC ni|DTP Meena|NNP nang|RBW malaman|VBW na|CCP si|DTP Rita|NNP pala|NNC ang|DTC batang|JJD_CCP tinutukoy|VBTR ng|CCB matanda|JJD .|PMP
+Labinlinmang|NNP_CCP taon|NNC pa|RBI lamang|RBI si|DTP Rita|NNP at|CCA gusto|VBS pa|RBI nitong|PRO_CCP makapag|VBW -|PMS aral|NNC .|PMP
+Hindi|RBF niya|PRS gustong|VBS_CCP magpakasal|VBW ,|PMC pero|CCT hindi|RBF niya|PRS alam|VBS kung|RBK paano|RBQ ito|PRO sasabihin|VBTF sa|CCT kaniyang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
+Iminungkahi|VBTS ni|DTP Meena|NNP na|CCP humingi|VBAF ng|CCB tulong|NNC sa|CCT kaniyang|PRSP_CCP lola|NNC .|PMP
+Sinubukan|VBTS ni|DTP Lola|NNP na|CCP kausapin|VBOF ang|DTC kanyang|PRSP_CCP anak|NNC .|PMP
+Sinabi|VBTS niya|PRS sa|CCT ama|NNC ni|DTP Rita|NNP na|CCP napakabata|JJCS_JJD pa|RBI ni|DTP Rita|NNP para|CCT magpakasal|VBW .|PMP
+Siya|PRS mismo|RBT ay|LM nagkaroon|VBTS ng|CCB kanyang|PRSP_CCP unang|JJN_CCP anak|NNC sa|CCT edad|NNC na|RBI .|PMP
+Namatay|VBTS ang|DTC sanggol|NNC ,|PMC at|CCA muntik|RBD nang|RBD mamatay|VBW si|DTP Lola|NNP .|PMP
+Ayaw|RBF niyang|PRS_CCP magdusa|VBAF si|DTP Rita|NNP gaya|JJC niya|PRS .|PMP
+Nag|NNP -|PMS aalala|NNC ang|DTC tatay|NNC ni|DTP Rita|NNP .|PMP
+Ayaw|RBF niyang|PRS_CCP talikuran|VBOF ang|DTC kanilang|PRSP_CCP kasunduan|NNC .|PMP
+Ang|DTC anak|NNC ng|CCB tindero|NNC ,|PMC si|DTP Babu|NNP ,|PMC ay|LM nag|VBTS -|PMS aaral|FW upang|CCB maging|VBW isang|PRI_CCP doktor|NNC ,|PMC at|CCA ninanais|VBTR ng|CCB tindero|NNC na|CCP sila|PRP ay|LM magpakasal|VBW habang|RBW sila|PRP ay|LM mga|DTCP bata|NNC pa|RBI .|PMP
+Ano|PRQ ang|DTC maari|VBS nilang|PRP_CCP gawin|VBOF ?|PMQ
+Sa|CCT kanilang|PRSP_CCP pag|CCR -|PMS uwi|NNCA ,|PMC si|DTP Mithu|NNP ay|LM sumabit|VBAF sa|CCT banderitas|NNC na|CCP inilagay|VBTS bilang|CCT pagdiriwang|NNC sa|CCT pagbabalik|NNC nayon|NNC ni|DTP Babu|NNP .|PMP
+Hinabol|VBOF ng|CCB tindero|NNC si|DTP Mithu|NNP ,|PMC nahulog|VBTS ito|PRO at|CCA tummy|VBAF ang|DTC ulo|NNC sa|CCT lupa|NNC .|PMP
+Nang|RBW makita|VBW ito|PRO ni|DTP Meena|NNP na|CCP walang|VBN_CCP malay|NNC ,|PMC akala|NNC niya|PRS '|PMS y|FW mamamatay|VBTF na|CCP ito|PRO .|PMP
+Pinilit|VBTS niyang|PRS_CCP gisingin|VBOF ito|PRO ,|PMC kasama|CCB ang|DTC kapatid|NNC niyang|PRS_CCP si|DTP Raju|NNP ,|PMC gayundin|CCB si|DTP Rita|NNP .|PMP
+Nang|RBW biglang|RBD_CCP may|VBH nadinig|VBTS sila|PRP na|CCP tinig|NNC ,|PMC "|PMS Ano|PRQ ang|DTC nangyari|VBTS ?|PMQ "|PMS
+tanong|NNC nang|RBW isang|PRI_CCP matipunong|JJD_CCP binata|NNC .|PMP
+Mukhang|RBM sanay|JJD ang|DTC binata|NNC sa|CCT kaniyang|PRSP_CCP ginagawa|VBTR .|PMP
+Kaniyang|NNP_CCP ini|FW -|PMS eksamen|NNC si|DTP Mithu|NNP at|CCA nilagyan|VBTS niya|PRS ito|PRO ng|CCB bendahe|NNC sa|CCT ulo|NNC .|PMP
+Muling|RBW_CCP bumangon|VBAF si|DTP Mithu|NNP .|PMP
+Masayang|JJD_CCP -|PMS masaya|JJD sina|DTPP Meena|NNP at|CCA Raju|NNP at|CCA pinasalamatan|VBOF ang|DTC binata|NNC .|PMP
+Samantala|CCT ,|PMC bahagya|JJD namang|RBI_CCP namula|VBTS si|DTP Rita|NNP nang|RBW tingnan|VBOF ito|PRO ng|CCB binata|NNC .|PMP
+Sinundan|VBTS ni|DTP Raju|NNP ang|DTC estranghero|NNC upang|CCB malaman|VBW kung|RBK sino|RBQ ito|PRO .|PMP
+Nakita|VBTS niyang|PRS_CCP sinalubong|VBOF ito|PRO ng|CCB tindero|NNC .|PMP "|PMS
+Babu|NNP ,|PMC anak|NNC !|PMS
+Anak|NNP !|PMS "|PMS
+Sigaw|NNP ng|CCB tindero|NNC .|PMP "|PMS
+Maligayang|NNP_CCP pagbabalik|NNC !|PMS
+May|VBH magandang|JJD_CCP balita|NNC ako|PRS para|CCT sa|CCT iyo|PRSP .|PMP "|PMS
+Ngunit|CCT hindi|RBF nagtagal|VBTS ay|LM napalitan|VBTS ng|CCB galit|NNC ang|DTC kaligayahan|NNC ng|CCB tindero|NNC nang|RBW tumanggi|VBAF si|DTP Babu|NNP na|CCP pakasalan|VBOF ang|DTC babaeng|NNC_CCP pinili|VBOF para|CCT sa|CCT kanya|PRSP .|PMP "|PMS
+Masyado|VBW pa|RBI siyang|PRS_CCP bata|NNC ,|PMC "|PMS ani|NNC niya|PRS .|PMP "|PMS
+Iligal|NNP para|CCT sa|CCT mga|DTCP batang|JJD_CCP babae|NNC na|CCP ang|DTC magpakasal|VBW bago|RBW makatuntong|VBW sa|CCT 18thong|CDB gulang|NNC .|PMP
+Hindi|RBF rin|RBI ligtas|JJD para|CCT sa|CCT isang|PRI_CCP batang|JJD_CCP babae|NNC ang|DTC magkaroon|VBAF ng|CCB anak|NNC .|PMP
+Nang|RBW malaman|VBW ni|DTP Meena|NNP kung|RBK sino|RBQ ang|DTC doktor|NNC ,|PMC kinuwento|VBOF niya|PRS rito|PRL ang|DTC tungkol|RBR kay|DTP Rita|NNP at|CCA ang|DTC kagustuhan|NNC ng|CCB pinsan|NNC niyang|PRS_CCP magpatuloy|VBW sa|CCT pag|CCR -|PMS aaral|FW .|PMP
+Sumang|NNP -|PMS ayon|RBR naman|RBI si|DTP Babu|NNP rito|PRL .|PMP
+Aniya|NNP ,|PMC magandang|JJD_CCP bagay|NNC para|CCT kay|DTP Rita|NNP na|CCP makapagtapos|VBW ng|CCB pag|CCR -|PMS aaral|FW .|PMP
+Kinumbinsi|VBTS ni|DTP Babu|NNP ang|DTC ama|NNC ni|DTP Rita|NNP na|CCP siya|PRS nga|RBI ay|LM masyadong|JJCS_CCP pang|RBI_CCP bata|NNC upang|CCB magpakasal|VBW .|PMP
+Noon|RBW lang|RBI ay|LM nakaisip|VBTS ang|DTC kanilang|PRSP_CCP Lola|NNC ng|CCB isang|PRI_CCP magandang|JJD_CCP ideya|NNC .|PMP
+Sila|PRP ay|LM nagdesisyon|VBTS na|CCP si|DTP Babu|NNP at|CCA Rita|NNP ay|LM ipagkasundo|VBOB na|CCP ngunit|CCT maghihintay|VBTF ng|CCB tatlong|JJN_CCP taon|NNC bago|RBW ang|DTC kasal|NNC .|PMP
+Pansamantala|NNP ,|PMC ang|DTC bawat|PRI isa|PRI sa|CCT kanila|PRSP ay|LM magtatapos|VBTF ng|CCB pag|CCR -|PMS aaral|FW .|PMP
+Lubos|JJCS ang|DTC pagmamahal|NNC ng|CCB tindero|NNC sa|CCT kanyang|PRSP_CCP anak|NNC kaya|CCR '|PMS t|NNCA pumayag|VBAF na|CCP rin|RBI ito|PRO .|PMP
+Tandaan|VBOF ,|PMC ang|DTC mga|DTCP batang|JJD_CCP babae|NNC na|CCP wala|VBN pa|RBI sa|CCT labing|JJN -|PMS walong|JJN_CCP taong|NNC_CCP gulang|NNC ay|LM masyadong|JJCS_CCP pang|RBI_CCP bata|NNC para|CCT magpakasal|VBW .|PMP
+Ang|DTC Meena|NNP Communication|NNP Initiative|NNP ay|LM inilunsad|VBTS ng|CCB UNICEF|NNPA sa|CCT taong|NNC_CCP upang|CCB ipakalap|VBOF ang|DTC mensahe|NNC ukol|NNC sa|CCT kasarian|NNC ,|PMC karapatang|NNC_CCP pambata|JJD ,|PMC edukasyon|NNC ,|PMC proteksyon|NNC at|CCA kaunlaran|NNC ,|PMC at|CCA upang|CCB magbigay|VBAF inspirasyon|NNC sa|CCT mga|DTCP kabababaihan|NNC at|CCA kanilang|PRSP_CCP mga|DTCP pamilya|NNC at|CCA komunidad|NNC sa|CCT Katagalugang|NNP_CCP Asya|NNP gamit|VBS ang|DTC mga|DTCP pelikula|NNC ,|PMC komiks|NNC ,|PMC radyo|NNC ,|PMC at|CCA iba|PRI pa|RBI .|PMP

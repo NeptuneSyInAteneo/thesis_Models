@@ -1,0 +1,39 @@
+Bakit|PRQ kaya|CCR ginising|VBOF ni|DTP Lola|NNP ng|CCB maaga|JJD si|DTP Duma|NNP ?|PMQ
+Bakasyon|NNC naman|RBI ngayon|RBW !|PMQ
+Maglalakad|NNP sa|CCT kagubatan|NNC ?|PMQ
+Argh|NNP !|PMS
+Naku|NNP naman|RBI po|RBS Lola|NNC ,|PMC gustong|VBS_CCP bumalik|VBAF ni|DTP Duma|NNP sa|CCT pagtulog|NNC .|PMP
+Blag|NNP !|PMS
+Nagsara|VBTS ang|DTC pinto|NNC .|PMP
+Huh|NNP ?|PMQ
+Naiwang|RBD_CCP mag|VBW -|PMS isa|PRI si|DTP Duma|NNP ?|PMQ
+Lola|NNP ...|PMS hintay|VBTS !|PMQ
+Tingnan|VBOF mo.|NNCA .|PMP
+Mga|DTCP seresa|FW !|PMS
+Biglang|RBD_CCP nawala|VBTS ang|DTC antok|NNC ni|DTP Duma|NNP .|PMP
+Nagutom|VBTS siya|PRS sa|CCT halip|CCT .|PMP
+Mayroong|VBH_CCP hinog|NNC sa|CCT banda|NNC roon|PRL .|PMP
+Pero|CCT hindi|RBF ito|PRO kayang|RBD_CCP abutin|VBOF ni|DTP Duma|NNP .|PMP
+Wow|NNP !|PMS
+Magagawa|VBTF rin|RBI yan|PRO ni|DTP Duma|NNP !|PMS
+Oh|NNP ?|PMQ
+Lola|NNP saan|RBW ka|PRS po|RBS pupunta|VBTF ?|PMQ
+Siguro|RBM kaya|CCR din|RBI iyon|PRO ni|DTP Duma|NNP !|PMS
+Tatawid|VBTF tayo|PRP ng|CCB ilog|NNC ?|PMQ
+Kaya|CCR rin|RBI siguro|RBM ito|PRO ni|DTP Duma|NNP !|PMS
+Gusto|VBS ng|CCB umuwi|VBAF ni|DTP Duma|NNP ,|PMC subalit|CCT sinabi|VBTS ni|DTP Lola|NNP na|CCP nasa|RBL banda|NNC dun|PRL pa|RBI ang|DTC pinakamatamis|JJCS_JJD na|CCP pulot|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Pulot|NNP ?|PMQ
+Naiisip|VBTR niya|PRS ang|DTC masarap|JJD na|CCP pulot|NNC .|PMP
+Hindi|RBF na|CCP siya|PRS makapaghintay|VBW na|CCP matikman|VBW ito|PRO !|PMQ
+Tara|NNP na|CCP ,|PMC Lola|NNP !|PMS
+Ito|PRO na|CCP ang|DTC lugar|NNC sabi|VBS ni|DTP Lola|NNP .|PMP
+Naaamoy|VBTS na|CCP ito|PRO ni|DTP Lola|NNP .|PMP
+Siguro|RBM kaya|CCR rin|RBI iyon|PRO gawin|VBOF ni|DTP Duma|NNP ?|PMQ
+Wow|NNP !|PMS
+Nakaakyat|RBD na|CCP si|DTP Lola|NNP !|PMS
+Kaya|CCR din|RBI kaya|CCR itong|PRO_CCP gawin|VBOF ni|DTP Duma|NNP ?|PMQ
+Balang|NNP_CCP araw|NNC ,|PMC magiging|VBTF katulad|JJC ka|PRS rin|RBI ni|DTP Lola|NNP ,|PMC Duma|NNP !|PMS
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC proyektong|NNC_CCP ito|PRO sa|CCT paglikha|NNC ng|CCB aklat|NNC ay|LM nagtatampok|VBTR ng|CCB mga|DTCP natatanging|JJD_CCP kababaihan|NNC bilang|CCT pangunahing|JJD_CCP tauhan|NNC sa|CCT kuwento|NNC at|CCA kinabibilangan|VBTR ng|CCB mga|DTCP babaeng|JJD_CCP manunulat|NNC ,|PMC illustrador|NNC ,|PMC tagapatnugot|NNC ,|PMC at|CCA pagguhit|NNC .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM ginawa|VBTS sa|CCT pamamagitan|NNC ng|CCB mga|DTCP pagsasanay|NNC sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP at|CCA suportado|JJD ng|CCB Estée|NNP Lauder|NNP Companies|NNP .|PMP
+Ang|DTC pagsasanay|NNC at|CCA iba|PRI pang|RBI_CCP propesyunal|JJD na|CCP pagsulong|NNC tulad|JJC ng|CCB pagguhit|NNC at|CCA pag|CCR -|PMS akda|NNC ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

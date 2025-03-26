@@ -1,0 +1,13 @@
+Isang|PRI_CCP araw|NNC sa|CCT tagsibol|NNC ,|PMC si|DTP Zizo|NNP ay|LM lumilipad|VBTR_VBAF nang|RBW mataas|JJD na|CCP mataas|JJD sa|CCT kalangitan|NNC .|PMP
+Nang|RBW bigla|RBD siyang|PRS_CCP sumalpok|VBAF sa|CCT isang|PRI_CCP malaking|JJD_CCP bagay|NNC .|PMP
+Dumausdos|VBAF siya|PRS dito.at|RBD pababa|RBD sa|CCT isang|PRI_CCP mahabang|JJD_CCP lubid|NNC ...|PMS At|CCA nakadama|VBTS nang|RBW napakatinding|JJCS_JJD_CCP init|NNC . . .|NNPA hah|FW hah|FW huhNagtaka|FW si|DTP Zizo|NNP ,|PMC "|PMS Ano|PRQ kaya|CCR ito|PRO ?|PMQ "|PMS
+Hula|NNC niya|PRS ,|PMC "|PMS Pugad|NNC kaya|CCR ito|PRO ?|PMQ "|PMS
+...|PMS "|PMS Hindi|RBF ,|PMC hindi|RBF ,|PMC hindi|RBF "|PMS Lumipad|VBAF siya|PRS nang|RBW mas|JJCC mataas|JJD ,|PMC at|CCA hinulaang|VBTS_CCP muli|RBW ,|PMC "|PMS Puwede|FW kayang|CCR_CCP malalaking|JJD_CCP uod|NNC ?|PMQ "|PMS
+...|PMS "|PMS Hindi|RBF ,|PMC hindi|RBF ,|PMC hindi|RBF "|PMS At|CCA muli|RBW siyang|PRS_CCP lumipad|VBAF nang|CCB mas|JJCC mataas|JJD ,|PMC at|CCA napaisip|VBTS sa|CCT ikatlong|JJN_CCP pagkakataon|NNC ,|PMC ito|PRO kaya|CCR ang|DTC mainit|JJD na|CCP araw|NNC ?|PMQ
+Hindi|RBF !|PMS
+Hindi|RBF !|PMS
+Hindi|RBF !|PMS
+Siya|PRS ay|LM lumipad|VBAF nang|RBD pinakamataas|JJCS_JJD at|CCA muling|RBW_CCP hinulaan|VBOF ang|DTC nakita|VBTS ,|PMC "|PMS Ito|PRO ba|RBI ay|LM isang|PRI_CCP lobo|NNC ?|PMQ
+Maari|VBS .|PMP "|PMS
+Muli|RBW siyang|PRS_CCP lumipad|VBAF pabalik|JJD at|CCA ngayon|RBW ay|LM maliwanag|JJD niyang|PRS_CCP nakita|VBTS ,|PMC isa|PRI itong|PRO_CCP "|PMS hot|FW air|FW balloon|FW .|PMP "|PMS
+WAKAS|NNPA

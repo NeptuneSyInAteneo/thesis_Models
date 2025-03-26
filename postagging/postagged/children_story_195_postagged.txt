@@ -1,0 +1,43 @@
+May|VBH mga|DTCP kawan|NNC ng|CCB tupa|NNC na|CCP pauwi|RBW isang|PRI_CCP gabi|RBW .|PMP
+Sila|PRP ay|LM masaya|JJD tulad|JJC ng|CCB dati|JJD maliban|CCT na|CCP lamang|RBI kay|DTP Matko|NNP .|PMP
+Siya|PRS ay|LM masyadong|JJCS_CCP malaki|JJD para|CCT magkasya|VBW sa|CCT bagong|JJD_CCP tarangkahan|NNC ng|CCB bukid|NNC .|PMP
+Lagi|RBW na|RBI lamang|RBI siyang|PRS_CCP naiiwan|VBTR at|CCA natutulog|VBTR sa|CCT labas|NNC sa|CCT mahigit|JJCC isang|PRI_CCP linggo|NNC .|PMP
+At|CCA ngayon|RBW ay|LM kailangan|VBS niya|PRS ulit|RBW matulog|VBW sa|CCT labas|NNC .|PMP
+Nakakainis|RBD na|CCP tarangkahang|NNC_CCP iyon|PRO !|PMQ
+Hindi|RBF patas|JJD ito|PRO .|PMP
+Ang|DTC sabi|VBS ng|CCB tupang|NNC_CCP si|DTP Yogi|NNP ,|PMC "|PMS Sabayan|VBOF mo|PRS akong|PRS_CCP mag|VBW -|PMS yoga|NNC !|PMS
+Ito|PRO ay|LM magkapapapayat|VBW sa|CCT iyo|PRSP .|PMP
+Upang|CCB ikaw|PRS ay|LM magkasya|VBAF sa|CCT tarangkahan|NNC .|PMP "|PMS
+Nang|RBW sumunod|VBAF na|CCP araw|NNC ,|PMC nagsimulang|RBD_CCP mag|VBW -|PMS yoga|NNC si|DTP Matko|NNP .|PMP
+Ilang|PRQ_CCP araw|NNC ang|DTC lumipas|VBAF ...|PMS Pero|CCT masyado|JJCS pa|RBI ring|RBI_CCP malapad|JJD si|DTP Matko|NNP at|CCA hindi|RBF pa|RBI rin|RBI magkasya|VBW sa|CCT gate|FW .|PMP
+Nagsabi|VBTS ang|DTC isang|PRI_CCP tupang|NNC_CCP nananakbo|VBTR ,|PMC "|PMS Magsimula|VBW kang|PRS_CCP tumakbo|VBAF !|PMQ
+Ito|PRO ay|LM magpapapayat|VBTF sa|CCT iyo|PRSP .|PMP
+Upang|CCB ikaw|PRS ay|LM magkasya|VBAF sa|CCT tarangkahan|NNC .|PMP "|PMS
+Mula|RBW noon|RBW ,|PMC araw|RBW araw|RBW na|CCP tumatakbo|VBTR_VBAF si|DTP Matko|NNP .|PMP
+Maraming|PRI_CCP araw|NNC ang|DTC lumipas|VBAF ngunit|CCT mataba|JJD pa|RBI rin|RBI siya|PRS at|CCA hindi|RBF pa|RBI rin|RBI magkasya|VBW sa|CCT pintuan|NNC ng|CCB bakod|NNC .|PMP
+Nagpayo|VBTS naman|RBI si|DTP Maninisid|NNP ,|PMC "|PMS Bakit|PRQ hindi|RBF mo|PRS subukang|RBD_CCP lumangoy|VBAF ?|PMQ
+Ang|DTC paglangoy|NNC ay|LM tiyak|RBT na|CCP makakatulong|VBTF upang|CCB ikaw|PRS mabawasan|VBW ang|DTC iyong|PRSP_CCP laki|NNC .|PMP
+Siguradong|RBT_CCP ikaw|PRS ay|LM makapapasok|VBTF na|RBI sa|CCT pintuan|NNC ng|CCB bakod|NNC .|PMP "|PMS
+Kaya|CCR sinimulan|VBTS agad|RBW ni|DTP Matko|NNP ang|DTC paglangoy|NNC ...|PMS Subalit|CCT masyado|JJCS pa|RBI rin|RBI siyang|PRS_CCP malaki|JJD para|CCT magkasya|VBW sa|CCT pintuan|NNC ng|CCB bakod|NNC .|PMP
+Dumating|VBAF si|DTP Bunni|NNP at|CCA pinakita|VBOF ang|DTC kaniyang|PRSP_CCP bisikleta|NNC .|PMP "|PMS
+Subukan|VBOF mo|PRS kayang|RBD_CCP magbisikleta|VBW ,|PMC Matko|NNP ?|PMQ
+Makatutulong|VBW ito|PRO sa|CCT iyo|PRSP .|PMP
+Kapag|CCR ito|PRO ay|LM hindi|RBF pa|RBI rin|RBI nakatulong|VBTS ,|PMC kakainin|VBTF ko|PRS ang|DTC aking|PRSP_CCP sumbrero|NNC !|PMS "|PMS
+pagbibiro|NNC ni|DTP Bunni|NNP .|PMP
+Nalungkot|VBTS si|DTP Matko|NNP .|PMP "|PMS
+Tama|RBT na|RBI !|PMQ
+Gusto|VBS ko|PRS ng|CCB umuwi|VBAF .|PMP "|PMS
+Kaya|CCR '|PMS t|NNCA siya|PRS ay|LM nag|VBTS -|PMS isip|NNC .|PMP
+Nag|NNP -|PMS isip|NNC at|CCA nag|VBTS -|PMS isip|NNC at|CCA nag|VBTS -|PMS isip|NNC pang|RBI_CCP muli|RBW .|PMP
+Pagkatapos|VBW ay|LM nagsimulang|RBD_CCP maglakad|VBAF pauwi|JJD .|PMP
+Makalipas|VBW ang|DTC ilang|PRQ_CCP araw|NNC ,|PMC bumalik|VBAF si|DTP Matko|NNP .|PMP
+Ngayon|RBW ay|LM may|VBH plano|NNC na|CCP siya|PRS .|PMP
+Mayroon|VBH siyang|PRS_CCP .....|NNPA .|PMP
+KAGAMITAN|NNPA !|PMS
+Nang|RBW sumunod|VBAF na|CCP umaga|RBW ,|PMC si|DTP Matko|NNP ay|LM gumising|VBAF sa|CCT kaniyang|PRSP_CCP paboritong|JJD_CCP lugar|NNC .|PMP
+Lahat|PRI ng|CCB ibang|PRI_CCP mga|DTCP tupa|NNC ay|LM nagtaka|VBTS .|PMP "|PMS
+Pero|CCT masyado|JJCS ka|PRS pa|RBI ring|RBI_CCP malapad|JJD !|PMS
+ang|DTC ungal|NNC nila|PRP .|PMP "|PMS
+Paano|PRQ ka|PRS nakapasok|VBTS sa|CCT loob|NNC ng|CCB bakuran|NNC ?|PMQ "|PMS "|PMS
+Simple|JJD lang|RBI naman|RBI ,|PMC pinalawak|VBTS ko|PRS lang|RBI ng|CCB kaunti|PRI ang|DTC pintuan|NNC ng|CCB bakod|NNC ,|PMC "|PMS ang|DTC pangiting|JJD_CCP sagot|NNC sa|CCT kanila|PRSP ni|DTP Matko|NNP .|PMP "|PMS
+Akma|NNP lang|RBI ang|DTC laki|NNC at|CCA ito|PRO ay|LM ayos|NNC para|CCT sa|CCT akin|PRSP ...|PMS Ito|PRO lang|RBI ako|PRS at|CCA ganito|PRC talaga|RBT ako|PRS !|PMS "|PMS

@@ -1,0 +1,40 @@
+Nawawala|VBTR lagi|RBD ni|DTP Lola|NNP ang|DTC kanyang|PRSP_CCP salamin|NNC .|PMP "|PMS
+Saan|PRQ ko|PRS kaya|CCR nailagay|VBTS iyon|PRO ?|PMQ "|PMS
+Madalas|RBD niyang|PRS_CCP tanong|NNC .|PMP
+Kapag|CCR wala|VBN ang|DTC kanyang|PRSP_CCP salamin|NNC ,|PMC hindi|RBF nya|PRS makikita|VBTF ang|DTC kanyang|PRSP_CCP salamin|NNC .|PMP
+Kaya|CCR kailangan|VBS niya|PRS ako|PRS para|CCT maging|VBW mata|NNC niya|PRS upang|CCB mahanap|VBW ang|DTC kanyang|PRSP_CCP sariling|NNC_CCP mata|NNC !|PMS
+Kadalasan|RBW naiiwan|VBTR niya|PRS ito|PRO sa|CCT banyo|NNC ,|PMC o|CCT di|RBF kaya|CCR sa|CCT kusina|NNC ,|PMC minsan|RBW rin|RBI ay|LM nasa|RBL ulo|NNC niya|PRS .|PMP "|PMS
+Nani|NNP ,|PMC "|PMS sabi|VBS ko|PRS "|PMS nasa|RBL ulo|NNC mo|PRS nga|RBI lang|RBI !|PMQ "|PMS "|PMS
+Nako|NNP !|PMS
+alam|VBS mo|PRS naman|RBI na|CCP binibiro|VBTR lang|RBI kita|NNC .|PMP
+Salamat|RBS mahal|JJD kong|PRS_CCP apo|NNC !|PMS "|PMS
+sabi|VBS niya|PRS habang|RBW humahagikgik|VBTR_VBAF .|PMP
+Pero|CCT ngayon|RBW ,|PMC hindi|RBF ko|PRS na|CCP mahanap|VBW ang|DTC salamin|NNC ni|DTP Lola|NNP ,|PMC hindi|RBF pa|RBI .|PMP
+Naghanap|VBTS na|CCP ako|PRS kahit|CCT saan|PRQ .|PMP
+Sa|CCT lahat|PRI ng|CCB madalas|RBD na|CCP lugar|NNC .|PMP
+Sa|CCT kanyang|PRSP_CCP ulo|NNC ,|PMC sa|CCT paliguan|NNC ,|PMC sa|CCT loob|NNC ng|CCB kanyang|PRSP_CCP lalagyan|NNC ng|CCB tasa|NNC ,|PMC at|CCA sa|CCT loob|NNC ng|CCB kanyang|PRSP_CCP tukador|NNC .|PMP
+naghanap|VBTS na|RBI din|RBI ako|PRS sa|CCT ilalim|JJD ng|CCB kanyang|PRSP_CCP paboritong|JJD_CCP upuan|NNC at|CCA sa|CCT hapag|NNC -|PMS kainan|NNC .|PMP
+Wala|VBN .|PMP
+Walang|VBN_CCP salamin|NNC .|PMP
+Nasaan|VBTS na|CCP kaya|CCR ito|PRO ?|PMQ
+Sa|CCT pagkakataong|NNC_CCP ito|PRO ,|PMC hinusayan|VBOF ko|PRS na|CCP ang|DTC pananaliksik|NNC .|PMP
+Sinundan|VBOF ko|PRS si|DTP Nani|NNP sa|CCT lahat|PRI ng|CCB lugar|NNC na|CCP pinuntahan|VBOF niya|PRS sa|CCT buong|PRI_CCP araw|NNC .|PMP "|PMS
+Wala|VBN ako|PRS masyadong|JJCS_CCP nagawa|VBTS ngayong|RBW_CCP araw|NNC .|PMP
+Maliban|CCT sa|CCT dumating|VBAF ang|DTC biyenan|NNC ni|DTP Veena|NNP .|PMP
+Alam|VBS mo|PRS naman|RBI na|CCP maraming|JJD_CCP nasasagap|VBTR na|CCP balita|NNC iyon|PRO !|PMQ
+Nakarami|VBTS kami|PRP ng|CCB ininom|FW ng|CCB tsaa|NNC .|PMP
+At|CCA lahat|PRI na|CCP laddoos|NNC na|CCP gawa|VBS ng|CCB iyong|PRSP_CCP ina|NNC ay|LM naubos|VBTS niya|PRS ,|PMC "|PMS sabi|VBS ni|DTP Nani|NNP .|PMP "|PMS
+Maraming|PRI_CCP pinagkakaabalahan|VBTR_VBRF si|DTP Lola|NNP ngayon|RBW "|PMS sabi|VBS ni|DTP Raju|NNP .|PMP
+Nagsulat|VBTS siya|PRS ng|CCB liham|NNC para|CCT sa|CCT Chief|NNP Minister|NNP patungkol|RBR sa|CCT kanyang|PRSP_CCP pensiyon|NNC .|PMP "|PMS
+Nakipag|VBTS usap|NNC siya|PRS ng|CCB matagal|JJD sa|CCT iyong|PRSP_CCP Tita|NNC .|PMP
+Natapos|VBTS niya|PRS rin|RBI ang|DTC pag|CCR gaganchilyo|NNC ng|CCB panlamig|NNC ni|DTP Raju|NNP .|PMP
+At|CCA nag|VBTS lakad|NNC -|PMS lakad|NNC sa|CCT labas|NNC saglit|RBW .|PMP "|PMS
+sabi|VBS ni|DTP Nanay|NNP .|PMP
+Ngayon|RBW na|CCP mas|JJCC marami|JJD na|CCP akong|PRS_CCP ideya|NNC sa|CCT ginawa|VBOF ni|DTP Lola|NNP .|PMP
+Mabilis|RBD akong|PRS_CCP pumunta|VBAF sa|CCT paligid|NNC ng|CCB bahay|NNC .|PMP
+At|CCA sa|CCT wakas|RBW !|PMQ
+nahanap|VBTS ko|PRS na|CCP ang|DTC nawawalang|VBTR_CCP salamin|NNC !|PMS
+Ang|DTC salamin|NNC ay|LM nabalot|VBTS sa|CCT lana|NNC ,|PMC katabi|JJD ng|CCB kaniyang|PRSP_CCP panulat|NNC ,|PMC at|CCA napailaliman|VBTS ng|CCB telepono|NNC sa|CCT lamesa|NNC .|PMP
+Nahanap|VBTS ko|PRS rin|RBI ang|DTC hindi|RBF naubos|VBTS na|CCP laddoo|NNC .|PMP
+Para|CCT sa|CCT darating|NNC na|CCP kaarawan|NNC ni|DTP Lola|NNP ,|PMC mag|VBW iipon|VBTF ako|PRS ng|CCB pera|NNC pambili|JJD ng|CCB isa|PRI pa|RBI niyang|PRS_CCP salamin|NNC !|PMS
+Nani|NNP :|PMS Mula|RBL sa|CCT salitang|NNC_CCP Hindi|RBF na|CCP nangangahulugan|VBTR na|CCP "|PMS Lola|NNC "|PMS Masi|FW :|PMS Mula|RBL sa|CCT salitang|NNC_CCP hindi|RBF nanangangahulugan|VBTR na|CCP "|PMS Tita|NNC "|PMS

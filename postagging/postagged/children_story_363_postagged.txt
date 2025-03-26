@@ -1,0 +1,65 @@
+May|VBH paparating|VBTF na|CCP bagyo|NNC .|PMP
+Pinaghahandaan|VBRF ito|PRO ni|DTP Ezra|NNP at|CCA ng|CCB kaniyang|PRSP_CCP pamilya|NNC .|PMP "|PMS
+Ano|PRQ ang|DTC maari|VBS kong|PRS_CCP gawin|VBOF ?|PMQ
+tanong|NNC ni|DTP Ezra|NNP .|PMP "|PMS
+Tulungan|VBOF mo|PRS ang|DTC nanay|NNC mo.|NNCA "|PMS sabi|VBS ni|DTP Tatay|NNP .|PMP "|PMS
+Huwag|RBF na|RBI !|PMQ
+Bubuksan|VBTF ko|PRS lang|RBI naman|RBI ang|DTC kalan|NNC .|PMP
+Tulungan|VBOF mo|PRS na|RBI lang|RBI ang|DTC tatay|NNC mo.|NNCA "|PMS Sabi|VBW ni|DTP Nanay|NNP .|PMP "|PMS
+O|NNPA sige|FW ,|PMC kunin|VBOF mo|PRS ang|DTC iyong|PRSP_CCP toolbox|FW .|PMP
+Tulungan|VBOF mo|PRS ako|PRS sa|CCT pag|CCR -|PMS aayos|NNC ng|CCB kulungan|NNC ng|CCB manok|NNC .|PMP "|PMS
+sabi|VBS ni|DTP Tatay|NNP .|PMP
+Pok|NNP !|PMS
+Pok|NNP !|PMS
+Pok|NNP !|PMS
+Ang|DTC tunog|NNC ng|CCB martilyo|NNC ni|DTP Tatay|NNP .|PMP
+Pok|NNP !|PMS
+Pok|NNP !|PMS
+Pok|NNP !|PMS
+Ang|DTC tunog|NNC naman|RBI ng|CCB martilyo|NNC ni|DTP Ezra|NNP .|PMP
+Pok|NNP !|PMS
+Pok|NNP !|PMS
+Pok|NNP !|PMS
+Pok|NNP !|PMS
+Ang|DTC sabay|JJD na|CCP tunog|NNC ng|CCB mga|DTCP martilyo|NNC nina|DTPP Ezra|NNP at|CCA ng|CCB kaniyang|PRSP_CCP tatay|NNC .|PMP "|PMS
+Aguyyyy|NNP !|PMS "|PMS
+Malakas|RBD na|CCP hiyaw|NNC ni|DTP Ezra|NNP .|PMP "|PMS
+Mayroon|VBH po|RBS akong|PRS_CCP Aguy|NNP !|PMS "|PMS
+sambit|CCR ni|DTP Ezra|NNP .|PMP "|PMS
+Halika|NNP rito|PRL at|CCA ipakita|VBOF mo|PRS sa|CCT akin|PRSP ,|PMC "|PMS sabi|VBS ni|DTP Nanay|NNP .|PMP
+Tinakpan|VBOF ni|DTP Nanay|NNP ang|DTC sugat|NNC ni|DTP Ezra|NNP at|CCA binigyan|VBOF siya|PRS ng|CCB mainit|JJD na|CCP tsokolate|NNC at|CCA biskwit|NNC .|PMP
+Muling|RBW_CCP lumabas|VBAF si|DTP Ezra|NNP upang|CCB tulungan|VBTF_VBOF ang|DTC kaniyang|PRSP_CCP tatay|NNC .|PMP "|PMS
+Ilagay|VBOF natin|PRP ang|DTC mga|DTCP manok|NNC sa|CCT kanilang|PRSP_CCP kulungan|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tatay|NNP .|PMP
+Patuloy|RBD na|CCP lumalakas|VBTR_VBAF ang|DTC hangin|NNC .|PMP
+Eeeekkkk|NNP !|PMS
+Eeeekkkk|NNP !|PMS
+Langitngit|NNP na|CCP tunog|NNC sa|CCT bahay|NNC .|PMP
+Eeeekkkk|NNP !|PMS
+Eeeekkkk|NNP !|PMS
+Paglangitngit|NNP ng|CCB mga|DTCP tabla|NNC ng|CCB sahig|NNC .|PMP
+Eeeekkkk|NNP !|PMS
+Eeeekkkk|NNP !|PMS
+Shhhhhhh|NNP !!!|CDB
+Ang|DTC tunog|NNC sa|CCT mga|DTCP bintana|NNC .|PMP
+Tug|NNP .|PMP
+Tug|NNP .|PMP
+Tug|NNP .|PMP
+Paglangitngit|NNP .|PMP
+Shhhh|NNP !|PMS
+Shhhh|NNP !|PMS
+Pok|NNP !|PMS
+Pok|NNP !|PMS
+Pok|NNP !|PMS "|PMS
+Araaaaay|NNP !!!|CDB "|PMS
+Sigaw|NNC ni|DTP Tatay|NNP .|PMP "|PMS
+Naku|NNP po|RBS !|PMS "|PMS
+sigaw|NNC ni|DTP Nanay|NNP .|PMP "|PMS
+Anong|PRQ_CCP nangyayari|VBTR ?|PMQ "|PMS
+tanong|NNC ni|DTP Ezra|NNP .|PMP "|PMS
+Mayroon|VBH din|RBI akong|PRS_CCP Aguy|NNP !|PMS "|PMS
+sabi|VBS ni|DTP Tatay|NNP .|PMP
+Binuksan|VBTS ni|DTP Ezra|NNP ang|DTC kaniyang|PRSP_CCP toolbox|FW at|CCA kinuha|VBOF ang|DTC biskwit|NNC .|PMP
+Ibinigay|VBTS niya|PRS ito|PRO sa|CCT kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Eto|PRO po|RBS ,|PMC Tatay|NNC ,|PMC makatutulong|RBD po|RBS ito|PRO sa|CCT Aguy|NNP niyo|PRP ,|PMC "|PMS sabi|VBS ni|DTP Ezra|NNP .|PMP
+Parehong|JJC_CCP natawa|VBTS sina|DTPP Nanay|NNP at|CCA Tatay|NNC ,|PMC at|CCA siya|PRS ay|LM niyakap|VBTS .|PMP
+Talasalitaan|NNP :|PMS Koko|NNP -|PMS Mainiit|NNP na|CCP tsokolate|NNC Masi|NNP Popo|NNP -|PMS Biskwit|NNP ng|CCB mga|DTCP Samoan|NNC

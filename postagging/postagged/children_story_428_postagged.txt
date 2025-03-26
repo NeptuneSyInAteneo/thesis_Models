@@ -1,0 +1,65 @@
+Si|DTP Thida|NNP ay|LM lumaki|VBAF sa|CCT maliit|JJD na|CCP nayon|NNC ,|PMC malayo|JJD sa|CCT kahit|CCT na|CCP anong|PRQ_CCP lungsod|NNC .|PMP
+Bilang|CCT bata|NNC ,|PMC pinangarap|VBTR niyang|PRS_CCP maging|VBW manggagamot|NNC balang|CCT araw|NNC .|PMP
+Nang|RBW nasa|RBL tamang|JJD_CCP edad|NNC na|CCP ay|LM lumipat|VBAF siya|PRS sa|CCT lungsod|NNC upang|CCB mag|VBW -|PMS aral|NNC ng|CCB medisina|NNC .|PMP
+Pagkatapos|VBW ng|CCB ilang|PRQ_CCP taong|NNC_CCP pag|CCR -|PMS aaral|NNC ,|PMC naging|VBTS ganap|JJD na|CCP manggagamot|NNC si|DTP Thida|NNP sa|CCT isang|PRI_CCP ospital|NNC ng|CCB rehiyon|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC sinabihan|VBTS si|DTP Thida|NNP ng|CCB namamahala|VBTR ng|CCB ospital|NNC na|CCP bumalik|VBAF sa|CCT kaniyang|PRSP_CCP nayon|NNC upang|CCB tumulong|VBAF sa|CCT problemang|NNC_CCP pangkalusugan|JJD na|CCP nararanasan|VBTR doon|PRL .|PMP
+At|CCA sa|CCT kaniyang|PRSP_CCP pag|CCR -|PMS uwi|FW sa|CCT nayon|NNC ,|PMC napansin|VBTS niya|PRS ang|DTC masangsang|JJD_CCP na|CCP amoy|NNC ng|CCB basura|NNC sa|CCT ilog|NNC at|CCA ang|DTC mga|DTCP naglipanang|VBTR_CCP mga|DTCP langaw|NNC sa|CCT paligid|NNC nito|PRO .|PMP
+Pagdating|VBW niya|PRS sa|CCT nayon|NNC ,|PMC nakita|VBTS niyang|PRS_CCP maraming|PRI_CCP tao|NNC ang|DTC may|VBH sakit|NNC at|CCA halos|JJD lahat|PRI ay|LM takot|NNC .|PMP "|PMS
+Ano|PRQ kaya|CCR ang|DTC nangyayari|VBTR dito|PRL ?|PMQ "|PMS
+pagtataka|VBW ni|DTP Thida|NNP .|PMP
+Nakita|VBTS ni|DTP Thida|NNP ang|DTC kaniyang|PRSP_CCP dating|JJD_CCP kaibigan|NNC na|CCP si|DTP Sokha|NNP ,|PMC na|CCP nagtitinda|VBTR ng|CCB prutas|NNC sa|CCT nayon|NNC .|PMP "|PMS
+Maraming|PRI_CCP tao|NNC ang|DTC nakararanas|VBTR ng|CCB pagtatae|NNC ,|PMC "|PMS sabi|VBS ni|DTP Sokha|NNP .|PMP "|PMS
+May|VBH mga|DTCP ilang|PRQ_CCP nagsasabi|VBTR na|CCP ang|DTC halimaw|NNC ang|DTC dahilan|NNC –|PMS mga|DTCP halimaw|NNC na|CCP payat|JJD at|CCA kolay|NNC berde|JJD ang|DTC mukha|NNC !|PMS "|PMS
+Batid|VBS ni|DTP Thida|NNP na|CCP ang|DTC pagtatae|NNC ay|LM seryosong|JJD_CCP karamdaman|NNC ,|PMC at|CCA alam|VBS din|RBI niya|PRS na|CCP hindi|RBF ang|DTC dambuhalang|JJD_CCP sinasabi|VBTR ang|DTC siyang|PRS_CCP dahilan|NNC .|PMP "|PMS
+Salamat|RBS sa|CCT iyo|PRSP Sokha|NNP ,|PMC "|PMS sabi|VBS ni|DTP Thida|NNP .|PMP "|PMS
+Gagawin|VBTF ko|PRS ang|DTC aking|PRSP_CCP makakaya|VBW para|CCT makatulong|VBW .|PMP "|PMS "|PMS
+Mag|NNP iingat|VBTF ka|PRS !|PMS "|PMS
+paalala|NNC ni|DTP Sokha|NNP .|PMP "|PMS
+Huwag|RBF mong|PRS_CCP hayaang|VBOF_CCP makuha|VBW ka|PRS ng|CCB halimaw|NNC .|PMP "|PMS
+Batid|VBS ni|DTP Thida|NNP na|CCP maraming|PRI_CCP bagay|NNC ang|DTC pinagmumulan|VBTR_VBRF ng|CCB mga|DTCP sakit|NNC pangkalusugan|JJD tulad|JJC nito|PRO .|PMP
+Bago|RBW siya|PRS makatulong|VBW ,|PMC kailangan|VBS niya|PRS muna|RBI itong|PRO_CCP pag|CCR -|PMS aralang|NNC_CCP mabuti|JJD .|PMP
+Nagsimula|VBTS siyang|PRS_CCP magsaliksik|VBTF_VBAF tungkol|RBR sa|CCT problema|NNC .|PMP
+Pinagmasdan|VBRF ni|DTP Thida|NNP ang|DTC batang|JJD_CCP lalaki|NNC na|CCP lumabas|VBAF mula|RBL sa|CCT palikuran|NNC ,|PMC pagkatapos|VBW ay|LM kinuha|VBOF ang|DTC isang|PRI_CCP pirasong|NNC_CCP tinapay|NNC .|PMP "|PMS
+Tigilllllll|NNP !|PMS "|PMS
+sambit|CCR ni|DTP Thida|NNP .|PMP "|PMS
+Huwag|RBF mong|PRS_CCP kainin|VBOF '|PMS yan|PRO !|PMQ
+Kailangan|VBS mo|PRS munang|RBW_CCP hugasan|VBOF ang|DTC iyong|PRSP_CCP mga|DTCP kamay|NNC .|PMP "|PMS "|PMS
+Bakit|PRQ ko|PRS kailangang|VBS_CCP hugasan|VBOF ang|DTC aking|PRSP_CCP mga|DTCP kamay|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB bata|NNC .|PMP "|PMS
+Kailangang|VBS_CCP malinisan|VBW at|CCA matanggal|VBW ang|DTC mga|DTCP bakteryang|JJD_CCP galing|NNC sa|CCT palikuran|NNC na|CCP nagdudulotng|VBTR sakit|NNC ,|PMC "|PMS tugon|NNC ni|DTP Thida|NNP .|PMP
+Pumayag|VBAF naman|RBI ang|DTC bata|NNC na|CCP hugasan|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC ,|PMC at|CCA pinagpatuloy|VBRF ni|DTP Thida|NNP ang|DTC kaniyang|PRSP_CCP pagsasaliksik|NNC .|PMP
+Pinagmasdan|VBRF naman|RBI ni|DTP Thida|NNP ang|DTC isang|PRI_CCP babae|NNC na|CCP isinasawsaw|VBTR ang|DTC mga|DTCP kamay|NNC sa|CCT timba|JJD na|CCP puno|NNC ng|CCB tubig|NNC -|PMS ulan|NNC .|PMP
+Inilapat|VBOL niya|PRS ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC palapit|JJD sa|CCT bibig|NNC niya|PRS upang|CCB makainom|VBW .|PMP "|PMS
+Tigilllllllllll|NNP !|PMS "|PMS
+sambit|CCR ni|DTP Thida|NNP .|PMP "|PMS
+Huwag|RBF mong|PRS_CCP inumin|VBOF ang|DTC tubig|NNC na|CCP iyan|PRO !|PMQ "|PMS "|PMS
+B|NNP -|PMS bakit|PRQ hindi|RBF ?|PMQ "|PMS
+ang|DTC tanong|NNC ng|CCB babae|NNC .|PMP "|PMS
+Ang|DTC tubig|NNC -|PMS ulan|NNC ay|LM madalas|RBD na|CCP naglalaman|VBTR ng|CCB maliliit|JJD na|CCP nilalang|NNC na|CCP kung|CCR tawagin|VBOF ayparasito|NNC ,|PMC "|PMS ani|NNC Thida|NNC .|PMP "|PMS
+Maaari|VBS kang|PRS_CCP magkasakit|VBW dahil|CCR sa|CCT mga|DTCP parasito|NNC .|PMP
+Kailangan|VBS na|CCP laging|RBD_CCP pakuluan|VBOF ang|DTC tubig|NNC na|CCP hindi|RBF pa|RBI dumaan|VBAF sa|CCT proseso|NNC bago|RBW ito|PRO inumin|VBOF .|PMP
+Ito|PRO ang|DTC papatay|VBTF sa|CCT mga|DTCP parasito|NNC upang|CCB hindi|RBF ka|PRS magkakaroon|VBTF ng|CCB sakit|NNC .|PMP
+Ang|DTC babae|NNC ay|LM sumang|VBAF -|PMS ayon|RBR na|CCP pakuluan|VBOF ang|DTC tubig|NNC bago|RBW ito|PRO inumin|VBOF .|PMP
+Si|DTP Thida|NNP ay|LM nagpatuloy|VBTS pa|RBI rin|RBI sa|CCT pag|CCR -|PMS iimbestiga|VBTF .|PMP
+Minasdan|NNP ni|DTP Thida|NNP ang|DTC lalaking|NNC_CCP nagtapon|VBTS ng|CCB mga|DTCP plastik|JJD na|CCP bote|NNC sa|CCT ilog|NNC ng|CCB nayon|NNC .|PMP
+Isa|PRI ito|PRO sa|CCT mga|DTCP piraso|NNC ng|CCB basura|NNC na|CCP lumulutang|VBTR_VBAF sa|CCT ilog|NNC .|PMP
+Sapat|JJD na|CCP ang|DTC nakita|VBTS ni|DTP Thida|NNP .|PMP
+Alam|VBS na|RBI niya|PRS kung|RBK paano|RBQ makatutulong|RBD sa|CCT problemang|NNC_CCP pangkalusugan|JJD ng|CCB rayon|NNC .|PMP
+Alam|VBS niya|PRS na|CCP hindi|RBF ang|DTC payat|JJD na|CCP halimaw|NNC na|CCP may|VBH berdeng|JJD_CCP mukha|NNC ang|DTC dahilan|NNC .|PMP
+Nakipagkita|VBTS si|DTP Thida|NNP sa|CCT pinuno|NNC ng|CCB nayon|NNC sa|CCT dambana|NNC ng|CCB mga|DTCP espiritung|NNC_CCP tagapag|NNC -|PMS alaga|NNC .|PMP "|PMS
+Kaya|CCR nating|PRP_CCP bigyan|VBOF ng|CCB lunas|NNC ang|DTC problemang|NNC_CCP pangkalusugan|JJD dito|PRL ,|PMC "|PMS sinabi|VBTS niya|PRS sa|CCT pinuno|NNC .|PMP "|PMS
+Pero|CCT bago|RBW ang|DTC lahat|PRI kailangang|VBS_CCP maintindihan|VBW muna|RBI natin|PRP ang|DTC nagiging|VBTR sanhi|NNC nito|PRO .|PMP
+Ang|DTC mga|DTCP bakterya|NNC at|CCA parasito|NNC ay|LM mga|DTCP maliliit|JJD na|CCP organismo|NNC na|CCP siyang|PRS_CCP nagbibigay|VBTR sakit|NNC sa|CCT mga|DTCP tao|NNC .|PMP
+Sila|PRP ang|DTC dapat|VBS sisihin|VBOF at|CCA hindi|RBF ang|DTC mga|DTCP halimaw|NNC .|PMP
+Kayanating|NNP labanan|NNC ang|DTC mga|DTCP bakterya|NNC at|CCA parasito|NNC sa|CCT pamamagitan|NNC ng|CCB pagbabago|NNC ng|CCB ating|PRSP_CCP ugaling|NNC_CCP -|PMS pangkalusugan|JJD .|PMP "|PMS
+Matalino|JJD ang|DTC pinuno|NNC ng|CCB nayon|NNC .|PMP
+Pinulong|VBOF niya|PRS ang|DTC mga|DTCP taga|JJD -|PMS nayon|NNC upang|CCB mas|JJCC lalong|JJCC_CCP matuto|VBW .|PMP
+Tinuruan|VBTS sila|PRP ni|DTP Thida|NNP na|CCP ang|DTC mga|DTCP bakterya|NNC at|CCA parasito|NNC ay|LM gustong|VBS_CCP -|PMS gusto|VBS ang|DTC maruruming|JJD_CCP lugar|NNC gaya|JJC ng|CCB palikuran|NNC ,|PMC timbang|NNC may|VBH tubig|NNC -|PMS ulan|NNC ,|PMC at|CCA lawa|NNC na|CCP puno|NNC ng|CCB basura|NNC .|PMP
+Nakinig|RBD mabuti|JJD ang|DTC mga|DTCP taga|JJD -|PMS nayon|NNC .|PMP
+Natutuhan|VBTS nilang|PRP_CCP may|VBH ngiti|NNC sa|CCT kanilang|PRSP_CCP mga|DTCP labi|NNC ang|DTC mga|DTCP maliliit|JJD at|CCA simpleng|JJD_CCP pagbabago|NNC na|CCP makatutulong|RBD sa|CCT kanilang|PRSP_CCP nayon|NNC upang|CCB maging|VBW malusog|JJD muli|RBW .|PMP
+Mula|RBW sa|CCT araw|NNC na|CCP iyon|PRO ,|PMC palagi|RBW na|CCP silang|PRP_CCP naghuhugas|VBTR ng|CCB kamay|NNC pagkatapos|VBW gumamit|VBAF ng|CCB palikuran|NNC .|PMP
+Madalas|RBD na|CCP silang|PRP_CCP nagpapakulo|VBTR ng|CCB tubig|NNC na|CCP hindi|RBF dumaan|VBAF sa|CCT proseso|NNC bago|RBW ito|PRO inumin|VBOF .|PMP
+At|CCA tinanggal|VBOF na|CCP rin|RBI nila|PRP ang|DTC mga|DTCP nagkalat|VBTS na|CCP basura|NNC sa|CCT kanilang|PRSP_CCP lawa|NNC .|PMP
+Natigil|VBTS na|RBI din|RBI ang|DTC mga|DTCP tao|NNC sa|CCT pagkalat|VBW ng|CCB kwento|NNC tungkol|RBR sa|CCT payat|JJD na|CCP halimaw|NNC na|CCP may|VBH berdeng|JJD_CCP mukha|NNC .|PMP
+Sa|CCT ngayon|RBW ,|PMC ibinabahagi|VBTR nila|PRP ang|DTC kwento|NNC tungkol|RBR kay|DTP Thida|NNP ,|PMC ang|DTC manggagamot|NNC na|CCP tumulong|VBAF upang|CCB maging|VBW malusog|JJD muli|RBW ang|DTC tao|NNC sa|CCT nayon|NNC .|PMP
+Ngayon|RBW ,|PMC kung|CCR may|VBH makita|VBW man|RBI ang|DTC mga|DTCP bata|NNC na|CCP nagtatapon|VBTR ng|CCB basura|NNC sa|CCT lupa|NNC ,|PMC sinisigaw|VBTR nila|PRP ,|PMC "|PMS sabi|VBS ni|DTP Doktor|NNP Thida|NNP na|CCP itapon|VBTF ang|DTC basura|NNC sa|CCT tamang|JJD_CCP lagayan|NNC !|PMS "|PMS

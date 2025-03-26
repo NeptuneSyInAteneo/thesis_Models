@@ -1,0 +1,32 @@
+Hindi|RBF ako|PRS papasok|VBTF sa|CCT paaralan|NNC ngayon|RBW .|PMP
+Dahil|CCR ngayon|RBW ay|LM bakasyon|NNC !|PMS
+Hindi|RBF ako|PRS manoood|VBW ng|CCB TV|NNPA ngayong|RBW_CCP araw|NNC .|PMP
+Wala|VBN rin|RBI namang|RBI_CCP kuryente|NNC .|PMP
+Ano|PRQ kaya|CCR ang|DTC gagawin|VBTF ko|PRS ?|PMQ
+Ngayong|RBW_CCP araw|NNC ay|LM makikinig|VBTF ako|PRS sa|CCT aking|PRSP_CCP katawan|NNC !|PMS
+Una|CDB ,|PMC kailangan|VBS kong|PRS_CCP manahimik|VBW .|PMP
+Tahimik|RBD na|CCP tahimik|JJD ,|PMC upang|CCB mapakinggan|VBW ko|PRS nang|RBW maayos|JJD ang|DTC tunog|NNC ng|CCB aking|PRSP_CCP katawan|NNC .|PMP
+Oo|RBT ,|PMC ngayon|RBW ay|LM naririnig|VBTR ko|PRS ang|DTC aking|PRSP_CCP paghinga|NNC .|PMP
+Hinga|NNP paloob|RBL ...|PMS hinga|NNC palabas|NNC ...|PMS hinga|FW paloob|RBL ...|PMS hinga|NNC palabas|NNC ...|PMS At|CCA kaya|CCR kong|PRS_CCP gawing|VBOF_CCP maingay|JJD ang|DTC aking|PRSP_CCP paghinga|NNC . . .|NNPA Ssssssssssssss|NNP !|PMS
+At|CCA mahina|JJD . . .|NNPA Mmmmmmm|NNP .|PMP
+At|CCA ngayon|RBW naririnig|VBTR ko|PRS ang|DTC tibok|NNC ng|CCB aking|PRSP_CCP puso|NNC !|PMS
+Dugug|NNP !|PMS
+Dugug|NNP !|PMS
+Dugug|NNP !|PMS .|PMP
+Kaya|CCR ko|PRS bang|RBI_CCP gawing|VBOF_CCP mas|JJCC mabilis|JJD at|CCA maingay|JJD ang|DTC aking|PRSP_CCP puso|NNC ?|PMQ
+Oo|RBT ,|PMC sa|CCT pamamagitan|NNC ng|CCB pagtalon|NNC pataas|JJD at|CCA pababa|JJD ng|CCB dalawampung|JJN_CCP beses|NNC .|PMP
+At|CCA mabilis|JJD na|CCP ang|DTC tibok|NNC ng|CCB aking|PRSP_CCP puso|NNC .|PMP
+Dugudug|NNP dugudug|FW dugudug|FW !|PMS
+At|CCA kapag|CCR nilagay|VBOF ko|PRS ang|DTC aking|PRSP_CCP daliri|NNC sa|CCT aking|PRSP_CCP pulso|NNC ,|PMC maririnig|VBTF ko|PRS na|CCP ang|DTC aking|PRSP_CCP pulso|NNC !|PMS
+At|CCA naririnig|VBTR ko|PRS ang|DTC aking|PRSP_CCP sarili|NNC na|CCP tumatawa|VBTR_VBAF Haha|NNP haha|FW haaah|FW haaa|FW !|PMS
+At|CCA ang|DTC aking|PRSP_CCP iyak|NNC .|PMP
+Huhuhu|NNP !|PMS
+Huhuhu|NNP !|PMS
+Huhuhu|NNP !|PMS
+At|CCA pumapalakpak|VBTR_VBAF Tap|FW tappa|FW tap|FW tapaa|FW .|PMP
+At|CCA higit|JJCC sa|CCT lahat|PRI -|PMS Naririnig|VBTR ko|PRS ang|DTC aking|PRSP_CCP tiyan|NNC na|CCP tumutunog|VBTR_VBAF Guddu|NNP guddu|FW guddu|FW ...|PMS At|CCA sinasabing|VBTR_CCP ,|PMC pakainin|VBOF mo|PRS ako|PRS ,|PMC pakainin|VBOF mo|PRS ako|PRS .|PMP
+At|CCA nalalanghap|VBTR ng|CCB aking|PRSP_CCP ilong|NNC ang|DTC mga|DTCP masarap|JJD na|CCP tinapay|NNC sa|CCT kusina|NNC ng|CCB aking|PRSP_CCP ina|NNC .|PMP
+Nakaaaliw|RBD pakinggan|VBOF ang|DTC aking|PRSP_CCP katawan|NNC .|PMP
+At|CCA ngayon|RBW ay|LM gusto|VBS ko|PRS namang|RBI_CCP marinig|VBW ang|DTC pagnguya|NNC ng|CCB aking|PRSP_CCP panga|NNC .|PMP
+At|CCA ang|DTC aking|PRSP_CCP tiyan|NNC ay|LM natitikman|VBTR ang|DTC kahanga|NNC -|PMS hangang|RBW mainit|JJD na|CCP tinapay|NNC ni|DTP nanay|NNC .|PMP
+Pagtugmain|NNP ang|DTC mga|DTCP tunog|NNC sa|CCT mga|DTCP bahagi|NNC ng|CCB katawan|NNC :|PMS Mga|DTCP kamay|NNC Sipol|NNP Mga|DTCP labi|NNC Palakpak|NNP -|PMS palapak|NNC Paa|NNC Padyak|NNP -|PMS padyakSigner|NNP :|PMS Hira|NNP Maharjan|NNP .|PMP

@@ -1,0 +1,125 @@
+Siya|PRS si|DTP Jadav|NNP .|PMP
+Mahilig|RBD siyang|PRS_CCP magtanim|VBW ng|CCB mga|DTCP puno|NNC .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS niya|PRS ang|DTC mga|DTCP kakahuyan|NNC .|PMP
+Ang|DTC mga|DTCP lugar|NNC na|CCP walang|VBN_CCP puno|NNC ay|LM nagpapalungkot|VBTR sa|CCT kaniya|PRSP .|PMP
+Para|CCT kay|DTP Jadav|NNP ,|PMC ito|PRO ay|LM walang|VBN_CCP buhay|NNC .|PMP
+Noon|RBW ,|PMC habang|RBW naglalakad|VBTR si|DTP Jadav|NNP sa|CCT pampang|NNC ng|CCB Ilog|NNP Brahmaputra|NNP sa|CCT India|NNP ,|PMC napadpad|VBTS siya|PRS sa|CCT isang|PRI_CCP malawak|JJD na|CCP lugar|NNC na|CCP walang|VBN_CCP mga|DTCP puno|NNC .|PMP
+Tuyo|NNP at|CCA mainit|JJD ang|DTC paligid|NNC .|PMP
+Mukhang|RBM pulbos|JJD ang|DTC buhangin|NNC .|PMP
+May|VBH mga|DTCP guhit|NNC sa|CCT buhanginan|NNC .|PMP
+Lumapit|VBAF si|DTP Jadav|NNP para|CCT tingnan|VBOF ito|PRO nang|RBD mabuti|RBD .|PMP
+Naku|NNP !|PMS
+Hindi|RBF sila|PRP mga|DTCP karaniwan|JJD guhit|NNC !|PMS
+Ang|DTC lupa|NNC ay|LM puno|JJD ng|CCB mga|DTCP ahas|NNC !|PMS
+Malamang|RBI naanod|VBTS sila|PRP sa|CCT pampang|NNC dahil|CCR sa|CCT baha|NNC kagabi|RBW ,|PMC naisip|VBTS ni|DTP Jadav|NNP .|PMP
+Ngunit|CCT hindi|RBF tulad|JJC sa|CCT malulusog|JJD at|CCA maliliksing|JJD_CCP ahas|NNC ,|PMC ang|DTC mga|DTCP ito|PRO ay|LM hindi|RBF kumikilos|VBTR_VBAF .|PMP
+Ang|DTC kanilang|PRSP_CCP mga|DTCP balat|NNC ay|LM hindi|RBF kumikinang|VBTR_VBAF .|PMP
+Nang|RBW lumakad|VBAF si|DTP Jadav|NNP sa|CCT gitna|JJD ng|CCB mga|DTCP ito|PRO ,|PMC hindi|RBF sila|PRP gumagapang|RBD_CCP palayo|RBD o|CCT nanuklaw|VBTR .|PMP
+Nakahiga|VBTS lang|RBI sila|PRP na|CCP parang|CCT mga|DTCP lumang|JJD_CCP lubid|NNC ,|PMC pagod|NNC at|CCA tahimik|JJD .|PMP "|PMS
+Kawawang|NNP_CCP mga|DTCP ahas|NNC !|PMS
+Namamatay|VBTR sila|PRP sa|CCT init|NNC !|PMS
+Kung|CCR sana|VBS ay|LM may|VBH lilim|NNC silang|PRP_CCP masisilungan|VBW !|PMQ
+Kung|CCR sana|VBS ang|DTC lugar|NNC na|CCP ito|PRO ay|LM maraming|PRI_CCP puno|NNC .|PMP "|PMS
+Hindi|RBF nakayanan|RBD ni|DTP Jadav|NNP na|CCP panoorin|VBOF ang|DTC paghihingalo|NNC ng|CCB mga|DTCP ahas|NNC .|PMP
+Napaupo|VBTS siya|PRS at|CCA napaiyak|VBTS .|PMP "|PMS
+Hindi|RBF sapat|JJD ang|DTC pag|CCR -|PMS iyak|NNC lang|RBI !|PMQ
+Kailangan|VBS kong|PRS_CCP kumilos|VBAF !|PMS "|PMS
+sabi|VBS ni|DTP Jadav|NNP .|PMP
+Bumalik|VBAF siya|PRS sa|CCT kanilang|PRSP_CCP baryo|NNC .|PMP
+Nagsimula|VBTS siyang|PRS_CCP kolektahin|VBOF ang|DTC lahat|PRI ng|CCB mga|DTCP tangkay|NNC ng|CCB kawayan|NNC na|CCP kasya|NNC sa|CCT kaniyang|PRSP_CCP bag|FW .|PMP "|PMS
+Ang|DTC mga|DTCP pangkaraniwang|JJD_CCP halaman|NNC ay|LM hindi|RBF tutubo|VBTF sa|CCT mainit|JJD na|CCP buhangin|NNC .|PMP
+Ang|DTC kawayanay|NNC tutubo|VBTF .|PMP
+Matibay|JJD ang|DTC kawayan|NNC !|PMS "|PMS
+Dinala|VBOF ni|DTP Jadav|NNP ang|DTC mga|DTCP halaman|NNC at|CCA nagtanim|VBTS .|PMP
+Tumagal|VBAF ito|PRO ng|CCB maraming|PRI_CCP taon|NNC .|PMP
+Tuwing|RBW tag|FW -|PMS araw|NNC ay|LM nagiging|VBTR mababaw|JJD ang|DTC tubig|NNC ng|CCB ilog|NNC .|PMP
+Kung|CCR tag|FW -|PMS ulan|NNC naman|RBI ay|LM bumabaha|VBTR_VBAF .|PMP
+Kung|CCR minsan|RBW ,|PMC nagdadala|VBTR ng|CCB mas|JJCC maraming|JJD_CCP buhangin|NNC at|CCA kung|CCR minsan|RBW naman|RBI ay|LM inaanod|VBTR ang|DTC mga|DTCP ito|PRO .|PMP
+Dumarating|VBTR at|CCA umaalis|VBTR_VBAF ang|DTC malakas|JJD na|CCP ulan|NNC .|PMP
+Ngunit|CCT nagpatuloy|VBTS pa|RBI rin|RBI si|DTP Jadav|NNP sa|CCT pagtatanim|NNC .|PMP
+Sa|CCT paglipas|NNC ng|CCB panahon|NNC ,|PMC tumubo|VBAF at|CCA yumabong|VBAF ang|DTC mga|DTCP ugat|NNC ng|CCB kawayan|NNC .|PMP
+Dahil|CCR sa|CCT lilim|NNC na|CCP ibinibigay|VBTR ng|CCB mga|DTCP kawayan|NNC ,|PMC sumilong|VBAF dito|PRL ang|DTC mga|DTCP insekto|NNC .|PMP
+Ang|DTC dating|JJD_CCP tuyong|JJD_CCP lupa|NNC ay|LM naging|VBTS kulay|NNC kayumanggi|JJD at|CCA mataba|JJD .|PMP
+Ang|DTC dating|JJD_CCP patay|JJD na|CCP buhanginan|NNC ay|LM naging|VBTS masaganang|JJD_CCP lupain|NNC .|PMP
+Tumingin|VBAF siya|PRS sa|CCT kaniyang|PRSP_CCP kawayanan|NNC at|CCA napaisip|VBTS ,|PMC "|PMS Ang|DTC lugar|NNC na|CCP may|VBH mga|DTCP puno|NNC ay|LM maganda|JJD .|PMP
+Ngunit|CCT mas|JJCC maganda|JJD kung|CCR ito|PRO ay|LM magkakaroon|VBTF ng|CCB mga|DTCP puno|NNC !|PMS "|PMS
+Nasabik|VBTS si|DTP Jadav|NNP sa|CCT kaniyang|PRSP_CCP naisip|VBTS .|PMP
+Nagsimulang|VBTS_CCP mangolekta|VBW ng|CCB samu|FW '|PMS t|NNCA saring|JJD_CCP buto|NNC at|CCA tangkay|NNC .|PMP
+Ang|DTC kaniyang|PRSP_CCP tatlong|JJN_CCP malalaking|JJD_CCP sako|NNC ay|LM pinuno|NNC niya|PRS ng|CCB mga|DTCP buto|NNC at|CCA tangkay|NNC ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP klaseng|NNC_CCP mga|DTCP halaman|NNC at|CCA puno|NNC .|PMP "|PMS
+Ngayong|RBW_CCP nagkukulay|VBTS kayumanggi|JJD na|CCP ang|DTC matabang|JJD_CCP lupa|NNC ay|LM maaari|VBS ko|PRS nang|RBW itanim|VBOF ang|DTC lahat|PRI ng|CCB ito|PRO !|PMS "|PMS
+Ang|DTC kulay|NNC kahel|JJD at|CCA asul|JJD na|CCP kalangitan|NNC ay|LM naging|VBTS lila|NNC at|CCA rosas|NNC .|PMP
+Ang|DTC mga|DTCP baryo|NNC ay|LM naging|VBTS mga|DTCP bayan|NNC .|PMP
+Ang|DTC hangin|NNC ay|LM naging|VBTS maalikabok|JJD at|CCA ang|DTC ilog|NNC ay|LM naging|VBTS kulay|NNC -|PMS abo|NNC .|PMP
+Ngunit|CCT ang|DTC mga|DTCP kaibigang|NNC_CCP insekto|NNC ni|DTP Jadav|NNP ay|LM patuloy|RBD na|CCP tumulong|VBAF sa|CCT pagbubungkal|NNC ng|CCB lupa|NNC .|PMP
+Ang|DTC kaniyang|PRSP_CCP matataas|JJD na|CCP kawayan|NNC ay|LM nagbigay|VBTS sa|CCT kaniya|PRSP ng|CCB lilim|NNC at|CCA nagpalamig|VBTS ng|CCB hangin|NNC .|PMP
+Nagpatuloy|VBTS pa|RBI rin|RBI sa|CCT pagtatanim|NNC si|DTP Jadav|NNP .|PMP
+Kinalaunan|RBW ,|PMC ang|DTC iba|PRI '|PMS t|NNCA ibang|PRI_CCP puno|NNC at|CCA halaman|NNC na|CCP kaniyang|PRSP_CCP itinanim|VBTS ay|LM nagugat|VBTS at|CCA tumubo|VBAF .|PMP
+Habang|RBW lumalaki|VBTR_VBAF ang|DTC mga|DTCP puno|NNC ay|LM nagsabog|VBTS sila|PRP ng|CCB mga|DTCP bagong|JJD_CCP buto|NNC .|PMP
+Ang|DTC mga|DTCP bagong|JJD_CCP buto|NNC naman|RBI ay|LM nagkaugat|VBTS .|PMP
+Ang|DTC mga|DTCP punla|NNC ay|LM naging|VBTS puno|JJD .|PMP
+Ang|DTC mga|DTCP puno|NNC ay|LM nagkaroon|VBTS ng|CCB mga|DTCP sanga|NNC .|PMP
+Ang|DTC mga|DTCP sanga|NNC ay|LM tumingala|VBAF sa|CCT langit|NNC .|PMP
+Ang|DTC lugar|NNC ng|CCB mumunting|JJD_CCP puno|NNC na|CCP dati|JJD ay|LM disyerto|JJD ,|PMC ngayon|RBW ay|LM naging|VBTS isang|PRI_CCP luntiang|JJD_CCP kakahuyan|NNC .|PMP
+Ngunit|CCT paano|PRQ ang|DTC kakahuyan|NNC kung|CCR walang|VBN_CCP namumuhay|VBTR na|CCP mga|DTCP nilalang|NNC ?|PMQ
+Siguradong|RBT_CCP sa|CCT pagdating|VBW ng|CCB isa|PRI ,|PMC marami|PRI pa|RBI ang|DTC susunod|VBTF .|PMP
+Unang|JJN_CCP dumating|VBAF ang|DTC mga|DTCP ibon|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM doon|PRL namumugad|VBTR at|CCA nangingitlog|VBTR .|PMP
+May|VBH mga|DTCP buwitre|NNC ,|PMC tagak|NNC at|CCA itik|NNC .|PMP
+May|VBH mga|DTCP pipit|NNC ,|PMC may|VBH mahabang|JJD_CCP buntot|NNC ,|PMC at|CCA may|VBH mga|DTCP maiingay|JJD na|CCP ibon|NNC .|PMP
+Dumating|VBAF din|RBI ang|DTC mga|DTCP malalaking|JJD_CCP hayop|NNC .|PMP
+May|VBH mga|DTCP patalon|NNC -|PMS talon|NNC at|CCA lumalambitin|VBTR_VBAF ,|PMC may|VBH naglalakad|VBTR nang|RBD mabilis|RBD at|CCA mabagal|JJD .|PMP
+Ang|DTC lahat|PRI ay|LM gumawa|VBAF ng|CCB sarili|NNC nilang|PRP_CCP tahanan|NNC .|PMP
+May|VBH mga|DTCP kalabaw|NNC at|CCA usa|NNC ,|PMC may|VBH mga|DTCP kuneho|NNC at|CCA unggoy|NNC .|PMP
+May|VBH mga|DTCP elepante|NNC ,|PMC tigre|NNC at|CCA rhino|NNC .|PMP
+Huling|RBW_CCP dumating|VBAF ang|DTC mga|DTCP ahas|NNC .|PMP
+Sila|PRP ay|LM pasayawsayaw|JJD at|CCA umiindayog|VBTR habang|RBW gumagapang|VBTR_VBAF papunta|VBW sa|CCT lilim|NNC ng|CCB mga|DTCP puno|NNC .|PMP
+Nang|RBW makita|VBW ni|DTP Jadav|NNP ang|DTC mga|DTCP ahas|NNC ay|LM napaupo|VBTS siya|PRS at|CCA napaiyak|VBTS sa|CCT galak|NNC .|PMP
+Napakasaya|JJCS_JJD na|CCP hindi|RBF man|RBI lang|RBI siya|PRS nag|NNCA -|PMS atubili|NNC na|CCP baka|RBM tuklawin|VBOF siya|PRS ng|CCB mga|DTCP ahas|NNC .|PMP
+Ang|DTC mga|DTCP punong|JJD_CCP -|PMS kahoy|NNC ni|DTP Jadav|NNP ay|LM tinirahan|VBTS ng|CCB mga|DTCP hayop|NNC na|CCP may|VBH mga|DTCP balahibo|NNC ,|PMC mga|DTCP tuka|NNC ,|PMC mga|DTCP pakpak|NNC ,|PMC mga|DTCP kuko|NNC ,|PMC mga|DTCP buntot|NNC ,|PMC at|CCA mga|DTCP pangil|NNC .|PMP
+Ang|DTC kakahuyan|NNC ay|LM naging|VBTS isa|PRI nang|RBW kagubatan|NNC .|PMP
+Pagkatapos|VBW ay|LM muling|RBW_CCP napaisip|VBTS si|DTP Jadav|NNP .|PMP "|PMS
+Maganda|JJD ang|DTC maraming|PRI_CCP puno|NNC sa|CCT isang|PRI_CCP lugar|NNC ,|PMC alam|VBS ko|PRS .|PMP
+Ngunit|CCT napakaganda|JJCS_JJD kung|CCR maraming|PRI_CCP puno|NNC sa|CCT maraming|PRI_CCP lugar|NNC !|PMS "|PMS
+Kinuha|VBOF niya|PRS ang|DTC kaniyang|PRSP_CCP sisidlan|NNC ng|CCB mga|DTCP buto|NNC at|CCA naglakbay|VBTS sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Habang|RBW naglalakad|VBTR si|DTP Jadav|NNP ,|PMC nagtatanim|VBTR siya|PRS ng|CCB mga|DTCP buto|NNC bawat|PRI lugar|NNC na|CCP nadadaanan|VBTR niya|PRS .|PMP
+Siya|PRS ay|LM nagtanim|VBTS ng|CCB maraming|PRI_CCP puno|NNC at|CCA halaman|NNC .|PMP
+Ngunit|CCT mas|JJCC malaking|JJD_CCP bahagi|NNC ng|CCB mundo|NNC ang|DTC walang|VBN_CCP puno|NNC .|PMP
+Napakalungkot|VBTR nito|PRO ,|PMC ngunit|CCT si|DTP Jadav|NNP ay|LM hindi|RBF na|RBI muling|RBW_CCP umupo|VBAF at|CCA umiyak|VBAF sa|CCT pagkakataong|NNC_CCP ito|PRO .|PMP
+Patuloy|RBD na|CCP nagtatanim|VBTR si|DTP Jadav|NNP .|PMP
+Ang|DTC tubig|NNC sa|CCT karagatan|NNC ay|LM nagsimula|VBTS nang|RBW tumaas|VBAF .|PMP
+Naging|VBTS mas|JJCC mainit|JJD ang|DTC hangin|NNC .|PMP
+Ang|DTC mga|DTCP baryo|NNC ay|LM naging|VBTS mga|DTCP lungsod|NNC .|PMP
+Si|DTP Jadav|NNP ay|LM tumatanda|VBTR_VBAF na|RBI .|PMP
+Ngunit|CCT patuloy|RBD siya|PRS sa|CCT pagtatanim|NNC .|PMP
+Si|DTP Jadav|NNP ay|LM magpapatuloy|VBTR_VBAF sa|CCT pagtatanim|NNC hanggang|RBW ang|DTC buong|PRI_CCP mundo|NNC ay|LM maging|VBW isang|PRI_CCP masaya|JJD at|CCA kaaya|JJD -|PMS ayang|NNC_CCP kagubatan|NNC .|PMP
+Patuloy|RBD na|CCP nagtatanim|VBTR si|DTP Jadav|NNP .|PMP
+Ang|DTC tubig|NNC sa|CCT karagatan|NNC ay|LM nagsimula|VBTS nang|RBW tumaas|VBAF .|PMP
+Naging|VBTS mas|JJCC mainit|JJD ang|DTC hangin|NNC .|PMP
+Ang|DTC mga|DTCP baryo|NNC ay|LM naging|VBTS mga|DTCP lungsod|NNC .|PMP
+Si|DTP Jadav|NNP ay|LM tumatanda|VBTR_VBAF na|RBI .|PMP
+Ngunit|CCT patuloy|RBD siya|PRS sa|CCT pagtatanim|NNC .|PMP
+Si|DTP Jadav|NNP ay|LM magpapatuloy|VBTR_VBAF sa|CCT pagtatanim|NNC hanggang|RBW ang|DTC buong|PRI_CCP mundo|NNC ay|LM maging|VBW isang|PRI_CCP masaya|JJD at|CCA kaaya|JJD -|PMS ayang|NNC_CCP kagubatan|NNC .|PMP
+Si|DTP Jadav|NNP ,|PMC na|CCP sa|CCT tunay|JJD na|CCP buhay|NNC ay|LM si|DTP Jadav|NNP '|PMS Mulai|NNP '|PMS Payeng|NNP .|PMP
+Isa|PRI siyang|PRS_CCP conservationist|FW at|CCA naparalangan|VBTS ng|CCB Padmashree|NNP ,|PMC isa|PRI sa|CCT pinakamataas|JJCS_JJD na|CCP parangal|NNC na|CCP iginagawad|VBTR ng|CCB gobyerno|NNC ng|CCB India|NNP sa|CCT isang|PRI_CCP mamamayan|NNC .|PMP
+Nakatira|VBTS si|DTP Jadav|NNP sa|CCT Majuli|NNP ,|PMC Assam|NNP .|PMP
+Sa|CCT edad|NNC na|CCP ,|PMC nasaksihan|VBTS ni|DTP Jadav|NNP ang|DTC karumal|NNC -|PMS dumal|FW na|CCP kalagayan|NNC ng|CCB mga|DTCP namamatay|VBTR na|CCP ahas|NNC sa|CCT sandbar|NNC sa|CCT pampang|NNC ng|CCB ilog|NNC Brahmaputra|NNP .|PMP
+Mula|RBW doon|PRL ay|LM nagpasya|VBTS siyang|PRS_CCP magtanim|VBW ngmga|VBOF puno|JJD sa|CCT lugar|NNC .|PMP
+Nagsimula|VBTS siya|PRS sa|CCT maliit|JJD na|CCP puno|NNC at|CCA kawayan|NNC .|PMP
+Hanggang|RBW ang|DTC mga|DTCP lugar|NNC na|CCP ito|PRO ay|LM naging|VBTS kagubatan|NNC sa|CCT pamamagitan|NNC ng|CCB ibayong|JJD_CCP pag|CCR -|PMS iingat|JJD at|CCA pag|CCR -|PMS aalaga|NNC sa|CCT kaniyang|PRSP_CCP mga|DTCP itinanim|VBTS .|PMP
+Nagsimula|VBTS ito|PRO noong|RBW_CCP taong|NNC_CCP .|PMP
+Matapos|VBW ang|DTC mahigit|JJCC tatlong|JJN_CCP dekada|NNC ay|LM nabago|VBTS ni|DTP Jadav|NNP at|CCA ng|CCB kaniyang|PRSP_CCP mga|DTCP kahoy|NNC ang|DTC mabuhanging|JJD_CCP lupa|NNC .|PMP
+Ang|DTC 559ektaryang|NNC_CCP sandbar|JJD noon|RBW ay|LM isa|PRI na|CCP ngayong|RBW_CCP mayabong|JJD na|CCP kagubatan|NNC na|CCP tahanan|NNC ng|CCB samu|FW '|PMS t|NNCA saring|FW flora|FW at|CCA fauna|FW ;|PMSC kasama|CCB na|CCP rito|PRL ang|DTC mga|DTCP elepante|NNC ,|PMC tigre|NNC ,|PMC unggoy|NNC ,|PMC usa|NNC ,|PMC at|CCA maraming|PRI_CCP uri|NNC ng|CCB mga|DTCP lokal|JJD at|CCA migratory|FW na|CCP mga|DTCP ibon|NNC .|PMP
+Si|DTP Jadav|NNP ay|LM patuloy|RBD pa|RBI rin|RBI sa|CCT pagbisita|NNC at|CCA pag|CCR -|PMS aalaga|NNC sa|CCT kaniyang|PRSP_CCP kagubatan|NNC araw|NNC -|PMS araw|NNC .|PMP
+Patuloy|RBD ang|DTC pagtatanim|NNC ng|CCB mga|DTCP puno|NNC sa|CCT tuwing|RBW may|VBH nakikita|VBTR pa|RBI itong|PRO_CCP mga|DTCP nakakalbong|JJD_CCP bahagi|NNC .|PMP
+Isama|VBOF ang|DTC Mangga|VBW sa|CCT Iyong|PRO_CCP Paglaki|NNP :|PMS Pagtatanim|NNP ng|CCB Puno|NNP Nakakain|VBTR ka|PRS na|CCP ba|RBI ng|CCB mangga|VBW ?|PMQ
+Nagustuhan|VBTS mo|PRS ba|RBI ?|PMQ
+Gusto|VBS mo|PRS ng|CCB isa|PRI pa|RBI ?|PMQ
+Maaari|VBS kang|PRS_CCP bumili|VBAF ng|CCB isa|PRI pa|RBI sa|CCT tindahan|NNC ,|PMC syempre|NNC .|PMP
+Ngunit|CCT wala|VBN nang|CCB sasarap|VBOF pa|RBI kung|CCR ikaw|PRS mismo|RBT ang|DTC magpapatubo|VBTF at|CCA magpapabunga|VBTF gamit|VBS ang|DTC buto|NNC ng|CCB manggang|NNC_CCP nakain|VBTS mo.|NNCA .|PMP
+Ang|DTC kailangan|VBS mo|PRS lang|RBI ay|LM oras|NNC at|CCA pasensya|NNC .|PMP
+Una|CDB ,|PMC maghanap|VBAF ka|PRS bahagi|NNC ng|CCB lupa|NNC sa|CCT paligid|NNC ng|CCB inyong|PRSP_CCP bahay|NNC .|PMP
+Hikayatin|VBOF ang|DTC isang|PRI_CCP kaibigan|NNC ,|PMC kapatid|NNC ,|PMC o|CCT may|VBH edad|NNC upang|CCB tulungan|VBTF_VBOF kang|PRS_CCP magtanim|VBW ng|CCB buto|NNC ng|CCB manggang|NNC_CCP kinain|VBOF mo.|NNCA .|PMP
+Siguraduhing|RBD_CCP mataba|JJD ang|DTC lupa|NNC at|CCA natatamaan|VBTR ito|PRO ng|CCB sikat|JJD ng|CCB araw|NNC .|PMP
+Maaaring|RBM umabot|VBAF ng|CCB ilang|PRQ_CCP linggo|NNC ang|DTC paghihintay|NNC ,|PMC pagdidilig|NNC ,|PMC at|CCA pagbabantay|NNC bago|RBW tuluyang|RBD_CCP sumibol|VBAF ang|DTC binhi|NNC .|PMP
+Kaya|CCR huwag|RBF mag|VBW -|PMS alala|NNC at|CCA lalong|JJCC_CCP -|PMS lalo|JJCC na|CCP huwag|RBF magmadali|VBAF .|PMP
+Learning|NNP Resources|NNP .|PMP

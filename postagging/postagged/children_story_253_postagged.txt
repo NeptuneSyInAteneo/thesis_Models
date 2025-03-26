@@ -1,0 +1,30 @@
+Nagsasanay|VBTR ang|DTC mga|DTCP bata|NNC magbisikleta|VBW sa|CCT harap|NNC ng|CCB bakuran|NNC bilang|CCT paghahanda|NNC sa|CCT karera|NNC .|PMP
+Pinapanood|VBTR lamang|RBI sila|PRP ni|DTP Nula|NNP .|PMP
+Gusto|VBS niyang|PRS_CCP sumali|VBAF sa|CCT kanila|PRSP ,|PMC ngunit|CCT wala|VBN siyang|PRS_CCP bisikleta|NNC .|PMP
+Nakita|VBTS ni|DTP Xay|NNP na|CCP nakatingin|VBTS si|DTP Nula|NNP sa|CCT kanila|PRSP .|PMP
+Tinanong|VBTS niya|PRS ,|PMC "|PMS Gusto|VBS mo|PRS bang|RBI_CCP sumama|VBAF sa|CCT pagbibisikleta|NNC ?|PMQ "|PMS
+Sumagot|VBAF si|DTP Nula|NNP ,|PMC "|PMS Gusto|VBS kong|PRS_CCP sumama|VBAF ,|PMC ngunit|CCT wala|VBN akong|PRS_CCP bisikleta|NNC .|PMP "|PMS "|PMS
+Naku|NNP !|PMS
+Ayos|NNP lang|RBI !|PMQ
+Puwede|RBT mong|PRS_CCP gamitin|VBOF ang|DTC aking|PRSP_CCP bisikleta|NNC .|PMP
+Maaari|VBS tayong|PRP_CCP magsalitan|VBW sa|CCT pagamit|NNC ng|CCB bisikleta|NNC at|CCA magpraktis|VBTF !|PMS "|PMS
+Tinulungan|VBOF ni|DTP Xay|NNP si|DTP Nula|NNP na|CCP magpraktis|FW magbisikleta|FW .|PMP
+Nagpraktis|VBTR sila|PRP ng|CCB pagbibisikleta|NNC araw|NNC -|PMS araw|NNC pagkatapos|VBW ng|CCB klase|NNC .|PMP
+Nagpraktis|VBTR sila|PRP ng|CCB nagpraktis|VBTR .|PMP
+Huminto|VBAF ang|DTC lahat|PRI sa|CCT pagbibisikleta|NNC at|CCA nagmamadaling|RBD_CCP tinulungan|VBOF si|DTP Xay|NNP .|PMP
+Huminto|VBAF ang|DTC lahat|PRI sa|CCT pagbibisikleta|NNC at|CCA nagmamadaling|RBD_CCP tinulungan|VBOF si|DTP Xay|NNP .|PMP
+Dinala|VBOF ng|CCB magkakaibigan|VBTF si|DTP Xay|NNP sa|CCT doktor|NNC na|CCP nagsabing|VBTS ,|PMC "|PMS Kailangan|VBS mong|PRS_CCP magpahinga|VBW at|CCA pansamantalang|JJD_CCP huminto|VBTS_VBAF sa|CCT pagbibisikleta|NNC !|PMS "|PMS
+Sabi|VBS ni|DTP Nula|NNP ,|PMC "|PMS Huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC .|PMP
+Gagaling|VBTF ka|PRS din|RBI .|PMP "|PMS
+Hiniram|VBOF ni|DTP Nula|NNP ang|DTC bisikleta|NNC ni|DTP Xay|NNP para|CCT sa|CCT kanyang|PRSP_CCP pagsasanay|NNC .|PMP
+Nagsanay|VBTS nang|RBW nagsanay|VBTS si|DTP Nula|NNP araw|NNC -|PMS araw|NNC kasama|CCB si|DTP Xay|NNP .|PMP
+Sa|CCT araw|NNC ng|CCB kumpetisyon|NNC ,|PMC parehong|JJC_CCP sumali|VBAF sina|DTPP Nula|NNP at|CCA Xay|NNP .|PMP
+Nagulat|VBTS ang|DTC lahat|PRI nang|CCB makitang|VBW_CCP sumali|VBAF si|DTP Xay|NNP sa|CCT kompetisyon|NNC kasama|CCB si|DTP Nula|NNP .|PMP
+Sinubukan|VBTS ni|DTP Nula|NNP na|CCP i|NNCA -|PMS pedal|FW nang|RBD mabilis|RBD ang|DTC bike|NNC .|PMP
+Hindi|RBF sumuko|VBAF si|DTP Nula|NNP .|PMP
+Sinubukan|VBTS niyang|PRS_CCP magbisikleta|VBW nang|RBD mabilis|RBD hangga|RBD '|PMS t|NNCA kaya|CCR niya|PRS .|PMP
+Lahat|PRI ay|LM sumuporta|VBAF sa|CCT kanya|PRSP .|PMP
+Sa|CCT wakas|RBW ay|LM nakarating|VBTS na|CCP sila|PRP sa|CCT finish|FW line|FW .|PMP "|PMS
+Hooray|NNP !|PMS
+Tuwang|NNP -|PMS tuwa|NNC sina|DTPP Nula|NNP at|CCA Xay|NNP !|PMS "|PMS
+Wakas|NNP .|PMP

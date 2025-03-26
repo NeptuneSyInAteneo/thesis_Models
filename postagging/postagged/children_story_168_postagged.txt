@@ -1,0 +1,19 @@
+Nakaupo|VBTS si|DTP Nandi|NNP sa|CCT bughaw|JJD na|CCP hagdan|NNC ng|CCB kanilang|PRSP_CCP bahay|NNC .|PMP
+Siya|PRS ay|LM nagmumuni|VBTS -|PMS muni|NNCA ...|PMS Ano|PRQ kaya|CCR kung|CCR kaya|CCR kang|PRS_CCP palundagin|RBD ng|CCB jelly|FW beans|FW nang|RBW napakataas|JJCS_JJD ?|PMQ
+Maaari|VBS kang|PRS_CCP makarating|VBW sa|CCT paaralan|NNC sa|CCT isang|PRI_CCP malaking|JJD_CCP hakbang|NNC .|PMP
+Ano|PRQ kaya|CCR kung|CCR ang|DTC kambing|NNC at|CCA manok|NNC ay|LM nakapagsasalita|VBTS ?|PMQ
+Magaling|JJD kaya|CCR silang|PRP_CCP magbiro|VBW ?|PMQ
+Ano|PRQ kaya|CCR kung|CCR ang|DTC mga|DTCP bahay|NNC ay|LM rocket|NNC ships|FW ?|PMQ
+Makapagbabakasyon|VBW na|RBI ang|DTC inyong|PRSP_CCP pamilya|NNC sa|CCT buwan|NNC !|PMS
+Ano|PRQ kaya|CCR kung|RBK hindi|RBF na|RBI kailangang|VBS_CCP magluto|VBW ?|PMQ
+Ano|PRQ kaya|CCR kung|CCR ang|DTC hapunan|NNC ay|LM darating|VBTF na|RBI lang|RBI sa|CCT mesa|NNC ?|PMQ
+(|PMS At|CCA ito|PRO ay|LM ang|DTC iyong|PRSP_CCP laging|JJD_CCP paborito|NNC .|PMP )|PMS
+Ano|PRQ kaya|CCR kung|RBK hindi|RBF natutunaw|VBTR ang|DTC ice|FW -|PMS lollies|FW ?|PMQ
+Tatagal|VBTF sila|PRP ng|CCB buong|PRI_CCP tag|FW -|PMS init|NNC !|PMS
+Ano|PRQ kaya|CCR kung|CCR ang|DTC mga|DTCP larawan|NNC sa|CCT aklat|NNC na|CCP binabasa|VBTR sa|CCT iyo|PRSP ng|CCB Tatay|NNC mo|PRS ay|LM lumilipad|VBTR_VBAF paikot|JJD sa|CCT iyong|PRSP_CCP ulo|NNC ?|PMQ
+Ano|PRQ kaya|CCR kung|CCR ang|DTC kulay|NNC rosas|NNC kong|PRS_CCP bota|NNC ay|LM may|VBH kapangyarihan|NNC ?|PMQ
+Mauunahan|VBW ko|PRS na|CCP tumakbo|VBAF ang|DTC kuya|NNC ko|PRS !|PMQ
+Ano|PRQ kaya|CCR kapag|CCR pinikit|JJD mong|PRS_CCP mabuti|RBD ang|DTC mata|NNC mo|PRS at|CCA ...|PMS Nandi|NNP ,|PMC anong|PRQ_CCP ginagawa|VBTR_VBOF mo|PRS ?|PMQ
+tanong|NNC ng|CCB kuya|NNC ni|DTP Nandi|NNP .|PMP
+Habang|RBW si|DTP Nandi|NNP ay|LM nakaupo|VBTS sa|CCT hagdan|NNC na|CCP may|VBH ngiti|NNC .|PMP "|PMS
+Nagmumuni|NNP -|PMS muni|FW lang|RBI ,|PMC "|PMS sabi|VBS niya|PRS .|PMP

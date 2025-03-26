@@ -1,101 +1,48 @@
-Ako|PRS si|DTP Martin|NNP .|PMP
-Ang|DTC pangalan|NNC ko|PRS ay|LM nagmula|VBTS kay|DTP Heneral|NNP Martin|NNP Delgado|NNP .|PMP
-Ang|DTC sabi|VBS ni|DTP nanay|NNC ,|PMC si|DTP Martin|NNP Delgado|NNP daw|RBI ay|LM isang|PRI_CCP matapang|JJD na|CCP bayani|NNC .|PMP
-Nakipaglaban|VBTS siya|PRS sa|CCT mga|DTCP Kastila|NNP .|PMP
-Nakipaglaban|VBTS din|RBI siya|PRS sa|CCT mga|DTCP Amerikano|NNP .|PMP
-Siya|PRS ang|DTC nagwagayway|VBTR ng|CCB watawat|NNC sa|CCT aming|PRSP_CCP bayan|NNC ,|PMC Santa|NNP Barbara|NNP ,|PMC Iloilo|CDB .|PMP
-Pinanganak|VBOF siya|PRS noong|RBW_CCP ika|JJN -11|CDB ng|CCB Nobyembre|NNP ,|PMC katulad|JJC sa|CCT aking|PRSP_CCP kaarawan!Ipinagmalaki|CCB ko|PRS ang|DTC aking|PRSP_CCP tokayo|NNC na|CCP si|DTP Martin|NNP Delgado|NNP .|PMP
-Inaanyayahan|VBOF ko|PRS ang|DTC aking|PRSP_CCP mga|DTCP kaibigan|NNC na|CCP dumaan|VBAF sa|CCT plaza|NNC para|CCT makita|VBW ang|DTC kanyang|PRSP_CCP monumento|NNC .|PMP
-Sa|CCT paaralan|NNC ,|PMC ako|PRS ang|DTC may|VBH pinakamalaking|JJCS_JJD_CCP name|FW tag|FW sa|CCT buong|PRI_CCP Grade|NNP .|PMP
-Pinagawa|VBTS ko|PRS ito|PRO kay|DTP nanay|NNC .|PMP
-Nakasulat|VBTS dito|PRL ang|DTC napakalaking|JJCS_JJD_CCP sulat|NNC na|CCP MARTIN|NNPA .|PMP
-Gusto|VBS kong|PRS_CCP malaman|VBW ng|CCB lahat|PRI ang|DTC aking|PRSP_CCP pangalan|NNC .|PMP
-Subalit|CCT nagbago|VBTS ang|DTC lahat|PRI nang|RBW dumating|VBAF ang|DTC aking|PRSP_CCP Lola|NNC .|PMP "|PMS
-Martin|NNP ,|PMC andito|NNC na|CCP si|DTP Lola|NNP mo|PRS !|PMQ
-tawag|VBS ni|DTP Nanay|NNP .|PMP "|PMS
-Sa|CCT atin|PRSP muna|RBI siya|PRS manantili|VBW .|PMP "|PMS
-Tiningnan|VBOF ko|PRS nang|RBW mabuti|RBD si|DTP Lola|NNP .|PMP
-Manipis|JJD ang|DTC kanyang|PRSP_CCP buhok|NNC .|PMP
-Marami|PRI ng|CCB puting|JJD_CCP buhok|NNC ang|DTC umuusbong|VBTR_VBAF .|PMP
-Tinatali|VBTS niya|PRS ito|PRO na|CCP parang|CCT pandesal|JJD sa|CCT ulo|NNC .|PMP
-Ang|DTC kanyang|PRSP_CCP balat|NNC ay|LM parang|CCT gusot|JJD na|CCP papel|NNC .|PMP
-Ang|DTC kanyang|PRSP_CCP mata|NNC ay|LM malabo|JJD at|CCA basa|JJD ngunit|CCT parang|CCT kumikinang|JJD at|CCA umaapoy|VBTR_VBAF .|PMP
-Kaunti|PRI na|RBI lang|RBI ang|DTC ngipin|NNC niya|PRS ,|PMC ngunit|CCT parating|RBW nakangiti|VBTS pa|RBI rin|RBI .|PMP "|PMS
-Ay|NNP ,|PMC pumunta|VBAF ka|PRS dito|PRL ,|PMC Pangga|NNP !|PMS "|PMS
-sabi|VBS ni|DTP Lola|NNP .|PMP "|PMS
-Sino|PRQ si|DTP Pangga|NNP ?|PMQ "|PMS
-nalitong|VBTS sagot|NNC ka|PRS habang|RBW kinakamot|VBTR ang|DTC aking|PRSP_CCP ulo|NNC .|PMP "|PMS
-Ako|PRS ?|PMQ "|PMS "|PMS
-Oo|RBT ,|PMC Pangga|NNP !|PMS "|PMS
-sagot|NNC ni|DTP Lola|NNP .|PMP
-Napakunot|NNP lang|RBI ang|DTC noo|NNC ,|PMC at|CCA ako|PRS ay|LM nag|RBD sumimangot|VBTR_VBAF .|PMP
-Wala|VBN akong|PRS_CCP magawa|VBW kung|RBK hindi|RBF lumapit|VBAF at|CCA magmano|VBAF .|PMP "|PMS
-Lola|NNP ,|PMC Martin|NNP ang|DTC aking|PRSP_CCP pangalan|NNC ,|PMC "|PMS sabi|VBS ko|PRS .|PMP "|PMS
-Hindi|RBF ako|PRS si|DTP Pangga|NNP .|PMP "|PMS
-Ngunit|CCT parang|CCT walang|VBN_CCP may|VBH narinig|VBTS si|DTP Lola|NNP .|PMP
-Ngumiti|VBAF lang|RBI siya|PRS .|PMP
-Ang|DTC ngiti|NNC niya|PRS ay|LM abot|JJD hanggang|RBW tenga|NNC .|PMP
-Simula|RBW sa|CCT araw|NNC na|CCP iyon|PRO ,|PMC walang|VBN_CCP tigil|NNC niya|PRS na|CCP akong|PRS_CCP tinatawag|VBTR na|CCP Pangga|NNP .|PMP "|PMS
-Pangga|NNP ,|PMC punasin|VBOF ko|PRS ang|DTC likod|JJD mo.|NNCA "|PMS "|PMS Pangga|JJD ,|PMC ipagtimpla|VBOB kita|NNC ng|CCB gatas|NNC .|PMP "|PMS "|PMS
-Pangga|NNP ,|PMC ipagluto|VBOB kita|NNC ng|CCB Pancit|NNP Molo|NNP .|PMP "|PMS "|PMS
-Lola|NNP ,|PMC Martin|NNP ang|DTC aking|PRSP_CCP pangalan|NNC ,|PMC "|PMS sabi|VBS ko|PRS .|PMP "|PMS
-Indi|RBF ako|PRS si|DTP Pangga|NNP .|PMP
-Ngunit|CCT parang|CCT walang|VBN_CCP may|VBH narinig|VBTS si|DTP Lola|NNP .|PMP
-Ngumiti|VBAF lang|RBI siya|PRS .|PMP
-Ang|DTC ngiti|NNC niya|PRS ay|LM abot|JJD hanggang|RBW tenga|NNC .|PMP
-Isang|PRI_CCP araw|NNC ,|PMC sinundo|VBTS ako|PRS ng|CCB aking|PRSP_CCP mga|DTCP kaibigan|NNC bago|RBW pumunta|VBAF ng|CCB paaralan|NNC .|PMP "|PMS
-Pangga|NNP ,|PMC andito|CDB na|CCP ang|DTC mga|DTCP kaibigan|NNC mo|PRS ,|PMC "|PMS sabi|VBS ni|DTP Lola|NNP .|PMP
-Lumabas|VBAF siya|PRS kusina|NNC bitbit|JJD ang|DTC aking|PRSP_CCP baunan|NNC .|PMP
-Nagkatinginan|VBTS at|CCA ngumiti|VBAF ang|DTC aking|PRSP_CCP kaibigan|NNC .|PMP
-Narinig|VBTS nila|PRP ang|DTC tawag|NNC sa|CCT akin|PRSP ng|CCB Lola|NNC .|PMP
-Malakas|JJD at|CCA malinaw|JJD .|PMP "|PMS
-Ay|NNP ,|PMC ikaw|PRS pala|NNC si|DTP Pangga|NNP ?|PMQ "|PMS
-tukso|NNC ng|CCB isa|PRI kong|PRS_CCP kaibigan|NNC .|PMP "|PMS
-Nasaan|VBTS na|CCP si|DTP Martin|NNP ?|PMQ "|PMS "|PMS
-Hindi|RBF na|CCP pala|NNC ikaw|PRS si|DTP Heneral|NNP Martin|NNP ,|PMC "|PMS dagdag|JJD pa|RBI ng|CCB isa|PRI .|PMP "|PMS
-Ikaw|NNP na|CCP si|DTP Heneral|NNP Pangga|NNP !|PMS "|PMS
-Namula|VBTS ang|DTC aking|PRSP_CCP mukha|NNC .|PMP
-Kumunot|NNP ang|DTC aking|PRSP_CCP noo|NNC .|PMP
-Kinuha|VBOF ko|PRS ang|DTC aking|PRSP_CCP baunan|NNC kay|DTP Lola|NNP at|CCA sumigaw|VBAF ,|PMC "|PMS Indi|RBF ako|PRS si|DTP Pangga|NNP !|PMS "|PMS
-Tumakbo|VBAF ako|PRS palabas|NNC ng|CCB bahay|NNC .|PMP
-Sa|CCT paaralan|NNC ,|PMC parang|CCT apoy|NNC ng|CCB sunog|NNC sa|CCT bilis|NNC ng|CCB pagkalat|VBW ng|CCB tawag|NNC sa|CCT akin|PRSP ni|DTP Lola|NNP .|PMP
-Tinatawag|VBTR ako|PRS ng|CCB aking|PRSP_CCP mga|DTCP kaklase|JJD na|CCP "|PMS Pangga|NNP "|PMS at|CCA hindi|RBF na|CCP Martin|NNP .|PMP
-Tintukso|NNP nila|PRP ako|PRS "|PMS Heneral|NNP Martin|NNP "|PMS .|PMP
-Dahil|CCR dito|PRL ,|PMC nahiya|VBTS na|CCP akong|PRS_CCP suotin|VBOF ang|DTC aking|PRSP_CCP name|FW tag|FW .|PMP
-Pagdating|VBW ng|CCB bahay|NNC ,|PMC dumiretso|VBAF ako|PRS sa|CCT kuwarto|NNC para|CCT maiwasan|VBW si|DTP Lola|NNP .|PMP
-Hindi|RBF ko|PRS siya|PRS gustong|VBS_CCP makita|VBW .|PMP
-Hindi|RBF ko|PRS pinapunasan|VBTS ang|DTC basa|JJD kong|PRS_CCP likod|JJD .|PMP
-Hindi|RBF ako|PRS nagpatimpla|VBTS ng|CCB gatas|NNC .|PMP
-Hindi|RBF ko|PRS kinain|VBOF ang|DTC niluto|VBTS niyang|PRS_CCP Pancit|NNP Molo|NNP .|PMP
-Pumasok|VBAF si|DTP Nanay|NNP si|DTP kuwarto|NNC .|PMP
-Nagtataka|VBTR siya|PRS sa|CCT aking|PRSP_CCP ginawa|VBOF .|PMP "|PMS
-Martin|NNP ,|PMC nagtatampo|VBTR ka|PRS ba|RBI kay|DTP Lola|NNP mo|PRS ?|PMQ "|PMS
-tanong|NNC ni|DTP Nanay|NNP .|PMP "|PMS
-Hindi|RBF ako|PRS si|DTP Pangga|NNP ,|PMC "|PMS sagot|NNC ko|PRS kay|DTP Nanay|NNP .|PMP
-Ngumiti|VBAF si|DTP nanay|NNC .|PMP
-Hinawakan|VBOF niya|PRS ang|DTC aking|PRSP_CCP mga|DTCP kamay|NNC at|CCA tiningnan|VBOF ako|PRS .|PMP "|PMS
-Alam|VBS mo|PRS ba|RBI kung|RBK bakit|RBQ Pangga|JJD ang|DTC tawag|NNC ng|CCB lola|NNC mo|PRS sa|CCT iyo|PRSP ?|PMQ "|PMS
-tanong|NNC ni|DTP Nanay|NNP .|PMP
-Umiling|NNP ako|PRS .|PMP "|PMS
-Pangga|NNP ang|DTC tawag|NNC niya|PRS sa|CCT iyo|PRSP dahil|CCR ikaw|PRS angkanyang|NNC_CCP pinakamahal|JJCS_JJD .|PMP
-Ang|DTC ibig|VBS sabihin|VBOF ng|CCB Pangga|NNP ay|LM mahal|JJD ,|PMC "|PMS paliwanag|NNC ni|DTP Nanay|NNP .|PMP "|PMS
-Ikaw|NNP ang|DTC kanyang|PRSP_CCP pinakamamahal|JJCS_JJD na|CCP apo|NNC .|PMP "|PMS
-Inisip|VBTS ko|PRS ang|DTC lahat|PRI na|CCP ginawa|VBOF ng|CCB lola|NNC ko|PRS sa|CCT akin|PRSP .|PMP
-Parati|RBD niyang|PRS_CCP pinupunasan|VBTS_VBOF ang|DTC likod|JJD ko|PRS para|CCT hindi|RBF matuyo|VBW ang|DTC mga|DTCP pawis|NNC .|PMP
-Parati|RBW niya|PRS akong|PRS_CCP pinagtitimpla|VBTR_VBRF ng|CCB gatas|NNC .|PMP
-Para|CCT niya|PRS akong|PRS_CCP pinagluluto|VBTR_VBRF ng|CCB paborito|NNC kong|PRS_CCP Pancit|NNP Molo|NNP .|PMP
-Marami|PRI siyang|PRS_CCP parating|RBW_CCP ginagawa|VBTR para|CCT sa|CCT akin|PRSP dahil|CCR mahal|JJD niya|PRS ako|PRS .|PMP
-Lumabas|VBAF ako|PRS ng|CCB kuwarto|NNC para|CCT puntahan|VBOF si|DTP Lola|NNP .|PMP
-Nasakusina|VBTS siya|PRS .|PMP "|PMS
-Lola|NNP ,|PMC pasensya|NNC na|CCP sa|CCT pagtatampo|VBW ko|PRS sa|CCT iyo|PRSP kanina|RBW ,|PMC "|PMS sabi|VBS ko|PRS .|PMP
-Niyakap|NNP ko|PRS siya|PRS ng|CCB mahigpit|JJD .|PMP
-Ngunit|CCT parang|CCT walang|VBN_CCP may|VBH narinig|VBTS si|DTP Lola|NNP .|PMP "|PMS
-Pangga|NNP ,|PMC punasan|RBW natin|PRP ang|DTC likod|JJD mo|PRS ,|PMC "|PMS sagot|NNC ni|DTP lola|NNC .|PMP
-Simula|RBW noon|RBW ,|PMC hindi|RBF na|RBI ako|PRS sumisimangot|VBTR_VBAF .|PMP
-Hindi|RBF na|CCP namumula|VBTS ang|DTC aking|PRSP_CCP mukha|NNC .|PMP
-Hindi|RBF na|CCP kumukunot|VBTR_VBAF ang|DTC aking|PRSP_CCP noo|NNC .|PMP
-Maganda|JJD pala|NNC ang|DTC pangalang|NNC_CCP Pangga|NNP .|PMP
-Hindi|RBF ko|PRS dapat|VBS ikahiya|VBOF ang|DTC pangalang|NNC_CCP Pangga|NNP .|PMP
-Ang|DTC ibig|VBS sabihin|VBOF ng|CCB panggalang|NNC_CCP Pangga|NNP ay|LM mahal|RBD ako|PRS .|PMP
-Ngumiti|VBAF ako|PRS at|CCA sumagot|VBAF ,|PMC "|PMS Oo|RBT ,|PMC Lola|NNC .|PMP
-Ako|PRS si|DTP Pangga|NNP ,|PMC at|CCA ako|PRS rin|RBI si|DTP Martin|NNP .|PMP "|PMS
+Nagtatakbuhan|VBTS at|CCA naglalaro|VBTR kami|PRP pagkatapos|VBW ng|CCB eskwela|NNC ,|PMC nag|VBTS -|PMS uunahan|RBD papunta|RBD sa|CCT paborito|NNC naming|PRP_CCP palaruan|NNC .|PMP
+Kahit|CCT na|CCP binawalan|VBOF kaming|PRP_CCP maglaro|VBAF doon|PRL ,|PMC pumupunta|VBTR_VBAF pa|RBI rin|RBI kami|PRP araw|NNC -|PMS araw|NNC .|PMP
+Sa|CCT aming|PRSP_CCP nayon|NNC ,|PMC "|PMS Ang|DTC Masayang|NNP_CCP Nayon|NNP ng|CCB Tren|NNP ,|PMC "|PMS may|VBH tren|NNC na|CCP dumadaan|VBTR_VBAF bawat|PRI oras|NNC .|PMP
+Kapag|CCR dumating|VBAF ang|DTC tren|NNC ,|PMC ang|DTC bawat|PRI isa|PRI ay|LM humihinto|VBTR_VBAF .|PMP
+Gaya|JJC ng|CCB dati|JJD ,|PMC kami|PRP ay|LM naglalaro|VBTR noong|RBW_CCP dumaan|VBAF ang|DTC tren|NNC .|PMP
+Ito|PRO ay|LM tumunog|VBAF ng|CCB tsuga|NNC tsuga|NNC tsu|FW tsu|FW .|PMP
+At|CCA kami|PRP ay|LM tumigil|VBAF sa|CCT paglalaro.at|NNC maya|NNC maya|NNC ,|PMC may|VBH narinig|VBTS kaming|PRP_CCP pagbunggo|VBW ...|PMS .|PMP
+at|CCA napuno|VBTS ng|CCB alikabok|NNC ang|DTC lugar|NNC .|PMP
+Nagpunta|VBTS kami|PRP para|CCT makita|VBW kung|RBK ano|RBQ ang|DTC nangyari|VBTS at|CCA natuklasan|VBTS na|CCP ito|PRO ay|LM isang|PRI_CCP malaking|JJD_CCP parsela|NNC na|CCP nahulog|VBTS mula|RBL sa|CCT tren|NNC .|PMP "|PMS
+Parsela|NNP ito|PRO para|CCT sa|CCT museo|NNC .|PMP "|PMS
+Sabi|VBS ni|DTP Flash|NNP .|PMP "|PMS
+Mukhang|RBM mahalaga|JJD at|CCA napakaimportanteng|JJD_CCP bagay|NNC ito|PRO .|PMP "|PMS
+Pag|CCR -|PMS alalang|NNC_CCP sabi|VBS ni|DTP Fred|NNP .|PMP
+Masigasig|JJD naman|RBI akong|PRS_CCP sumagot|VBAF .|PMP "|PMS
+Kailangan|VBS na|CCP natin|PRP itong|PRO_CCP ihatid|VBOF sa|CCT museo|NNC ngayon|RBW .|PMP "|PMS
+Sinubukan|VBTS namin|PRP buhatin|VBOF ,|PMC hilahin|VBOF . . .|NNPA isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB ,|PMC tulak|JJD ,|PMC ngunit|CCT kaunting|PRI_CCP distansya|NNC lamang|RBI ang|DTC naigalaw|VBTS nito|PRO .|PMP
+Pagkatapos|VBW ng|CCB maraming|PRI_CCP beses|NNC na|CCP pagsubok|NNC ,|PMC napaupo|VBTS kami|PRP at|CCA nagpahinga|VBTS upang|CCB makapag|VBW -|PMS isip|NNC ng|CCB epektibong|JJD_CCP paraan|NNC para|CCT maigalaw|VBW ang|DTC parsela|NNC .|PMP
+Sabi|VBS ni|DTP Fred|NNP ,|PMC "|PMS Ang|DTC pinakamalapit|JJCS_JJD na|CCP tulong|NNC na|CCP maaaring|RBM makuha|VBW natin|PRP ay|LM mula|RBL sa|CCT bayan|NNC ,|PMC kung|CCR tayo|PRP ay|LM aalis|VBTF at|CCA babalik|VBTF muli|RBW ,|PMC maaaring|RBM nabangga|VBTS na|CCP ang|DTC parsela|NNC sa|CCT oras|NNC na|CCP tayo|PRP ay|LM makabalik|VBW .|PMP "|PMS
+Pagkatapos|VBW ,|PMC naalala|VBTS ko|PRS ang|DTC mga|DTCP kagamitan|NNC ng|CCB aking|PRSP_CCP tatay|NNC na|CCP binigay|VBOF sa|CCT akin|PRSP noong|RBW_CCP nakaraang|JJD_CCP araw|NNC .|PMP
+Kami|PRP ay|LM naghanap|VBTS sa|CCT mga|DTCP kagamitan|NNC ,|PMC baka|NNC may|VBH matagpuan|VBW kaming|PRP_CCP bagay|NNC na|CCP makatutulong|RBD sa|CCT amin|PRSP ,|PMC pagkatapos|VBW ,|PMC masiglang|JJD_CCP sinabi|VBTS ni|DTP Fred|NNP ,|PMC "|PMS Heto|FW nakita|VBTS ko|PRS ang|DTC bagay|NNC na|CCP maaaring|RBM makatulong|VBW .|PMP "|PMS
+Nakakuha|VBTS siya|PRS ng|CCB lubid|NNC at|CCA bobina|NNC .|PMP
+Pagkatapos|VBW ,|PMC nilagay|VBTS niya|PRS ito|PRO sa|CCT kreyn|NNC ni|DTP Flash|NNP .|PMP
+Sinubukan|VBTS kong|PRS_CCP itali|VBOF ang|DTC lubid|NNC sa|CCT parsel|FW pagkatapos|VBW ...|PMS sinimulan|VBOF naming|PRP_CCP hilahin|VBOF .|PMP
+Sabi|VBS ni|DTP Fred|NNP ,|PMC makatutulong|RBD ang|DTC bobina|NNC sa|CCT atin|PRSP ,|PMC Iniangat|VBTS nila|PRP ang|DTC parsel|FW nang|RBD paitaas|RBD at|CCA paitaas|RBD hanggang|RBW sa|CCT ...|PMS trimmmm|FW ...|PMS naputol|VBTS ang|DTC lubid|NNC .|PMP
+Tinitigan|VBTR_VBOF namin|PRP ang|DTC parsela|NNC .|PMP
+Sinimulan|VBTS ni|DTP Flash|NNP na|CCP siyasatin|VBOF ito|PRO hanggang|RBW may|VBH nakita|VBTS ako|PRS sa|CCT kaniyang|PRSP_CCP makina|NNC .|PMP
+Napatalon|NNP ako|PRS at|CCA napasigaw|VBTS sa|CCT kinalalagyan|VBTR ,|PMC "|PMS Maaaring|RBM tayong|PRP_CCP matulungan|VBW ng|CCB kahoy|NNC na|CCP ito|PRO .|PMP "|PMS
+Nilagay|VBTS namin|PRP ang|DTC kahoy|NNC nang|RBD pahilis|RBD sa|CCT makina|NNC ni|DTP Flash|NNP at|CCA tinulak|VBOF ang|DTC parsela|NNC .|PMP
+Gumagalaw|VBTR na|CCP ang|DTC parsela|NNC sa|CCT ibabaw|NNC ng|CCB kahoy|NNC .|PMP
+Dalawa|CDB pang|RBI_CCP tulak|NNC at|CCA aabot|VBTF na|RBI sa|CCT tuktok|NNC ngunit|CCT ...|PMS Habang|RBW nasa|RBL tuktok|NNC ,|PMC galaw|NNC nang|RBW galaw|NNC ang|DTC parsela|NNC ,|PMC taas|NNC -|PMS baba|JJD at|CCA paikot|JJD -|PMS ikot|NNC hanggang|RBW malaglag|VBW ulit|RBW sa|CCT riles|NNC ng|CCB tren|NNC .|PMP
+Sabay|NNP -|PMS sabay|RBD naming|PRP_CCP sinabi|VBOF ,|PMC "|PMS Hindi|RBF ito|PRO maaari|VBS ,|PMC siguradong|RBT_CCP masisira|VBTF na|CCP ito|PRO sa|CCT pagdaan|NNC ng|CCB susunod|VBTF na|CCP tren|NNC .|PMP "|PMS
+Kami|PRP ay|LM nanahimik|VBTS pagkatapos|RBW noon|RBW ,|PMC hanggang|RBW sa|CCT makaisip|VBW ako|PRS ng|CCB ideya|NNC .|PMP
+Kinuha|VBOF ko|PRS ang|DTC kahoy|NNC na|CCP patatsulok|NNC mula|RBL sa|CCT kahon|NNC .|PMP
+Hinila|VBOF ko|PRS ang|DTC ibabaw|JJD at|CCA nilagay|VBOF ko|PRS ang|DTC tatsulok|NNC sa|CCT gitnang|JJD_CCP ilalim|JJD .|PMP
+Nagmistulang|VBTS_CCP siso|NNC ito|PRO .|PMP
+Tinulak|VBOF ko|PRS ang|DTC parsela|NNC papalayo|NNC .|PMP
+At|CCA ano|PRQ ang|DTC gagawin|VBTF mo|PRS sa|CCT tatsulok|NNC ,|PMC bibo|NNC ?|PMQ
+Sumigaw|VBAF sina|DTPP Flash|NNP at|CCA Fred|NNP ,|PMC "|PMS Lumayo|VBAF ka|PRS John|NNP .|PMP "|PMS
+Sabi|VBS ni|DTP John|NNP ,|PMC "|PMS Kailangan|VBS ko|PRS lang|RBI ng|CCB isa|PRI pang|RBI_CCP tulak|NNC .|PMP "|PMS
+Takot|JJD ang|DTC lumitaw|VBAF sa|CCT mukha|NNC ng|CCB bawat|PRI isa|PRI .|PMP
+Pagkatapos|VBW ,|PMC tumakbo|VBAF si|DTP Flash|NNP nang|RBD mabilis|RBD at|CCA itinulak|VBTS ako|PRS ng|CCB isa|PRI pang|RBI_CCP ulit|NNC .|PMP
+Ang|DTC parsela|NNC ay|LM tumungo|VBAF sa|CCT dulo|NNC ng|CCB troso|NNC at|CCA tumalon|VBAF sa|CCT kabilang|CCB panig.pagkatapos|VBW ...|PMS lumipad|VBAF ang|DTC parsela|NNC sa|CCT ere|NNC at|CCA bumagsak|VBAF sa|CCT likod|NNC ni|DTP Fred|NNP .|PMP
+Pagkatapos|VBW ,|PMC tumakbo|VBAF kami|PRP nang|RBD mabilis|RBD sa|CCT abot|NNC ng|CCB aming|PRSP_CCP makakaya|VBW upang|CCB maihatid|VBW ang|DTC parsela|NNC .|PMP
+Kinabukasan|RBW ,|PMC pinarangalan|VBTS kami|PRP ni|DTP kapitan|NNC sa|CCT ginawa|VBOF naming|PRP_CCP kabutihan|NNC .|PMP
+Labis|JJCS ang|DTC tuwa|NNC namin|PRP .|PMP
+Ngunit|CCT may|VBH sasabihin|VBTF ako|PRS sa|CCT inyo|PRSP .|PMP
+Tinigil|VBTS na|CCP namin|PRP ang|DTC paglalaro|NNC malapit|JJD sa|CCT riles|NNC mula|RBL sa|CCT araw|NNC na|CCP iyon|PRO .|PMP
+Wakas|NNP

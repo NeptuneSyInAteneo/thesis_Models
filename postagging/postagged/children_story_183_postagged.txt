@@ -1,0 +1,71 @@
+Si|DTP Meena|NNP ay|LM isang|PRI_CCP maliit|JJD na|CCP batang|NNC_CCP babae|NNC na|CCP nakatira|VBTS sa|CCT isang|PRI_CCP nayon|NNC kasama|CCB ang|DTC kanyang|PRSP_CCP mga|DTCP magulang|NNC ,|PMC lola|NNC ,|PMC kanyang|PRSP_CCP kapatid|NNC na|CCP si|DTP Raju|NNP ,|PMC at|CCA ang|DTC kanyang|PRSP_CCP sanggol|NNC na|CCP kapatid|NNC na|CCP si|DTP Rani|NNP .|PMP
+Si|DTP Mithu|NNP ,|PMC ang|DTC loro|FW ,|PMC ay|LM ang|DTC kanyang|PRSP_CCP matalik|JJD na|CCP kaibigan|NNC .|PMP
+Sa|CCT maraming|PRI_CCP mga|DTCP paraan|NNC ,|PMC si|DTP Meena|NNP ay|LM tulad|JJC ng|CCB ibang|PRI_CCP mga|DTCP batang|JJD_CCP babae|NNC na|CCP kilala|JJD mo|PRS ,|PMC ngunit|CCT ,|PMC sa|CCT ilang|PRQ_CCP mga|DTCP paraan|NNC ,|PMC siya|PRS ay|LM ganap|RBD na|CCP naiiba|VBTR .|PMP
+Sumali|VBAF sa|CCT mga|DTCP pakikipagsapalaran|NNC ni|DTP Meenahabang|NNP tumatawa|VBTR_VBAF siya|PRS ,|PMC umaakyat|VBTR_VBAF sa|CCT mga|DTCP puno|NNC ,|PMC nagtatanong|VBTR ,|PMC naglulutas|VBTR ang|DTC mga|DTCP problema|NNC at|CCA ipinapakita|VBTR sa|CCT iyo|PRSP ang|DTC lahat|PRI ng|CCB mga|DTCP bagay|NNC na|CCP maaaring|RBM gawin|VBOF ng|CCB isang|PRI_CCP maliit|JJD na|CCP batang|JJD_CCP babae|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC pauwi|NNC sina|DTPP Meena|NNP at|CCA Mithu|NNP matapos|VBW mangolekta|VBW ng|CCB kahoy|NNC na|CCP panggatong|NNC .|PMP
+Kailangan|VBS nilang|PRP_CCP dumaan|VBAF sa|CCT paaralan|NNC ng|CCB nayon|NNC sa|CCT daan|NNC .|PMP
+Si|DTP Raju|NNP ay|LM pumasok|VBAF sa|CCT paaralang|NNC_CCP ito|PRO .|PMP
+Nagpasya|VBTS sina|DTPP Meena|NNP at|CCA Mithu|NNP na|CCP huminto|VBTS_VBAF sa|CCT paaralan|NNC at|CCA tingnan|VBOF kung|RBK ano|RBQ ang|DTC nangyayari|VBTR .|PMP
+Natagpuan|VBTS nila|PRP ang|DTC guro|NNC na|CCP nagsasabi|VBTR sa|CCT mga|DTCP bata|NNC ng|CCB isang|PRI_CCP magandang|JJD_CCP kuwento|NNC .|PMP
+Sina|DTPP Meena|NNP at|CCA Mithu|NNP ay|LM nagustuhan|VBTS ang|DTC kuwento|NNC kaya|CCR '|PMS t|NNCA nanatili|VBTS sila|PRP at|CCA nakinig|VBTS sa|CCT kwento|NNC hanggang|RBW sa|CCT huli|RBW .|PMP
+Nais|VBS ni|DTP Meena|NNP na|CCP makapag|VBW -|PMS aral|NNC din|RBI siya|PRS .|PMP
+Habang|RBW naglalakad|VBTR sila|PRP pauwi|NNC ,|PMC nag|RBD_CCP kunwari|JJD si|DTP Meena|NNP na|CCP siya|PRS ay|LM isang|PRI_CCP guro|NNC at|CCA si|DTP Mithu|NNP ang|DTC kanyang|PRSP_CCP estudyante|NNC .|PMP
+Tinuruan|VBOF niya|PRS ang|DTC loro|FW na|CCP sabihin|VBOF ang|DTC kanyang|PRSP_CCP pangalan|NNC .|PMP
+Nang|RBW makauwi|VBW si|DTP Meena|NNP ,|PMC ipinagmamalaki|VBTS ni|DTP Raju|NNP na|CCP sabihin|VBOF sa|CCT kanilang|PRSP_CCP ama|NNC ang|DTC tungkol|RBR sa|CCT lahat|PRI ng|CCB mga|DTCP natutunan|VBTS niya|PRS sa|CCT paaralan|NNC .|PMP
+Tumingin|VBAF si|DTP Meena|NNP sa|CCT kanilang|PRSP_CCP ama|NNC .|PMP "|PMS
+Ama|NNP ,|PMC bakit|PRQ hindi|RBF rin|RBI kaya|CCR ako|PRS pumasok|VBAF sa|CCT paaralan|NNC ?|PMQ "|PMS
+tanong|NNC niya|PRS .|PMP "|PMS
+Kailangan|VBS ka|PRS sa|CCT bahay|NNC para|CCT tulungan|VBTF_VBOF ang|DTC iyong|PRSP_CCP ina|NNC .|PMP "|PMS
+sabi|VBS ng|CCB ama|NNC .|PMP "|PMS
+Ang|DTC mga|DTCP babe|NNC ay|LM kailangan|VBS matuto|VBW magluto|VBW ,|PMC maglinis|VBW ,|PMC at|CCA magbantay|VBW ng|CCB bahay|NNC .|PMP "|PMS
+sabi|VBS ng|CCB nanay|NNC .|PMP "|PMS
+Hindi|RBF mo|PRS kailangan|VBS pumunta|VBAF sa|CCT eskuwelahan|NNC para|CCT doon|PRL !|PMS "|PMS
+Kawawang|NNP_CCP Meena|NNP !|PMS
+Nung|RBW gabi|RBW nakatingin|RBD lang|RBI si|DTP Meena|NNP ng|CCB malungkot|JJD sa|CCT kanyang|PRSP_CCP bintana|NNC ,|PMC Yung|PRO_CCP eskwelahan|NNC ay|LM kumikintab|VBTR_VBAF sa|CCT ilalim|JJD ng|CCB buwan|NNC .|PMP
+Nais|VBS niya|PRS talaga|RBT na|CCP pwede|VBS siyang|PRS_CCP makapagaral|VBW .|PMP
+Nang|RBW tuluyan|RBD na|CCP siyang|PRS_CCP nakatulog|VBTS ,|PMC may|VBH isang|PRI_CCP kakaibang|JJD_CCP panaginip|NNC si|DTP Meena|NNP .|PMP
+Nasa|RBL silid|NNC -|PMS aralan|NNC siya|PRS kasama|CCB ang|DTC maraming|PRI_CCP iba|PRI pang|RBI_CCP mga|DTCP batang|JJD_CCP babae|NNC at|CCA lalaki|NNC —|PMS at|CCA si|DTP Mithu|NNP ang|DTC kanilang|PRSP_CCP guro|NNC !|PMS
+Kinaumagahan|NNP ,|PMC malungkot|JJD na|CCP pinanood|VBTS ni|DTP Meena|NNP habang|RBW si|DTP Raju|NNP at|CCA ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC ay|LM pumapasok|VBTR_VBAF sa|CCT paaralanNaalala|VBW niya|PRS ang|DTC kanyang|PRSP_CCP pangarap|NNC at|CCA naupo|VBTS upang|CCB mag|VBW -|PMS isip|NNC .|PMP
+Kahit|CCT papaano|RBQ ,|PMC dapat|VBS niyang|PRS_CCP gawin|VBOF itong|PRO_CCP totoo|RBT .|PMP
+Pero|CCT paano|PRQ ?|PMQ
+Pagkatapos|VBW si|DTP Meena|NNP ay|LM may|VBH isang|PRI_CCP kahanga|NNC -|PMS hangang|RBW ideya|NNC :|PMS ipapadala|VBTF niya|PRS sa|CCT paaralan|NNC si|DTP Mithu|NNP ,|PMC at|CCA makakabalik|VBW siya|PRS at|CCA turuan|VBOF siya|PRS ng|CCB lahat|PRI ng|CCB natutunan|VBTS doon|PRL .|PMP
+Umupo|VBAF si|DTP Mithu|NNP buong|PRI_CCP umaga|RBW sa|CCT bintana|NNC ng|CCB silid|NNC aralan|NNC .|PMP
+Pinakinggan|JJCS_JJD niyang|PRS_CCP mabuti|RBD habang|RBW nagtuturo|VBTR ang|DTC guro|NNC ng|CCB -|PMS beses|NNC na|CCP mesa|NNC .|PMP
+Pagkatapos|VBW ay|LM lumipad|VBAF siya|PRS pabalik|VBW sa|CCT bahay|NNC at|CCA tinuruan|VBTS si|DTP Meena|NNP ...|PMS Dalawang|JJN_CCP isa|PRI ay|LM dalawa|CDB .|PMP
+Dalawang|JJN_CCP dalawa|CDB ay|LM apat|CDB .|PMP
+Dalawang|JJN_CCP tatlo|CDB ay|LM anim|JJN ...|PMS Hindi|RBF nagtagal|VBTS ,|PMC binibilang|VBTR ni|DTP Meena|NNP ang|DTC anim|JJN sa|CCT lahat|PRI ng|CCB kanyang|PRSP_CCP nakita|VBTS .|PMP
+Patuloy|RBD niyang|PRS_CCP binibilang|VBTR ang|DTC anim|JJN na|CCP manok|NNC ng|CCB kanyang|PRSP_CCP ama|NNC .|PMP
+Sa|CCT wakas|RBW ay|LM natututo|VBTR na|RBI ng|CCB arithmetic|FW si|DTP Meena|NNP ,|PMC tulad|JJC ng|CCB Raju|NNP .|PMP
+Nang|RBW hapong|NNC_CCP iyon|PRO ,|PMC nang|RBW abala|RBD sina|DTPP Meena|NNP at|CCA Mithu|NNP ,|PMC isang|PRI_CCP magnanakaw|NNC ang|DTC gumapang|VBAF sa|CCT pader|NNC .|PMP
+Ninakaw|VBTS niya|PRS ang|DTC isa|PRI sa|CCT mga|DTCP manok|NNC at|CCA tumakbo|VBAF .|PMP
+Anim|NNP na|CCP butil|NNC ,|PMC "|PMS binibilang|VBTR ni|DTP Meena|NNP ,|PMC "|PMS ...|PMS at|CCA anim|JJN na|CCP manok|NNC .|PMP "|PMS
+Bumali|NNP Good|NNP siya|PRS upang|CCB bilangin|VBOF ang|DTC mga|DTCP ito|PRO muli|RBW ,|PMC ngunit|CCT may|VBH isang|PRI_CCP nawawala|VBTR .|PMP
+Si|DTP Meena|NNP ay|LM tuliro|JJD .|PMP
+Tumingin|VBAF siya|PRS sa|CCT buong|PRI_CCP paligid|NNC ,|PMC at|CCA doon|PRL niya|PRS nakita|VBTS ang|DTC tumatakbo|VBTR_VBAF na|CCP magnanakaw|NNC .|PMP "|PMS
+Magnanakaw|NNP ,|PMC magnanakaw|VBTF_VBAF !|PMS "|PMS
+sigaw|NNC ni|DTP Meena|NNP ,|PMC habang|RBW hinahabol|VBTR siya|PRS ni|DTP Mithu|NNP .|PMP
+Di|RBF nagtagal|VBTS ,|PMC kalahati|PRI ng|CCB nayon|NNC ang|DTC sumali|VBAF sa|CCT paghabol|NNC .|PMP
+Magnanakaw|NNP ,|PMC magnanakaw|NNC ,|PMC "|PMS inikot|VBTS ni|DTP Mithu|NNP sa|CCT tainga|NNC ng|CCB magnanakaw|NNC .|PMP
+Takot|JJD na|CCP takot|NNC ang|DTC lalaki|NNC kaya|CCR '|PMS t|NNCA nahulog|VBTS siya|PRS pabalik|RBD sa|CCT palayan|NNC .|PMP
+At|CCA doon|PRL siya|PRS nanatili|VBTS hanggang|RBW sa|CCT pagtakbo|NNC ng|CCB mga|DTCP tagabaryo|NNC .|PMP
+Ipinagmamalaki|VBTR ng|CCB punong|JJD_CCP bayan|NNC ang|DTC Meena|NNP .|PMP
+Tinanong|VBTS niya|PRS siya|PRS kung|RBK paano|RBQ niya|PRS napansin|VBTS ang|DTC magnanakaw|NNC ,|PMC at|CCA ipinaliwanag|VBTS ni|DTP Meena|NNP na|CCP binibilang|VBTR niya|PRS ang|DTC mga|DTCP manok|NNC at|CCA natagpuan|VBTS ang|DTC isang|PRI_CCP nawawala|VBTR .|PMP
+Pagkatapos|VBW ay|LM binati|VBOF ng|CCB headman|NNC ang|DTC mga|DTCP magulang|NNC ni|DTP Meena|NNP para|CCT sa|CCT pagpapadala|NNC ng|CCB isang|PRI_CCP matalino|JJD na|CCP batang|NNC_CCP babae|NNC sa|CCT paaralan|NNC .|PMP
+Nang|RBW sinabi|VBTS ng|CCB mga|DTCP magulang|NNC ni|DTP Meena|NNP na|CCP si|DTP Meena|NNP ay|LM hindi|RBF pumasok|VBAF sa|CCT paaralan|NNC ,|PMC namangha|VBTS ang|DTC mga|DTCP tagabaryo|NNC .|PMP "|PMS
+Ang|DTC bawat|PRI bata|NNC ay|LM dapat|VBS na|CCP pumasok|VBAF sa|CCT paaralan|NNC ,|PMC "|PMS sabi|VBS ng|CCB pinuno|NNC .|PMP "|PMS
+Opo|NNP ,|PMC "|PMS sabi|VBS ng|CCB isang|PRI_CCP kapitbahay|NNC .|PMP "|PMS
+Ang|DTC aking|PRSP_CCP may|VBH -|PMS asawa|NNC na|CCP anak|NNC na|CCP babae|NNC ay|LM nakatira|VBTS sa|CCT malayo|JJD ,|PMC ngunit|CCT maaari|VBS niya|PRS akong|PRS_CCP sulatan|VBOF ng|CCB mga|DTCP sulat|NNC dahil|CCR pinapunta|VBTR ko|PRS siya|PRS sa|CCT paaralan|NNC .|PMP "|PMS "|PMS
+Ang|DTC aking|PRSP_CCP edukadong|JJD_CCP anak|NNC na|CCP babae|NNC ay|LM nagpapatakbo|VBTR ng|CCB kanyang|PRSP_CCP sariling|NNC_CCP negosyo|NNC ng|CCB manok|NNC ,|PMC "|PMS sabi|VBS ng|CCB isang|PRI_CCP matandang|JJD_CCP babae|NNC ,|PMC buong|PRI_CCP pagmamalaki|NNC .|PMP "|PMS
+Nag|NNP -|PMS aral|NNC ako|PRS ,|PMC at|CCA mas|JJCC maaalagaan|VBTF ko|PRS ang|DTC aking|PRSP_CCP sanggol|NNC ,|PMC "|PMS dagdag|JJD ng|CCB isang|PRI_CCP mahiyain|JJD ,|PMC batang|JJD_CCP ina|NNC .|PMP
+Ang|DTC mga|DTCP magulang|NNC ni|DTP Meena|NNP ay|LM gumawa|VBAF ng|CCB isang|PRI_CCP malaking|JJD_CCP desisyon|NNC .|PMP
+Napagpasyahan|VBTS nila|PRP na|CCP si|DTP Meena|NNP ay|LM magsisimulang|RBD_CCP mag|VBW -|PMS aral|NNC kinabukasan|RBW .|PMP
+Sina|DTPP Meena|NNP at|CCA Raju|NNP ay|LM labis|JJCS na|CCP natuwa|VBTS .|PMP
+Sumayaw|VBAF sila|PRP ng|CCB may|VBH kaligayahanAng|NNC_CCP lahat|PRI ay|LM nag|VBTS -|PMS isip|NNC pa|RBI rin|RBI tungkol|RBR sa|CCT isang|PRI_CCP bagay|NNC :|PMS sino|PRQ ang|DTC nagturo|VBTS kay|DTP Meena|NNP na|CCP magbilang|VBTF ?|PMQ "|PMS
+Isang|PRI_CCP kaibigan|NNC ,|PMC "|PMS sabi|VBS ni|DTP Meena|NNP at|CCA humagikgik|VBAF habang|RBW nagmamalaki|VBTR na|CCP inihayag|VBTS ni|DTP Mithu|NNP ,|PMC "|PMS Ang|DTC pangalan|NNC ko|PRS ay|LM Mithu|NNP !|PMS "|PMS
+Kinabukasan|RBW ay|LM ang|DTC unang|JJN_CCP araw|NNC ni|DTP Meena|NNP sa|CCT paaralan|NNC .|PMP
+Masayang|JJD_CCP -|PMS masaya|JJD siya|PRS .|PMP
+Nahuli|VBTS niya|PRS ang|DTC isang|PRI_CCP magnanakaw|NNC ng|CCB manok|NNC at|CCA ginawang|VBOF_CCP totoo|RBT ang|DTC kanyang|PRSP_CCP pangarap|NNC !|PMS
+Sinabi|VBTS nina|DTPP Meena|NNP at|CCA Mithu|NNP ,|PMC "|PMS Ang|DTC bawat|PRI bata|NNC ay|LM dapat|VBS pumunta|VBAF sa|CCT paaralan|NNC !|PMS "|PMS
+I|CDB -|PMS print|NNC ang|DTC puzzle|NNC na|CCP ito|PRO at|CCA lutasin|VBOF sa|CCT pamamagitan|NNC ng|CCB paglalagay|NNC ng|CCB punto|NNC ng|CCB iyong|PRSP_CCP lapis|NNC sa|CCT tuldok|NNC na|CCP numero|NNC at|CCA pagguhit|NNC ng|CCB isang|PRI_CCP linya|NNC sa|CCT tuldok|NNC na|CCP numero|NNC .|PMP
+Pagkatapos|VBW ay|LM gumuhit|VBAF ng|CCB isa|PRI pang|RBI_CCP linya|NNC upang|CCB tuldok|NNC ang|DTC numero|NNC at|CCA iba|PRI pa|RBI ,|PMC hanggang|RBW sa|CCT nakakonekta|VBTS mo|PRS ang|DTC lahat|PRI ng|CCB mga|DTCP tuldok|NNC .|PMP
+Matapos|VBW mong|PRS_CCP gawin|VBOF ito|PRO ,|PMC maaari|VBS mong|PRS_CCP gamitin|VBOF ang|DTC iyong|PRSP_CCP krayola|NNC upang|CCB kulayan|VBOF ang|DTC sorpresa|NNC na|CCP larawan|NNC .|PMP

@@ -1,0 +1,28 @@
+May|VBH bulate|NNC malapit|JJD sa|CCT paa|NNC ni|DTP Toto|NNP !|PMS
+Sarap|NNP !|PMS
+Sinunggaban|VBTS ni|DTP Tata|NNP ang|DTC bulate|NNC .|PMP
+Iniisip|VBTS ni|DTP Toto|NNP nauna|VBTS niya|PRS itong|PRO_CCP nakita|VBTS .|PMP
+Ayaw|RBF bitawan|VBOF ni|DTP Toto|NNP ang|DTC bulate|NNC .|PMP
+Itatanong|VBTS nila|PRP kay|DTP Inang|NNP_CCP Manok|NNC kung|CCR kanino|PRQ dapat|VBS mapunta|VBW ang|DTC bulate|NNC .|PMP
+Uh|NNP oh|FW !|PMS
+Isa|PRI sa|CCT kanila|PRSP ang|DTC dapat|VBS bumalik|VBAF .|PMP
+Sino|PRQ ?|PMQ
+Sila|PRP ay|LM muling|RBW_CCP nagtalo|VBTS .|PMP
+Sumuko|VBAF si|DTP Tata|NNP .|PMP
+Ngayon|RBW nakawala|VBTS sila|PRP sa|CCT puno|NNC ng|CCB kamatis|NNC .|PMP
+Uh-oh|NNP !|PMS
+Nahulog|VBTS si|DTP Toto|NNP sa|CCT hukay|NNC .|PMP
+Paano|PRQ siya|PRS makabalik|VBW sa|CCT taas|NNC ?|PMQ
+Ayaw|RBF bitawan|VBOF ni|DTP Toto|NNP ang|DTC bulate|NNC .|PMP
+Ganun|NNP din|RBI si|DTP Tata|NNP .|PMP
+Nagtulakan|VBTS at|CCA naghilahan|VBTS ,|PMC nakalabas|VBTS sila|PRP !|PMQ
+Si|DTP Tata|NNP ay|LM umakyat|VBAF sa|CCT ibabaw|NNC ng|CCB ugat|NNC ng|CCB puno|NNC .|PMP
+Ngunit|CCT nahulog|VBTS si|DTP Tata|NNP .|PMP
+Ang|DTC bulate|NNC ay|LM nahati|VBTS sa|CCT dalawa|CDB !|PMS
+Inay|NNP !|PMS
+Nakakuha|VBTS kami|PRP ng|CCB bulate|NNC !|PMS
+Bumalik|VBAF na|CCP tayo|PRP sa|CCT hardin|NNC !|PMS
+Ang|DTC libro|NNC na|CCP ito|PRO ay|LM nabuo|VBTS sa|CCT pamamagitan|NNC ng|CCB isang|PRI_CCP book|FW development|FW workshop|FW na|CCP isinagawa|VBTS sa|CCT pamamagitan|NNC ng|CCB Litara|NNP Foundation|NNP ,|PMC Faculty|NNP of|FW Arts|NNP and|FW Design|NNP ng|CCB Bandung|NNP Institute|NNP of|FW Technology|NNP ,|PMC at|CCA The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC workshop|FW at|CCA professional|FW development|FW ,|PMC kasama|CCB ang|DTC editing|FW at|CCA desenyo|NNC ng|CCB librong|NNC_CCP ito|PRO ,|PMC ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP
+Ang|DTC Litara|NNP Foundation|NNP ay|LM isang|PRI_CCP nonprofitorganization|FW na|CCP naglalayon|VBTR tungo|NNC sa|CCT pagtaguyod|NNC ng|CCB literacy|FW at|CCA mga|DTCP kwentong|NNC_CCP pambata|JJD sa|CCT Indonesia|NNP .|PMP
+Sa|CCT iba|PRI pang|RBI_CCP impormasyon|NNC ,|PMC bisitahin|VBOF ang|DTC :|PMS http|FW :|PMS /|PMS /|PMS litara.or.id|FW /|PMS

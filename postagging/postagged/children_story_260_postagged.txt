@@ -1,0 +1,16 @@
+Masaya|NNP ?|PMQ
+Humahagikgik|NNP ?|PMQ
+Nalulumbay|VBTR ?|PMQ
+Galit|NNP ?|PMQ
+Naiinis|NNP ?|PMQ
+Malungkot|JJD ?|PMQ
+Nag|NNP -|PMS aalalaMatakaw|NNP ?|PMQ
+Nagtataka|VBTR ?|PMQ
+Ano|PRQ ang|DTC nararamdaman|VBTR mo|PRS ngayon|RBW ?|PMQ
+Isang|PRI_CCP paalala|NNC sa|CCT mga|DTCP guro|NNC at|CCA magulang|NNC :|PMS Kung|CCR minsan|RBW ang|DTC mga|DTCP bata|NNC ay|LM nahihirapang|RBD_CCP ipahayag|VBOF ang|DTC kanilang|PRSP_CCP nararamdaman|VBTR .|PMP
+Maaari|VBS ninyong|RBD_CCP gamitin|VBOF ang|DTC librong|NNC_CCP ito|PRO upang|CCB tulungan|VBTF_VBOF silang|PRP_CCP alamin|VBOF ang|DTC iba|PRI '|PMS t|NNCA ibang|PRI_CCP emosyon|NNC ,|PMC talakayin|VBOF ang|DTC mga|DTCP sitwasyon|NNC na|CCP naramdaman|VBTS nila|PRP ang|DTC mga|DTCP iyon|PRO ,|PMC at|CCA alamin|VBOF din|RBI ang|DTC ibang|PRI_CCP mga|DTCP emosyon|NNC o|CCT pakiramdam|NNC na|CCP hindi|RBF kabilang|CCB sa|CCT librong|NNC_CCP ito|PRO .|PMP
+Maari|VBS rin|RBI namang|RBI_CCP hikayatin|VBOF ang|DTC mga|DTCP bata|NNC na|CCP pag|CCR -|PMS usapan|NNC kung|RBK paano|RBQ nila|PRP hinaharap|VBTR ang|DTC mga|DTCP emosyon|NNC tulad|JJC ng|CCB galit|NNC at|CCA sakit|NNC .|PMP
+(|PMS Kailan|JJD ka|PRS nagagalit|VBTR ?|PMQ
+Ano|PRQ ang|DTC ginagawa|VBTR mo|PRS kapag|CCR malungkot|JJD ka|PRS ?|PMQ
+Sino|PRQ ang|DTC kinakausap|VBTR mo|PRS kapag|CCR nababalisa|VBTR ka|PRS ?|PMQ )|PMS
+Signer|NNP :|PMS Hira|NNP Maharjan|NNP .|PMP

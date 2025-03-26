@@ -1,0 +1,29 @@
+Gusto|VBS ni|DTP Palaka|NNP na|CCP pagmasdan|VBW ang|DTC mga|DTCP bituin|NNC .|PMP
+Gusto|VBS niya|PRS tumalon|VBAF at|CCA hawakan|VBOF ang|DTC mga|DTCP ito|PRO .|PMP
+Isang|PRI_CCP gabi|RBW ,|PMC naging|VBTS desidido|RBD siyang|PRS_CCP hawakan|VBOF ang|DTC mga|DTCP bituin|NNC .|PMP
+Umakyat|VBAF siya|PRS sa|CCT malaking|JJD_CCP bato|NNC ,|PMC at|CCA sinubukang|VBOF_CCP abutin|VBOF ang|DTC mga|DTCP ito|PRO .|PMP
+Ngunit|CCT hindi|RBF niya|PRS maabot|VBW ang|DTC mga|DTCP ito|PRO .|PMP
+Napakalayo|VBTS ng|CCB mga|DTCP bituin|NNC !|PMS
+Pagkatapos|VBW ,|PMC nakakita|VBTS siya|PRS ng|CCB burol|NNC .|PMP
+Inakyat|VBTS niya|PRS ito|PRO .|PMP
+Inunat|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC ngunit|CCT hindi|RBF pa|RBI rin|RBI niya|PRS maabot|VBW ang|DTC mga|DTCP bituin|NNC .|PMP
+Nakita|VBTS ng|CCB palaka|NNC ang|DTC isang|PRI_CCP puno|NNC ng|CCB niyog|NNC malapit|JJD sa|CCT kaniya|PRSP .|PMP
+Napakataas|JJCS_JJD nito|PRO .|PMP
+At|CCA ,|PMC naisip|VBTS niya|PRS na|CCP ito|PRO na|CCP ang|DTC sagot|NNC sa|CCT kaniyang|PRSP_CCP nais|NNC .|PMP
+Sinimulan|VBTS niya|PRS ang|DTC pag|CCR -|PMS akyat|NNC sa|CCT puno|NNC .|PMP
+Sobra|RBD siyang|PRS_CCP nahirapan|VBTS sa|CCT pag|CCR -|PMS akyat|JJD dito|PRL .|PMP
+Inunat|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC …|PMS pero|CCT di|RBF pa|RBI rin|RBI niya|PRS maabot|VBW ang|DTC mga|DTCP bituin|NNC .|PMP
+Nanlumo|VBTS siya|PRS .|PMP
+Tiningnan|VBOF niya|PRS ang|DTC ibaba|JJD .|PMP
+Tumalon|VBAF ang|DTC kaniyang|PRSP_CCP puso|NNC sa|CCT takot|NNC .|PMP
+Inilagay|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP kamay|NNC sa|CCT dibdib|NNC at|CCA sinabi|VBTS sa|CCT sarili|NNC ,|PMC "|PMS Di|RBF ako|PRS matatakot|VBTF .|PMP
+Kaya|CCR ko|PRS '|PMS to|FW !|PMS "|PMS
+Pagkatapos|VBW ,|PMC nakita|VBTS niya|PRS ang|DTC lawa|NNC .|PMP
+Kumikislap|NNP ang|DTC mga|DTCP bituin|NNC sa|CCT tubig|NNC .|PMP
+Pinagmasdan|VBRF niya|PRS ang|DTC mga|DTCP bituin|NNC at|CCA nagalak|VBTS siya|PRS .|PMP
+Tumalon|VBAF siya|PRS sa|CCT tubig|NNC .|PMP
+Habang|RBW papalapit|JJD siya|PRS sa|CCT lawa|NNC ,|PMC tila|RBM siya|PRS papalapit|JJD na|CCP rin|RBI siya|PRS sa|CCT mga|DTCP bituin|NNC .|PMP
+PLOK|NNPA !|PMS
+Sumisid|VBAF siya|PRS sa|CCT tubig|NNC .|PMP
+Umahon|VBAF siya|PRS at|CCA umupo|VBAF sa|CCT gilid|JJD ng|CCB lawa|NNC .|PMP
+Naupo|VBTS siya|PRS at|CCA pinagmasdan|VBRF ang|DTC mga|DTCP bituing|NNC_CCP kumikislap|VBTR_VBAF sa|CCT lawa|NNC .|PMP

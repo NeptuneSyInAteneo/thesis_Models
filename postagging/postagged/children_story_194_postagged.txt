@@ -1,0 +1,10 @@
+Ganito|PRC kumikinang|JJD ang|DTC aking|PRSP_CCP mukha|NNC .|PMP
+Ipagpalagay|VBTR na|CCP ang|DTC aking|PRSP_CCP mukha|NNC ay|LM tulad|JJC ng|CCB sa|CCT araw|NNC na|CCP makintab|JJD at|CCA maliwanag|JJD na|CCP nagbibigay|VBTR liwanag|NNC din|RBI sa|CCT buwan|NNC .|PMP
+Gaya|JJC ng|CCB bituin|NNC sa|CCT hilaga|JJD na|CCP nagsisilbing|VBTR_CCP gabay|NNC sa|CCT mga|DTCP manlalakbay|NNC .|PMP
+Tulad|JJC ng|CCB malakas|JJD na|CCP kidlat|NNC sa|CCT tuwing|RBW parating|RBW ang|DTC ulan|NNC .|PMP
+Gaya|JJC ng|CCB mga|DTCP alitaptap|NNC sa|CCT gabi|RBW na|CCP nagbibigay|VBTR liwanag|NNC sa|CCT mga|DTCP dahon|NNC at|CCA kakahuyan|NNC .|PMP
+Tila|RBM gintong|JJD_CCP kuhol|NNC sa|CCT ilalim|JJD ng|CCB dagat|NNC na|CCP umiilaw|VBAF sa|CCT tuwing|RBW nahaharap|VBTR sa|CCT panganib|NNC .|PMP
+Gaya|JJC ng|CCB kumikinang|JJD na|CCP uod|NNC sa|CCT tuwing|RBW maliligaw|VBW sa|CCT madilim|JJD na|CCP yungib|NNC .|PMP
+Gaya|JJC ng|CCB lampara|NNC na|CCP nasa|RBL ulo|NNC ng|CCB isdang|NNC_CCP angler|FW na|CCP iniilawan|VBTR ang|DTC malalim|JJD na|CCP dagat|NNC .|PMP
+Sa|CCT palagay|NNC ko|PRS ,|PMC lumiliwanag|VBTR ang|DTC aking|PRSP_CCP mukha|NNC sa|CCT tuwing|RBW ako|PRS ay|LM nakaririnig|VBTR ng|CCB mabubuting|JJD_CCP pananalita|NNC .|PMP
+Wakas|NNP

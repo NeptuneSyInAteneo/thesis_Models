@@ -1,0 +1,33 @@
+Ito|PRO si|DTP Pusa|NNP .|PMP
+Ito|PRO si|DTP Aso|NNP .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM natutulog|VBTR .|PMP
+Sila|PRP ay|LM natutulog|VBTR sa|CCT bahay|NNC .|PMP
+Nakikita|VBTR mo|PRS ang|DTC buwan|NNC .|PMP
+Nakikita|VBTR ang|DTC bituin|NNC .|PMP
+Ang|DTC buwan|NNC at|CCA ang|DTC mga|DTCP bituin|NNC ay|LM nasa|RBL langit|NNC .|PMP
+Pagkatapos|VBW ,|PMC lumalabas|VBTR_VBAF ang|DTC araw|NNC .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM tumingin|VBAF sa|CCT bintana|NNC .|PMP
+Nakita|VBTS nila|PRP ang|DTC araw|NNC .|PMP
+Sabay|RBD pumasok|VBAF sa|CCT paaralan|NNC sina|DTPP Pusa|NNP at|CCA Aso|NNP dala|JJD ang|DTC kanilang|PRSP_CCP mga|DTCP bag|NNC .|PMP
+Pagkatapos|VBW ,|PMC nagpakita|VBTS ang|DTC isang|PRI_CCP ulap|NNC .|PMP
+Nagpakita|VBTS ang|DTC dalawang|JJN_CCP ulap|NNC .|PMP
+Saka|CCA may|VBH lumabas|VBAF na|CCP tatlong|JJN_CCP ulapNakita|NNC ni|DTP Pusa|NNP at|CCA Aso|NNC ang|DTC mga|DTCP ulap|NNC .|PMP
+Hindi|RBF nila|PRP makita|VBW ang|DTC araw|NNC .|PMP
+Dumating|VBAF ang|DTC ulan|NNC .|PMP
+Ang|DTC ulan|NNC ay|LM galing|RBL sa|CCT mga|DTCP ulap|NNC .|PMP
+Bumagsak|VBAF ang|DTC ulan|NNC kay|DTP Pusa|NNP at|CCA Aso|NNC .|PMP
+Bumagsak|VBAF ang|DTC ulan|NNC sa|CCT kanilang|PRSP_CCP mga|DTCP bag|NNC .|PMP
+Umiyak|VBAF sina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+Dumaan|VBAF si|DTP Elepante|NNP .|PMP
+Narinig|VBTS ni|DTP Elepante|NNP ang|DTC iyak|NNC ni|DTP Pusa|NNP at|CCA Aso|NNC .|PMP
+Nakita|VBTS ni|DTP Elepante|NNP ang|DTC pagbuhos|NNC ng|CCB ulan|NNC .|PMP
+May|VBH dalang|JJD_CCP payong|NNC si|DTP Elepante|NNP .|PMP
+Binigyan|VBOF ni|DTP Elepante|NNP ng|CCB payong|NNC si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP .|PMP
+Ngumiti|VBAF si|DTP Pusa|NNP .|PMP
+Ngumiti|VBAF si|DTP Aso|NNP .|PMP
+Hinalikan|VBOF ni|DTP Pusa|NNP at|CCA ni|DTP Aso|NNP si|DTP Elepante|NNP .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP at|CCA si|DTP Elepante|NNP ay|LM naglakad|VBTS papuntang|RBL_CCP paaralan|NNC .|PMP
+Naglakad|VBTS sila|PRP sa|CCT ulan|NNC sa|CCT ilalim|JJD ng|CCB payong|NNC .|PMP
+Paalam|NNP ,|PMC Pusa|NNP .|PMP
+Paalam|NNP ,|PMC Aso|NNC .|PMP
+Paalam|NNP ,|PMC Elepante|NNP .|PMP

@@ -1,0 +1,37 @@
+Ngayon|RBW ang|DTC unang|JJN_CCP araw|NNC sa|CCT paaralan|NNC ni|DTP Nin|NNP .|PMP
+Ngunit|CCT hindi|RBF maisuot|VBTF ni|DTP Nin|NNP ang|DTC kaniyang|PRSP_CCP unipormeng|NNC_CCP mag|VBW -|PMS isa|PRI !|PMQ
+Tumakbo|VBAF siya|PRS sa|CCT kaniyang|PRSP_CCP nanay|NNC para|CCT humingi|VBAF ng|CCB tulong|NNC .|PMP "|PMS
+Mama|NNP ,|PMC pwede|VBS po|RBS bang|RBI_CCP tulungan|VBTF_VBOF ninyo|PRP akong|PRS_CCP isuot|VBOF ang|DTC aking|PRSP_CCP uniporme|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Nin|NNP .|PMP "|PMS
+Tutulungan|NNP kita|NNC pagkatapos|VBW kong|PRS_CCP magluto|VBW ,|PMC "|PMS sagot|NNC ni|DTP Mama|NNP .|PMP
+Lumabas|VBAF si|DTP Nin|NNP para|CCT humanap|VBAF ng|CCB ibang|PRI_CCP pwedeng|RBT_CCP tumulong|VBAF .|PMP "|PMS
+Papa|NNP ,|PMC pwede|VBS po|RBS bang|RBI_CCP tulungan|VBTF_VBOF ninyo|PRP akong|PRS_CCP isuot|VBOF ang|DTC aking|PRSP_CCP uniporme|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Nin|NNP .|PMP "|PMS
+Tutulungan|NNP kita|NNC pagkatapos|VBW kong|PRS_CCP pakainin|VBOF ang|DTC mga|DTCP pato|NNC ,|PMC "|PMS sagot|NNC ni|DTP Papa|NNP .|PMP "|PMS
+Lolo|NNP ,|PMC pwede|VBS po|RBS bang|RBI_CCP tulungan|VBTF_VBOF ninyo|PRP akong|PRS_CCP isuot|VBOF ang|DTC aking|PRSP_CCP uniporme|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Nin|NNP .|PMP "|PMS
+Dadalhin|VBTF ko|PRS lamang|RBI itong|PRO_CCP baka|NNC sa|CCT pastulan|NNC .|PMP
+Tutulungan|NNP kita|NNC pagbalik|VBW ko|PRS ,|PMC "|PMS sagot|NNC ni|DTP Lolo|NNP .|PMP "|PMS
+Lola|NNP ,|PMC pwede|VBS po|RBS bang|RBI_CCP tulungan|VBTF_VBOF ninyo|PRP akong|PRS_CCP isuot|VBOF ang|DTC aking|PRSP_CCP uniporme|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Nin|NNP .|PMP "|PMS
+Tutulungan|NNP kita|NNC pagkatapos|VBW kong|PRS_CCP magwalis|VBW ng|CCB mga|DTCP dahon|NNC sa|CCT bakuran|NNC ,|PMC "|PMS sagot|NNC ni|DTP Lola|NNP .|PMP "|PMS
+Kuya|NNP Lah|NNP !|PMS
+Maari|VBS po|RBS bang|RBI_CCP tulungan|VBTF_VBOF ninyo|PRP akong|PRS_CCP isuot|VBOF ang|DTC aking|PRSP_CCP uniporme|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Nin|NNP .|PMP "|PMS
+Tutulungan|NNP kita|NNC pagkatapos|VBW kong|PRS_CCP mag|VBW -|PMS igib|JJD ng|CCB tubig|NNC sa|CCT balon|NNC ,|PMC "|PMS sagot|NNC ni|DTP Kuya|NNP Lah|NNP .|PMP
+Walang|VBN_CCP pwedeng|RBT_CCP makatulong|VBW sa|CCT akin|PRSP ,|PMC malungkot|JJD na|CCP naisip|VBTS ni|DTP Nin|NNP .|PMP
+Lahat|PRI sila|PRP ay|LM abala|NNC .|PMP
+Nagpasya|VBTS si|DTP Nin|NNP na|CCP isuot|VBOF ang|DTC kaniyang|PRSP_CCP uniporme|NNC .|PMP
+Una|CDB ,|PMC ito|PRO ay|LM baliktad|JJD .|PMP
+Pagkatapos|VBW ,|PMC ang|DTC likod|JJD naman|RBI ay|LM napunta|VBTS sa|CCT harap|NNC .|PMP
+At|CCA pagkatapos|VBW ,|PMC sinubukan|VBOF din|RBI ni|DTP Nin|NNP na|CCP isuot|VBOF ang|DTC kaniyang|PRSP_CCP sapatos|NNC .|PMP
+Tumingin|VBAF si|DTP Nin|NNP sa|CCT salamin|NNC .|PMP
+Naku|PRS po|RBS !|PMQ
+Mali|NNP pa|RBI rin|RBI ang|DTC pagsuot|NNC niya|PRS ng|CCB uniporme|FW !|PMS
+Tiningnan|VBOF siya|PRS ng|CCB kanyang|PRSP_CCP pamilya|NNC at|CCA tumawa|VBAF .|PMP "|PMS
+Tutulungan|NNP kita|NNC ,|PMC "|PMS sabi|VBS ni|DTP Mama|NNP .|PMP "|PMS
+Tutulungan|VBTF ka|PRS din|RBI namin|PRP !|PMS "|PMS
+sabi|VBS nina|DTPP Kuya|NNP Lah|NNP at|CCA Papa|NNP .|PMP
+Ngayon|RBW ,|PMC handang|RBD_CCP -|PMS handa|JJD nang|RBD pumasok|VBAF sa|CCT paaralan|NNC si|DTP Nin|NNP .|PMP
+Maligayang|NNP_CCP unang|JJN_CCP araw|NNC ng|CCB pasukan|NNC ,|PMC Nin|NNP !|PMS
+Signer|NNP :|PMS Sobita|NNP Paudel|NNP .|PMP

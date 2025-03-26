@@ -1,0 +1,10 @@
+Ang|DTC isang|PRI_CCP elepante|NNC ay|LM iinom|VBTF ng|CCB tubig|NNC .|PMP
+Ang|DTC dalawang|JJN_CCP mga|DTCP dyirap|FW ay|LM iinom|VBTF ng|CCB tubig|NNC .|PMP
+Tatlong|JJN_CCP mga|DTCP kalabaw|NNC at|CCA apat|JJN na|CCP mga|DTCP ibon|NNC ay|LM iinom|VBTF din|RBI ng|CCB tubig|NNC .|PMP
+Limang|JJN_CCP mga|DTCP antilope|FW at|CCA anim|JJN na|CCP mga|DTCP warthog|FW ay|LM naglalakad|VBTR papunta|RBL sa|CCT tubig|NNC .|PMP
+Pitong|JJN_CCP mga|DTCP zebra|FW ay|LM tumatakbo|VBTR_VBAF papunta|VBW sa|CCT tubig|NNC .|PMP
+Walong|JJN_CCP mga|DTCP palaka|NNC at|CCA siyam|JJN na|CCP isda|NNC ay|LM lumalangoy|VBTR_VBAF sa|CCT tubig|NNC .|PMP
+Isang|PRI_CCP leon|NNC ay|LM umungal|VBAF .|PMP
+Nais|VBS niya|PRS rin|RBI na|CCP uminom|VBAF ng|CCB tubig|NNC .|PMP
+Sino|PRQ ang|DTC takot|NNC sa|CCT leon|NNC ?|PMQ
+Isang|PRI_CCP elepante|NNC ang|DTC umiinom|VBTR_VBAF ng|CCB tubig|NNC kasama|CCB ng|CCB leon|NNC .|PMP

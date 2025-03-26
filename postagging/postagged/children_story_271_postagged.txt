@@ -1,0 +1,26 @@
+Naghahanap|VBTR sina|DTPP Inang|NNP_CCP ibon|NNC at|CCA ang|DTC kaniyang|PRSP_CCP anak|NNC ng|CCB lugar|NNC na|CCP maari|VBS nilang|PRP_CCP maging|VBW bagong|JJD_CCP pugad|NNC .|PMP
+Nais|VBS nilang|PRP_CCP gumawa|VBAF ng|CCB bagong|JJD_CCP pugad|NNC na|CCP kanilang|PRSP_CCP magiging|VBTF tahanan|NNC .|PMP "|PMS
+Inay|NNP ,|PMC dito|PRL po|RBS ba|RBI tayo|PRP gagawa|VBTF ng|CCB pugad|NNC ?|PMQ
+Health|NNP center|FW po|RBS ito|PRO .|PMP
+Baka|NNP maabala|VBW po|RBS natin|PRP sila|PRP .|PMP "|PMS
+sabi|VBS ng|CCB munting|JJD_CCP ibon|NNC .|PMP "|PMS
+Inay|NNP ,|PMC dito|PRL po|RBS ba|RBI tayo|PRP magtatayo|VBTF ng|CCB pugad|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB munting|JJD_CCP ibon|NNC .|PMP "|PMS
+Inay|NNP ,|PMC dito|PRL po|RBS ba|RBI tayo|PRP magtatayo|VBTF ng|CCB pugad|NNC ?|PMQ "|PMS
+muling|RBW_CCP tanong|NNC ng|CCB munting|JJD_CCP ibon|NNC .|PMP "|PMS
+Paaralan|NNP po|RBS ito|PRO .|PMP
+Diyan|NNP po|RBS nag|NNCA -|PMS aaral|NNC ang|DTC mga|DTCP estudyante|NNC .|PMP
+Baka|NNP maabala|VBW po|RBS natin|PRP sila|PRP ,|PMC "|PMS agad|RBD na|CCP sabi|VBS ng|CCB munting|JJD_CCP ibon|NNC .|PMP "|PMS
+Inay|NNP ,|PMC dito|PRL po|RBS ba|RBI tayo|PRP gagawa|VBTF ng|CCB pugad|NNC ?|PMQ
+Palengke|NNP po|RBS ito|PRO .|PMP
+Walang|VBN_CCP pong|NNC_CCP mga|DTCP puno|JJD rito|PRL kaya|CCR hindi|RBF po|RBS tayo|PRP makagagawa|VBTF ng|CCB bagong|JJD_CCP pugad|NNC .|PMP "|PMS
+paliwanag|NNC ng|CCB munting|JJD_CCP ibon|NNC .|PMP "|PMS
+Inay|NNP ,|PMC dito|PRL po|RBS ba|RBI tayo|PRP gagawa|VBTF ng|CCB pugad|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB munting|JJD_CCP ibon|NNC .|PMP "|PMS
+Hindi|RBF puwede|RBT dito|PRL anak|NNC .|PMP
+Templo|NNP ito|PRO at|CCA baka|RBM maistorbo|VBW natin|PRP sila|PRP .|PMP "|PMS
+sagot|NNC ni|DTP Inang|NNP_CCP ibon|NNC .|PMP "|PMS
+Kung|CCR ganoon|PRC ,|PMC dito|PRL na|RBI lang|RBI tayo|PRP gumawa|VBAF ng|CCB pugad|NNC sa|CCT malaking|JJD_CCP puno|NNC .|PMP "|PMS
+sabi|VBS ni|DTP Inang|NNP_CCP ibon|NNC .|PMP "|PMS
+Gusto|VBS ko|PRS po|RBS rito|PRL ,|PMC malamig|JJD po|RBS ang|DTC hangin|NNC .|PMP "|PMS
+masayang|JJD_CCP sabi|VBS ni|DTP munting|JJD_CCP ibon|NNC .|PMP

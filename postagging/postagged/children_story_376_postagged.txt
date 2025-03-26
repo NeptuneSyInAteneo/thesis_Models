@@ -1,0 +1,25 @@
+Si|DTP Isa|PRI ,|PMC ang|DTC Dilaw|NNP na|CCP Kulisap|NNP Isinulat|VBTS ni|DTP Martha|NNP Evans|NNP Iginuhit|VBOF ni|DTP Catherine|NNP HoltzhausenIsa|NNP ay|LM naiiba|VBTR sa|CCT lahat|PRI ng|CCB kulisap|NNC .|PMP
+Hindi|RBF tulad|JJC ng|CCB kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC ,|PMC mayroon|VBH siyang|PRS_CCP matingkad|JJD na|CCP dilaw|JJD na|CCP pakpak|NNC .|PMP
+Mahal|NNP ng|CCB lahat|PRI ang|DTC kaniyang|PRSP_CCP dilaw|JJD na|CCP pakpak|NNC .|PMP
+Tuwing|RBW umaga|RBW ,|PMC palagi|RBW siyang|PRS_CCP binabati|VBTR ni|DTP Ruru|NNP na|CCP isang|PRI_CCP paru|FW -|PMS paro|NNC .|PMP
+Kinakawayan|VBTS ni|DTP Long|NNP na|CCP isang|PRI_CCP tipaklong|NNC .|PMP
+Kahit|CCT ang|DTC matampuhing|JJD_CCP gagambang|NNC_CCP si|DTP Amba|NNP ay|LM masayang|JJD_CCP nakikita|VBTR siya|PRS .|PMP
+Sa|CCT paaralan|NNC ay|LM maraming|PRI_CCP nakikipaglarong|VBTR_CCP kaibigan|NNC sa|CCT kaniya|PRSP .|PMP
+Sa|CCT kabila|CCT nito|PRO ,|PMC gusto|VBS pa|RBI rin|RBI ni|DTP Isa|PRI na|CCP maging|VBW katulad|JJC ng|CCB ibang|PRI_CCP mga|DTCP kulisap|NNC .|PMP "|PMS
+Sana|VBS ay|LM kulay|NNC pula|JJD rin|RBI ang|DTC aking|PRSP_CCP mga|DTCP pakpak|NNC katulad|JJC ng|CCB sa|CCT iyo|PRSP Nanay|NNC ,|PMC "|PMS iyak|NNC ni|DTP Isa|PRI .|PMP
+Para|CCT pasayahin|VBOF si|DTP Isa|PRI ,|PMC kinulayan|VBOF ng|CCB kaniyang|PRSP_CCP Nanay|NNC ng|CCB matingkad|JJD na|CCP pula|NNC ang|DTC kaniyang|PRSP_CCP mga|DTCP pakpak|NNC .|PMP
+Kinabukasan|RBW ,|PMC walang|VBN_CCP bumati|VBAF kay|DTP Isa|PRI habang|RBW papunta|VBW sa|CCT kaniyang|PRSP_CCP paaralan|NNC .|PMP
+Nang|RBW makarating|VBW siya|PRS sa|CCT paaralan|NNC wala|VBN kahit|CCT isa|PRI sa|CCT kaniyang|PRSP_CCP kaibigan|NNC ang|DTC bumati|VBAF .|PMP
+Mag|NNP -|PMS isang|PRI_CCP umupo|VBAF si|DTP Isa|PRI .|PMP
+Walang|VBN_CCP nakapansin|VBTS sa|CCT kaniyang|PRSP_CCP bagong|JJD_CCP pulang|JJD_CCP pakpak|NNC .|PMP
+Hanggang|RBW sa|CCT nakita|VBTS siya|PRS ni|DTP Binibining|NNP Miya|NNP at|CCA sinabing|VBTS ,|PMC "|PMS Pininturahan|VBOF mo|PRS pala|NNC ang|DTC iyong|PRSP_CCP magagandang|JJD_CCP dilaw|JJD na|CCP pakpak|NNC !|PMS "|PMS
+Nagulat|VBTS ang|DTC lahat|PRI ng|CCB mga|DTCP kaklase|NNC ni|DTP Isa|PRI .|PMP "|PMS
+Ang|DTC mga|DTCP pakpak|NNC mo|PRS ay|LM espesyal|JJD .|PMP
+Kakaiba|JJD ,|PMC "|PMS banggit|NNC ng|CCB kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC "|PMS Ang|DTC dilaw|JJD mong|PRS_CCP mga|DTCP pakpak|NNC ang|DTC nagpapakilala|VBTR sa|CCT iyo|PRSP .|PMP
+Tulad|JJC ng|CCB batik|NNC ni|DTP Baki|NNP at|CCA mga|DTCP binti|NNC ni|DTP Tina|NNP ,|PMC "|PMS banggit|NNC ni|DTP Binibining|NNP Miya|NNP .|PMP
+Agad|RBD na|CCP naligo|VBTS si|DTP Isa|PRI at|CCA kinuskos|VBOF ang|DTC pintura|NNC hanggang|RBW sa|CCT bumalik|VBAF ang|DTC makinang|NNC_CCP niyang|PRS_CCP dilaw|JJD na|CCP pakpak|NNC .|PMP "|PMS
+Hindi|RBF ko|PRS na|CCP muling|RBW_CCP kukulayan|NNC ang|DTC aking|PRSP_CCP pakpak|NNC !|PMS "|PMS
+kaniyang|PRSP_CCP naisip|VBTS .|PMP "|PMS
+Siguro|RBM paminsan|RBW -|PMS minsan|RBW na|CCP lamang|RBI ...|PMS "|PMS Susubukan|VBTF ang|DTC iba|PRI pang|RBI_CCP kulay|NNC ,|PMC pero|CCT para|CCT na|CCP lamang|RBI sa|CCT kasiyahan|NNC .|PMP
+Isang|PRI_CCP pasasalamat|RBS sa|CCT mga|DTCP volunteers|FW at|CCA staff|FW ng|CCB Book|NNP Dash|NNP upang|CCB mailathala|VBW ang|DTC kuwentong|NNC_CCP ito|PRO .|PMP
+Gayundin|CCB sa|CCT mga|DTCP kasama|CCB sa|CCT Dunlop|NNP para|CCT sa|CCT audio|FW recording|FW .|PMP

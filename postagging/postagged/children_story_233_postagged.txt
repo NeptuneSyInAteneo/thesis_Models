@@ -1,0 +1,20 @@
+Ang|DTC bahay|NNC namin|PRP ay|LM gawa|VBS sa|CCT kawayan|NNC .|PMP
+Ito|PRO ay|LM nasa|RBL mataas|JJD na|CCP lugar|NNC at|CCA katabi|JJD ng|CCB mga|DTCP puno|NNC .|PMP
+Ang|DTC bahay|NNC namin|PRP ay|LM gawa|VBS sa|CCT kahoy|NNC at|CCA ito|PRO ay|LM nasa|RBL ibabang|JJD_CCP palapag|NNC .|PMP
+Ang|DTC aking|PRSP_CCP Nanay|NNC at|CCA Tatay|NNC ay|LM may|VBH tindahan|NNC sa|CCT aming|PRSP_CCP bahay|NNC .|PMP
+Ang|DTC bahay|NNC namin|PRP ay|LM gawa|VBS sa|CCT kahoy|NNC na|CCP may|VBH bubong|NNC na|CCP gawa|VBS sa|CCT tiles|NNC .|PMP
+Palagi|RBW akong|PRS_CCP naglalaro|VBTR sa|CCT ilalim|JJD ng|CCB aming|PRSP_CCP bahay|NNC .|PMP
+Ang|DTC bahay|NNC namin|PRP ay|LM gawa|VBS sa|CCT semento|NNC ang|DTC unang|JJN_CCP palapag|NNC .|PMP
+Ang|DTC aking|PRSP_CCP Tiyahin|NNC ay|LM nagbebenta|VBTR ng|CCB mga|DTCP prutas|NNC sa|CCT bahay|NNC .|PMP
+Ang|DTC bahay|NNC namin|PRP ay|LM gawa|VBS rin|RBI sa|CCT semento|NNC ,|PMC ngunit|CCT ito|PRO ay|LM nasa|RBL unang|JJN_CCP palapag|NNC .|PMP
+Nagtayo|VBTS ang|DTC aking|PRSP_CCP Tiyahin|NNC ng|CCB isang|PRI_CCP patahian|NNC sa|CCT aming|PRSP_CCP bahay|NNC .|PMP
+Ang|DTC aking|PRSP_CCP bahay|NNC ay|LM gawa|VBS sa|CCT kahoy|NNC sa|CCT itaas|JJD at|CCA ng|CCB semento|NNC sa|CCT ibaba|JJD .|PMP
+Nagbukas|VBTS ang|DTC kapatid|NNC ko|PRS ng|CCB pagkukumpuni|NNC ng|CCB motor|NNC sa|CCT bahay|NNC koAng|NNC bahay|NNC ko|PRS ay|LM gawa|VBS sa|CCT kahoy|NNC na|CCP lumulutang|VBTR_VBAF sa|CCT tubig|NNC .|PMP
+Maaari|VBS tayong|PRP_CCP laging|RBD_CCP mangisda|VBW .|PMP
+Ang|DTC ating|PRSP_CCP bansa|NNC ay|LM may|VBH iba|PRI '|PMS t|NNCA ibang|PRI_CCP uri|NNC ng|CCB bahay|NNC .|PMP
+Ano|PRQ ang|DTC hitsura|NNC ng|CCB iyong|PRSP_CCP bahay|NNC ?|PMQ
+Anong|PRQ_CCP uri|NNC ng|CCB bahay|NNC ang|DTC pinakamataas|JJCS_JJD ,|PMC halos|JJD kapantay|JJD ng|CCB mga|DTCP puno|NNC ?|PMQ
+Anong|PRQ_CCP uri|NNC ng|CCB bahay|NNC ang|DTC kayang|RBD_CCP pagtayuan|VBW ng|CCB Patahian|NNP ?|PMQ
+Alam|VBS mo|PRS ba|RBI kung|RBK saan|RBQ gawa|VBS ang|DTC bahay|NNC na|CCP lumulutang|VBTR_VBAF sa|CCT tubig|NNC ?|PMQ
+Saan|PRQ gawa|VBS ang|DTC inyong|PRSP_CCP bahay|NNC ?|PMQ
+Ano|PRQ ang|DTC itsura|NNC nito|PRO ?|PMQ

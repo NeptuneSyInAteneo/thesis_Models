@@ -1,0 +1,22 @@
+"|PMS Maligayang|JJD_CCP kaarawan|NNC ,|PMC Urgen|NNP !|PMS "|PMS
+Bati|NNP ni|DTP Urmu|NNP sa|CCT kanyang|PRSP_CCP kapatid|NNC na|CCP babae|NNC .|PMP "|PMS
+Nananabik|NNP ako|PRS na|CCP makita|VBW ang|DTC mga|DTCP kaibigan|NNC ko|PRS ngayong|RBW_CCP kaarawan|NNC ko|PRS ,|PMC "|PMS sabi|VBS ni|DTP UrgenDumating|NNC_CCP si|DTP Asyang|NNP at|CCA Jyomo|NNP .|PMP
+Mayroong|VBH_CCP inabot|VBOF na|CCP regalo|NNC si|DTP Jyomo|NNP kay|DTP Urgen|NNP .|PMP
+Mayroon|VBH siyang|PRS_CCP nakitang|VBTS_CCP malaking|JJD_CCP bagay|NNC sa|CCT itaas|NNC niya|PRS .|PMP "|PMS
+Mhemhe|NNP ,|PMC ano|PRQ iyan|PRO ?|PMQ "|PMS
+tanong|NNC ni|DTP Jyomo|NNP .|PMP "|PMS
+Aangi|NNP ,|PMC iyan|PRO ba|RBI ay|LM isang|PRI_CCP nanglo|RBN ?|PMQ "|PMS
+tanong|NNC ulit|RBW ni|DTP Jyomo|NNP .|PMP "|PMS
+Plato|NNP ba|RBI yan|PRO ?|PMQ "|PMS
+tanong|NNC ulit|RBW ni|DTP Jyomo|NNP .|PMP "|PMS
+Urgen|NNP ,|PMC ano|PRQ ba|RBI iyung|PRO_CCP nakasabit|VBTS sa|CCT pader|NNC ninyo|PRP ?|PMQ "|PMS
+tanong|NNC ni|DTP Jyomo|NNP .|PMP
+Oras|NNP na|CCP para|CCT umuwi|VBAF .|PMP
+Pinaalalahan|VBTS ni|DTP Jyomo|NNP sa|CCT lahat|PRI na|CCP magaganap|VBTF ang|DTC pagdiriwang|NNC ng|CCB kanyang|PRSP_CCP kaarawan|NNC sa|CCT linggo|NNC .|PMP "|PMS
+Tinanong|VBTS ako|PRS ni|DTP Jyomo|NNP kung|RBK anong|RBQ_CCP bagay|NNC iyang|NNC_CCP nasa|RBL dingding|NNC ,|PMC "|PMS Sabi|VBW ni|DTP Urmu|NNP .|PMP "|PMS
+Nakalimutan|VBTS kong|PRS_CCP sagutin|VBOF ang|DTC kanyang|PRSP_CCP katanungan|NNC .|PMP "|PMS "|PMS
+Bakit|PRQ hindi|RBF natin|PRP ibigay|VBOF sa|CCT kanya|PRSP ito|PRO sa|CCT kanyang|PRSP_CCP kaarawan|NNC ?|PMQ "|PMS
+sabi|VBS ni|DTP Urgen|NNP .|PMP
+Kaaya|NNP -|PMS ayang|NNC_CCP mga|DTCP salita|NNC asyang|NNC_CCP -|PMS tiyuhin|VBOF mhemhe|FW -|PMS lolo|NNC aangi|NNC -|PMS tiyahin|NNC nanglo|RBN -|PMS bilaoAng|NNC_CCP materyales|NNC na|CCP ito|PRO ay|LM naging|VBTS possible|JJD dahil|CCR sa|CCT suporta|NNC ng|CCB All|NNP Children|NNP Reading|NNP :|PMS A|NNP Grand|NNP Challenge|NNP for|FW Development|NNP (|PMS ACR|NNPA GCD|NNPA )|PMS Founding|NNP Partners|NNP (|PMS the|FW United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP [|PMS USAID|NNPA ]|PMS ,|PMC World|NNP Vision|NNP ,|PMC and|FW the|FW Australian|NNP Government|NNP sa|CCT pakikipagtulungan|NNC ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
+Ito|PRO ay|LM inihanda|VBTS ng|CCB The|NNP Asia|NNP Foundation|NNP at|CCA hindi|RBF nagiimahe|VBTS ng|CCB pananaw|NNC ng|CCB ACR|NNPA GCD|NNPA Founding|NNP Partners|NNP o|CCT ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
+Anumang|PRI_CCP pag|CCR gaya|JJC o|CCT pagsasalin|NNC ng|CCB gawang|NNC_CCP ito|PRO ay|LM hindi|RBF dapat|VBS ikinokonsiderang|RBD_CCP opisyal|JJD ng|CCB ACR|NNPA GCD|NNPA translation|FW ,|PMC at|CCA ang|DTC ACR|NNPA GCD|NNPA ay|LM walang|VBN_CCP pananagutan|NNC sa|CCT mga|DTCP nilalaman|NNC o|CCT mali|JJD sa|CCT pagsasalin|NNC .|PMP

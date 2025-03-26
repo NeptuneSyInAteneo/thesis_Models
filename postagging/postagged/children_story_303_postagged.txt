@@ -1,0 +1,54 @@
+"|PMS Napakagandang|JJD_CCP araw|NNC "|PMS ,|PMC sabi|VBS ni|DTP inay|NNP .|PMP "|PMS
+Bangon|NNP na|CCP Nicholas|NNP .|PMP "|PMS "|PMS
+Kumusta|NNP haring|NNC_CCP araw|NNC ?|PMQ "|PMS
+sabi|VBS ni|DTP Nicholas|NNP .|PMP "|PMS
+Magandang|JJD_CCP umaga|RBW mga|DTCP ibon|NNC .|PMP "|PMS "|PMS
+Napakagandang|VBTR_CCP araw|NNC "|PMS ,|PMC sabi|VBS ni|DTP inay|NNP .|PMP "|PMS
+Gising|JJD na|CCP Nicholas|NNP .|PMP "|PMS "|PMS
+Kumusta|NNP haring|NNC_CCP araw|NNC ?|PMQ "|PMS
+sabi|VBS ni|DTP Nicholas|NNP .|PMP "|PMS
+Magandang|JJD_CCP umaga|RBW mga|DTCP ibon|NNC .|PMP "|PMS "|PMS
+Napakagandang|VBTS_CCP araw|NNC ,|PMC "|PMS sabi|VBS ni|DTP itay|NNC .|PMP "|PMS
+Tayo|PRS ay|LM mag|VBW -|PMS piknik|NNC sa|CCT tabing|NNC -|PMS ilog|NNC .|PMP "|PMS "|PMS
+Maaari|VBS ko|PRS bang|RBM isama|VBOF ang|DTC aking|PRSP_CCP kaibigang|NNC_CCP si|DTP Jacob|NNP ?|PMQ "|PMS
+tanong|NNC ni|DTP Nicholas|NNP .|PMP "|PMS
+Napakagandang|VBTS_CCP araw|NNC ,|PMC "|PMS sabi|VBS ni|DTP itay|NNC .|PMP "|PMS
+Tayo|PRS ay|LM magpiknik|VBAF sa|CCT tabing|JJD ilog|NNC .|PMP "|PMS "|PMS
+Maaari|VBS ko|PRS bang|RBM isama|VBOF ang|DTC aking|PRSP_CCP kaibigang|NNC_CCP si|DTP Jacob|NNP ?|PMQ "|PMS
+tanong|NNC ni|DTP Nicholas|NNP .|PMP "|PMS
+Huwag|RBF mo|PRS akong|PRS_CCP kalimutan|VBOF .|PMP
+Gustong|VBS_CCP gusto|VBS ko|PRS ang|DTC pagpipiknik|NNC !|PMS "|PMS
+sabi|VBS ng|CCB asno|NNC .|PMP "|PMS
+Ako|PRS rin|RBI .|PMP
+Gusto|VBS ko|PRS ring|RBI_CCP sumama|VBAF !|PMS "|PMS
+sabi|VBS ng|CCB aso|NNC .|PMP "|PMS
+Sumunod|VBAF kayo|PRP sa|CCT amin|PRSP ,|PMC "|PMS ,|PMC sabi|VBS ng|CCB mga|DTCP ibon|NNC .|PMP "|PMS
+Huwag|RBF mo|PRS akong|PRS_CCP kalimutan|VBOF .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS ko|PRS ang|DTC pagpipiknik|NNC !|PMS "|PMS
+sabi|VBS ng|CCB asno|NNC .|PMP "|PMS
+Ako|PRS rin|RBI .|PMP
+Gusto|VBS ko|PRS ring|RBI_CCP sumama|VBAF !|PMS "|PMS
+sabi|VBS ng|CCB aso|NNC .|PMP "|PMS
+Sumunod|VBAF kayo|PRP sa|CCT amin|PRSP ,|PMC "|PMS ,|PMC sabi|VBS ng|CCB mga|DTCP ibon|NNC .|PMP "|PMS
+Mag|NNP -|PMS unahan|CDB tayo|PRP papunta|VBW sa|CCT punong|JJD_CCP iyon|PRO ,|PMC "|PMS Wika|NNP ni|DTP Nicholas|NNP .|PMP "|PMS
+Uunahan|VBOF ko|PRS kayo|PRP sa|CCT punong|JJD_CCP iyon|PRO ,|PMC "|PMS Wika|NNP ni|DTP Nicholas|NNP .|PMP "|PMS
+Nanalo|VBTS ako|PRS ,|PMC nanalo|VBTS ako|PRS ,|PMC "|PMS sabi|VBS ng|CCB asno|NNC .|PMP "|PMS
+Hindi|RBF iyon|PRO patas|JJD ,|PMC "|PMS sabi|VBS ni|DTP Nicholas|NNP .|PMP "|PMS
+Apat|JJN ang|DTC iyong|PRSP_CCP mga|DTCP paa|NNC .|PMP "|PMS "|PMS
+Nanalo|VBTS ako|PRS ,|PMC nanalo|VBTS ako|PRS ,|PMC "|PMS sabi|VBS ng|CCB asno|NNC .|PMP "|PMS
+Hindi|RBF iyon|PRO patas|JJD ,|PMC "|PMS sabi|VBS ni|DTP Nicholas|NNP .|PMP "|PMS
+Apat|JJN ang|DTC iyong|PRSP_CCP mga|DTCP paa|NNC .|PMP "|PMS "|PMS
+Tignan|VBOF mo|PRS ang|DTC kayang|RBD_CCP kong|PRS_CCP gawin|VBOF ,|PMC "|PMS sabi|VBS ni|DTP Nicholas|NNP .|PMP "|PMS
+Sa|CCT tingin|NNC ko|PRS ,|PMC hindi|RBF mo|PRS ito|PRO kayang|RBD_CCP gawin|VBOF ,|PMC "|PMS sabi|VBS naman|RBI ni|DTP Jacob|NNP .|PMP "|PMS
+Tignan|VBOF ninyo|PRP ang|DTC kaya|CCR kong|PRS_CCP gawin|VBOF ,|PMC "|PMS sabi|VBS ni|DTP Nicholas|NNP .|PMP "|PMS
+Sa|CCT tingin|NNC ko|PRS ,|PMC hindi|RBF niyo|PRP ito|PRO kaya|CCR ,|PMC "|PMS sabi|VBS naman|RBI ni|DTP Jacob|NNP .|PMP "|PMS
+Narito|VBTS na|CCP tayo|PRP kung|RBK saan|RBQ tayo|PRP ay|LM magpipiknik|VBW ,|PMC "|PMS sabi|VBS ni|DTP itay|NNC .|PMP "|PMS
+Nandito|VBTS na|CCP tayo|PRP sa|CCT lugar|NNC ng|CCB ating|PRSP_CCP pagpipiknikan|NNC ,|PMC "|PMS sabi|VBS ni|DTP itay|NNC .|PMP "|PMS
+Mag|NNP -|PMS unahan|CDB tayo|PRP sa|CCT tubig|NNC !|PMS "|PMS
+wika|NNC ni|DTP Jacob|NNP "|PMS Unahan|VBAF tayo|PRP sa|CCT tubig|NNC !|PMS "|PMS
+wika|NNC ni|DTP Jacob|NNP "|PMS Halina|NNP at|CCA kumain|VBAF ,|PMC mga|DTCP bata|NNC ,|PMC "|PMS sabi|VBS ni|DTP inay|NNP .|PMP "|PMS
+Halina|NNP at|CCA kumain|VBAF ,|PMC mga|DTCP bata|NNC ,|PMC "|PMS sabi|VBS ni|DTP inay|NNP .|PMP "|PMS
+Oras|NNP na|CCP para|CCT umuwi|VBAF ,|PMC "|PMS sabi|VBS ni|DTP inay|NNP .|PMP "|PMS
+Magpaalam|NNP ka|PRS na|CCP kay|DTP Jacob|NNP .|PMP "|PMS "|PMS
+Oras|NNP na|CCP para|CCT umuwi|VBAF ,|PMC "|PMS sabi|VBS ni|DTP inay|NNP .|PMP "|PMS
+Magpaalam|NNP ka|PRS na|CCP kay|DTP Jacob|NNP .|PMP "|PMS

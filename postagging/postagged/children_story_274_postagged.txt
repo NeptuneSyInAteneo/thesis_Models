@@ -1,0 +1,36 @@
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC lahat|PRI ng|CCB mga|DTCP ibon|NNC ay|LM kulay|NNC puti|JJD .|PMP "|PMS
+Gawin|NNP mo|PRS akong|PRS_CCP maganda|JJD ,|PMC Madyikero|VBTF kong|PRS_CCP Lolo|NNC ,|PMC "|PMS ang|DTC sabi|VBS ni|DTP Woodpecker|NNP .|PMP
+Halika|NNP rito|PRL ,|PMC pipintahan|VBTR kita|NNC ng|CCB magandang|JJD_CCP kulay|NNC ,|PMC "|PMS sabi|VBS ng|CCB Madyikerong|NNC_CCP Lolo|NNC .|PMP
+Ngayon|RBW ,|PMC kulay|NNC pula|JJD na|CCP si|DTP Woodpecker|NNP .|PMP
+Nakatingin|RBD ang|DTC isang|PRI_CCP maliit|JJD na|CCP ibon|NNC kay|DTP Woodpecker|NNP .|PMP
+Gusto|VBS rin|RBI niyang|PRS_CCP maging|VBW maganda|JJD .|PMP "|PMS
+Ito|PRO ang|DTC paboriton|NNC kong|PRS_CCP bulaklak|NNC ,|PMC "|PMS sabi|VBS ng|CCB maliit|JJD na|CCP ibon|NNC sa|CCT Madyikerong|NNC_CCP Lolo|NNC .|PMP "|PMS
+Maaari|VBS mo|PRS ba|RBI akong|PRS_CCP pintahan|VBOF katulad|JJC ng|CCB kulay|NNC ng|CCB bulaklak|NNC na|CCP ito|PRO ?|PMQ "|PMS
+Pinintahan|VBOF ng|CCB Madyikerong|NNC_CCP Lolo|NNC ng|CCB magandang|JJD_CCP kulay|NNC dilaw|JJD ang|DTC maliit|JJD na|CCP ibon|NNC .|PMP
+Pumunta|VBAF ang|DTC dilaw|JJD na|CCP ibon|NNC kay|DTP Woodpecker|NNP .|PMP "|PMS
+Tingnan|VBOF mo|PRS ako|PRS ,|PMC maganda|JJD na|CCP ako|PRS ,|PMC Woodpecker|NNP !|PMS "|PMS
+sabi|VBS ng|CCB dilaw|JJD na|CCP ibon|NNC .|PMP
+Hindi|RBF ,|PMC hindi|RBF ,|PMC mas|JJCC maganda|JJD ako|PRS sa|CCT iyo|PRSP ,|PMC "|PMS sagot|NNC naman|RBI ni|DTP Woodpecker|NNP .|PMP
+Sinubukang|RBD_CCP pakalmahin|VBOF ni|DTP Oriole|NNP ang|DTC dalawa|CDB .|PMP
+Habang|RBW ang|DTC dalawa|JJN ay|LM nag|VBTS -|PMS aaway|FW ,|PMC humalo|VBAF ang|DTC dilaw|JJD na|CCP kulay|NNC ng|CCB maliit|JJD na|CCP ibon|NNC sa|CCT pulang|JJD_CCP kulay|NNC ng|CCB Woodpecker|NNP .|PMP
+Buhat|RBW doon|PRL ,|PMC naging|VBTS orange|FW ang|DTC kulay|NNC ni|DTP Oriole|NNP !|PMS "|PMS
+O|NNP -|PMS o|CCT -|PMS range|FW ,|PMC o|CCT -|PMS o|CCT -|PMS riole|FW !|PMS
+O|NNP -|PMS o|CCT -|PMS range|FW ,|PMC o|CCT -|PMS o|CCT -|PMS riole|FW !|PMS "|PMS
+Hinamon|VBOF ng|CCB parrots|FW si|DTP Oriole|NNP .|PMP
+Galit|NNP na|CCP sinugod|VBTS ni|DTP Oriole|NNP ang|DTC mga|DTCP ibon|NNC ,|PMC pagkaraan|VBW .|PMP "|PMS
+Oh|NNP ,|PMC Madyikerong|NNC_CCP Lolo|NNP !|PMS "|PMS
+iyak|NNC ng|CCB parrots|FW .|PMP "|PMS
+Tulungan|VBOF mo|PRS kami|PRP !|PMQ "|PMS "|PMS
+Halika|NNP ,|PMC pipintahan|VBTS kita|NNC ng|CCB kulay|NNC berde|JJD o|CCT luntian|NNC ,|PMC "|PMS alok|NNC ng|CCB Madyikerong|NNC_CCP Lolo|NNC .|PMP
+Ipinakita|VBTS ng|CCB berdeng|JJD_CCP parrots|FW ang|DTC kanyang|PRSP_CCP kulay|NNC kay|DTP Kingfisher|NNP .|PMP "|PMS
+Saan|PRQ mo|PRS nakuha|VBTS ang|DTC iyong|PRSP_CCP magandang|JJD_CCP kulay|NNC ,|PMC mahal|JJD kong|PRS_CCP parrots|FW ?|FW "|PMS "|PMS
+Pumunta|VBAF ka|PRS kay|DTP Madyikerong|NNP Lolo|NNP !|PMS "|PMS
+ang|DTC huni|NNC nila|PRP .|PMP
+Katulad|JJC ng|CCB asul|JJD o|CCT bughaw|JJD na|CCP alapaap|NNC .|PMP
+Kaya|CCR '|PMS t|NNCA ginawa|VBOF ng|CCB Madyikerong|NNC_CCP Lolo|NNC na|CCP kulay|NNC asul|JJD o|CCT bughaw|JJD ang|DTC Kingfisher|NNP .|PMP
+Pumunta|VBAF si|DTP Kingsfisher|NNP kay|DTP Woodpecker|NNP .|PMP
+Habang|RBW sila|PRP ay|LM nag|VBTS -|PMS uusap|NNC ,|PMC dumating|VBAF si|DTP Pigeon|NNP .|PMP "|PMS
+Oh|NNP hindi|RBF !|PMQ
+Ang|DTC bahagyang|JJD_CCP kulay|NNC pula|JJD mula|RBL kay|DTP Woodpecker|NNP ay|LM humalo|VBAF sa|CCT bahagyang|JJD_CCP kulay|NNC asul|JJD o|CCT bughaw|JJD mula|RBL naman|RBI kay|DTP Kingfisher|NNP .|PMP
+Nabahiran|VBTS ng|CCB bahagyang|JJD_CCP lila|NNC o|CCT ube|NNC ang|DTC Pigeon|NNP .|PMP "|PMS
+Magandang|RBD_CCP tingnan|VBOF ang|DTC lila|NNC o|CCT ube|NNC sa|CCT aking|PRSP_CCP katawan|NNC ,|PMC "|PMS sabi|VBS ng|CCB Pigeon|NNP .|PMP

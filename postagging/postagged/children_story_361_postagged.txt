@@ -1,0 +1,53 @@
+"|PMS Maari|VBS mo|PRS ba|RBI kaming|PRP_CCP igawa|JJN ng|CCB cake|FW ,|PMC Nanay|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB mga|DTCP bata|NNC .|PMP "|PMS
+Sino|PRQ ang|DTC puwedeng|RBT_CCP pumunta|VBAF ng|CCB tindahan|NNC para|CCT bumili|VBAF ng|CCB harina|NNC ?|PMQ "|PMS "|PMS
+Hindi|RBF ako|PRS ,|PMC "|PMS sagot|NNC ni|DTP Pedro|NNP .|PMP "|PMS
+Hindi|RBF ako|PRS ,|PMC "|PMS sagot|NNC ni|DTP Josie|NNP .|PMP "|PMS
+Hindi|RBF ako|PRS ,|PMC "|PMS sagot|NNC ni|DTP Sam|NNP .|PMP "|PMS
+Ako|PRS na|CCP lng|FW ,|PMC "|PMS sagot|NNC ni|DTP Bubu|NNP .|PMP "|PMS
+Sino|PRQ ang|DTC puwedeng|RBT_CCP pumunta|VBAF sa|CCT kulungan|NNC ng|CCB mga|DTCP manok|NNC para|CCT kumuha|VBAF ng|CCB mga|DTCP itlog|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB kanilang|PRSP_CCP nanay|NNC .|PMP "|PMS
+Hindi|RBF ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Peter|NNP .|PMP "|PMS
+Hindi|RBF ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Josie|NNP .|PMP "|PMS
+Hindi|RBF ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Sam|NNP .|PMP "|PMS
+Ako|PRS na|CCP po|RBS ang|DTC kukuha|VBTF ng|CCB mga|DTCP itlog|NNC ,|PMC sabi|VBS ni|DTP Bubu|NNP .|PMP "|PMS
+Sino|PRQ ang|DTC puwedeng|RBT_CCP pumunta|VBAF kay|DTP Tiya|NNP Mary|NNP upang|CCB kumuha|VBAF ng|CCB mantikilya|NNC at|CCA gatas|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Nanay|NNP .|PMP "|PMS
+Hindi|RBF ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Peter|NNP .|PMP "|PMS
+Hindi|RBF ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Josie|NNP "|PMS Hindi|RBF ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Sam|NNP "|PMS Ako|PRS na|RBI rin|RBI po|RBS ,|PMC "|PMS ang|DTC sabi|VBS ni|DTP Bubu|NNP .|PMP
+Ginawa|VBOF ni|DTP Nanay|NNP ang|DTC cake|FW .|PMP
+Niluto|NNP nya|PRS ito|PRO sa|CCT oven|FW .|PMP
+Napakabango|VBTS nito|PRO .|PMP "|PMS
+Mmmmmm|NNP ,|PMC "|PMS sunud|FW -|PMS sunod|JJD na|CCP pagsinghot|NNC ng|CCB mga|DTCP bata|NNC .|PMP "|PMS
+Sino|PRQ ang|DTC tutulong|VBTF sakin|NNC upang|CCB kainin|VBOF ang|DTC cake|FW ?|FW "|PMS
+sabi|VBS ni|DTP Mama|NNP .|PMP "|PMS
+Ako|PRS na|RBI .|PMP "|PMS
+sabi|VBS ni|DTP Peter|NNP .|PMP "|PMS
+Ako|PRS na|RBI .|PMP "|PMS
+sabi|VBS ni|DTP Josie|NNP .|PMP "|PMS
+Ako|PRS na|RBI .|PMP "|PMS
+sabi|VBS ni|DTP Sam|NNP .|PMP "|PMS
+Hindi|RBF !|PMS
+sabi|VBS ni|DTP Nanay|NNP .|PMP "|PMS
+Si|DTP Bubu|NNP ang|DTC tutulong|VBTF sa|CCT akin|PRSP !|PMQ "|PMS .|PMP
+Sino|PRQ ang|DTC nagtanong|VBTS kay|DTP Mama|NNP na|CCP gumawa|VBAF ng|CCB cake|FW ?|FW .|PMP
+Anong|PRQ_CCP mga|DTCP sangkap|NNC ang|DTC kailangan|VBS ng|CCB nanay|NNC sa|CCT paggawa|NNC ng|CCB cake|FW ?|FW .|PMP
+Sino|PRQ ang|DTC pumunta|VBAF sa|CCT tindahan|NNC pra|NNC bumili|VBAF ng|CCB harina|NNC ?|PMQ
+Bakit|PRQ ?|FW .|PMP
+Saan|PRQ matatagpuan|VBTF ang|DTC mga|DTCP itlog|NNC ?|PMQ .|PMP
+Ano|PRQ kaya|CCR ang|DTC naramdaman|VBTS ng|CCB Inahin|VBOF noong|RBW_CCP kinuha|VBOF ni|DTP Bubu|NNP ang|DTC mga|DTCP itlog|NNC ?|PMQ .|PMP
+Anong|PRQ_CCP kinailangan|VBTS nila|PRP mula|RBL kay|DTP Tiya|NNP Mary|NNP ?|FW .|PMP
+Ano|PRQ ang|DTC amoy|NNC ng|CCB cake|FW ?|FW .|PMP
+Sino|PRQ ang|DTC gustong|VBS_CCP kumain|VBAF ng|CCB cake|FW ?|FW .|PMP
+Sino|PRQ ang|DTC pinatulong|VBTR ng|CCB nanay|NNC para|CCT kainin|VBOF ang|DTC cake|FW ?|PMQ
+Bakit|PRQ ?|FW .|PMP
+Anong|PRQ_CCP matutunan|VBW natin|PRP mula|RBL sa|CCT kuwento|NNC ?|PMQ
+Aktibidad|NNP Gumuhit|NNP ng|CCB litrato|NNC ng|CCB mga|DTCP bagay|NNC na|CCP kailangan|VBS sa|CCT paggawa|NNC ng|CCB cake|FW .|PMP
+Ang|DTC Bilum|NNP Books|NNP ay|LM naglalathala|RBD ng|CCB mga|DTCP de|FW -|PMS kalidad|NNC na|CCP mapagkukunang|VBW_CCP pang|RBI_CCP -|PMS edukasyon|NNC para|CCT sa|CCT mga|DTCP paaralan|NNC sa|CCT Papua|NNP New|NNP Guinea|NNP .|PMP
+Ang|DTC aming|PRSP_CCP priyoridad|NNC sa|CCT pag|CCR -|PMS publish|JJD ay|LM literacy|FW .|PMP
+Ang|DTC aming|PRSP_CCP pangako|NNC ay|LM tumulong|RBD na|CCP itaas|JJD ang|DTC mga|DTCP pamantayan|NNC sa|CCT pamamagitan|NNC ng|CCB paggawa|NNC ng|CCB mga|DTCP de-kalidad|JJD na|CCP libro|NNC sa|CCT mga|DTCP makatwirang|JJD_CCP presyo|NNC at|CCA naaayon|VBTR sa|CCT PNG|NNPA Department|NNP of|FW Education|NNP Syllabus|NNP .|PMP
+Ang|DTC Bilum|NNP Books|NNP ay|LM nagpapatakbo|VBTR ng|CCB mga|DTCP workshop|NNC sa|CCT pagsasanay|NNC ng|CCB guro|NNC upang|CCB tulungan|VBTF_VBOF ang|DTC propesyonal|JJD na|CCP pag|CCR -|PMS unlad|JJD ng|CCB mga|DTCP guro|NNC sa|CCT Elementarya|NNP ,|PMC sa|CCT partikular|JJD .|PMP
+Bisitahinang|NNP_CCP aming|PRSP_CCP website|FW :|PMS www.bilumbooks.com|FW o|CCT Facebook|NNP .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM ginawang|VBOF_CCP posible|JJD sa|CCT pamamagitan|NNC ng|CCB suporta|NNC ng|CCB All|NNP Children|NNP Reading|NNP :|PMS A|NNP Grand|NNP Challenge|NNP for|FW Development|NNP (|PMS ACR|NNPA GCD|NNPA )|PMS Founding|NNP Partners|NNP (|PMS ang|DTC United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP [|PMS USAID|NNPA ]|PMS ,|PMC World|NNP Vision|NNP ,|PMC at|CCA ang|DTC Australian|NNP Government|NNP )|PMS sa|CCT pakikipagtulungan|NNC sa|CCT Global|NNP Book|NNP Alliance|NNP .|PMP
+Ito|PRO ay|LM inihanda|VBTS ng|CCB The|NNP Asia|NNP Foundation|NNP at|CCA hindi|RBF tahasang|RBD_CCP sumasalamin|VBTR_VBAF sa|CCT mga|DTCP pananaw|NNC ng|CCB ACR|NNPA GCD|NNPA Founding|NNP Partners|NNP o|CCT ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
+Anumang|PRI_CCP pag|CCR -|PMS aangkop|FW o|CCT pagsasalin|NNC ng|CCB gawaing|NNC_CCP ito|PRO ay|LM hindi|RBF dapat|VBS isaalang|VBTF -|PMS alang|NNC ng|CCB isang|PRI_CCP opisyal|JJD na|CCP pagsasalin|NNC ng|CCB ACR|NNPA GCD|NNPA ,|PMC at|CCA ang|DTC ACR|NNPA GCD|NNPA ay|LM hindi|RBF mananagot|VBTF para|CCT sa|CCT anumang|PRI_CCP nilalaman|NNC o|CCT pagkakamali|NNC sa|CCT pagsasalin|NNC na|CCP ito|PRO .|PMP

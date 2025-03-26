@@ -1,0 +1,38 @@
+Tuwing|RBW umaga|RBW ,|PMC maagang|JJD_CCP gumigising|FW ang|DTC Munting|PRSP_CCP Rhino|NNC para|CCT maglakad|VBW papuntang|RBL_CCP paaralan|NNC .|PMP
+Dahil|CCR sa|CCT kaniyang|PRSP_CCP maiksing|JJD_CCP binti|NNC ,|PMC hindi|RBF maaaring|RBM sumakay|VBAF ng|CCB bisikleta|NNC ang|DTC Munting|PRSP_CCP Rhino|NNC tulad|JJC ng|CCB kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Kailangan|VBS niyang|PRS_CCP maglakad|VBW papuntang|RBL_CCP paaralan|NNC mag|VBW -|PMS isa|PRI .|PMP
+Palaging|RBD_CCP huli|JJD ang|DTC Munting|NNC_CCP Rhino|NNP .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC sa|CCT oras|NNC ng|CCB recess|FW ,|PMC napansin|VBTS ni|DTP Zebra|NNP na|CCP malungkot|JJD ang|DTC Munting|NNC_CCP Rhino|NNP .|PMP "|PMS
+Ano|PRQ ang|DTC problema|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Zebra|NNP .|PMP "|PMS
+Gusto|VBS kong|PRS_CCP sumakay|VBAF ng|CCB bisikleta|NNC patungo|RBL sa|CCT paaralan|NNC ngunit|CCT ang|DTC aking|PRSP_CCP mga|DTCP binti|NNC ay|LM masyadong|JJCS_CCP maikli|JJD .|PMP "|PMS
+Iminungkahi|VBTS ni|DTP Zebra|NNP na|CCP magtulungan|VBW silang|PRP_CCP magkakaibigan|VBTF upang|CCB makahanap|VBW ng|CCB solusyon|NNC .|PMP
+Una|CDB ,|PMC tiningnan|VBOF nila|PRP ang|DTC lahat|PRI ng|CCB mga|DTCP bisikleta|NNC na|CCP sinasakyan|VBTR sa|CCT paaralan|NNC .|PMP "|PMS
+Baka|CCU maabot|VBW ng|CCB mga|DTCP paa|NNC mo|PRS ang|DTC mga|DTCP pedal|FW sa|CCT maliit|JJD na|CCP bisikleta|NNC ni|DTP Pato|NNP ?|PMQ "|PMS
+mungkahi|NNC ni|DTP Zebra|NNP .|PMP "|PMS
+Magandang|JJD_CCP ideya|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Pato|NNP .|PMP
+Ngunit|CCT ang|DTC Munting|NNC_CCP Rhino|NNP ay|LM tumingin|VBAF sa|CCT bisikleta|NNC ni|DTP Pato|NNP at|CCA umiling|VBAF .|PMP "|PMS
+Masyadong|JJCS_CCP maliit|JJD ,|PMC baka|RBM masira|VBW ko|PRS ito|PRO .|PMP "|PMS
+Sumunod|VBAF naman|RBI na|CCP nagmungkahi|VBTS si|DTP Unggoy|NNP .|PMP "|PMS
+Ano|PRQ kaya|CCR kung|CCR iyong|PRSP_CCP bisikleta|NNC ni|DTP Tagak|NNP ang|DTC subukan|VBTF mo|PRS ?|PMQ
+Magkasingtangkad|VBW kayong|JJD_CCP dalawa|CDB .|PMP "|PMS "|PMS
+Mahusay|JJD na|CCP ideya|NNC !|PMS "|PMS
+sagot|NNC ni|DTP Tagak|NNP .|PMP "|PMS
+Ngunit|CCT dapat|VBS mong|PRS_CCP subukang|RBD_CCP ibaba|VBTF muna|RBI ang|DTC upuan|NNC .|PMP "|PMS
+Sumang|NNP -|PMS ayon|RBR ang|DTC Munting|NNC_CCP Rhino|NNP na|CCP subukan|VBOF ito|PRO .|PMP
+Ibinaba|VBTS ng|CCB Munting|NNP Rhino|NNP ang|DTC upuan|NNC .|PMP
+Pero|CCT ,|PMC ang|DTC mga|DTCP hawakan|JJD ay|LM masyadong|JJCS_CCP mataas|JJD !|PMS
+Kaya|CCR binabaan|VBOF din|RBI niya|PRS ang|DTC mga|DTCP hawakan|JJD .|PMP
+Ngunit|CCT hindi|RBF pa|RBI rin|RBI niya|PRS maabot|VBW ang|DTC mga|DTCP pedal|FW .|PMP
+Nakakuha|VBTS ng|CCB isa|PRI pang|RBI_CCP ideya|NNC ang|DTC Munting|NNC_CCP Rhino|NNP .|PMP "|PMS
+Kung|CCR sobrang|JJCS_CCP baba|JJD pa|RBI ng|CCB pedal|FW ,|PMC paano|PRQ kung|CCR itaas|VBOF natin|PRP ?|PMQ
+Tutulungan|VBTF niyo|PRP ba|RBI ako|PRS ?|PMQ "|PMS
+tanong|NNC ng|CCB Munting|NNP Rhino|NNP sa|CCT kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP "|PMS
+Magandang|JJD_CCP ideya|NNC !|PMS "|PMS
+sagot|NNC nilang|PRP_CCP lahat|PRI .|PMP
+Pagkatapos|VBW pag|CCR -|PMS aralan|NNC ang|DTC bisikleta|NNC ni|DTP Tagak|NNP ,|PMC nagtulungan|VBTS ang|DTC Munting|NNC_CCP Rhino|NNP at|CCA ang|DTC kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC sa|CCT paggawa|NNC ng|CCB bagong|JJD_CCP bisikleta|NNC na|CCP tama|RBT para|CCT sa|CCT kaniya|PRSP .|PMP
+Sinigurado|VBTS nilang|PRP_CCP tama|RBT ang|DTC upuan|NNC ,|PMC manibela|NNC ,|PMC at|CCA mga|DTCP pedal|FW .|PMP
+Sa|CCT wakas|RBW ,|PMC ang|DTC Munting|NNC_CCP Rhino|NNP ay|LM may|VBH bisikleta|NNC na|CCP angkop|JJD na|CCP angkop|NNC na|CCP sa|CCT kaniya|PRSP !|PMQ
+Nang|RBW sumunod|VBAF na|CCP araw|NNC ,|PMC masaya|JJD niyang|PRS_CCP ginamit|VBOF ang|DTC kaniyang|PRSP_CCP bagong|JJD_CCP bisikleta|NNC papasok|NNC ng|CCB paaralan|NNC .|PMP
+Suportado|JJD ng|CCB SMART|NNPA .|PMP

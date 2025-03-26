@@ -1,0 +1,45 @@
+Ito|PRO ang|DTC aking|PRSP_CCP Ate|NNC Risa|NNP .|PMP
+Kaya|CCR niyang|PRS_CCP gawin|VBOF ang|DTC kahit|CCT na|CCP ano|PRQ .|PMP
+Kaya|CCR rin|RBI niyang|PRS_CCP umakyat|VBAF !|PMQ
+Gusto|VBS kong|PRS_CCP maging|VBW katulad|JJC ni|DTP Ate|NNP Risa|NNP .|PMP
+Kaya|CCR niyang|PRS_CCP gawin|VBOF ang|DTC kahit|CCT na|CCP ano|PRQ .|PMP
+Kaya|CCR niyang|PRS_CCP magpalipad|VBW ng|CCB eroplano|NNC .|PMP
+Gusto|VBS kong|PRS_CCP magpalipad|VBW ng|CCB eroplano|NNC nang|RBW mas|JJCC mataas|JJD .|PMP
+Lagot|NNP !|PMS
+Astig|NNP ang|DTC Ate|NNP Risa|NNP ko|PRS . . .|NNPA Hindi|RBF siya|PRS natatakot|VBTR sa|CCT mabangis|JJD na|CCP aso|NNC .|PMP
+Aray|NNP !|PMS
+Hindi|RBF nakita|VBTS ni|DTP Risa|NNP ang|DTC hukay|NNC .|PMP
+Kahit|CCT ano|PRQ pa|RBI yan|PRO ,|PMC kayang|RBD_CCP -|PMS kaya|CCR gawin|VBOF ni|DTP Ate|NNP Risa|NNP ang|DTC lahat|PRI .|PMP
+Kahit|CCT nahulog|VBTS na|CCP siya|PRS sa|CCT butas|NNC ,|PMC hindi|RBF siya|PRS umiyak|VBAF .|PMP
+Hala|NNP !|PMS
+Nasira|VBTS ang|DTC kaniyang|PRSP_CCP eroplano|NNC .|PMP
+Huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC .|PMP
+Sabi|VBS ni|DTP Ate|NNP Risa|NNP na|CCP kaya|RBD niyang|PRS_CCP ayusin|VBOF ang|DTC eroplano|NNC .|PMP
+Wala|VBN pa|RBI rin|RBI si|DTP Nanay|NNP sa|CCT bahay|NNC .|PMP
+Pero|CCT ayos|NNC lang|RBI .|PMP
+Sabi|VBS ni|DTP Ate|NNP Risa|NNP kaya|CCR niyang|PRS_CCP magluto|VBW ng|CCB espesyal|JJD na|CCP sinangag|VBTS .|PMP
+Kaya|CCR ko|PRS rin|RBI gawin|VBOF ang|DTC kahit|CCT na|CCP ano|PRQ .|PMP
+Kaya|CCR kong|PRS_CCP ayusin|VBOF ang|DTC eroplano|NNC .|PMP
+Hmmm|NNP ,|PMC nasaan|JJD kaya|CCR ang|DTC pandikit|JJD ?|PMQ
+Baka|NNP alam|VBS ni|DTP Ate|NNP Risa|NNP kung|CCR nasaan|JJD iyon|PRO !|PMQ
+Teka|NNP . . .|CDB umiiyak|VBTR_VBAF ba|RBI si|DTP Ate|NNP Risa|NNP ?|PMQ
+Bakit|PRQ siya|PRS umiiyak|VBTR_VBAF ?|PMQ
+Malungkot|JJD ba|RBI siya|PRS ?|PMQ
+Nasaktan|VBTS ba|RBI siya|PRS ?|PMQ
+Kaya|CCR ni|DTP Ate|NNP Risa|NNP na|CCP umakyat|VBAF sa|CCT puno|NNC .|PMP
+Hindi|RBF takot|NNC si|DTP Ate|NNP Risa|NNP sa|CCT mabangis|JJD na|CCP aso|NNC .|PMP
+Hindi|RBF umiyak|VBAF si|DTP Ate|NNP Risa|NNP nung|RBW natumba|VBTS siya|PRS .|PMP
+Pero|CCT bakit|PRQ umiiyak|VBTR_VBAF si|DTP Ate|NNP Risa|NNP ngayon|RBW ?|PMQ
+Malungkot|JJD ba|RBI siya|PRS ?|PMQ
+Teka|NNP ,|PMC sandali|RBW .|PMP
+Ano|PRQ ang|DTC bagay|NNC na|CCP ito|PRO ?|PMQ
+Ngayon|RBW bakit|PRQ ako|PRS umiiyak|VBTR_VBAF ?|PMQ
+Ah|RBJ !|PMS
+Ang|DTC sibuyas|NNC ang|DTC dahilan|NNC kung|RBK bakit|RBQ kami|PRP umiiyak|VBTR_VBAF !|PMQ
+Kayang|RBD_CCP gawin|VBOF ng|CCB ate|FW ko|PRS ang|DTC kahit|CCT na|CCP ano|PRQ .|PMP
+Ang|DTC kaniyang|PRSP_CCP sinangag|VBTS ay|LM masarap|JJD .|PMP
+Pagkatapos|RBW mananghalian|VBW ,|PMC sabay|RBD namin|PRP inayos|VBOF ang|DTC eroplano.|NNC ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC mga|DTCP babasahing|NNC_CCP hango|JJD sa|CCT pagkakalunsad|NNC ng|CCB book|FW creation|FW project|FW at|CCA nagbibigay|VBTR pagkilala|NNC sa|CCT mga|DTCP natatanging|JJD_CCP kababaihan|NNC bilang|CCT mga|DTCP pangunahing|JJD_CCP tauhan|NNC sa|CCT mga|DTCP kuwento|NNC nito|PRO .|PMP
+Nakibahagi|VBTR rin|RBI sa|CCT pagsulat|NNC ,|PMC pagguhit|NNC ,|PMC pag|CCR -|PMS edit|NNC at|CCA pagdidisenyo|VBW ng|CCB aklat|NNC na|CCP ito|PRO ang|DTC mga|DTCP piling|JJD_CCP kababaihan|NNC na|CCP kapwa|PRI mga|DTCP alagad|NNC ng|CCB sining|NNC at|CCA literatura|NNC .|PMP
+Ang|DTC babasahing|NNC_CCP ito|PRO ay|LM isinulat|VBTS mula|RBW sa|CCT isinagawang|VBTS_CCP bookcreation|FW workshop|FW sa|CCT pamamagitan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP at|CCA suporta|NNC ng|CCB Estée|NNP Louder|NNP Companies|NNP .|PMP
+Ang|DTC workshop|FW at|CCA ang|DTC iba|PRI pang|RBI_CCP professional|FW development|FW tulad|JJC ng|CCB pag|CCR -|PMS edit|NNC at|CCA pagdidisenyo|VBW ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

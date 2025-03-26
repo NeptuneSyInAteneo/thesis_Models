@@ -1,0 +1,44 @@
+Napisa|NNP ang|DTC itlog|NNC at|CCA lumabas|VBAF ang|DTC inakay|VBTS na|CCP may|VBH bughaw|JJD na|CCP paa|NNC .|PMP
+Zakadam|NNP ang|DTC ipinangalan|VBTS sa|CCT kanya|PRSP ni|DTP Nanay|NNP at|CCA Tatay|NNC ibon|NNC na|CCP may|VBH bughaw|JJD na|CCP paa|NNC .|PMP
+Naging|VBTS masaya|JJD sila|PRP kaya|CCR '|PMS t|NNCA ipinagdiwang|VBTS nila|PRP ang|DTC kanyang|PRSP_CCP kapanganakan|NNC sa|CCT pamamagitan|NNC ng|CCB sayaw|NNC .|PMP
+Sinubukan|VBTS ni|DTP Zakadam|NNP na|CCP gayahin|VBTS ito|PRO ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Nakasalubong|VBTS ni|DTP Zakadam|NNP ang|DTC manakin|NNC na|CCP may|VBH mapulang|JJD_CCP ulo|NNC at|CCA sabi|NNC ,|PMC "|PMS Kamusta|PRI ka|PRS ?|PMQ "|PMS
+Ngunit|CCT hindi|RBF sumagot|VBAF ang|DTC manakin|NNC na|CCP may|VBH mapulang|JJD_CCP ulo|NNC .|PMP
+Masyado|VBW siyang|PRS_CCP abala|NNC sa|CCT pagsasayaw|NNC .|PMP
+Sinubukan|VBTS ni|DTP Zakadam|NNP na|CCP gayahin|VBTS ito|PRO ,|PMC ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Napadaan|VBTS si|DTP Zakadam|NNP sa|CCT ilalim|JJD ng|CCB isang|PRI_CCP puno|NNC at|CCA nakita|VBTS niya|PRS ang|DTC isang|PRI_CCP rifle|FW bird|FW sa|CCT isang|PRI_CCP tuod|JJD .|PMP
+Sumigaw|VBAF siya|PRS ,|PMC "|PMS Ano|PRQ ang|DTC pangalan|NNC mo|PRS ?|PMQ "|PMS
+Ngunit|CCT hindi|RBF sumagot|VBAF ang|DTC "|PMS rifle|FW bird|FW "|PMS .|PMP "|PMS
+Masyado|VBW siyang|PRS_CCP abala|NNC sa|CCT pagsasayaw|NNC .|PMP
+Sinubukan|VBTS ni|DTP Zakadam|NNP na|CCP gayahin|VBTS ito|PRO ,|PMC ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Nasulyapan|VBTS ni|DTP Zakadam|NNP ang|DTC isang|PRI_CCP gagamba|NNC malapit|JJD sa|CCT isang|PRI_CCP bato|NNC .|PMP
+Tinanong|VBTS niya|PRS ,|PMC "|PMS Ibig|VBS mo|PRS bang|RBM maglaro|VBAF ?|PMQ "|PMS
+Ngunit|CCT hindi|RBF sumagot|VBAF ang|DTC gagamba|NNC .|PMP
+Masyado|VBW siyang|PRS_CCP abala|NNC sa|CCT pagsasayaw|NNC sa|CCT paligid|NNC ng|CCB kanyang|PRSP_CCP sapot|NNC .|PMP
+Sinubukan|VBTS ni|DTP Zakadam|NNP na|CCP gayahin|VBTS ito|PRO ,|PMC ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Nakakita|VBTS si|DTP Zakadam|NNP ng|CCB isang|PRI_CCP "|PMS Sage|NNP Grouse|NNP "|PMS .|PMP
+Tinanong|VBTS niya|PRS ito|PRO ,|PMC "|PMS Ano|PRQ ang|DTC ginagawa|VBTR mo|PRS ?|PMQ "|PMS
+Ngunit|CCT hindi|RBF sumagot|VBAF ang|DTC "|PMS Sage|NNP Grouse|NNP "|PMS .|PMP
+Masyado|VBW siyang|PRS_CCP abala|NNC sa|CCT pagsasayaw|NNC .|PMP
+Sinubukan|VBTS ni|DTP Zakadam|NNP na|CCP gayahin|VBTS ito|PRO ,|PMC ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Nadaanan|VBTS ni|DTP Zakadam|NNP ang|DTC isang|PRI_CCP abestrus|NNC at|CCA sinabi|VBTS ,|PMC "|PMS Kamusta|NNP !|PMS "|PMS
+Ngunit|CCT hindi|RBF sumagot|VBAF ang|DTC abestrus|NNC .|PMP
+Masyado|VBW siyang|PRS_CCP abala|NNC sa|CCT pagsasayaw|NNC .|PMP
+Sinubukan|VBTS ni|DTP Zakadam|NNP na|CCP gayahin|VBTS ito|PRO ,|PMC ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Nakita|VBTS ni|DTP Zakadam|NNP ang|DTC isang|PRI_CCP "|PMS bird|FW of|FW paradise|FW "|PMS .|PMP
+Tumawag|VBAF siya|PRS ng|CCB may|VBH pagtataka|NNC ,|PMC "|PMS Napakaganda|VBTS mo|PRS !|PMS "|PMS
+Ngunit|CCT hindi|RBF sumagot|VBAF ang|DTC "|PMS bird|FW of|FW paradise|FW "|PMS .|PMP
+Masyado|VBW siyang|PRS_CCP abala|NNC sa|CCT pagsasayaw|NNC .|PMP
+Sinubukan|VBTS ni|DTP Zakadam|NNP na|CCP gayahin|VBTS ito|PRO ,|PMC ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Sa|CCT wakas|RBW ay|LM narating|VBTS ni|DTP Zakadam|NNP ang|DTC lawa|NNC at|CCA doon|PRL nakakita|VBTS siya|PRS ng|CCB dalawang|JJN_CCP pabulusok|NNC na|CCP "|PMS petrel|FW birds|FW "|PMS .|PMP
+Hindi|RBF siya|PRS nakipag|VBTS -|PMS usap|NNC sa|CCT kanila|PRSP .|PMP
+Masyado|VBW silang|PRP_CCP abala|NNC sa|CCT pagsasayaw|NNC .|PMP
+Sinubukan|VBTS ni|DTP Zakadam|NNP na|CCP gayahin|VBTS sila|PRP ,|PMC ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Nakakita|VBTS si|DTP Zakadam|NNP ng|CCB nagsasayaw|VBTR na|CCP "|PMS snow|FW crane|FW "|PMS sa|CCT ibabaw|NNC ng|CCB burol|NNC .|PMP
+Kaaya|NNP -|PMS aya|PRS siyang|PRS_CCP kumilos|VBAF .|PMP
+Ginawa|VBOF ni|DTP Zakadam|NNP ang|DTC lahat|PRI ng|CCB kanyang|PRSP_CCP makakaya|VBW para|CCT gayahin|VBTS ito|PRO ,|PMC ngunit|CCT hindi|RBF siya|PRS marunong|RBD_CCP sumayaw|VBAF .|PMP
+Pagkatapos|VBW ,|PMC dinaanan|VBOF si|DTP Zakadam|NNP ng|CCB isang|PRI_CCP babaeng|JJD_CCP ibon|NNC na|CCP may|VBH asul|JJD na|CCP paa|NNC .|PMP
+Hindi|RBF naisip|VBTS ni|DTP Zakadam|NNP ,|PMC nagsimula|VBTS siyang|PRS_CCP magsayaw|VBW .|PMP
+At|CCA ,|PMC oh|NNCA ,|PMC paano|PRQ siya|PRS nakakasayaw|VBTR !|PMQ
+Ang|DTC kailangan|VBS lang|RBI pala|NNC ni|DTP Zakadam|NNP ay|LM isang|PRI_CCP makakasayaw|VBW .|PMP
+Wakas|NNP

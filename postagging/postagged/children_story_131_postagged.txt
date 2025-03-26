@@ -1,0 +1,31 @@
+Isang|PRI_CCP Sabado|NNP ,|PMC itinanong|VBTS ng|CCB Tatay|NNC ni|DTP Babu|NNP saan|PRQ niya|PRS nais|VBS magpunta|VBW .|PMP "|PMS
+Manood|VBW tayo|PRP ng|CCB magic|NNC show|FW ,|PMC "|PMS sabi|VBS ni|DTP Babu|NNP .|PMP
+Sumakay|VBAF sila|PRP sa|CCT bisekleta|NNC papunta|VBW sa|CCT magic|NNC show|FW .|PMP "|PMS
+Bibili|NNP lang|RBI ako|PRS ng|CCB mga|DTCP tiket|NNC ,|PMC "|PMS sabi|VBS ng|CCB Tatay|NNC .|PMP "|PMS
+Dito|PRL ka|PRS lang|RBI .|PMP "|PMS
+Sabik|RBD na|CCP sabik|JJD si|DTP Babu|NNP !|PMS
+Nagsimula|VBTS na|RBI ang|DTC pagtatanghal|VBW nang|CCB lumitaw|VBAF na|CCP sa|CCT entablado|NNC ang|DTC salamangkero|NNC .|PMP
+Suot|JJD niya|PRS ang|DTC isang|PRI_CCP malaking|JJD_CCP sombrero|NNC .|PMP
+Dinig|NNP ang|DTC hiyaw|NNC at|CCA palakpakan|NNC ng|CCB mga|DTCP manonood|NNC ngunit|CCT ...|PMS nasaan|JJD si|DTP Tatay|NNP ?|PMQ
+Humugot|NNP ng|CCB panyo|NNC ang|DTC salamangkero|NNC sa|CCT kaniyang|PRSP_CCP sombrero|NNC at|CCA namangha|VBTS si|DTP Babu|NNP .|PMP "|PMS
+Pero|CCT '|PMS asan|NNC si|DTP Tatay|NNP ?|PMQ "|PMS
+pag|CCR -|PMS iisip|VBTF ni|DTP Babu|NNP .|PMP
+WakasNagpaagaw|NNP ng|CCB kendi|NNC ang|DTC mahikero|VBW sa|CCT mga|DTCP bata|NNC .|PMP
+Tuwang|NNP -|PMS tuwa|NNC si|DTP Babu|NNP .|PMP "|PMS
+Pero|CCT '|PMS asan|NNC si|DTP Tatay|NNP ?|PMQ "|PMS
+pag|CCR -|PMS aalala|NNC ni|DTP Babu|NNP .|PMP
+Nagpalitaw|VBTR ng|CCB kuneho|NNC ang|DTC salamangkero|NNC mula|RBL sa|CCT kaniyang|PRSP_CCP bulsa|NNC .|PMP
+Nabighani|VBTS si|DTP Babu|NNP ngunit|CCT may|VBH halo|JJD itong|PRO_CCP lungkot|NNC .|PMP "|PMS
+Pero|CCT '|PMS asan|NNC ang|DTC tatay|NNC ko|PRS ?|PMQ "|PMS
+pag|CCR -|PMS iyak|NNC ni|DTP Babu|NNP .|PMP "|PMS
+Bakit|PRQ ka|PRS malungkot|JJD ?|PMQ "|PMS
+pagtatanong|NNC ng|CCB salamangkero|NNC .|PMP "|PMS
+Ang|DTC mahikang|JJD_CCP nais|VBS mo|PRS ,|PMC siyang|PRS_CCP gagawin|VBTF ko|PRS !|PMQ "|PMS "|PMS
+Kaya|CCR mo|PRS bang|RBM hanapin|VBOF ang|DTC tatay|NNC ko|PRS ?|PMQ "|PMS
+sabi|VBS ni|DTP Babu|NNP .|PMP "|PMS
+Tumingin|VBAF kasa|JJD akin|PRSP ,|PMC hijo|FW ,|PMC "|PMS sabi|VBS ng|CCB lalaki|NNC .|PMP
+Saka|CCA niya|PRS tinanggal|VBOF ang|DTC malaking|JJD_CCP sombrero|NNC at|CCA kamay|NNC sa|CCT kaniyang|PRSP_CCP mukha|NNC .|PMP "|PMS
+Ito|PRO ba|RBI ang|DTC iyong|PRSP_CCP Tatay|NNC ?|PMQ "|PMS
+sambit|JJD ng|CCB salamangkero|NNC at|CCA siya|PRS nga|RBI !|PMQ
+Siya|PRS nga|RBI ang|DTC Tatay|NNC ni|DTP Babu|NNP !|PMS
+Tuwang|NNP -|PMS tuwa|NNC si|DTP Babu|NNP at|CCA napayakap|VBTS habang|RBW sinasabing|VBTR_CCP ,|PMC "|PMS Isang|PRI_CCP mahika|VBW nga|RBI talaga|RBT iyon|PRO !|PMS "|PMS

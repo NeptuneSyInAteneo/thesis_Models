@@ -1,0 +1,23 @@
+Isang|PRI_CCP araw|NNC ,|PMC naglalakad|VBTR si|DTP Kuneho|NNP sa|CCT tabi|NNC ng|CCB ilog|NNC .|PMP
+Naroon|PRL din|RBI si|DTP Hippo|NNP ,|PMC namamasyal|VBTR at|CCA kumakain|VBTR_VBAF ng|CCB mayabong|JJD at|CCA berdeng|JJD_CCP damo|NNC .|PMP
+Hindi|RBF nakita|VBTS ni|DTP Hippo|NNP na|CCP naroon|PRL si|DTP Kuneho|NNP ,|PMC at|CCA aksidente|RBD niyang|PRS_CCP naapakan|VBTS ang|DTC paa|NNC nito|PRO .|PMP
+Napasigaw|VBTS si|DTP Kuneho|NNP kay|DTP Hippo|NNP ,|PMC "|PMS Ikaw|JJD Hippo|NNP !|PMS
+Hindi|RBF mo|PRS ba|RBI nakikita|VBTR na|CCP naaapakan|VBTR mo|PRS na|RBI ang|DTC paa|NNC ko|PRS ?|PMQ "|PMS
+Humingi|VBAF ng|CCB tawad|NNC si|DTP Hippo|NNP sa|CCT Kuneho|NNP ,|PMC "|PMS Pasensya|NNC ka|PRS na|RBI .|PMP
+Hindi|RBF kita|NNC nakita|VBTS .|PMP
+Patawarin|NNP mo|PRS ako|PRS .|PMP "|PMS
+Ngunit|CCT hindi|RBF nakinig|VBTS si|DTP Kuneho|NNP at|CCA sinigawan|VBTS_VBOF niya|PRS si|DTP Hippo|NNP ,|PMC "|PMS Sinasadya|VBTR mo|PRS iyon|PRO !|PMQ
+Balang|NNP_CCP araw|NNC ,|PMC makikita|VBTF mo|PRS !|PMQ
+Magbabayad|VBTF ka|PRS !|PMS "|PMS
+Tinungo|VBOF ng|CCB Kuneho|NNC ang|DTC apoy|NNC at|CCA nagsabing|VBTS ,|PMC "|PMS Kapag|CCR umahin|VBOF si|DTP Hippo|NNP mula|RBL sa|CCT tubig|NNC upang|CCB magpastol|VBW ay|LM sunugin|VBOF mo|PRS siya|PRS .|PMP
+Inapakan|VBTS niya|PRS ako|PRS !|PMS "|PMS
+Sumagot|VBAF ang|DTC apoy|NNC ,|PMC "|PMS Walang|VBN_CCP problema|NNC ,|PMC kaibigang|NNC_CCP kuneho|NNC .|PMP
+Gagawin|VBTF ko|PRS ang|DTC gusto|VBS mo.|NNCA "|PMS Kalaunan|RBW ,|PMC habang|RBW nagpapastol|VBTR si|DTP Hippo|NNP sa|CCT damohan|NNC malayo|JJD sa|CCT ilog|NNC ay|LM biglang|RBD_CCP nag|VBTS -|PMS apoy|NNC ang|DTC paligid|NNC ,|PMC "|PMS Whoosh|FW !|PMS "|PMS
+Nagsimulang|VBTS_CCP lamunin|RBD ng|CCB apoy|NNC ang|DTC mga|DTCP balahibo|NNC ni|DTP Hippo|NNP .|PMP
+Nagsimulang|VBTS_CCP umiak|RBD si|DTP Hippo|NNP habang|RBW tumatakbo|VBTR_VBAF ito|PRO pabalik|VBW sa|CCT tubig|NNC .|PMP
+Natupok|VBTS ang|DTC kaniyang|PRSP_CCP balahibo|NNC nang|RBW dahil|CCR sa|CCT apoy|NNC .|PMP
+Patuloy|RBD ang|DTC pag|CCR -|PMS iyak|NNC ni|DTP Hippo|NNP ,|PMC "|PMS Tinupok|JJD na|RBI ng|CCB apoy|NNC ang|DTC aking|PRSP_CCP mga|DTCP balahibo|NNC !|PMS
+Nakalbo|VBTS na|CCP ako|PRS !|PMQ
+Ang|DTC aking|PRSP_CCP magandang|JJD_CCP balahibo|NNC !|PMS "|PMS
+Natuwa|VBTS si|DTP Kuneho|NNP sa|CCT pagkasunog|NNC ng|CCB balahibo|NNC ni|DTP Hippo|NNP .|PMP
+Hanggang|RBW ngayon|RBW ,|PMC sa|CCT sobrang|JJCS_CCP takot|NNC sa|CCT apoy|NNC ,|PMC ay|LM hindi|RBF na|RBI muling|RBW_CCP lumalayo|VBTR_VBAF pa|RBI sa|CCT tubig|NNC .|PMP

@@ -1,0 +1,44 @@
+Sa|CCT isang|PRI_CCP masukal|JJD ,|PMC madilim|JJD na|CCP kagubatan|NNC nakatira|VBTS ang|DTC ahas|NNC na|CCP si|DTP Aya|NNP .|PMP
+Ito|PRO ay|LM walang|VBN_CCP mga|DTCP binti|NNC .|PMP
+Ito|PRO ay|LM hindi|RBF nakakalakad|VBTR .|PMP
+Hindi|RBF rin|RBI nakakatakbo|VBTR .|PMP
+Siya|PRS ay|LM walang|VBN_CCP pakpak|NNC at|CCA hindi|RBF makalipad|VBW .|PMP
+Si|DTP Aya|NNP ay|LM hindi|RBF kayang|RBD_CCP lumangoy|VBAF ng|CCB tuwid|JJD .|PMP
+Ngunit|CCT nais|VBS ni|DTP Aya|NNP ang|DTC maranasang|VBW_CCP lumakad|VBAF ,|PMC tumakbo|VBAF ,|PMC lumipad|VBAF at|CCA lumangoy|VBAF ng|CCB tuwid|JJD .|PMP
+Iyon|PRO lamang|RBI ang|DTC naiisip|VBTR niya|PRS .|PMP '|PMS
+Kung|CCR meron|VBH lamang|RBI akong|PRS_CCP mga|DTCP binti|NNC ,|PMC Ako|PRS ay|LM makalalakad|VBW ng|CCB tuwid|JJD .|PMP
+Kung|CCR meron|VBH lamang|RBI akong|PRS_CCP mga|DTCP pakpak|NNC ,|PMC Ako|PRS ay|LM makalilipad|VBW ng|CCB tuwid|JJD ,|PMC aniya|NNC ni|DTP Aya|NNP .|PMP ''|PMS
+Pero|CCT ,|PMC ako|PRS ay|LM naiiba|VBTR talaga|RBT !|PMQ
+Hindi|RBF ko|PRS kayang|RBD_CCP lumakad|VBAF ,|PMC hindi|RBF kayang|RBD_CCP tumakbo|VBAF ng|CCB tuwid|JJD !|PMS
+Hindi|RBF ko|PRS kayang|RBD_CCP lumipad|VBAF ,|PMC hindi|RBF kayang|RBD_CCP lumangoy|VBAF ng|CCB tuwid|JJD .|PMP
+Ang|DTC kaya|CCR ko|PRS lang|RBI gawin|VBOF ay|LM magpadulas|VBW .|PMP
+zig|FW zag|FW ,|PMC zig|FW zag|FW ,|PMC zig|FW zag|FW .|PMP '|PMS
+Isang|PRI_CCP araw|NNC ,|PMC nakita|VBTS ni|DTP Aya|NNP ang|DTC mga|DTCP ibong|NNC_CCP lumilipad|VBTR_VBAF sa|CCT kalangitan|NNC .|PMP
+Sila|PRP ay|LM pumapaitaas|VBTR_VBAF ,|PMC pumapaibaba|VBTR_VBAF ,|PMC paikot|JJD -|PMS ikot|NNC at|CCA pakurba|NNC .|PMP
+Wala|VBN ni|DTP isang|PRI_CCP ibon|NNC ang|DTC lumilipad|VBTR_VBAF ng|CCB tuwid|JJD .|PMP
+Dahil|CCR dito|PRL napaisip|VBTS si|DTP Aya|NNP !|PMS
+Isang|PRI_CCP araw|NNC ,|PMC habang|RBW tinatanaw|VBTR ang|DTC kapatagan|NNC ,|PMC nakita|VBTS ni|DTP Aya|NNP ang|DTC mga|DTCP batang|JJD_CCP usa|NNC .|PMP
+Takbo|NNP rito|PRL ,|PMC takbo|NNC doon|PRL !|PMQ
+Tumatakbo|VBTR_VBAF nang|RBW paliko|JJD -|PMS liko|JJD .|PMP
+Wala|VBN ni|DTP isang|PRI_CCP batang|JJD_CCP usa|NNC ang|DTC naglakad|VBTS ng|CCB tuwid|JJD .|PMP
+Dahil|CCR dito|PRL napaisip|VBTS si|DTP Aya|NNP !|PMS
+Nagtungo|VBTS si|DTP Aya|NNP sa|CCT ilog|NNC .|PMP
+Ang|DTC mga|DTCP isda|NNC sa|CCT ilog|NNC ay|LM kumakawag|VBTR_VBAF -|PMS kawag|NNC habang|RBW lumalangoy|VBTR_VBAF .|PMP
+Dahil|CCR dito|PRL napaisip|VBTS si|DTP Aya|NNP !|PMS
+Umupo|VBAF si|DTP Aya|NNP sa|CCT tabi|NNC ng|CCB ilog|NNC ,|PMC malalim|JJD ang|DTC iniisip|VBTR .|PMP
+Biglang|RBD_CCP dumating|VBAF si|DTP talangka|NNC .|PMP
+Tumabi|VBAF si|DTP Aya|NNP .|PMP
+Lumakad|VBAF ang|DTC talangka|NNC ,|PMC pero|CCT hindi|RBF ito|PRO tuwid|JJD !|PMS
+Ito|PRO ay|LM may|VBH kalahating|JJD_CCP dosenang|NNC_CCP sipit|NNC ngunit|CCT hindi|RBF ito|PRO nakakalakad|VBTR ng|CCB tuwid|JJD .|PMP
+Naipaisip|VBTS si|DTP Aya|NNP ,|PMC kailangan|VBS niya|PRS ba|RBI ng|CCB pakpak|NNC ?|PMQ
+Gusto|VBS niya|PRS ba|RBI talaga|RBT ng|CCB mga|DTCP binti|NNC ?|PMQ
+Sapagkat|CCR ang|DTC pagliko|NNC ,|PMC o|CCT sala|NNC -|PMS salabat|NNC ,|PMC ay|LM hindi|RBF paraan|NNC ng|CCB kanyang|PRSP_CCP paggalaw|NNC .|PMP '|PMS
+Maayos|JJD ako|PRS sa|CCT paraang|NNC_CCP kaya|CCR ko|PRS .|PMP
+Ang|DTC pagpapadulas|VBW ko|PRS ay|LM hindi|RBF nagbabago|VBTR .|PMP
+Ang|DTC pagkilos|VBW ko|PRS ng|CCB paliko|JJD -|PMS liko|JJD ay|LM pareho|JJC araw|NNC -|PMS araw|NNC .|PMP
+At|CCA ang|DTC iba|PRI ay|LM sadyang|RBD_CCP kakaiba|JJD sa|CCT iba|PRI '|PMS t|NNCA ibang|PRI_CCP paraan|NNC .|PMP
+Gawin|NNP mo|PRS !|PMS .|PMP
+Gumuhit|VBAF ng|CCB limang|JJN_CCP hugis|NNC na|CCP ginamitan|VBOF ng|CCB tuwid|JJD na|CCP linya|NNC .|PMP .|PMP
+Magbigay|VBAF ng|CCB limang|JJN_CCP hayop|NNC na|CCP may|VBH kakaibang|JJD_CCP kilos|NNC .|PMP .|PMP
+Tumingin|VBAF sa|CCT iyong|PRSP_CCP paligid|NNC .|PMP
+Humanap|NNP ng|CCB limang|JJN_CCP bagay|NNC na|CCP may|VBH buhay|NNC na|CCP may|VBH tuwid|JJD na|CCP linya|NNC .|PMP

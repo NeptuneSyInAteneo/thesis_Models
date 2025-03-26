@@ -1,25 +1,62 @@
-Kaarawan|NNP ng|CCB mpagmahal|NNC na|CCP nanay|NNC bukas|JJD .|PMP
-Nais|VBS ni|DTP Sara|NNP na|CCP bigyan|VBOF ng|CCB espesyal|JJD na|CCP regalo|NNC ang|DTC kanyang|PRSP_CCP nanay|NNC .|PMP
-Naalala|VBTS ni|DTP Sara|NNP na|CCP siya|PRS ay|LM may|VBH naitagong|VBTS_CCP kahon|NNC ng|CCB makukulay|JJD na|CCP beads|FW na|CCP nais|VBS niyang|PRS_CCP gamitin|VBOF .|PMP "|PMS
-Naku|NNP !|PMS
-Saan|PRQ ko|PRS kaya|CCR nailagay|VBTS ang|DTC mga|DTCP kahon|NNC ng|CCB beads|FW ?|FW "|PMS
-sabi|VBS ni|DTP Sara|NNP .|PMP
-Nandito|VBTS kaya|CCR sa|CCT lagayan|NNC ng|CCB laruan|NNC ?|PMQ
-Naku|NNP ,|PMC wala|VBN pala|NNC dito|PRL ?|PMQ
-Patuloy|JJD pa|RBI ring|RBI_CCP naghanap|VBTS ng|CCB kahon|NNC si|DTP Sara|NNP .|PMP
-Nandito|VBTS kaya|CCR sa|CCT kabinet|NNC ng|CCB mga|DTCP damit|NNC ?|PMQ
-Ayun|NNP !|PMS
-nakita|VBTS ko|PRS na|CCP ang|DTC isa|PRI pang|RBI_CCP kahon|NNC .|PMP
-Aaaahhh|NNP !|PMS
-Pero|CCT nasaan|JJD ang|DTC isa|PRI pang|RBI_CCP kahon?Ah|FW !|PMS
-nandito|VBTS na!Bakit|VBTR kaya|CCR ang|DTC isa|PRI ay|LM nandito|VBTS sa|CCT pinakailalim|JJCS_JJD ng|CCB mga|DTCP kagamitan?Naku|JJD_CCP po!Ano|NNC kaya|CCR ang|DTC dapat|VBS gawin|VBOF ni|DTP Sara|NNP ?|PMQ
-Ginulo|NNP niya|PRS lahat|PRI ng|CCB kagamitan|NNC para|CCT lamang|RBI makita|VBW ang|DTC mga|DTCP makukulay|JJD na|CCP beads?Unti|FW unting|FW inayos|VBOF ni|DTP Sara|NNP ang|DTC lahat|PRI ng|CCB kanyang|PRSP_CCP kinalat|VBOF .|PMP
-Tiniklop|VBTS ni|DTP Sara|NNP ang|DTC mga|DTCP damit|NNC ,|PMC muling|RBW_CCP itinago|VBTS ang|DTC mga|DTCP laruan|NNC sa|CCT tamang|JJD_CCP mga|DTCP kahon|NNC nito|PRO at|CCA ang|DTC lahat|PRI ng|CCB mga|DTCP ay|LM maayos|RBD niyang|PRS_CCP pinagpatong|VBRF_CCP patong|NNC sa|CCT sahig|NNC .|PMP
-Maayos|JJD na|CCP ang|DTC lahat!Makakapagumpisa|NNC na|CCP si|DTP Sara|NNP na|CCP gawin|VBOF ang|DTC napakagandang|JJCS_JJD_CCP bracelet|FW para|CCT sa|CCT kanyang|PRSP_CCP nanay|NNC .|PMP
-Umaasa|VBTR_VBAF si|DTP Sara|NNP na|CCP ang|DTC bracelet|FW na|CCP kanyang|PRSP_CCP gagawin|VBTF ay|LM magugustuhan|VBTF ng|CCB kanyang|PRSP_CCP pinakamamahal|JJCS_JJD na|CCP nanay|NNC .|PMP "|PMS
-Maligayang|NNP_CCP Kaarawan|NNP ,|PMC Mahal|NNP kong|PRS_CCP Nanay|NNC !|PMS "|PMS
-Wow!Masayang|RBD_CCP masaya|JJD ang|DTC nanay|NNC sa|CCT kanyang|PRSP_CCP natanggap|VBTS na|CCP regalo|NNC galing|RBL kay|DTP Sara|NNP .|PMP
-©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
-The|NNP book|FW creation|FW project|FW features|FW mighty|FW girls|FW and|FW women|FW as|FW the|FW main|FW character|FW (|PMS s|NNCA )|PMS of|FW the|FW story|FW and|FW involves|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW designers|FW .|PMP
-This|NNP book|FW was|FW created|FW through|FW a|FW book|FW creation|FW workshop|FW conducted|FW in|FW collaboration|FW between|FW Litara|NNP Foundation|NNP and|FW the|FW Asia|NNP Foundation|NNP with|FW the|FW support|FW of|FW Estée|FW Lauder|FW Companies|FW .|PMP
-The|NNP workshop|FW and|FW professional|FW development|FW ,|PMC along|NNC_CCP withthe|FW editing|FW and|FW design|FW of|FW this|FW book|FW ,|PMC was|FW conducted|FW by|FW Litara|NNP Foundation|NNP .|PMP
+Tick|NNP -|PMS tock|FW ,|PMC tick|FW -|PMS tock|FW Si|DTP Henry|NNP ay|LM pabaling|FW -|PMS baling|FW ,|PMC at|CCA muling|RBW_CCP nagpabaling|VBTS -|PMS baling|FW .|PMP
+Ang|DTC tunog|NNC na|CCP galing|RBL sa|CCT orasan|NNC Ang|DTC nagpapahirap|VBTR sa|CCT kanya|PRSP na|CCP makatulog|VBW .|PMP
+Ang|DTC segundong|JJD_CCP kamay|NNC sa|CCT orasan|NNC Ang|DTC pinagmumulan|VBTR_VBRF Ng|NNP ingay|NNC sa|CCT bawat|PRI segundong|JJD_CCP paggalaw|NNC into|NNC .|PMP
+Sinubukan|VBTS ni|DTP Henry|NNP na|CCP tanghalin|VBOF ito|PRO .|PMP
+Ngunit|CCT Ang|DTC segundong|JJD_CCP kamay|NNC Ng|NNP orasan|NNC ay|LM may|VBH Ibang|PRI_CCP paraan|NNC .|PMP
+Nagising|VBTS Ang|DTC segundong|JJD_CCP kamay|NNC Ng|NNP orasan|NNC at|CCA hinawakan|VBOF si|DTP Henry|NNP ,|PMC hinihila|VBTS sya|PRS sa|CCT orasan|NNC .|PMP
+Whooosh|NNP !|PMS
+Binuksan|VBTS ni|DTP Henry|NNP Ang|DTC kanyang|PRSP_CCP mga|DTCP mata|NNC at|CCA natagpua|VBTS .|PMP
+Nya|NNP Ang|DTC kanyang|PRSP_CCP Sarili|NNC na|CCP nasa|RBL ibang|PRI_CCP Lugar|NNP at|CCA panahon|NNC .|PMP
+...|PMS .|PMP
+Sinaunang|JJD_CCP Ehipto|NNP !|PMS
+Ano|PRQ Ang|DTC ginagawa|VBTR_VBOF ko|PRS Dito|PRL ?|PMQ
+Tanong|NNC ni|DTP Henry|NNP .|PMP
+Ang|DTC segundong|JJD_CCP kamay|NNC Ng|NNP orasan|NNC ay|LM nag|VBTS ingay|NNC tick|FW tock|FW .|PMP
+Kailangan|VBS mong|PRS_CCP matutunan|VBW na|CCP Ang|DTC halaga|NNC ko|PRS !|PMQ
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC Ang|DTC mga|DTCP tao|NNC ay|LM Hindi|RBF nakakapagbilang|VBTR_CCP Ng|NNP Segundo|NNP .|PMP
+Ang|DTC kauna|NNC -|PMS unahang|NNC_CCP orasan|NNC ay|LM sundial|FW obelisk|FW ,|PMC katulad|JJC into|NNC sinusukat|VBTR Ng|NNP mga|DTCP tao|NNC Ang|DTC Oras|NNP at|CCA minuto|NNC sa|CCT pamamagitan|NNC Ng|NNP galaw|NNC Ng|NNP anino|NNC sa|CCT lupa|NNC .|PMP
+Samantalang|CCT_CCP ,|PMC Ang|DTC mga|DTCP pangkat|NNC Ng|NNP kalalakihan|NNC ay|LM nag|VBTS hagis|FW Ng|NNP Pana|NNP Kay|DTP Henry|NNP .|PMP
+Ngunit|CCT Bago|RBW ito|PRO makapanakit|VBW ,|PMC Ang|DTC segundong|JJD_CCP kamay|NNC Ng|NNP orasan|NNC ay|LM winisikan|VBTS si|DTP Henry|NNP at|CCA dinala|VBTS sya|PRS sa|CCT Ibang|PRI_CCP Oras|NNP at|CCA panahon|NNC .|PMP
+Ngayon|RBW ay|LM nakatayo|VBTS Sila|PRP sa|CCT harap|NNC Ng|NNP maliit|JJD na|CCP kandila|NNC .|PMP
+Ito|PRO ay|LM kandilang|JJD_CCP orasan|NNC ,|PMC Sabi|VBW Ng|NNP segundong|JJD_CCP kamay|NNC .|PMP
+Nakikita|VBTR mo|PRS ba|RBI Ang|DTC mga|DTCP guhit|NNC sa|CCT waks|NNC ?|PMQ
+Tumatagal|VBTR_VBAF itong|PRO_CCP dalawampung|JJN_CCP minuto|NNC Bago|RBW ito|PRO maubos|VBW .|PMP
+Sa|CCT ilang|PRQ_CCP saglit|RBW ,|PMC ang|DTC lupa|NNC ay|LM umalog|VBAF at|CCA nanginig|VBTR .|PMP "|PMS
+Lindol|NNP !|PMS "|PMS
+sigaw|NNC ni|DTP Henry|NNP .|PMP
+Tumambal|NNP ang|DTC malaking|JJD_CCP bitak|NNC ng|CCB lupa|NNC .|PMP
+Lalo|JJCC pa|RBI itong|PRO_CCP lumalaki|VBTR_VBAF at|CCA nagsasara|VBTR habang|RBW lumilipas|VBTR_VBAF ang|DTC bawat|PRI sandali|NNC .|PMP
+Sa|CCT ilang|PRQ_CCP segundo|NNC bago|RBW ako|PRS mahulog|VBW sa|CCT bitak|NNC ,|PMC ang|DTC segundong|JJD_CCP kamay|NNC ay|LM hinablot|VBTS si|DTP Henry|NNP at|CCA naglaho|RBD ulit|RBW .|PMP
+Whoosh|NNP !|PMS
+Ngayon|RBW si|DTP Henry|NNP ay|LM na|CCP silindrong|NNC_CCP babasagin|VBTF kasama|CCB ang|DTC segundong|JJD_CCP kamay|NNC ,|PMC Hindi|RBF nila|PRP napuna|VBTS na|CCP ang|DTC haydrolik|NNC na|CCP piston|NNC ay|LM nakatutok|RBD pababa|RBD sa|CCT kanila|PRSP .|PMP
+Ito|PRO ang|DTC kauna|NNC -|PMS unahang|NNC_CCP orasan|NNC na|CCP pinagagana|VBTR_VBRF sa|CCT pamamagitan|NNC ng|CCB merkuryo|NNC at|CCA engranade|FW ,|PMC Madaling|RBD_CCP paliwanag|NNC ng|CCB segundong|JJD_CCP kamay|NNC .|PMP
+Nakakamangha|VBTR !|PMS
+sambit|CCR ni|DTP Henry|NNP ,|PMC Ngunit|CCT tignan|VBOF mo|PRS !|PMQ
+Ilang|PRQ_CCP segundo|NNC bago|RBW sila|PRP mawasak|VBW ng|CCB piston|NNC ....|NNPA .|PMP
+Whoosh|NNP !|PMS
+Si|DTP Henry|NNP ay|LM biglaang|RBD_CCP nag|RBD lalakad|VBTF sa|CCT malubak|JJD na|CCP ibabaw|NNC .|PMP
+Tumingin|VBAF siya|PRS paibaba|RBD_CCP nakita|VBTS ang|DTC dalawang|JJN_CCP higanteng|JJD_CCP gear|FW na|CCP umiikot|VBTR ng|CCB mabagal|JJD papunta|VBW sa|CCT kanya|PRSP .|PMP
+Nasaan|NNP tayo|PRP ngayon|RBW ?|PMQ
+Tanong|NNC nya|PRS sa|CCT segundong|JJD_CCP kamay|NNC .|PMP
+Tayo|PRS ay|LM nasa|RBL loob|NNC ng|CCB isang|PRI_CCP malaking|JJD_CCP Ben|NNP ,|PMC ang|DTC pinaka|JJCS kilalang|JJD_CCP toreng|NNC_CCP orasan|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Nagsasaya|VBTR si|DTP Henry|NNP sa|CCT paglulukso|NNC sa|CCT mga|DTCP gear|FW ,|PMC hanggang|RBW sa|CCT ang|DTC isa|PRI sa|CCT mga|DTCP sintas|FW nya|PRS ay|LM naipit|VBTS .|PMP
+Hinihila|NNP at|CCA binatak|VBOF ni|DTP Henry|NNP ,|PMC ngunit|CCT hindi|RBF sya|PRS makaalis|VBW sa|CCT gear|FW .|PMP
+Ang|DTC higanteng|JJD_CCP kawit|NNC ay|LM nagpaduyan|VBTS papunta|RBL sa|CCT kanila|PRSP .|PMP
+Malakas|JJD na|CCP ingay|NNC mula|RBL sa|CCT malaking|JJD_CCP kamay|NNC ng|CCB orasan|NNC tiktak|NNC ,|PMC ang|DTC segundong|JJD_CCP kamay|NNC sa|CCT sumigaw|VBAF ,|PMC Magmadali|VBTF ka|PRS tanggalin|VBOF mo|PRS na|CCP ang|DTC sapatos|NNC mo.|NNCA .|PMP
+Wala|VBN na|CCP tayong|PRP_CCP oras|NNC !|PMS
+Ilang|PRQ_CCP sandali|RBW bago|RBW sila|PRP madurog|VBW ng|CCB kalawit|NNC nito|PRO ,|PMC ang|DTC segundong|JJD_CCP kamay|NNC ay|LM hinila|VBTS at|CCA naligtas|VBTS si|DTP Henry|NNP .|PMP
+Whoosh|NNP !|PMS
+Sa|CCT isang|PRI_CCP kislap|NNC ,|PMC Natagpuan|VBTS ni|DTP Henry|NNP na|CCP siya|PRS ay|LM nag|VBTS balik|NNC na|CCP sa|CCT kanyang|PRSP_CCP silid|NNC ,|PMC ligtas|JJD at|CCA masaya|JJD .|PMP
+Wow|NNP ,|PMC kakaibang|JJD_CCP panaginip|NNC .|PMP
+at|CCA anong|PRQ_CCP kakaibang|JJD_CCP ginawa|VBOF ng|CCB segundong|JJD_CCP kamay|NNC !|PMS
+bulalas|VBTS ni|DTP Henry|NNP .|PMP
+Magandang|RBD_CCP sukatin|VBOF ang|DTC bawat|PRI isa|PRI sa|CCT simpleng|JJD_CCP orasan|NNC sa|CCT aking|PRSP_CCP silid|NNC .|PMP
+Siguro|RBM panahon|NNC na|CCP para|CCT ibalik|VBOF ko|PRS ang|DTC segundong|JJD_CCP kamay|NNC kung|RBK saan|RBQ siya|PRS nararapat|VBTR .|PMP
+Nang|RBW umagang|RBW_CCP yon|PRO ,|PMC may|VBH balita|NNC na|CCP nakapaskil|VBTS sa|CCT telebisyon|NNC tungkol|RBR sa|CCT malaking|JJD_CCP Ben|NNP ,|PMC ang|DTC toreng|NNC_CCP orasan|NNC kung|RBK saan|RBQ niya|PRS iniwan|VBOF ang|DTC kanyang|PRSP_CCP sapatos|NNC !|PMS
+Huminto|VBAF sa|CCT unang|JJN_CCP pagkakataon|NNC sa|CCT loob|NNC ng|CCB isang|PRI_CCP daan|NNC at|CCA limampu|JJN '|PMS t|NNCA walong|JJN_CCP taon|NNC .|PMP
+Hindi|RBF makapaniwala|VBW si|DTP Henry|NNP .|PMP
+Totoo|RBT ba|RBI ito|PRO ?|PMQ
+Talaga|NNP bang|RBI_CCP ang|DTC sapatos|NNC ko|PRS ang|DTC nag|RBD_CCP patigil|VBW sa|CCT loob|NNC ng|CCB Malaking|JJD_CCP Ben|NNP ?|PMQ
+Tanging|JJD_CCP ang|DTC orasan|NNC lamang|RBI ang|DTC makapagsasabi|VBW ...|PMS .|PMP
+o|CCT kaya|CCR naman|RBI ang|DTC segundong|JJD_CCP kamay|NNC !|PMS
+KATAPUSAN|NNPA

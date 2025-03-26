@@ -1,0 +1,19 @@
+Shyam|NNP ang|DTC aking|PRSP_CCP pangalan|NNC at|CCA ako|PRS ay|LM sampung|JJN_CCP taong|NNC_CCP gulang|NNC .|PMP
+Medyo|JJCC payat|JJD ako|PRS ngunit|CCT sadyang|JJCS_CCP matapang|JJD !|PMS
+Para|CCT sa|CCT akin|PRSP hindi|RBF masaya|JJD ang|DTC pagpasok|NNC sa|CCT eskwela|NNC Dahil|CCR ako|PRS ay|LM pupungas|NNC -|PMS pungas|JJD pa|RBI at|CCA tila|RBM matutumba|VBW .|PMP
+Nakapikit|VBTR pa|RBI ang|DTC aking|PRSP_CCP mga|DTCP mata|NNC habang|RBW nagsisipilyo|VBTR ,|PMC Nagmamadaling|RBD_CCP gumawa|VBAF ng|CCB dosas|NNC si|DTP Amma|NNP naririnig|VBTR ko|PRS .|PMP
+Dahan|NNP -|PMS dahan|NNC namang|RBI_CCP lumipad|VBAF papalayo|RBD ang|DTC isip|NNC ko|PRS ,|PMC At|CCA marami|PRI ,|PMC napakaraming|JJCS_JJD_CCP mga|DTCP ideya|NNC ang|DTC pumapasok|VBTR_VBAF dito|PRL .|PMP
+Paano|PRQ kung|CCR humaba|VBAF pa|RBI ng|CCB sampung|JJN_CCP beses|NNC ang|DTC aking|PRSP_CCP leeg|NNC ?|PMQ
+Kalahati|PRI sa|CCT paaralan|NNC ,|PMC kalahati|PRI sa|CCT bahay|NNC ,|PMC saan|PRQ kaya|CCR ako|PRS papanig|JJD ?|PMQ
+Paano|PRQ kung|CCR kasing|JJC taas|JJD na|CCP ng|CCB mga|DTCP puno|NNC ang|DTC aking|PRSP_CCP mga|DTCP binti|NNC ?|PMQ
+Paghakbang|NNP_CCP papunta|VBW sa|CCT gabinti|FW kong|PRS_CCP paaralan|NNC ay|LM napakadali|JJCS_JJD !|PMQ
+Paano|PRQ kung|CCR sadyang|JJCS_CCP malakas|JJD ang|DTC aking|PRSP_CCP mga|DTCP braso|NNC ?|PMQ
+Malamang|RBI ang|DTC buhatin|VBOF si|DTP Amma|NNP ay|LM hindi|RBF mahirap|JJD gaano|PRC !|PMQ
+Paano|PRQ kung|CCR walang|VBN_CCP matigas|JJD na|CCP bagay|NNC para|CCT sa|CCT aking|PRSP_CCP mga|DTCP ngipin|NNC ?|PMQ
+Isipin|VBOF mo|PRS kung|RBK ano|RBQ ang|DTC mga|DTCP pwede|RBT kong|PRS_CCP kainin|VBOF !|PMQ
+Paano|PRQ kung|CCR bilog|JJD na|CCP bilog|NNC ang|DTC aking|PRSP_CCP tiyan|NNC ?|PMQ
+Malayang|RBD_CCP tumalon|VBAF at|CCA tumalbog|VBAF ang|DTC aking|PRSP_CCP mga|DTCP kaibigan|NNC !|PMS
+Paano|PRQ kung|CCR mayroon|VBH akong|PRS_CCP malalaking|JJD_CCP tainga|NNC ?|PMQ
+Maririnig|VBTF ko|PRS ang|DTC lahat|PRI ,|PMC kilometro|NNC man|RBI ang|DTC layo|NNC o|CCT isang|PRI_CCP dipa|FW !|PMS
+Paano|PRQ kung|CCR -|PMS Magsisimula|VBTF na|CCP ako|PRS ,|PMC kaso|CCR si|DTP Amma|NNP ay|LM biglang|RBD_CCP sumigaw|VBAF ,|PMC "|PMS Shyam|FW ,|PMC mahuhuli|VBTF ka|PRS na|RBI ,|PMC bakit|PRQ ang|DTC isip|NNC mo|PRS ay|LM naliligaw|VBTS ?|PMQ "|PMS
+Nahuli|VBTS ko|PRS ang|DTC aking|PRSP_CCP sarili|NNC na|CCP nanatiling|VBTS_CCP nakatayo|RBD hawak|JJD ang|DTC sipilyo|NNC ,|PMC At|CCA ako|PRS ay|LM napangiti|VBTS habang|RBW iniisip|VBTR ang|DTC aking|PRSP_CCP sikretong|JJD_CCP munting|JJD_CCP paraiso|NNC .|PMP

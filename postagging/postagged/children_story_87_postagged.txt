@@ -1,84 +1,51 @@
-Magkakatabi|VBW sa|CCT kagubatan|NNC ngunit|CCT hindi|RBF nagpapansinan|VBTR .|PMP
-Tatlong|JJN_CCP bungang|NNC_CCP -|PMS kahoy|NNC isa|PRI ang|DTC kalaban|NNC .|PMP
-Iba|PRI ,|PMC sampalok|NNC ,|PMC kalamansi|NNC laban|NNC kay|DTP batuan|NNC .|PMP
-Yay|NNP !|PMS
-Ang|DTC asim|NNC !|PMS
-Yay|NNP !|PMS
-Ang|DTC asim!Pagsikat|NNC ng|CCB araw|NNC ,|PMC apat|JJN na|CCP bunga|NNC ang|DTC nagsibabaan|VBTS mula|RBW sa|CCT kanilang|PRSP_CCP tahanan|NNC .|PMP "|PMS
-Tara|NNP !|PMS
-Laro|NNP tayo|PRP !|PMS "|PMS
-Pagyayaya|NNP ni|DTP Wanda|NNP Batuan|NNP .|PMP
-Walang|VBN_CCP sumagot|VBAF .|PMP
-Tahimik|JJD ang|DTC lahat|PRI ,|PMC Ang|DTC asim|NNC ng|CCB tatlo|CDB !|PMS
-Pati|CCA ugali|NNC maasim|JJD din|RBI .|PMP "|PMS
-Tara|NNP !|PMS
-Magkantahan|NNP tayo|PRP !|PMS "|PMS
-pagyayaya|VBW ulit|RBW ni|DTP Batuan|NNP .|PMP
-Walang|VBN_CCP sumagot|VBAF .|PMP
-Tahimik|JJD ang|DTC lahat|PRI ,|PMC Ang|DTC asim|NNC ng|CCB tatlo|CDB !|PMS
-Pati|CCA ugali|NNC maasim|JJD din|RBI .|PMP "|PMS
-Tara|NNP ,|PMC sumayaw|VBAF tayo|PRP !|PMS "|PMS
-yaya|NNC ulit|RBW ni|DTP batuan|NNC .|PMP
-Masama|JJD ang|DTC tingin|NNC ni|DTP Olin|NNP Iba|PRI .|PMP
-Nang|RBW -|PMS irap|VBOF si|DTP Tamar|NNP Sampalok|NNP .|PMP
-Sumimangot|NNP si|DTP Edan|NNP Kalamansi|NNP .|PMP "|PMS
-Ewan|NNP sa|CCT '|PMS yo|NNCA ,|PMC Wanda|NNP !|PMS "|PMS
-sabay|RBD -|PMS sabay|RBD nilang|PRP_CCP sagotBumalik|RBL_NNP si|DTP Wanda|NNP sa|CCT kaniyang|PRSP_CCP sanga|NNC .|PMP
-Umupo|NNP ,|PMC walang|VBN_CCP kausap|NNC .|PMP
-Nanalamin|VBTS sa|CCT patak|NNC ng|CCB hamog|NNC na|CCP naiwan|VBTS sa|CCT dahon|NNC .|PMP
-Hinawakan|VBOF ang|DTC katawang|NNC_CCP baluktot|NNC at|CCA puno|NNC ng|CCB batik|NNC .|PMP
-Iba|PRI ang|DTC itsura|NNC ni|DTP Wanda|NNP ,|PMC kaya|CCR ayaw|RBF ng|CCB lahat|PRI sa|CCT kaniya|PRSP .|PMP
-Walang|VBN_CCP namamansin|VBTR ,|PMC walang|VBN_CCP nakikipaglaro|VBTR .|PMP
-Kahit|CCT di|RBF siya|PRS kasali|CCB sa|CCT kasiyahan|NNC ,|PMC tinatanaw|VBTR lamang|RBI niya|PRS ang|DTC mga|DTCP ito|PRO at|CCA binabantayan|VBTR .|PMP "|PMS
-Mag|NNP -|PMS ingat|NNC kayo|PRP !|PMS "|PMS
-sigaw|NNC ni|DTP Wanda|NNP nang|RBW makita|VBW ang|DTC mga|DTCP hantik|NNC .|PMP
-Walang|VBN_CCP sumagot|VBAF .|PMP
-Tahimik|JJD ang|DTC lahat|PRI .|PMP
-Paglingon|NNP ng|CCB tatlo|CDB ,|PMC natakot|VBTS sila|PRP ,|PMC at|CCA tumakbo|VBAF papunta|VBW sa|CCT kanilang|PRSP_CCP tirahan|NNC .|PMP
-Nagsiksikan|VBTR sa|CCT sanga|NNC sina|DTPP Olin|NNP ,|PMC Tamar|NNP ,|PMC at|CCA Edan|NNP .|PMP
-Nagtago|VBTS sila|PRP sa|CCT likod|NNC ng|CCB malapad|JJD na|CCP dahon|NNC .|PMP
-Pasilip|NNP -|PMS silip|NNC sa|CCT butas|NNC ng|CCB dahon|NNC habang|RBW pinagmamasdan|VBTR_VBRF baka|RBM umakyat|VBAF ang|DTC mga|DTCP hantik|NNC at|CCA sila|PRP '|PMS y|FW kagatin|FW .|PMP
-Nakatago|VBTS din|RBI si|DTP Wanda|NNP sa|CCT likod|NNC ng|CCB mga|DTCP dahon|NNC na|CCP ginawa|VBOF niya|PRS bilang|CCT panangga|NNC .|PMP
-Sinisilip|VBTR niya|PRS rin|RBI ang|DTC kalagayan|NNC ng|CCB tatlo|CDB .|PMP
-Nanalangin|VBTR siya|PRS ,|PMC "|PMS Sana|VBS ligtas|JJD sina|DTPP Olin|NNP ,|PMC Tamar|NNP ,|PMC at|CCA Edan|NNP .|PMP "|PMS "|PMS
-Kumusta|NNP kayo|PRP diyan|PRL ,|PMC Olin|NNP !|PMS
-,|PMC Tamar|NNP !|PMS
-Edan|NNP !|PMS "|PMS
-nag|VBTS -|PMS aalalang|NNC_CCP tanong|NNC ni|DTP Wanda|NNP .|PMP
-Walang|VBN_CCP sumagot|VBAF .|PMP
-Tahimik|JJD ang|DTC lahat|PRI .|PMP
-Yay|NNP !|PMS
-Ang|DTC asim|NNC !|PMS
-Yay|NNP !|PMS
-Ang|DTC asim!Naging|FW maasim|JJD pati|CCA ang|DTC panahon|NNC .|PMP
-Maya|NNP -|PMS maya|NNC ,|PMC dumilim|VBAF ang|DTC kalangitan|NNC ,|PMC lumakas|VBAF ang|DTC hangin|NNC ,|PMC bumuhos|VBAF ang|DTC ulan|NNC .|PMP
-Wooosh|NNP !|PMS
-Woooosh|NNP !|PMS
-Wooooosh|NNP !|PMS
-Napakalakas|JJCS_JJD ng|CCB hangin|NNC !|PMS
-Napakalas|NNP ng|CCB ulan!Nadala|JJD ng|CCB hangin|NNC ang|DTC mga|DTCP langgam|NNC at|CCA mga|DTCP dahoon|NNC .|PMP
-Mahigpit|JJD ang|DTC hawak|NNC nina|DTPP Wanda|NNP ,|PMC Olin|NNP ,|PMC Tamar|NNP ,|PMC at|CCA Edan|NNP .|PMP "|PMS
-Humawak|VBAF kayo|PRP ng|CCB mabuti|JJD !|PMS "|PMS
-sabi|VBS ni|DTP batuan|NNC .|PMP
-Walang|VBN_CCP sumagot|VBAF .|PMP
-Tahimik|JJD ang|DTC lahat|PRI .|PMP
-Sa|CCT takot|NNC ,|PMC di|RBF makasagot|VBW sina|DTPP Olin|NNP ,|PMC Tamar|NNP ,|PMC at|CCA Edan|NNP .|PMP
-Sumasayaw|VBTR sa|CCT ihip|FW ng|CCB hangin|NNC at|CCA buhos|NNC ng|CCB ulasang|NNC_CCP mga|DTCP puno|NNC .|PMP
-Wooooosh|NNP !|PMS
-Woooooosh|NNP !|PMS
-Wooooooosh|NNP !|PMS
-Parang|CCT mapuputol|VBW ,|PMC dinuduyan|VBTR -|PMS duyan|NNC .|PMP
-Hinawakan|VBOF ni|DTP Wanda|NNP ang|DTC kamay|NNC ni|DTP Edan|NNP .|PMP
-Ginaya|VBOF din|RBI ni|DTP Tamar|NNP at|CCA Olin|NNP ang|DTC kaniyang|PRSP_CCP ginawa|VBOF .|PMP
-Mahigpit|JJD na|CCP naghawakan|VBTR silang|PRP_CCP apat|CDB .|PMP
-Kaya|CCR nakaligtas|VBTS sila|PRP sa|CCT malakas|JJD na|CCP hangin|NNC at|CCA ulan|NNC .|PMP
-Magkakatabi|VBW sa|CCT kagubatan|NNC .|PMP
-Magkakaibigan|VBTF .|PMP
-Apat|JJN na|CCP bungang|NNC_CCP -|PMS kahoy|NNC ,|PMC magkakampi|NNC ,|PMC nagtutulungan|VBTR .|PMP
-Iba|PRI ,|PMC sampalok|NNC ,|PMC kalamansi|NNC ,|PMC at|CCA batuan|NNC .|PMP
-Yay|NNP !|PMS
-Ang|DTC asim|NNC !|PMS
-Yay|NNP !|PMS
-Ang|DTC asim|NNC !|PMS
-Pero|CCT matamis|JJD ang|DTC pagsasama|NNC .|PMP
-Wonderful|NNP Words|NNP Batuan|NNP -|PMS Garcinia|FW binucao|FW Iba|PRI -|PMS Averrhoa|FW bilimbi|FW Sampalok|NNP -|PMS Tamarindus|NNP Indica|NNP Limon|NNP -|PMS Citrofortunella|NNP Microcarpa|NNP
+Gustong|VBS_CCP gusto|VBS ni|DTP Ana|NNP ang|DTC sulat|NNC kamay|NNC ng|CCB kanyang|PRSP_CCP kuya|NNC .|PMP
+Gamit|VBS niya|PRS kasi|CCR ang|DTC napaka|JJCS -|PMS espesyal|JJD na|CCP panulat|NNC na|CCP may|VBH makintab|JJD na|CCP tinta|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC habang|RBW wala|VBN ang|DTC kanyang|PRSP_CCP Kuya|NNC Biboy|NNC hinanap|VBOF ni|DTP Ana|NNP ang|DTC panulat|NNC na|CCP gamit|VBS ng|CCB kanyang|PRSP_CCP kuya|NNC sa|CCT aparador|NNC .|PMP
+Habang|RBW siya|PRS ay|LM naghahanap|VBTR inihahagis|VBTS niya|PRS ang|DTC aklat|NNC ,|PMC stapler|FW at|CCA ang|DTC metal|NNC na|CCP ruler|FW .|PMP
+Sa|CCT pinakailalim|JJCS_JJD ng|CCB aparador|NNC nakita|VBTS ni|DTP Ana|NNP ang|DTC espesyal|JJD na|CCP panulat|NNC ,|PMC ngunit|CCT may|VBH nakadikit|VBTS dito|PRL na|CCP itim|JJD na|CCP bloke|NNC .|PMP "|PMS
+Ano|PRQ kaya|CCR ito|PRO ?|PMQ "|PMS
+,|PMC wika|NNC ni|DTP AnaPinaghiwalay|NNP ni|DTP Ana|NNP ang|DTC panulat|NNC at|CCA ang|DTC itim|JJD na|CCP bloke|NNC ...|PMS .|PMP
+klik|NNC ,|PMC tik|NNC ...|PMS .|PMP
+Biglang|RBD_CCP dumikit|VBAF ang|DTC takip|NNC ng|CCB bote|NNC sa|CCT itim|JJD na|CCP bloke|NNC na|CCP nasa|RBL mesa|NNC at|CCA naaliw|VBTS si|DTP Ana|NNP .|PMP
+Isang|PRI_CCP mahika|VBW !!!|PMS
+Didikit|NNP kaya|CCR ang|DTC ibang|PRI_CCP bagay|NNC sa|CCT itim|JJD na|CCP bloke|NNC na|CCP ito|PRO ?|PMQ
+Didikit|NNP kaya|CCR ang|DTC stapler|FW dito|PRL ?|PMQ
+Subukan|VBOF ko|PRS nga|RBI .|PMP
+klik|NNC ...|PMS tik|NNCA ...|PMS .|PMP
+Ay|NNP !|PMS
+Dumikit|VBAF nga|RBI !|PMQ
+sambit|CCR ni|DTP Ana|NNP .|PMP
+Dito|PRL kaya|CCR sa|CCT balahibo|NNC ng|CCB pusa|NNC ,|PMC didikit|FW ?|PMQ
+Ay|NNP ...|PMS hindi|RBF dumikit|VBAF ...|PMS .|PMP
+at|CCA biglang|RBD_CCP nalungkot|VBTS si|DTP Ana|NNP .|PMP
+Sinubukan|VBTS naman|RBI ni|DTP Ana|NNP na|CCP idikit|VBOF ang|DTC itim|JJD na|CCP bloke|NNC sa|CCT metal|NNC na|CCP ruler|FW .|PMP
+klik|NNC .....|PMS tik|NNCA ...|PMS yehey|FW !!!|PMS
+dumikit|VBAF din|RBI ...|PMS .|PMP
+Subukan|VBOF ko|PRS kaya|CCR sa|CCT bunot|NNC ng|CCB niyog|NNC ...|PMS Ay|NNP ...|PMS .|PMP
+hindi|RBF dumikit|VBAF ...|PMS .|PMP
+malungkot|JJD na|CCP sambit|NNC ni|DTP AnaBiglang|NNP nabahing|VBTS si|DTP Ana|NNP sa|CCT bunot|NNC ng|CCB niyog|NNC .|PMP
+hahahchhingg|VBTR .....|NNPA .|PMP
+malakas|JJD niyang|PRS_CCP bahing|NNC .|PMP
+At|CCA tumalsik|VBAF ang|DTC panulat|NNC na|CCP kanyang|PRSP_CCP hawak|JJD sa|CCT ilalim|JJD ng|CCB kama|NNC .|PMP
+Nag|NNP -|PMS alala|NNC si|DTP Ana|NNP dahil|CCR parating|RBW na|CCP ang|DTC kanyang|PRSP_CCP Kuya|NNC .|PMP
+Kinapa|VBTS ni|DTP Ana|NNP ang|DTC ilalim|JJD ng|CCB kama|NNC .|PMP
+Naku|NNP !|PMS
+di|RBF ko|PRS maabot|VBW ang|DTC panulat|NNC ni|DTP Kuya|NNP ...|PMS nag|NNCA -|PMS aalalang|VBTF wika|NNC ni|DTP Ana|NNP .|PMP
+Sinubukan|VBTS niyang|PRS_CCP abutin|VBOF ang|DTC panulat|NNC gamit|VBS ang|DTC ruler|FW .|PMP .|PMP
+Hala|NNP mas|JJCC lalong|JJCC_CCP lumayo|VBAF .|PMP .|PMP
+Ano|PRQ kaya|CCR ang|DTC gagawin|VBTF ko|PRS para|CCT maabot|VBW ko|PRS ?|PMQ
+Maya|NNP -|PMS maya|NNC ,|PMC may|VBH naisip|VBTS na|CCP magandang|JJD_CCP paraan|NNC si|DTP Ana|NNP .|PMP
+Idinikit|VBOF ni|DTP Ana|NNP ang|DTC itim|JJD na|CCP bloke|NNC sa|CCT dulo|NNC ng|CCB ruler|FW .|PMP
+klik|NNC ...|PMS tik|NNCA ....|NNPA .|PMP
+At|CCA hinawakan|VBOF niya|PRS ang|DTC kabilang|JJD_CCP dulo|NNC sa|CCT kanyang|PRSP_CCP isang|PRI_CCP kamay|NNC at|CCA inilagay|VBTS sa|CCT ilalim|JJD ng|CCB kama|NNC at|CCA pinilit|VBOF abutin|VBOF muli|RBW ang|DTC panulat.klik|NNC ........|PMS tik|NNCA ....|NNPA .|PMP
+yehey|FW ....|NNPA .|PMP
+nakuha|VBTS ko|PRS ang|DTC panulat|NNC ni|DTP kuya|NNC ...|PMS At|CCA nagtatalon|VBTR sa|CCT tuwa|NNC si|DTP Ana|NNP ....|NNPA .|PMP
+Nagmamadling|RBD_CCP ibinalik|VBOF ni|DTP Ana|NNP ang|DTC panulat|NNC ,|PMC itim|JJD na|CCP bloke|NNC ,|PMC aklat|NNC ,|PMC stapler|FW at|CCA metal|FW na|CCP ruler|FW sa|CCT aparador|NNC sapagkat|CCR darating|VBTF na|RBI ang|DTC kanyang|PRSP_CCP Kuya|NNC Biboy|NNP .|PMP
+Dumating|VBAF na|RBI ang|DTC kanyang|PRSP_CCP Kuya|NNC at|CCA dumiretso|VBTR_VBAF ito|PRO sa|CCT kanyang|PRSP_CCP silid|NNC .|PMP
+Napansin|VBTS ng|CCB Kuya|NNC ni|DTP Ana|NNP na|CCP may|VBH niyog|NNC sa|CCT sahig|NNC ...|PMS "|PMS Ana|NNP ,|PMC bakit|PRQ may|VBH niyog|NNC sa|CCT sahig|NNC ?|PMQ
+,|PMC sigaw|NNC ng|CCB kanyang|PRSP_CCP Kuya|NNC .|PMP
+Ang|DTC Sikreto|NNP ng|CCB Mahiwagang|NNP_CCP Itim|NNP na|CCP Bloke|NNP Ang|DTC mahiwagang|JJD_CCP itim|JJD na|CCP bloke|NNC sa|CCT kuwento|NNC ay|LM tinatatwag|VBTR na|CCP bar|FW magnet|FW .|PMP
+Ang|DTC mga|DTCP magnet|NNC ay|LM may|VBH iba|PRI -|PMS ibang|PRI_CCP hugis|NNC tulad|JJC ng|CCB bilog|NNC ,|PMC parihaba|NNC ,|PMC parisukat|NNC o|CCT hugis|NNC ng|CCB letrang|NNC_CCP U.|NNPA Hindi|RBF lahat|PRI ng|CCB bagay|NNC ay|LM maaring|RBM dumikit|VBAF sa|CCT magnet|VBW .|PMP
+Ito|PRO ay|LM didikit|FW lamang|RBI kung|CCR ang|DTC mga|DTCP bagay|NNC ay|LM may|VBH metal|NNC na|CCP elemento|NNC .|PMP
+Ito|PRO ang|DTC dahilan|NNC kung|RBK bakit|RBQ ang|DTC mga|DTCP bagay|NNC na|CCP yarisa|NNC bakal|NNC ,|PMC nikel|NNC ,|PMC iron|FW at|CCA kobalt|NNC ay|LM kadalasang|RBW_CCP dumidikit|VBTR_VBAF sa|CCT mga|DTCP magnet|NNC .|PMP
+Alin|NNP -|PMS alin|PRQ sa|CCT mga|DTCP sumusunod|VBTR na|CCP bagay|NNC na|CCP nasa|RBL larawan|NNC ang|DTC didikit|NNC sa|CCT magnet|VBW ?|PMQ

@@ -1,0 +1,8 @@
+kamay|NNC na|CCP para|CCT sa|CCT segundo|NNC ,|PMC kamay|NNC na|CCP para|CCT sa|CCT minuto|NNC .|PMP
+Isang|PRI_CCP mabilis|JJD ,|PMC and|FW isa|PRI naman|RBI ay|LM mabagal|JJD .|PMP
+Paikot|JJD at|CCA paligid|JJD ,|PMC pumunta|VBAF sila|PRP ,|PMC Nang|RBD walang|VBN_CCP pagkahilo|NNC .|PMP
+Napakagaling|VBTS ng|CCB orasan|NNC ,|PMC Gising|JJD buong|PRI_CCP araw|NNC at|CCA gabi|RBW .|PMP
+Sinasabi|VBTR sa|CCT iyo|PRSP na|CCP gawin|VBOF mo|PRS ang|DTC iyong|PRSP_CCP takdang|JJD_CCP aralin|VBOF ,|PMC Ginigising|JJD_CCP ka|PRS upang|CCB makapunta|VBW ka|PRS sa|CCT paaralan|NNC .|PMP
+Mag|NNP -|PMS tick|FW tock|FW ,|PMC tick|FW tock|FW !|PMS
+Paalam|NNP ,|PMC Orasan|NNP .|PMP
+At|CCA ngayon|RBW ,|PMC mas|JJCC mabilis|JJD tayong|PRP_CCP maglakad|VBW .|PMP

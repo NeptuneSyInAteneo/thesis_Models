@@ -1,0 +1,20 @@
+Si|DTP Ulap|NNP ay|LM masayang|JJD_CCP gumugulong|VBTR_VBAF sa|CCT kalangitan|NNC .|PMP "|PMS
+Ulap|NNP !|PMS
+Bakit|PRQ hindi|RBF ka|PRS magpaulan|VBTF ?|PMQ
+Ako|PRS ay|LM sasayaw|JJD para|CCT sa|CCT iyo|PRSP ,|PMC "|PMS sabi|VBS ng|CCB paboreal|FW .|PMP "|PMS
+Maawa|VBTF ka|PRS Ulap|NNC ,|PMC paulanin|VBOF mo|PRS na|RBI .|PMP
+Kailangan|VBS ko|PRS ng|CCB tubig|NNC ,|PMC "|PMS sabi|VBS ng|CCB isda|NNC .|PMP "|PMS
+Maawa|VBTF ka|PRS Ulap|NNC ,|PMC paulanin|VBOF mo|PRS na|RBI .|PMP
+Magtatanim|NNP ako|PRS ng|CCB mga|DTCP binhi|NNC para|CCT sa|CCT susunod|VBTF na|CCP anihan|NNC ,|PMC "|PMS pakiusap|NNC ng|CCB magsasaka|NNC .|PMP "|PMS
+Kapag|CCR pinaulan|VBOF mo|PRS ,|PMC magpapaandar|VBTF ako|PRS ng|CCB mga|DTCP bangkang|NNC_CCP papel|NNC ,|PMC "|PMS ang|DTC sabi|VBS ni|DTP Rajo|NNP .|PMP
+Nagpaulan|VBTS si|DTP Ulap|NNP ng|CCB maraming|PRI_CCP kumikinang|JJD na|CCP patak|NNC .|PMP
+Ibinuka|VBTS ng|CCB paboreal|NNC ang|DTC kaniyang|PRSP_CCP mga|DTCP magagandang|JJD_CCP pakpak|NNC at|CCA sumayaw|VBAF .|PMP
+Napuno|VBTS ng|CCB tubig|NNC ang|DTC sapa|NNC .|PMP
+Naging|VBTS masaya|JJD ang|DTC isda|NNC .|PMP
+Nagsimulang|VBTS_CCP magtanim|VBW ang|DTC magsasaka|NNC .|PMP
+Isplas|NNP !|PMS
+Isplas|NNP !|PMS
+Isplas|NNP !|PMS
+Napakasaya|VBTS ni|DTP Rajo|NNP na|CCP naglalaro|VBTR sa|CCT ilog|NNC kasama|CCB ang|DTC kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Nakapagdulot|VBTS si|DTP Ulap|NNP ng|CCB kasiyahan|NNC sa|CCT puso|NNC ng|CCB bawat|PRI isa|PRI .|PMP
+Nagpatuloy|VBTS ito|PRO at|CCA naging|VBTS panatag|JJD na|CCP ang|DTC lahat|PRI .|PMP

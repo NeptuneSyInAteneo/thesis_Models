@@ -1,0 +1,79 @@
+Si|DTP Tey|NNP Tey|NNP ay|LM nasa|RBL Ikatlong|NNC_CCP Baitang|NNC .|PMP
+Mahilig|RBD siyang|PRS_CCP magbasa|VBAF at|CCA sa|CCT asignaturang|NNC_CCP Araling|NNP PanlipunanNgunit|NNP ayaw|RBF niya|PRS sa|CCT Matematika|NNC ,|PMC lalo|JJCC na|RBI sa|CCT Talaan|NNC ng|CCB Multiplikasyon|NNC .|PMP "|PMS
+Blah|NNP blah|FW blah|FW !|PMS "|PMS
+nasa|RBL isip|NNC ni|DTP Tey|NNP Tey|NNP .|PMP "|PMS
+Nakakatamad|NNP !|PMS "|PMS "|PMS
+Ayaw|RBF mo|PRS din|RBI ba|RBI sa|CCT Multiplikasyon|NNC tulad|JJC ko|PRS ?|PMQ "|PMS
+tanong|NNC ni|DTP Tey|NNP Tey|NNP sa|CCT kaniyang|PRSP_CCP kaibigang|NNC_CCP si|DTP Som|NNP sa|CCT oras|NNC ng|CCB recess|FW .|PMP "|PMS
+Ayaw|RBF ko|PRS noong|RBW_CCP una|CDB ,|PMC "|PMS sagot|NNC ni|DTP Som|NNP .|PMP "|PMS
+Pero|CCT ngayon|RBW ay|LM nagustuhan|VBTS ko|PRS na|CCP .|PMP "|PMS "|PMS
+Bakit|PRQ kailangan|VBS ko|PRS pa|RBI matutunan|VBW ang|DTC Talaan|NNC ng|CCB Multiplikasyon|NNC ?|PMQ "|PMS
+Tanong|NNC ni|DTP Tey|NNP Tey|NNP sa|CCT kaniyang|PRSP_CCP kaibigang|NNC_CCP si|DTP Nita|NNP .|PMP "|PMS
+Kailan|NNP ko|PRS ba|RBI magagamit|VBTF ang|DTC multiplikasyon|NNC kapag|CCR nasa|RBL labas|JJD ng|CCB paaralan|NNC ?|PMQ "|PMS "|PMS
+Pag|CCR -|PMS aralan|NNC mo|PRS lang|RBI ang|DTC talaan|NNC ,|PMC "|PMS sagot|NNC ni|DTP Nita|NNP .|PMP "|PMS
+Magugulat|VBTF ka|PRS kung|RBK gaano|RBQ mo|PRS kadalas|JJC gamitin|VBOF ang|DTC pagbibilang|NNC kapag|CCR ito|PRO ay|LM maramihan|JJD na|RBI .|PMP "|PMS "|PMS
+Inay|NNP ,|PMC gusto|VBS mo|PRS po|RBS bang|RBM matuto|VBW ng|CCB Multiplikasyon|NNC noong|RBW_CCP ikaw|PRS ay|LM nasa|RBL eskuwelahan|NNC ?|PMQ "|PMS "|PMS
+Oo|RBT ,|PMC nag|VBTS -|PMS aral|NNC akong|PRS_CCP mabuti|JJD ,|PMC at|CCA naging|VBTS magaling|JJD sa|CCT pagbibilang|NNC ,|PMC "|PMS sagot|NNC ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Kung|RBK hindi|RBF ko|PRS natutunan|VBTR at|CCA naisaulo|VBTS ang|DTC Talaan|NNC ng|CCB Multiplikasyon|NNC ,|PMC magiging|VBTF mahirap|JJD pamahalaan|NNC ang|DTC mga|DTCP benta|NNC sa|CCT aking|PRSP_CCP tindahan|NNC ngayon|RBW .|PMP "|PMS
+Nasorpresa|VBTS si|DTP Tey|NNP Tey|NNP sa|CCT kaniyang|PRSP_CCP narinig|VBTS .|PMP
+Marahil|RBM ang|DTC pagpaparami|NNC ng|CCB bilang|NNC ay|LM kapaki|NNC -|PMS pakinabang|NNC pagkatapos|VBW ng|CCB lahat|PRI .|PMP
+Sinimulan|VBTS na|RBI ni|DTP Tey|NNP Tey|NNP pag|CCR -|PMS aralan|NNC ang|DTC mga|DTCP bilang|NNC na|CCP nasa|RBL talaan|NNC .|PMP
+Iniisip|VBTS ni|DTP Tey|NNP Tey|NNP tungkol|RBR sa|CCT sinabi|VBTS ng|CCB kaniyang|PRSP_CCP ina|NNC tungkol|RBR sa|CCT paggamit|NNC ng|CCB multiplikasyon|NNC sa|CCT kaniyang|PRSP_CCP tindahan|NNC .|PMP
+Kumuha|VBAF siya|PRS ng|CCB papel|NNC ,|PMC gunting|FW ,|PMC at|CCA panulat|NNC .|PMP
+Gumawa|VBAF siya|PRS ng|CCB pekeng|JJD_CCP pera|NNC na|CCP gawa|VBS sa|CCT papel|NNC na|CCP may|VBH sulat|NNC na|CCP isang|JJN_CCP daang|NNC_CCP piso|NNC o|CCT ,500|CDB pesos|NNC ,|PMC at|CCA ,000|CDB pesos|NNC .|PMP
+Nagtayo|VBTS siya|PRS ng|CCB tinda|NNC -|PMS tindahan|NNC at|CCA inimbita|VBTS si|DTP Som|NNP para|CCT maging|VBW customer|NNC niya|PRS .|PMP "|PMS
+Excuse|NNP me|FW ,|PMC Ale|NNP ,|PMC magkano|VBW po|RBS itong|PRO_CCP mga|DTCP cake|FW ?|FW '|PMS
+tanong|NNC ni|DTP Som|NNP .|PMP "|PMS
+400pesos|CDB kada|PRI isa|PRI ,|PMC Ginoo|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tey|NNP Tey|NNP .|PMP "|PMS
+Ilan|PRQ po|RBS ba|RBI ang|DTC gusto|VBS mo|PRS ?|PMQ "|PMS "|PMS
+Gusto|VBS ko|PRS po|RBS ng|CCB apat|CDB ,|PMC please|FW ,|PMC "|PMS sagot|NNC ni|DTP Som|NNP .|PMP "|PMS
+Magkano|VBW po|RBS lahat|PRI ?|PMQ "|PMS "|PMS
+Hmm|NNP ,|PMC "|PMS sabi|VBS ni|DTP Tey|NNP Tey|NNP ,|PMC habang|RBW kinakamot|VBTR ang|DTC ulo|NNC .|PMP "|PMS
+400at|CDB 400ay|NNC .|PMP
+800at|CDB 400ay|NNC ,|PMC ...|PMS "|PMS Sabi|VBW ni|DTP Som|NNP ,|PMC "|PMS Alam|VBS mo|PRS ba|RBI kapag|CCR ginamit|VBOF mo|PRS ang|DTC Talaan|NNC ng|CCB Multiplikasyon|NNC ay|LM mas|JJCC mabilis|JJD kang|PRS_CCP makapag|VBW bilang|CCT .|PMP "|PMS "|PMS
+Ngunit|CCT hanggang|RBW 10x10lang|CDB ang|DTC natutunan|VBTS ko|PRS !|PMS "|PMS
+sabi|VBS ni|DTP Tey|NNP Tey|NNP .|PMP "|PMS
+Hindi|RBF ko|PRS alam|VBS kung|RBK ano|RBQ ang|DTC x|NNC .|PMP "|PMS "|PMS
+Siguraduhin|VBOF mo|PRS ,|PMC "|PMS sagot|NNC ni|DTP Som|NNP .|PMP "|PMS
+Alisin|VBOF mo|PRS lamang|RBI ang|DTC dalawang|JJN_CCP zero|FW mula|RBL sa|CCT .|PMP
+Ngayon|RBW meron|VBH ka|PRS nang|RBW .|PMP
+Kaya|CCR ,|PMC ano|PRQ ang|DTC x|NNC ?|PMQ "|PMS "|PMS
+Ay|NNP ,|PMC alam|VBS ko|PRS yan|PRO !|PMS "|PMS
+sabi|VBS ni|DTP Tey|NNP Tey|NNP .|PMP "|PMS !|PMQ "|PMS "|PMS
+Tama|RBT !|PMS
+Ngayon|RBW ibalik|VBOF mo|PRS ang|DTC dalawang|JJN_CCP zero|FW !|PMS "|PMS "|PMS
+16na|CDB may|VBH dalawang|JJN_CCP zero|FW ay|LM ,|PMC .|PMP
+Kaya|CCR ,|PMC na|CCP cake|FW x|PMS 400pesos|CDB =|PMS ,600|CDB pesos|NNC !|PMS "|PMS
+Maya|NNP maya|RBW ay|LM dumating|VBAF ang|DTC kaibigan|NNC ni|DTP Tey|NNP Tey|NNP na|CCP si|DTP Nita|NNP at|CCA nais|VBS sumali|VBAF sa|CCT laro|NNC .|PMP "|PMS
+Hello|NNP !|PMS "|PMS
+bati|VBS niya|PRS .|PMP "|PMS
+Gusto|VBS ko|PRS ng|CCB limang|JJN_CCP banana|FW cue|FW .|PMP
+Magkano|VBW po|RBS ?|PMQ "|PMS
+Napakamot|VBTR muli|RBW ng|CCB ulo|NNC si|DTP Tey|NNP Tey|NNP at|CCA nagsimula|VBTS muling|RBW_CCP magbilang|VBW gamit|VBS ang|DTC addition|FW upang|CCB makuha|VBW ang|DTC sagot|NNC .|PMP "|PMS
+Isang|PRI_CCP banana|FW cue|FW ay|LM 500at|CDB 500pesos|CDB ...|PMS "|PMS Napasigaw|VBTS si|DTP Tey|NNP Tey|NNP ,|PMC "|PMS teka|NNC muna|RBI ,|PMC subukan|VBOF ko|PRS muli|RBW !|PMQ "|PMS "|PMS
+Isang|PRI_CCP banana|FW cue|FW ay|LM 500pesos|CDB ,|PMC "|PMS iniisip|VBTR niya|PRS sa|CCT sarili|NNC niya|PRS .|PMP "|PMS
+Kung|CCR alisin|VBOF ko|PRS ang|DTC dalawang|JJN_CCP zero|FW sa|CCT ,|PMC matitira|VBW ay|LM .|PMP
+At|CCA x|NNC ay|LM .|PMP
+Ngayon|RBW ,|PMC ibalik|VBOF ang|DTC dalawang|JJN_CCP zero|FW at|CCA ...|PMS "|PMS "|PMS Ang|DTC kabuuan|PRI po|RBS ay|LM ,500|CDB pesos|NNC ,|PMC Masayang|RBD_CCP sagot|NNC ni|DTP Tey|NNP Tey|NNP kay|DTP Nita|NNP .|PMP
+Nakita|VBTS ng|CCB tito|NNC ni|DTP Tey|NNP Tey|NNP na|CCP si|DTP Tong|NNP ang|DTC mga|DTCP bata|NNC na|CCP masayang|JJD_CCP naglalaro|VBTR .|PMP "|PMS
+Nais|VBS ko|PRS ng|CCB (|PMS anim|CDB )|PMS na|CCP bote|NNC ng|CCB tubig|NNC ,|PMC please|FW !|PMS "|PMS
+Aniya|CCB kay|DTP Tey|NNP tey|FW .|PMP "|PMS
+Ako|PRS ay|LM nauuhaw|VBTS ,|PMC kaya|CCR pakibilisan|VBOF at|CCA bigyan|VBOF mo|PRS ako|PRS ng|CCB tubig|NNC !|PMS "|PMS "|PMS
+Siyempre|RBT ,|PMC Ginoo|NNC ,|PMC "|PMS sagot|NNC ni|DTP Tey|NNP Tey|NNP .|PMP "|PMS
+Isang|PRI_CCP bote|NNC ay|LM nagkakahalaga|VBTR ng|CCB 600pesos|CDB .|PMP
+x|PMS =|PMS .|PMP
+Kaya|CCR ang|DTC anim|JJN na|CCP bote|NNC ay|LM ,600|CDB pesos|NNC lahat|PRI .|PMP
+Sapat|JJD na|CCP ba|FW iyon|PRO para|CCT sa|CCT iyo|PRSP ?|PMQ "|PMS
+Nagpalakpakan|VBTS at|CCA naghiyawan|VBTS sa|CCT tuwa|NNC sina|DTPP Nita|NNP at|CCA Som|NNP .|PMP "|PMS
+Tey|NNP ,|PMC Tey|NNP ,|PMC "|PMS sabi|VBS ni|DTP Som|NNP ,|PMC Ang|DTC galing|RBL mo|PRS na|RBI !|PMQ
+Sa|CCT palagay|NNC ko|PRS natutunan|VBTR mo|PRS na|RBI ang|DTC paggamit|NNC ng|CCB multiplikasyon|NNC at|CCA hindi|RBF ito|PRO naging|VBTS walang|VBN_CCP silbi|NNC para|CCT sa|CCT iyo|PRSP !|PMS "|PMS
+Ngumiti|VBAF siya|PRS at|CCA sumang|VBAF -|PMS ayon|RBR sa|CCT kanila|PRSP .|PMP
+Tinawag|VBOF niya|PRS ang|DTC kanyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Inay|NNP ,|PMC may|VBH kailangan|VBS akong|PRS_CCP sabihin|VBOF sayo|PRSP na|CCP sikreto|NNC !|PMS "|PMS "|PMS
+Oh|NNP ?|PMQ "|PMS
+tanong|NNC ng|CCB nanay|NNC habang|RBW naka|RBD yuko|RBD .|PMP "|PMS
+Ano|PRQ iyon|PRO ?|PMQ "|PMS "|PMS
+Tama|RBT po|RBS kayo|PRP ,|PMC "|PMS pabulong|JJD na|CCP sabi|VBS ni|DTP Tey|NNP Tey|NNP .|PMP "|PMS
+ang|DTC Multiplikasyon|NNC ay|LM hindi|RBF naman|RBI pala|NNC ganon|PRC ka|PRS sama|NNC .|PMP
+Napag|NNP -|PMS iisipan|VBTF ko|PRS ...|PMS na|CCP kung|CCR maaari|VBS po|RBS baakong|NNC_CCP magtrabaho|VBAF sa|CCT iyong|PRSP_CCP tindahan|NNC balang|CCT araw|NNC ?|PMQ "|PMS
+Title|NNP in|NNP Filipino|NNP :|PMS "|PMS Tey|FW Tey|FW ng|CCB Sampung|JJN_CCP Beses|NNP "|PMS

@@ -1,0 +1,107 @@
+Sa|CCT isang|PRI_CCP mcdilim|JJD na|CCP kuweba|NNC ay|LM may|VBH isang|PRI_CCP maliit|JJD na|CCP bato|NNC .|PMP
+Maitim|JJD ito|PRO ,|PMC marumi|JJD at|CCA hindi|RBF katangi|JJD -|PMS tangi|JJD .|PMP "|PMS
+Ano|PRQ kaya|CCR ang|DTC nasa|RBL labas|NNC ng|CCB kuweba|NNC ?|PMQ
+Ano|PRQ kaya|CCR ang|DTC nangyayari|VBTR doon|PRL ?|PMQ "|PMS
+Maraming|PRI_CCP tanong|NNC ang|DTC muntin|FW bato|NNC ,|PMC ngunit|CCT wala|VBN pa|RBI itong|PRO_CCP kasagutan|NNC .|PMP
+Minsan|RBW ay|LM may|VBH munting|JJD_CCP uod|NNC na|CCP napadaan|VBTS sa|CCT kaniya|PRSP .|PMP "|PMS
+Andiyan|NNP ka|PRS pa|RBI rin|RBI ?|PMQ "|PMS
+pangungutya|VBW nito|PRO .|PMP "|PMS
+Nakagagapang|VBTR_CCP ako|PRS paroo|FW '|PMS t|FW parito|FW ,|PMC ngunit|CCT nariyan|VBTS ka|PRS pa|RBI rin|RBI ?|PMQ
+Inggit|VBTS ka|PRS ano|PRQ ?|PMQ "|PMS "|PMS
+Hoy|NNP ,|PMC bato|NNC ,|PMC hindi|RBF ka|PRS makalilipad|VBTF kagaya|JJC ko|PRS ,|PMC ano|PRQ ?|PMQ "|PMS
+panunukso|NNC ng|CCB langaw|NNC .|PMP "|PMS
+Hahaha|NNP !|PMS
+Nakakatawa|VBTR naman|RBI kayo|PRP !|PMQ
+Mas|JJCC mataas|JJD pa|RBI rin|RBI ang|DTC lipad|NNC ko|PRS kesa|JJD sa|CCT inyong|PRSP_CCP lahat|PRI !|PMS "|PMS
+Pagmamataas|NNP ng|CCB paniki|NNC .|PMP
+Hindi|RBF kumibo|VBAF ang|DTC munting|JJD_CCP bato|NNC habang|RBW nakayoko|VBTS lamang|RBI .|PMP "|PMS
+Anak|NNP ,|PMC ikaw|PRS ay|LM isa|PRI especial|JJD na|CCP bato|NNC ,|PMC "|PMS paalala|NNC ng|CCB inang|NNC_CCP bato|NNC .|PMP "|PMS
+Tuksohin|NNP ka|PRS man|RBI ay|LM huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC o|CCT magalit|VBW dahil|CCR ikaw|PRS rin|RBI ay|LM katangi|JJD -|PMS tangi|JJD .|PMP
+Mahal|NNP kita|NNC ,|PMC Anak|NNC .|PMP "|PMS
+Nang|RBW biglang|RBD_CCP !|PMQ
+Boom|NNP !|PMS
+Isang|PRI_CCP malakas|JJD na|CCP tunog|NNC ang|DTC nagmula|VBTS sa|CCT kung|RBK saan|RBQ .|PMP
+At|CCA ang|DTC lahat|PRI ay|LM nagsimulang|RBD_CCP gumuho|VBAF .|PMP
+Bang|NNP !|PMS
+Bang|NNP !|PMS
+Boom|NNP !|PMS
+Boom|NNP !|PMS
+Ang|DTC munting|JJD_CCP bato|NNC ay|LM nanginig|VBTR sa|CCT takot|NNC .|PMP
+Pinikit|VBOF niya|PRS ang|DTC kaniyang|PRSP_CCP mga|DTCP mata|NNC .|PMP
+Nang|RBW matigil|VBW ang|DTC mga|DTCP pagsabog|NNC ay|LM dahan|NNC -|PMS dahang|NNC_CCP inimulat|VBTR ng|CCB munting|JJD_CCP bato|NNC ang|DTC kaniyang|PRSP_CCP mga|DTCP mata|NNC .|PMP
+Sobrang|JJCS_CCP dilim|NNC at|CCA tahimik|JJD ang|DTC paligi|NNC .|PMP
+Ang|DTC lahat|PRI ay|LM tila|RBM kinain|VBOF ng|CCB kadiliman|NNC .|PMP "|PMS
+Inay|NNP !|PMS
+Okey|NNP lang|RBI ho|FW ba|FW kayo|PRP ?|PMQ "|PMS
+takot|JJD na|CCP tinawag|VBOF ng|CCB munting|JJD_CCP bato|NNC ang|DTC kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Inay|NNP ,|PMC nata|RBD .|PMP .|PMP
+natatakot|VBTR ako|PRS !|PMS "|PMS
+Subalit|CCT walang|VBN_CCP sagot|NNC .|PMP
+Nang|RBW biglang|RBD_CCP may|VBH nakakasilaw|RBD na|CCP liwanag|NNC at|CCA lumitaw|VBAF ang|DTC isang|PRI_CCP lalaki|NNC .|PMP
+Hinawak|NNP -|PMS hawakan|VBOF ng|CCB lalaki|NNC ang|DTC maliit|JJD na|CCP bato|NNC at|CCA sumigaw|VBAF siya|PRS habang|RBW nakangiti|JJD .|PMP "|PMS
+Sa|CCT wakas|RBW ,|PMC nahanap|VBTS na|CCP kita|NNC !|PMS "|PMS
+Maingat|RBD na|CCP inangat|VBTS ng|CCB lalaki|NNC ang|DTC bato|NNC ,|PMC inalis|VBTS ang|DTC dumi|NNC ,|PMC at|CCA pagkatapos|VBW ay|LM dinala|VBTS ito|PRO .|PMP
+Nang|RBW biglang|RBD_CCP may|VBH nakakasilaw|RBD na|CCP liwanag|NNC at|CCA lumitaw|VBAF ang|DTC isang|PRI_CCP lalaki|NNC .|PMP
+Hinawak|NNP -|PMS hawakan|VBOF ng|CCB lalaki|NNC ang|DTC maliit|JJD na|CCP bato|NNC at|CCA sumigaw|VBAF siya|PRS habang|RBW nakangiti|JJD .|PMP "|PMS
+Sa|CCT wakas|RBW ,|PMC nahanap|VBTS na|CCP kita|NNC !|PMS "|PMS
+Maingat|RBD na|CCP inangat|VBTS ng|CCB lalaki|NNC ang|DTC bato|NNC ,|PMC inalis|VBTS ang|DTC dumi|NNC ,|PMC at|CCA pagkatapos|VBW ay|LM dinala|VBTS ito|PRO .|PMP "|PMS
+Ano|PRQ ?|PMQ
+Mas|JJCC maganda|JJD kaya|CCR ako|PRS !|PMQ "|PMS "|PMS
+Hindi|RBF mo|PRS ba|RBI nakikita|VBTR ?|PMQ
+Halata|NNP namang|RBI_CCP mas|JJCC maganda|JJD ako|PRS !|PMS "|PMS
+Nagtatalo|VBTR ang|DTC kambal|NNC na|CCP hikaw|NNC .|PMP "|PMS
+Anong|PRQ_CCP sinasabi|VBTR ninyo|PRP ?|PMQ "|PMS
+malakas|JJD na|CCP sigaw|NNC ng|CCB malaking|JJD_CCP pulseras|NNC sa|CCT tabi|NNC .|PMP "|PMS
+Dito|PRL ,|PMC walang|VBN_CCP ibang|PRI_CCP mas|JJCC malaki|JJD kaysa|JJC sa|CCT akin|PRSP ,|PMC kaya|CCR ako|PRS ang|DTC mas|JJCC kahanga|JJD -|PMS hanga|JJD !|PMS "|PMS
+Ang|DTC iba|PRI pang|RBI_CCP mga|DTCP hiyas|NNC ay|LM nagsimula|VBTS na|CCP ring|RBI_CCP makipagtalo|VBW .|PMP "|PMS
+Hindi|RBF .|PMP
+Dito|PRL ,|PMC ako|PRS ang|DTC galing|NNC sa|CCT pinakamalayong|JJCS_JJD_CCP lugar|NNC !|PMS "|PMS "|PMS
+Ako|PRS naman|RBI ang|DTC pinakamahal|JJCS_JJD na|CCP hiyas|NNC dito|PRL !|PMQ "|PMS "|PMS
+Ano|PRQ ?|PMQ
+Mas|JJCC maganda|JJD kaya|CCR ako|PRS !|PMQ "|PMS "|PMS
+Hindi|RBF mo|PRS ba|RBI nakikita|VBTR ?|PMQ
+Halata|NNP namang|RBI_CCP mas|JJCC maganda|JJD ako|PRS !|PMS "|PMS
+Nagtatalo|VBTR ang|DTC kambal|NNC na|CCP hikaw|NNC .|PMP "|PMS
+Anong|PRQ_CCP sinasabi|VBTR ninyo|PRP ?|PMQ "|PMS
+malakas|JJD na|CCP sigaw|NNC ng|CCB malaking|JJD_CCP pulseras|NNC sa|CCT tabi|NNC .|PMP "|PMS
+Dito|PRL ,|PMC walang|VBN_CCP ibang|PRI_CCP mas|JJCC malaki|JJD kaysa|JJC sa|CCT akin|PRSP ,|PMC kaya|CCR ako|PRS ang|DTC mas|JJCC kahanga|JJD -|PMS hanga|JJD !|PMS "|PMS
+Isang|PRI_CCP binata|NNC ang|DTC pumasok|VBAF sa|CCT tindahan|NNC .|PMP "|PMS
+Gusto|VBS kong|PRS_CCP mag|VBW -|PMS tapat|JJD sa|CCT babaeng|NNC_CCP mahal|JJD ko|PRS .|PMP
+Aling|PRQ_CCP singsing|NNC kaya|CCR ang|DTC maganda|JJD para|CCT sa|CCT kanya|PRSP ?|PMQ "|PMS
+Tumingin|VBAF sa|CCT iba|PRI '|PMS t|NNCA ibang|PRI_CCP singsing|NNC ang|DTC binata|NNC at|CCA napatitig|VBTS siya|PRS sa|CCT singsing|NNC na|CCP may|VBH maliit|JJD na|CCP bato|NNC .|PMP "|PMS
+Ito|PRO ho|FW ,|PMC kukunin|VBTF_VBOF ko|PRS .|PMP "|PMS
+Sambit|NNP ng|CCB binata|NNC na|CCP may|VBH kasiguraduhan|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC kung|RBK kailan|RBQ maaliwalas|JJD ang|DTC hangin|NNC at|CCA maganda|JJD ang|DTC sikat|JJD ng|CCB araw|NNC ,|PMC Ang|DTC babaeng|NNC_CCP nakayuko|JJD na|CCP may|VBH ngiti|NNC ng|CCB kagalakan|NNC ay|LM mukhang|RBM '|PMS di|RBF maipahiwatig|VBW ang|DTC saya|NNC .|PMP
+Inisip|VBTS ng|CCB maliit|JJD na|CCP bato|NNC .|PMP "|PMS
+Kaya|CCR ba|RBI siya|PRS masaya|JJD dahil|CCR nakatingin|RBD siya|PRS sa|CCT akin|PRSP ?|PMQ
+Hindi|RBF naman|RBI siguro|RBM ...|PMS "|PMS Ang|DTC maliit|JJD na|CCP bato|NNC ay|LM nadala|VBTS na|CCP rin|RBI sa|CCT saya|NNC dahil|CCR sa|CCT kaniyang|PRSP_CCP masayang|JJD_CCP kapaligiran|NNC .|PMP "|PMS
+Tama|RBT nga|RBI ang|DTC sinabi|VBTS ni|DTP Inay|NNP !|PMS
+Ako|PRS ay|LM katangi|JJD -|PMS tangi|JJD .|PMP
+Maraming|PRI_CCP salamat|RBS ,|PMC Inay|NNP !|PMS "|PMS
+김알라글|PMS ・|CDB 그림|PMS 러시아에서온김알라입니다|CDB .|PMP
+어느새한국에서생|CDB 활한지7년이다되어갑니다|CDB .|PMP
+저는다문화가정|CDB 을이루어엄마이자외국인으로서한국에서주어|PMS 지는기회들덕분에많은경험을할수있었습니|CDB 다|NNCA .|PMP
+원래저는피아노를전공했지만|CDB ,|PMC 그외에도다|CDB 양한경험을이어왔습니다|NNC .|PMP
+그림책작가로서좋|FW 은취지의활동에함께할수있어|FW ,|PMC 영광이고감사|FW 합니다|FW .|PMP
+세상의모든부모님들은아이들에게무한|CDB 한사랑을선물해줍니다|NNC .|PMP
+그사랑에보답하고자|CDB 저의부모님께이책을선물로드리고싶습니다|NNC .|PMP
+책에담긴이야기가독자어린이들의마음에따스하게스며들기를바랍니다.지구별한가족|FW 지금까지과학자들이온갖지식과지혜|FW ,|PMC 첨단과|FW 학기술로연구|FW ,|PMC 조사탐색했지만|FW '|PMS 지구|NNCA '|PMS 처럼인간이살수있는별은우주에단하나|CDB 도없다고합니다|PMS .|PMP
+하지만인간은오늘도멈추거나포기하지않고지|CDB 구와같은생명의별을찾느라바쁩니다|NNC .|PMP
+그누구도|CDB ,|PMC 어떠한방법으로도셀수없을정도로|CDB 많은우주의별들|NNC .|PMP
+하지만사람이살수있는별은현재지구하나라니|CDB ,|PMC 놀라울뿐입니다|CDB .|PMP
+이사실은우리에게특별한감동이나깨달음을줍|CDB 니다|NNC .|PMP
+특히세계여러나라에서대한민국으로온여성들|CDB 과함께글작업을한나에게는감동이더큽니다|NNC .|PMP
+하나뿐인지구|CDB .|PMP
+그렇다면우리는어느나라사람|PMS 이건|CDB '|PMS 지구가족|CDB '|PMS 입니다|CDB .|PMP
+가족은서로믿어줘야하고|CDB ,|PMC 서로의지하며|CDB ,|PMC 서로|CDB 아껴줘야합니다|NNC .|PMP
+가족은먼저안아주고|CDB ,|PMC 먼저웃어주고|CDB ,|PMC 먼저베풀|CDB 어야합니다|NNC .|PMP
+가족은함께아파하고|CDB ,|PMC 함께고통을이겨내고|CDB ,|PMC 함|CDB 께걸어가야합니다|PMS .|PMP '|PMS
+다가치|PMS ,|PMC 다같이어린이책공모전|CDB '|PMS 을통해|CDB 멋진작품을쓴모든분들을존경합니다|PMS .|PMP
+왜냐하면참가자모두가육아|CDB ,|PMC 가정살림|CDB ,|PMC 집안어|CDB 르신모시기|NNPA ,|PMC 직장일|NNPA 등등으로너무너무힘든데도끝까지작품을완성|NNP 했으니까요|CDB .|PMP
+그것도아직서투른한국어로글쓰기를했으니참|CDB 힘들었을겁니다.그러나한번의글쓰기는말하기백번과는비교도|PMS 안될정도로놀라운힘을갖고있습니다|CDB .|PMP
+자기생각과마음을훨씬또렷하게표현하는힘|CDB .|PMP
+다른사람과더품위있게소통하는힘|CDB .|PMP
+내아이를좀더아름답게교육할수있는힘|CDB .|PMP
+이런힘을가지고있지요|CDB .|PMP
+앞으로도이사업이많은이주여성들|CDB ,|PMC 그가족들에게긍지와소망을주는사업으로굳세|CDB 게세워지길강권합니다|NNC .|PMP
+노경실작가Sa|NNP pakikipagtulungan|NNC at|CCA taos|NNC -|PMS pusong|NNC_CCP suporta|NNC ng|CCB Seoul|NNP Metropolitan|NNP Government|NNP ,|PMC The|NNP Asia|NNP Foundation|NNP ,|PMC at|CCA MoneyGram|NNP Foundation|NNP .|PMP

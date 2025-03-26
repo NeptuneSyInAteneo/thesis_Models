@@ -1,50 +1,62 @@
-Ano|PRQ ang|DTC pagkakaiba|NNC ng|CCB mga|DTCP ibon|NNC ?|PMQ
-Ang|DTC agila|NNC na|CCP ito|PRO ay|LM may|VBH mga|DTCP mahaba|JJD at|CCA malapad|JJD na|CCP mga|DTCP pakpak|NNC .|PMP
-Ang|DTC mga|DTCP ibon|NNC ba|RBI ang|DTC tanging|JJD_CCP mga|DTCP hayop|NNC na|CCP may|VBH pakpak?Hindi|NNC .|PMP
-May|VBH mga|DTCP ilang|PRQ_CCP insekto|NNC na|CCP may|VBH mga|DTCP pakpak|NNC .|PMP
-Ang|DTC tutubi|NNC na|CCP ito|PRO ay|LM may|VBH mga|DTCP pakpak|NNC .|PMP
-Ang|DTC mga|DTCP isdang|NNC_CCP bolador|FW ay|LM may|VBH mga|DTCP palikpik|NNC na|CCP parang|CCT mga|DTCP pakpak|NNC .|PMP
-Ang|DTC parrot|FW at|CCA hornbill|FW na|CCP ito|PRO ay|LM mayroong|VBH_CCP tuka|NNC .|PMP
-Ang|DTC isang|PRI_CCP tuka|NNC ay|LM maaari|VBS ding|RBI_CCP tawaging|VBOF isang|PRI_CCP beak|NNC .|PMP
-Ang|DTC mga|DTCP ibon|NNC lamang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH tuka?Hindi|NNC .|PMP
-Ang|DTC platypus|FW ay|LM mayroong|VBH_CCP tuka|NNC .|PMP
-Ang|DTC mga|DTCP ibon|NNC lamang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP nangingitlog?Hindi|VBTS .|PMP
-Nangingitlog|VBTR din|RBI ang|DTC mga|DTCP isda|NNC ,|PMC palaka|NNC ,|PMC ahas|NNC at|CCA pagong|NNC .|PMP
-Ang|DTC lalaking|NNC_CCP ibon|NNC ng|CCB paraiso|NNC ay|LM may|VBH maliliwanag|JJD na|CCP kulay|NNC .|PMP
-Ang|DTC mga|DTCP ibon|NNC lamang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH maliliwanag|JJD na|CCP kulay?Hindi|NNC .|PMP
-Ang|DTC mga|DTCP salagubang|NNC ,|PMC kulisap|NNC ,|PMC paru|FW -|PMS paro|NNC at|CCA isda|NNC ay|LM may|VBH matitingkad|JJD na|CCP kulay|NNC .|PMP
-Ang|DTC agila|NNC at|CCA seagull|NNC na|CCP ito|PRO ay|LM may|VBH matalas|JJD na|CCP mata|NNC .|PMP
-Ang|DTC mga|DTCP ibon|NNC lang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH matalas|JJD na|CCP mata?Hindi|VBW .|PMP
-Maraming|PRI_CCP hayop|NNC ,|PMC tulad|JJC ng|CCB mga|DTCP pusa|NNC at|CCA buwaya|NNC ,|PMC ang|DTC may|VBH matalas|JJD na|CCP mata|NNC .|PMP
-Ang|DTC cassowary|FW at|CCA kuwago|NNC na|CCP ito|PRO ay|LM may|VBH matatalas|JJD na|CCP kuko|NNC .|PMP
-Ang|DTC mga|DTCP ibon|NNC ba|RBI ang|DTC tanging|JJD_CCP mga|DTCP hayop|NNC na|CCP may|VBH matalas|JJD na|CCP kuko?Hindi|NNC .|PMP
-Ang|DTC Cuscus|NNP ,|PMC kangaroo|JJD at|CCA marami|PRI pang|RBI_CCP ibang|PRI_CCP hayop|NNC ay|LM may|VBH matalas|JJD na|CCP kuko|NNC .|PMP
-Ano|PRQ ang|DTC pagkakaiba|NNC ng|CCB mga|DTCP ibon|NNC sa|CCT ibang|PRI_CCP mga|DTCP hayop|NNC ?|PMQ
-Ang|DTC mga|DTCP ibon|NNC lamang|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH balahibo|NNC .|PMP
-Ang|DTC mga|DTCP plumahe|FW ay|LM lubhang|JJCS_CCP kapaki|NNC -|PMS pakinabang|NNC .|PMP
-•|PMS Pinapanatili|VBTR nilang|PRP_CCP mainit|JJD ang|DTC ibon|NNC .|PMP
-•|PMS Tinutulungan|VBTR_VBOF nila|PRP ang|DTC ibon|NNC na|CCP lumipad|VBAF .|PMP
-•|PMS Ang|DTC mga|DTCP plumahe|FW ng|CCB buntot|NNC ay|LM tumutulong|VBTR_VBAF sa|CCT ibon|NNC na|CCP lumiko|VBAF .|PMP
-•|PMS Ang|DTC kulay|NNC ng|CCB kanilang|PRSP_CCP mga|DTCP plumahe|FW ay|LM tumutulong|VBTR_VBAF sa|CCT mga|DTCP ibon|NNC na|CCP magtago|VBW .|PMP
-•|PMS Ang|DTC kulay|NNC ng|CCB kanilang|PRSP_CCP mga|DTCP plumahe|FW ay|LM tumutulong|VBTR_VBAF din|RBI sa|CCT mga|DTCP ibon|NNC na|CCP makahanapng|RBD_CCP mapapangasawa|VBW .|PMP
-Mga|DTCP Tanong|NNC sa|CCT Pag|CCR -|PMS unawa|NNC .|PMP
-Ang|DTC mga|DTCP ibon|NNC lang|RBI ba|RBI ang|DTC mga|DTCP hayop|NNC na|CCP may|VBH pakpak|NNC ?|PMQ .|PMP
-Ano|PRQ pang|RBI_CCP mga|DTCP hayop|NNC ang|DTC may|VBH pak|RBD pak|RBD ?|PMQ .|PMP
-Ang|DTC mga|DTCP ibon|NNC lang|RBI ba|RBI ang|DTC maaring|RBM mangitlong|VBW_CCP ?|PMQ .|PMP
-Ano|PRQ pang|RBI_CCP mga|DTCP hayop|NNC ang|DTC nangingitlog|VBTR ?|FW .|PMP
-Aling|PRQ_CCP mga|DTCP PNG|NNPA na|CCP ibon|NNC at|CCA insekto|NNC ang|DTC matingkad|JJD ang|DTC kulay|NNC ?|PMQ .|PMP
-Bakit|PRQ kailangan|VBS ng|CCB mga|DTCP hayop|NNC ang|DTC matalasna|VBTF mata|NNC ?|PMQ .|PMP
-Bakit|PRQ kailangan|VBS ng|CCB mga|DTCP ibon|NNC at|CCA ilang|PRQ_CCP iba|PRI pang|RBI_CCP hayop|NNC ng|CCB matatalas|JJD na|CCP kuko|NNC ?|PMQ .|PMP
-Ano|PRQ ang|DTC pagkakaiba|NNC ng|CCB mga|DTCP ibon|NNC sa|CCT ibang|PRI_CCP mga|DTCP hayop|NNC ?|PMQ .|PMP
-Sa|CCT anong|PRQ_CCP mga|DTCP paraan|NNC kapaki|NNC -|PMS pakinabang|NNC ang|DTC mga|DTCP balahibo|NNC ?|PMQ .|PMP
-Gusto|VBS mo|PRS bang|RBM maging|VBW ibon|NNC ?|PMQ
-Bakit|PRQ ?|PMQ
-Aktibidad|NNP Iguhit|VBOF ang|DTC iyong|PRSP_CCP paboritong|JJD_CCP ibon|NNC .|PMP
-Ang|DTC Bilum|NNP Books|NNP ay|LM naglalathala|RBD ng|CCB mga|DTCP de|FW -|PMS kalidad|NNC na|CCP mapagkukunang|VBW_CCP pang|RBI_CCP -|PMS edukasyon|NNC para|CCT sa|CCT mga|DTCP paaralan|NNC sa|CCT Papua|NNP New|NNP Guinea|NNP .|PMP
-Ang|DTC aming|PRSP_CCP priyoridad|NNC sa|CCT pag|CCR -|PMS publish|JJD ay|LM literacy|FW .|PMP
-Ang|DTC aming|PRSP_CCP pangako|NNC ay|LM tumulong|RBD na|CCP itaas|JJD ang|DTC mga|DTCP pamantayan|NNC sa|CCT pamamagitan|NNC ng|CCB paggawa|NNC ng|CCB mga|DTCP de-kalidad|JJD na|CCP libro|NNC sa|CCT mga|DTCP makatwirang|JJD_CCP presyo|NNC at|CCA naaayon|VBTR sa|CCT PNG|NNPA Department|NNP of|FW Education|NNP Syllabus|NNP .|PMP
-Ang|DTC Bilum|NNP Books|NNP ay|LM nagpapatakbo|VBTR ng|CCB mga|DTCP workshop|NNC sa|CCT pagsasanay|NNC ng|CCB guro|NNC upang|CCB tulungan|VBTF_VBOF ang|DTC propesyonal|JJD na|CCP pag|CCR -|PMS unlad|JJD ng|CCB mga|DTCP guro|NNC sa|CCT Elementarya|NNP ,|PMC sa|CCT partikular|JJD .|PMP
-Bisitahinang|NNP_CCP aming|PRSP_CCP website|FW :|PMS www.bilumbooks.com|FW o|CCT Facebook|NNP .|PMP
-Ang|DTC produktong|NNC_CCP ito|PRO ay|LM naging|VBTS posible|JJD sa|CCT pamamagitan|NNC ng|CCB suporta|NNC ng|CCB All|NNP Children|NNP Reading|NNP :|PMS A|NNP Grand|NNP Challenge|NNP for|FW Development|NNP (|PMS ACR|NNPA GCD|NNPA )|PMS Founding|NNP Partners|NNP (|PMS ang|DTC United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP [|PMS USAID|NNPA ]|PMS ,|PMC World|NNP Vision|NNP ,|PMC at|CCA ang|DTC Australian|NNP Government|NNP )|PMS sa|CCT pakikipagtulungan|NNC ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
-Inihanda|VBTS ito|PRO ng|CCB The|NNP Asia|NNP Foundation|NNP at|CCA hindi|RBF kinakailangang|VBTR_CCP sumasalamin|VBTR_VBAF sa|CCT mga|DTCP pananaw|NNC ng|CCB ACR|NNPA GCD|NNPA Founding|NNP Partners|NNP o|CCT ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
-Ang|DTC anumang|PRI_CCP adaptasyon|NNC o|CCT pagsasalin|NNC ng|CCB gawaing|NNC_CCP ito|PRO ay|LM hindi|RBF dapat|VBS ituring|VBOF na|CCP isang|PRI_CCP opisyal|JJD na|CCP pagsasalin|NNC ng|CCB ACR|NNPA GCD|NNPA ,|PMC at|CCA ang|DTC ACR|NNPA GCD|NNPA ay|LM hindi|RBF mananagot|VBTF para|CCT sa|CCT anumang|PRI_CCP nilalaman|NNC o|CCT mga|DTCP pagkakamali|NNC sa|CCT pagsasaling|NNC_CCP ito|PRO .|PMP
+Tick|NNP -|PMS tock|FW ,|PMC tick|FW -|PMS tock|FW Si|DTP Henry|NNP ay|LM pabaling|FW -|PMS baling|FW ,|PMC at|CCA muling|RBW_CCP nagpabaling|VBTS -|PMS baling|FW .|PMP
+Ang|DTC tunog|NNC na|CCP galing|RBL sa|CCT orasan|NNC Ang|DTC nagpapahirap|VBTR sa|CCT kanya|PRSP na|CCP makatulog|VBW .|PMP
+Ang|DTC segundong|JJD_CCP kamay|NNC sa|CCT orasan|NNC Ang|DTC pinagmumulan|VBTR_VBRF Ng|NNP ingay|NNC sa|CCT bawat|PRI segundong|JJD_CCP paggalaw|NNC into|NNC .|PMP
+Sinubukan|VBTS ni|DTP Henry|NNP na|CCP tanghalin|VBOF ito|PRO .|PMP
+Ngunit|CCT Ang|DTC segundong|JJD_CCP kamay|NNC Ng|NNP orasan|NNC ay|LM may|VBH Ibang|PRI_CCP paraan|NNC .|PMP
+Nagising|VBTS Ang|DTC segundong|JJD_CCP kamay|NNC Ng|NNP orasan|NNC at|CCA hinawakan|VBOF si|DTP Henry|NNP ,|PMC hinihila|VBTS sya|PRS sa|CCT orasan|NNC .|PMP
+Whooosh|NNP !|PMS
+Binuksan|VBTS ni|DTP Henry|NNP Ang|DTC kanyang|PRSP_CCP mga|DTCP mata|NNC at|CCA natagpua|VBTS .|PMP
+Nya|NNP Ang|DTC kanyang|PRSP_CCP Sarili|NNC na|CCP nasa|RBL ibang|PRI_CCP Lugar|NNP at|CCA panahon|NNC .|PMP
+...|PMS .|PMP
+Sinaunang|JJD_CCP Ehipto|NNP !|PMS
+Ano|PRQ Ang|DTC ginagawa|VBTR_VBOF ko|PRS Dito|PRL ?|PMQ
+Tanong|NNC ni|DTP Henry|NNP .|PMP
+Ang|DTC segundong|JJD_CCP kamay|NNC Ng|NNP orasan|NNC ay|LM nag|VBTS ingay|NNC tick|FW tock|FW .|PMP
+Kailangan|VBS mong|PRS_CCP matutunan|VBW na|CCP Ang|DTC halaga|NNC ko|PRS !|PMQ
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC Ang|DTC mga|DTCP tao|NNC ay|LM Hindi|RBF nakakapagbilang|VBTR_CCP Ng|NNP Segundo|NNP .|PMP
+Ang|DTC kauna|NNC -|PMS unahang|NNC_CCP orasan|NNC ay|LM sundial|FW obelisk|FW ,|PMC katulad|JJC into|NNC sinusukat|VBTR Ng|NNP mga|DTCP tao|NNC Ang|DTC Oras|NNP at|CCA minuto|NNC sa|CCT pamamagitan|NNC Ng|NNP galaw|NNC Ng|NNP anino|NNC sa|CCT lupa|NNC .|PMP
+Samantalang|CCT_CCP ,|PMC Ang|DTC mga|DTCP pangkat|NNC Ng|NNP kalalakihan|NNC ay|LM nag|VBTS hagis|FW Ng|NNP Pana|NNP Kay|DTP Henry|NNP .|PMP
+Ngunit|CCT Bago|RBW ito|PRO makapanakit|VBW ,|PMC Ang|DTC segundong|JJD_CCP kamay|NNC Ng|NNP orasan|NNC ay|LM winisikan|VBTS si|DTP Henry|NNP at|CCA dinala|VBTS sya|PRS sa|CCT Ibang|PRI_CCP Oras|NNP at|CCA panahon|NNC .|PMP
+Ngayon|RBW ay|LM nakatayo|VBTS Sila|PRP sa|CCT harap|NNC Ng|NNP maliit|JJD na|CCP kandila|NNC .|PMP
+Ito|PRO ay|LM kandilang|JJD_CCP orasan|NNC ,|PMC Sabi|VBW Ng|NNP segundong|JJD_CCP kamay|NNC .|PMP
+Nakikita|VBTR mo|PRS ba|RBI Ang|DTC mga|DTCP guhit|NNC sa|CCT waks|NNC ?|PMQ
+Tumatagal|VBTR_VBAF itong|PRO_CCP dalawampung|JJN_CCP minuto|NNC Bago|RBW ito|PRO maubos|VBW .|PMP
+Sa|CCT ilang|PRQ_CCP saglit|RBW ,|PMC ang|DTC lupa|NNC ay|LM umalog|VBAF at|CCA nanginig|VBTR .|PMP "|PMS
+Lindol|NNP !|PMS "|PMS
+sigaw|NNC ni|DTP Henry|NNP .|PMP
+Tumambal|NNP ang|DTC malaking|JJD_CCP bitak|NNC ng|CCB lupa|NNC .|PMP
+Lalo|JJCC pa|RBI itong|PRO_CCP lumalaki|VBTR_VBAF at|CCA nagsasara|VBTR habang|RBW lumilipas|VBTR_VBAF ang|DTC bawat|PRI sandali|NNC .|PMP
+Sa|CCT ilang|PRQ_CCP segundo|NNC bago|RBW ako|PRS mahulog|VBW sa|CCT bitak|NNC ,|PMC ang|DTC segundong|JJD_CCP kamay|NNC ay|LM hinablot|VBTS si|DTP Henry|NNP at|CCA naglaho|RBD ulit|RBW .|PMP
+Whoosh|NNP !|PMS
+Ngayon|RBW si|DTP Henry|NNP ay|LM na|CCP silindrong|NNC_CCP babasagin|VBTF kasama|CCB ang|DTC segundong|JJD_CCP kamay|NNC ,|PMC Hindi|RBF nila|PRP napuna|VBTS na|CCP ang|DTC haydrolik|NNC na|CCP piston|NNC ay|LM nakatutok|RBD pababa|RBD sa|CCT kanila|PRSP .|PMP
+Ito|PRO ang|DTC kauna|NNC -|PMS unahang|NNC_CCP orasan|NNC na|CCP pinagagana|VBTR_VBRF sa|CCT pamamagitan|NNC ng|CCB merkuryo|NNC at|CCA engranade|FW ,|PMC Madaling|RBD_CCP paliwanag|NNC ng|CCB segundong|JJD_CCP kamay|NNC .|PMP
+Nakakamangha|VBTR !|PMS
+sambit|CCR ni|DTP Henry|NNP ,|PMC Ngunit|CCT tignan|VBOF mo|PRS !|PMQ
+Ilang|PRQ_CCP segundo|NNC bago|RBW sila|PRP mawasak|VBW ng|CCB piston|NNC ....|NNPA .|PMP
+Whoosh|NNP !|PMS
+Si|DTP Henry|NNP ay|LM biglaang|RBD_CCP nag|RBD lalakad|VBTF sa|CCT malubak|JJD na|CCP ibabaw|NNC .|PMP
+Tumingin|VBAF siya|PRS paibaba|RBD_CCP nakita|VBTS ang|DTC dalawang|JJN_CCP higanteng|JJD_CCP gear|FW na|CCP umiikot|VBTR ng|CCB mabagal|JJD papunta|VBW sa|CCT kanya|PRSP .|PMP
+Nasaan|NNP tayo|PRP ngayon|RBW ?|PMQ
+Tanong|NNC nya|PRS sa|CCT segundong|JJD_CCP kamay|NNC .|PMP
+Tayo|PRS ay|LM nasa|RBL loob|NNC ng|CCB isang|PRI_CCP malaking|JJD_CCP Ben|NNP ,|PMC ang|DTC pinaka|JJCS kilalang|JJD_CCP toreng|NNC_CCP orasan|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Nagsasaya|VBTR si|DTP Henry|NNP sa|CCT paglulukso|NNC sa|CCT mga|DTCP gear|FW ,|PMC hanggang|RBW sa|CCT ang|DTC isa|PRI sa|CCT mga|DTCP sintas|FW nya|PRS ay|LM naipit|VBTS .|PMP
+Hinihila|NNP at|CCA binatak|VBOF ni|DTP Henry|NNP ,|PMC ngunit|CCT hindi|RBF sya|PRS makaalis|VBW sa|CCT gear|FW .|PMP
+Ang|DTC higanteng|JJD_CCP kawit|NNC ay|LM nagpaduyan|VBTS papunta|RBL sa|CCT kanila|PRSP .|PMP
+Malakas|JJD na|CCP ingay|NNC mula|RBL sa|CCT malaking|JJD_CCP kamay|NNC ng|CCB orasan|NNC tiktak|NNC ,|PMC ang|DTC segundong|JJD_CCP kamay|NNC sa|CCT sumigaw|VBAF ,|PMC Magmadali|VBTF ka|PRS tanggalin|VBOF mo|PRS na|CCP ang|DTC sapatos|NNC mo.|NNCA .|PMP
+Wala|VBN na|CCP tayong|PRP_CCP oras|NNC !|PMS
+Ilang|PRQ_CCP sandali|RBW bago|RBW sila|PRP madurog|VBW ng|CCB kalawit|NNC nito|PRO ,|PMC ang|DTC segundong|JJD_CCP kamay|NNC ay|LM hinila|VBTS at|CCA naligtas|VBTS si|DTP Henry|NNP .|PMP
+Whoosh|NNP !|PMS
+Sa|CCT isang|PRI_CCP kislap|NNC ,|PMC Natagpuan|VBTS ni|DTP Henry|NNP na|CCP siya|PRS ay|LM nag|VBTS balik|NNC na|CCP sa|CCT kanyang|PRSP_CCP silid|NNC ,|PMC ligtas|JJD at|CCA masaya|JJD .|PMP
+Wow|NNP ,|PMC kakaibang|JJD_CCP panaginip|NNC .|PMP
+at|CCA anong|PRQ_CCP kakaibang|JJD_CCP ginawa|VBOF ng|CCB segundong|JJD_CCP kamay|NNC !|PMS
+bulalas|VBTS ni|DTP Henry|NNP .|PMP
+Magandang|RBD_CCP sukatin|VBOF ang|DTC bawat|PRI isa|PRI sa|CCT simpleng|JJD_CCP orasan|NNC sa|CCT aking|PRSP_CCP silid|NNC .|PMP
+Siguro|RBM panahon|NNC na|CCP para|CCT ibalik|VBOF ko|PRS ang|DTC segundong|JJD_CCP kamay|NNC kung|RBK saan|RBQ siya|PRS nararapat|VBTR .|PMP
+Nang|RBW umagang|RBW_CCP yon|PRO ,|PMC may|VBH balita|NNC na|CCP nakapaskil|VBTS sa|CCT telebisyon|NNC tungkol|RBR sa|CCT malaking|JJD_CCP Ben|NNP ,|PMC ang|DTC toreng|NNC_CCP orasan|NNC kung|RBK saan|RBQ niya|PRS iniwan|VBOF ang|DTC kanyang|PRSP_CCP sapatos|NNC !|PMS
+Huminto|VBAF sa|CCT unang|JJN_CCP pagkakataon|NNC sa|CCT loob|NNC ng|CCB isang|PRI_CCP daan|NNC at|CCA limampu|JJN '|PMS t|NNCA walong|JJN_CCP taon|NNC .|PMP
+Hindi|RBF makapaniwala|VBW si|DTP Henry|NNP .|PMP
+Totoo|RBT ba|RBI ito|PRO ?|PMQ
+Talaga|NNP bang|RBI_CCP ang|DTC sapatos|NNC ko|PRS ang|DTC nag|RBD_CCP patigil|VBW sa|CCT loob|NNC ng|CCB Malaking|JJD_CCP Ben|NNP ?|PMQ
+Tanging|JJD_CCP ang|DTC orasan|NNC lamang|RBI ang|DTC makapagsasabi|VBW ...|PMS .|PMP
+o|CCT kaya|CCR naman|RBI ang|DTC segundong|JJD_CCP kamay|NNC !|PMS
+KATAPUSAN|NNPA

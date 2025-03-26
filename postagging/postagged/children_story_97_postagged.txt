@@ -1,0 +1,20 @@
+Si|DTP Foxy|NNP Joxy|NNP ay|LM isang|PRI_CCP mapanlinlang|JJD na|CCP soro|NNC .|PMP
+Nagbebenta|VBTR siya|PRS ng|CCB malaki|JJD '|PMS t|NNCA sariwang|JJD_CCP mga|DTCP pakwan|NNC .|PMP "|PMS
+Nagbebenta|VBTR ng|CCB pakwan|NNC !|PMS "|PMS "|PMS
+Masyadong|JJCS_CCP mataas|JJD ang|DTC iyong|PRSP_CCP presyo|NNC ,|PMC "|PMS sabi|VBS ni|DTP Rabbit|NNP Jabbit|NNP .|PMP "|PMS
+Masyadong|JJCS_CCP malaki|JJD and|DTC iyong|PRSP_CCP singil|NNC ,|PMC "|PMS sabi|VBS ni|DTP Gia|NNP Giraffe|NNP .|PMP
+May|VBH naisip|VBTS na|CCP magandang|JJD_CCP ideya|NNC si|DTP Foxy|NNP Joxy|NNP .|PMP
+Hiniwa|VBOF niya|PRS ang|DTC isang|PRI_CCP malaking|JJD_CCP pakwan|NNC ,|PMC kinuha|VBOF ang|DTC laman|NNC ,|PMC at|CCA inalis|VBTS_VBOF ito|PRO .|PMP
+Pagkatapos|VBW ay|LM pinuno|NNC nya|PRS ito|PRO ng|CCB tubig|NNC !|PMS
+Kumuha|VBAF siya|PRS ng|CCB karayom|NNC at|CCA sinulid|NNC ,|PMC muling|RBW_CCP pinagdugtong|VBRF ang|DTC pakwan|NNC .|PMP
+Ibinenta|VBTS niya|PRS ang|DTC kanyang|PRSP_CCP mga|DTCP pakwan|NNC sa|CCT murang|JJD_CCP presyo|NNC .|PMP
+Maraming|PRI_CCP mga|DTCP hayop|NNC ang|DTC bumili|VBAF mula|RBL kay|DTP Foxy|NNP Joxy|NNP .|PMP "|PMS
+Ang|DTC pakwan|NNC na|CCP ito|PRO ay|LM puro|JJD lang|RBI tubig|NNC ,|PMC "|PMS reklamo|NNC ni|DTP Funky|NNP Monkey|NNP .|PMP "|PMS
+Iyan|VBTS_VBOF ang|DTC nakuha|VBTS mo|PRS sa|CCT mababang|JJD_CCP halaga|NNC na|CCP binayad|VBOF mo|PRS ,|PMC "|PMS ani|NNC Foxy|NNP Joxy|NNP .|PMP "|PMS
+Kailangan|VBS natin|PRP turuan|VBOF ng|CCB leksyon|NNC si|DTP Foxy|NNP Joxy|NNP .|PMP "|PMS
+sabi|VBS ni|DTP Ellie|NNP Elephant|NNP .|PMP
+Nagpulong|VBTS ang|DTC mga|DTCP hayop|NNC at|CCA nakaisip|VBTS sila|PRP ng|CCB plano|NNC .|PMP "|PMS
+Mayroon|VBH akong|PRS_CCP ideya|NNC "|PMS sabi|VBS ni|DTP Oliver|NNP Owl|NNP .|PMP
+Kumuha|VBAF sila|PRP ng|CCB isang|PRI_CCP malaking|JJD_CCP pakwan|NNC na|CCP walang|VBN_CCP laman|NNC ,|PMC inilagay|VBTS si|DTP Foxy|NNP Joxy|NNP ,|PMC at|CCA naglaro|VBTS sila|PRP ng|CCB "|PMS football|FW "|PMS gamit|VBS ang|DTC pakwan|NNC .|PMP
+Hilong|NNP_CCP hilo|JJD sir|NNCA Foxy|NNP Joxy|NNP !|PMS
+Natutunan|VBTR nya|PRS ang|DTC kanyang|PRSP_CCP leksyon|NNC na|CCP wag|RBF mandaya|VBW ulit|RBW .|PMP

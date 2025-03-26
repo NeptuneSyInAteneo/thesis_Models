@@ -1,0 +1,24 @@
+Ilang|PRQ_CCP araw|NNC nang|RBW itinanim|VBTS ni|DTP Sone|NNP ang|DTC binhi|NNC ngunit|CCT hindi|RBF pa|RBI rin|RBI ito|PRO sumisibol|VBTR_VBAF .|PMP
+Idinulog|VBTS niya|PRS kay|DTP Noud|NNP ,|PMC kaniyang|PRSP_CCP kapatid|NNC na|CCP babae|NNC ,|PMC ang|DTC tungkol|RBR dito|PRL .|PMP "|PMS
+Hindi|RBF ko|PRS alam|VBS ,|PMC "|PMS sagot|NNC ni|DTP Noud|NNP .|PMP "|PMS
+Tara|NNP ,|PMC itanong|VBTS natin|PRP kay|DTP Lolo|NNP .|PMP "|PMS "|PMS
+Lolo|NNP ,|PMC ilang|PRQ_CCP araw|NNC ko|PRS nang|RBW ipinunla|VBOF ang|DTC mga|DTCP butong|NNC_CCP ito|PRO ,|PMC ngunit|CCT hindi|RBF pa|RBI rin|RBI sumisibol|VBTR_VBAF .|PMP "|PMS "|PMS
+Ang|DTC mga|DTCP pananim|NNC ay|LM nangangailangan|VBTR ng|CCB lupa|NNC ,|PMC tubig|NNC ,|PMC pataba|NNC ,|PMC at|CCA sinai|VBTS ng|CCB araw|NNC ,|PMC "|PMS sagot|NNC ni|DTP Lolo|NNP .|PMP
+Muling|RBW_CCP ipinunla|VBOF nina|DTPP Sone|NNP at|CCA Noud|NNP ang|DTC mga|DTCP mga|DTCP binhi|NNC .|PMP
+Inilagay|VBTS ni|DTP Sone|NNP ang|DTC ipinunla|VBTS niyang|PRS_CCP binhi|NNC sa|CCT lilim|NNC ng|CCB isang|PRI_CCP punong|JJD_CCP kahoy|NNC ,|PMC si|DTP Noud|NNP naman|RBI ay|LM ibinilad|VBOF sa|CCT araw|NNC ang|DTC kaniyang|PRSP_CCP ipinunlang|VBTS_CCP binhi|NNC .|PMP
+Makalipas|VBW ang|DTC isang|PRI_CCP linggo|NNC ay|LM sumibol|VBAF ang|DTC isang|PRI_CCP malusog|JJD na|CCP punla|NNC ni|DTP Noud|NNP .|PMP "|PMS
+Lolo|NNP ,|PMC bakit|PRQ hindi|RBF pa|RBI rin|RBI sumisibol|VBTR_VBAF ang|DTC binhing|NNC_CCP itinanim|VBTS ko|PRS ?|PMQ "|PMS
+Nagtatakang|VBTS_CCP tanong|NNC ni|DTP Sone|NNP sa|CCT kaniyang|PRSP_CCP lolo|NNC .|PMP "|PMS
+Naku|NNP !|PMS
+Kinakailangan|VBTR ng|CCB mga|DTCP pananim|NNC ang|DTC lupa|NNC ,|PMC tubig|NNC ,|PMC pataba|NNC ,|PMC at|CCA sapat|JJD na|CCP sinag|NNC ng|CCB araw|NNC upang|CCB sila|PRP ay|LM sumibol|VBAF at|CCA lumaki|VBAF ,|PMC "|PMS sagot|NNC ng|CCB kaniyang|PRSP_CCP lolo|NNC .|PMP "|PMS
+Aha|NNP !|PMS
+Alam|VBS ko|PRS na|CCP !|PMS "|PMS
+sigaw|NNC ni|DTP Sone|NNP .|PMP "|PMS
+Hindi|RBF pa|RBI sumisibol|VBTR_VBAF ang|DTC aking|PRSP_CCP binhi|NNC dahil|CCR hindi|RBF ito|PRO naaarawan|VBTR .|PMP "|PMS
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM nabuo|VBTS dahil|CCR sa|CCT tulong|NNC ng|CCB mga|DTCP mamamayan|NNC ng|CCB USA|NNPA sa|CCT pamamagitan|NNC ng|CCB USAID|NNPA .|PMP
+Karapatang|NNP_CCP -|PMS ari|NNC :|PMS Creative|NNP Commons|NNP Attribution|NNP CC|NNPA BY|NNPA .|PMP
+IGO|NNPA Ang|DTC Pagsasalin|NNP :|PMS Para|CCT sa|CCT mga|DTCP indibidwal|NNC o|CCT institusyon|NNC na|CCP magsasagawa|VBTF ng|CCB pagsasaling|NNC_CCP ito|PRO ay|LM kinakailangang|VBTR_CCP ipahayag|VBOF na|CCP ang|DTC ginawang|VBTS_CCP pagsasalin|NNC ay|LM hindi|RBF inilunsad|VBTS ng|CCB Room|NNP to|FW Read|NNP o|CCT USAID|NNPA .|PMP
+At|CCA ito|PRO ay|LM hindi|RBF itinuturing|VBTR na|CCP opisyal|JJD na|CCP salon|NNC ng|CCB Room|NNP to|FW Read|NNP o|CCT USAID|NNPA .|PMP
+Walang|VBN_CCP pananagutan|NNC ang|DTC Room|NNP to|FW Read|NNP o|CCT USAID|NNPA sa|CCT mga|DTCP pagkakamali|NNC na|CCP dahil|CCR sa|CCT pagsalin|NNC .|PMP
+Pagbabago|NNP sa|CCT kwento|NNC :|PMS Para|CCT sa|CCT mga|DTCP indibidwal|NNC o|CCT institusyon|NNC na|CCP magsasagawa|VBTF ng|CCB pagbabago|NNC o|CCT revision|FW sa|CCT akda|NNC ,|PMC ay|LM kinakailangan|VBTR ipahayag|VBOF ang|DTC orihinal|JJD na|CCP kwento|NNC bilang|CCT sanggunian|NNC :|PMS Ang|DTC akdang|NNC_CCP itoay|JJD ang|DTC binagong|VBOF_CCP bersyon|NNC ng|CCB isang|PRI_CCP orihinal|JJD na|CCP kwento|NNC ng|CCB Room|NNP to|FW Read|NNP at|CCA USAID|NNPA .|PMP
+Ang|DTC mga|DTCP pagbabago|NNC sa|CCT pananaw|NNC at|CCA daloy|NNC ng|CCB binagong|VBOF_CCP kwento|NNC ay|LM responsibilidad|NNC lamang|RBI ng|CCB mga|DTCP partidong|NNC_CCP nagsagawa|VBTS ng|CCB pagbabago|NNC ,|PMC dahil|CCR ito|PRO ay|LM una|CDB nang|RBW nasuri|VBTS ng|CCB Room|NNP to|FW Read|NNP at|CCA USAID|NNPA .|PMP

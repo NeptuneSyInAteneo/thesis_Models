@@ -1,22 +1,16 @@
-Nagtatago|VBTR noon|RBW si|DTP Dr.|NNPA Cynthia|NNP Maung|NNP .|PMP
-Setyembre|NNP 1998iyon|CDB ,|PMC at|CCA kontrolado|JJD ng|CCB mga|DTCP militar|NNC ang|DTC Myanman|NNP (|PMS na|CCP noon|RBW ay|LM tinatawag|VBTR ding|RBI_CCP Burma|NNP )|PMS .|PMP
-Takot|NNC para|CCT sa|CCT kanilang|PRSP_CCP buhay|NNC sina|DTPP Dr.|NNPA Cynthia|NNP at|CCA ang|DTC ibang|PRI_CCP mga|DTCP doktor|NNC at|CCA aktibista|NNC kaya|CCR nagtago|VBTS sila|PRP sa|CCT kakahoyan|NNC .|PMP
-Nang|RBW lumubog|VBAF na|CCP ang|DTC araw|NNC ay|LM ipinagpatuloy|VBTS nila|PRP ang|DTC kanilang|PRSP_CCP paglalakbay|NNC patungong|RBL_CCP Thailand|NNP .|PMP
-Sa|CCT kanilang|PRSP_CCP paglalakbay|NNC ay|LM may|VBH nadadaanan|VBTR silang|PRP_CCP mga|DTCP taong|NNC_CCP may|VBH sakit|NNC at|CCA hindi|RBF pa|RBI nakapunta|VBTS sa|CCT doktor|NNC .|PMP
-Ninanais|VBTR na|CCP tumulong|VBAF ni|DTP Dr.|NNPA Cynthia|NNP at|CCA ng|CCB kaniyang|PRSP_CCP mga|DTCP kasamahan|NNC .|PMP
-Tumulong|VBAF sila|PRP hanggang|RBW sa|CCT abot|NNC ng|CCB kanilang|PRSP_CCP makakaya|VBW at|CCA kagamitan|NNC .|PMP
-Ang|DTC lama|NNC lamang|RBI ng|CCB bag|NNC ni|DTP Dr.|NNPA Cynthia|NNP ay|LM isang|PRI_CCP scalpel|FW ,|PMC stethoscope|FW ,|PMC at|CCA isang|PRI_CCP thermometer|FW .|PMP
-Pitong|JJN_CCP araw|NNC silang|PRP_CCP naglakbay|VBTS bago|RBW marating|VBW ang|DTC Thailand|NNP .|PMP
-Nang|RBW Martin|NNP nila|PRP ang|DTC Thailand|NNP ,|PMC marami|PRI ring|RBI_CCP nakasalamuha|VBTS na|CCP kagayang|NNC_CCP niyang|PRS_CCP mga|DTCP refugee|NNC si|DTP Dr.|NNPA Cynthia|NNP .|PMP
-Marami|PRI sa|CCT kanila|PRSP ang|DTC may|VBH iba|PRI '|PMS t|NNCA ibang|PRI_CCP karamdaman|NNC at|CCA sugat|NNC ,|PMC ngunit|CCT wala|VBN silang|PRP_CCP sapat|JJD na|CCP Pera|NNC .|PMP
-Gustong|VBS_CCP tumbling|VBAF ni|DTP Dr.|NNPA Cynthia|NNP ,|PMC kaya|CCR ay|LM nagbukas|VBTS siya|PRS ng|CCB isang|PRI_CCP klinika|NNC sa|CCT Mae|NNP Sot|NNP ,|PMC isang|PRI_CCP bayan|NNC malapit|JJD sa|CCT hangganan|NNC ng|CCB Thailand|NNP at|CCA Burma|NNP .|PMP
-Noong|RBW_CCP una|CDB ay|LM gawa|VBS sa|CCT lumang|JJD_CCP kongkretong|JJD_CCP bahay|NNC na|CCP may|VBH lupang|NNC_CCP sahig|NNC ang|DTC klinika|NNC .|PMP
-Pinakuluan|JJCS_JJD ni|DTP Dr.|NNPA Cynthia|NNP ang|DTC mga|DTCP gamit|NNC niya|PRS sa|CCT panggagamot|NNC sa|CCT loob|NNC ng|CCB rice|FW cooker|FW .|PMP
-Namuhay|VBTS sila|PRP ng|CCB payak|JJD ,|PMC at|CCA nagtiyaga|VBTS .|PMP
-Naghatid|VBTS sila|PRP ng|CCB libreng|JJD_CCP panggagamot|NNC sa|CCT mga|DTCP pasyente|NNC ,|PMC na|CCP kadalasan|RBW ay|LM mga|DTCP mag|VBW -|PMS aaral|FW at|CCA mga|DTCP kabataan|NNC na|CCP nagkakasakit|VBTR ng|CCB malaria|VBW ,|PMC diarrhea|FW ,|PMC at|CCA mga|DTCP sugat|NNC mula|RBL sa|CCT tama|JJD ng|CCB bala|NNC .|PMP
-Matapos|VBW ang|DTC ilang|PRQ_CCP taon|NNC ay|LM kinilala|VBTS si|DTP Dr.|NNPA Cynthia|NNP .|PMP
-Nanalo|VBTS siya|PRS ng|CCB ilang|PRQ_CCP internasyonal|JJD na|CCP pagkilala|NNC para|CCT sa|CCT kaniyang|PRSP_CCP pamumuno|NNC at|CCA dedikasyon|NNC sa|CCT pagtulong|NNC sa|CCT mga|DTCP refugee|FW .|PMP
-Ngayon|RBW ,|PMC ang|DTC kaniyang|PRSP_CCP klinika|NNC ay|LM naninilbihan|VBTR sa|CCT daang|JJN_CCP libong|NNC_CCP tao|NNC taon|NNC -|PMS taon|NNC .|PMP
-Minsan|RBW ay|LM mahirap|JJD ang|DTC buhay|NNC .|PMP
-Ilarawan|VBOF ang|DTC isang|PRI_CCP pangyayari|NNC sa|CCT iyong|PRSP_CCP buhay|NNC na|CCP kalaunan|RBW ay|LM iyong|PRSP_CCP nalampasan|VBTS .|PMP
-Ano|PRQ ang|DTC pangarap|NNC mong|PRS_CCP gawin|VBOF sa|CCT hinaharap?Iguhit|VBTR ang|DTC iyong|PRSP_CCP larawan|NNC .|PMP
+Ang|DTC isang|PRI_CCP magsasaka|NNC ay|LM mayroong|VBH_CCP isang|PRI_CCP matandang|JJD_CCP baka|NNC .|PMP
+At|CCA mayroon|VBH din|RBI siyang|PRS_CCP asno|NNC .|PMP
+Ang|DTC baka|NNC at|CCA asno|NNC ay|LM mag|VBW kaibigan|NNC .|PMP
+Isang|PRI_CCP gabi|RBW ,|PMC sinabi|VBTS ng|CCB asno|NNC sa|CCT baka|NNC ,|PMC "|PMS pagod|JJD na|CCP pagod|NNC ako|PRS ngayong|RBW_CCP araw|NNC "|PMS Sinabi|VBTS ng|CCB baka|NNC sa|CCT asno|NNC ,|PMC "|PMS hindi|RBF ako|PRS nagpahinga|VBTS ngayong|RBW_CCP araw|NNC .|PMP "|PMS
+Sumagot|VBAF ang|DTC asno|NNC ,|PMC "|PMS mas|JJCC nagtrabaho|VBTS ako|PRS kaysa|JJC sa|CCT iyo|PRSP .|PMP "|PMS
+Sa|CCT sumunod|VBAF na|CCP araw|NNC ,|PMC sinabi|VBTS ng|CCB baka|NNC ,|PMC "|PMS kahapon|JJD ay|LM hindi|RBF magandang|JJD_CCP araw|NNC .|PMP "|PMS
+Sinabi|VBTS ng|CCB asno|NNC ,|PMC "|PMS Kapag|CCR dumating|VBAF ang|DTC magsasaka|NNC ,|PMC sabihin|VBTS_VBOF mong|PRS_CCP ,|PMC '|PMS Moo|NNCA !|PMS '|PMS
+Papayagan|VBTF ka|PRS niyang|PRS_CCP magpahinga|VBW .|PMP "|PMS
+Sa|CCT sumunod|VBAF na|CCP umaga|RBW ,|PMC umiyak|VBAF ang|DTC baka|NNC ,|PMC '|PMS moo|NNCA !|PMS '|PMS
+Pinayagan|VBTS siyang|PRS_CCP magpahinga|VBW ng|CCB magsasaka|NNC .|PMP
+Inilabas|VBTS ng|CCB magsasaka|NNC ang|DTC asno|NNC upang|CCB arahin|VBOF ang|DTC lupa|NNC .|PMP
+Ang|DTC asno|NNC ay|LM nagtrabaho|VBTS ng|CCB buong|PRI_CCP araw|NNC .|PMP
+Pagod|JJD na|CCP pagod|NNC na|CCP siya|PRS nang|RBW umuwi|VBAF .|PMP
+Sabi|VBS ng|CCB asno|NNC ,|PMC "|PMS sinabi|VBTS ng|CCB magsasaka|NNC na|CCP papatayin|VBTF ka|PRS para|CCT sa|CCT karne|NNC .|PMP "|PMS
+Sinabi|VBTS ng|CCB baka|NNC ,|PMC "|PMS Magtatrabaho|VBTF ako|PRS bukas|JJD .|PMP
+Mas|JJCC maganda|JJD na|CCP ang|DTC aking|PRSP_CCP pakiramdam|NNC ngayon|RBW .|PMP "|PMS

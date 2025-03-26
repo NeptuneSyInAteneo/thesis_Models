@@ -1,0 +1,54 @@
+Mula|RBW ng|CCB makauwi|VBW si|DTP Ma|NNP kasama|CCB ang|DTC sanggol|NNC ,|PMC sina|DTPP Zu|NNP at|CCA Zi|NNP ay|LM hindi|RBF naging|VBTS masaya|JJD .|PMP
+Hindi|RBF sila|PRP maaaring|RBM lumikha|VBAF ng|CCB anumang|PRI_CCP ingay|NNC kapag|CCR ang|DTC sanggol|NNC ay|LM natutulog|VBTR .|PMP
+Ngunit|CCT ang|DTC sanggol|NNC ay|LM palaging|JJD_CCP natutulog|VBTR !|PMQ
+Hindi|RBF sila|PRP puwedeng|RBT_CCP tumakbo|VBAF sa|CCT loob|NNC ng|CCB bahay|NNC .|PMP
+Hindi|RBF sila|PRP puwedeng|RBT_CCP magsalita|VBAF sa|CCT oras|NNC ng|CCB kainan|NNC .|PMP
+Hindi|RBF sila|PRP puwedeng|RBT_CCP sumigaw|VBAF ,|PMC ano|PRQ man|RBI ang|DTC mangyari|VBW .|PMP
+At|CCA ang|DTC pinakamahirap|JJCS_JJD sa|CCT lahat|PRI ,|PMC lalo|JJCC na|RBI kapag|CCR tulog|NNC ang|DTC sanggol|NNC ,|PMC kailangan|VBS nilang|PRP_CCP magsalita|VBAF nang|RBD pabulong|JJD .|PMP
+Kung|CCR gusto|VBS nilang|PRP_CCP tumawa|VBAF ,|PMC puwede|RBT silang|PRP_CCP humagikgik|VBAF ng|CCB mahina|JJD lamang|RBI .|PMP
+Ngunit|CCT isang|PRI_CCP araw|NNC ,|PMC ang|DTC kwentong|NNC_CCP kanilang|PRSP_CCP binabasa|VBTR ay|LM sobrang|JJCS_CCP nakakatawa|VBTR at|CCA hindi|RBF nila|PRP mapigilang|RBD_CCP tumawa|VBAF .|PMP
+Sina|DTPP Zu|NNP at|CCA Zi|NNP ay|LM hindi|RBF nakapagpigil|VBTS .|PMP
+Naku|NNP !|PMS
+Ang|DTC sanggol|NNC ay|LM natutulog|VBTR .|PMP
+Ang|DTC sanggol|NNC ay|LM nagising|VBTS na|CCP umiiyak|VBTR_VBAF .|PMP
+Si|DTP Ma|NNP ay|LM nagalit|VBTS .|PMP
+Sinigawan|VBTS niya|PRS ang|DTC mga|DTCP ito|PRO at|CCA sa|CCT labas|JJD pinaglaro|VBTR_VBRF .|PMP
+Si|DTP Zu|NNP ay|LM nagtampo|VBTS .|PMP
+Ayaw|RBF niya|PRS na|CCP siya|PRS ay|LM sinisigawan|VBTR .|PMP
+Inaliw|VBTS siya|PRS ni|DTP Zi|NNP .|PMP
+Sinabi|VBTS niya|PRS na|CCP mas|JJCC masayang|JJD_CCP maglaro|VBAF sa|CCT labas|NNC .|PMP
+Puwede|RBT silang|PRP_CCP mag|VBW -|PMS ingay|NNC hanggang|RBW gusto|VBS nila|PRP .|PMP
+Naglaro|VBTS sila|PRP ng|CCB putbol|NNC .|PMP
+Pagkatapos|VBW nilang|PRP_CCP maglaro|VBAF ,|PMC bumalik|VBAF ang|DTC saya|NNC ng|CCB dalawa|CDB .|PMP
+Sa|CCT sobrang|JJCS_CCP galak|JJD ,|PMC sinipa|VBTS ni|DTP Zi|NNP ang|DTC bola|NNC nang|RBD napakalakas|JJCS_JJD .|PMP "|PMS
+Ayuuun|NNP !|PMS
+Pasok|NNP !|PMS "|PMS
+Ang|DTC bola|NNC ay|LM lumipad|VBAF sa|CCT kabilang|JJD_CCP hardin|NNC .|PMP
+BANG|NNPA !|PMS
+Naku|PRS po|RBS !|PMQ
+Ang|DTC sanggol|NNC ay|LM nagising|VBTS !|PMQ
+Ano|PRQ ang|DTC mangyayari|VBTF ngayon|RBW ?|PMQ
+Ang|DTC sanggol|NNC ay|LM humagulgol|VBTR sa|CCT pag|CCR -|PMS iyak|NNC .|PMP
+Sa|CCT sobrang|JJCS_CCP lakas|NNC ng|CCB pag|CCR -|PMS iyak|NNC ng|CCB sanggol|NNC ang|DTC bote|NNC ng|CCB gatas|NNC ay|LM nabasag|VBTS .|PMP
+Nabasag|VBTS nito|PRO ang|DTC palayok|NNC .|PMP
+Nabasag|VBTS ang|DTC salamin|NNC ng|CCB bintana|NNC !|PMS
+Sa|CCT lakas|NNC ng|CCB pag|CCR -|PMS iyak|NNC ng|CCB sanggol|NNC ang|DTC bubong|NNC ay|LM umangat|VBAF !|PMQ
+Ang|DTC kanilang|PRSP_CCP kapatid|NNC ay|LM hindi|RBF tumitigil|VBTR_VBAF sa|CCT pag|CCR -|PMS iyak|NNC .|PMP
+Si|DTP Zu|NNP at|CCA Zi|NNP ay|LM nagmamadali|VBTR pumasok|VBAF .|PMP
+Nasaan|VBTS si|DTP Ma|NNP ?|PMQ
+Binuhat|VBTS ni|DTP Zu|NNP ang|DTC sanggol|NNC at|CCA kinantahan|VBOF .|PMP
+Ngunit|CCT ang|DTC sanggol|NNC ay|LM patuloy|RBD parin|RBD sa|CCT pag|CCR -|PMS iyak|NNC .|PMP
+Sumayaw|VBAF si|DTP Zi|NNP .|PMP
+Gumawa|VBAF siya|PRS ng|CCB mga|DTCP bagay|NNC para|CCT aliwin|VBOF ang|DTC sanggol|NNC .|PMP
+Ngunit|CCT ang|DTC sanggol|NNC ay|LM patuloy|RBD parin|RBD sa|CCT pag|CCR -|PMS iyak|NNC .|PMP
+Ano|PRQ ang|DTC dapat|VBS gawin|VBOF sa|CCT sanggol|NNC upang|CCB ito|PRO ay|LM tumigil|VBAF sa|CCT pag|CCR -|PMS iyak|NNC ?|PMQ
+Hindi|RBF nagtagal|VBTS ,|PMC si|DTP Zu|NNP at|CCA Zi|NNP ay|LM umiiyak|VBTR_VBAF na|RBI din|RBI .|PMP
+Hanggang|RBW si|DTP Ma|NNP ay|LM nakauwi|VBTS .|PMP
+Kinuha|VBOF ni|DTP Ma|NNP ang|DTC sanggol|NNC .|PMP
+Inaliw|VBTS niya|PRS ito|PRO .|PMP
+Kumanta|VBAF siya|PRS ng|CCB panghele|NNC .|PMP
+Tumigil|VBAF sa|CCT pag|CCR -|PMS iyak|NNC ang|DTC sanggol|NNC .|PMP
+Ngayon|RBW ,|PMC naiintindihan|VBTR na|CCP nina|DTPP Zu|NNP at|CCA Zi|NNP ang|DTC dahilan|NNC .|PMP
+Mahirap|RBD patahanin|VBOF ang|DTC sanggol|NNC .|PMP
+Kaya|CCR mas|JJCC mabuting|JJD_CCP huwag|RBF na|RBI lamang|RBI gumawa|VBAF ng|CCB kahit|CCT anong|PRQ_CCP ingay|NNC .|PMP "|PMS
+Sshhhhhh|NNP !|PMS "|PMS

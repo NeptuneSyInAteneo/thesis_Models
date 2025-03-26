@@ -1,0 +1,88 @@
+Si|DTP Joke|NNP Joke|NNP ay|LM palaging|RBD_CCP abala|RBD sa|CCT paggawa|NNC ng|CCB mga|DTCP bagay|NNC .|PMP
+Hindi|RBF niya|PRS ibig|VBS magtampisaw|VBW at|CCA siya|PRS ang|DTC pinakapayat|JJCS_JJD sa|CCT kanilang|PRSP_CCP lahat|PRI .|PMP
+Ang|DTC ibang|PRI_CCP palaka|NNC ay|LM nagtatawanan|VBTR dahil|CCR siya|PRS ay|LM kakaiba|JJD .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC nakalimutan|VBTS ni|DTP Joke|NNP Joke|NNP na|CCP mananghalian|NNC dahil|CCR nagtrabaho|VBTS siya|PRS ng|CCB husto|JJD sa|CCT kaniyang|PRSP_CCP pinakabagong|JJCS_JJD_CCP proyekto|NNC !|PMS
+Nagsimulang|VBTS_CCP sumakit|VBAF ang|DTC kaniyang|PRSP_CCP tiyan|NNC .|PMP
+Tumakbo|VBAF siya|PRS nang|RBD mabilis|RBD pauwi|RBD ng|CCB bahay|NNC .|PMP
+Sa|CCT pagmamadali|VBW niya|PRS ,|PMC siya|PRS ay|LM natisod|VBTS at|CCA nahulog|VBTS !|PMS "|PMS
+Nanay|NNC ,|PMC gutom|NNC na|CCP ako|PRS !|PMQ
+Nasaan|VBTS po|RBS ang|DTC aking|PRSP_CCP pananghalian|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Joke|NNP Joke|NNP pagdating|VBW ng|CCB bahay|NNC .|PMP
+Nakahiga|VBTS sa|CCT kama|NNC ang|DTC kaniyang|PRSP_CCP nanay|NNC .|PMP
+Hindi|RBF maganda|JJD ang|DTC hitsura|NNC nito|PRO .|PMP "|PMS
+Anak|NNP ,|PMC masama|JJD ang|DTC aking|PRSP_CCP pakiramdam|NNC .|PMP
+Nahulog|VBTS ako|PRS sa|CCT imburnal|NNC habang|RBW naghahanap|VBTR ng|CCB pagkain|NNC .|PMP
+Ang|DTC mga|DTCP kemikal|NNC ay|LM nagdulot|VBTS sa|CCT akin|PRSP ng|CCB pantal|NNC at|CCA hindi|RBF ako|PRS makatayo|VBW .|PMP "|PMS "|PMS
+Kailangan|VBS kong|PRS_CCP makapunta|VBW sa|CCT bundok|NNC athumanap|NNC ng|CCB gamot|NNC para|CCT sa|CCT inyo|PRSP Nanay|NNC .|PMP "|PMS
+Napaubo|VBTS ang|DTC Nanay|NNC ni|DTP Joke|NNP Joke|NNP at|CCA nagsabi|VBTS ,|PMC "|PMS Hindi|RBF ,|PMC masyadong|JJCS_CCP malayo|JJD at|CCA mapanganib|JJD .|PMP "|PMS "|PMS
+Huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC Nanay|NNC ,|PMC matapang|JJD ako|PRS at|CCA mautak|JJD .|PMP
+Kaya|CCR ko|PRS iyon|PRO !|PMS "|PMS
+Umalis|VBAF si|DTP Joke|NNP Joke|NNP patungong|RBL_CCP bundok|NNC .|PMP
+Narating|VBTS niya|PRS ang|DTC isang|PRI_CCP malaking|JJD_CCP ilog|NNC .|PMP
+Paano|PRQ niya|PRS tatawirin|VBTF iyon|PRO ?|PMQ
+Maya|NNP maya|RBW '|PMS y|FW isang|PRI_CCP boteng|NNC_CCP plastik|JJD ang|DTC lumutang|NNC_CCP lutang|NNC .|PMP
+Nagkaroon|VBTS ng|CCB ideya|NNC si|DTP Joke|NNP Joke|NNP !|PMS "|PMS
+Gagamitin|VBTF ko|PRS ang|DTC bote|NNC sa|CCT paggawa|NNC ng|CCB bangka|NNC na|CCP lulutang|RBD_CCP patawid|VBW ng|CCB ilog|NNC .|PMP "|PMS
+Naging|VBTS mahusay|JJD na|CCP bangka|NNC ang|DTC bote|NNC .|PMP
+Subalit|CCT pinalibutan|VBTS si|DTP Joke|NNP Joke|NNP ng|CCB langkay|NNC ng|CCB mga|DTCP isda|NNC .|PMP "|PMS
+Saan|PRQ ka|PRS pupunta|VBTF ,|PMC palaka|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB pinakamalaking|JJCS_JJD_CCP isda|NNC .|PMP "|PMS
+Pakiusap|NNP huwag|RBF mo|PRS akong|PRS_CCP kainin|VBOF ,|PMC "|PMS pagsusumamo|VBW ni|DTP Joke|NNP Joke|NNP .|PMP "|PMS
+Kukuha|VBTF ako|PRS ng|CCB gamot|NNC para|CCT sa|CCT aking|PRSP_CCP nanay|NNC na|CCP may|VBH sakit|NNC .|PMP "|PMS
+Naawa|NNP ang|DTC isda|NNC kay|DTP Joke|NNP Joke|NNP kaya|CCR itinulak|VBTS nito|PRO ang|DTC kaniyang|PRSP_CCP bangka|NNC sa|CCT tamangdireksiyon|NNC .|PMP
+Hindi|RBF nagtagal|VBTS ,|PMC nakakita|VBTS si|DTP Joke|NNP joke|FW ng|CCB mga|DTCP palaka|NNC .|PMP "|PMS
+Ang|DTC gandang|JJD_CCP bangka|NNC !|PMS
+Sigaw|NNC ng|CCB isa|PRI .|PMP "|PMS
+Salamat|RBS sa|CCT iyo|PRSP ,|PMC "|PMS sagot|NNC niya|PRS .|PMP "|PMS
+Alam|VBS niyo|PRP ba|RBI kung|RBK saan|RBQ ang|DTC bundok|NNC ?|PMQ "|PMS "|PMS
+Oo|RBT ,|PMC maituturo|VBTF namin|PRP sa|CCT iyo|PRSP !|PMS "|PMS
+Masayang|RBD_CCP naglakbay|VBTS sina|DTPP Joke|NNP Joke|NNP kasama|CCB ang|DTC kaniyang|PRSP_CCP mga|DTCP bagong|JJD_CCP kaibigan|NNC .|PMP
+Nakinig|VBTS sila|PRP sa|CCT kaniyang|PRSP_CCP mga|DTCP ideya|NNC at|CCA hindi|RBF siya|PRS pinagtawanan|VBRF .|PMP
+Subalit|CCT nag|CDB -|PMS aalala|VBTF pa|RBI rin|RBI siya|PRS sa|CCT kaniyang|PRSP_CCP nanay|NNC .|PMP
+Hindi|RBF nagtagal|VBTS ,|PMC natanaw|VBTS na|CCP nila|PRP ang|DTC bundok|NNC at|CCA oras|NNC na|CCP rin|RBI para|CCT umuwi|VBAF ang|DTC mga|DTCP palaka|NNC .|PMP
+Kailangang|VBS_CCP maging|VBW matapang|JJD ni|DTP Joke|NNP Joke|NNP at|CCA makapagpatuloy|VBW siya|PRS mag|VBW -|PMS isa|PRI .|PMP
+Sa|CCT wakas|RBW at|CCA narating|VBTS na|RBI rin|RBI niya|PRS ang|DTC lugar|NNC sa|CCT bundok|NNC kung|RBK saan|RBQ tumutubo|VBTR_VBAF ang|DTC espesyal|JJD na|CCP mga|DTCP dahon|NNC .|PMP
+Ang|DTC mga|DTCP dahong|NNC_CCP ito|PRO ay|LM siyang|PRS_CCP magagagamot|VBTF sa|CCT kaniyang|PRSP_CCP nanay|NNC .|PMP
+Yehey|NNP !|PMS
+Nagawa|VBTS ko|PRS !|PMQ
+Sigaw|NNC ni|DTP Joke|NNP Joke|NNP .|PMP
+Noong|RBW_CCP handa|JJD ng|CCB umuwi|VBAF si|DTP Joke|NNP Joke|NNP ay|LM may|VBH naisip|VBTS na|CCP naman|RBI siyang|PRS_CCP magandang|JJD_CCP ideya|NNC .|PMP "|PMS
+Ang|DTC mga|DTCP palutang|NNC -|PMS lutang|NNC na|CCP plastik|JJD bag|NNC sa|CCT hangin|NNC ang|DTC maaaring|RBM magdala|VBW sa|CCT akin|PRSP pauwi|NNC !|PMS "|PMS
+Tumalon|VBAF si|DTP Joke|NNP Joke|NNP sa|CCT hangin|NNC !|PMS
+Ngunit|CCT biglang|JJD_CCP umulan|VBAF ,|PMC na|CCP nagpabagsak|VBTS sa|CCT kaniyang|PRSP_CCP parasyut|FW galing|RBL sa|CCT langit|NNC .|PMP
+Isang|PRI_CCP malakas|JJD na|CCP kalabog|NNC ,|PMC nahulog|VBTS si|DTP Joke|NNP Joke|NNP sa|CCT isang|PRI_CCP elepante|NNC .|PMP
+Nagulat|VBTS ang|DTC elepante|NNC .|PMP "|PMS
+Ano|PRQ ang|DTC nasa|RBL likod|JJD ko|PRS ?|PMQ "|PMS "|PMS
+Ako|PRS ito|PRO ,|PMC si|DTP Joke|NNP Joke|NNP na|CCP palaka|NNC .|PMP
+Sinusubukan|VBTR kong|PRS_CCP humanap|VBAF ng|CCB paraan|NNC para|CCT makauwi|VBW para|CCT ibigay|VBOF sa|CCT nanay|NNC ko|PRS itong|PRO_CCP gamot|NNC .|PMP
+Maaari|VBS mo|PRS ba|RBI akong|PRS_CCP tulungan|VBTF_VBOF ?|PMQ "|PMS
+Malakas|RBD na|CCP hinagis|VBTS ng|CCB elepante|NNC si|DTP Joke|NNP Joke|NNP sa|CCT ere|NNC .|PMP "|PMS
+Woohoo|NNP !|PMS
+Mabilis|RBD na|CCP akong|PRS_CCP maka|VBW -|PMS uuwi|FW !|PMS "|PMS
+bulalas|VBTS ni|DTP Joke|NNP Joke|NNP .|PMP
+Ngunit|CCT nakita|VBTS ng|CCB isang|PRI_CCP gutom|NNC na|CCP lawin|NNC ang|DTC palaka|NNC na|CCP lumilipad|VBTR_VBAF sa|CCT hangin|NNC .|PMP "|PMS
+Nakuha|VBTS na|CCP kita|NNC ,|PMC palakang|NNC_CCP gubat|NNC !|PMS "|PMS
+hiyaw|NNC nito|PRO .|PMP "|PMS
+Huwag|RBF mo|PRS akong|PRS_CCP kainin|VBOF !|PMS "|PMS
+pagmamakaawa|VBW ni|DTP Joke|NNP Joke|NNP .|PMP "|PMS
+Kailangan|VBS kong|PRS_CCP dalhin|VBOF itong|PRO_CCP gamot|NNC para|CCT sa|CCT aking|PRSP_CCP nanay|NNC .|PMP
+Malubha|JJD ang|DTC kaniyang|PRSP_CCP sakit|NNC .|PMP "|PMS "|PMS
+O|NNPA sige|FW ,|PMC tutulungan|VBTF kita|NNC ,|PMC "|PMS sang|DTC -|PMS ayon|RBR ng|CCB lawin|NNC .|PMP "|PMS
+Napakapayat|JJCS_JJD mo|PRS naman|RBI para|CCT gawing|VBOF_CCP pagkain|NNC .|PMP "|PMS
+Dinala|VBOF ng|CCB lawin|NNC si|DTP Joke|NNP Joke|NNP pabalik|JJD sa|CCT kaniyang|PRSP_CCP tirahan|NNC .|PMP
+Nanay|NNC ,|PMC andito|NNC na|CCP po|RBS ako|PRS !|PMS "|PMS
+Dala|VBS ko|PRS na|CCP po|RBS ang|DTC gamot|NNC para|CCT sa|CCT inyo|PRSP !|PMS "|PMS
+Bumuti|VBAF ang|DTC kalagayan|NNC ng|CCB nanay|NNC ni|DTP Joke|NNP Joke|NNP .|PMP "|PMS
+Paano|PRQ ka|PRS nakarating|VBTS sa|CCT bundok|NNC at|CCA nakabalik|VBTS ?|PMQ "|PMS
+tanong|NNC niya|PRS .|PMP
+Ikinuwento|VBTS ni|DTP Joke|NNP Joke|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP pinagdaanan|VBRF at|CCA kung|RBK paano|RBQ niya|PRS ginamit|VBOF ang|DTC mga|DTCP basura|NNC para|CCT makagawa|VBW ng|CCB mga|DTCP gamit|NNC na|CCP nakatulong|VBTS sa|CCT kaniya|PRSP sa|CCT paglalakbay|NNC .|PMP "|PMS
+Hangang|RBW -|PMS hanga|JJD ako|PRS sa|CCT '|PMS yo|NNCA ,|PMC Joke|NNP Joke|NNP ,|PMC "|PMS sabi|VBS ng|CCB kaniyang|PRSP_CCP nanay|NNC .|PMP
+Hindi|RBF na|CCP nag|VBTS -|PMS alala|NNC si|DTP Joke|NNP Joke|NNP kung|RBK ano|RBQ ang|DTC iniisip|VBTR ng|CCB ibang|PRI_CCP palaka|NNC tungkol|RBR sa|CCT kaniya|PRSP .|PMP
+Alam|VBS niya|PRS na|CCP siya|PRS ay|LM kakaiba|JJD sa|CCT mabuting|JJD_CCP paraan|NNC .|PMP
+Makatutulong|VBW siya|PRS sa|CCT mga|DTCP tao|NNC at|CCA makagagawa|VBTF siya|PRS ng|CCB kahanga|NNC -|PMS hangang|RBW mga|DTCP bagay|NNC !|PMS "|PMS
+Marami|PRI akong|PRS_CCP naiisip|VBTR na|CCP ideya|NNC .|PMP
+Hintayin|VBOF ninyo|PRP at|CCA makikita|VBTF ninyo|PRP kung|RBK ano|RBQ ang|DTC susunod|VBTF kong|PRS_CCP gagawin|VBTF !|PMS "|PMS
+Para|CCT sa|CCT Kalikasan|NNP Upang|CCB mabawasan|VBW ang|DTC paggamit|NNC ng|CCB plastik|JJD ,|PMC lahat|PRI ng|CCB pamilihan|NNC sa|CCT Phnom|NNP Penh|NNP ay|LM inaatasan|VBTR ng|CCB batas|NNC na|CCP pagbayarin|VBOF ang|DTC mga|DTCP kustomer|NNC para|CCT sa|CCT plastik|JJD na|CCP bag|NNC .|PMP
+Gumawa|VBAF din|RBI ang|DTC pamahalaan|NNC ng|CCB kampanya|NNC para|CCT turuan|VBOF ang|DTC mga|DTCP tao|NNC tungkol|RBR sa|CCT hindi|RBF kanais|NNC -|PMS nais|VBS na|CCP epekto|NNC ng|CCB plastik|JJD sa|CCT ating|PRSP_CCP planeta|NNC at|CCA kung|RBK paano|RBQ mababawasan|VBTF ang|DTC paggamit|NNC ng|CCB plastik|JJD .|PMP
+Para|CCT sa|CCT karagdagang|JJD_CCP impormasyon|NNC ,|PMC magbisita|VBAF sa|CCT :|PMS https://plasticfreecambodia.com/individuals/|FW https://youtu.be/Wyt3H|NNP 0X|NNP GThM|NNP Karagdagang|JJD_CCP impormasyon|NNC tungkol|RBR sakapaligiran|NNC ibinigay|VBOF ng|CCB Conservation|NNP International|NNP sa|CCT pakikipagtulungan|NNC sa|CCT The|NNP Asia|NNP Foundation|NNP .|PMP
+Suportado|JJD ng|CCB Smart|NNP

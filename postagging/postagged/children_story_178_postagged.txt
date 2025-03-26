@@ -1,0 +1,58 @@
+Kuwento|NNC ni|DTP Lek|NNP Gana|NNP na|CCP taga|JJD -|PMS Cambodia|NNP /|PMS Isinaayos|VBTS ni|DTP Jeong|NNP Eun|NNP -|PMS ju|NNCA Sa|CCT isang|PRI_CCP nayon|NNC sa|CCT Cambodia|NNP ay|LM may|VBH nakatirang|VBTS_CCP isang|PRI_CCP magandang|JJD_CCP dalaga|NNC at|CCA isang|PRI_CCP guwapong|JJD_CCP binata|NNC .|PMP
+Mahal|NNP nila|PRP ang|DTC isa|PRI '|PMS t|NNCA isa|PRI at|CCA sila|PRP ay|LM nagpakasal|VBTS .|PMP
+Nanirahan|VBTS sila|PRP nang|RBD masaya|JJD at|CCA may|VBH malasakit|NNC sa|CCT bawat|PRI isa|PRI .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC matapos|VBW ang|DTC pag|CCR -|PMS ulan|NNC nang|RBW mahabang|JJD_CCP panahon|NNC ,|PMC ang|DTC mag|VBW -|PMS asawa|NNC aynaglalakad|NNC sa|CCT maputik|JJD na|CCP daan|NNC patungo|RBL sa|CCT bahay|NNC ng|CCB kanilang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
+Ang|DTC mga|DTCP bakas|NNC ng|CCB kanilang|PRSP_CCP paa|NNC ay|LM malinaw|RBD na|CCP nagmarka|VBTS sa|CCT putik|NNC na|CCP daan|NNC .|PMP
+Nang|RBW biglang|RBD_CCP ,|PMC lumitaw|VBAF ang|DTC isang|PRI_CCP rat|FW snake|FW na|CCP may|VBH makamandag|JJD na|CCP lason|NNC na|CCP maaaring|RBM pumatay|VBAF ng|CCB isang|PRI_CCP tao|NNC sa|CCT pamamagitan|NNC ng|CCB pagdila|NNC lamang|RBI sa|CCT mga|DTCP bakas|NNC ng|CCB paa|NNC na|CCP naiwan|VBTS sa|CCT lupa|NNC .|PMP
+Pagkatapos|VBW ,|PMC dinilaan|VBOF ng|CCB ahas|NNC ang|DTC mga|DTCP bakas|NNC ng|CCB paa|NNC ng|CCB babae|NNC ,|PMC at|CCA namatay|VBTS nga|RBI ang|DTC babae|NNC .|PMP
+Dahil|CCR sa|CCT bagong|JJD_CCP kasal|NNC pa|RBI lamang|RBI ,|PMC labis|JJCS na|CCP nasaktan|VBTS ang|DTC lalaki|NNC sa|CCT pagkamatay|VBW ng|CCB kanyang|PRSP_CCP asawa|NNC .|PMP
+Ilang|PRQ_CCP araw|NNC din|RBI na|CCP umiyak|VBAF ang|DTC lalaki|NNC ,|PMC at|CCA upang|CCB masiyahan|VBW ang|DTC kaluluwa|NNC ng|CCB asawa|NNC ay|LM naghanda|VBTS siya|PRS ng|CCB burol|NNC .|PMP
+Nagtipon|VBTS ang|DTC mga|DTCP tao|NNC sa|CCT burol|NNC .|PMP
+Nang|RBW makita|VBW ito|PRO ng|CCB ahas|NNC ,|PMC nagtanong|VBTS siya|PRS sa|CCT ibang|PRI_CCP mga|DTCP hayop|NNC .|PMP "|PMS
+Ano|PRQ ang|DTC pinagkakasiyahan|VBTR_VBRF ng|CCB mga|DTCP tao|NNC ?|PMQ "|PMS
+Nang|RBW makita|VBW ng|CCB ahas|NNC ang|DTC mga|DTCP taong|NNC_CCP nagtipon|VBTS upang|CCB magdalamhati|VBAF sa|CCT namatay|VBTS na|CCP babae|NNC ,|PMC akala|NNC niya|PRS ay|LM may|VBH pagdiriwang|NNC sa|CCT nayon|NNC .|PMP "|PMS
+Pagdiriwang|NNP_CCP ?|PMQ
+Bakit|PRQ ?|PMQ "|PMS
+Sumagot|VBAF ang|DTC kuneho|NNC at|CCA ang|DTC daga|NNC na|CCP nasa|RBL kanyang|PRSP_CCP tabi|NNC .|PMP "|PMS
+Namatay|VBTS nga|RBI ang|DTC babae|NNC pero|CCT siguro|RBM hindi|RBF ganun|PRC katindi|JJD ang|DTC lason|NNC mo|PRS kaya|CCR siguro|RBM nagdiriwang|VBTS_CCP sila|PRP .|PMP "|PMS "|PMS
+Kung|CCR makamandag|JJD ang|DTC lason|NNC mo|PRS ,|PMC malamang|RBI ang|DTC mga|DTCP tao|NNC ay|LM nagtatago|VBTR sa|CCT kani|NNC -|PMS kanilang|PRSP_CCP bahay|NNC .|PMP
+Hindi|RBF ganoon|PRC katindi|JJD ang|DTC lason|NNC mo|PRS kaya|CCR lumabas|VBAF sila|PRP para|CCT magtipon|VBW at|CCA pag|CCR -|PMS usapan|NNC na|CCP wala|VBN lang|RBI ang|DTC nangyari|VBTS .|PMP "|PMS
+Ang|DTC ahas|NNC na|CCP matagal|RBD nang|RBD gustong|VBS_CCP maging|VBW hari|NNC ng|CCB mga|DTCP hayop|NNC ,|PMC ay|LM nagnanais|VBTR na|CCP katakutan|VBOF siya|PRS ng|CCB iba|PRI pang|RBI_CCP mga|DTCP hayop|NNC at|CCA ng|CCB mga|DTCP tao|NNC .|PMP
+Akala|NNP niya|PRS ,|PMC ito|PRO ay|LM dignidad|NNC at|CCA respeto|NNC .|PMP
+Kaya|CCR naisip|VBTS ng|CCB rat|FW snake|FW na|CCP ,|PMC '|PMS Kung|CCR ilalabas|VBTF ko|PRS ang|DTC lahat|PRI ng|CCB lason|NNC sa|CCT katawan|NNC ko|PRS ,|PMC malamang|CCT manginginig|VBTR na|CCP sa|CCT takot|NNC ang|DTC mga|DTCP tao|NNC sa|CCT akin|PRSP at|CCA igagalang|VBTS na|CCP nila|PRP ako|PRS .|PMP '|PMS
+Ang|DTC rat|FW snake|FW ay|LM huminga|VBAF nang|RBD malalim|RBD ,|PMC at|CCA buong|PRI_CCP lakas|NNC niyang|PRS_CCP ibinuga|VBOF ang|DTC lahat|PRI ng|CCB kanyang|PRSP_CCP lason|NNC sa|CCT katawan|NNC .|PMP
+Bumuga|NNP ang|DTC lason|NNC mula|RBL sa|CCT bibig|NNC ng|CCB rat|FW snake|FW .|PMP "|PMS
+Naglalabas|VBTR ng|CCB lason|NNC ang|DTC rat|FW snake|FW !|PMS "|PMS
+Nagulat|VBTS ang|DTC mga|DTCP hayop|NNC sa|CCT kanilang|PRSP_CCP nakita|VBTS .|PMP "|PMS
+Kaaaaaaa|NNP !|PMS "|PMS
+Ang|DTC mga|DTCP bubuyog|NNC ,|PMC centipedes|FW ,|PMC ibang|PRI_CCP uri|NNC ng|CCB ahas|NNC ,|PMC at|CCA mga|DTCP isdang|NNC_CCP may|VBH tinik|NNC ay|LM tumakbo|VBAF sa|CCT tabi|NNC ng|CCB rat|FW snake|FW .|PMP
+Sinalo|NNP ng|CCB mga|DTCP hayop|NNC ang|DTC ibinugang|RBD_CCP lason|NNC ng|CCB rat|FW snake|FW .|PMP
+Nagkaroon|VBTS ng|CCB lason|NNC ang|DTC karayom|NNC ng|CCB bubuyog|NNC .|PMP
+Pati|CCA ang|DTC mga|DTCP centipede|FW ,|PMC ibang|PRI_CCP mga|DTCP ahas|NNC ,|PMC at|CCA ang|DTC mga|DTCP isdang|NNC_CCP may|VBH tinik|NNC na|CCP walang|VBN_CCP kaliskis|NNC ay|LM nagkaroon|VBTS ng|CCB lason|NNC sa|CCT katawan|NNC .|PMP
+Ano|PRQ kaya|CCR ang|DTC nangyari|VBTS sa|CCT rat|FW snake|FW nanawalan|VBTR ng|CCB lason|NNC ?|PMQ
+Simula|RBW noong|RBW_CCP nawalan|VBTS ng|CCB lason|NNC ,|PMC sinasabing|VBTR_CCP ang|DTC rat|FW snake|FW ay|LM nagtago|VBTS at|CCA tumira|VBAF na|RBI lamang|RBI sa|CCT kagubatan|NNC .|PMP
+||PMS 호렝그림|CDB ||PMS 정은주정리|CDB 저는캄보디아에서태어난렉가나라고합니다|PMS .|PMP
+한|PMS 국에산지는11|CDB 년되었습니다|PMS .|PMP
+지금은다시캄보|CDB 디아에서살고있습니다|NNC .|PMP
+저는도서관에서책읽|CDB 는것을아주좋아합니다|NNC .|PMP
+그래서캄보디아의재|FW 미있는이야기들이한국에많이소개되었으면좋|FW 겠다는바람을늘품어왔습니다|FW .|PMP
+이번제이야기|FW 가수록되어많은국내이주여성에게는희망을|FW ,|PMC 이야기를읽는독자들에게는캄보디아의이야기|FW 를전하는좋은기회가되길바랍니다.지구별한가족|FW 지금까지과학자들이온갖지식과지혜|FW ,|PMC 첨단과|FW 학기술로연구|FW ,|PMC 조사탐색했지만|FW '|PMS 지구|NNCA '|PMS 처럼인간이살수있는별은우주에단하나|CDB 도없다고합니다|PMS .|PMP
+하지만인간은오늘도멈추거나포기하지않고지|CDB 구와같은생명의별을찾느라바쁩니다|NNC .|PMP
+그누구도|CDB ,|PMC 어떠한방법으로도셀수없을정도로|CDB 많은우주의별들|NNC .|PMP
+하지만사람이살수있는별은현재지구하나라니|CDB ,|PMC 놀라울뿐입니다|CDB .|PMP
+이사실은우리에게특별한감동이나깨달음을줍|CDB 니다|NNC .|PMP
+특히세계여러나라에서대한민국으로온여성들|CDB 과함께글작업을한나에게는감동이더큽니다|NNC .|PMP
+하나뿐인지구|CDB .|PMP
+그렇다면우리는어느나라사람|PMS 이건|CDB '|PMS 지구가족|CDB '|PMS 입니다|CDB .|PMP
+가족은서로믿어줘야하고|CDB ,|PMC 서로의지하며|CDB ,|PMC 서로|CDB 아껴줘야합니다|NNC .|PMP
+가족은먼저안아주고|CDB ,|PMC 먼저웃어주고|CDB ,|PMC 먼저베풀|CDB 어야합니다|NNC .|PMP
+가족은함께아파하고|CDB ,|PMC 함께고통을이겨내고|CDB ,|PMC 함|CDB 께걸어가야합니다|PMS .|PMP '|PMS
+다가치|PMS ,|PMC 다같이어린이책공모전|CDB '|PMS 을통해|CDB 멋진작품을쓴모든분들을존경합니다|PMS .|PMP
+왜냐하면참가자모두가육아|CDB ,|PMC 가정살림|CDB ,|PMC 집안어|CDB 르신모시기|NNPA ,|PMC 직장일|NNPA 등등으로너무너무힘든데도끝까지작품을완성|NNP 했으니까요|CDB .|PMP
+그것도아직서투른한국어로글쓰기를했으니참|CDB 힘들었을겁니다.그러나한번의글쓰기는말하기백번과는비교도|PMS 안될정도로놀라운힘을갖고있습니다|CDB .|PMP
+자기생각과마음을훨씬또렷하게표현하는힘|CDB .|PMP
+다른사람과더품위있게소통하는힘|CDB .|PMP
+내아이를좀더아름답게교육할수있는힘|CDB .|PMP
+이런힘을가지고있지요|CDB .|PMP
+앞으로도이사업이많은이주여성들|CDB ,|PMC 그가족들에게긍지와소망을주는사업으로굳세|CDB 게세워지길강권합니다|NNC .|PMP
+노경실작가이책은서울특별시와아시아재단이공동제작하|CDB 였으며|PMS ,|PMC 머니그램재단이후원하였습니다|CDB .|PMP

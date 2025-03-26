@@ -1,0 +1,45 @@
+Bakasyon|NNP na|CCP si|DTP Bon|NNP !|PMS
+Niyaya|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP Mama|NNC na|CCP makipaglaro|VBW .|PMP
+Ngunit|CCT abala|NNC ito|PRO sa|CCT gawain|NNC .|PMP
+Sinabihan|VBOF niya|PRS si|DTP Bon|NNP na|CCP yayain|VBOF ang|DTC kaniyang|PRSP_CCP Papa|NNP .|PMP
+Pinuntahan|VBTS ni|DTP Bon|NNP ang|DTC kaniyang|PRSP_CCP Papa|NNP .|PMP "|PMS
+Papa|NNP !|PMS
+Laro|NNP po|RBS tayo|PRP ng|CCB bola|NNC ?|PMQ "|PMS
+Tumanggi|VBAF si|DTP Papa|NNP .|PMP
+Papasok|NNP na|CCP kasi|CCR siya|PRS trabaho|NNC .|PMP
+Ngunit|CCT may|VBH naisip|VBTS si|DTP Papa|NNP .|PMP
+Binigyan|VBOF niya|PRS si|DTP Bon|NNP ng|CCB isang|PRI_CCP bag|NNC na|CCP lobo|NNC .|PMP
+Pagkatapos|VBW ay|LM umalis|VBAF na|CCP si|DTP Papa|NNP .|PMP
+Nakita|VBTS ni|DTP Bon|NNP ang|DTC kaniyang|PRSP_CCP Ate|NNP Su|NNP .|PMP
+Abala|JJD ito|PRO sa|CCT paggupit|NNC ng|CCB papel|NNC para|CCT sa|CCT salusalo|NNC sa|CCT kanilang|PRSP_CCP klase|NNC .|PMP
+Binigyan|VBOF niya|PRS si|DTP Bon|NNP ng|CCB ilang|PRQ_CCP papel|NNC .|PMP
+Sinabihan|VBOF niya|PRS itong|PRO_CCP gumawa|VBAF ng|CCB mga|DTCP eroplano|NNC .|PMP
+Si|DTP Bon|NNP ay|LM naiinis|VBTR .|PMP
+Ang|DTC lahat|PRI kasi|CCR ay|LM abala|NNC at|CCA ayaw|RBF makipaglaro|VBW sa|CCT kaniya|PRSP .|PMP
+Kaya|CCR pumunta|VBAF si|DTP Bon|NNP sa|CCT hardin|NNC .|PMP
+Siya|PRS ay|LM makikipaglaro|VBTF kay|DTP Butter|NNP na|CCP isang|PRI_CCP loro|FW .|PMP
+Tiningnan|VBOF ni|DTP Butter|NNP si|DTP Bon|NNP .|PMP
+Tiningnan|VBOF naman|RBI ni|DTP Bon|NNP si|DTP Butter|NNP .|PMP
+Nagkaroon|VBTS ng|CCB ideya|NNC si|DTP Bon|NNP .|PMP
+Mayroon|VBH siyang|PRS_CCP mga|DTCP lobo|NNC .|PMP
+Mayroon|VBH siyang|PRS_CCP papel|NNC .|PMP
+Nagsimulang|VBTS_CCP gumawa|VBAF si|DTP Bon|NNP .|PMP
+Siya|PRS ay|LM naggupit|VBTS at|CCA nagdikit|VBTS .|PMP
+Siya|PRS ay|LM nagdikit|VBTS at|CCA naggupit|VBTS .|PMP
+Ilang|PRQ_CCP araw|NNC itong|PRO_CCP ginawa|VBOF ni|DTP Bon|NNP .|PMP
+Sa|CCT wakas|RBW ay|LM Sabado|NNP na|RBI .|PMP
+Nasa|RBL bahay|NNC ang|DTC lahat|PRI .|PMP
+Inimbitahan|VBTS ni|DTP Bon|NNP ang|DTC kaniyang|PRSP_CCP pamilya|NNC sa|CCT isang|PRI_CCP handaan|NNC .|PMP
+Sila|PRP ay|LM nagulat|VBTS .|PMP
+Hindi|RBF pa|RBI naman|RBI kaarawan|NNC ni|DTP Bon|NNP .|PMP
+Para|CCT kaninong|NNC_CCP handaan|NNC kaya|CCR iyon|PRO ?|PMQ
+Ngumiti|VBAF lang|RBI si|DTP Bon|NNP .|PMP
+Niyaya|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP pamilya|NNC na|CCP sumunod|VBAF sa|CCT kaniya|PRSP .|PMP
+Tumalon|NNP talon|NNC si|DTP Bon|NNP sa|CCT tuwa|NNC .|PMP
+Masayang|JJD_CCP -|PMS masaya|JJD niyang|PRS_CCP ibinalita|VBTS sa|CCT kaniyang|PRSP_CCP pamilya|NNC na|CCP ngayon|RBW ay|LM kaarawan|NNC ni|DTP Butter|NNP .|PMP
+Binigyan|VBOF ni|DTP Papa|NNP si|DTP Butter|NNP ng|CCB puzzle|NNC .|PMP
+Binigyan|VBOF siya|PRS ni|DTP Su|NNP ng|CCB kendi|NNC .|PMP
+Gumawa|VBAF naman|RBI ng|CCB cake|FW si|DTP Mama|NNP .|PMP
+Nagtipon|VBTS -|PMS tipon|NNC ang|DTC buong|PRI_CCP pamilya|NNC .|PMP
+Sama|NNP -|PMS samang|RBD_CCP naglaro|VBTS ang|DTC lahat|PRI .|PMP
+Maligayang|NNP_CCP Kaarawan|NNP ,|PMC Butter|NNP !|PMS

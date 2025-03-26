@@ -1,0 +1,66 @@
+Masarap|JJD ang|DTC mga|DTCP ligaw|JJD na|CCP rambutan|NNC ngunit|CCT nagiging|VBTR mahirap|JJD na|CCP itong|PRO_CCP mahanap|VBW .|PMP
+Ito|PRO ang|DTC paboritong|JJD_CCP prutas|NNC ni|DTP Yaki|NNP .|PMP "|PMS
+Halikayo|NNP .|PMP
+Maghanap|NNP tayo|PRP ng|CCB rambutan|NNC sa|CCT ibang|PRI_CCP lugar|NNC !|PMS "|PMS
+Masayang|RBD_CCP hikayat|RBD ni|DTP Yaki|NNP sa|CCT kanyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Palayo|RBD sila|PRP ng|CCB palayo|RBD ...|PMS ...|PMS hanggang|RBW sa|CCT makakita|VBW si|DTP Yaki|NNP ng|CCB sangkatutak|JJD na|CCP rambutan|NNC !|PMS
+Nang|RBW bigla|RBD na|CCP lamang|RBI ,|PMC "|PMS Aray|FW !|PMS
+Nasabit|VBTS ako|PRS sa|CCT bakod|NNC !|PMS "|PMS
+Sigaw|NNC ng|CCB isa|PRI sa|CCT mga|DTCP kaibigan|NNC ni|DTP Yaki|NNP .|PMP "|PMS
+Ang|DTC sakit|NNC ng|CCB aking|PRSP_CCP ulo|NNC !|PMS "|PMS
+iyak|NNC ng|CCB isa|PRI pa|RBI niyang|PRS_CCP kaibigan|NNC .|PMP
+May|VBH lalaking|NNC_CCP mukhang|RBM galit|RBD na|CCP galit|JJD sa|CCT kanila|PRSP .|PMP "|PMS
+Takbo|NNP !|PMS "|PMS
+sigaw|NNC ni|DTP Yaki|NNP .|PMP
+Pagod|JJD sa|CCT pagtakbo|NNC ,|PMC napahinto|VBTS si|DTP Yaki|NNP .|PMP
+Napakatahimik|NNP ng|CCB lugar|NNC na|CCP '|PMS to|FW .|PMP
+Nakatakbo|VBTS na|CCP ang|DTC karamihan|PRI sa|CCT mga|DTCP kaibigan|NNC ni|DTP Yaki|NNP .|PMP
+Ayos|NNP !|PMS
+Mukhang|RBM masarap|JJD itong|PRO_CCP mga|DTCP rambutan|NNC at|CCA '|PMS di|RBF na|CCP kailangan|VBS pang|RBI_CCP umakyat|VBAF ni|DTP Yaki|NNP .|PMP
+Blag|NNP ,|PMC O|NNPA hindi|RBF !|PMQ
+Isang|PRI_CCP patibong|NNC .|PMP
+Pain|NNP ang|DTC mga|DTCP rambutan|NNC !|PMS
+Sa|CCT kabutihang|NNC_CCP -|PMS palad|NNC ,|PMC nakakilos|VBTS si|DTP Yaki|NNP ng|CCB mabilis|JJD .|PMP
+Nakatakas|VBTS si|DTP Yaki|NNP kasama|CCB ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC bago|RBW pa|RBI sila|PRP maabutan|VBW ng|CCB may|VBH -|PMS ari|NNC ng|CCB puno|NNC .|PMP "|PMS
+Bilisan|NNP n'yo|NNC ,|PMC takbo|NNC !|PMS "|PMS
+ulit|RBW na|CCP sigaw|NNC ni|DTP Yaki|NNP .|PMP "|PMS
+Mukha|NNP namang|RBI_CCP ligtas|JJD itong|PRO_CCP taniman|NNC ng|CCB rambutan|NNC ,|PMC "|PMS sambit|NNC ni|DTP Yaki|NNP .|PMP
+Teka|NNP ,|PMC nasaan|JJD ang|DTC mga|DTCP kaibigan|NNC ni|DTP Yaki|NNP ?|PMQ
+Ah|RBJ ,|PMC mag|VBW -|PMS isa|PRI si|DTP Yaki|NNP !|PMS
+Nag|NNP -|PMS alala|NNC si|DTP Yaki|NNP ,|PMC tatakbo|VBTF ba|RBI siya|PRS pauwi|NNC ?|PMQ
+Ngunit|CCT gutom|JJD na|CCP gutom|NNC na|CCP siya|PRS .|PMP
+Dumating|VBAF ang|DTC may|VBH -|PMS ari|NNC ng|CCB puno|NNC !|PMS
+Biglang|RBD_CCP nagtago|VBTS si|DTP Yaki|NNP .|PMP
+May|VBH tumili|VBAF ...|PMS At|CCA may|VBH dalang|NNC_CCP mahabang|JJD_CCP patpat|NNC ang|DTC may|VBH -|PMS ari|NNC ng|CCB puno|NNC !|PMS
+Ayaw|RBF ni|DTP Yaki|NNP mapalo|VBW kagaya|JJC ng|CCB kanyang|PRSP_CCP kaibigan|NNC .|PMP
+Ah|RBJ ,|PMC ginagamit|VBTR lang|RBI pala|NNC ng|CCB may|VBH -|PMS ari|NNC ang|DTC dala|JJD niyang|PRS_CCP patpat|NNC bilang|CCT panungkit|NNC sa|CCT pagkuha|NNC ng|CCB mga|DTCP bunga|NNC ng|CCB rambutan|NNC .|PMP
+O|NNPA hindi|RBF ,|PMC nakita|VBTS ng|CCB may|VBH -|PMS ari|NNC ng|CCB puno|NNC si|DTP Yaki|NNP !|PMS
+Gagamitin|VBTF ba|RBI ng|CCB lalaki|NNC ang|DTC basket|FW para|CCT huliin|VBOF si|DTP Yaki|NNP ?|PMQ
+Ah|RBJ ,|PMC lalagyan|VBTF pala|NNC ang|DTC basket|FW para|CCT sa|CCT mga|DTCP rambutan|NNC .|PMP
+Unti|NNP -|PMS unting|FW lumapit|VBAF si|DTP Yaki|NNP .|PMP
+Tinitingnan|VBTR siya|PRS ng|CCB may|VBH -|PMS ari|NNC ng|CCB puno|NNC .|PMP
+Grrr|NNP ...|PMS aw|NNCA ...|PMS aw|NNCA ...|PMS Kumahol|NNP ng|CCB malakas|JJD ang|DTC aso|NNC .|PMP
+Natakot|VBTS si|DTP Yaki|NNP .|PMP
+Ah|RBJ ,|PMC hawak|JJD ng|CCB mahigpit|JJD ng|CCB may|VBH -|PMS ari|NNC ng|CCB puno|NNC ang|DTC alaga|NNC niyang|PRS_CCP aso|NNC .|PMP
+Hindi|RBF kailangan|VBS matakot|VBW ni|DTP Yaki|NNP na|CCP bakasugurin|NNC siya|PRS ng|CCB aso|NNC .|PMP
+Anong|PRQ_CCP gagawin|VBTF niya|PRS ?|PMQ
+Waring|RBF naisip|VBTS ni|DTP Yaki|NNP .|PMP
+Pagbibigyan|NNP ba|RBI niya|PRS si|DTP Yaki|NNP na|CCP kumuha|VBAF ng|CCB mga|DTCP rambutan|NNC ?|PMQ
+Hindi|RBF makapaniwala|VBW si|DTP Yaki|NNP sa|CCT kanyang|PRSP_CCP nakikita|VBTR .|PMP
+Dahan|NNP -|PMS dahan|VBTS_VBOF siyang|PRS_CCP lumapit|VBAF sa|CCT putungo|NNC sa|CCT mga|DTCP rambutan|NNC .|PMP
+Yaay|NNP ,|PMC mabait|JJD ang|DTC may|VBH -|PMS ari|NNC ng|CCB puno|NNC !|PMS
+Pinayagan|VBTS niya|PRS si|DTP Yaki|NNP na|CCP kumain|VBAF ng|CCB mga|DTCP rambutanAyos|FW !|PMQ
+Hindi|RBF na|CCP balisa|NNC si|DTP Yaki|NNP .|PMP
+Kumain|VBAF siya|PRS ng|CCB rambutan|NNC hanggang|RBW siya|PRS '|PMS y|FW mabusog|FW at|CCA hindi|RBF na|RBI makakain|VBW .|PMP
+Ang|DTC karakter|NNC ng|CCB librong|NNC_CCP ito|PRO ay|LM isang|PRI_CCP itim|JJD na|CCP unggoy|NNC (|PMS Macaca|FW hecki|FW )|PMS mula|RBL sa|CCT Gorontalo|NNP ,|PMC Hilagang|NNP_CCP Sulawesi|NNP .|PMP
+Maraming|PRI_CCP kagubatan|NNC ang|DTC ginagamit|VBTR bilang|CCT mga|DTCP bukid|NNC .|PMP
+Iyon|PRO ang|DTC dahilan|NNC kung|RBK bakit|RBQ mahirap|JJD para|CCT kay|DTP Yaki|NNP at|CCA sa|CCT kanyang|PRSP_CCP mga|DTCP kaibigan|NNC na|CCP makahanap|VBW ng|CCB pagkain|NNC .|PMP
+Minsan|RBW kailangan|VBS nilang|PRP_CCP maghanap|VBW ng|CCB pagkain|NNC sa|CCT mga|DTCP bukid|NNC .|PMP
+Minsan|RBW sinasaktan|VBTR ng|CCB mga|DTCP magsasaka|NNC si|DTP Yaki|NNP at|CCA ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC kapag|CCR hinabol|VBTS sila|PRP palabas|NNC ngkanilang|VBTR_CCP mga|DTCP bukid|NNC .|PMP
+Sa|CCT kasamaang|NNC_CCP palad|NNC ,|PMC hindi|RBF lahat|PRI ng|CCB mga|DTCP may|VBH -|PMS ari|NNC ng|CCB bukid|NNC ay|LM nais|VBS na|CCP saktan|VBOF si|DTP Yaki|NNP .|PMP
+Mayroong|VBH_CCP isang|PRI_CCP magsasaka|NNC na|CCP nagngangalang|VBTR_CCP Pak|NNP Sartam|NNP na|CCP nakatira|VBTS sa|CCT tabi|NNC ng|CCB mga|DTCP itim|JJD na|CCP unggoy|NNC na|CCP ito|PRO .|PMP
+Ibinibigay|VBTR ni|DTP Pak|NNP Sartam|NNP ang|DTC kalahati|PRI ng|CCB kanyang|PRSP_CCP sakahan|NNC upang|CCB masiyahan|VBW sa|CCT mga|DTCP itim|JJD na|CCP unggoy|NNC at|CCA iba|PRI pang|RBI_CCP mga|DTCP hayop|NNC sa|CCT kagubatan|NNC .|PMP
+Salamat|RBS kay|DTP G.|NNPA Sartam|NNP ,|PMC pinapanatili|VBTR ang|DTC pangangalaga|NNC ng|CCB flora|FW at|CCA palahayupan|JJD sa|CCT kagubatan|NNC ng|CCB Gorontalo|NNP .|PMP
+Pinangalanan|VBTS ng|CCB pamahalaang|NNC_CCP Indonesia|NNP ang|DTC Pak|NNP Sartam|NNP bilang|CCT isang|PRI_CCP inspirasyon|NNC sa|CCT kapaligiran|NNC sa|CCT .|PMP
+Ang|DTC institusyon|NNC ng|CCB konserbasyon|NNC ng|CCB Birdlife|NNP International|NNP ay|LM iginawad|VBTS sa|CCT kanya|PRSP ang|DTC "|PMS Birdlife|NNP Nature|NNP 's|CDB Hero|NNP Award|NNP .|PMP "|PMS
+Siguro|RBM maaari|VBS kang|PRS_CCP maging|VBW katulad|JJC ni|DTP G.|NNPA Sartam|NNP at|CCA iligtas|VBOF ang|DTC mga|DTCP hayop|NNC tulad|JJC ng|CCB Yaki|NNP !|PMS

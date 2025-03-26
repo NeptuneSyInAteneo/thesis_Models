@@ -1,0 +1,46 @@
+Dali|NNP .|PMP
+Dali|NNP !|PMS
+Tulungan|VBOF ninyo|PRP akong|PRS_CCP hulihin|VBOF ang|DTC pusa|NNC !|PMS
+Ninakaw|VBTS niya|PRS ang|DTC aking|PRSP_CCP medyas|NNC at|CCA mabilis|JJD na|CCP tumakbo|VBAF .|PMP
+Agawin|VBOF siya|PRS .|PMP
+Sunggaban|VBOF siya|PRS .|PMP
+Hulihin|VBOF ang|DTC pusa|NNC !|PMS
+Tingnan|VBOF nyo|RBD .|PMP
+Tingnan|VBOF ninyo|PRP !|PMQ
+Nariyan|VBTS na|CCP siya|PRS .|PMP
+Halikayo|NNP ,|PMC umakyat|VBAF tayo|PRP !|PMQ
+Nasa|RBL itaas|JJD siya|PRS ng|CCB puno|NNC .|PMP
+Hulihin|VBOF natin|PRP ang|DTC pusang|NNC_CCP iyon|PRO !|PMQ
+Eeek|NNP !|PMS
+Tumalon|VBAF siya|PRS !|PMQ
+Hindi|RBF ko|PRS siya|PRS nahuli|VBTS .|PMP
+Dali|NNP .|PMP
+Bilis|NNP .|PMP
+Hulihin|VBOF ang|DTC pusa|NNC !|PMS
+Mabuti|JJD na|RBI lang|RBI at|CCA nakatulong|VBTS ang|DTC medyas|NNC sa|CCT kanyang|PRSP_CCP paglutang|NNC .|PMP
+Halikayo|NNP .|PMP
+Kailangan|VBS natin|PRP mahuli|VBW ang|DTC pusang|NNC_CCP iyon|PRO .|PMP
+Bantayan|NNP ninyo|PRP .|PMP
+Mabilis|RBD ang|DTC pusang|NNC_CCP iyon|PRO !|PMQ
+Mahuli|VBTF kaya|CCR natin|PRP siya|PRS ?|PMQ
+Nakita|VBTS ba|RBI ninyong|PRO_CCP tinalunan|VBOF niya|PRS ang|DTC bibe|NNC ?|PMQ
+Tingnan|VBOF ninyo|PRP ,|PMC lumalangoy|VBTR_VBAF sila|PRP .|PMP
+Sana|VBS ay|LM hindi|RBF mabasa|VBW ang|DTC medyas|NNC ko|PRS .|PMP
+Matalinong|JJD_CCP pusa|NNC .|PMP
+Huhulihin|NNP ka|PRS namin|PRP !|PMQ
+Hmm|NNP .|PMP
+Pero|CCT ,|PMC paano|PRQ ?|PMQ
+Shhh|NNP .|PMP
+Huwag|RBF kang|PRS_CCP maingay|JJD .|PMP
+Magtago|VBAF tayo|PRP rito|PRL .|PMP
+Ito|PRO na|CCP ang|DTC pagkakataon|NNC natin|PRP para|CCT mahuli|VBW ang|DTC pusang|NNC_CCP iyan|PRO !|PMQ
+Huli|RBW ka|PRS !|PMQ
+Wow|NNP !|PMS
+Tingnan|VBOF ninyo|PRP ito|PRO .|PMP
+Ang|DTC mga|DTCP medyas|NNC pala|NNC ay|LM para|CCT sa|CCT kaniyang|PRSP_CCP mga|DTCP kuting|NNC .|PMP
+Aaww|NNP .|PMP
+Pagkalambing|NNP naman|RBI !|PMQ
+Bilis|NNP .|PMP
+Kunin|VBOF natin|PRP ang|DTC mga|DTCP pusa|NNC !|PMS
+Iuwi|NNP natin|PRP sila|PRP sa|CCT bahay|NNC .|PMP
+Sa|CCT kanila|PRSP na|CCP ang|DTC lahat|PRI ng|CCB medyas|FW ko|PRS .|PMP

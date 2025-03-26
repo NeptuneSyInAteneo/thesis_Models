@@ -1,0 +1,33 @@
+Siyam|JJN na|CCP taong|NNC_CCP gulang|NNC na|CCP si|DTP Elsa|NNP ngayon|RBW .|PMP
+Nakatanggap|VBTS siya|PRS ng|CCB regalo|NNC mula|RBL sa|CCT kanyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP "|PMS
+Maligayang|NNP_CCP Kaarawan|NNP !|PMS
+Para|CCT sayo|PRSP ang|DTC bola|NNC na|CCP ito|PRO .|PMP
+Halika|NNP at|CCA makipaglaro|VBW sa|CCT amin|PRSP !|PMS "|PMS
+sabi|VBS ni|DTP Marsia|NNP .|PMP
+Natanggap|VBTS ni|DTP Elsa|NNP ang|DTC kanyang|PRSP_CCP regalo|NNC na|CCP may|VBH halong|JJD_CCP damdamin|NNC .|PMP
+Nakaramdam|VBTS siya|PRS ng|CCB tuwa|NNC at|CCA hiya|NNC .|PMP
+Tumingin|VBAF si|DTP Marsia|NNP kay|DTP Elsa|NNP ,|PMC "|PMS Tara|NNP na|CCP !|PMS
+Lumabas|VBAF tayo|PRP !|PMS "|PMS
+Kinuha|VBOF ni|DTP Marsia|NNP ang|DTC bola|NNC mula|RBL sa|CCT mga|DTCP kamay|NNC ni|DTP Elsa|NNP .|PMP
+Kabog|NNP ...|PMS kabog|JJD ...|PMS Tumalbog|VBAF ang|DTC bola|NNC sa|CCT lupa|NNC .|PMP
+Sinipa|VBTS ni|DTP Marsia|NNP at|CCA pinasa|VBOF ang|DTC bola|NNC .|PMP "|PMS
+Elsa|NNP ,|PMC halika|NNC at|CCA samahan|NNC mo|PRS kami|PRP !|PMS "|PMS
+sigaw|NNC ni|DTP Marsia|NNP .|PMP
+Tahimik|JJD na|CCP nakaupo|VBTS si|DTP Elsa|NNP sa|CCT kanyang|PRSP_CCP wheelchair|FW .|PMP "|PMS
+Dapat|VBS ba|RBI akong|PRS_CCP pumunta|VBAF ?|PMQ "|PMS
+siya|PRS ay|LM nagtaka|VBTS .|PMP "|PMS
+Oo|RBT !|PMS "|PMS
+nagpasya|VBTS siya|PRS .|PMP
+Gustong|VBS_CCP tumulong|VBAF ni|DTP Marsia|NNP na|CCP itulak|VBOF si|DTP Elsa'a|NNP wheelchair|FW .|PMP
+Tinanong|VBTS niya|PRS ,|PMC "|PMS Elsa|NNP gusto|VBS mo|PRS ng|CCB tulong|NNC ?|PMQ "|PMS
+Tumugon|VBAF si|DTP Elsa|NNP ,|PMC "|PMS Salamat|RBS ,|PMC ngunit|CCT kaya|CCR ko|PRS ito|PRO sa|CCT aking|PRSP_CCP sarili|NNC !|PMS "|PMS
+Ipinasa|VBTS ni|DTP Marsia|NNP ang|DTC bola|NNC kay|DTP Elsa|NNP .|PMP
+Tinanggap|VBOF ni|DTP Elsa|NNP ang|DTC bola|NNC at|CCA ipinasa|VBTS ito|PRO .|PMP
+Umiskor|VBTS si|DTP Elsa|NNP ng|CCB goal|NNC .|PMP "|PMS
+Congratulations|NNP ,|PMC Elsa|NNP !|PMS "|PMS
+sabi|VBS ni|DTP Marsia|NNP .|PMP
+Ang|DTC mga|DTCP bata|NNC ay|LM nangangailangan|VBTR ng|CCB mga|DTCP aklat|NNC na|CCP may|VBH mga|DTCP karakter|NNC ,|PMC tema|NNC ,|PMC at|CCA setting|FW na|CCP nagpapakita|VBTR at|CCA nagpapatunay|VBTR sa|CCT kanilang|PRSP_CCP buhay|NNC at|CCA nagbibigay|VBTR ng|CCB mga|DTCP pagkakataong|NNC_CCP galugarin|VBOF ang|DTC mundo|NNC .|PMP
+Ang|DTC inisyatiba|NNC ng|CCB Let|NNP 's|NNP Read|NNP ng|CCB Asia|NNP Foundation|NNP ay|LM bumubuo|VBTR_VBAF ng|CCB mga|DTCP network|NNC ng|CCB mga|DTCP tagalikha|NNC ng|CCB libro|NNC at|CCA mga|DTCP tagasalin|NNC upang|CCB bumuo|VBAF ng|CCB isang|PRI_CCP hindi|RBF pa|RBI nagagawang|VBTR_CCP digital|FW library|FW ng|CCB mga|DTCP lokal|JJD na|CCP wikang|NNC_CCP pambata|JJD na|CCP aklat|NNC na|CCP nagbibigay|VBTR ng|CCB makabuluhang|JJD_CCP pagkakataon|NNC sa|CCT pagbabasa|NNC .|PMP
+Maa|NNP -|PMS access|FW ang|DTC platform|FW ng|CCB Lets|NNP Read|NNP storybook|FW sa|CCT :|PMS https://letsreadasia.org/|FW Ang|DTC Magbasa|NNP Tayo|NNP sa|CCT Timor|NNP -|PMS Leste|NNP ay|LM nagbibigay|VBTR sa|CCT mga|DTCP bata|NNC ng|CCB pagkakataong|NNC_CCP umibig|VBAF sa|CCT pagbabasa|NNC at|CCA pagbutihin|VBOF ang|DTC mgaantas|NNC ng|CCB karunungang|NNC_CCP bumasa|VBAF '|PMS t|NNCA sumulat|VBAF .|PMP
+Ang|DTC Asia|NNP Foundation|NNP sa|CCT Timor|NNP -|PMS Leste|NNP ay|LM nakikipagtulungan|VBTR sa|CCT mga|DTCP tagalikha|NNC ng|CCB libro|NNC at|CCA tagasalin|NNC ng|CCB Timorese|NNP ,|PMC at|CCA ang|DTC Ministri|NNP ng|CCB Edukasyon|NNP upang|CCB bumuo|VBAF ng|CCB mga|DTCP lokal|JJD na|CCP kuwento|NNC na|CCP may|VBH positibong|JJD_CCP mensahe|NNC at|CCA mamahagi|NNC ng|CCB mga|DTCP libro|NNC sa|CCT mga|DTCP bata|NNC sa|CCT kanayunan|NNC .|PMP
+Ang|DTC aming|PRSP_CCP pakikipagtulungan|NNC sa|CCT Timor|NNP Telecom|NNP ay|LM nagbibigay|VBTR -|PMS daan|NNC sa|CCT mga|DTCP mobile|FW customer|FW ng|CCB Timor|NNP Telecom|NNP na|CCP magbasa|VBW ng|CCB mga|DTCP libro|NNC nang|RBW walang|RBF bayad|NNC sa|CCT data|NNC sa|CCT #Let|FW '|PMS sRead|FW sa|CCT :|PMS ang|DTC link|FW https|FW :|PMS /|PMS /|PMS single.letsreadasia.org|NNC

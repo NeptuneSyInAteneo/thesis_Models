@@ -1,0 +1,26 @@
+Nanay|NNC ,|PMC nanay|NNC .|PMP
+Umiiyak|VBTR_VBAF po|RBS si|DTP bunso|NNC .|PMP
+Marumi|NNP ang|DTC mga|DTCP mata|NNC ni|DTP bunso|NNC .|PMP
+Linisin|VBOF natin|PRP ang|DTC kaniyang|PRSP_CCP mga|DTCP mata|NNC .|PMP
+Marumi|NNP ang|DTC kaniyang|PRSP_CCP bibig|NNC .|PMP
+Linisin|VBOF natin|PRP ang|DTC kaniyang|PRSP_CCP bibig|NNC .|PMP
+Marumi|NNP ang|DTC kaniyang|PRSP_CCP ilong|NNC .|PMP
+Linisin|VBOF natin|PRP ang|DTC kaniyang|PRSP_CCP ilong|NNC .|PMP
+Marumi|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP tainga|NNC .|PMP
+Linisin|VBOF natin|PRP ang|DTC kaniyang|PRSP_CCP mga|DTCP tainga|NNC .|PMP
+Marumi|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP braso|NNC .|PMP
+Linisin|VBOF natin|PRP ang|DTC kaniyang|PRSP_CCP mga|DTCP braso|NNC .|PMP
+Marumi|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC .|PMP
+Linisin|VBOF natin|PRP ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC .|PMP
+Marumi|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP binti|NNC .|PMP
+Linisin|VBOF natin|PRP ang|DTC kaniyang|PRSP_CCP mga|DTCP binti|NNC .|PMP
+Marumi|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP paa|NNC .|PMP
+Linisin|VBOF natin|PRP ang|DTC kaniyang|PRSP_CCP mga|DTCP paa|NNC .|PMP
+Nanay|NNP ,|PMC marumi|JJD po|RBS ang|DTC kaniyang|PRSP_CCP likuran|NNC .|PMP
+Tumulong|VBAF ako|PRS kay|DTP Nanay|NNP na|CCP maglinis|VBW ng|CCB kaniyang|PRSP_CCP likuran|NNC .|PMP
+This|NNP storybook|FW received|FW assistance|FW by|FW the|FW People|NNP of|FW USA|NNPA through|FW USAID|NNPA .|PMP
+License|NNP :|PMS Creative|NNP Commons|NNP Attribution|NNP CC|NNPA BY|NNPA .|PMP
+IGO|NNPA Translation|FW of|FW work|FW :|PMS If|FW individuals|FW or|CCT legal|JJD entities|FW translate|FW this|FW work|FW ,|PMC you|FW must|FW mention|FW that|FW translation|FW is|FW not|FW conducted|FW by|FW Room|NNP to|FW Read|NNP or|CCT USAID|NNPA and|FW not|FW considered|FW the|FW official|FW translation|FW of|FW Room|NNP to|FW Read|NNP or|CCT USAID|NNPA .|PMP
+Room|NNP to|FW Read|NNP or|CCT USAID|NNPA will|FW not|FW be|FW responsible|NNC for|FW the|FW content|FW or|CCT mistakes|FW of|FW the|FW translation|FW .|PMP
+Amendment|NNP of|FW work|FW :|PMS If|FW individuals|FW or|CCT legal|JJD entities|FW make|FW amendments|FW to|FW the|FW work|FW ,|PMC the|FW source|FW should|FW be|FW referenced|FW :|PMS this|FW work|FW has|FW been|FW amended|FW from|FW the|FW original|FW work|FW of|FW Room|NNP to|FW Read|NNP and|FW USAID|NNPA .|PMP
+The|NNP views|FW and|FW perspectives|FW in|FW this|FW amended|FW work|FW are|DTC the|FW sole|FW responsibility|FW of|FW the|FW party|NNC making|VBW the|FW amendments|FW because|FW it|FW has|FW been|FW reviewed|FW byRoom|FW to|FW Read|NNP and|FW USAID|NNPA .|PMP

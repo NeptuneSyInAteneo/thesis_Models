@@ -1,0 +1,40 @@
+"|PMS Anong|PRQ_CCP ganda|NNC ng|CCB araw|NNC para|CCT sa|CCT pagbibisikleta|NNC !|PMS "|PMS
+Tinawag|VBOF ni|DTP Tok|NNP ang|DTC kapatid|NNC na|CCP babae|NNC habang|RBW pinaglalaruan|VBTR_VBRF ang|DTC kaniyang|PRSP_CCP dalang|NNC_CCP plastik|JJD bag|FW na|CCP may|VBH lamang|RBI meryenda|NNC sa|CCT kaniyang|PRSP_CCP balikat|NNC .|PMP "|PMS
+Ano|PRQ ang|DTC ginagawa|VBTR mo|PRS ,|PMC Tok|NNP !|PMS
+ang|DTC sigaw|NNC ni|DTP Sophie|NNP .|PMP "|PMS
+Hindi|RBF ka|PRS maaring|RBM magtapon|VBW ng|CCB plastik|JJD bag|NNC sa|CCT kalsada|NNC !|PMS "|PMS "|PMS
+Bakit|PRQ hindi|RBF ?|PMQ "|PMS
+Mabilis|RBD na|CCP nagpedal|VBTS si|DTP Sophie|NNP para|CCT mahabol|VBW si|DTP Tok|NNP .|PMP "|PMS
+Kasi|NNP ang|DTC plastik|JJD bag|NNC ay|LM puwedeng|RBT_CCP maging|VBW isang|PRI_CCP malaking|JJD_CCP problema|NNC ,|PMC sa|CCT ...|PMS sa|CCT ...|PMS lahat|PRI !|PMS "|PMS
+Sa|CCT sandaling|NNC_CCP iyon|PRO nakarinig|VBTS sina|DTPP Sophie|NNP at|CCA Tok|NNP ng|CCB isang|PRI_CCP langitngit|NNC .|PMP
+Huminto|VBAF sila|PRP upang|CCB tingnan|VBOF ang|DTC hindi|RBF pangkaraniwang|JJD_CCP ingay|NNC ,|PMC ngunit|CCT wala|VBN silang|PRP_CCP nakita|VBTS kundi|CCT ang|DTC bag|FW na|CCP tinatangay|VBTR ng|CCB hangin|NNC .|PMP
+Patuloy|JJD pa|RBI rin|RBI ang|DTC pagpapaliwanag|NNC ni|DTP Sophie|NNP kayTok|NNP sa|CCT kung|RBK ano|RBQ ang|DTC maaaring|RBM mangyari|VBW sa|CCT naiwang|VBTS_CCP plastik|JJD bag|NNC .|PMP "|PMS
+Kapag|CCR umulan|VBAF ,|PMC ang|DTC plastik|JJD bag|NNC ay|LM tatangayin|VBTF papuntang|RBL_CCP ilog|NNC .|PMP
+Ang|DTC maluwang|JJD na|CCP bibig|NNC nito|PRO ay|LM sadyang|JJCS_CCP malaki|JJD upang|CCB lamunin|VBOF ang|DTC mga|DTCP isda|NNC !|PMS "|PMS
+Huminto|VBAF sina|DTPP Sophie|NNP at|CCA Tok|NNP sa|CCT ilalim|JJD ng|CCB kaakit|NNC -|PMS akit|JJD na|CCP puno|NNC upang|CCB magpiknik|VBW .|PMP "|PMS
+Mukhang|RBM masagwa|VBW ang|DTC bag|NNC na|CCP ito|PRO ,|PMC Sophie|NNP ?|PMQ
+Ano|PRQ pa|RBI ang|DTC puwedeng|RBT_CCP mangyari|VBW ?|PMQ "|PMS
+tanong|NNC ni|DTP Tok|NNP .|PMP "|PMS
+Magiging|VBTF malaking|JJD_CCP pinsala|NNC ito|PRO sa|CCT mundo|NNC .|PMP
+Matapos|VBW kainin|VBOF ang|DTC lahat|PRI ng|CCB mga|DTCP isda|NNC ,|PMC maaari|VBS itong|PRO_CCP lumaki|VBAF nang|RBW lumaki|VBAF .|PMP "|PMS "|PMS
+Ito|PRO ay|LM magiging|VBTF dambuhala|NNC na|CCP lalabas|VBTF sa|CCT tubig|NNC ,|PMC lilipad|VBTF sa|CCT paligid|NNC ,|PMC at|CCA maghahanap|VBTF_VBAF ng|CCB maraming|PRI_CCP kakainin|VBTF !|PMQ "|PMS "|PMS
+Maaaring|RBM lumaki|VBAF ito|PRO ng|CCB sobrang|JJCS_CCP laki|NNC upang|CCB lunukin|VBOF lahat|PRI ng|CCB puno|NNC !|PMS
+Ang|DTC masamang|JJD_CCP halakhak|NNC na|CCP kasinlakas|JJC ng|CCB kulog|NNC .|PMP "|PMS
+Bwaa|NNP Ha|NNP Ha|NNP !|PMS "|PMS "|PMS
+Dudurugin|NNP ang|DTC sanlibutan|NNC hanggang|RBW maging|VBW abo|NNC .|PMP "|PMS
+Marami|PRI pang|RBI_CCP plastik|JJD bag|NNC ang|DTC darating|NNC ,|PMC kakainin|VBTF ang|DTC mga|DTCP isda|NNC ,|PMC hihilahin|VBOF ang|DTC mga|DTCP puno|NNC ,|PMC at|CCA sisirain|VBTF ang|DTC magagandang|JJD_CCP palayan|NNC .|PMP
+Ang|DTC kalupaan|NNC ay|LM magiging|VBTF tahimik|JJD at|CCA malungkot|JJD .|PMP
+Kapag|CCR wala|VBN ng|CCB natitira|VBTR para|CCT may|VBH makain|VBW ang|DTC mga|DTCP plastik|JJD bag|NNC na|CCP ito|PRO ,|PMC tayo|PRP na|CCP ang|DTC kanilang|PRSP_CCP isusunod|VBTR .|PMP "|PMS
+Ito|PRO ay|LM magiging|VBTR malaki|JJD at|CCA hindi|RBF na|RBI tayo|PRP makatatakas|VBTF !|PMS "|PMS
+Si|DTP Tok|NNP ay|LM sobrang|JJCS_CCP natakot|VBTS sa|CCT kuwento|NNC ni|DTP Sophie|NNP .|PMP "|PMS
+Ayokong|NNP_CCP makain|VBW ako|PRS ng|CCB plastik|JJD bag|NNC ,|PMC Sophie|NNP !|PMQ "|PMS "|PMS
+Kung|CCR ganun|PRC ,|PMC dapat|VBS hindi|RBF ka|PRS nagkakalat|VBTR ,|PMC Tok|NNC .|PMP
+Halika|NNP pulutin|VBOF natin|PRP itong|PRO_CCP plastik|JJD bag|NNC bago|RBW ito|PRO maging|VBW isang|PRI_CCP problema|NNC .|PMP "|PMS
+Nang|RBW bumalik|VBAF na|CCP sila|PRP sa|CCT kanilang|PRSP_CCP tahanan|NNC ,|PMC nilinis|VBTS nila|PRP ang|DTC mga|DTCP plastik|JJD bag|NNC na|CCP kanilang|PRSP_CCP nakita|VBTS .|PMP
+Sophie|NNP ,|PMC kung|CCR pupulutin|VBTF ang|DTC mga|DTCP plastik|JJD bag|NNC na|CCP ating|PRSP_CCP makikita|VBTF ,|PMC wala|VBN na|RBI silang|PRP_CCP pagkakataong|NNC_CCP dumami|VBAF !|PMS "|PMS
+Tama|RBT ka|PRS ,|PMC Tok|NNC .|PMP
+Halika|NNP gawin|VBOF natin|PRP .|PMP
+Maililigtas|VBTF natin|PRP ang|DTC daigdig|NNC !|PMS "|PMS
+Mga|DTCP Karagdagang|JJD_CCP Kaalaman|NNC Sa|CCT Kapaligiran|NNP Upang|CCB mabawasan|VBW ang|DTC paggamit|NNC ng|CCB mga|DTCP plastik|JJD ,|PMC lahat|PRI ng|CCB mga|DTCP pamilihan|NNC sa|CCT Phnom|NNP Penh|NNP ay|LM inaatasan|VBTR ng|CCB batas|NNC pagbayarin|VBW ang|DTC mga|DTCP mamimili|NNC sa|CCT mga|DTCP plastik|JJD bag|NNC na|CCP kanilang|PRSP_CCP gagamitin|VBTF .|PMP
+Ang|DTC gobyerno|NNC ay|LM lumikha|VBAF ng|CCB isang|PRI_CCP kampanya|NNC upang|CCB isagawa|VBOF ang|DTC pagbibigay|NNC kaalaman|NNC sa|CCT mga|DTCP tao|NNC tungkol|RBR sa|CCT negatibong|JJD_CCP kahihinatnan|NNC ng|CCB plastik|JJD sa|CCT ating|PRSP_CCP mundo|NNC at|CCA paano|PRQ mababawasan|VBTF ang|DTC paggamit|NNC ng|CCB mga|DTCP ito|PRO .|PMP
+Para|CCT sa|CCT karagdagang|JJD_CCP impormasyon|NNC ,|PMC bisitahin|VBOF ito|PRO :|PMS https://plasticfreecambodia.com/individuals/https://youtu.be/Wyt3H|NNP 0X|NNP GThM|NNP Karagdagang|JJD_CCP Impormasyon|NNP sa|CCT Kapaligiran|NNP ay|LM ibinahagi|VBTS ng|CCB Conservation|NNP International|NNP sa|CCT pakikipagtulungan|NNC ng|CCB The|NNP Asia|NNP FoundationMula|NNP sa|CCT tulong|NNC ng|CCB SMART|NNPA

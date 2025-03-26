@@ -1,0 +1,17 @@
+Ang|DTC Pagtulong|NNC sa|CCT IbonIsang|NNC_CCP umaga|RBW ,|PMC si|DTP Bouavanh|NNP at|CCA ang|DTC kanyang|PRSP_CCP ama|NNC ay|LM pinapastol|VBTR ang|DTC mga|DTCP kalabaw|NNC sa|CCT palayan|NNC .|PMP
+Si|DTP Bouavanh|NNP ay|LM nakarinig|VBTS ng|CCB huni|NNC ng|CCB isang|PRI_CCP ibon|NNC .|PMP
+Nakita|VBTS nya|PRS ang|DTC isang|PRI_CCP maliit|JJD na|CCP ibon|NNC na|CCP nahulog|VBTS mula|RBL sa|CCT pugad|NNC nito|PRO .|PMP
+Nanghihina|VBTR ito|PRO kaya|CCR ito|PRO ay|LM kanyang|PRSP_CCP dinala|VBTS pauwi|NNC .|PMP
+Pinapakain|VBTR niya|PRS ang|DTC ibon|NNC ng|CCB kanin|NNC at|CCA pinainom|VBTS ng|CCB tubig|NNC .|PMP
+Lumipas|VBAF ang|DTC mga|DTCP araw|NNC at|CCA unti|JJD -|PMS unting|FW lumalakas|VBTR_VBAF ang|DTC ibon|NNC .|PMP
+Ibinalik|VBTS ni|DTP Bouavanh|NNP ang|DTC ibon|NNC sa|CCT kanyang|PRSP_CCP ina|NNC .|PMP
+Isang|PRI_CCP umaga|RBW ,|PMC narinig|VBTS ni|DTP Bouavanh|NNP ang|DTC huni|NNC ng|CCB ibon|NNC malapit|JJD sa|CCT kanyang|PRSP_CCP bintana|NNC .|PMP
+Kinalaunan|RBW sa|CCT araw|NNC na|CCP iyon|PRO ,|PMC pinastol|VBTS ni|DTP Bouavanh|NNP at|CCA ng|CCB kanyang|PRSP_CCP ama|NNC ang|DTC kalabaw|NNC pauwi|NNC at|CCA ang|DTC ibon|NNC ay|LM dumapo|VBAF sa|CCT likuran|NNC ng|CCB kalabaw|NNC .|PMP
+Masaya|NNP si|DTP Bouavanh|NNP na|CCP makita|VBW ang|DTC ibon|NNC na|CCP malakas|JJD at|CCA nakakalipad|VBTR sa|CCT paligid|NNC .|PMP
+Ang|DTC kaganapang|NNC_CCP ito|PRO ay|LM miyembro|NNC ng|CCB copyright|NNC ng|CCB mga|DTCP organisasyon|NNC ng|CCB bosch|FW at|CCA anz|FW group|FW Commons|NNP Attribution|NNP .|PMP
+IGO|NNPA (|PMS CC|NNPA BY|NNPA .|PMP
+IGO|NNPA )|PMS Sa|CCT ilalim|JJD ng|CCB Creative|NNP commons|FW Attribution|NNP -|PMS Sharealike|NNP License|NNP :|PMS Noong|RBW_CCP nakaraan|JJD ,|PMC ang|DTC mga|DTCP numero|NNC ng|CCB hindi|RBF natukoy|VBTS na|CCP estado|NNC ay|LM inihatid|VBTS mula|RBL sa|CCT Estados|NNP Unidos|NNP ng|CCB United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP (|PMS USAID|NNPA )|PMS .|PMP
+Lisensya|NNP sa|CCT ilalim|JJD ng|CCB :|PMS Creative|NNP Commons|NNP Contribution|NNP CC|NNPA ng|CCB .|PMP
+IGO|NNPA Panimula|NNP :|PMS kung|CCR ang|DTC isang|PRI_CCP indibidwal|NNC o|CCT entity|FW ay|LM gumawa|VBAF ng|CCB pagpapakilala|NNC sa|CCT ibang|PRI_CCP wika|NNC ,|PMC DAPAT|NNPA mong|PRS_CCP tandaan|VBOF na|CCP ang|DTC organisasyon|NNC ng|CCB eu|FW at|CCA USAID|NNPA ay|LM hindi|RBF isang|PRI_CCP isinaling|RBD_CCP operasyon|NNC at|CCA hindi|RBF ito|PRO opisyal|JJD na|CCP isinalin|VBTS ngmga|FW zoom|FW at|CCA USAID|NNPA .|PMP
+Kaya|CCR hindi|RBF mananagot|VBTF ang|DTC member|NNC library|NNC at|CCA USAID|NNPA sa|CCT nilalaman|NNC o|CCT error|NNC ng|CCB pagsasalin|NNC .|PMP
+I|CDB -|PMS edit|NNC ang|DTC navigation|FW :|PMS kung|CCR ang|DTC indibidwal|NNC o|CCT legal|JJD na|CCP entity|FW ay|LM nagdala|VBTS ng|CCB performance|FW ay|LM binago|VBTS sa|CCT dating|JJD_CCP orihinal|JJD na|CCP direksyon|NNC :|PMS Ang|DTC mga|DTCP opinyon|NNC ay|LM binago|VBTS ay|LM responsibilidad|NNC ng|CCB rebisyon|NNC lamang|RBI ,|PMC dahil|CCR ito|PRO ay|LM binago|VBTS hindi|RBF sa|CCT pamamagitan|NNC ng|CCB pagbabago|NNC ng|CCB library|NNC at|CCA USAID|NNPA .|PMP

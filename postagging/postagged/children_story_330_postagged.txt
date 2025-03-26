@@ -1,0 +1,13 @@
+Gusto|VBS naming|PRP_CCP pumunta|VBAF sa|CCT palaruan|NNC .|PMP
+Paano|PRQ tayo|PRP makararating|VBTF doon|PRL ?|PMQ
+Maaari|VBS tayong|PRP_CCP sumakay|VBAF ng|CCB bisikleta|NNC .|PMP
+Maaari|VBS tayong|PRP_CCP sumakay|VBAF ng|CCB motorsiklo|NNC .|PMP
+Maaari|VBS tayong|PRP_CCP sumakay|VBAF sa|CCT traysikel|FW .|PMP
+Maaari|VBS tayong|PRP_CCP sumakay|VBAF sa|CCT isang|PRI_CCP karitela|NNC na|CCP may|VBH kabayo|NNC .|PMP
+Maari|VBS rin|RBI tayong|PRP_CCP sumakay|VBAF sa|CCT karitelang|JJD_CCP hila|NNC ng|CCB mga|DTCP baka|NNC .|PMP
+Maaari|VBS tayong|PRP_CCP sumakay|VBAF ng|CCB pangarerang|JJD_CCP kotse|NNC .|PMP
+Maari|VBS rin|RBI tayong|PRP_CCP magpatakbo|VBW ng|CCB isang|PRI_CCP malaking|JJD_CCP bus|NNC .|PMP
+Maaari|VBS tayong|PRP_CCP sumakay|VBAF sa|CCT isang|PRI_CCP bangka|NNC .|PMP
+Maaari|VBS tayong|PRP_CCP sumakay|VBAF sa|CCT isang|PRI_CCP elepante|NNC .|PMP
+Hindi|RBF !|PMS
+Dapat|VBS tayong|PRP_CCP maglakad|VBW .|PMP

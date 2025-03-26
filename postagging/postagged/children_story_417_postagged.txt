@@ -1,0 +1,8 @@
+Nakikipaglaro|VBTS si|DTP Dodi|NNP ng|CCB taguan|NNC sa|CCT kaniyang|PRSP_CCP nanay|NNC .|PMP
+Nakakita|VBTS siya|PRS ng|CCB pitong|JJN_CCP basket|NNC .|PMP
+Anim|NNP na|CCP makikinang|VBTF na|CCP plorera|NNC .|PMP
+Limang|JJN_CCP bola|NNC ng|CCB badminton|NNC .|PMP
+Apat|JJN na|CCP pares|NNC ng|CCB pantalon|NNC .|PMP
+Tatlong|JJN_CCP malalaking|JJD_CCP gitara|NNC .|PMP
+Dalawang|JJN_CCP malalambot|JJD na|CCP kamay|NNC .|PMP
+Isang|PRI_CCP nanay|NNC !|PMS

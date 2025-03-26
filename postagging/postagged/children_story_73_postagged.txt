@@ -1,29 +1,24 @@
-Sa|CCT taas|NNC ng|CCB bundok|NNC ,|PMC may|VBH isang|PRI_CCP bayan|NNC –|PMS Ang|DTC munting|JJD_CCP Kamayanan|NNC .|PMP
-Ngunit|CCT ang|DTC mga|DTCP nakatira|VBTS '|PMS y|FW tila|RBM mga|DTCP bathala|NNC ;|PMSC '|PMS Sing|NNP laki|NNC ng|CCB ulap|NNC ang|DTC mga|DTCP kamay|NNC nila|PRP .|PMP '|PMS
-Pag|CCR sila|PRP '|PMS y|FW pumalakpak|VBAF ,|PMC hatid|JJD ay|LM kulog|NNC ;|PMSC '|PMS Pag|CCR pinaglapat|VBRF ang|DTC mga|DTCP kamay|NNC ,|PMC pati|CCA balyena|NNC '|PMS y|FW inaalon|FW .|PMP
-Sa|CCT rurok|JJD ,|PMC nananahan|VBTR silang|PRP_CCP kasama|CCB ng|CCB mga|DTCP ibon|NNC ;|PMSC Payapang|NNP_CCP -|PMS payapa|JJD ,|PMC walang|VBN_CCP imik|NNC ni|DTP bulong|NNC .|PMP
-Gumapang|NNP_CCP palabas|NNC ng|CCB kuweba|NNC si|DTP CoVully|NNP ;|PMSC Parang|RBM multong|NNC_CCP nagmula|VBTS sa|CCT hukay|NNC .|PMP
-Buga|NNP niya|PRS '|PMS y|FW koronang|NNC_CCP sumasakal|VBAF ,|PMC Hininga|NNP '|PMS y|FW mauubos|FW ,|PMC at|CCA dilim|NNC ay|LM bumabalot|VBTR_VBAF .|PMP
-Ginulat|VBTS ni|DTP CoVully|NNP ang|DTC lahat|PRI ;|PMSC Gumawa|VBAF ng|CCB higanteng|JJD_CCP pandemic|FW !|PMS
-Karamiha|NNP '|PMS y|FW namutla|FW at|CCA nagkasakit|VBTS ;|PMSC Nawala|VBTS ang|DTC mga|DTCP kapatid|NNC ,|PMC lumisan|VBTS_VBAF nang|RBW mabilis!Nagtipon|VBW ang|DTC buong|PRI_CCP Kamayanan|NNP ;|PMSC Nag|PRSP_CCP -|PMS alala|NNC ,|PMC nanginig|VBTS ,|PMC at|CCA pinagpawisan|VBRF :|PMS "|PMS Anong|PRQ_CCP gagawin|VBTF natin|PRP ?|PMQ
-Magkulong|VBW ?|PMQ
-Hangang|RBW tayo|PRP '|PMS y|FW maubos|VBW ,|PMC magtago|VBW '|PMS t|NNCA sumilong|VBAF ?|PMQ "|PMS
-Tumayo|VBAF si|DTP Tandang|NNP Turo|NNP at|CCA inawit|VBOF ;|PMSC Oyayi|NNP ng|CCB mga|DTCP ina|NNC sa|CCT mga|DTCP batang|JJD_CCP paslit|NNC .|PMP "|PMS
-Tayo|NNP '|PMS y|FW gumising|FW :|PMS umindak|VBTR_VBAF ,|PMC umikot|VBAF ,|PMC ligawan|JJD ang|DTC hangin|NNC ;|PMSC Ating|PRQ_CCP alalahanin|NNC ,|PMC agimat|NNC ng|CCB Kamayanang|NNC_CCP ipinamana|VBTS sa|CCT atin|PRSP .|PMP "|PMS
-Ang|DTC bulungan|NNC at|CCA tawanan|NNC ,|PMC naging|VBTS halakhakan|NNC !|PMS
-Anila|NNP ,|PMC nababaliw|VBTR na|CCP yata|RBM sa|CCT katandaan|NNC .|PMP
-Lumukso|NNP '|PMS t|NNCA sumubok|VBAF ang|DTC batang|NNC_CCP si|DTP Kingan|NNP .|PMP "|PMS
-Sa|CCT galaw|NNC ng|CCB mga|DTCP kamay|NNC ,|PMC virus|FW gagawing|VBTF_CCP talunan|NNC !|PMS "|PMS
-Lumitaw|VBAF ang|DTC maduming|JJD_CCP CoVully|FW ,|PMC Mabubuhay|VBTF kaya|CCR sila|PRP ?|PMQ
-Hinarap|VBTS siya|PRS ni|DTP Kingan|NNP nang|RBW buong|PRI_CCP loob|NNC at|CCA isip|NNC ;|PMSC Umindak|NNP ,|PMC umawit|VBAF ,|PMC mga|DTCP buhay|NNC ay|LM sinagip|VBTS .|PMP
-Sayaw|NNC ng|CCB palad|NNC at|CCA kamay|NNC ;|PMSC Kalarong|JJD_CCP sabon|NNC at|CCA tubig|NNC .|PMP
-Hugasan|NNP ,|PMC hilurin|FW ;|PMSC Huwag|RBF mong|PRS_CCP bibiruin|VBTF .|PMP
-Sakit|NNP ay|LM iwasan|VBOF ,|PMC virus|FW ay|LM talunin|VBOF ;|PMSC Sayaw|NNC ng|CCB palad|NNC at|CCA kamay|NNC .|PMP
-Naalog|NNP ,|PMC nangatog|VBTS si|DTP CoVully|NNP ;|PMSC Mga|DTCP korona|NNC '|PMS y|FW natigil|VBTS ,|PMC namanhid|VBTS at|CCA natunaw|VBTS .|PMP
-Tunay|RBT na|CCP kapangyarihan|NNC ay|LM lumitaw|VBAF ;|PMSC Malilinis|VBTF na|CCP kamay|NNC ay|LM mangingibabaw|VBTR .|PMP
-Sumilip|NNP at|CCA sumali|VBAF sa|CCT saliw|NNC ng|CCB oyayi|NNC nang|RBW matauhan|VBW ;|PMSC Winawagayway|VBTR ,|PMC sama|CCB -|PMS samang|NNC_CCP mga|DTCP kamay|NNC ng|CCB bayan|NNC .|PMP "|PMS
-Nasa|RBL atin|PRSP ang|DTC susi|NNC upang|CCB sa|CCT kalamidad|NNC ay|LM magwagi|VBW .|PMP "|PMS
-Habang|RBW natalo|VBTS at|CCA nawala|VBTS si|DTP CoVully|NNP .|PMP
-Sa|CCT taas|NNC ng|CCB bundok|NNC ,|PMC may|VBH isang|PRI_CCP bayan|NNC –|PMS Ang|DTC munting|JJD_CCP Kamayanan|NNC .|PMP
-Namuhay|VBTS silang|PRP_CCP tila|RBM mga|DTCP bathala|NNC mula|RBW noon|RBW ;|PMSC Sa|CCT ating|PRSP_CCP mga|DTCP kamay|NNC ,|PMC tatalunin|VBTF ang|DTC mga|DTCP hamon|NNC .|PMP
-WAKAS|NNPA
+May|VBH isang|PRI_CCP langgam|NNC at|CCA maliit|JJD na|CCP piraso|NNC ng|CCB tinapay|NNC sa|CCT daan|NNC .|PMP
+Silipin|VBOF habang|RBW pilit|RBD na|CCP hinihila|VBTR ng|CCB matapang|JJD na|CCP langgam|NNC ang|DTC tinapay|NNC !|PMS
+Hinila|VBOF niya|PRS ito|PRO nang|RBD hinila|VBOF ,|PMC pero|CCT walang|VBN_CCP nangyari|VBTS .|PMP
+Pero|CCT hindi|RBF siya|PRS sumusuko|VBTR_VBAF !|PMQ
+Hindi|RBF siya|PRS nawalan|VBTS ng|CCB pag|CCR -|PMS asa|NNC .|PMP
+Humingi|VBAF siya|PRS ng|CCB tulong|NNC sa|CCT kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC !|PMS
+Nagbayanihan|VBTS ang|DTC mga|DTCP langgam|NNC .|PMP
+Habang|RBW kumakanta|VBTR_VBAF ,|PMC itinutulak|VBTR at|CCA hinihila|VBTR nila|PRP ang|DTC kariton|NNC buong|PRI_CCP araw|NNC .|PMP
+Sa|CCT wakas|RBW ,|PMC narating|VBTS nila|PRP ang|DTC punso|NNC .|PMP "|PMS
+Ilapag|VBTS ang|DTC tinapay|NNC para|CCT sa|CCT lahat|PRI ,|PMC "|PMS ang|DTC wika|NNC ng|CCB inang|NNC_CCP langgam|NNC .|PMP
+Pinaghatihatian|VBRF at|CCA pinagsaluhang|VBRF_CCP kinain|VBOF ang|DTC hapunan|NNC .|PMP
+About|NNP the|FW Author|NNP DurgaLal|NNP Shrestha|NNP is|FW a|FW famous|FW poet|FW of|FW Nepal|NNP Bhasa|NNP and|FW Nepali|NNP .|PMP
+As|NNP a|FW teacher|FW of|FW NepalBhasa|NNP at|CCA KanyaMandir|NNP Higher|NNP Secondary|NNP School|NNP in|NNP the|FW sto|FW s|NNCA ,|PMC he|FW created|FW songs|FW to|FW inspire|FW children|FW to|FW express|FW themselves|FW in|FW their|FW mother|FW tongue|FW .|PMP
+His|NNP songs|FW became|FW widely|FW known|FW throughout|FW the|FW Kathmandu|NNP Valley|NNP and|FW collections|FW of|FW his|FW children|FW 's|FW songs|FW have|FW been|FW through|FW over|FW reprints|FW and|FW are|DTC stillcirculated|FW today|FW .|PMP
+About|NNP the|FW Illustrator|NNP BinitaBuddacharyais|NNP a|FW versatile|FW visual|FW artist|FW and|FW illustrator|FW .|PMP
+She|NNP recently|FW completed|FW her|FW MFA|NNPA in|FW Painting|FW from|FW Tribhuvan|NNP University|NNP .|PMP
+In|NNP addition|FW to|FW designing|FW sets|FW and|FW props|FW for|FW theatre|FW ,|PMC she|FW leads|FW children|FW 's|FW workshops|FW .|PMP
+She|NNP also|FW plays|FW a|FW leadership|FW position|FW as|FW the|FW Treasurer|FW of|FW Illustrator|NNP Nepal|NNP .|PMP
+She|NNP has|FW won|FW a|FW series|FW of|FW awards|FW :|PMS National|NNP special|FW award|FW from|FW NAFA|NNPA (|PMS National|NNP Academy|NNP of|FW Fine|NNP Arts|NNP )|PMS ,|PMC PrasantaSmritiPuraskar|NNP ,|PMC SarbanamPuraskar|NNP ,|PMC and|FW AmritopadeshPuraskar|FW .|PMP
+Acknowledgments|NNP First|NNP and|FW fore-most|FW we|FW would|FW like|FW to|FW thank|FW the|FW open|FW -|PMS ness|FW with|FW which|FW DurgaLal|FW Shrestha|FW has|FW embraced|FW this|FW project|FW .|PMP
+He|NNP is|FW an|DTC inspiration|FW for|FW the|FW next|FW generation|FW of|FW creative|FW thinkers|FW .|PMP
+A|NNP warm|FW thank|FW you|FW to|FW the|FW illustrator|FW Amber|FW Delahayefrom|FW StichtingThangwho|FW held|FW illustration|FW workshops|FW .|PMP
+And|NNP finally|FW ,|PMC this|FW book|FW would|FW not|FW have|FW been|FW possible|JJD without|NNC Sumanand|NNP Suchita|NNP Shrestha|NNP ,|PMC who|NNCA are|DTC DurgaLal|NNP Shrestha|NNP 's|FW children|FW ,|PMC and|FW his|FW wife|FW ,|PMC Purnadevi|FW Shrestha|FW ,|PMC who|FW is|FW always|FW by|FW his|FW side|FW .|PMP
+Narrator|NNP :|PMS Jaco|NNP Roesch|NNP .|PMP

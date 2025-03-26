@@ -1,0 +1,38 @@
+Nakatira|VBTS si|DTP Tiya|NNP Rosa|NNP sa|CCT isang|PRI_CCP maaliwalas|JJD na|CCP nayon|NNC .|PMP
+Tahimik|RBD siyang|PRS_CCP namumuhay|VBTR kasama|CCB ng|CCB lima|CDB niyang|PRS_CCP mga|DTCP anak|NNC ,|PMC mga|DTCP manok|NNC ,|PMC at|CCA ng|CCB pusang|NNC_CCP si|DTP Ken|NNP .|PMP
+Nagsisimula|VBTR ang|DTC araw|NNC ni|DTP Tiya|NNP Rosa|NNP tuwing|RBW madaling|RBD_CCP araw|NNC upang|CCB pakainin|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP inahin|VBOF at|CCA ipaghanda|VBOF ng|CCB almusal|NNC ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC .|PMP
+Pagkatapos|VBW nito|PRO ay|LM ihahatid|VBTF niya|PRS na|CCP ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC sa|CCT kanilang|PRSP_CCP paaralan|NNC ,|PMC at|CCA agad|RBW naman|RBI siyang|PRS_CCP tutungo|VBTF sa|CCT palengke|NNC upang|CCB ibenta|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP ito|PRO .|PMP
+Uuwi|VBAF siya|PRS sa|CCT tanghali|RBW upang|CCB mahandaan|VBW ng|CCB pananghalian|NNC ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC .|PMP
+Araw|NNP -|PMS araw|NNC itong|PRO_CCP ginagawa|VBTR ni|DTP Tiya|NNP Rosa|NNP hanggang|RBW sa|CCT ...|PMS Lumaki|VBAF ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC at|CCA kailangan|VBS na|CCP nilang|PRP_CCP magpaalam|VBW isa|PRI -|PMS isa|PRI .|PMP
+Naiwang|RBD_CCP mag|VBW -|PMS isa|PRI si|DTP Tiya|NNP Rosa|NNP kasama|CCB ang|DTC kaniyang|PRSP_CCP mga|DTCP inahin|VBOF at|CCA alagang|JJD_CCP pusa|NNC na|CCP si|DTP Ken|NNP .|PMP
+Ganun|PRC pa|RBI man|RBI ,|PMC gumigising|VBAF pa|RBI rin|RBI siya|PRS nang|RBW maaga|JJD para|CCT pakainin|VBOF ang|DTC kanyang|PRSP_CCP mga|DTCP inahin|NNC ,|PMC maghanda|VBAF ng|CCB agahan|NNC at|CCA magdilig|VBAF ng|CCB kaniyang|PRSP_CCP mga|DTCP halaman|NNC .|PMP
+Pagkatapos|VBW ay|LM naghahanda|VBTR siya|PRS ng|CCB tanghalian|NNC .|PMP
+At|CCA naghihintay|VBTR sa|CCT pagdating|NNC ng|CCB tag|FW -|PMS init|NNC ,|PMC kung|RBK kailan|RBQ siya|PRS binibisita|VBTR ng|CCB kaniyang|PRSP_CCP mga|DTCP anak|NNC .|PMP
+Isang|PRI_CCP gabi|RBW ,|PMC tumunog|VBAF ang|DTC kaniyang|PRSP_CCP lumang|JJD_CCP pulang|JJD_CCP telepono|NNC .|PMP
+Nakatanggap|VBTS siya|PRS ng|CCB tawag|NNC mula|RBL sa|CCT kaniyang|PRSP_CCP mga|DTCP anak|NNC .|PMP
+Sa|CCT wakas|RBW ay|LM dumating|VBAF na|CCP ang|DTC bakasyon|NNC at|CCA ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC ,|PMC at|CCA muling|RBW_CCP napuno|VBTS ng|CCB galak|NNC at|CCA tuwa|NNC ang|DTC kanilang|PRSP_CCP tahanan|NNC .|PMP
+Nagtipon|VBTS ang|DTC buong|PRI_CCP pamilya|NNC .|PMP
+Sila|PRP ay|LM masayang|JJD_CCP naguusap|VBTR -|PMS usap|NNC at|CCA nagtatawanan|VBTR sa|CCT loob|NNC bahay|NNC .|PMP
+Nagdulot|VBTS din|RBI ng|CCB kasiyahan|NNC at|CCA kagalakan|NNC ang|DTC masarap|JJD na|CCP pagkaing|NNC_CCP inihanda|VBTS ng|CCB kanilang|PRSP_CCP ina|NNC .|PMP
+Ilang|PRQ_CCP araw|NNC bago|RBW umalis|VBAF ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC ,|PMC narinig|VBTS nila|PRP ang|DTC balita|NNC tungkol|RBR sa|CCT pagkakaroon|NNC ng|CCB mga|DTCP tore|NNC na|CCP malapit|JJD sa|CCT sakahan|NNC .|PMP
+Sila|PRP ay|LM nagtungo|VBTS sa|CCT bayan|NNC at|CCA bumalik|VBAF pagkalipas|VBW ng|CCB ilang|PRQ_CCP oras|NNC dala|JJD -|PMS dala|JJD ang|DTC binili|VBOF nilang|PRP_CCP bagong|JJD_CCP telepono|NNC para|CCT sa|CCT kanilang|PRSP_CCP ina|NNC at|CCA ikinonekta|VBTR ito|PRO sa|CCT internet|NNC .|PMP
+Natapos|VBTS ang|DTC bakasyon|NNC at|CCA nagsilisan|VBTS na|RBI ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC .|PMP
+Si|DTP Tiya|NNP Rosa|NNP naman|RBI ay|LM bumalik|VBAF sa|CCT kaniyang|PRSP_CCP pangaraw|NNC -|PMS araw|NNC na|CCP ginagawa|VBTR –|PMS ang|DTC gumising|VBAF ng|CCB madaling|RBD_CCP araw|NNC ,|PMC magpakain|VBTF sa|CCT mga|DTCP inahin|NNC ,|PMC pero|CCT ...|PMS Nagsimula|VBTS nang|RBW kausapin|VBOF ni|DTP Tiya|NNP Rosa|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC gamit|VBS ang|DTC internet|NNC .|PMP
+Nakikita|VBTR siya|PRS ng|CCB kaniyang|PRSP_CCP mga|DTCP anak|NNC at|CCA nakikita|VBTR din|RBI niya|PRS sila|PRP .|PMP
+Araw|NNP -|PMS araw|NNC silang|PRP_CCP nag|NNCA -|PMS uusap|NNC ng|CCB ilang|PRQ_CCP oras|NNC .|PMP
+Isang|PRI_CCP gabi|RBW ,|PMC napindot|VBTS ng|CCB pusang|NNC_CCP si|DTP Ken|NNP ang|DTC telepono|NNC ni|DTP Tiya|NNP Rosa|NNP .|PMP
+Maraming|PRI_CCP mga|DTCP video|FW ang|DTC lumitaw|VBAF at|CCA ginugol|VBTS ni|DTP Rose|NNP ang|DTC kaniyang|PRSP_CCP oras|NNC sa|CCT panonood|NNC ng|CCB sunud|FW -|PMS sunod|JJD na|CCP mga|DTCP video|FW .|PMP
+Madaming|PRI_CCP natutunan|VBTR na|CCP pamamaraan|NNC ng|CCB pagluluto|NNC si|DTP Tiya|NNP Rosa|NNP dahil|CCR sa|CCT panunuod|NNC niya|PRS ng|CCB mga|DTCP video|FW .|PMP
+Nakakagawa|VBTR na|CCP siya|PRS ng|CCB Lebanese|NNP Tabboleh|NNP salad|NNC at|CCA aubergine|FW ghannouj|FW .|PMP
+Ang|DTC Iraqi|NNP Dolmah|NNP ay|LM isa|PRI sa|CCT pinakamasarap|JJCS_JJD na|CCP putahe|NNC .|PMP
+Pagkatapos|VBW siya|PRS ay|LM naging|VBTS isang|PRI_CCP master|NNC chef|NNC sa|CCT Saudi|NNP Arabian|NNP kabsa|NNC .|PMP
+At|CCA mahal|JJD din|RBI niya|PRS ang|DTC Egyptian|NNP koshari|NNC .|PMP
+Makalipas|VBW ang|DTC ilang|PRQ_CCP araw|NNC ,|PMC napansin|VBTS ni|DTP Tiya|NNP Rosa|NNP na|CCP tumataba|VBTR_VBAF na|CCP siya|PRS at|CCA nadadagdagan|VBTR ang|DTC kaniyang|PRSP_CCP timbang|NNC .|PMP
+Kaya|CCR ay|LM napagpasyahan|VBTS niyang|PRS_CCP magbawas|VBW ng|CCB timbang|NNC at|CCA nagsimulang|RBD_CCP manuod|VBW ng|CCB videos|FW ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP uri|NNC ng|CCB ehersisyo|NNC .|PMP
+Bago|RBW siya|PRS natulog|VBTS nang|RBW gabing|RBW_CCP iyon|PRO ay|LM naalala|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP pangarap|NNC noong|RBW_CCP bata|JJD pa|RBI siya|PRS .|PMP
+Nais|VBS ni|DTP Tiya|NNP Rosa|NNP na|CCP matutong|VBW_CCP magpinta|VBAF .|PMP
+Kaya|CCR gumising|VBAF siya|PRS nang|RBW maaga|JJD at|CCA nagtungo|VBTS sa|CCT bayan|NNC upang|CCB bumili|VBAF ng|CCB mga|DTCP gagamitin|VBTF niya|PRS sa|CCT pagguhit|NNC .|PMP
+Gumugol|VBAF siya|PRS ng|CCB maraming|PRI_CCP oras|NNC sa|CCT pagbili|NNC ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP kulay|NNC .|PMP
+Gayunpaman|CCB ,|PMC nagigising|VBTR_CCP parin|RBD si|DTP Tiya|NNP Rosa|NNP nang|RBW madaling|RBD_CCP araw|NNC para|CCT magpakain|VBAF sa|CCT mga|DTCP inahin|NNC ,|PMC maghanda|VBAF ng|CCB agahan|NNC at|CCA tanghalian|NNC .|PMP
+Pero|CCT ginugugol|VBOF niya|PRS halos|JJD lahat|PRI ng|CCB kanyang|PRSP_CCP oras|NNC sa|CCT kwarto|NNC ,|PMC kung|RBK saan|RBQ naghahalu|VBTR -|PMS halo|JJD siya|PRS ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP kulay|NNC upang|CCB makalikha|VBW ng|CCB isang|PRI_CCP napakagandang|JJCS_JJD_CCP obra|NNC .|PMP
+Inaanyayahan|VBOF ko|PRS kayo|PRP ,|PMC mga|DTCP mahal|JJD ko|PRS sa|CCT buhay|NNC ,|PMC na|CCP dumalo|VBAF sa|CCT aking|PRSP_CCP kauna|NNC -|PMS unahang|PRI_CCP eksibisyon|NNC ng|CCB aking|PRSP_CCP mga|DTCP ipininta|VBTS ;|PMSC sa|CCT darating|NNC na|CCP Miyerkules|NNP ,|PMC sa|CCT Rose|NNP Hill|NNP Hall|NNP .|PMP

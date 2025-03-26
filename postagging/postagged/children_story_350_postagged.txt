@@ -1,0 +1,42 @@
+Si|DTP Sani|NNP ay|LM may|VBH maliit|JJD na|CCP pusa|NNC .|PMP
+Ang|DTC pangalan|NNC nito|PRO ay|LM Suri|NNP .|PMP
+Mahal|NNP na|CCP mahal|JJD ni|DTP Sani|NNP si|DTP Suri|NNP .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS ni|DTP Sani|NNP na|CCP makipaglaro|VBW kay|DTP Suri|NNP .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC umuwi|VBAF si|DTP Sani|NNP galing|RBL sa|CCT paaralan|NNC at|CCA tinawag|VBOF niya|PRS si|DTP Suri|NNP .|PMP
+Ngunit|CCT hindi|RBF nagpakita|VBTS si|DTP Suri|NNP .|PMP
+Kaya|CCR hinanap|VBTS ni|DTP Sani|NNP si|DTP Suri|NNP sa|CCT loob|NNC ng|CCB bahay|NNC .|PMP
+Pagkatapos|VBW ay|LM naghanap|VBTS siya|PRS sa|CCT bakuran|NNC .|PMP
+Ngunit|CCT hindi|RBF niya|PRS makita|VBW si|DTP Suri|NNP .|PMP
+Hinanap|VBOF niya|PRS ito|PRO sa|CCT itaas|JJD ng|CCB kanilang|PRSP_CCP bahay.at|NNC sa|CCT ibaba|JJD .|PMP
+Ngunit|CCT wala|VBN pa|RBI rin|RBI si|DTP Suri|NNP .|PMP
+Si|DTP Sani|NNP ay|LM lumabas|VBAF papunta|VBW sa|CCT gilid|JJD ng|CCB bangketa|NNC .|PMP
+Hinanap|VBOF din|RBI niya|PRS ito|PRO sa|CCT kalsada|NNC .|PMP
+At|CCA sa|CCT kalye|NNC .|PMP
+Ngunit|CCT hindi|RBF niya|PRS mahanap|VBW si|DTP Suri|NNP .|PMP
+Tiningnan|VBOF niya|PRS ang|DTC paanan|NNC ng|CCB puno|NNC .|PMP
+At|CCA sa|CCT itaas|JJD ng|CCB puno|NNC .|PMP
+Ngunit|CCT hindi|RBF niya|PRS matagpuan|VBW si|DTP Suri|NNP .|PMP
+Pagkatapos|VBW ay|LM nakasalubong|VBTS ni|DTP Sani|NNP ang|DTC isang|PRI_CCP malaking|JJD_CCP pusa|NNC !|PMS
+At|CCA nakasalubong|VBTS rin|RBI niya|PRS ang|DTC isang|PRI_CCP maliit|JJD na|CCP pusa|NNC .|PMP
+Ngunit|CCT hindi|RBF niya|PRS nakasalubong|VBTS si|DTP Suri|NNP .|PMP
+Nakakita|VBTS si|DTP Sani|NNP ng|CCB itim|JJD na|CCP pusa.at|RBT_CCP puting|JJD_CCP pusa|NNC .|PMP
+Pero|CCT wala|VBN pa|RBI rin|RBI si|DTP Suri|NNP .|PMP
+Nakakita|VBTS si|DTP Sani|NNP ng|CCB isang|PRI_CCP matabang|JJD_CCP pusa|NNC .|PMP
+Nakakita|VBTS siya|PRS ng|CCB isang|PRI_CCP payat|JJD na|CCP pusa|NNC .|PMP
+Ngunit|CCT hindi|RBF niya|PRS makita|VBW si|DTP Suri|NNP .|PMP
+Si|DTP Sani|NNP ay|LM nakakita|VBTS ng|CCB isang|PRI_CCP mahabang|JJD_CCP pusa|NNC .|PMP
+At|CCA nakakita|VBTS rin|RBI siya|PRS ng|CCB isang|PRI_CCP maikling|JJD_CCP pusa|NNC .|PMP
+Ngunit|CCT hindi|RBF niya|PRS makita|VBW si|DTP Suri|NNP .|PMP
+Nakakita|VBTS si|DTP Sani|NNP ng|CCB isang|PRI_CCP pusa|NNC na|CCP may|VBH mahabang|JJD_CCP binti|NNC .|PMP
+At|CCA isang|PRI_CCP pusa|NNC na|CCP may|VBH maikling|JJD_CCP binti|NNC .|PMP
+Ngunit|CCT hindi|RBF niya|PRS makita|VBW si|DTP Suri|NNP .|PMP
+Nakakita|VBTS naman|RBI siya|PRS ng|CCB isang|PRI_CCP malinis|JJD na|CCP pusa|NNC .|PMP
+At|CCA nakakita|VBTS rin|RBI siya|PRS ng|CCB isang|PRI_CCP maduming|JJD_CCP pusa|NNC .|PMP
+Ngunit|CCT hindi|RBF niya|PRS matagpuan|VBW si|DTP Suri|NNP .|PMP
+Hinanap|VBOF niya|PRS si|DTP Suri|NNP sa|CCT ilalim|JJD ng|CCB kaniyang|PRSP_CCP aparador|NNC .|PMP
+At|CCA naghanap|VBTS siya|PRS sa|CCT ilalim|JJD doon|PRL .|PMP
+Ngunit|CCT hindi|RBF niya|PRS mahanap|VBW si|DTP Suri|NNP kahit|CCT saan|PRQ .|PMP
+Nagsimulang|VBTS_CCP umiyak|VBAF si|DTP Sani|NNP .|PMP
+Narinig|VBTS ni|DTP Suri|NNP na|CCP umiiyak|VBTR_VBAF si|DTP Sani|NNP .|PMP
+Natagpuan|VBTS ni|DTP Suri|NNP si|DTP Sani|NNP !|PMS
+Signer|NNP :|PMS Samyukta|NNP Shrestha|FW .|PMP

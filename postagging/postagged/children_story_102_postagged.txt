@@ -1,0 +1,50 @@
+Alam|VBS ng|CCB lahat|PRI na|CCP ang|DTC elepante|NNC ay|LM may|VBH napakahabang|JJCS_JJD_CCP ilong|NNC .|PMP
+Ngunit|CCT noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC ang|DTC ilong|NNC ng|CCB elepante|NNC ay|LM maikli|JJD at|CCA mataba|JJD .|PMP
+Parang|CCT may|VBH sapatos|NNC sa|CCT gitna|JJD ng|CCB mukha|NNC nito|PRO .|PMP
+Isang|PRI_CCP araw|NNC ang|DTC batang|JJD_CCP elepante|NNC ay|LM ipinanganak|VBTS .|PMP
+Siya|PRS ay|LM mausisa|VBW sa|CCT lahat|PRI ng|CCB bagay|NNC .|PMP
+Siya|PRS ay|LM may|VBH tanong|NNC sa|CCT bawat|PRI hayop|NNC .|PMP
+Naging|VBTS mausisa|JJD siya|PRS tungkol|RBR kay|DTP Giraffe|NNP .|PMP "|PMS
+Bakit|PRQ mahaba|JJD ang|DTC leeg|NNC mo|PRS ?|PMQ "|PMS
+tanong|NNC niya|PRS .|PMP
+Siya|PRS ay|LM mausisa|JJD rin|RBI kay|DTP Rhino|NNP .|PMP "|PMS
+Bakit|PRQ ang|DTC iyong|PRSP_CCP sungay|NNC ay|LM matalas|JJD ?|PMQ .|PMP
+Naging|VBTS mausisa|NNC sya|PRS kay|DTP Hippo|NNP .|PMP "|PMS
+Bakit|PRQ namumula|VBTR ang|DTC mata|NNC mo|PRS ?|PMQ "|PMS
+tanong|NNC niya|PRS .|PMP
+At|CCA siya|PRS ay|LM lalong|JJCC_CCP mausisa|JJD tungkol|RBR kay|DTP buwaya|NNC .|PMP
+Ano|PRQ ba|RBI ang|DTC kinakain|VBTR ng|CCB buwaya|NNC sa|CCT hapunan|NNC ?|PMQ
+,|PMC tanong|NNC niya|PRS .|PMP "|PMS
+Huwag|RBF na|CCP huwag|RBF kang|PRS_CCP magtatanong|VBTF ng|CCB ganyan|NNC !|PMS "|PMS
+sabi|VBS ng|CCB kanyang|PRSP_CCP ina|NNC .|PMP
+Tapos|RBW ay|LM lumayo|VBAF siya|PRS ,|PMC nakasimangot|VBTS .|PMP
+Mabilis|RBD na|CCP lumipad|VBAF pababa|JJD si|DTP Uwak|NNP sa|CCT batang|JJD_CCP elepante|NNC .|PMP
+Sundan|VBTF mo|PRS ako|PRS sa|CCT ilog|NNC .|PMP
+Doon|PRL makikita|VBTF mo|PRS kung|RBK ano|RBQ ang|DTC kinakain|VBTR ng|CCB Buwaya|NNC para|CCT sa|CCT hapunan|NNC ,|PMC tugon|NNC ng|CCB Uwak|NNC .|PMP
+Kaya|CCR '|PMS t|NNCA sinundan|VBOF ng|CCB batang|JJD_CCP elepante|NNC si|DTP Uwak|NNP pababa|JJD sa|CCT ilog|NNC .|PMP
+Hinawi|NNP nya|PRS ang|DTC mga|DTCP damo|NNC at|CCA tumayo|VBAF sa|CCT gilid|JJD ng|CCB ilog|NNC .|PMP
+Tumingin|VBAF sya|PRS sa|CCT tubig|NNC .|PMP
+Nasaan|VBTS ang|DTC buwaya|NNC ?|PMQ "|PMS
+Kumusta|NNP ,|PMC "|PMS sabi|VBS ng|CCB isang|PRI_CCP bato|NNC na|CCP malapit|JJD sa|CCT tabing|FW ilog|NNC .|PMP "|PMS
+Kumusta|NNP ,|PMC "|PMS sabi|VBS ng|CCB batang|JJD_CCP elepante|NNC .|PMP "|PMS
+Maaari|VBS mo|PRS bang|RBI_CCP sabihin|VBOF sa|CCT akin|PRSP kung|RBK ano|RBQ ang|DTC kinakain|VBTR ng|CCB Buwaya|NNC para|CCT sa|CCT hapunan|NNC ?|PMQ "|PMS
+tanong|NNC niya|PRS "|PMS Yumuko|VBOF ka|PRS at|CCA sasabihin|VBTF ko|PRS sayo|PRSP ,|PMC '|PMS sabi|VBS ng|CCB bato|NNC .|PMP "|PMS
+Mababa|JJD ,|PMC mas|JJCC mababa|JJD ,|PMC "|PMS sabi|VBS ng|CCB bato|NNC .|PMP
+Kaya|CCR naman|RBI yumuko|VBAF ang|DTC batang|JJD_CCP elepante|NNC ng|CCB mababang|JJD_CCP mababa|JJD .|PMP
+Tapos|RBW biglang|RBD_CCP ,|PMC ang|DTC ilong|NNC ng|CCB batang|JJD_CCP elepante|NNC ay|LM hawak|JJD na|RBI ng|CCB panga|NNC ng|CCB Buwaya|NNP .|PMP "|PMS
+Kakainin|VBTF ka|PRS ni|DTP Buwaya|NNP para|CCT sa|CCT hapunan|NNC !|PMS "|PMS
+sabi|VBS ng|CCB Uwak|NNC ,|PMC at|CCA lumipad|VBAF palayo|RBD .|PMP
+Napaupo|VBTS ang|DTC batang|JJD_CCP elepante|NNC sa|CCT kanyang|PRSP_CCP malalakas|JJD na|CCP binti|NNC at|CCA hinila|VBOF ang|DTC kanyang|PRSP_CCP ilong|NNC .|PMP
+Hinila|VBOF niya|PRS ,|PMC at|CCA binanat|VBOF .|PMP
+Ngunit|CCT hindi|RBF binitawan|VBOF ni|DTP Buwaya|NNP ang|DTC kanyang|PRSP_CCP ilong|NNC .|PMP
+Humaba|VBAF nang|RBW humaba|VBAF ang|DTC ilong|NNC ng|CCB batang|JJD_CCP elepante|NNC .|PMP
+At|CCA ,|PMC "|PMS blag|FW !|PMS "|PMS
+siya|PRS ay|LM tumumba|VBAF .|PMP
+Bumalik|VBAF ang|DTC buwaya|NNC sa|CCT tubig|NNC .|PMP
+Siya|PRS ay|LM nainis|VBTS dahil|CCR sa|CCT pagkawala|NNC ng|CCB kanyang|PRSP_CCP hapunan|NNC .|PMP
+Tumingin|VBAF ang|DTC batang|JJD_CCP elepante|NNC sa|CCT kanyang|PRSP_CCP ilong|NNC .|PMP
+Ito|PRO ay|LM nakaunat|VBTS nang|RBW napakatagal|JJCS_JJD .|PMP
+Hindi|RBF niya|PRS makita|VBW kung|RBK saan|RBQ ito|PRO natapos|VBTS !|PMQ
+Napakahaba|JJCS_JJD ng|CCB kanyang|PRSP_CCP ilong|NNC maaari|VBS siyang|PRS_CCP pumitas|VBAF ng|CCB prutas|NNC mula|RBL sa|CCT matataas|JJD na|CCP sanga|NNC .|PMP
+Dahil|CCR sa|CCT napakahaba|JJCS_JJD niyang|PRS_CCP ilong|NNC kaya|CCR niyang|PRS_CCP paliguan|NNC ang|DTC kanyang|PRSP_CCP likod|NNC .|PMP
+Mula|RBW sa|CCT araw|NNC na|CCP iyon|PRO ,|PMC ang|DTC lahat|PRI ng|CCB mga|DTCP elepante|NNC ay|LM may|VBH mahaba|JJD at|CCA kapaki|NNC -|PMS pakinabang|NNC na|CCP mga|DTCP putot|NNC .|PMP

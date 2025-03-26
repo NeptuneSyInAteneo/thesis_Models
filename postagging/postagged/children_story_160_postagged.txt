@@ -1,0 +1,88 @@
+Nakita|VBTS ni|DTP Cedric|NNP ang|DTC kaniyang|PRSP_CCP lumang|JJD_CCP teddy|NNC bear|NNC sa|CCT likod|NNC ng|CCB aparador|NNC .|PMP
+Medyo|JJCC kupas|JJD na|CCP ang|DTC kulay|NNC ng|CCB balahibo|NNC at|CCA natatanggal|VBTR na|RBI rin|RBI ang|DTC mga|DTCP mata|NNC nito|PRO .|PMP
+Pero|CCT ,|PMC ito|PRO pa|RBI rin|RBI ang|DTC lumang|JJD_CCP Tintin|NNP na|CCP mahal|RBD na|CCP mahal|JJD ni|DTP Cedric|NNP .|PMP
+Nais|VBS ng|CCB Nanay|NNC ni|DTP Cedric|NNP na|CCP tipunin|VBOF ang|DTC mga|DTCP luma|JJD niyang|PRS_CCP laruan|NNC para|CCT magamit|VBW ng|CCB kaniyang|PRSP_CCP nakababatang|JJD_CCP kapatid|NNC na|CCP si|DTP Billy|NNP .|PMP
+Ngunit|CCT ,|PMC ayaw|VBS niyang|PRS_CCP ipamigay|VBOF si|DTP Tintin|NNP .|PMP
+Marahang|NNP pinaupo|VBTS ni|DTP Cedric|NNP si|DTP Tintin|NNP sa|CCT kaniyang|PRSP_CCP higaan|NNC ,|PMC hiwalay|JJD sa|CCT iba|PRI pang|RBI_CCP laruan|NNC .|PMP
+Pumasok|VBAF si|DTP Billy|NNP sa|CCT kanilang|PRSP_CCP kuwarto|NNC at|CCA tinanong|VBOF niya|PRS si|DTP Cedric|NNP kung|RBK ano|RBQ ang|DTC ginagawa|VBTR nito|PRO .|PMP "|PMS
+Nililinis|NNP ko|PRS ang|DTC mga|DTCP luma|JJD kong|PRS_CCP laruan|NNC para|CCT ibigay|VBOF sa|CCT iyo|PRSP .|PMP
+Pagkatapos|VBW nito|PRO ,|PMC magbabasa|VBTF ako|PRS ng|CCB aklat|NNC na|CCP pang|RBI_CCP -|PMS medisina|NNC kasama|CCB si|DTP Nanay|NNP ,|PMC "|PMS sagot|NNC ni|DTP Cedric|NNP .|PMP
+Sa|CCT pag|CCR -|PMS alis|NNC ni|DTP Cedric|NNP ,|PMC nakita|VBTS ni|DTP Billy|NNP ang|DTC mga|DTCP naiwang|VBTS laruan|NNC ng|CCB kaniyang|PRSP_CCP kuya|NNC .|PMP
+May|VBH lumang|JJD_CCP eroplano|NNC at|CCA laruang|NNC_CCP tigre|JJD na|CCP gustong|VBS_CCP -|PMS gusto|VBS niya|PRS .|PMP
+Napansin|VBTS din|RBI ni|DTP Billy|NNP ang|DTC lumang|JJD_CCP teddy|FW bear|FW sa|CCT higaan|NNC ni|DTP Cedric|NNP .|PMP
+Nakalimutan|RBD siguro|RBM ni|DTP Cedric|NNP na|CCP ilagay|VBOF ito|PRO sa|CCT kahon|NNC .|PMP
+Pinulot|VBOF ni|DTP Billy|NNP ang|DTC teddy|FW bear|FW at|CCA sinabing|VBTS ,|PMC "|PMS Nakatutuwa|RBD ang|DTC hitsura|NNC mo.|NNCA .|PMP
+Gusto|VBS mo|PRS bang|RBM lumipad|VBAF kasama|CCB ko|PRS ?|PMQ "|PMS
+Nagsimulang|VBTS_CCP tumakbo|VBAF paikot|JJD sa|CCT kuwarto|NNC si|DTP Billy|NNP hawak|JJD ang|DTC teddy|FW bear|FW na|CCP pinalilipad|VBTS niya|PRS nang|RBW pababa|JJD at|CCA pataas|JJD .|PMP "|PMS
+Wheee|NNP !|PMS "|PMS
+Sa|CCT salas|NNC ,|PMC nakaupo|VBTS si|DTP Cedric|NNP at|CCA ang|DTC kaniyang|PRSP_CCP Nanay|NNC habang|RBW nagbabasa|VBTR ng|CCB bagong|JJD_CCP aklat|NNC tungkol|RBR sa|CCT operasyon|NNC at|CCA panggagamot|NNC .|PMP
+Nais|VBS ni|DTP Cedric|NNP na|CCP maging|VBW isang|PRI_CCP dalubhasang|JJD_CCP doktor|NNC tulad|JJC ng|CCB kaniyang|PRSP_CCP Nanay|NNC .|PMP
+Bigla|RBD silang|PRP_CCP nakarinig|VBTS ng|CCB kalabog|NNC at|CCA sigaw|NNC mula|RBL sa|CCT kabilang|JJD_CCP kuwarto|NNC .|PMP
+Tumakbo|VBAF papalapit|JJD si|DTP Billy|NNP sa|CCT kanila|PRSP habang|RBW bitbit|JJD ang|DTC teddy|FW bear|FW ni|DTP Cedric|NNP .|PMP
+Malapit|JJD nang|RBW mapunit|VBW ang|DTC mga|DTCP braso|NNC ng|CCB teddy|FW bear|FW .|PMP "|PMS
+Nanay|NNP ,|PMC kailangang|VBS_CCP magamot|VBAF ang|DTC teddy|FW bear|FW !|PMS "|PMS
+sigaw|NNC ni|DTP Billy|NNP .|PMP "|PMS
+Anong|PRQ_CCP ginawa|VBTS mo|PRS kay|DTP Tintin|NNP ?|PMQ "|PMS
+tanong|NNC ni|DTP Cedric|NNP .|PMP "|PMS
+Huminahon|NNP ka|PRS Cedric|NNP ,|PMC "|PMS paalala|NNC ng|CCB kanilang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Ano|PRQ ba|RBI ang|DTC nangyari|VBTS Billy|NNP ?|PMQ "|PMS "|PMS
+Nasaktan|VBTS po|RBS siya|PRS .|PMP
+Naipit|VBTS ang|DTC kaniyang|PRSP_CCP braso|NNC sa|CCT aparador|NNC habang|RBW kami|PRP ay|LM lumilipad|VBTR_VBAF ,|PMC "|PMS sagot|NNC ni|DTP Billy|NNP .|PMP
+Dahan|NNP -|PMS dahang|NNC_CCP pinaupo|VBTS ng|CCB kanilang|PRSP_CCP Nanay|NNC ang|DTC teddy|FW bear|FW at|CCA sinimulang|RBD_CCP tingnan|VBOF ang|DTC sira|NNC nito|PRO .|PMP "|PMS
+Pakinggan|VBOF natin|PRP ang|DTC tibok|NNC ng|CCB puso|NNC niya|PRS !|PMQ
+Mukhang|RBM maayos|JJD naman|RBI .|PMP "|PMS
+sabi|VBS ng|CCB kanilang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Inay|NNP ,|PMC braso|NNC lang|RBI po|RBS niya|PRS ang|DTC nasaktan|VBTS ,|PMC bakit|PRQ po|RBS sinusuri|VBTR niyo|PRP lahat|PRI ?|PMQ "|PMS
+tanong|NNC ni|DTP Cedric|NNP .|PMP "|PMS
+Cedric|NNP ,|PMC kailangang|VBS_CCP tiyakin|VBOF ng|CCB isang|PRI_CCP doktor|NNC na|CCP maayos|JJD ang|DTC lahat|PRI ng|CCB bahagi|NNC ng|CCB katawan|NNC ng|CCB isang|PRI_CCP pasyente|NNC ,|PMC "|PMS paliwanag|NNC ng|CCB Nanay|NNC ni|DTP Cedric|NNP .|PMP "|PMS
+Sige|NNP po|RBS ,|PMC tingnan|VBOF din|RBI natin|PRP ang|DTC mga|DTCP mata|NNC niya|PRS ,|PMC "|PMS sagot|NNC ni|DTP Cedric|NNP .|PMP
+Natapos|VBTS ng|CCB mag|VBW -|PMS ina|NNC ang|DTC pagsusuri|NNC kay|DTP Tintin|NNP .|PMP
+Tumingin|VBAF si|DTP Cedric|NNP sa|CCT kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Mukhang|RBM nasaktan|VBTS po|RBS siya|PRS nang|RBW husto|JJD .|PMP
+Sa|CCT tingin|NNC ko|PRS po|RBS ,|PMC kailangan|VBS natin|PRP siyang|PRS_CCP operahan|VBOF .|PMP "|PMS
+sabi|VBS ni|DTP Cedric|NNP .|PMP "|PMS
+Tama|RBT ka|PRS Cedric|NNP ,|PMC "|PMS sagot|NNC ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP
+Kumuha|VBAF ang|DTC Nanay|NNC ni|DTP Cedric|NNP ng|CCB aklat|NNC tungkol|RBR sa|CCT pananahi|NNC .|PMP "|PMS
+Hindi|RBF ako|PRS sanay|JJD sa|CCT makabagong|JJD_CCP paraan|NNC ng|CCB operasyon|NNC na|CCP kailangan|VBS ni|DTP Tintin|NNP .|PMP
+Kailangan|VBS natin|PRP ng|CCB masusing|JJD_CCP pag|CCR -|PMS aaral|FW .|PMP "|PMS
+sabi|VBS ng|CCB kaniyang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Hindi|RBF mo|PRS po|RBS alam|VBS kung|RBK paano|RBQ siya|PRS gagamutin|VBTF ?|PMQ "|PMS
+nag|VBTS -|PMS aalalang|NNC_CCP tanong|NNC ni|DTP Cedric|NNP .|PMP "|PMS
+Gagamutin|NNP natin|PRP siya|PRS .|PMP
+Ibibigay|VBTF natin|PRP ang|DTC pinakamahusay|JJCS_JJD na|CCP pangangalaga|NNC .|PMP "|PMS
+Nakahinga|RBD nang|RBW maluwag|JJD si|DTP Cedric|NNP at|CCA sinabayan|VBTS niyang|PRS_CCP magbasa|VBAF ang|DTC kaniyang|PRSP_CCP Nanay|NNC .|PMP
+Pagkatapos|VBW mahanap|VBW ang|DTC tamang|JJD_CCP pamamaraan|NNC ng|CCB pag|CCR -|PMS oopera|NNC ,|PMC agad|RBD na|CCP naghanda|VBTS ang|DTC mag|VBW -|PMS ina|NNC .|PMP
+Iniayos|VBTS nila|PRP ang|DTC mga|DTCP gagamitin|VBTF sa|CCT operasyon|NNC tulad|JJC ng|CCB sinulid|NNC ,|PMC karayom|NNC ,|PMC gunting|NNC ,|PMC at|CCA ilaw|NNC .|PMP "|PMS
+Sa|CCT tingin|NNC ko|PRS ay|LM dapat|VBS ding|RBI_CCP tumulong|VBAF ang|DTC kapatid|NNC mo|PRS sa|CCT pag|CCR -|PMS opera|FW ,|PMC "|PMS ang|DTC sabi|VBS ng|CCB kanilang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Pero|CCT siya|PRS ang|DTC gumawa|VBAF nito|PRO kay|DTP Tintin|NNP !|PMS "|PMS
+pagtutol|NNC ni|DTP Cedric|NNP .|PMP "|PMS
+Oo|RBT ,|PMC pero|CCT nag|VBTS -|PMS aalala|NNC rin|RBI siya|PRS .|PMP
+Mas|JJCC mabuti|JJD na|CCP tumulong|VBAF siya|PRS para|CCT makita|VBW niya|PRS kung|RBK gaano|RBQ kahirap|JJD ang|DTC paggamot|NNC kay|DTP Tintin|NNP ,|PMC "|PMS sabi|VBS ng|CCB kanilang|PRSP_CCP Nanay|NNC .|PMP
+Hindi|RBF sang|DTC -|PMS ayon|RBR si|DTP Cedric|NNP sa|CCT sinabi|VBTS ng|CCB kaniyang|PRSP_CCP Nanay|NNC ,|PMC ngunit|CCT nais|VBS niya|PRS ang|DTC pinakamagandang|JJCS_JJD_CCP pag|CCR -|PMS aalaga|JJD para|CCT kay|DTP Tintin|NNP .|PMP
+Sinimulan|VBTS na|RBI ang|DTC operasyon|NNC .|PMP
+Iniabot|VBTS ni|DTP Billy|NNP kay|DTP Cedric|NNP ang|DTC karayom|NNC at|CCA sinulid|NNC .|PMP
+Maingat|RBD nilang|PRP_CCP isinuot|VBOF ang|DTC sinulid|NNC sa|CCT karayom|NNC at|CCA ang|DTC kanilang|PRSP_CCP Nanay|NNC ang|DTC nagsagawa|VBTS ng|CCB unang|JJN_CCP pagtahi|NNC .|PMP
+Napanood|VBTS ng|CCB magkapatid|NNC ang|DTC maingat|JJD at|CCA mahinahong|JJD_CCP pagtatahi|NNC ng|CCB kanilang|PRSP_CCP Nanay|NNC .|PMP
+Matapos|VBW gumawa|VBAF ng|CCB ilang|PRQ_CCP pang|RBI_CCP tahi|NNC ang|DTC kanilang|PRSP_CCP Nanay|NNC ,|PMC tinanong|VBOF niya|PRS si|DTP Cedric|NNP .|PMP "|PMS
+Gusto|VBS mo|PRS bang|RBM tapusin|VBOF ang|DTC operasyon|NNC ?|PMQ "|PMS "|PMS
+Opo|NNP ,|PMC "|PMS sagot|NNC ni|DTP Cedric|NNP .|PMP
+Maingat|RBD na|CCP kinuha|VBOF ni|DTP Cedric|NNP ang|DTC karayom|NNC mula|RBL sa|CCT kaniyang|PRSP_CCP Nanay|NNC .|PMP
+Ginawa|VBOF niya|PRS ang|DTC huling|JJD_CCP tahi|NNC ,|PMC at|CCA hinila|VBOF ang|DTC sinulid|NNC nang|RBW mahigpit|JJD .|PMP
+Pagkatapos|VBW ay|LM ibinalik|VBTS niya|PRS ang|DTC karayom|NNC sa|CCT kaniyang|PRSP_CCP Nanay|NNC upang|CCB tapusin|VBOF ang|DTC buhol|NNC .|PMP "|PMS
+At|CCA ...|PMS tapos|JJD na|CCP tayo|PRP !|PMS "|PMS
+ang|DTC sabi|VBS ng|CCB kanilang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Ito|PRO na|CCP Cedric|NNP ,|PMC maayos|JJD na|CCP ang|DTC braso|NNC ni|DTP Tintin|NNP .|PMP "|PMS "|PMS
+Kailangan|VBS po|RBS ba|RBI nating|PRP_CCP bantayan|VBOF si|DTP Tintin|NNP ?|PMQ
+tanong|NNC ni|DTP Cedric|NNP .|PMP
+Nabasa|VBTS ko|PRS po|RBS na|CCP importante|JJD ang|DTC pag|CCR -|PMS aalaga|JJD pagkatapos|VBW ng|CCB operasyon|NNC .|PMP "|PMS "|PMS
+Tama|RBT ka|PRS .|PMP
+Dapat|VBS masiguro|VBW natin|PRP na|CCP makapagpahinga|VBW siya|PRS nang|RBW mabuti|JJD at|CCA matiyak|JJD na|CCP matibay|JJD ang|DTC kaniyang|PRSP_CCP mga|DTCP tahi|NNC .|PMP "|PMS
+paliwanag|NNC ng|CCB kanilang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Naku|NNP ,|PMC salamat|RBS Nanay|NNC .|PMP
+Ikaw|NNP po|RBS ang|DTC pinakamagaling|JJCS_JJD na|CCP doktor|NNC sa|CCT mundo|NNC .|PMP "|PMS
+masayang|JJD_CCP sagot|NNC ni|DTP Cedric|NNP .|PMP "|PMS
+Iyan|VBTS_VBOF ang|DTC pinakamagandang|JJCS_JJD_CCP pakiramdam|NNC ng|CCB isang|PRI_CCP doktor|NNC ,|PMC "|PMS sabi|VBS ng|CCB kaniyang|PRSP_CCP Nanay|NNC .|PMP
+Habang|RBW inihihiga|VBTS ni|DTP Cedric|NNP si|DTP Tintin|NNP sa|CCT kaniyang|PRSP_CCP kama|NNC ,|PMC biglang|RBD_CCP pumasok|VBAF si|DTP Billy|NNP .|PMP "|PMS
+Dok|NNP Cedric|NNP ,|PMC may|VBH oras|NNC pa|RBI po|RBS ba|RBI kayo|PRP para|CCT tumingin|VBAF ng|CCB iba|PRI pang|RBI_CCP pasyente|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Billy|NNP .|PMP
+Generously|NNP supported|FW by|FW Smart|NNP Axiata|NNP

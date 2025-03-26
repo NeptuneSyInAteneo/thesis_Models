@@ -1,0 +1,17 @@
+Papuntang|RBL_CCP paaralanSa|JJD unang|JJN_CCP araw|NNC ng|CCB pasukan|NNC ,|PMC dala|JJD -|PMS dala|JJD ni|DTP Vanna|NNP ang|DTC kanyang|PRSP_CCP bag|NNC sa|CCT paaralan|NNC .|PMP
+Hinatid|VBOF ni|DTP Nanay|NNP si|DTP Vanna|NNP sa|CCT harap|NNC ng|CCB kanyang|PRSP_CCP silid|NNC -|PMS aralan|NNC .|PMP
+Ngumiti|VBAF ang|DTC guro|NNC kay|DTP Vanna|NNP .|PMP
+Pinaupo|VBOF ng|CCB guro|NNC si|DTP Vanna|NNP sa|CCT silid|NNC -|PMS aralan|NNC .|PMP
+Marami|PRI sa|CCT mga|DTCP kaibigan|NNC ni|DTP Vanna|NNP ay|LM kanyang|PRSP_CCP kaklase|JJD .|PMP
+Pinaupo|VBOF ng|CCB guro|NNC si|DTP Vanna|NNP malapit|JJD kay|DTP Bo|NNP .|PMP
+Inilibot|VBTS ng|CCB guro|NNC si|DTP Vanna|NNP at|CCA ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC sa|CCT paligid|NNC ng|CCB paaralan|NNC .|PMP
+Maraming|PRI_CCP pwedeng|RBT_CCP pag|CCR -|PMS laruan|NNC sa|CCT palaruan|NNC ng|CCB paaralan|NNC .|PMP
+Meron|VBH din|RBI hardin|NNC at|CCA poste|NNC ng|CCB bandila|NNC sa|CCT paaralan|NNC .|PMP
+May|VBH hugasan|VBOF ng|CCB kamay|NNC at|CCA banyo|NNC .|PMP
+Masayang|RBD_CCP naghuhugas|VBTR ng|CCB kamay|NNC si|DTP Vanna|NNP kasama|CCB ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Nakatanggap|VBTS ang|DTC storybook|FW na|CCP ito|PRO ng|CCB tulong|NNC ng|CCB People|NNP of|FW USA|NNPA sa|CCT pamamagitan|NNC ng|CCB USAID|NNPA .|PMP
+Lisensya|NNP :|PMS Creative|NNP Commons|NNP Attribution|NNP CC|NNPA BY|NNPA .|PMP
+IGO|NNPA Pagsasalin|NNP ng|CCB trabaho|NNC :|PMS Kung|CCR isasalin|VBOF ng|CCB mga|DTCP indibidwal|NNC o|CCT legal|JJD na|CCP entity|FW ang|DTC gawaing|NNC_CCP ito|PRO ,|PMC dapat|VBS mong|PRS_CCP banggitin|VBOF na|CCP ang|DTC pagsasalin|NNC ay|LM hindi|RBF isinasagawa|VBTR ng|CCB Room|NNP to|FW Read|NNP o|CCT USAID|NNPA at|CCA hindi|RBF itinuturing|VBTR na|CCP opisyal|JJD na|CCP pagsasalin|NNC ng|CCB Room|NNP to|FW Read|NNP o|CCT USAID|NNPA .|PMP
+Walang|VBN_CCP pananagutan|NNC ang|DTC Room|NNP to|FW Read|NNP o|CCT USAID|NNPA para|CCT sa|CCT nilalaman|NNC o|CCT mga|DTCP pagkakamali|NNC ng|CCB pagsasalin|NNC .|PMP
+Pag|CCR -|PMS amyenda|NNC ng|CCB trabaho|NNC :|PMS Kung|CCR ang|DTC mga|DTCP indibidwal|NNC o|CCT legal|JJD na|CCP entity|FW ay|LM gumawa|VBAF ng|CCB mga|DTCP pagbabago|NNC sa|CCT gawa|NNC ,|PMC ang|DTC pinagmulan|VBRF ay|LM dapat|VBS na|CCP sanggunian|NNC :|PMS ang|DTC gawaing|NNC_CCP ito|PRO ay|LM binago|VBOF mula|RBW sa|CCT orihinal|JJD na|CCP gawa|VBS ngRoom|FW to|FW Read|NNP at|CCA USAID|NNPA .|PMP
+Ang|DTC mga|DTCP pananaw|NNC at|CCA pananaw|NNC sa|CCT binagong|VBOF_CCP gawaing|NNC_CCP ito|PRO ay|LM ang|DTC tanging|JJD_CCP responsibilidad|NNC ng|CCB partidong|NNC_CCP gumagawa|VBTR_VBAF ng|CCB mga|DTCP pagbabago|NNC dahil|CCR ito|PRO ay|LM nasuri|VBTS ng|CCB Room|NNP to|FW Read|NNP at|CCA USAID|NNPA .|PMP

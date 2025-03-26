@@ -1,0 +1,34 @@
+Ito|PRO si|DTP Pusa|NNP .|PMP
+Ito|PRO si|DTP Aso|NNP .|PMP
+Sina|DTPP Pusa|NNP at|CCA Aso|NNP ay|LM gutom|NNC .|PMP
+Sina|DTPP Pusa|NNP at|CCA Aso|NNP ay|LM gustong|VBS_CCP kumain|VBAF .|PMP
+Gustong|VBS_CCP kumain|VBAF nina|DTPP Pusa|NNP at|CCA Aso|NNC ng|CCB kamote|NNC .|PMP
+At|CCA gusto|VBS din|RBI nila|PRP kumain|VBAF ng|CCB kamatis|NNC .|PMP
+At|CCA gusto|VBS din|RBI nila|PRP kumain|VBAF ng|CCB mais|NNC .|PMP
+Sina|DTPP Pusa|NNP at|CCA Aso|NNP ay|LM kumuha|VBAF ng|CCB tubig|NNC .|PMP
+Kumuha|VBAF sila|PRP ng|CCB tubig|NNC para|CCT lutuin|NNC ang|DTC kamote|NNC at|CCA kamatis|NNC at|CCA mais|NNC .|PMP
+Inilagay|VBTS nila|PRP Pusa|NNP at|CCA Aso|NNC ang|DTC tubig|NNC sa|CCT kalderong|NNC_CCP nakasalang|VBTS sa|CCT apoy|NNC ,|PMC at|CCA sila|PRP ay|LM naghintay|VBTS .|PMP
+Ngunit|CCT ...|PMS Tumakbo|VBAF palayo|RBD ang|DTC kamote|NNC !|PMS
+Uy|NNP !|PMS
+Uy|NNP !|PMS
+Hinabol|NNP nina|DTPP Pusa|NNP at|CCA Aso|NNC ang|DTC kamote|NNC .|PMP
+Takbo|NNC sila|PRP nang|RBW takbo|NNC .|PMP
+Ngunit|CCT hindi|RBF nila|PRP mahabol|VBW ang|DTC kamote|NNC .|PMP
+Sina|DTPP Pusa|NNP at|CCA Aso|NNP ay|LM umiyak|VBAF .|PMP
+Pagkatapos|VBW ,|PMC dumaan|VBAF si|DTP Elepante|NNP .|PMP
+Narinig|VBTS ni|DTP Elepante|NNP sina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+At|CCA nakita|VBTS ni|DTP Elepante|NNP ang|DTC tumatakbong|VBTR_CCP kamote|NNC .|PMP
+Kinuha|VBOF ng|CCB Elepante|NNP ang|DTC kamote|NNC .|PMP
+Kinuha|VBOF ng|CCB Elepante|NNP ang|DTC tumatakbong|VBTR_CCP kamote|NNC .|PMP
+Pagkatapos|VBW ...|PMS Si|DTP Elepante|NNP ay|LM nakakita|VBTS ng|CCB daga|NNC !|PMS
+Ang|DTC daga|NNC ay|LM nasa|RBL ilalim|JJD ng|CCB kamote|NNC .|PMP
+Gutom|NNP na|CCP ang|DTC daga|NNC .|PMP
+Gustong|VBS_CCP kumain|VBAF ng|CCB daga|NNC .|PMP
+Sina|DTPP Pusa|NNP ,|PMC Aso|NNC ,|PMC Elepante|NNP at|CCA Daga|NNP ay|LM naglakad|VBTS pabalik|RBD ng|CCB bahay|NNC .|PMP
+At|CCA sila|PRP ay|LM kumain|VBAF .|PMP
+Kinain|VBOF nina|DTPP Pusa|NNP ,|PMC Aso|NNC ,|PMC Elepante|NNP at|CCA Daga|NNP ang|DTC kamote|NNC .|PMP
+At|CCA kinain|VBOF din|RBI nila|PRP ang|DTC kamatis|NNC ,|PMC at|CCA ang|DTC mais|NNC .|PMP
+Paalam|NNP Pusa|NNP .|PMP
+Paalam|NNP Aso|NNP .|PMP
+Paalam|NNP Elepante|NNP .|PMP
+Paalam|NNP Daga|NNP .|PMP

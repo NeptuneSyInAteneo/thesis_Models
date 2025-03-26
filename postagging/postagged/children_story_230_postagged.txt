@@ -1,0 +1,43 @@
+Tuwang|NNP -|PMS tuwa|NNC sina|DTPP Nita|NNP at|CCA Panha|NNP .|PMP
+Ibinili|VBTS kasi|CCR sila|PRP ng|CCB kanilang|PRSP_CCP ama|NNC ng|CCB laruang|NNC_CCP bloke|NNC .|PMP
+Bilin|NNP ng|CCB Tatay|NNC nila|PRP ,|PMC na|CCP magsalo|VBTF sila|PRP sa|CCT paglalaro|NNC .|PMP
+Pero|CCT si|DTP Nita|NNP ,|PMC gusto|VBS lang|RBI niya|PRS maglaro|VBAF nang|CCB mag|VBW -|PMS isa|PRI .|PMP
+Naiinis|NNP daw|RBI kasi|CCR siya|PRS kay|DTP Panha|NNP .|PMP
+Bumuo|VBAF si|DTP Nita|NNP at|CCA Panha|NNP ng|CCB kotse|NNC .|PMP
+Nag|NNP -|PMS iisip|VBTF si|DTP Nita|NNP kung|CCR makakabuo|VBTF kaya|CCR siya|PRS ng|CCB eroplano|NNC .|PMP
+Nagulat|VBTS si|DTP Panha|NNP .|PMP "|PMS
+Bakit|PRQ mo|PRS sinira|VBOF ?|PMQ
+Nakabuo|VBTS na|CCP tayo|PRP ng|CCB kotse|NNC !|PMS "|PMS "|PMS
+Gusto|VBS kong|PRS_CCP bumuo|VBAF ng|CCB eroplano|NNC .|PMP
+Basta|NNP ,|PMC '|PMS wag|RBF mo|PRS na|RBI lang|RBI galawin|VBOF ,|PMC okey|NNC ?|PMQ
+At|CCA hayaan|VBOF mo|PRS na|RBI lang|RBI ako|PRS .|PMP "|PMS
+Napasimangot|VBTS si|DTP Panha|NNP ,|PMC "|PMS Pero|CCT gusto|VBS ko|PRS sanang|VBS_CCP tumulong|VBAF .|PMP "|PMS
+Dilat|JJD na|CCP dilat|NNC ang|DTC matang|NNC_CCP tiningnan|VBOF ni|DTP Nita|NNP ang|DTC kapatid|NNC .|PMP "|PMS
+Iwan|VBOF mo|PRS na|RBI lang|RBI sa|CCT akin|PRSP ito|PRO !|PMQ
+Maglaro|VBTF ka|PRS na|RBI lang|RBI mag|VBW -|PMS isa|PRI .|PMP "|PMS "|PMS
+Pero|CCT ,|PMC di|RBF ba|RBI binili|VBOF ni|DTP Tatay|NNP iyan|PRO para|CCT sa|CCT ating|PRSP_CCP dalawa|JJN ?|PMQ "|PMS
+Natakot|VBTS si|DTP Nita|NNP na|CCP baka|RBM sumigaw|VBAF si|DTP Panha|NNP kaya|CCR napabuntong|VBTS_CCP -|PMS hininga|NNC na|CCP lamang|RBI siya|PRS .|PMP "|PMS
+Sige|NNP ,|PMC kung|CCR gusto|VBS mo|PRS ,|PMC ikaw|PRS na|RBI lang|RBI ang|DTC maglaro|VBAF nito|PRO pero|CCT dapat|VBS makabuo|VBW ka|PRS ng|CCB eroplano|NNC ha|NNCA ?|PMQ "|PMS
+Mabagal|JJD si|DTP Panha|NNP at|CCA nainis|VBTS na|CCP si|DTP Nita|NNP :|PMS "|PMS Napakabagal|JJCS_JJD mo|PRS ,|PMC ako|PRS na|CCP nga|RBI lang|RBI ang|DTC gagawa|VBTF !|PMQ "|PMS "|PMS
+Bakit|PRQ mo|PRS sinira|VBOF ulit|RBW ?|PMQ "|PMS
+Tanong|NNC ni|DTP Panha|NNP .|PMP
+Sumagot|VBAF si|DTP Nita|NNP ,|PMC "|PMS Huwag|RBF mo|PRS na|CCP akong|PRS_CCP abalahin|VBOF !|PMQ
+Ako|PRS na|RBI lang|RBI ang|DTC gagawa|VBTF !|PMS "|PMS
+Ngunit|CCT sumagot|VBAF din|RBI si|DTP Panha|NNP .|PMP "|PMS
+Gusto|VBS ko|PRS din|RBI magbuo|VBW .|PMP
+Maari|VBS bang|RBM magtulungan|VBW na|RBI lang|RBI tayo|PRP ?|PMQ "|PMS
+Hindi|RBF pinansin|VBOF ni|DTP Nita|NNP ang|DTC kapatid|NNC .|PMP
+Pinulot|VBOF ni|DTP Nita|NNP ang|DTC ilang|PRQ_CCP mga|DTCP bloke|NNC at|CCA lumayo|VBAF .|PMP
+Ngunit|CCT hindi|RBF siya|PRS makabuo|VBW ng|CCB eroplano|NNC dahil|CCR kulang|JJD ang|DTC mga|DTCP piraso|NNC .|PMP
+Nagsimulang|VBTS_CCP mag|VBW -|PMS isip|NNC si|DTP Nita|NNP ...|PMS Hindi|RBF pa|RBI rin|RBI niya|PRS mabuo|VBW ang|DTC ginagawa|VBTR .|PMP
+Naiinis|VBTS siyang|PRS_CCP sumigaw|VBAF :|PMS "|PMS Bakit|PRQ hindi|RBF pa|RBI rin|RBI ito|PRO mukhang|RBM eroplano|NNC ?!|PMS "|PMS
+Lumingon|VBAF si|DTP Nita|NNP at|CCA nakita|VBTS si|DTP Panha|NNP na|CCP inaayos|VBTR ang|DTC mga|DTCP bloke|NNC ng|CCB mag|VBW -|PMS isa|PRI .|PMP
+May|VBH naisip|VBTS si|DTP Nita|NNP .|PMP
+Muli|RBW siyang|PRS_CCP nagsimula|VBTS sa|CCT pag|CCR -|PMS aayos|NNC .|PMP
+Mabilis|RBD siyang|PRS_CCP kumilos|VBAF !|PMQ
+Lumapit|VBAF si|DTP Panha|NNP at|CCA tinulungan|VBOF siyang|PRS_CCP ayusin|VBOF ang|DTC mga|DTCP bloke|NNC .|PMP
+Ngumiti|VBAF si|DTP Nita|NNP sa|CCT kapatid|NNC .|PMP "|PMS
+Yehey|NNP !|PMS
+Nagawa|VBTS natin|PRP ,|PMC Panha|NNP !|PMS
+Nabuo|VBTS nating|PRP_CCP dalawa|JJN !|PMS "|PMS
+Booklab|NNP suportado|JJD ng|CCB Smart|NNP Axiata|NNP

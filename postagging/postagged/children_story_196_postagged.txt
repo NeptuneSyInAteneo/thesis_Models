@@ -1,0 +1,48 @@
+Gising|NNP Ginoong|NNP Spout|NNP !|PMS
+Paparating|VBTF na|RBI ang|DTC mga|DTCP tao|NNC .|PMP
+Kailangan|VBS nila|PRP ng|CCB tubig|NNC .|PMP "|PMS
+Ginoong|NNP_CCP Spout|NNP ,|PMC maaari|VBS bang|RBM makahingi|VBW ng|CCB tubig|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB matandang|JJD_CCP babae|NNC .|PMP "|PMS
+Opo|NNP !|PMS
+Ilalagay|VBTF ko|PRS ito|PRO sa|CCT inyong|PRSP_CCP pitsel|NNC .|PMP "|PMS "|PMS
+Salamat|RBS .|PMP
+Maaari|VBS na|CCP akong|PRS_CCP makapagdasal|VBW ngayong|RBW_CCP umaga|RBW .|PMP "|PMS
+May|VBH isa|PRI pang|RBI_CCP dumating|VBAF na|CCP may|VBH dalang|JJD_CCP lalagyan|NNC .|PMP "|PMS
+Ginoong|NNP_CCP Spout|NNP ,|PMC maaari|VBS bang|RBM makahingi|VBW ng|CCB tubig|NNC ?|PMQ "|PMS "|PMS
+Sige|RBT kumuha|VBAF ka|PRS ng|CCB kailangan|VBS mo|PRS !|PMQ "|PMS "|PMS
+Salamat|RBS .|PMP
+Maaari|VBS na|CCP akong|PRS_CCP makapagluto|VBW ng|CCB almusal|FW .|PMP "|PMS "|PMS
+Tingnan|VBOF niyo|PRP !|PMQ
+May|VBH isang|PRI_CCP pamilyang|NNC_CCP dumating|VBAF na|CCP sakay|NNC ng|CCB motorsiklo|NNC .|PMP "|PMS
+Ginoong|NNP_CCP Spout|NNP ,|PMC maaari|VBS po|RBS bang|RBM makahingi|VBW ng|CCB tubig|NNC ?|PMQ "|PMS "|PMS
+Ibigay|VBOF mo|PRS sa|CCT akin|PRSP at|CCA pupunuin|VBOF ko|PRS ang|DTC iyong|PRSP_CCP timba|FW !|PMS "|PMS "|PMS
+Maraming|PRI_CCP salamat|RBS .|PMP
+Ngayon|RBW maaari|VBS ko|PRS nang|RBW linisin|VBOF ang|DTC aking|PRSP_CCP motorsiklo|NNC .|PMP "|PMS "|PMS
+Ginoong|NNP_CCP Spout|NNP ,|PMC maaari|VBS ba|RBI akong|PRS_CCP makahingi|VBW ng|CCB tubig|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB nanay|NNC .|PMP
+Si|DTP Ginoong|NNP Spout|NNP ay|LM masayang|JJD_CCP makatulong|VBW .|PMP "|PMS
+Sige|NNP po|RBS ,|PMC pupunuin|VBOF ko|PRS ang|DTC inyong|PRSP_CCP batya|NNC .|PMP "|PMS "|PMS
+Maraming|PRI_CCP salamat|RBS .|PMP
+Ngayon|RBW ay|LM makapaglalaba|VBW na|CCP ako|PRS ng|CCB aking|PRSP_CCP mga|DTCP damit|NNC .|PMP "|PMS
+Ilang|PRQ_CCP sandali|RBW pa|RBI ,|PMC dumating|VBAF ang|DTC isang|PRI_CCP pintor|NNC .|PMP "|PMS
+Ginoong|NNP_CCP Spout|NNP ,|PMC maaari|VBS ba|RBI akong|PRS_CCP makahingi|VBW ng|CCB tubig|NNC ?|PMQ "|PMS
+Puwede|RBT mong|PRS_CCP lagyan|VBOF ang|DTC tasa|NNC mo|PRS rito|PRL ,|PMC "|PMS sabi|VBS ni|DTP Ginoong|NNP Spout|NNP .|PMP "|PMS
+Salamat|RBS po|RBS .|PMP
+Ngayon|RBW ay|LM malilinis|VBTF ko|PRS na|CCP ang|DTC aking|PRSP_CCP pinsel|NNC .|PMP "|PMS "|PMS
+Ginoong|NNP_CCP Spout|NNP ,|PMC maaari|VBS ba|RBI akong|PRS_CCP makahingi|VBW ng|CCB tubig|NNC ?|PMQ
+tanong|NNC ng|CCB hardinero|NNC .|PMP "|PMS
+Ilalagay|VBTF ko|PRS ito|PRO sa|CCT iyong|PRSP_CCP pandilig|JJD .|PMP "|PMS "|PMS
+Salamat|RBS po|RBS ,|PMC ngayon|RBW ay|LM madidiligan|VBW ko|PRS na|CCP ang|DTC mga|DTCP halaman|NNC .|PMP "|PMS "|PMS
+Ginoong|NNP_CCP Spout|NNP ,|PMC maaari|VBS ba|RBI kaming|PRP_CCP makahingi|VBW ng|CCB tubig|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB mga|DTCP bata|NNC .|PMP "|PMS
+Marami|PRI na|CCP akong|PRS_CCP nagawang|VBTS_CCP trabaho|NNC ,|PMC ngunit|CCT narito|PRL ang|DTC tubig|NNC para|CCT sa|CCT inyong|PRSP_CCP mga|DTCP timba|FW .|PMP "|PMS "|PMS
+Maraming|PRI_CCP salamat|RBS po|RBS !|PMQ
+Ngayon|RBW maaari|VBS na|CCP kaming|PRP_CCP maging|VBW malinis|JJD .|PMP "|PMS
+Ang|DTC uhaw|JJD na|CCP aso|NNC ay|LM nakiusap|VBTS muli|RBW ,|PMC "|PMS Ginoong|NNP_CCP Spout|NNP ,|PMC maaari|VBS bang|RBM bigyan|VBOF mo|PRS ako|PRS ng|CCB tubig|NNC ?|PMQ "|PMS "|PMS
+Heto|NNP ,|PMC uminom|VBAF ka|PRS .|PMP
+Malapit|JJD na|CCP ako|PRS matapos|VBW kung|CCR kaya|CCR '|PMS t|NNCA pakibilisan|NNC mo|PRS lamang|RBI .|PMP "|PMS "|PMS
+Maraming|PRI_CCP salamat|RBS ,|PMC bumuti|VBAF na|RBI ang|DTC aking|PRSP_CCP pakiramdam|NNC .|PMP "|PMS "|PMS
+Salamat|RBS at|CCA sa|CCT wakas|RBW ,|PMC natapos|VBTS din|RBI ang|DTC araw|NNC .|PMP
+Wala|VBN nang|RBW nangangailangan|VBTR ng|CCB tubig|NNC .|PMP
+Oras|NNP na|CCP para|CCT matulog|VBW ,|PMC Ginoong|NNP_CCP Spout|NNP .|PMP
+Bukas|JJD ay|LM isang|PRI_CCP abalang|JJD_CCP araw|NNC na|CCP naman|RBI ang|DTC naghihintay|VBTR !|PMQ

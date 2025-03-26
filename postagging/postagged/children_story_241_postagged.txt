@@ -1,0 +1,13 @@
+Tinago|VBTS ni|DTP Sokha|NNP ang|DTC shampoo|NNC sa|CCT isang|PRI_CCP istante|NNC .|PMP
+Hinahanap|VBTR ng|CCB kanyang|PRSP_CCP tatay|NNC ang|DTC shampoo|NNC .|PMP
+Tinago|VBTS ni|DTP Sokha|NNP ang|DTC pantalon|NNC ng|CCB kanyang|PRSP_CCP Tatay|NNC sa|CCT isang|PRI_CCP upuan|NNC .|PMP
+Hinahanap|VBTR ni|DTP Tatay|NNP ang|DTC kanyang|PRSP_CCP pantalon|NNC .|PMP
+Itinago|VBTS ni|DTP Sokha|NNP ang|DTC sombrero|NNC ng|CCB kanyang|PRSP_CCP ama|NNC sa|CCT isang|PRI_CCP istante|NNC .|PMP
+Hinahanap|VBTR ni|DTP Tatay|NNP ang|DTC kaniyang|PRSP_CCP sumbrero|NNC .|PMP
+Sabi|VBS ni|DTP Tatay|NNP :|PMS "|PMS Pakibalik|VBW sa|CCT akin|PRSP ang|DTC aking|PRSP_CCP shampoo|NNC ,|PMC pantalon|NNC ,|PMC at|CCA sombrero|NNC .|PMP "|PMS
+Pinuri|VBOF ni|DTP Tatay|NNP si|DTP Sokha|NNP .|PMP
+Ano|PRQ ang|DTC hinahanap|VBTR ni|DTP Tatay|NNP ?|PMQ
+Saan|PRQ itinago|VBTS ni|DTP Sokha|NNP ang|DTC shampoo|FW ?|PMQ
+Alam|VBS mo|PRS ba|RBI kung|RBK bakit|RBQ pinupuri|VBTR ni|DTP Tatay|NNP si|DTP Sokha|NNP ?|PMQ
+May|VBH kinuha|VBOF ka|PRS ba|RBI sa|CCT iba|PRI para|CCT itago|VBOF ?|PMQ
+Saan|PRQ mo|PRS itinago|VBTS ang|DTC mga|DTCP bagay|NNC na|CCP iyon|PRO ?|PMQ

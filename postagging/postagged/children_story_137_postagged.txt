@@ -1,0 +1,21 @@
+Ito|PRO si|DTP Samuel|NNP ,|PMC ang|DTC anak|NNC na|CCP lalaki|NNC .|PMP
+Ito|PRO si|DTP Sofia|NNP ,|PMC ang|DTC kaniyang|PRSP_CCP ina|NNC .|PMP
+Naglalakad|VBTR sila|PRP sa|CCT hardin|NNC .|PMP
+Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC mga|DTCP puno|NNC ng|CCB Kalachuchi|NNP ?|PMQ
+Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC mga|DTCP puno|NNC ng|CCB Kalachuchi|NNP .|PMP
+Binilang|VBTS ni|DTP Samuel|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ina|NNC ang|DTC mga|DTCP puno|NNC ng|CCB Kalachuchi|NNP :|PMS isa|PRI ,|PMC dalawa|CDB .|PMP
+Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC mga|DTCP ibon|NNC ?|PMQ
+Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC mga|DTCP ibon|NNC .|PMP
+Binilang|VBTS ni|DTP Samuel|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ina|NNC ang|DTC mga|DTCP ibon|NNC :|PMS isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB .|PMP
+Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC mga|DTCP paruparo|NNC ?|PMQ
+Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC mga|DTCP paruparo|NNC .|PMP
+Binilang|VBTS ni|DTP Samuel|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ina|NNC ang|DTC mga|DTCP paruparo|NNC :|PMS isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB ,|PMC apat|CDB .|PMP
+Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC mga|DTCP bag|NNC na|CCP plastik|JJD ?|PMQ
+Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC mga|DTCP bag|NNC na|CCP plastik|JJD .|PMP
+Binilang|VBTS ni|DTP Samuel|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ina|NNC ang|DTC mga|DTCP bag|NNC na|CCP plastik|JJD :|PMS isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB ,|PMC apat|CDB ,|PMC lima|CDB .|PMP
+Nakikita|VBTR ba|RBI ni|DTP Samuel|NNP ang|DTC basurahan|NNC ?|PMQ
+Nakikita|VBTR ni|DTP Samuel|NNP ang|DTC basurahan|NNC .|PMP
+Pinulot|VBOF ni|DTP Samuel|NNP ang|DTC mga|DTCP bag|NNC na|CCP plastik|JJD upang|CCB ilagay|VBOF sa|CCT basurahan|NNC .|PMP
+Naging|VBTS maganda|JJD ang|DTC karanasan|NNC ni|DTP Samuel|NNP sa|CCT pamamasyal|NNC sa|CCT hardin|NNC kasama|CCB ang|DTC kaniyang|PRSP_CCP ina|NNC .|PMP
+Natuto|VBTS siyang|PRS_CCP magbilang|VBAF at|CCA nakatulong|VBTS pa|RBI na|CCP maging|VBW malinis|JJD ang|DTC kapaligiran|NNC .|PMP
+Signer|NNP :|PMS Kumar|NNP Regmi|NNP .|PMP

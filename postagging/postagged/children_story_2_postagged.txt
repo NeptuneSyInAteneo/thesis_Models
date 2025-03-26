@@ -1,54 +1,23 @@
-Alitaptap|NNP ,|PMC Alitaptap|NNP !|PMS
-Halina|NNP !|PMS
-Halina|NNP !|PMS
-Katulad|JJC ng|CCB mga|DTCP matang|NNC_CCP kumikindat|VBTR !|PMQ
-Halina|NNP '|PMS t|FW kumislap|FW !|PMS
-Sa|CCT dilim!Alitaptap|NNP !|PMS
-Alitaptap|NNP !|PMS
-Halina|NNP ,|PMC halina|NNC !|PMS
-Ang|DTC araw|NNC ay|LM sisikat|VBTF .|PMP
-Darating|VBTF ang|DTC umaga|NNC .|PMP
-Halina|NNP '|PMS t|NNCA sabihin|VBOF Huwag|RBF matakot|VBW sa|CCT dilim|NNC !|PMS
-Alitaptap|NNP !|PMS
-Alitaptap|NNP !|PMS
-Halina|NNP !|PMS
-Halina!Halina|NNP '|PMS t|NNCA kami|PRP ay|LM aliwinNabalot|NNC ng|CCB dilim|NNC .|PMP
-Mga|DTCP matang|NNC_CCP malungkot|JJD at|CCA luhaan|JJD .|PMP
-Alitaptap|NNP !|PMS
-Alitaptap|NNP !|PMS
-Halina|NNP !|PMS
-Halina!Katulad|NNP ng|CCB isang|PRI_CCP pilyong|JJD_CCP bata|NNC .|PMP
-Halina|NNP '|PMS t|NNCA tuksuhin|VBOF .|PMP
-Ang|DTC bruha|NNC sa|CCT dilim|NNC .|PMP
-Alitaptap|NNP !|PMS
-Alitaptap|NNP !|PMS
-Halina|NNP !|PMS
-Halina!Manukso|NNP nang|RBW manukso|VBW !|PMQ
-Hanggang|RBW sa|CCT mahilo|VBW nang|RBW mahilo!Manukso|VBW nang|RBW manukso|VBW !|PMQ
-Hanggang|RBW sa|CCT mahilo|VBW nang|RBW mahilo!Hilahin|VBW pababa|JJD ang|DTC elepante|NNC .|PMP
-Tulad|JJC ng|CCB isang|PRI_CCP anay|NNC .|PMP
-Alitaptap|NNP !|PMS
-Alitaptap|NNP !|PMS
-Halina|NNP !|PMS
-Halina!Kasama|NNP ang|DTC araw|NNC Ang|DTC gintong|JJD_CCP pintuan|NNC Marahan|JJD at|CCA banayad|JJD Halina|NNP at|CCA buksan|VBOF !|PMS
-Alitaptap|NNP !|PMS
-Alitaptap|NNP !|PMS
-Halina|NNP !|PMS
-Halina!Alitaptap|NNP !|PMS
-Alitaptap|NNP !|PMS
-Halina|NNP !|PMS
-Halina|NNP !|PMS
-Alitaptap|NNP !|PMS
-Alitaptap|NNP !|PMS
-Halina|NNP !|PMS
-Halina!Ang|NNP May|NNP Akda|NNP Si|DTP Durga|NNP Lal|NNP Shrestha|NNP ay|LM isang|PRI_CCP tanyag|JJD na|CCP makata|NNC mula|RBL sa|CCT Nepal|NNP Bhasa|NNP at|CCA Nepali|NNP .|PMP
-Bilang|CCT isang|PRI_CCP guro|NNC sa|CCT Nepal|NNP Bhasa|NNP sa|CCT Kanya|NNP Mandir|NNP Higher|NNP Secondary|NNP School|NNP noong|RBW_CCP dekada|NNC singkwenta|JJN hanggang|RBW dekada|NNC sitenta|NNC ,|PMC gumagawa|VBTR_VBAF siya|PRS ng|CCB mga|DTCP kanta|NNC upang|CCB makakuha|VBW ng|CCB inspirasyon|NNC ang|DTC mga|DTCP bata|NNC na|CCP maipahayag|VBW ang|DTC kanilang|PRSP_CCP mga|DTCP sarili|NNC sa|CCT kanilang|PRSP_CCP sariling|JJD_CCP salita|NNC .|PMP
-Ang|DTC kaniyang|PRSP_CCP mga|DTCP kanta|NNC ay|LM nakilala|VBTS sa|CCT buong|PRI_CCP Kathmandu|NNP Valley|NNP at|CCA ang|DTC mga|DTCP koleksyon|NNC ng|CCB mga|DTCP kantang|NNC_CCP pambata|JJD ay|LM umabot|VBAF hanggangikalabintatlong|NNC_CCP imprenta|JJD at|CCA patuloy|JJD pa|RBI din|RBI hanggang|RBW sa|CCT ngayon|RBW .|PMP
-Tungkol|RBR sa|CCT Ilustrador|NNP Si|DTP Mrigaja|NNP Bajracharya|NNP ay|LM isang|PRI_CCP independiyenteng|JJD_CCP ilustrador|NNC na|CCP nagtapos|VBTS ng|CCB BFA|NNPA sa|CCT Studio|NNP Art|NNP sa|CCT Centre|NNP for|FW Art|NNP and|FW Design|NNP ng|CCB Kathmandu|NNP University|NNP .|PMP
-Siya|PRS ay|LM nailathala|VBTS ng|CCB mga|DTCP organisasyon|NNC tulad|JJC ng|CCB Room|NNP to|FW Read|NNP at|CCA UNICEF|NNPA .|PMP
-Ang|DTC kaniyang|PRSP_CCP mga|DTCP personal|JJD na|CCP guhit|NNC na|CCP kadalasan|RBW ay|LM mga|DTCP likha|NNC gawa|VBS sa|CCT bolpen|NNC at|CCA tinta|NNC ay|LM nagpapakita|VBTR ng|CCB kaniyang|PRSP_CCP mga|DTCP pananaw|NNC sa|CCT mundo|NNC at|CCA tumutuklas|VBTR_VBAF sa|CCT kamatayan|NNC at|CCA ang|DTC pagiging|VBTR pansamantala|JJD ng|CCB buhay|NNC .|PMP
-Pagkilala|NNP Una|CDB sa|CCT lahat|PRI kami|PRP ay|LM lubos|JJCS na|CCP nagpapasalamat|VBTR sa|CCT pagiging|VBTR bukas|JJD palad|NNC ni|DTP Durga|NNP Lal|NNP Shrestha|NNP sa|CCT lubos|JJCS na|CCP pagtanggap|NNC ng|CCB proyektong|NNC_CCP ito|PRO .|PMP
-Isa|PRI siyang|PRS_CCP inspirasyon|NNC para|CCT sa|CCT susunod|VBTF na|CCP henerasyon|NNC na|CCP may|VBH malikhaing|JJD_CCP imahinasyon|NNC .|PMP
-Pasasalamat|NNP din|RBI sa|CCT ilustrador|NNC na|CCP si|DTP Amber|NNP Delaheya|NNP mula|RBL sa|CCT Stichting|NNC_CCP Thang|NNC na|CCP siyang|PRS_CCP humawak|VBAF ng|CCB illustration|FW workshops|FW .|PMP
-At|CCA higit|JJCC sa|CCT lahat|PRI ,|PMC angakdang|NNC_CCP ito|PRO ay|LM hindi|RBF magagawa|VBTF kung|CCR wala|VBN sina|DTPP Suman|NNP at|CCA Suchita|NNP Shrestha|NNP ,|PMC na|CCP mga|DTCP anak|NNC ni|DTP Durga|NNP Lal|NNP Shrestha|NNP 's|FW at|CCA ang|DTC kaniyang|PRSP_CCP kabiyak|NNC ,|PMC Purnadevi|NNP Shrestha|NNP na|CCP palagi|RBD niyang|PRS_CCP karamay|NNC .|PMP
-Management|NNP Division|NNP (|PMS CLMD|NNPA )|PMS .|PMP
+Sa|CCT unang|JJN_CCP pagkakataon|NNC ,|PMC si|DTP Maaloo|NNP ay|LM nangongolekta|VBTR ng|CCB mga|DTCP gulay|NNC mula|RBL sa|CCT hardin|NNC .|PMP
+Nakolekta|VBTS niya|PRS ang|DTC mga|DTCP pulang|JJD_CCP kamatis|NNC ,|PMC sariwang|JJD_CCP talong|JJN_CCP at|CCA mga|DTCP okra|NNC .|PMP "|PMS
+Magaling|JJD ,|PMC Maaloo|NNP !|PMS "|PMS
+,|PMC puri|NNC ng|CCB kanyang|PRSP_CCP Ina|NNC nang|RBW ipakita|VBOF nya|PRS dito|PRL ang|DTC kanyang|PRSP_CCP mga|DTCP na|CCP -|PMS ani|NNC .|PMP "|PMS
+Maaari|VBS bang|RBI_CCP kumuha|VBAF ka|PRS na|CCP din|RBI ng|CCB patatas|NNC ,|PMC anak|NNC .|PMP "|PMS
+dagdag|CCU nito|PRO .|PMP
+Naghanap|VBTS si|DTP Maaloo|NNP sa|CCT mga|DTCP puno|NNC ,|PMC kalabasa|NNC at|CCA mga|DTCP pananim|NNC .|PMP
+Walang|VBN_CCP ni|DTP isang|PRI_CCP patatas|NNC siyang|PRS_CCP nakita|VBTS .|PMP "|PMS
+Dadi|NNP ,|PMC ang|DTC mga|DTCP patatas|NNC ay|LM hindi|RBF pa|RBI handa|JJD ,|PMC "|PMS sabi|VBS ni|DTP Maaloo|NNP ,|PMC ibinaba|VBTS niya|PRS ang|DTC walang|VBN_CCP laman|NNC na|CCP basket|FW .|PMP "|PMS
+Hindi|RBF Maaloo|RBT ,|PMC maraming|PRI_CCP patatas|NNC roon|PRL ,|PMC tignan|VBOF mong|PRS_CCP maigi|JJD "|PMS ,|PMC sabi|VBS ni|DTP Dadi|NNP .|PMP
+Pumunta|VBAF ulit|RBW si|DTP Maaloo|NNP sa|CCT hardin|NNC .|PMP
+Sinundan|VBTS siya|PRS ni|DTP Kaaloo|NNP .|PMP
+Patuloy|RBD na|CCP naghanap|VBTS ng|CCB patatas|NNC si|DTP Maaloo|NNP ng|CCB may|VBH bigla|NNC siyang|PRS_CCP narinig|VBTS ,|PMC "|PMS Woof|FW !|PMS
+Woof|NNP !|PMS "|PMS "|PMS
+Kaaloo|NNP !|PMS
+Tumigil|VBAF ka|PRS ,|PMC Kaaloo|NNP !|PMS "|PMS
+sigaw|NNC ni|DTP Maaloo|NNP ,|PMC tumatakbo|VBTR_VBAF sa|CCT likuran|NNC niya|PRS .|PMP "|PMS
+Huwag|RBF mong|PRS_CCP sirain|VBTS_VBOF ang|DTC hardin|NNC .|PMP "|PMS
+Nakita|VBTS ni|DTP Maaloo|NNP na|CCP naghuhukay|VBTS si|DTP Kaaloo|NNP at|CCA ano|PRQ sa|CCT palagay|NNC mo|PRS ang|DTC lalabas|VBTF mula|RBL sa|CCT putik|NNC ?|PMQ
+Malaking|JJD_CCP patatas|NNC !|PMS "|PMS
+Mahusay|JJD ,|PMC Kaaloo|NNP !|PMS
+Nahanap|VBTS mo|PRS ang|DTC mga|DTCP tanim|NNC na|CCP patatas|NNC !|PMS "|PMS
+puri|NNC nito|PRO sa|CCT alagang|NNC_CCP aso|NNC habang|RBW pinupuno|VBTR ang|DTC kanyang|PRSP_CCP dalang|JJD_CCP buslo|NNC ng|CCB mga|DTCP malalaki|JJD at|CCA sariwang|JJD_CCP mga|DTCP patatas|NNC .|PMP

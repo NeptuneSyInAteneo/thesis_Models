@@ -1,0 +1,17 @@
+Mahilig|JJD si|DTP Bunty|NNP makipaglaro|VBW sa|CCT mga|DTCP paru|FW -|PMS paro|FW .....|FW .|PMP
+at|CCA sa|CCT mga|DTCP ibonMahilig|VBTS_VBOF siyang|PRS_CCP maglaro|VBAF ng|CCB mga|DTCP bangkang|NNC_CCP papel|NNC .|PMP
+Gusto|VBS rin|RBI niyang|PRS_CCP gumawa|VBAF ng|CCB kastilyo|NNC sa|CCT buhangin|NNC .|PMP
+Nang|RBW bumalik|VBAF ng|CCB bahay|NNC si|DTP Bunty|NNP ,|PMC inutusan|VBOF siya|PRS ng|CCB kaniyang|PRSP_CCP ina|NNC na|CCP maglinis|VBW ng|CCB katawan|NNC subalit|CCT siya|PRS ay|LM tumanggi|VBAF .|PMP "|PMS
+Ayoko|NNP ng|CCB sabon|NNC !|PMS "|PMS
+sigaw|NNC niya|PRS .|PMP
+Isang|PRI_CCP gabi|RBW ,|PMC nanaginip|VBTR siya|PRS .|PMP
+Napalilibutan|VBTS ng|CCB mikrobyo|NNC ang|DTC kaniyang|PRSP_CCP kastilyo|NNC at|CCA nilulusob|VBTS siya|PRS .|PMP
+Hinabol|VBOF ng|CCB mikrobyo|NNC si|DTP Bunty|NNP .|PMP
+Patakbo|RBD siyang|PRS_CCP sumisigaw|VBTR_VBAF para|CCT iligtas|VBOF ang|DTC sarili|NNC .|PMP "|PMS
+Tulong|NNC ...|PMS Tulong|NNC !|PMS "|PMS
+Biglang|RBD_CCP lumitaw|VBAF ang|DTC Haring|NNP_CCP Sabon|NNC na|CCP si|DTP Bubbly|NNP .|PMP "|PMS
+Bunty|NNP ,|PMC huwag|RBF kang|PRS_CCP matakot|VBW ,|PMC "|PMS wika|NNC niya|PRS .|PMP "|PMS
+Sugurin|VBOF ang|DTC mga|DTCP mikrobyo|NNC !|PMS "|PMS
+utos|NNC ng|CCB Haring|NNP_CCP Sabon|NNC sa|CCT kaniyang|PRSP_CCP hukbong|NNC_CCP bula|NNC .|PMP
+Hinabol|VBOF ng|CCB hukbong|NNC_CCP bula|NNC ang|DTC mga|DTCP mikrobyo|NNC palayo|RBD .|PMP
+Sa|CCT ngayon|RBW ,|PMC gusto|VBS na|RBI ni|DTP Bunty|NNP na|CCP gumamit|VBAF ng|CCB sabon|NNC at|CCA kinukuskos|VBTR nang|RBD mabuti|RBD ang|DTC kaniyang|PRSP_CCP sarili|NNC .|PMP

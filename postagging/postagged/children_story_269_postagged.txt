@@ -1,0 +1,29 @@
+Sa|CCT aming|PRSP_CCP paglalakad|NNC sa|CCT isang|PRI_CCP mahabang|JJD_CCP daan|NNC ,|PMC at|CCA sabay|RBD na|CCP umaawit|VBTR_VBAF .|PMP
+Ako|PRS ay|LM kasama|CCB mo|PRS at|CCA ikaw|PRS ay|LM kassma|VBOF ko|PRS .|PMP
+Ang|DTC paglalakbay|NNC ay|LM masaya|JJD kasama|CCB ang|DTC pamilya|NNC .|PMP
+Gagawin|VBTF kong|PRS_CCP ikaw|PRS ay|LM nasa|RBL maayos|JJD katulad|JJC ng|CCB sa|CCT isang|PRI_CCP inahing|JJD_CCP manok|NNC .|PMP
+Ang|DTC kanyang|PRSP_CCP mga|DTCP sisiw|NNC ay|LM nasa|RBL ilalim|JJD ng|CCB kanyang|PRSP_CCP pakpak|NNC .|PMP
+Kapag|CCR ang|DTC ulan|NNC ay|LM nagsimula|VBTS ng|CCB bumuhos|VBAF mula|RBL sa|CCT langit|NNC ,|PMC katulad|JJC ng|CCB isang|PRI_CCP sumbrero|NNC ang|DTC iyong|PRSP_CCP mukha|NNC ay|LM hindi|RBF mababasa|VBTF .|PMP
+Kung|CCR ang|DTC bagyo|NNC ay|LM nangangalit|VBTR ,|PMC maging|VBW matapang|JJD ,|PMC bakit|PRQ ka|PRS iiyak|VBTF ?|PMQ
+Hindi|RBF ka|PRS nag|VBTS -|PMS iisa|JJD .|PMP
+Tayo|PRS ay|LM magkasamang|RBD_CCP naglalakad|VBTR at|CCA hindi|RBF tayo|PRP maiinip|VBW .|PMP
+Tumingin|VBTS_VBAF ka|PRS sa|CCT itaas|JJD !|PMS
+Tumingin|VBTS_VBAF ka|PRS sa|CCT paligid|NNC !|PMS
+Makikita|VBTF mo|PRS kung|RBK ano|RBQ ang|DTC ating|PRSP_CCP napuntahan|VBTS .|PMP
+Kung|CCR may|VBH makikita|VBTF kang|PRS_CCP nakakatawa|VBTR .|PMP
+Ayaw|RBF kong|PRS_CCP ito|PRO ay|LM malampasan|VBW .|PMP
+Ibahagi|VBOF mo|PRS naman|RBI ito|PRO sa|CCT akin|PRSP .|PMP
+Kung|CCR ang|DTC paa|NNC mo|PRS ay|LM nagsimula|VBTS nang|RBW sumakit|VBAF dahil|CCR sa|CCT mahabang|JJD_CCP paglalakbay|NNC ,|PMC huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC ,|PMC nagawa|VBTS natin|PRP ito|PRO !|PMQ
+At|CCA sa|CCT wakas|RBW nasa|RBL klinika|NNC na|CCP tayo|PRP .|PMP
+Kailangn|NNP nating|PRP_CCP patingnan|VBOF ang|DTC ating|PRSP_CCP lalamunan|NNC ,|PMC baga|NNC at|CCA mga|DTCP tainga|NNC .|PMP
+Maging|VBW malakas|JJD habang|RBW lumalaki|VBTR_VBAF ,|PMC walang|VBN_CCP dahilan|NNC para|CCT lumuha|VBAF .|PMP
+Sa|CCT tingin|NNC mo|PRS ba|RBI ito|PRO '|PMS y|FW nakakatakot|RBD ?|PMQ
+Heto|NNP hawakan|VBOF mo|PRS ang|DTC aking|PRSP_CCP kamay|NNC .|PMP
+Titingnan|VBOF niya|PRS ang|DTC iyong|PRSP_CCP pulso|NNC gamit|VBS ang|DTC isang|PRI_CCP panali|NNC .|PMP
+Binigyan|VBOF nila|PRP kami|PRP ng|CCB gamot|NNC ,|PMC sabihin|VBOF sa|CCT amin|PRSP kung|RBK ano|RBQ ang|DTC dapat|VBS naming|PRP_CCP malaman|VBW ,|PMC para|CCT kami|PRP ay|LM maging|VBW malusog|JJD .|PMP
+Kami|PRP ay|LM babalik|VBTF na|RBI sa|CCT ating|PRSP_CCP tahanan|NNC .|PMP
+Okey|NNP lang|RBI ang|DTC mapagod|VBW ,|PMC marami|PRI naman|RBI kaming|PRP_CCP nakita|VBTS .|PMP
+Ngayon|RBW ay|LM pwede|RBT ka|PRS bumalik|VBAF sa|CCT iyong|PRSP_CCP higaan|NNC .|PMP
+Matulog|VBW nang|RBD mahimbing|JJD at|CCA managinip|VBW ng|CCB masaya|JJD .|PMP
+Ang|DTC lahat|PRI ay|LM isang|PRI_CCP panaginip|NNC lang|RBI pala|NNC .|PMP
+Ngayon|RBW ,|PMC ang|DTC bata|NNC ay|LM mahimbing|JJD ng|CCB natutulog|VBTR .|PMP

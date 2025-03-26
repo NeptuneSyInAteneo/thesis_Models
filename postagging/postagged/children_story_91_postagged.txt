@@ -1,8 +1,17 @@
-Ang|DTC mga|DTCP ulap|NNC ay|LM maaaring|RBM magdala|VBW ng|CCB ulan|NNC .|PMP
-Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap|NNC .|PMP
-Ang|DTC mga|DTCP ulap|NNC ay|LM maaaring|RBM magdala|VBW ng|CCB niyebe|NNC .|PMP
-Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap|NNC .|PMP
-Maaaring|RBM itago|VBOF ng|CCB mga|DTCP ulap|NNC ang|DTC araw|NNC .|PMP
-Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap|NNC .|PMP
-Maaaring|RBM maitago|VBW ng|CCB mga|DTCP ulap|NNC ang|DTC mga|DTCP bituin|NNC .|PMP
-Gusto|VBS ko|PRS ang|DTC mga|DTCP ulap|NNC .|PMP
+Nakatingin|RBD sa|CCT mga|DTCP bituin|NNC sa|CCT langit|NNC si|DTP Matsa|NNP at|CCA si|DTP Ali|NNP .|PMP "|PMS
+Gusto|VBS ko|PRS ng|CCB bitiun|NNC katulad|JJC ng|CCB mga|DTCP bituin|NNC na|CCP nasa|RBL langit|NNC .|PMP
+Kumikinang|NNP_CCP sila|PRP nang|RBW napakaganda|JJCS_JJD .|PMP "|PMS
+sabi|VBS ni|DTP Ali|NNP .|PMP
+Sagot|NNC ni|DTP Matsa|NNP ,|PMC "|PMS Ngayong|RBW_CCP gabi|RBW ,|PMC matulog|VBW na|CCP tayo|PRP .|PMP
+Bukas|JJD bibigyan|VBTF kita|NNC ng|CCB isa|PRI .|PMP "|PMS
+Kinabukasan|RBW tinanong|VBOF ni|DTP Ali|NNP si|DTP Matsa|NNP :|PMS "|PMS Nasaan|VBTS na|RBI ang|DTC bituin|NNC na|CCP sabi|VBS mo|PRS ay|LM ibibigay|VBTF mo|PRS sakin|RBI ?|PMQ "|PMS
+Sinabi|VBTS ni|DTP Matsa|NNP kay|DTP Ali|NNP ,|PMC "|PMS Sabay|RBD tayong|PRP_CCP maghulma|VBW ng|CCB isang|PRI_CCP bituin|NNC .|PMP
+Ipapakita|VBTF ko|PRS sa|CCT iyo|PRSP kung|RBK paano|RBQ .|PMP "|PMS
+Nakinig|RBD mabuti|RBD si|DTP Ali|NNP sa|CCT paghuhulma|VBW ng|CCB mga|DTCP bituin|NNC sa|CCT paraang|NNC_CCP sinabi|VBTS sa|CCT kanya|PRSP ng|CCB kanyang|PRSP_CCP kapatid|NNC na|CCP babae|NNC .|PMP
+Pagkatapos|VBW ,|PMC gumagawa|VBTR_VBAF siya|PRS ng|CCB maraming|PRI_CCP bituin|NNC .|PMP
+Namangha|VBTS si|DTP Matsa|NNP .|PMP
+Sabi|VBS niya|PRS kay|DTP Ali|NNP ,|PMC "|PMS Napakahusay|VBTS mo|PRS na|CCP ngayon|RBW .|PMP
+Maaari|VBS mo|PRS nang|RBW gawin|VBOF lahat|PRI ng|CCB bituing|NNC_CCP gusto|VBS mo.|NNCA .|PMP
+Ngumiti|VBAF si|DTP Ali|NNP at|CCA siya|PRS ay|LM masaya|JJD sa|CCT kanyang|PRSP_CCP mga|DTCP bagong|JJD_CCP bituin|NNC .|PMP "|PMS
+Maraming|PRI_CCP salamat|RBS sa|CCT pagtuturo|NNC sa|CCT akin|PRSP kung|RBK paano|RBQ gumawa|VBAF ng|CCB sarili|NNC kong|PRS_CCP mga|DTCP bituin|NNC !|PMS "|PMS
+Sinabi|VBTS ni|DTP Ali|NNP kay|DTP MatsaAquisap|NNP ,|PMC and|FW Wilson|NNP Eraldo|NNP

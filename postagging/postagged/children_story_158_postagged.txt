@@ -1,0 +1,93 @@
+Si|DTP Cheeko|NNP ang|DTC pinakamalungkot|JJCS_JJD na|CCP batang|JJD_CCP babae|NNC sa|CCT kanilang|PRSP_CCP magkakaibigan|VBTF .|PMP
+Siya|PRS rin|RBI ang|DTC pinakamalungkot|JJCS_JJD na|CCP batang|JJD_CCP babae|NNC sa|CCT kanilang|PRSP_CCP klase|NNC .|PMP
+Siya|PRS na|CCP siguro|RBM ang|DTC pinakamalungkot|JJCS_JJD na|CCP batang|JJD_CCP babae|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Kaibigan|NNP ?|PMQ
+Si|DTP Cheekoo|NNP ay|LM wala|VBN ni|DTP isa|PRI mang|RBI_CCP kaibigan|NNC .|PMP
+Wala|VBN ni|DTP isa|PRI man|RBI lang|RBI ang|DTC nais|VBS makipaglaro|VBW kay|DTP Cheekoo|NNP .|PMP
+Sapagkat|CCR mayroong|VBH_CCP nakapaibabaw|VBTS na|CCP ulap|NNC sa|CCT kaniyang|PRSP_CCP ulunan|NNC .|PMP
+Isang|PRI_CCP ulap|NNC ng|CCB BASURA|NNPA .|PMP
+Balat|NNC ng|CCB kahel|NNC at|CCA pakete|NNC ng|CCB biskwit|NNC ,|PMC Sirang|JJD_CCP mga|DTCP laruan|NNC at|CCA mga|DTCP pinagtasahan|VBTR_VBRF ng|CCB lapis|NNC ,|PMC Pilipit|RBD na|CCP plastik|JJD ng|CCB bote|NNC at|CCA makukulay|JJD na|CCP mga|DTCP plastik|JJD bag|NNC ,|PMC Ang|DTC lahat|PRI ng|CCB ito|PRO ay|LM napalilibutan|VBTS ng|CCB maiingay|JJD na|CCP langaw|NNC .|PMP
+Walang|VBN_CCP gustong|VBS_CCP makipaglaro|VBW sa|CCT isang|PRI_CCP batang|JJD_CCP babae|NNC na|CCP mayroong|VBH_CCP ulap|NNC ng|CCB basura|NNC sa|CCT kaniyang|PRSP_CCP ulunan|NNC .|PMP
+Paano|PRQ kung|CCR may|VBH mahulog|VBW na|CCP bulok|JJD na|CCP balat|NNC ng|CCB saging|NNC sa|CCT iyong|PRSP_CCP ulo|NNC ?|PMQ
+Kadiri|NNP !|PMS
+Hindi|RBF na|RBI rin|RBI makapaglaro|VBW si|DTP Cheeko|NNP ng|CCB tagu|NNC -|PMS taguan|NNC .|PMP
+Dahil|CCR ang|DTC ulap|NNC ng|CCB basura|NNC sa|CCT kaniyang|PRSP_CCP ulo|NNC ay|LM makikita|VBTF .|PMP "|PMS
+Sabay|RBD tayong|PRP_CCP maglakad|VBAF patungo|RBL sa|CCT paaralan|NNC ,|PMC sabi|VBS niya|PRS kay|DTP Sona|NNP ,|PMC Ngunit|CCT tumakbo|VBAF si|DTP Sona|NNP sa|CCT kabilang|JJD_CCP direksyon|NNC .|PMP
+Maari|VBS ko|PRS bang|RBM hiramin|VBOF ang|DTC iyong|PRSP_CCP pantasa|JJD ?|PMQ
+tanong|NNC niya|PRS kay|DTP Sweety|NNP .|PMP
+Sumimangot|NNP si|DTP Sweety|NNP at|CCA lumipat|VBAF ng|CCB upuan|NNC katabi|CCB ni|DTP Asha|NNP .|PMP
+Kumakain|VBTR_VBAF mag|VBW isa|PRI si|DTP Cheekoo|NNP tuwing|RBW pananghalian|NNC .|PMP
+Alam|VBS ni|DTP Cheekoo|NNP na|CCP dapat|VBS sinunod|VBOF niya|PRS ang|DTC kaniyang|PRSP_CCP nanay|NNC na|CCP huwag|RBF magkalat|VBW .|PMP "|PMS
+Huwag|RBF mong|PRS_CCP itapon|VBTF ang|DTC balat|NNC ng|CCB saging|NNC sa|CCT daan|NNC !|PMS "|PMS "|PMS
+Itapon|VBTF mo|PRS ang|DTC pakete|NNC ng|CCB biskwit|NNC sa|CCT basurahan|NNC .|PMP "|PMS
+Ngunit|CCT hindi|RBF nakinig|VBTS si|DTP Cheeko|NNP .|PMP
+Tumawa|VBAF lamang|RBI siya|PRS at|CCA nagpatuloy|VBTS sa|CCT pagkakalat|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC lubos|JJCS na|CCP nagalit|VBTS ang|DTC nanay|NNC .|PMP
+Sinabihan|VBTS nito|PRO si|DTP Cheekoo|NNP na|CCP kung|RBK hindi|RBF makikinig|VBTF ,|PMC ang|DTC lahat|PRI ng|CCB basura|NNC ay|LM susunod|VBTF sa|CCT kaniya|PRSP saan|PRQ man|RBI siya|PRS pumunta|VBAF !|PMQ
+Tumawa|VBAF lamang|RBI si|DTP Cheekoo|NNP .|PMP
+Kinabukasan|RBW ,|PMC nagising|VBTS si|DTP Cheekoo|NNP sa|CCT mabahong|JJD_CCP amoy|NNC at|CCA ingay|NNC ng|CCB mga|DTCP langaw|NNC .|PMP
+Isang|PRI_CCP ulap|NNC ng|CCB basura|NNC ang|DTC nasa|RBL taas|NNC ng|CCB kaniyang|PRSP_CCP ulo|NNC .|PMP
+Nagkatotoo|VBTR ang|DTC sabi|NNC ng|CCB kaniyang|PRSP_CCP nanay|NNC ,|PMC hindi|RBF na|RBI magawang|VBW_CCP tumawa|VBAF ni|DTP Cheekoo|NNP .|PMP
+Sinubukan|VBTS ni|DTP Cheeko|NNP na|CCP tumakbo|VBAF palayo|RBD .|PMP
+Ngunit|CCT ang|DTC ulap|NNC ng|CCB basura|NNC ay|LM sinusundan|VBTR siya|PRS kahit|CCT saan|PRQ .|PMP
+Kumuha|VBAF si|DTP Cheeko|NNP ng|CCB walis|NNC tambo|NNC upang|CCB walisin|VBOF ito|PRO .|PMP
+Ngunit|CCT hindi|RBF ito|PRO mawalis|VBW -|PMS walis|NNC .|PMP
+Ginawa|VBOF ni|DTP Cheekoo|NNP ang|DTC lahat|PRI .|PMP
+Sumigaw|VBAF siya|PRS at|CCA sinabi|VBTS sa|CCT ulap|NNC na|CCP iwan|VBOF siyang|PRS_CCP mag|VBW isa|PRI .|PMP
+Sinubukan|VBTS din|RBI niyang|PRS_CCP itapon|VBTF ang|DTC ulap|NNC sa|CCT basurahan|NNC .|PMP
+Subalit|CCT ang|DTC ulap|NNC ay|LM hindi|RBF maalis|VBW .|PMP
+At|CCA sobrang|JJCS_CCP naging|VBTS malungkot|JJD si|DTP Cheekoo|NNP .|PMP
+Biglang|RBD_CCP may|VBH nangyari|VBTS !|PMQ
+Nakita|VBTS ni|DTP Chekoo|NNP na|CCP nagtapon|VBTS ng|CCB balat|NNC ng|CCB saging|NNC sa|CCT kalsada|NNC si|DTP Bala|NNP .|PMP
+Naasar|VBTS si|DTP Cheekoo|NNP .|PMP
+Hindi|RBF niya|PRS ba|RBI nakikita|VBTR ang|DTC ulap|NNC sa|CCT kaniyang|PRSP_CCP ulunan|NNC ?|PMQ "|PMS
+Uy|NNPA bata|NNC !|PMS
+Sigaw|NNC niya|PRS .|PMP "|PMS
+huwag|RBF mong|PRS_CCP itapon|VBTF ang|DTC balat|NNC sa|CCT kalsada|NNC ,|PMC baka|NNC may|VBH madulas|JJD !|PMS "|PMS
+Natakot|VBTS si|DTP Bala|NNP sa|CCT ulap|NNC ng|CCB basura|NNC ,|PMC kaya|CCR itinapon|VBTS niya|PRS ang|DTC balat|NNC ng|CCB saging|NNC sa|CCT basurahan|NNC .|PMP
+Kinabukasan|RBW ,|PMC lumiit|VBAF ang|DTC ulap|NNC ng|CCB basura|NNC !|PMS "|PMS
+Paano|PRQ ito|PRO nangyari|VBTS ?|PMQ "|PMS
+nagtatakang|VBTR tanong|NNC ni|DTP Cheeko|NNP .|PMP
+At|CCA nakita|VBTS ni|DTP Cheeko|NNP si|DTP Auntie|NNP Reema|NNP na|CCP nagtatapon|VBTR ng|CCB plastik|JJD na|CCP bag|NNC .|PMP "|PMS
+Äuntie|NNP !|PMS "|PMS
+tawag|VBS niya|PRS .|PMP "|PMS
+Pwede|RBT po|RBS bang|RBI_CCP pakipulot|NNC yung|PRO_CCP mga|DTCP plastik|JJD na|CCP bag|NNC at|CCA pwede|VBS pa|RBI po|RBS itong|PRO_CCP gamitin|VBOF .|PMP "|PMS
+Pinulot|VBOF ni|DTP Auntie|NNP Reema|NNP ang|DTC mga|DTCP bag|NNC at|CCA umalis|VBAF .|PMP
+Kinabukasan|RBW pagkagising|VBW ni|DTP Cheeko|NNP ,|PMC muling|RBW_CCP lumiit|VBAF ang|DTC ulap|NNC ng|CCB basura|NNC .|PMP
+Napangiti|VBTS si|DTP Cheeko|NNP .|PMP
+Alam|VBS na|RBI niya|PRS kung|RBK anong|RBQ_CCP dapat|VBS gawin|VBOF .|PMP
+Tuwing|RBW may|VBH magtatapon|VBTF ng|CCB balot|NNC ng|CCB biskwit|NNC o|CCT pinagtasahan|VBTR_VBRF ng|CCB lapis|NNC ,|PMC pinagsasabihan|VBTR_VBRF ito|PRO ni|DTP Cheekoo|NNP .|PMP
+Pinupulot|VBTS niya|PRS ang|DTC bawat|PRI bote|NNC ng|CCB plastik|JJD at|CCA nilalagay|VBTR sa|CCT basurahan|NNC .|PMP
+Luminis|NNP ng|CCB luminis|VBTS_VBAF ang|DTC nayon|NNC .|PMP
+At|CCA ang|DTC ulap|NNC sa|CCT ulunan|NNC ni|DTP Cheekoo|NNP ay|LM lumiit|VBAF nang|RBD lumiit|VBAF .|PMP
+Hanggang|RBW sa|CCT isang|PRI_CCP araw|NNC ,|PMC nawala|VBTS na|CCP ito|PRO .|PMP
+WALA|NNPA NA|NNPA lahat|PRI !|PMS
+Si|DTP Cheekoo|NNP na|CCP ang|DTC pinakamasayang|JJCS_JJD_CCP batang|JJD_CCP babae|NNC sa|CCT buong|PRI_CCP mundo|NNC !|PMS
+Hindi|RBF na|CCP muling|RBW_CCP nagkalat|VBTS si|DTP Cheekoo|NNP .|PMP
+Lihim|JJD niyang|PRS_CCP ikinatuwa|VBOF ang|DTC pagtira|NNC sa|CCT malinis|JJD na|CCP nayon|NNC .|PMP
+Subalit|CCT siya|PRS ay|LM natatakot|VBTR na|CCP baka|RBM muling|RBW_CCP manumbalik|VBW ang|DTC ulap|NNC ng|CCB basura|NNC balang|JJD_CCP araw|NNC .|PMP
+Sinong|PRI_CCP makapagsasabi|VBW !|PMQ
+Pag|CCR -|PMS usapan|NNC Natin|NNP ang|DTC Basura|NNP May|NNP ideya|NNC ba|RBI kayo|PRP kung|RBK anong|RBQ_CCP mangyayari|VBTF sa|CCT pagkakalat|NNC ng|CCB basura|NNC ?|PMQ
+Hindi|RBF ito|PRO magiging|VBTR ulap|NNC ng|CCB basura|NNC sa|CCT inyong|PRSP_CCP ulunan|NNC ,|PMC ito|PRO ay|LM magiging|VBTF isang|PRI_CCP tambak|NNC ng|CCB basura|NNC na|CCP malapit|JJD sa|CCT inyong|PRSP_CCP tahanan|NNC .|PMP
+Kapag|CCR ikaw|PRS ay|LM nagkalat|VBTS ,|PMC ang|DTC ilan|PRQ sa|CCT mga|DTCP ito|PRO ay|LM mapupunta|VBTF sa|CCT tabi|NNC ng|CCB daan|NNC at|CCA tutuloy|VBTF sa|CCT mga|DTCP daluyan|NNC ng|CCB tubig|NNC na|CCP nagmumula|VBTR sa|CCT inyong|PRSP_CCP mga|DTCP tahanan|NNC .|PMP
+Ang|DTC mga|DTCP basurangito|NNC ay|LM magbabara|VBAF at|CCA pamamamahayan|NNC ng|CCB mga|DTCP langaw|NNC na|CCP sanhi|NNC ng|CCB mga|DTCP iba|PRI '|PMS t|NNCA ibang|PRI_CCP uri|NNC ng|CCB sakit|NNC .|PMP
+HAAY|NNPA !|PMS
+Walang|VBN_CCP sinuman|PRI ang|DTC may|VBH gustong|VBS_CCP tumira|VBAF sa|CCT maruming|PRI_CCP kapaligiran|NNC .|PMP
+Kahit|CCT tanungin|VBOF mo|PRS pa|RBI si|DTP Cheekoo|NNP .|PMP
+Ito|PRO ang|DTC mga|DTCP paraan|NNC upang|CCB mapigilan|VBW ang|DTC pagkakaroon|NNC ng|CCB ulap|NNC ng|CCB basura|NNC .|PMP
+-|PMS Pwede|RBT tayong|PRP_CCP mag|VBW -|PMS umpisa|RBW sa|CCT pamamagitan|NNC ng|CCB hindi|RBF pagkakalat|NNC sa|CCT ating|PRSP_CCP kapaligiran|NNC .|PMP
+-|PMS Ugaliin|VBOF nating|PRP_CCP itapon|VBTF ang|DTC ating|PRSP_CCP basura|NNC sa|CCT tamang|JJD_CCP basurahan|NNC -|PMS hanapin|VBOF ang|DTC pinakamalapit|JJCS_JJD sa|CCT iyo|PRSP .|PMP
+Pagkatapos|VBW kumain|VBAF ng|CCB saging|NNC ,|PMC huwag|RBF mong|PRS_CCP itapon|VBTF sa|CCT daan|NNC .|PMP
+Ilagay|VBOF mo|PRS ang|DTC balat|NNC sa|CCT isang|PRI_CCP maliit|JJD na|CCP bag|NNC hanggang|RBW makakita|VBW ka|PRS ng|CCB tamang|JJD_CCP basurahan|NNC .|PMP
+Maraming|PRI_CCP bagay|NNC ang|DTC sa|CCT tingin|NNC mo|PRS ay|LM walang|VBN_CCP halaga|NNC ,|PMC katulad|JJC ng|CCB bag|NNC na|CCP papel|NNC na|CCP puwede|RBT mong|PRS_CCP paglagyan|VBW ng|CCB balat|NNC .|PMP
+Pero|CCT hindi|RBF lahat|PRI ay|LM basura|NNC .|PMP
+Kaya|CCR huwag|RBF mong|PRS_CCP itapon|VBTF ang|DTC bag|NNC kasama|CCB ang|DTC balat|NNC .|PMP
+Iuwi|NNP mo|PRS ito|PRO at|CCA gamiting|VBOF muli|RBW .|PMP
+Takpan|NNP ang|DTC basurahan|NNC upang|CCB hindi|RBF ito|PRO pasukin|VBOF ng|CCB mga|DTCP langaw|NNC at|CCA iba|PRI pang|RBI_CCP insekto|NNC .|PMP
+Ang|DTC Ulap|NNP ng|CCB Basura|NNP (|PMS Filipino|NNP )|PMS Ang|DTC ulap|NNC ng|CCB basura|NNC ang|DTC nasa|RBL ulunan|NNC ni|DTP Cheekoo|NNP ,|PMC na|CCP naging|VBTS dahilan|NNC upang|CCB siya|PRS ang|DTC maging|VBW pinakamalungkot|JJCS_JJD na|CCP babae|NNC sa|CCT mundo|NNC .|PMP
+Basahin|NNP ang|DTC magandang|JJD_CCP kwento|NNC at|CCA kung|RBK paano|RBQ nawala|VBTS ang|DTC ulap|NNC ng|CCB basura|NNC sa|CCT kaniyang|PRSP_CCP ulunan|NNC .|PMP
+Ito|PRO ay|LM nasa|RBL pangalawang|JJN_CCP antas|NNC na|CCP aklat|NNC pambata|NNC .|PMP
+Ang|DTC Pratham|NNP books|FW ay|LM digital|FW upang|CCB mabigay|VBW ang|DTC multilingual|FW sa|CCT mga|DTCP kabataan|NNC .|PMP
+Nagsama|VBTS -|PMS sama|NNC ang|DTC mga|DTCP bata|NNC ,|PMC manunulat|NNC ,|PMC ilustrador|NNC at|CCA publisher|NNC .|PMP
+pati|CCA na|RBI rin|RBI ang|DTC mga|DTCP guro|NNC at|CCA tagasalin|NNC upang|CCB makagawa|VBW ng|CCB multilingual|FW na|CCP kuwento|NNC para|CCT sa|CCT mga|DTCP batang|JJD_CCP Indian|NNP at|CCA sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Ang|DTC Storyweaver|NNP ay|LM lugar|NNC kung|RBK saan|RBQ nakikita|VBTR ang|DTC pagkamalikhain|NNC ng|CCB mga|DTCP bata|NNC ,|PMC magulang|NNC ,|PMC guro|NNC at|CCA librarian|NNC .|PMP

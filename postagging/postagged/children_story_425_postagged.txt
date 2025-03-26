@@ -1,0 +1,26 @@
+Ang|DTC pangalan|NNC ng|CCB munting|JJD_CCP elepante|NNC ay|LM si|DTP Golu|NNP .|PMP
+Para|CCT siyang|PRS_CCP tambol|NNC sa|CCT bilog|NNC .|PMP
+Ang|DTC pangalan|NNC ng|CCB munting|JJD_CCP kuneho|NNC ay|LM si|DTP Katu|NNP .|PMP
+Para|CCT siyang|PRS_CCP bolang|NNC_CCP bulak|NNC .|PMP
+Lagi|RBW silang|PRP_CCP magkasama|VBW sa|CCT paglalaro|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC sabi|VBS ni|DTP Golu|NNP sa|CCT kaibigang|NNC_CCP kuneho|NNC ,|PMC "|PMS Iba|PRI naman|RBI ang|DTC laruin|VBOF natin|PRP .|PMP "|PMS "|PMS
+Umupo|VBTS_VBAF ka|PRS Golu|NNP at|CCA tatalon|VBTF ako|PRS sa|CCT likod|NNC mo|PRS ,|PMC "|PMS utos|NNC ni|DTP Katu|NNP .|PMP
+Agad|RBD na|CCP umupo|VBAF si|DTP Golu|NNP at|CCA nagsimulang|VBTS_CCP tumalon|VBAF -|PMS talon|NNC si|DTP Katu|NNP nang|RBW napakataas|JJCS_JJD .|PMP
+Blag|NNP !|PMS
+Bumagsak|VBAF si|DTP Katu|NNP sa|CCT likod|NNC ni|DTP Golu|NNP .|PMP
+Napangiti|VBTR ang|DTC munting|JJD_CCP elepante|NNC .|PMP "|PMS
+Ngayon|RBW ako|PRS naman|RBI ,|PMC "|PMS sabi|VBS ni|DTP Golu|NNP .|PMP "|PMS
+Umupo|VBTS_VBAF ka|PRS at|CCA tatalon|VBTF -|PMS talon|NNC ako|PRS sa|CCT likod|NNC mo|PRS ,|PMC "|PMS dagdag|JJD ni|DTP Golu|NNP .|PMP "|PMS
+Ikaw|NNP ?|PMQ "|PMS
+tanong|NNC ni|DTP Katu|NNP "|PMS Oo|RBT ,|PMC ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Golu|NNP .|PMP "|PMS
+Paano|PRQ mo|PRS gagawin|VBTF '|PMS yun|PRO ?|PMQ "|PMS
+tanong|NNC ulit|RBW ni|DTP Katu|NNP .|PMP "|PMS
+Ganito|PRC !|PMS "|PMS
+pinakita|VBTS ni|DTP Golu|NNP ang|DTC kaniyang|PRSP_CCP gagawin|VBTF .|PMP
+Blag|NNP !|PMS
+Blag|NNP !|PMS
+Blag|NNP !|PMS
+Nahulog|VBTS ang|DTC mga|DTCP niyog|NNC sa|CCT ulo|NNC ni|DTP Golu|NNP .|PMP
+Takot|JJD na|CCP nagtatakbo|VBTR si|DTP Golu|NNP .|PMP
+Isa|PRI namang|RBI_CCP maliit|JJD na|CCP niyog|NNC ang|DTC nahulog|VBTS sa|CCT ulo|NNC ni|DTP Katu|NNP .|PMP "|PMS
+Mas|JJCC mabuti|JJD na|CCP ito|PRO ,|PMC kaysa|JJC sa|CCT elepante|NNC ang|DTC nahulog|VBTS sa|CCT ulo|NNC ko|PRS ,|PMC "|PMS sabi|VBS ni|DTP Katu|NNP .|PMP

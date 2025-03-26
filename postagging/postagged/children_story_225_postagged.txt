@@ -1,0 +1,42 @@
+Mahigpit|JJD ang|DTC hawak|NNC ni|DTP Ira|NNP sa|CCT kamay|NNC ng|CCB kaniyang|PRSP_CCP Nanay|NNC .|PMP
+Ang|DTC gusaling|NNC_CCP nasa|RBL harapan|NNC niya|PRS ay|LM nakatatakot|JJD .|PMP "|PMS
+Tayo|PRS ay|LM kakain|VBTF ng|CCB pizza|FW pagkatapos|VBW nito|PRO .|PMP
+Tama|RBT po|RBS ba|RBI ,|PMC Nay|VBTS ?|PMQ "|PMS
+bulong|NNC ni|DTP Ira|NNP .|PMP "|PMS
+Kumusta|NNP ,|PMC Ira|NNP !|PMS
+Mabuti|VBTF ba|RBI ang|DTC pakiramdam|NNC mo|PRS ngayon|RBW ?|PMQ "|PMS "|PMS
+Kumusta|NNP si|DTP Pagong|NNP ?|PMQ "|PMS "|PMS
+Handa|JJD ka|PRS na|CCP ba|RBI ?|PMQ "|PMS
+Bati|NNP sa|CCT kanya|PRSP ng|CCB mga|DTCP taong|NNC_CCP hindi|RBF niya|PRS kilala|JJD .|PMP "|PMS
+Ayaw|RBF pong|RBD_CCP magpaturok|VBW ni|DTP Pagong|NNP ngayon|RBW !|PMQ "|PMS
+sagot|NNC ni|DTP Ira|NNP .|PMP
+Ngunit|CCT nagpumilit|VBTS ang|DTC doktor|NNC na|CCP suriin|VBOF si|DTP Pagong|NNP .|PMP
+Sabi|VBS ng|CCB doktor|NNC na|CCP ang|DTC pulang|JJD_CCP selula|NNC ng|CCB dugo|NNC ni|DTP Pagong|NNP ay|LM patuloy|RBD na|CCP bumababa|VBTR_VBAF .|PMP
+Kailangang|VBS_CCP dagdagan|VBOF ng|CCB pulang|JJD_CCP dugo|NNC si|DTP Pagong|NNP .|PMP
+Ang|DTC prosesong|NNC_CCP ito|PRO ay|LM tinatawag|VBTR na|CCP pagsasalin|NNC ng|CCB dugo|NNC .|PMP
+Kung|RBK hindi|RBF masasalinan|VBTF ng|CCB pulang|JJD_CCP dugo|NNC si|DTP Pagong|NNP ,|PMC ito|PRO '|PMS y|FW manghihina|FW at|CCA magkakasakit|VBTF .|PMP "|PMS
+Ito|PRO ang|DTC kagamitan|NNC para|CCT madagdagan|VBW ng|CCB pulang|JJD_CCP dugo|NNC si|DTP Pagong|NNP upang|CCB siya|PRS ay|LM muling|RBW_CCP maging|VBW malakas|JJD ,|PMC Pagkatapos|VBW nito|PRO ,|PMC muli|RBW siyang|PRS_CCP makapaglalaro|VBW ,|PMC at|CCA makapapasok|VBW sa|CCT paaralan|NNC .|PMP "|PMS
+Ngunit|CCT ang|DTC tusok|NNC ng|CCB karayom|NNC ay|LM masakit|JJD .|PMP
+Tama|RBT po|RBS ba|RBI ?|PMQ "|PMS
+Sabi|VBS ng|CCB doktor|NNC ,|PMC masakit|JJD lamang|RBI ito|PRO sa|CCT loob|NNC ng|CCB sampung|JJN_CCP segundo|NNC .|PMP
+Nakiusap|VBTS ang|DTC doktor|NNC kay|DTP Ira|NNP na|CCP siya|PRS ang|DTC magturok|VBAF kay|DTP Pagong|NNP habang|RBW nagbibilang|VBTR ng|CCB hanggang|RBW sampu|CDB .|PMP
+Isa|PRI ...|PMS dalawa|CDB ...|PMS tatlo|CDB ...|PMS apat|CDB ...|PMS lima|CDB ...|PMS anim|JJN ...|PMS pito|CDB ...|PMS walo|JJN ...|PMS siya|PRS Sampu|JJN lamang|RBI ?|PMQ
+Tama|RBT na|RBI ?|PMQ
+Pagkatapos|VBW ng|CCB sampung|JJN_CCP segundo|NNC ,|PMC wala|VBN na|RBI ang|DTC sakit|NNC .|PMP
+Wow|NNP ,|PMC nakamamangha|VBTR !|PMQ
+Si|DTP Pagong|NNP ay|LM hindi|RBF natakot|VBTS !|PMQ
+Si|DTP Ira|NNP naman|RBI ang|DTC susunod|VBTF at|CCA magiging|VBTF matapang|JJD din|RBI siya|PRS katulad|JJC ni|DTP Pagong|NNP .|PMP
+Pinaalalahanan|VBTS ng|CCB doktor|NNC si|DTP Ira|NNP na|CCP magbilang|RBD_CCP hanggang|RBW sampu|JJN !|PMQ
+Pagkatapos|VBW ,|PMC mawawala|VBTF na|RBI ang|DTC sakit|NNC at|CCA muli|RBW na|CCP siyang|PRS_CCP makapanunuod|VBW ng|CCB paboritong|JJD_CCP niyang|PRS_CCP palabas|NNC .|PMP
+Isa|PRI ...|PMS dalawa|CDB ...|PMS tatlo|CDB ...|PMS apat|CDB ...|PMS lima|CDB ...|PMS anim|JJN ...|PMS pito|CDB ...|PMS walo|JJN ...|PMS siyaNagsimulang|RBD_CCP lumakas|VBAF ang|DTC pakiramdam|NNC ni|DTP Ira|NNP !|PMS
+Tapos|RBW na|CCP tayo|PRP sa|CCT ngayon|RBW !|PMQ
+Sa|CCT susunod|JJD na|CCP buwan|NNC ay|LM babalik|VBTF si|DTP Ira|NNP para|CCT sa|CCT muling|RBW_CCP pagsasalin|NNC ng|CCB dugo|NNC .|PMP
+Ngunit|CCT sa|CCT ngayon|RBW ,|PMC oras|NNC na|CCP para|CCT kumain|VBAF ng|CCB pizza|FW !|PMS
+Sa|CCT susunod|JJD na|CCP buwan|NNC ,|PMC Sina|DTPP Ira|NNP at|CCA Pagong|NNC ay|LM parehong|JJC_CCP magiging|VBTF matapang|RBD upang|CCB sila|PRP ay|LM manatiling|RBD_CCP malakas|JJD !|PMS
+Maraming|PRI_CCP mga|DTCP bata|NNC ang|DTC naghihirap|VBTR mula|RBL sa|CCT sakit|NNC na|CCP thalassemia|FW ,|PMC Ang|DTC sakit|NNC na|CCP ito|PRO sa|CCT dugo|NNC ay|LM namamana|VBTR mula|RBL sa|CCT mga|DTCP magulang|NNC at|CCA mga|DTCP ninuno|NNC .|PMP
+Ang|DTC mga|DTCP batang|NNC_CCP may|VBH thalassemia|FW ay|LM may|VBH limitadong|JJD_CCP malusog|JJD na|CCP pulang|JJD_CCP dugo|NNC .|PMP
+Ang|DTC pulang|JJD_CCP dugo|NNC ay|LM kailangan|VBS upang|CCB magdala|VBW ng|CCB malinis|JJD na|CCP oksiheno|NNC at|CCA nutrisyon|NNC sa|CCT bawat|PRI bahagi|NNC ng|CCB katawan|NNC .|PMP
+Upang|CCB manatiling|VBW_CCP malusog|JJD ,|PMC ang|DTC mga|DTCP batang|NNC_CCP may|VBH sakit|NNC na|CCP thalassemia|FW ay|LM nangangailangan|VBTR ng|CCB regular|JJD na|CCP pagsasalin|NNC ng|CCB dugo|NNC at|CCA sinisigurongkumakain|VBTR ng|CCB wheat|FW ,|PMC oats|FW ,|PMC corn|FW ,|PMC soybean|FW ,|PMC milk|FW ,|PMC eggs|FW ,|PMC olive|FW at|CCA iba|PRI pang|RBI_CCP pagkaing|NNC_CCP may|VBH Bitamina|NNP E.|NNPA ©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC proyekto|NNC sa|CCT paglikha|NNC ng|CCB aklat|NNC na|CCP ito|PRO na|CCP nagtatampok|VBTR ng|CCB malakas|JJD na|CCP mga|DTCP batang|JJD_CCP babae|NNC at|CCA kababaihan|NNC bilang|CCT mga|DTCP pangunahing|JJD_CCP karakter|NNC ng|CCB kuwento|NNC at|CCA kabilang|CCT ang|DTC mga|DTCP babaeng|NNC_CCP manunulat|NNC ,|PMC ilustrador|NNC ,|PMC patnugot|NNC at|CCA magguguhit|VBW .|PMP
+Ang|DTC librong|NNC_CCP ito|PRO ay|LM nilikha|VBTS sa|CCT pamamagitan|NNC ng|CCB workshop|NNC sa|CCT paggawa|NNC ng|CCB aklat|NNC sa|CCT pakikipagtulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA ng|CCB The|NNP Asia|NNP Foundation|NNP na|CCP maysuporta|NNC ng|CCB Estee|NNP Launder|NNP Companies|NNP .|PMP
+Ang|DTC workshop|FW at|CCA paglago|NNC ng|CCB propesyon|NNC ,|PMC kabilang|CCB na|RBI ang|DTC pagpatnugot|NNC at|CCA pagdisenyo|NNC ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

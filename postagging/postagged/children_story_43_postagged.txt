@@ -1,20 +1,17 @@
-Nais|VBS ni|DTP Edi|NNP na|CCP maglaro|VBAF ng|CCB saranggola|NNC subalit|CCT wala|VBN siyang|PRS_CCP salapi|NNC upang|CCB bumili|VBAF ng|CCB kahit|CCT isa|PRI .|PMP
-Nagbasa|VBTS siya|PRS ng|CCB libro|NNC ukol|NNC sa|CCT paggawa|NNC nito|PRO .|PMP
-Kumuha|VBAF si|DTP Edi|NNP ng|CCB mga|DTCP piraso|NNC ng|CCB kahoy|NNC ,|PMC ng|CCB martilyo|NNC at|CCA mga|DTCP pako|NNC upang|CCB buohin|VBOF ang|DTC saranggola|NNC .|PMP
-Ginamit|VBTS ni|DTP Edi|NNP ang|DTC mga|DTCP pako|NNC at|CCA martilyo|NNC upang|CCB pagdugtungin|VBW ang|DTC mga|DTCP piraso|NNC ng|CCB kahoy|NNC .|PMP
-Naging|VBTS maingat|RBD siya|PRS upang|CCB hindi|RBF maipit|VBW ang|DTC mga|DTCP daliri|NNC sa|CCT pagpupukpok|NNC gamit|VBS ang|DTC martilyo|NNC .|PMP
-Nabuo|VBTS ni|DTP Edi|NNP ang|DTC katawan|NNC ng|CCB saranggola|NNC .|PMP
-Alam|VBS niyang|PRS_CCP ang|DTC saranggola|NNC ay|LM binubuo|VBTR ng|CCB apat|JJN na|CCP tatsulok|NNC .|PMP
-Kumuha|VBAF si|DTP Edi|NNP ng|CCB papel|NNC at|CCA ng|CCB lapis|NNC pangkulay|JJD .|PMP
-Kinulayan|VBTS niya|PRS ang|DTC mga|DTCP tatsulok|NNC ng|CCB bughaw|NNC ,|PMC pula|JJD ,|PMC dilaw|JJD at|CCA berde|JJD .|PMP
-Nagmukang|VBTS_CCP kaaya|NNC -|PMS aya|NNC ang|DTC apat|JJN na|CCP tatsulok|NNC !|PMS
-Pagkatapos|VBW ay|LM ginamit|VBOF ni|DTP Edi|NNP ang|DTC martilyo|NNC at|CCA mga|DTCP pako|NNC upang|CCB pagkonektahin|VBOF ang|DTC mga|DTCP tatsulok|NNC sa|CCT katawan|NNC ng|CCB kanyang|PRSP_CCP saranggola|NNC .|PMP
-Pagkatapos|RBW noon|RBW ,|PMC gumawa|VBAF si|DTP Edi|NNP ng|CCB buntot|NNC para|CCT sa|CCT kanyang|PRSP_CCP saranggola|NNC .|PMP
-Gumupit|VBAF siya|PRS ng|CCB laso|NNC para|CCT sa|CCT buntot|NNC ng|CCB kanyang|PRSP_CCP saranggola|NNC .|PMP
-Naging|VBTS lubhang|JJCS_CCP napakaganda|JJCS_JJD ng|CCB saranggola|NNC ni|DTP Edi|NNP pagkatapos|VBW lagyan|VBOF ng|CCB mga|DTCP laso|NNC ang|DTC buntot|NNC nito|PRO .|PMP
-Binasang|NNP_CCP muli|RBW ni|DTP Edi|NNP ang|DTC libro|NNC .|PMP
-Kailangan|VBS niyang|PRS_CCP lagyan|VBOF ng|CCB tali|NNC ang|DTC kanyang|PRSP_CCP saranggola|NNC .|PMP
-May|VBH napakahabang|JJCS_JJD_CCP tali|NNC na|CCP nakaugnay|VBTS sa|CCT saranggola|NNC ni|DTP Edi|NNP .|PMP
-Ngayon|RBW handa|JJD ng|CCB lumipad|NNC ang|DTC saranggola|NNC niya|PRS .|PMP
-Si|DTP Edi|NNP ay|LM lumabas|VBAF at|CCA nagpalipad|VBTS ng|CCB kanyang|PRSP_CCP saranggola|NNC !|PMS
-Naging|VBTS labis|JJCS ang|DTC kanyang|PRSP_CCP kaligayahan|NNC !|PMS
+Isang|PRI_CCP araw|NNC ,|PMC nagkasakit|VBTS ang|DTC ate|NNC ni|DTP Pong|NNP .|PMP
+Inutusan|VBTS ng|CCB ina|NNC si|DTP Pong|NNP na|CCP ihanda|VBOF ang|DTC higaan|NNC ng|CCB kaniyang|PRSP_CCP ate|NNC .|PMP
+Inilagay|VBTS ni|DTP Pong|NNP ang|DTC sapin|NNC sa|CCT kutson|NNC ng|CCB higaan|NNC .|PMP
+Kumuha|VBAF si|DTP Pong|NNP ng|CCB unan|NNC at|CCA inilagay|VBTS ito|PRO sa|CCT higaan|NNC .|PMP
+Nagdala|VBTS rin|RBI si|DTP Pong|NNP ng|CCB kumot|NNC at|CCA inilagay|VBTS ito|PRO sa|CCT higaan|NNC .|PMP
+Iniabot|VBTS ni|DTP Pong|NNP ang|DTC kulambo|NNC sa|CCT kaniyang|PRSP_CCP ina|NNC .|PMP
+Tinulungan|VBOF ni|DTP Pong|NNP ang|DTC kaniyang|PRSP_CCP ina|NNC sa|CCT pag|CCR -|PMS aayos|NNC ng|CCB kulambo|NNC .|PMP
+Nang|RBW maayos|JJD na|CCP ang|DTC kama|NNC ,|PMC pumasok|VBAF na|RBI ang|DTC ate|NNC ni|DTP Pong|NNP sa|CCT kuwarto|NNC .|PMP "|PMS
+Maraming|PRI_CCP salamat|RBS sa|CCT pag|CCR -|PMS aayos|NNC ng|CCB aking|PRSP_CCP kama|NNC .|PMP "|PMS
+sabi|VBS ng|CCB ate|NNC ni|DTP Pong|NNP .|PMP
+Pagkatapos|VBW ,|PMC humiga|VBAF na|RBI ang|DTC ate|NNC ni|DTP Pong|NNP at|CCA natulog|VBTS .|PMP
+This|NNP storybook|FW received|FW assistance|FW by|FW the|FW People|NNP of|FW USA|NNPA through|FW USAID|NNPA .|PMP
+License|NNP :|PMS Creative|NNP Commons|NNP Attribution|NNP CC|NNPA BY|NNPA .|PMP
+IGO|NNPA Translation|FW of|FW work|FW :|PMS If|FW individuals|FW or|CCT legal|JJD entities|FW translate|FW this|FW work|FW ,|PMC you|FW must|FW mention|FW that|FW translation|FW is|FW not|FW conducted|FW by|FW Room|NNP to|FW Read|NNP or|CCT USAID|NNPA and|FW not|FW considered|FW the|FW official|FW translation|FW of|FW Room|NNP to|FW Read|NNP or|CCT USAID|NNPA .|PMP
+Room|NNP to|FW Read|NNP or|CCT USAID|NNPA will|FW not|FW be|FW responsible|NNC for|FW the|FW content|FW or|CCT mistakes|FW of|FW the|FW translation|FW .|PMP
+Amendment|NNP of|FW work|FW :|PMS If|FW individuals|FW or|CCT legal|JJD entities|FW make|FW amendments|FW to|FW the|FW work|FW ,|PMC the|FW source|FW should|FW be|FW referenced|FW :|PMS this|FW work|FW has|FW been|FW amended|FW from|FW the|FW original|FW work|FW of|FW Room|NNP to|FW Read|NNP and|FW USAID|NNPA .|PMP
+The|NNP views|FW and|FW perspectives|FW in|FW this|FW amended|FW work|FW are|DTC the|FW sole|FW responsibility|FW of|FW the|FW party|NNC making|VBW the|FW amendments|FW because|FW it|FW has|FW been|FW reviewed|FW byRoom|FW to|FW Read|NNP and|FW USAID|NNPA .|PMP

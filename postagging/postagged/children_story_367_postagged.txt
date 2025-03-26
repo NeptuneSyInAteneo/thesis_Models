@@ -1,0 +1,8 @@
+Si|DTP Aso|NNP at|CCA si|DTP Pusa|NNP ay|LM nakatira|VBTS sa|CCT isang|PRI_CCP bahay|NNC ,|PMC Ngunit|CCT kinamumuhian|VBTR nila|PRP ang|DTC isa|PRI '|PMS t|NNCA -|PMS isa|PRI .|PMP
+Ipinagmamalaki|VBTR ni|DTP Pusa|NNP ang|DTC kaniyang|PRSP_CCP matatalas|JJD na|CCP kuko|NNC ,|PMC samantalang|CCT_CCP si|DTP Aso|NNP ay|LM ipinagyayabang|VBTS ang|DTC kaniyang|PRSP_CCP mahabang|JJD_CCP nguso|NNC .|PMP
+Wala|VBN sa|CCT kanilang|PRSP_CCP dalawa|CDB ang|DTC nais|VBS magpakumbaba|VBW o|CCT magbigay|VBAF .|PMP
+Habang|RBW tahimik|JJD na|CCP lumilipas|VBTR ang|DTC panahon|NNC .|PMP
+Kaya|CCR '|PMS t|NNCA wala|VBN sa|CCT kanila|PRSP ang|DTC nakikipaglaro|VBTR .|PMP
+Lumilipas|NNP ang|DTC araw|NNC na|CCP puno|NNC ng|CCB lungkot|NNC ang|DTC kanilang|PRSP_CCP buhay|NNC .|PMP
+Sawang|NNP -|PMS sawa|JJD na|CCP sila|PRP sa|CCT pag|CCR -|PMS aaway|FW ,|PMC Sina|DTPP Aso|NNP at|CCA Pusa|NNP ay|LM nagkasundo|VBTS upang|CCB magkabati|VBW na|RBI .|PMP
+Ngayon|RBW si|DTP Pusa|NNP ay|LM naiidlip|VBTR sa|CCT tabi|NNC ni|DTP Aso|NNP ,|PMC Habang|RBW nakangiting|RBD nilalaro|VBTR ni|DTP Aso|NNP ang|DTC balbas|NNC ni|DTP Pusa|NNP .|PMP

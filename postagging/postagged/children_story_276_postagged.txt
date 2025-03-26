@@ -1,0 +1,28 @@
+Ito|PRO ang|DTC aking|PRSP_CCP tahanan|NNC .|PMP
+Si|DTP Nanay|NNP ,|PMC si|DTP Tatay|NNP ,|PMC at|CCA si|DTP Cheena|NNP ay|LM dito|PRL rin|RBI nakatira|VBTS .|PMP
+Ang|DTC pinakamaayos|JJCS_JJD na|CCP upuan|NNC ay|LM para|CCT sa|CCT akin|PRSP .|PMP
+Ngunit|CCT ang|DTC umupo|VBAF sa|CCT kandungan|NNC ay|LM mas|JJCC magaling|JJD ,|PMC hindi|RBF ba|RBI ?|PMQ
+Si|DTP Cheena|NNP ay|LM ang|DTC pinakamatalik|JJCS_JJD kong|PRS_CCP kaibigan|NNC .|PMP
+Hinihintay|VBTR ko|PRS siyang|PRS_CCP makabalik|VBW mula|RBL sa|CCT paaralan|NNC .|PMP
+Napapanatili|VBTR ko|PRS ang|DTC aking|PRSP_CCP kalinisan|NNC kahit|CCT hindi|RBF gumagamit|VBTR_VBAF ng|CCB tubig|NNC .|PMP
+Hindi|RBF ko|PRS kailangang|VBS_CCP maligo|VBW katulad|JJC ni|DTP Tommy|NNP .|PMP
+Shhh|NNP ...|PMS Huwag|RBF ninyong|VBTS sasabihing|VBTF_CCP nagtatago|VBTR ako|PRS dito|PRL . . .|NNPA .|PMP .|PMP
+...|PMS .|PMP .|PMP
+Huli|RBW ka|PRS !|PMQ
+Sinasaway|VBTR ako|PRS ni|DTP Nanay|NNP kapag|CCR nagdadala|VBTR ako|PRS ng|CCB masasarap|JJD na|CCP pagkain|NNC mula|RBL sa|CCT hardin|NNC .|PMP
+Kaya|CCR kong|PRS_CCP umakyat|VBAF sa|CCT mga|DTCP puno|NNC .|PMP
+Kaya|CCR kong|PRS_CCP tumalon|VBAF .|PMP
+Alam|VBS ko|PRS kung|RBK saan|RBQ ang|DTC mga|DTCP mas|JJCC madaling|JJD_CCP daan|NNC .|PMP
+Kapitbahay|NNC namin|PRP si|DTP Sanju|NNP .|PMP
+Lagi|RBW niya|PRS akong|PRS_CCP tinutukso|VBTR .|PMP
+Ako|PRS ay|LM galit|JJD na|CCP galit|NNC dahil|CCR dito|PRL .|PMP
+Pakisabi|VBAF kay|DTP Sanju|NNP na|CCP ang|DTC tigre|NNC ay|LM kabilang|CCB sa|CCT pamilya|NNC ng|CCB mga|DTCP pusa|NNC .|PMP
+Mayroon|VBH kaming|PRP_CCP matatalas|VBTF na|CCP kuko|NNC .|PMP
+Minsan|RBW ang|DTC aking|PRSP_CCP mga|DTCP kaibigan|NNC ay|LM maingay|JJD sa|CCT gabi|RBW .|PMP
+Sa|CCT oras|NNC na|CCP iyon|PRO ay|LM mahimbing|JJD na|RBI ang|DTC aking|PRSP_CCP tulog|NNC sa|CCT higaan|NNC .|PMP
+Ang|DTC buntot|NNC ay|LM nakapagsasalita|VBTS !|PMQ
+Alam|VBS niyo|PRP ba|RBI kung|RBK paano|RBQ nakapagsasalita|VBTS ang|DTC mga|DTCP ibon|NNC at|CCA iba|PRI pang|RBI_CCP hayop|NNC sa|CCT pamamagitan|NNC ng|CCB kanilang|PRSP_CCP buntot|NNC ?|PMQ
+Kinakawag|VBTS ng|CCB aso|NNC ang|DTC kaniyang|PRSP_CCP buntot|NNC kapag|CCR ito|PRO ay|LM masaya|JJD .|PMP
+Napalalaki|JJCS_JJD naman|RBI ng|CCB pusa|NNC ang|DTC kaniyang|PRSP_CCP buntot|NNC kapag|CCR ito|PRO ay|LM nagagalit|VBTR .|PMP
+Madalas|RBD nasasabi|VBTR natin|PRP ,|PMC "|PMS Kasinlinis|FW ng|CCB isang|PRI_CCP pusa|NNC "|PMS .|PMP
+Sa|CCT kadahilanang|NNC_CCP ayaw|RBF ng|CCB mga|DTCP pusa|NNC ang|DTC tubig|NNC ,|PMC ngunit|CCT napapanatili|VBTR nila|PRP angkanilang|NNC_CCP kalinisan|NNC sa|CCT pamamagitan|NNC ng|CCB paghihimod|NNC sa|CCT buo|PRI nilang|PRP_CCP katawan|NNC .|PMP

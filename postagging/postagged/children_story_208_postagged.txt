@@ -1,0 +1,269 @@
+Dum|NNP Dum|NNP -|PMS a-Dum|FW Biryani|FW !|PMS
+Sumulat|VBAF :|PMS Gayathri|NNP Tirthapura|NNP Ginuhit|VBOF ni|DTP :|PMS Kabini|FW AminSi|FW Basha|FW at|CCA ang|DTC kanyang|PRSP_CCP kapatid|NNC na|CCP babae|NNC na|CCP si|DTP Sainabi|NNP ay|LM nakatira|VBTS sa|CCT Hyderabad|NNP kasama|CCB ang|DTC kanilang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
+Mahilig|JJD si|DTP Basha|NNP sa|CCT pagkain|NNC .|PMP
+Ngunit|CCT mas|JJCC gusto|VBS niyang|PRS_CCP mag|VBW luto|JJD .|PMP
+Lagi|RBW niya|PRS tinutulungan|VBTR si|DTP Ammi|NNP sa|CCT kusina|NNC araw|NNC araw|NNC .|PMP
+Gustong|VBS_CCP gusto|VBS nyang|PRS_CCP nanunuod|VBTS habang|RBW naghihiwa|VBTR ang|DTC kanyang|PRSP_CCP tita|NNC ng|CCB mga|DTCP matingkad|JJD na|CCP kulay|NNC na|CCP mga|DTCP gulay|NNC —|PMS matambok|JJD na|CCP pulang|JJD_CCP kamatis|NNC ,|PMC malulutong|JJD na|CCP berdeng|JJD_CCP sili|NNC ,|PMC kahel|JJD na|CCP karots|NNC ,|PMC mataba|JJD nakulay|VBTS rosas|NNC na|CCP sibuyas|NNC ...|PMS "|PMS Mmmm|FW !|PMS "|PMS
+Gustung|NNP -|PMS gusto|VBS ni|DTP Basha|NNP ang|DTC mapang|JJD_CCP -|PMS akit|JJD na|CCP amoy|NNC na|CCP umiikot|VBTR_VBAF sa|CCT kusina|NNC ni|DTP Ammi|NNP bilang|CCT mga|DTCP dhals|FW ,|PMC kanin|NNC ,|PMC mga|DTCP gulay|NNC ,|PMC karne|NNC ,|PMC at|CCA pampalasa|NNC ay|LM nagbabago|VBTR ng|CCB kulay|NNC sa|CCT kalan|NNC .|PMP
+Umaasa|VBTR_VBAF siyang|PRS_CCP mabibigyan|VBW siya|PRS ng|CCB pagkakataon|NNC ni|DTP Ammi|NNP na|CCP magluto|VBW ng|CCB ulam|NNC nang|CCB mag|VBW -|PMS isa|PRI balang|JJD_CCP araw|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC pagkabalik|NNC ni|DTP Basha|NNP at|CCA Sainabi|NNP galing|RBL paaralan|NNC at|CCA nakita|VBTS nilang|PRP_CCP tulog|NNC si|DTP Ammi|NNP na|CCP may|VBH mataas|JJD na|CCP lagnat|NNC .|PMP
+Hindi|RBF pa|RBI nakakabalik|VBTR si|DTP Baba|NNP galing|RBL sa|CCT opisina|NNC .|PMP
+Nakita|VBTS ni|DTP Basha|NNP na|CCP tumatawag|VBTR_VBAF ang|DTC matalik|JJD na|CCP kaibigan|NNC ni|DTP Ammi|NNP na|CCP si|DTP Tita|NNP Saira|NNP at|CCA agad|RBW niya|PRS itong|PRO_CCP sinagot|VBTS .|PMP
+Ayaw|RBF niyang|PRS_CCP gisingin|VBOF si|DTP Ammi|NNP .|PMP "|PMS
+Pauwi|NNP na|CCP ako|PRS mula|RBW sa|CCT isang|PRI_CCP kasal|NNC kasama|CCB ang|DTC maraming|PRI_CCP kaibigan|NNC "|PMS ,|PMC paliwanag|NNC ni|DTP Tita|NNP Saira|NNP .|PMP
+Parang|CCT pagod|JJD na|CCP pagod|NNC siya|PRS .|PMP "|PMS
+Dadaan|VBTF kami|PRP sa|CCT iyong|PRSP_CCP tahanan|NNC sa|CCT loob|NNC ng|CCB halos|JJD dalawang|JJN_CCP oras|NNC .|PMP
+Sa|CCT tingin|NNC mo|PRS ba|RBI pwede|RBT tayong|PRP_CCP maghapunan|VBW sa|CCT lugar|NNC mo|PRS ?|PMQ
+Mayroong|VBH_CCP 24sa|CDB amin|PRSP -|PMS at|CCA ang|DTC apat|JJN ay|LM hindi|RBF kumakain|VBTR_VBAF ng|CCB karne|NNC "|PMS .|PMP
+Alam|VBS ni|DTP Basha|NNP na|CCP gustong|VBS_CCP makita|VBW sila|PRP ni|DTP Ammi|NNP .|PMP
+Mahal|NNP na|CCP mahal|JJD din|RBI nila|PRP ni|DTP Sainabi|NNP si|DTP Saira|NNP tita|NNC .|PMP "|PMS
+Walang|RBF anuman|PRI ,|PMC "|PMS sabi|VBS ni|DTP Basha|NNP .|PMP
+Nasasabik|VBTR siya|PRS habang|RBW binababa|VBTR ang|DTC telepono|NNC .|PMP
+Ito|PRO na|CCP ang|DTC pagkakataon|NNC niyang|PRS_CCP magluto|VBW ng|CCB ulam|NNC mag|VBW -|PMS isa|PRI !|PMQ
+Pero|CCT kakayanin|VBTF kaya|CCR niya|PRS ?|PMQ
+Nakakaramdam|VBTR siya|PRS ng|CCB kaba|NNC .|PMP
+Binuksan|VBTS niya|PRS ang|DTC refrigerator|FW at|CCA nakita|VBTS niya|PRS ang|DTC marami|PRI sa|CCT paborito|NNC niyang|PRS_CCP gulay|NNC ,|PMC kuliplor|NNC ,|PMC mga|DTCP gisantes|FW ,|PMC beans|FW .|PMP
+Nakikita|VBTR rin|RBI niya|PRS ang|DTC isang|PRI_CCP bungkos|NNC ng|CCB sariwang|JJD_CCP dahon|NNC ng|CCB menta|NNC na|CCP sumilip|VBAF mula|RBL sa|CCT ilalim|JJD ng|CCB mga|DTCP karot|NNC .|PMP "|PMS
+Oo|RBT !|PMS "|PMS
+naisip|VBTS niya|PRS sa|CCT sariliniya|NNC .|PMP "|PMS
+Mayroon|VBH akong|PRS_CCP lahat|PRI ng|CCB kailangan|VBS ko|PRS para|CCT sa|CCT isang|PRI_CCP masarap|JJD na|CCP Vegetable|NNP Dum|NNP Biryani|NNP !|PMS "|PMS
+Maraming|PRI_CCP beses|NNC na|CCP pinanood|VBTS ni|DTP Basha|NNP si|DTP Ammi|NNP na|CCP nagluluto|VBTR ng|CCB Vegetable|NNP Dum|NNP Biryani|NNP para|CCT sa|CCT kanilang|PRSP_CCP pamilya|NNC na|RBI .|PMP
+Pero|CCT kailangan|VBS na|CCP niyang|PRS_CCP magluto|VBW para|CCT sa|CCT 24na|CDB tao|NNC !|PMS
+Iyon|PRO ay|LM anim|JJN na|CCP beses|NNC *|PMS ang|DTC bilang|NNC ng|CCB mga|DTCP taong|NNC_CCP karaniwang|JJD_CCP nagluluto|VBTR nito|PRO ni|DTP Ammi|NNP !|PMS
+(|PMS +|PMS +|PMS +|PMS +|PMS +|PMS =|PMS .|PMP
+O|NNPA ,|PMC 4x6|CDB =|PMS )|PMS "|PMS Ibig|VBS sabihin|VBOF ,|PMC "|PMS naisip|VBTS ni|DTP Basha|NNP sa|CCT sarili|NNC ,|PMC medyo|JJC kinakabahan|VBTR ,|PMC "|PMS Kailangan|VBS kong|PRS_CCP magluto|VBW ng|CCB biryani|NNC ng|CCB anim|JJN na|CCP beses|NNC !|PMS "|PMS
+Magkakaroon|VBTF ba|RBI siya|PRS ng|CCB sapat|JJD na|CCP oras|NNC para|CCT gawin|VBOF iyon|PRO ?|PMQ
+Habang|RBW nagsisimula|VBTR siyang|PRS_CCP maglatag|VBAF ng|CCB anim|JJN sa|CCT bawat|PRI sisidlan|NNC na|CCP kailangan|VBS niya|PRS para|CCT sa|CCT pagluluto|NNC ,|PMC lumabas|VBAF si|DTP Sainabi|NNP sa|CCT pintuan|NNC ng|CCB kusina|NNC .|PMP "|PMS
+Anong|PRQ_CCP balak|NNC mo|PRS ?|PMQ "|PMS
+tanong|NNC niya|PRS na|CCP nakakunot|VBTS ang|DTC noo|NNC .|PMP
+Nang|RBW ipaliwanag|VBOF sa|CCT kanya|PRSP ni|DTP Basha|NNP ang|DTC kanyang|PRSP_CCP ginagawa|NNC ,|PMC nagsimula|VBTS siyang|PRS_CCP tumawa|VBAF nang|RBD malakas|RBD .|PMP "|PMS
+Buddhu|NNP !|PMS "|PMS
+pang|RBI_CCP -|PMS aasar|FW niya|PRS sa|CCT kanya|PRSP .|PMP "|PMS
+Hindi|RBF mo|PRS kailangang|VBS_CCP gawin|VBOF ang|DTC ulam|NNC ng|CCB na|CCP beses|NNC !|PMS
+Kailangan|VBS mo|PRS lang|RBI gawin|VBOF ito|PRO ng|CCB isang|PRI_CCP beses|NNC ,|PMC ngunit|CCT may|VBH na|CCP beses|NNC ang|DTC dami|NNC ng|CCB lahat|PRI ng|CCB mga|DTCP sangkap|NNC na|CCP kailangan|VBS .|PMP "|PMS
+Ayaw|RBF ni|DTP Basha|NNP na|CCP tinutukso|VBTR ng|CCB kanyang|PRSP_CCP matalinong|JJD_CCP kapatid|NNC na|CCP babae|NNC .|PMP
+Syempre|RBT hindi|RBF niya|PRS kailangang|VBS_CCP gumawa|VBAF ng|CCB biryani|NNC ng|CCB anim|JJN na|CCP beses|NNC !|PMS
+Kaya|CCR niyang|PRS_CCP sipain|VBOF ang|DTC sarili|NNC dahil|CCR sa|CCT kalokohang|NNC_CCP pagkakamali|NNC niya|PRS .|PMP "|PMS
+Matagal|JJD ko|PRS na|CCP itong|PRO_CCP alam|VBS "|PMS mabilis|JJD niyang|PRS_CCP sabi|NNC .|PMP
+Gusto|VBS ko|PRS lang|RBI makita|VBW kung|CCR alam|VBS MO.|NNPA "|PMS "|PMS Siyempre|RBT alam|VBS mo|PRS ,|PMC Bhai|NNP ,|PMC "|PMS Mahinahong|RBD_CCP sabi|VBS ni|DTP Sainabi|NNP ,|PMC ngunit|CCT ang|DTC kanyang|PRSP_CCP mga|DTCP mata|NNC ay|LM kumikislap|VBTR_VBAF ng|CCB pilyo|NNC .|PMP "|PMS
+Sabihin|VBOF mo|PRS sakin|JJD kung|CCR ilang|PRQ_CCP bigas|NNC and|CCA kailangan|VBS sa|CCT apat|JJN na|CCP tao|NNC ?|PMQ "|PMS "|PMS
+Isa|PRI '|PMS t|NNCA kalahating|PRI_CCP gatang|NNC .|PMP "|PMS
+Pagkatapos|VBW ay|LM kakailanganin|VBTF mo|PRS ng|CCB .|PMP
+x|PMS =|PMS na|CCP tasa|NNC ng|CCB bigas|NNC para|CCT sa|CCT 24na|CDB tao|NNC ,|PMC "|PMS agad|RBD na|CCP tugon|NNC ni|DTP Sainabi|NNP .|PMP
+Tinitigan|VBTR_VBOF siya|PRS ni|DTP Basha|NNP .|PMP
+Paano|PRQ nagagawa|VBTR ni|DTP Sainabi|NNP ang|DTC mga|DTCP numerong|NNC_CCP iyon|PRO nang|RBD napakabilis|JJCS_JJD sa|CCT kanyang|PRSP_CCP isipan|NNC ?|PMQ "|PMS
+Tama|RBT ,|PMC "|PMS masungit|JJD na|CCP sabi|NNC niya|PRS ,|PMC sinukat|VBTS ang|DTC bigas|NNC sa|CCT isang|PRI_CCP malaking|JJD_CCP sisidlan|NNC .|PMP
+Ngayon|RBW ,|PMC bakit|PRQ hindi|RBF mo|PRS sabihin|VBOF sa|CCT akin|PRSP kung|CCR ilanrin|VBTF ang|DTC kailangan|VBS natin|PRP sa|CCT lahat|PRI ng|CCB iba|PRI pang|RBI_CCP sangkap|NNC ,|PMC at|CCA sasabihin|VBTF ko|PRS sa|CCT iyo|PRSP kung|CCR tama|RBT ka|PRS .|PMP "|PMS "|PMS
+Oo|RBT naman|RBI ,|PMC Bhai|NNP !|PMS "|PMS
+sabi|VBS ni|DTP Sainabi|NNP ,|PMC tumatakbo|VBTR_VBAF para|CCT kumuha|VBAF ng|CCB lapis|NNC at|CCA papel|NNC .|PMP
+Gustung|NNP -|PMS gustoniya|NNC kapag|CCR sinasali|VBTR siya|PRS ng|CCB kanyang|PRSP_CCP kapatid|NNC sa|CCT isang|PRI_CCP bagay|NNC na|CCP ginagawa|VBTR nito|PRO .|PMP
+Habang|RBW sinasabi|VBTR sa|CCT kanya|PRSP ni|DTP Basha|NNP ang|DTC listahan|NNC ng|CCB mga|DTCP sangkap|NNC na|CCP kailangan|VBS para|CCT sa|CCT apat|JJN na|CCP tao|NNC ,|PMC kinakalkula|VBTR niya|PRS ang|DTC mga|DTCP dami|NNC para|CCT sa|CCT .|PMP
+15green|CDB beans|FW para|CCT sa|CCT na|CCP tao|NNC ,|PMC "|PMS sabi|VBS ni|DTP Basha|NNP .|PMP "|PMS
+Ibig|VBS sabihin|VBOF ...|PMS 15x|CDB =|PMS 90green|CDB beans|FW para|CCT sa|CCT !|PMS "|PMS
+sabi|VBS ni|DTP Sainabi|NNP .|PMP "|PMS
+Ibig|VBS sabihin|VBOF ,|PMC /|PMS x|NNC =|PMS .|PMP
+75x|CDB =|PMS .|PMP
+tasa|NNC ng|CCB keso|NNC para|CCT sa|CCT ,|PMC "|PMS sabi|VBS ni|DTP Sainabi|NNP ,|PMC na|CCP mabilis|JJD na|CCP ginagawa|VBTR ito|PRO sa|CCT kanyang|PRSP_CCP papel|NNC .|PMP
+Sana|VBS ay|LM mayroon|VBH tayong|PRP_CCP ganyang|PRC_CCP kalaking|JJD_CCP keso|NNC sa|CCT refrigerator|FW .|PMP "|PMS "|PMS
+Mayroon|VBH ,|PMC "|PMS sabi|VBS ni|DTP Basha|NNP .|PMP "|PMS
+Susunod|NNP .|PMP .|PMP "|PMS
+Sa|CCT wakas|RBW ,|PMC nasukat|VBTS na|CCP nila|PRP ang|DTC lahat|PRI ng|CCB sangkap|NNC .|PMP "|PMS
+Pwede|RBT mo|PRS ba|RBI akong|PRS_CCP tulungan|VBTF_VBOF mag|VBW hiwa|NNC nito|PRO ?|PMQ "|PMS
+Tanong|NNC ni|DTP Basha|NNP ,|PMC dahil|CCR naisip|VBTS nya|PRS na|CCP napakaraming|JJCS_JJD_CCP gulay|NNC ang|DTC kailangang|VBS_CCP hiwain|VBOF .|PMP "|PMS
+Oo|RBT naman|RBI "|PMS sagot|NNC ni|DTP Bhai|NNP .|PMP
+Unang|JJN_CCP ibinabaa|VBOF ni|DTP Basha|NNP ang|DTC mga|DTCP balat|NNC ng|CCB kahel|NNC sa|CCT gatas|NNC at|CCA sa|CCT bigas|NNC na|CCP may|VBH tubig|NNC .|PMP
+At|CCA pagkatapos|VBW ay|LM tinulungan|VBTS nya|PRS ng|CCB maghiwa|VBW si|DTP Sainabi|NNP ng|CCB gulay|NNC .|PMP
+Binuksan|VBTS na|RBI ni|DTP Basha|NNP ang|DTC kalan|NNC at|CCA nagsimula|VBTS na|RBI itong|PRO_CCP lutuin|NNC ang|DTC mga|DTCP sahog|NNC ,|PMC tulad|JJC ng|CCB mga|DTCP kanela|NNC ,|PMC mga|DTCP sibuyas|NNC ,|PMC luntiangkardomono|NNC ,|PMC itim|JJD na|CCP kardomono|NNC at|CCA ang|DTC mga|DTCP iba|PRI pang|RBI_CCP gulay|NNC .|PMP
+Sumimoy|NNP na|CCP ang|DTC pamilyar|JJD na|CCP amoy|NNC sa|CCT buong|PRI_CCP kusina|NNC .|PMP
+Nagsimula|VBTS ng|CCB magkaroon|VBW ng|CCB kumpiyansa|NNC sa|CCT sarili|NNC si|DTP Basha|NNP .|PMP
+Hindi|RBF makapag|VBW hintay|VBOF si|DTP Basha|NNP sa|CCT paborito|NNC nyang|PRS_CCP parte|NNC ng|CCB pagluluto|NNC ,|PMC Ipinagpatong|NNC_CCP nya|PRS na|CCP ang|DTC mga|DTCP sahog|NNC at|CCA mabagal|JJD na|CCP pagluluto|NNC na|CCP ng|CCB kanin|NNC at|CCA mga|DTCP gulay|NNC .|PMP
+At|CCA tumonog|VBAF ang|DTC kampana|NNC sa|CCT pinto|NNC .|PMP
+Bago|RBW pa|RBI man|RBI makapunta|VBW si|DTP Basha|NNP at|CCA Sainabi|NNP para|CCT pagbuksan|VBW ng|CCB pinto|NNC ang|DTC mga|DTCP bisita|NNC nagulat|VBTS sila|PRP dahil|CCR si|DTP Ammi|NNP ay|LM gising|JJD na|RBI at|CCA binabati|VBTR na|CCP ang|DTC mga|DTCP bisita|NNC .|PMP
+Nakita|VBTS nilang|PRP_CCP nag|PRSP_CCP aalala|NNC si|DTP Ammi|NNP dahil|CCR wala|VBN pa|RBI syang|RBW_CCP lutong|JJD_CCP hapunan|NNC .|PMP
+Sinusundan|VBTR niya|PRS ang|DTC kaaya|NNC -|PMS ayang|NNC_CCP amoy|NNC at|CCA umabot|VBAF sa|CCT kusina|NNC .|PMP "|PMS
+Surprise|NNP !|PMS "|PMS
+sigaw|NNC nina|DTPP Basha|NNP at|CCA Sainabi|NNP habang|RBW tinatanggal|VBTR ang|DTC takip|NNC sa|CCT kamay|NNC .|PMP
+Natigilan|VBTS si|DTP Ammi|NNP .|PMP
+Si|DTP Basha|NNP ay|LM magaling|JJD magluto|VBW ,|PMC Ammi|NNP .|PMP
+Gumawa|VBAF siya|PRS ng|CCB biryani|FW !|PMS
+Tinulungan|VBOF ko|PRS siyang|PRS_CCP gawin|VBOF ito|PRO ,|PMC "|PMS sabi|VBS ni|DTP Sainabi|NNP .|PMP
+Si|DTP Basha|NNP ay|LM nakangiting|VBTS_CCP may|VBH pagmamalaki|NNC kay|DTP Ammi|NNP ,|PMC iniisip|VBTR na|CCP ang|DTC kanyang|PRSP_CCP nakababatang|JJD_CCP kapatid|NNC na|CCP babae|NNC ay|LM hindi|RBF naman|RBI masama|JJD kung|CCR tutuusin|VBTF .|PMP
+Niyakapni|NNP Ammi|NNP sina|DTPP Basha|NNP at|CCA Sainabi|NNP .|PMP "|PMS
+Mashallah|NNP !|PMS "|PMS
+siya|PRS ay|LM ngumiti|VBAF .|PMP
+Mayroon|VBH akong|PRS_CCP dalawang|JJN_CCP mabubuting|JJD_CCP anak|NNC .|PMP
+Sobrang|JJCS_CCP pinagmamalaki|VBTR_VBRF ko|PRS kayong|PRO_CCP dalawa|CDB .|PMP
+Bakit|PRQ hindi|RBF ka|PRS sumama|VBAF kay|DTP Tita|NNP Saira|NNP at|CCA sa|CCT iba|PRI pa|RBI ,|PMC Ammi|NNP ?|PMQ "|PMS
+Ipaghahanda|VBTR po|RBS namin|PRP kayo|PRP ni|DTP Sainabi|NNP .|PMP "|PMS
+Sabik|RBD na|CCP tumango|VBAF si|DTP Sainabi|NNP .|PMP
+Baka|NNP hilingin|VBOF sa|CCT kanya|PRSP ni|DTP Bhai|NNP na|CCP tulungan|VBTF_VBOF siya|PRS sa|CCT mas|JJCC maraming|PRI_CCP bagay|NNC mula|RBW ngayon|RBW !|PMQ
+Hindi|RBF niya|PRS mapigilang|RBD_CCP mapangiti|VBW sa|CCT naisip|VBTS .|PMP "|PMS
+Ito|PRO ang|DTC pinakamasarap|JJCS_JJD Dum|NNP Biryani|NNP na|CCP natikaman|VBTS namin|PRP !|PMS "|PMS
+sabi|VBS ni|DTP Saira|NNP tita|NNC at|CCA ng|CCB kanyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP "|PMS
+Sumasang|NNP -|PMS ayon|RBR ako|PRS ng|CCB isang|PRI_CCP daang|NNC_CCP porsyento|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Ammi|NNP ,|PMC dinilaan|VBTS ang|DTC kanyang|PRSP_CCP mga|DTCP daliri|NNC .|PMP
+Si|DTP Basha|NNP at|CCA Sainabi|NNP ay|LM nakangiti|VBTS !|PMQ
+Magluto|VBW kasama|CCB sina|DTPP Basha|NNP at|CCA Sainabi|NNP !|PMS
+Hulaan|VBAF mo|PRS !|PMQ
+Matamis|JJD na|CCP sumang|NNC_CCP -|PMS ayon|RBR sina|DTPP Basha|NNP at|CCA Sainabi|NNP 's|CDB Ammi|NNP na|CCP ibahagi|VBOF sa|CCT amin|PRSP ang|DTC kanyang|PRSP_CCP Dum|NNP Biryani|NNP recipe|FW !|PMS
+Siguraduhing|VBTR_CCP may|VBH matanda|JJD sa|CCT paligid|JJD kapag|CCR sinubukan|VBOF mo|PRS ito|PRO .|PMP
+Mga|DTCP sangkap|NNC (|PMS para|CCT sa|CCT isang|PRI_CCP biryani|NNC na|CCP para|CCT sa|CCT )|PMS -|PMS Basmati|NNP rice|FW -|PMS /|PMS tasa|NNC ,|PMC ibinabad|VBOF sa|CCT tubig|NNC -|PMS Mainit|JJD na|CCP gatas|NNC na|CCP may|VBH hibla|NNC ng|CCB safron|NNC na|CCP nakababad|VBTS dito|PRL -|PMS tbsp|FW *|PMS -|PMS Tubig|NNC -|PMS na|CCP tasa|NNC -|PMS Ghee|NNP -|PMS tbsp|FW -|PMS Sibuyas|NNP -|PMS ,|PMC hiniwa|FW -|PMS Shahi|NNP Jeera|NNP -|PMS /|PMS tsp|FW **|FW -|PMS Bay|NNP leaf|FW -|PMS -|PMS Kanela|NNP -|PMS pulgadang|NNC_CCP patpat|NNC -|PMS Cloves|NNP -|PMS -|PMS Ginger|NNP -|PMS garlic|FW paste|FW -|PMS /|PMS tbsp|FW -|PMS Mixed|NNP vegetables|FW (|PMS kuliplor|FW ,|PMC beans|FW ,|PMC karots|FW ,|PMC gisantes|FW )|PMS -|PMS tasa|NNC ,|PMC hiwa|NNC -|PMS Kamatis|NNP -|PMS maliit|JJD ,|PMC tinadtad|VBOF -|PMS Berdeng|NNP_CCP sili|NNC -|PMS ,|PMC tinadtad|VBOF *|PMS tbsp|FW =|PMS kutsara|NNC **|PMS tsp|NNCA =|PMS kutsaritaSpice|FW powders|FW (|PMS Garam|CCB masala|VBW -|PMS tsp|NNCA ;|PMSC Haldi|RBF powder|NNC -|PMS /|PMS tsp|FW ;|PMSC Dhaniya|NNP powder|FW -|PMS tbsp|FW )|PMS -|PMS Keso|NNC -|PMS /|PMS na|CCP tasa|NNC -|PMS Dahon|NNP ng|CCB Mente|NNP -|PMS tbsp|FW ,|PMC tinadtad|VBOF -|PMS Mga|DTCP dahon|NNC ng|CCB kulantro|NNC -|PMS tbsp|FW ,|PMC tinadtad|VBOF -|PMS Cashews|NNP at|CCA pasas|NNC -|PMS bawat|PRI isa|PRI -|PMS Green|NNP cardamom|FW -|PMS -|PMS Black|NNP cardamom|FW -|PMS -|PMS Gatas|NNP -|PMS tbsp|FW -|PMS Salt|NNP -|PMS /|PMS tsp|FW Simulan|VBOF ang|DTC pagluluto|NNC !|PMS .|PMP
+Initin|VBTS ang|DTC kalahati|PRI ng|CCB ghee|FW sa|CCT isang|PRI_CCP kawali|NNC at|CCA iprito|VBOF ang|DTC mga|DTCP sibuyas|NNC hanggang|RBW maging|VBW maluto|VBW .|PMP
+Itabi|NNP .|PMP .|PMP
+Sa|CCT parehong|JJC_CCP kawali|NNC ,|PMC initin|VBTS ang|DTC natitirang|VBTR_CCP ghee|FW .|PMP
+Iprito|NNP ang|DTC shahi|FW jeera|FW ,|PMC dahon|NNC ng|CCB laurel|FW ,|PMC kanelaat|FW cloves|FW sa|CCT loob|NNC nito|PRO .|PMP
+Magdagdag|VBW ng|CCB ginger|FW garlic|FW paste|FW at|CCA iprito|VBOF ng|CCB dalawan|NNC minuto|NNC .|PMP .|PMP
+Ilagay|VBOF ang|DTC pinaghalong|VBRF_CCP gulay|NNC ,|PMC kamatis|NNC at|CCA berdeng|JJD_CCP sili|NNC at|CCA iprito|NNC ng|CCB tatlong|JJN_CCP minuto|NNC .|PMP .|PMP
+Idagdag|VBOF ang|DTC lahat|PRI ng|CCB spice|FW powder|FW .|PMP
+Magprito|NNP ng|CCB mabuti|JJD sa|CCT loob|NNC ng|CCB dalawang|JJN_CCP minuto|NNC .|PMP .|PMP
+Ibuhos|VBOF ang|DTC curd|FW at|CCA kalahating|PRI_CCP asin|NNC sa|CCT kawali|NNC at|CCA haluing|FW mabuti|JJD .|PMP
+Takpan|NNP at|CCA lutuin|NNC sa|CCT mahinang|JJD_CCP apoy|NNC sa|CCT loob|NNC ng|CCB mga|DTCP 10minuto|CDB ,|PMC hanggang|RBW ang|DTC mga|DTCP gulay|NNC ay|LM lumambot|VBAF ngunit|CCT hindi|RBF labsak|NNC .|PMP
+Mga|DTCP talababa|JJD na|CCP kasama|CCB ng|CCB recipe|FW .|PMP
+Isang|PRI_CCP sisidlan|NNC na|CCP may|VBH maliliit|JJD na|CCP butas|NNC sa|CCT ilalim|JJD upang|CCB maubos|VBW ang|DTC tubig|NNC Isang|PRI_CCP malalim|JJD at|CCA malawak|JJD na|CCP sisidlan|NNC sa|CCT pagluluto|NNC .|PMP .|PMP
+Alisin|VBOF ang|DTC kawali|NNC sa|CCT kalan|NNC at|CCA ilagay|VBOF ang|DTC mente|NNC at|CCA dahon|NNC ng|CCB kulantro|NNC dito|PRL .|PMP .|PMP
+Sa|CCT isang|PRI_CCP hiwalay|JJD na|CCP kawali|NNC ,|PMC pakuluan|VBOF ang|DTC tubig|NNC .|PMP
+Idagdag|VBOF ang|DTC natitirang|VBTR_CCP asin|NNC ,|PMC black|FW cardamoms|FW at|CCA green|FW cardamoms|FW .|PMP .|PMP
+Alisan|NNP ng|CCB tubig|NNC ang|DTC babad|VBTF na|CCP kanin|NNC ,|PMC idagdag|VBOF ito|PRO sa|CCT kumukulong|VBTR_VBAF_CCP tubig|NNC ,|PMC at|CCA lutuin|NNC ng|CCB walong|JJN_CCP minuto|NNC nang|CCB walang|VBN_CCP takip|NNC ang|DTC kawali|NNC .|PMP
+Kapag|CCR halos|JJD maluto|VBW na|RBI ang|DTC kanin|NNC ,|PMC alisan|NNC ng|CCB tubig|NNC sa|CCT salaan|NNC *|PMS .|PMP .|PMP
+Sa|CCT isang|PRI_CCP handi|FW **|FW na|CCP ang|DTC lakiay|NNC tamang|JJD_CCP -|PMS tama|RBT para|CCT hawakan|VBOF ang|DTC biryani|NNC ,|PMC simulan|VBOF ang|DTC pagpapatong|NNC .|PMP
+Sa|CCT Layer|NNP ,|PMC ilagay|VBOF ang|DTC /|PMS ng|CCB pinaghalong|VBRF_CCP gulay|NNC (|PMS mula|RBL sa|CCT step|FW )|PMS at|CCA /|PMS ng|CCB cashews|FW at|CCA pasas|FW .|PMP
+Sa|CCT Layer|NNP ,|PMC ilagay|VBOF ang|DTC /|PMS ng|CCB nilutong|NNC_CCP bigas|NNC (|PMS step|FW )|PMS ,|PMC lagyan|VBOF ng|CCB /|PMS ng|CCB pritong|NNC_CCP sibuyas|NNC (|PMS step|FW )|PMS at|CCA /|PMS ng|CCB saffron|FW milk|FW .|PMP
+Panatilihin|VBOF ang|DTC papalit|VBTF palit|JJD na|CCP Layers|NNC at|CCA hanggang|RBW sa|CCT magkaroon|VBW ka|PRS ng|CCB anim|JJN na|CCP layer|FW .|PMP .|PMP
+Takpan|NNP ang|DTC handi|FW at|CCA ilagay|VBOF ito|PRO sa|CCT isang|PRI_CCP mainit|JJD na|CCP tava|NNC .|PMP
+Iluto|NNP ng|CCB limang|JJN_CCP minuto|NNC .|PMP .|PMP
+Alisin|VBOF ang|DTC handi|FW sa|CCT kalan|NNC at|CCA ihalo|VBOF ang|DTC biryani|NNC hanggang|RBW sa|CCT magkapantay|VBW ang|DTC kulay|NNC ng|CCB mga|DTCP pampalasa|NNC .|PMP .|PMP
+Handa|JJD nang|RBW ihain|VBOF ang|DTC Gulay|NNC na|CCP Dum|NNP Biryani|NNP !!|PMS
+*|PMS Salaan|NNC :|PMS Isang|PRI_CCP sisidlan|NNC na|CCP may|VBH maliliit|JJD na|CCP butas|NNC sa|CCT ilalim|JJD upang|CCB maubos|VBW ang|DTC tubig|NNC **|PMS Handi|NNP :|PMS Isang|PRI_CCP sisidlan|NNC ng|CCB pagluluto|NNC na|CCP malalim|JJD at|CCA malawak|JJD ang|DTC bibig|NNC .|PMP
+Isa|PRI ka|PRS bang|RBI_CCP food|FW math|FW wiz|FW ?|PMQ
+Maaari|VBS ka|PRS bang|RBM magluto|VBW ng|CCB masarap|JJD na|CCP biryani|NNC para|CCT sa|CCT 24tulad|CDB ng|CCB ginawa|VBOF ni|DTP Basha|NNP ?|PMQ
+Hindi|RBF ?|PMQ
+Hindi|RBF bale|NNC na|RBI .|PMP
+Siguro|RBM matutulungan|VBTF mo|PRS siyang|PRS_CCP kalkulahin|VBOF ang|DTC dami|NNC ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP sangkap|NNC na|CCP kailangan|VBS niya|PRS ,|PMC tulad|JJC ng|CCB ginawa|VBOF ni|DTP Sainabi|NNP .|PMP
+Sige|NNP ,|PMC subukan|VBOF mo|PRS !|PMS .|PMP
+Kung|CCR kailangan|VBS ni|DTP Basha|NNP ng|CCB sibuyas|NNC para|CCT sa|CCT isang|PRI_CCP biryani|NNC para|CCT sa|CCT na|CCP tao|NNC ,|PMC ilan|PRQ ang|DTC kakailanganin|VBTF niya|PRS para|CCT sa|CCT isang|PRI_CCP biryani|NNC para|CCT sa|CCT 24na|CDB tao|NNC ?|PMQ .|PMP
+Kungkailangan|NNP ni|DTP Basha|NNP ng|CCB 72na|CDB mga|DTCP bulaklak|NNC ng|CCB kuliflor|NNC para|CCT sa|CCT biryani|NNC na|CCP naghahain|VBTR ng|CCB ,|PMC ilang|PRQ_CCP bulaklak|NNC ang|DTC dapat|VBS niyang|PRS_CCP ilagay|VBOF sa|CCT isang|PRI_CCP biryani|NNC na|CCP naghahain|VBTR ng|CCB ?|FW .|PMP
+Kung|CCR sinasabi|VBTR sa|CCT recipe|FW na|CCP ilagay|VBOF ang|DTC /|PMS na|CCP tasa|NNC ng|CCB keso|NNC para|CCT sa|CCT isang|PRI_CCP biryani|NNC para|CCT sa|CCT na|CCP tao|NNC ,|PMC gaano|PRC karaming|JJD_CCP keso|NNC ang|DTC dapat|VBS nating|PRP_CCP ilagay|VBOF sa|CCT isang|PRI_CCP biryani|NNC para|CCT sa|CCT 48na|CDB tao|NNC ?|PMQ .|PMP
+Upang|CCB makagawa|VBW ng|CCB biryani|NNC para|CCT sa|CCT tao|NNC ,|PMC kailangan|VBS mo|PRS ng|CCB na|CCP kutsara|NNC ng|CCB ghee|FW .|PMP
+Kung|CCR maglalagay|VBAF si|DTP Basha|NNP ng|CCB 32tbsp|CDB ,|PMC ilang|PRQ_CCP tao|NNC ang|DTC niluluto|VBTR niya|PRS ?|PMQ .|PMP
+Ang|DTC isang|PRI_CCP biryani|NNC na|CCP naghahain|VBTR ng|CCB ay|LM nangangailangan|VBTR ng|CCB dalawang|JJN_CCP pulgadang|NNC_CCP patpat|NNC ng|CCB kanela|NNC .|PMP
+Ilang|PRQ_CCP dalawang|JJN_CCP pulgadang|NNC_CCP patpat|NNC ang|DTC kailangan|VBS para|CCT sa|CCT isang|PRI_CCP biryani|NNC na|CCP naghahain|VBTR ng|CCB ?|PMQ
+Kapag|CCR tapos|RBW ka|PRS nang|RBW magkalkula|VBW ,|PMC tingnan|VBOF ang|DTC mga|DTCP sagot|NNC sa|CCT susunod|VBTF na|CCP pahina|NNC .|PMP
+Walang|VBN_CCP daya|NNC ,|PMC okay|NNC ?|PMQ
+Answers|NNP :|PMS .|PMP
+sibuyas|NNC .|PMP
+na|CCP mga|DTCP bulaklak|NNC .|PMP
+tasa|NNC .|PMP
+40katao|CDB .|PMP
+16pulgadang|CDB patpatAng|NNC_CCP aklat|NNC na|CCP ito|PRO ay|LM ginawang|VBOF_CCP posible|JJD sa|CCT pamamagitan|NNC ng|CCB platform|FW ng|CCB StoryWeaver|NNP ng|CCB Pratham|NNP Books|NNP .|PMP
+Ang|DTC nilalaman|NNC sa|CCT ilalim|JJD ng|CCB mga|DTCP lisensya|NNC ng|CCB Creative|NNP Commons|NNP ay|LM maaaring|RBM i|NNCA -|PMS download|NNC ,|PMC isalin|VBOF at|CCA maaari|VBS pang|RBI_CCP gamitin|VBOF upang|CCB lumikha|VBAF ng|CCB mga|DTCP bagong|JJD_CCP kwento|NNC kung|CCR magbibigay|VBTF ka|PRS ng|CCB naaangkop|VBTR na|CCP kredito|NNC ,|PMC at|CCA ipahiwatig|VBOF kung|CCR may|VBH mga|DTCP pagbabagong|NNC_CCP ginawa|VBOF .|PMP
+Upang|CCB malaman|VBW ang|DTC higit|JJCC pa|RBI tungkol|RBR dito|PRL ,|PMC at|CCA ang|DTC buong|PRI_CCP tuntunin|NNC ng|CCB paggamit|NNC at|CCA pagpapatungkol|NNC ,|PMC pakibisita|NNC ang|DTC sumusunod|VBTR_VBAF na|CCP link|FW .|PMP
+Pagpapatungkol|NNP sa|CCT Kwento|NNP :|PMS Ang|DTC kwentong|NNC_CCP ito|PRO :|PMS Dum|NNP Dum|NNP -|PMS a-Dum|FW Biryani|FW !|PMS
+ay|LM isinulat|VBTS ni|DTP Gayathri|NNP Tirthapura|NNP .|PMP
+©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Other|NNP Credits|NNP :|PMS Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM unang|JJN_CCP nai|FW -|PMS publish|JJD sa|CCT StoryWeaver|NNP ,|PMC Pratham|NNP Books|NNP .|PMP
+Ang|DTC pagbuo|NNC ng|CCB aklat|NNC na|CCP ito|PRO ay|LM suportado|JJD ng|CCB Oracle|NNP Giving|NNP Initiative|NNP .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM nilikha|VBTS para|CCT sa|CCT StoryWeaver|NNP ,|PMC Pratham|NNP Books|NNP ,|PMC sa|CCT suporta|NNC nina|DTPP Roopa|NNP Pai|NNP (|PMS Guest|NNP Editor|NNP )|PMS at|CCA Kaveri|NNP Gopalakrishnan|NNP (|PMS Art|NNP Director|NNP )|PMS .|PMP
+Mga|DTCP Katangian|NNC ng|CCB Ilustrasyon|NNP :|PMS Cover|NNP page|FW :|PMS Batang|NNC_CCP babae|NNC na|CCP may|VBH lapis|NNC ,|PMC batang|JJD_CCP lalaki|NNC na|CCP may|VBH sandok|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Green|NNP capsicum|FW ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Batang|NNC_CCP lalaki|NNC na|CCP nanonood|VBTR ng|CCB ina|NNC na|CCP nagluluto|VBTR sa|CCT kusina|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Berdeng|JJD_CCP background|FW na|CCP may|VBH hindi|RBF malinaw|JJD na|CCP mga|DTCP gilid|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Natutulog|VBTR ang|DTC nanay|NNC sa|CCT kama|NNC ,|PMC lalaki|NNC sa|CCT telepono|NNC ,|PMC nag|VBTS -|PMS aalala|NNC ang|DTC babae|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaanang|VBTS ilang|PRQ_CCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Banayad|JJD na|CCP kayumanggi|JJD na|CCP background|FW ,|PMC naka|JJD -|PMS texture|FW ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Mga|DTCP gulay|NNC sa|CCT refrigerator|FW ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Berdeng|JJD_CCP background|FW na|CCP may|VBH hindi|RBF malinaw|JJD na|CCP mga|DTCP gilid|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Isang|PRI_CCP batang|JJD_CCP lalaki|NNC at|CCA isang|PRI_CCP babae|NNC na|CCP tumitingin|VBTR_VBAF sa|CCT mga|DTCP kaldero|NNC ,|PMC kawali|NNC at|CCA sisidlan|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Banayad|JJD na|CCP kayumanggi|JJD na|CCP background|FW ,|PMC naka|JJD -|PMS texture|FW ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabassa|NNP ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Batang|NNC_CCP lalaki|NNC na|CCP may|VBH hawak|JJD na|CCP beans|FW ,|PMC babae|NNC na|CCP nagkalkula|VBTS ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Disclaimer|NNP :|PMS https|FW :|PMS /|PMS /|PMS www.storyweaver.org.in/terms|FW and|FW conditionsNakalaanangilangkarapatan|FW .|PMP
+AngaklatnaitoayC|NNP BY|NNPA −|PMS .0|CDB lisensyado|JJD .|PMP
+Maaarimongkopyahin|NNP ,|PMC baguhin|VBOF ,|PMC ipama|VBTF /|PMS /|PMS creativecommons.org/licenses/by/./AngpagbuongaklaAng|FW aklat|NNC na|CCP ito|PRO ay|LM ginawang|VBOF_CCP posible|JJD sa|CCT pamamagitan|NNC ng|CCB platform|FW ng|CCB StoryWeaver|NNP ng|CCB Pratham|NNP Books|NNP .|PMP
+Ang|DTC nilalaman|NNC sa|CCT ilalim|JJD ng|CCB mga|DTCP lisensya|NNC ng|CCB Creative|NNP Commons|NNP ay|LM maaaring|RBM i|NNCA -|PMS download|NNC ,|PMC isalin|VBOF at|CCA maaari|VBS pang|RBI_CCP gamitin|VBOF upang|CCB lumikha|VBAF ng|CCB mga|DTCP bagong|JJD_CCP kwento|NNC kung|CCR magbibigay|VBTF ka|PRS ng|CCB naaangkop|VBTR na|CCP kredito|NNC ,|PMC at|CCA ipahiwatig|VBOF kung|CCR may|VBH mga|DTCP pagbabagong|NNC_CCP ginawa|VBOF .|PMP
+Upang|CCB malaman|VBW ang|DTC higit|JJCC pa|RBI tungkol|RBR dito|PRL ,|PMC at|CCA ang|DTC buong|PRI_CCP tuntunin|NNC ng|CCB paggamit|NNC at|CCA pagpapatungkol|NNC ,|PMC pakibisita|NNC ang|DTC sumusunod|VBTR_VBAF na|CCP link|FW .|PMP
+Mga|DTCP Atribusyon|NNC sa|CCT Ilustrasyon|NNP :|PMS Pahina|NNP :|PMS Berdeng|JJD_CCP background|FW na|CCP may|VBH hindi|RBF malinaw|JJD na|CCP mga|DTCP gilid|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Batang|NNC_CCP nagluluto|VBTR ,|PMC dumaratingang|VBTR_VBAF_CCP mga|DTCP bisita|NNC sa|CCT pintuan|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Banayad|JJD na|CCP kayumangging|JJD_CCP background|FW ,|PMC naka|JJD -|PMS texture|FW ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Niyakap|VBTS ng|CCB ina|NNC ang|DTC kanyang|PRSP_CCP mga|DTCP anak|NNC habang|RBW nanonood|VBTR ang|DTC ibang|PRI_CCP mga|DTCP bisita|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Mga|DTCP sangkap|NNC para|CCT sa|CCT biryani|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Lahat|PRI ng|CCB napupunta|VBTR sa|CCT isang|PRI_CCP biryani|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Dalawang|JJN_CCP karot|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Berdeng|JJD_CCP background|FW na|CCP may|VBH hindi|RBF malinaw|JJD na|CCP mga|DTCP gilid|NNC ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Nakalaan|VBTS ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Pahina|NNP :|PMS Batang|NNC_CCP lalaki|NNC na|CCP may|VBH hawak|JJD na|CCP beans|FW ,|PMC babae|NNC na|CCP nagkalkula|VBTS ,|PMC ni|DTP Kabini|NNP Amin|NNP ©|PMS Pratham|NNP Books|NNP ,|PMC .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP karapatan|NNC ay|LM nakalaan|VBTS .|PMP
+Inilabas|VBTS sa|CCT ilalim|JJD ng|CCB CC|NNPA BY|NNPA .|PMP
+na|CCP lisensya|NNC .|PMP
+Disclaimer|NNP :|PMS https|FW :|PMS /|PMS /|PMS www.storyweaver.org.in/terms|FW and|FW conditionsNakalaanangilangkarapatan|FW .|PMP
+AngaklatnaitoayC|NNP BY|NNPA −|PMS .0|CDB lisensyado|JJD .|PMP
+Maaarimongkopyahin|NNP ,|PMC baguhin|VBOF ,|PMC ipama|VBTF /|PMS /|PMS creativecommons.org/licenses/by/./AngpagbuongaklaDum|FW Dum|FW -|PMS a-Dum|FW Biryani|FW !|PMS
+(|PMS Ingles|NNP )|PMS Si|DTP Basha|NNP at|CCA Sainabi|NNP ay|LM na|CCP gulat|JJD .|PMP
+Si|DTP Ammi|NNP ay|LM may|VBH sakit|NNC ,|PMC at|CCA si|DTP Tita|NNP Saira|NNP ay|LM nagsabi|VBTS na|CCP siya|PRS ay|LM darating|VBTF para|CCT sa|CCT tanghalian|NNC -|PMS kasama|CCB ang|DTC 23iba|CDB pang|RBI_CCP mga|DTCP tao|NNC !|PMS
+Iniisip|VBTS ng|CCB baguhang|JJD_CCP chef|FW na|CCP si|DTP Basha|NNP na|CCP makakapagluto|VBW siya|PRS ng|CCB Dum|NNP Biryani|NNP ni|DTP Ammi|NNP ,|PMC ngunit|CCT sapat|JJD lang|RBI ang|DTC kanyang|PRSP_CCP recipe|FW para|CCT sa|CCT na|CCP tao|NNC .|PMP
+Sumulong|VBAF si|DTP Math|NNP wiz|FW Sainabi|FW upang|CCB tumulong|VBAF ,|PMC na|CCP nagpahayag|VBTS na|CCP alam|VBS niya|PRS kung|RBK paano|RBQ gawing|VBOF_CCP -|PMS taong|NNC_CCP recipe|FW ang|DTC isang|PRI_CCP recipe|FW para|CCT sa|CCT na|CCP tao|NNC .|PMP
+Nagtagumpay|VBTS ba|RBI ang|DTC magkapatid|NNC sa|CCT paghahatid|NNC ng|CCB tunay|JJD na|CCP Dum|NNP Dum|NNP -|PMS a|NNC -|PMS Dum|FW biryani|FW ?|PMQ
+Basahin|NNP ang|DTC librong|NNC_CCP ito|PRO para|CCT malaman|VBW mo|PRS !|PMQ
+Ito|PRO ay|LM isang|PRI_CCP Level|NNP na|CCP aklat|NNC para|CCT sa|CCT mga|DTCP bata|NNC na|CCP handang|RBD_CCP magbasa|VBW nang|CCB mag|VBW -|PMS isa|PRI .|PMP
+Naging|VBTS digital|NNC ang|DTC Pratham|NNP Books|NNP upang|CCB makagawa|VBW ng|CCB isang|PRI_CCP buong|PRI_CCP bagong|JJD_CCP kabanata|NNC sa|CCT larangan|NNC ng|CCB mga|DTCP kwentong|NNC_CCP pambata|JJD sa|CCT maraming|PRI_CCP wika|NNC .|PMP
+Pinagsasama|VBTR_VBRF -|PMS sama|NNC ang|DTC mga|DTCP bata|NNC ,|PMC may|VBH -|PMS akda|NNC ,|PMC ilustrador|NNC at|CCA publisher|NNC .|PMP
+Pagtiklop|NNP sa|CCT mga|DTCP guro|NNC ,|PMC atmga|NNC tagapagsalin|NNC .|PMP
+Upang|CCB lumikha|VBAF ng|CCB isang|PRI_CCP mayamang|JJD_CCP tela|NNC ng|CCB bukas|JJD na|CCP lisensyadong|JJD_CCP mga|DTCP kwentong|NNC_CCP multilingguwal|JJD para|CCT sa|CCT mga|DTCP bata|NNC ng|CCB India|NNP at|CCA sa|CCT mundo|NNC .|PMP
+Ang|DTC aming|PRSP_CCP natatanging|JJD_CCP online|FW platform|FW ,|PMC StoryWeaver|FW ,|PMC ay|LM isang|PRI_CCP palaruan|NNC kung|RBK saan|RBQ ang|DTC mga|DTCP bata|NNC ,|PMC magulang|NNC ,|PMC guro|NNC at|CCA librarian|NNC ay|LM maaaring|RBM maging|VBW malikhain|JJD .|PMP
+Halika|NNP ,|PMC simulan|VBOF ang|DTC paghabi|NNC ngayon|RBW ,|PMC at|CCA tulungan|VBTF_VBOF kaming|PRP_CCP makakuha|VBW ng|CCB isang|PRI_CCP libro|NNC sa|CCT kamay|NNC ng|CCB bawat|PRI bata|NNC !|PMS

@@ -1,0 +1,9 @@
+Nagpunta|VBTS sa|CCT palaruan|NNC si|DTP Ring|NNP Ring|NNP .|PMP
+Nakita|VBTS ni|DTP Ring|NNP Ring|NNP si|DTP Pib|NNP Pib|NNP .|PMP
+Nagpunta|VBTS si|DTP Pib|NNP Pib|NNP sa|CCT estasyon|NNC ng|CCB tren|NNC .|PMP
+Nagpunta|VBTS si|DTP Pib|NNP Pib|NNP sa|CCT estasyon|NNC ng|CCB tren|NNC .|PMP
+Pumunta|VBAF sa|CCT bukid|NNC si|DTP Choo|NNP Choo|NNP .|PMP
+Nakita|VBTS ni|DTP Choo|NNP Choo|NNP si|DTP Vroom|NNP Vroom|NNP .|PMP
+Nagpunta|VBTS si|DTP Vroom|NNP Vroom|NNP sa|CCT Siem|NNP Reap|NNP .|PMP
+Nakita|VBTS ni|DTP Vroom|NNP Vroom|NNP si|DTP Tin|NNP Tin|NNP .|PMP
+Ang|DTC limang|JJN_CCP magkakaibigan|VBTF ay|LM sama|CCB -|PMS samang|NNC_CCP nagpunta|VBTS sa|CCT Siem|NNP Reap|NNP !|PMS .|PMP .|PMP

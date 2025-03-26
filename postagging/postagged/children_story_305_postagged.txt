@@ -1,0 +1,33 @@
+Ang|DTC mga|DTCP ibon|NNC ay|LM nagsasalita|VBTR .|PMP
+At|CCA sila|PRP ay|LM madaldal|JJD .|PMP
+WAAAAHHHH|NNPA !|PMS
+Ang|DTC ibong|NNC_CCP Brahminy|NNP ay|LM umiiyak|VBTR_VBAF tulad|JJC ng|CCB isang|PRI_CCP gutom|NNC na|CCP sanggol|NNC .|PMP
+WAAAAHHHH|NNPA !|PMS
+FHWEE|NNPA !|PMS
+FHWEE|NNPA !|PMS
+Ang|DTC Malabar|NNP Whistling|NNP Thrush|NNP ay|LM humuhuni|VBAF na|CCP parang|CCT isang|PRI_CCP masayang|JJD_CCP bata|NNC .|PMP
+FHWEE|NNPA !|PMS
+FHWEE|NNPA !|PMS
+HI|NNPA HI|NNPA HI|NNPA HI|NNPA !|PMS
+HI|NNPA HI|NNPA HI|NNPA HI|NNPA !|PMS
+Tawang|NNP_CCP tawa|NNC ang|DTC kalapati|NNC na|CCP parang|CCT kinikiliti|VBTR .|PMP
+HI|NNPA HI|NNPA HI|NNPA HI|NNPA !|PMS
+HI|NNPA HI|NNPA HI|NNPA HI|NNPA !|PMS
+PUK|NNPA !|PMS
+PUK|NNPA !|PMS
+PUK|NNPA !|PMS
+Ang|DTC tunog|NNC na|CCP likha|NNC ng|CCB coppersmith|FW barbet|FW ay|LM tulad|JJC ng|CCB ingay|NNC sa|CCT pagmartilyo|NNC ng|CCB bakal|NNC .|PMP
+PUK|NNPA !|PMS
+PUK|NNPA !|PMS
+PUK|NNPA !|PMS
+WAAAAHHHH|NNPA !|PMS
+FHWEE|NNPA !|PMS
+HU|NNPA HU|NNPA !|PMS
+PUK|NNPA !|PMS
+Sino|PRQ yun|PRO ?|PMQ
+Iyon|PRO ay|LM isang|PRI_CCP racket|NNC -|PMS tailed|FW drongo|FW na|CCP kayang|RBD_CCP gayahin|VBTS ang|DTC huni|NNC ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP ibon|NNC !|PMS
+WAAAAHHHH|NNPA !|PMS
+FHWEE|NNPA !|PMS
+HU|NNPA HU|NNPA !|PMS
+PUK|NNPA !|PMS
+Hindi|RBF man|RBI natin|PRP alam|VBS ang|DTC kanilang|PRSP_CCP sinasabi|VBTR ,|PMC ngunit|CCT alam|VBS natin|PRP kung|RBK sino|RBQ ang|DTC nagsasalita|VBTR .|PMP

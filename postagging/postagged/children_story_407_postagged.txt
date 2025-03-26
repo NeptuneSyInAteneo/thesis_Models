@@ -1,0 +1,22 @@
+Lumalangoy|VBTR_VBAF si|DTP Putu|NNP sa|CCT lawa|NNC .|PMP
+Kumakain|VBTR_VBAF siya|PRS ng|CCB damong|NNC_CCP -|PMS dagat|NNC .|PMP
+Hala|NNP !|PMS
+Paparating|VBTF na|CCP si|DTP Gutu|NNP !|PMS
+Dali|NNP !|PMS
+Dali|NNP !|PMS
+Langoy|NNP dito|PRL ,|PMC langoy|FW doon|PRL .|PMP
+Mabilis|RBD na|CCP lumangoy|VBAF si|DTP Putu|NNP .|PMP
+Ngunit|CCT sinusundan|VBTR siya|PRS ni|DTP Gutu|NNP .|PMP
+Lumundag|VBTS si|DTP Putu|NNP .|PMP
+Lumundag|VBAF din|RBI si|DTP Gutu|NNP .|PMP
+Si|DTP Putu|NNP ay|LM sumisid|VBAF pailalim|RBD nang|RBD pailallim|RBD .|PMP
+Sumisid|VBAF din|RBI si|DTP Gutu|NNP nang|RBW pailalim|JJD .|PMP
+Lumangoy|VBAF si|DTP Gutu|NNP patungo|RBL kay|DTP Putu|NNP .|PMP
+Nagtago|VBTS si|DTP Putu|NNP .|PMP
+Ngayon|RBW hindi|RBF na|CCP mahanap|VBW ni|DTP Gutu|NNP si|DTP Putu|NNP .|PMP
+Si|DTP Putu|NNP ay|LM lumabas|VBAF .|PMP
+Sumugod|VBAF siya|PRS patungo|RBL kay|DTP Gutu|NNP .|PMP
+Hala|NNP !|PMS
+Dali|NNP !|PMS
+Dali|NNP !|PMS
+Ngayon|RBW si|DTP Putu|NNP ay|LM makakakain|VBTF na|CCP muli|RBW .|PMP

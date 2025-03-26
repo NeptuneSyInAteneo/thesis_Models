@@ -1,0 +1,71 @@
+Mahilig|JJD maglaro|VBAF si|DTP Billy|NNP gamit|VBS ang|DTC kaniyang|PRSP_CCP computer|FW tablet|FW .|PMP
+Subalit|CCT isang|PRI_CCP araw|NNC habang|RBW naglalaro|VBTR ,|PMC napansin|VBTS niyang|PRS_CCP naghahanda|VBTR nang|CCB mag|VBW -|PMS aral|NNC ang|DTC kapatid|NNC niyang|PRS_CCP si|DTP Betty|NNP .|PMP
+Madalas|RBD magsagawa|VBW ng|CCB kompetisyon|NNC ang|DTC kanilang|PRSP_CCP ama|NNC at|CCA mayroon|VBH nito|PRO sa|CCT gabing|RBW_CCP iyon|PRO .|PMP
+Ayaw|RBF niyang|PRS_CCP manalo|VBW ang|DTC kaniyang|PRSP_CCP kapatid|NNC !|PMS
+Pumasok|VBAF si|DTP Billy|NNP sa|CCT loob|NNC upang|CCB tingnan|VBOF kung|RBK ano|RBQ ang|DTC binabasa|VBTR niya|PRS .|PMP "|PMS
+Ano|PRQ ang|DTC paglalabanan|VBW natin|PRP ngayong|RBW_CCP gabi|RBW ?|PMQ "|PMS
+tanong|NNC ni|DTP Billy|NNP .|PMP "|PMS
+Hindi|RBF tayo|PRP maglalaro|VBTF ng|CCB isports|NNC ngayon|RBW .|PMP
+Magtatanong|VBTF si|DTP Itay|NNP tungkol|RBR sa|CCT mga|DTCP natutuhan|VBTS natin|PRP sa|CCT mga|DTCP aklat|NNC .|PMP
+Baka|NNP manalo|VBW na|CCP ako|PRS sa|CCT iyo|PRSP sa|CCT unang|JJN_CCP pagkakataon|NNC !|PMS "|PMS
+sagot|NNC ni|DTP Betty|NNP .|PMP
+Nag|NNP -|PMS alala|NNC si|DTP Billy|NNP .|PMP
+Palagi|RBW na|RBI lang|RBI kasi|CCR siyang|PRS_CCP naglalaro|VBTR sa|CCT tablet|NNC kaya|CCR hindi|RBF na|RBI siya|PRS nag|VBTS -|PMS aaral|FW nitong|PRO_CCP mga|DTCP nagdaang|VBTS_CCP araw|NNC .|PMP
+Nang|RBW dumating|VBAF ang|DTC kanilang|PRSP_CCP ama|NNC ,|PMC sinabi|VBTS niya|PRS na|CCP oras|NNC na|CCP para|CCT sa|CCT kompetisyon|NNC .|PMP
+Sabay|RBD na|CCP naupo|VBTS sina|DTPP Billy|NNP at|CCA Betty|NNP .|PMP
+Maraming|PRI_CCP tamang|JJD_CCP sagot|NNC si|DTP Betty|NNP sa|CCT mga|DTCP katanungan|NNC .|PMP
+Ngunit|CCT ni|DTP isa|PRI ay|LM walang|VBN_CCP tamang|JJD_CCP sagot|NNC si|DTP Billy|NNP .|PMP "|PMS
+Billy|NNP ,|PMC narito|PRL ang|DTC huling|JJD_CCP tanong|NNC .|PMP
+Ano|PRQ ang|DTC hugis|NNC ng|CCB mundo|NNC ?|PMQ "|PMS
+Hindi|RBF sigurado|RBT si|DTP Billy|NNP ,|PMC ngunit|CCT sinubukan|RBD niyang|PRS_CCP sagutin|VBOF .|PMP "|PMS
+Ang|DTC hugis|NNC ng|CCB mundo|NNC ay|LM ...|PMS ay|LM ...|PMS hindi|RBF ko|PRS alam|VBS !|PMS "|PMS
+Malungkot|JJD na|CCP umiling|VBAF ang|DTC ama|NNC ni|DTP Billy|NNP .|PMP "|PMS
+Dapat|VBS mag|VBW -|PMS aral|NNC ka|PRS pa|RBI ,|PMC Billy|NNP .|PMP
+Alam|VBS mo|PRS ba|RBI ang|DTC sagot|NNC ,|PMC Betty|NNP ?|PMQ "|PMS
+Nakangiting|RBD_CCP sumagot|VBAF ni|DTP Betty|NNP ,|PMC "|PMS Naaalala|VBTR ko|PRS ,|PMC Itay|NNC !|PMS
+Ang|DTC mundo|NNC ay|LM hugis|NNC bilog|JJD .|PMP "|PMS
+Sa|CCT gabing|RBW_CCP iyon|PRO ,|PMC nanalo|VBTS si|DTP Betty|NNP sa|CCT kompetisyon|NNC !|PMS
+Kinabukasan|RBW ,|PMC tinanong|VBTS ni|DTP Billy|NNP ang|DTC kaniyang|PRSP_CCP ate|NNC kung|RBK paano|RBQ niya|PRS nalaman|VBTS ang|DTC mga|DTCP sagot|NNC .|PMP "|PMS
+Mula|RBW sa|CCT mga|DTCP libro|NNC !|PMS "|PMS
+sagot|NNC ni|DTP Betty|NNP .|PMP "|PMS
+Kung|CCR nais|VBS mong|PRS_CCP malaman|VBW ang|DTC mga|DTCP sagot|NNC sa|CCT kompetisyon|NNC kagabi|RBW ,|PMC basahin|VBOF mo|PRS lamang|RBI ang|DTC aklat|NNC na|CCP ito|PRO .|PMP "|PMS
+Pinag|VBRF -|PMS isipang|NNC_CCP mabuti|JJD ni|DTP Billy|NNP ang|DTC iminungkahi|VBTS ng|CCB kaniyang|PRSP_CCP ate|NNC .|PMP
+Kung|CCR maglalaan|VBTF_VBAF siya|PRS ng|CCB mas|JJCC maraming|JJD_CCP oras|NNC sa|CCT pagbabasa|NNC ,|PMC hindi|RBF na|RBI siya|PRS makapaglalaro|VBW sa|CCT kaniyang|PRSP_CCP tablet|FW .|PMP
+Kung|RBK hindi|RBF naman|RBI siya|PRS magbabasa|VBW ,|PMC matatalo|VBTF siya|PRS ng|CCB kaniyang|PRSP_CCP kapatid|NNC sa|CCT susunod|VBTF na|CCP kompetisyon|NNC .|PMP
+Nagpasya|VBTS si|DTP Billy|NNP na|CCP ilagay|VBOF sa|CCT drawer|NNC ang|DTC tablet|NNC .|PMP
+Naghanap|VBTS siya|PRS ng|CCB mga|DTCP librong|NNC_CCP mababasa|JJD .|PMP
+Ngunit|CCT hindi|RBF niya|PRS alam|VBS kung|CCR alin|PRQ sa|CCT mga|DTCP ito|PRO ang|DTC pipiliin|VBTF !|PMQ
+Nakita|VBTS ni|DTP Billy|NNP na|CCP nagbabasa|VBTR ang|DTC kaniyang|PRSP_CCP ate|NNC ng|CCB isang|PRI_CCP libro|NNC sa|CCT agham|NNC .|PMP
+Kung|CCR kaya|CCR nagpasya|VBTS siyang|PRS_CCP subukan|VBOF din|RBI ito|PRO .|PMP
+Siguradong|RBT_CCP matatapos|VBTF niya|PRS ito|PRO sa|CCT maghapon|NNC .|PMP
+Ngunit|CCT habang|RBW nagbabasa|VBTR ,|PMC nakatulog|VBTS si|DTP Billy|NNP at|CCA naghilik|VBTS .|PMP
+Napakabilis|JJCS_JJD niyang|PRS_CCP nabasa|VBTS ang|DTC mga|DTCP pahina|NNC kaya|CCR nagkaroon|VBTS ng|CCB kakaiba|JJD at|CCA halu|FW -|PMS halong|NNC_CCP nilalang|NNC ang|DTC kaniyang|PRSP_CCP panaginip|NNC .|PMP
+Nang|RBW magising|VBW si|DTP Billy|NNP ,|PMC sinubukan|RBD niyang|PRS_CCP bumalik|VBAF sa|CCT pagbabasa|NNC .|PMP
+Ngunit|CCT sobrang|JJCS_CCP dami|NNC ng|CCB mga|DTCP pahina|NNC at|CCA napakarami|JJCS_JJD rin|RBI ng|CCB impormasyon|NNC !|PMS
+Paano|PRQ niya|PRS ito|PRO tatapusin|VBTF at|CCA matatandaan|VBTF lahat|PRI ?|PMQ
+Nakita|VBTS niyang|PRS_CCP hindi|RBF na|CCP nagbabasa|VBTR ang|DTC kaniyang|PRSP_CCP ate|NNC .|PMP "|PMS
+Ate|NNP ,|PMC natapos|VBTS mo|PRS na|CCP bang|RBM basahin|VBOF ang|DTC aklat|NNC ?|PMQ "|PMS
+nagtatakang|VBTR tanong|NNC niya|PRS .|PMP "|PMS
+Paano|PRQ mo|PRS nababasa|VBTR at|CCA naaalala|VBTR ang|DTC lahat|PRI ?|PMQ "|PMS "|PMS
+Hindi|RBF pa|RBI ,|PMC "|PMS sagot|NNC niya|PRS .|PMP "|PMS
+Ngunit|CCT natapos|VBTS ko|PRS ang|DTC mga|DTCP pahinang|NNC_CCP gusto|VBS kong|PRS_CCP basahin|VBOF ngayong|RBW_CCP araw|NNC .|PMP
+Kung|CCR magbabasa|VBTF ako|PRS ng|CCB ilang|PRQ_CCP pahina|NNC bawat|PRI araw|NNC ,|PMC marami|PRI akong|PRS_CCP matututuhan|VBW at|CCA hindi|RBF ako|PRS malilito|VBW !|PMS "|PMS
+Nagpasya|VBTS si|DTP Billy|NNP na|CCP subukan|VBOF ang|DTC ideyang|NNC_CCP ito|PRO .|PMP
+Nagbabasa|VBTR siya|PRS ng|CCB ilang|PRQ_CCP pahina|NNC araw|NNC -|PMS araw|NNC at|CCA may|VBH mga|DTCP natututuhan|VBTR siyang|PRS_CCP bago|RBW !|PMQ
+Sa|CCT pagtatapos|NNC ng|CCB linggo|NNC ,|PMC wala|VBN siyang|PRS_CCP naging|VBTS problema|NNC sa|CCT pagtabi|NNC ng|CCB kaniyang|PRSP_CCP tablet|NNC at|CCA pagbabasa|NNC ng|CCB libro|NNC .|PMP
+Nagbasa|VBTS siya|PRS ng|CCB mga|DTCP libro|NNC tungkol|RBR sa|CCT agham|NNC ,|PMC kasaysayan|NNC ,|PMC at|CCA matematika|NNC .|PMP "|PMS
+Ang|DTC saya|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Billy|NNP sa|CCT sarili|NNC .|PMP
+Hindi|RBF magtatagal|VBTF at|CCA oras|NNC na|CCP naman|RBI para|CCT sa|CCT kompetisyon|NNC .|PMP
+Alam|VBS ni|DTP Billy|NNP na|CCP handa|JJD na|CCP siya|PRS sa|CCT oras|NNC na|CCP ito|PRO !|PMQ
+Ipinaliwanag|VBTS ng|CCB kanilang|PRSP_CCP ama|NNC na|CCP ang|DTC kompetisyon|NNC ay|LM tungkol|RBR sa|CCT matematika|NNC .|PMP
+Agad|RBD na|CCP pumunta|VBAF sina|DTPP Billy|NNP at|CCA Betty|NNP sa|CCT pisara|NNC upang|CCB magsimula|VBW .|PMP
+Sino|PRQ kaya|CCR ang|DTC mananalo|VBTF ?|PMQ "|PMS
+Binabati|NNP kita|NNC ,|PMC Billy|NNP !|PMS "|PMS
+sabi|VBS ng|CCB kaniyang|PRSP_CCP ama|NNC matapos|VBW niyang|PRS_CCP masagot|VBW nang|RBD tama|JJD ang|DTC huling|JJD_CCP tanong|NNC .|PMP "|PMS
+Nanalo|VBTS ka|PRS bilang|CCT pinakamahusay|JJCS_JJD na|CCP mag|VBW -|PMS aaral|FW ngayong|RBW_CCP linggo|NNC !|PMS "|PMS
+Ipinagmamalaki|VBTR ni|DTP Billy|NNP ang|DTC kaniyang|PRSP_CCP sarili|NNC .|PMP
+Gayundin|CCB si|DTP Betty|NNP !|PMS
+Nang|RBW gabing|RBW_CCP iyon|PRO ,|PMC nagbasa|VBTS ulit|RBW sina|DTPP Billy|NNP at|CCA Betty|NNP .|PMP
+Hindi|RBF na|RBI sila|PRP makapaghintay|VBW sa|CCT susunod|VBTF na|CCP kompetisyon|NNC !|PMS
+Taos|JJD pusong|NNC_CCP suportado|JJD ng|CCB SMART|NNPA

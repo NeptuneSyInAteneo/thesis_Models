@@ -1,0 +1,11 @@
+Ang|DTC pusa|NNC ay|LM nasa|RBL trayanggulong|NNC_CCP bubongAng|JJD_CCP pusa|NNC ay|LM nasa|RBL parihabang|JJD_CCP bintanaYelong|NNC_CCP KUBO|NNC sa|CCT giniginaw|NNC na|CCP pusa|NNC Meoww|NNP . . .|NNPA brrr|FW . . .|FW brrrPusa|FW na|CCP may|VBH isang|PRI_CCP RHOMBUS|NNPA na|CCP saranggolaPusa|NNC sa|CCT PARISUKAT|NNP na|CCP tablaMeoww|NNP ...|PMS kalmot|JJD ...|PMS kalmot|JJD Isang|PRI_CCP katawan|NNC ng|CCB punongkahoy|NNC na|CCP SILINDRO|NNC para|CCT sa|CCT M|NNPA -|PMS A-S-A-Y-A-N-G|FW pusaPusa|FW sa|CCT BILOG|NNPA na|CCP banigPusa|NNC sa|CCT salaming|NNC_CCP BILUHABAMeoww|NNP ...|PMS higop|FW ...|PMS higop|FW Isang|PRI_CCP apa|JJN na|CCP hugis|NNC KONO|NNPA para|CCT sa|CCT M|NNPA -|PMS A-A-L-I|CDB -|PMS W|CDB -|PMS A-L-A-S|CDB na|CCP pusaPusang|RBD_CCP malapit|JJD sa|CCT pulot|NNC -|PMS pukyutang|NNC_CCP EKSAGONOPusa|NNP sa|CCT buwang|NNC_CCP GASUKLAYIsang|JJD_CCP samosang|NNC_CCP PIRAMIDE|NNC para|CCT sa|CCT gutom|NNC na|CCP pusa|NNC Meoww|NNP ...|PMS krak|NNCA ...|PMS krak|NNC .|PMP
+TATSULOK|NNPA .|PMP
+PARISUKAT|NNPA .|PMP
+PARIHABA|NNPA .|PMP
+BILUHABA|NNPA .|PMP
+BILOG|NNPA .|PMP
+KUBO|NNPA .|PMP
+SILINDRO|NNPA .|PMP
+KONO|NNPA .|PMP
+PIRAMIDE|NNPA .|PMP
+ESPERAKaya|NNP mo|PRS bang|RBM tumingin|VBAF sa|CCT paligid|NNC at|CCA maghanap|VBW ng|CCB iba|PRI pang|RBI_CCP mga|DTCP HUGIS|NNPA at|CCA PUSA|NNPA ?|PMQ

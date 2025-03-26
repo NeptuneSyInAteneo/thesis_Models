@@ -1,0 +1,16 @@
+Ako|PRS ay|LM si|DTP Rudi|NNP .|PMP
+Nakatira|VBTS ako|PRS sa|CCT isang|PRI_CCP kuwadra|NNC kung|RBK saan|RBQ dumarating|VBTR_VBAF ang|DTC mga|DTCP bata|NNC upang|CCB matutong|RBD_CCP sumakay|VBAF ng|CCB kabayo|NNC .|PMP
+Pero|CCT di|RBF pa|RBI ako|PRS napipili|VBTR .....|NNPA .|PMP
+dahil|CCR sa|CCT aking|PRSP_CCP matamlay|JJD at|CCA pangit|JJD na|CCP buhok|NNC .|PMP
+Ang|DTC aking|PRSP_CCP mga|DTCP kaibigan|NNC ay|LM may|VBH magagandang|JJD_CCP buhok|NNC .|PMP
+Sinubukan|VBOF ko|PRS ang|DTC iba|PRI '|PMS t|NNCA ibang|PRI_CCP shampoo|NNC ,|PMC at|CCA sinuklay|VBOF ng|CCB paulit|NNC -|PMS ulit|RBW .|PMP
+Subalit|CCT ang|DTC aking|PRSP_CCP buhok|NNC ay|LM nanatiling|VBTS_CCP matamlay|RBD at|CCA pangit|JJD .|PMP
+Ang|DTC mga|DTCP kaibigan|NNC ko|PRS ang|DTC laging|JJD_CCP napipili|VBTR ng|CCB mga|DTCP bata|NNC para|CCT sakyan|VBOF .|PMP
+Hanggang|RBW isang|PRI_CCP araw|NNC ...|PMS "|PMS Ito|PRO ang|DTC napili|VBTS ko|PRS "|PMS ,|PMC ang|DTC sabi|VBS ng|CCB bata|NNC .|PMP "|PMS
+Gusto|VBS ko|PRS ang|DTC kanyang|PRSP_CCP mata|NNC .|PMP
+Meron|VBH syang|NNC_CCP maamo|JJD at|CCA palakaibigang|JJD_CCP mata|NNC .|PMP "|PMS
+Mahirap|RBD paniwalaan|VBOF !|PMQ
+Pinili|VBOF ako|PRS ng|CCB isang|PRI_CCP bata|NNC !|PMS
+Masaya|NNP kaming|PRP_CCP naglaro|VBTS .|PMP
+Ngayon|RBW ,|PMC hindi|RBF na|RBI ako|PRS nahihiya|VBTS sa|CCT aking|PRSP_CCP buhok|NNC ,|PMC dahil|CCR mayroon|VBH nang|CCB nagmamahal|VBTR sa|CCT aking|PRSP_CCP mga|DTCP mata|NNC .|PMP
+Copyright|NNP page|FW

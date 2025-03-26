@@ -1,61 +1,14 @@
-Kompleto|JJD na|CCP ang|DTC gamit|VBS ni|DTP Maria|NNP para|CCT sa|CCT pagsisimula|NNC niya|PRS sa|CCT Grade|NNP One|NNP ngayong|RBW_CCP pasukan|NNC .|PMP
-Sabik|RBD na|CCP sabik|JJD na|CCP siyang|PRS_CCP pumasok|VBAF sa|CCT eskuwela|NNC ,|PMC at|CCA gusto|VBS na|CCP niyang|PRS_CCP makilala|VBW ang|DTC mga|DTCP bago|JJD niyang|PRS_CCP kaklase|NNC .|PMP
-Napaaga|VBTS ng|CCB gising|JJD si|DTP Maria|NNP .|PMP
-Naghanda|VBTS agad|RBD siya|PRS para|CCT di|RBF mahuli|VBW .|PMP
-Habang|RBW nag|CDB -|PMS aalmusal|FW ,|PMC narinig|VBTS niya|PRS ng|CCB malakas|JJD sa|CCT radyo|NNC na|CCP bawal|JJD na|CCP raw|RBI lumabas|VBAF ang|DTC mga|DTCP tao|NNC dahil|CCR may|VBH kumakalat|VBTR_VBAF daw|RBI na|CCP pandemya|NNC .|PMP "|PMS
-Bakit|PRQ naman|RBI ,|PMC Mama|NNP ?|PMQ
-Ano|PRQ po|RBS ang|DTC pandemya|NNC ?|PMQ "|PMS
-takot|JJD na|CCP tanong|NNC ni|DTP Maria|NNP .|PMP "|PMS
-Pandemya|NNP ang|DTC tawag|NNC sa|CCT mabilis|JJD na|CCP pagkalat|VBW ng|CCB isang|PRI_CCP sakit|NNC .|PMP
-Di|RBF lang|RBI sa|CCT isang|PRI_CCP bansa|NNC kundi|CCT sa|CCT buong|PRI_CCP mundo|NNC ,|PMC "|PMS sabi|VBS ng|CCB Mama|NNC niya|PRS .|PMP "|PMS
-Nakatatakot|JJD pala|NNC ng|CCB pandemya|NNC ,|PMC Mama|NNC !|PMS "|PMS
-sabini|FW Maria|NNP .|PMP "|PMS
-Oo|RBT ,|PMC anak|NNC ,|PMC madaling|RBD_CCP makahawa|VBW ang|DTC COVID|NNPA -|PMS 19virus|CDB .|PMP
-Kaya|CCR dapat|VBS tayong|PRP_CCP mag|VBW -|PMS ingat|FW lahat|PRI .|PMP
-Bawal|NNP munang|RBW_CCP lumabas|VBAF ang|DTC mga|DTCP matatanda|NNC pati|CCA mga|DTCP bata|NNC ,|PMC "|PMS sabi|VBS ni|DTP Mama|NNP .|PMP
-Lumipas|VBAF ang|DTC mga|DTCP linggo|NNC at|CCA buwan|NNC ay|LM di|RBF pa|RBI rin|RBI lumalabas|VBTR_VBAF ang|DTC mga|DTCP tao|NNC .|PMP
-Kung|CCR lumabas|VBAF man|RBI ay|LM lagi|RBW silang|PRP_CCP naka|RBD -|PMS face|FW mask|FW at|CCA naka|RBD -|PMS face|FW shield|FW .|PMP
-Malungkot|JJD palagi|RBW si|DTP Maria|NNP .|PMP
-Gusto|VBS na|RBI niyang|PRS_CCP pumasok|VBAF sa|CCT klase|NNC .|PMP "|PMS
-Ano|PRQ naman|RBI po|RBS ,|PMC Mama|NNC ,|PMC ang|DTC mga|DTCP ginagawa|VBTR sa|CCT eskuwelahan|NNC kapag|CCR Grade|NNP na|CCP ?|PMQ
-Gusto|VBS ko|PRS pong|PRO_CCP malaman|VBW ,|PMC "|PMS tanong|NNC ni|DTP Maria|NNP .|PMP "|PMS
-Teka|NNP lang|RBI ,|PMC Maria|NNP ,|PMC at|CCA mag|VBW -|PMS iskwe|NNC -|PMS eskuwelahan|NNC tayo|PRP ,|PMC "|PMS sabi|VBS ni|DTP Manay|NNP Precy|NNP niya|PRS .|PMP "|PMS
-Isasama|VBTF rin|RBI natin|PRP sa|CCT laro|NNC ang|DTC mga|DTCP kapatid|NNC natin|PRP para|CCT lalong|JJCC_CCP maging|VBW masaya|JJD .|PMP
-Ako|PRS ang|DTC teacher|NNC ,|PMC kayo|PRP ang|DTC mga|DTCP magkaklase|NNC ,|PMC "|PMS dagdag|JJD pa|RBI ng|CCB Manay|NNP Precy|NNP niya|PRS .|PMP "|PMS
-Good|NNP morning|FW ,|PMC class|FW ,|PMC "|PMS sabi|VBS ni|DTP Titser|NNP Precy|NNP .|PMP "|PMS
-Good|NNP morning|FW ,|PMC Titser|FW ,|PMC "|PMS sabay|RBD -|PMS sabay|JJD na|CCP sagot|NNC ni|DTP Manoy|NNP Nilo|NNP ,|PMC Manoy|NNP Pilo|NNP ,|PMC at|CCA ni|DTP Manay|NNP Lina|NNP .|PMP
-Lahat|PRI sila|PRP '|PMS y|FW may|VBH kaniya|PRSP -|PMS kaniyang|PRSP_CCP bag|FW na|CCP dala|JJD .|PMP "|PMS
-Kumusta|NNP ,|PMC kumusta|VBAF ,|PMC kumusta|VBAF .|PMP
-Ako|PRS '|PMS y|FW natutuwa|FW ,|PMC tralala|FW ,|PMC lalala|VBTF ,|PMC tralala|NNC ,|PMC lalala|VBTF .|PMP "|PMS
-Ang|DTC kanta|NNC nila|PRP ay|LM sumasabay|VBTR_VBAF sa|CCT gitara|NNC ni|DTP Manay|NNP Lina|NNP .|PMP
-Sabi|VBS ni|DTP Titser|NNP Percy|NNP ay|LM gayahin|VBTS ang|DTC mga|DTCP hayop|NNC na|CCP naririnig|VBTR .|PMP "|PMS
-Moooo|NNP ,|PMC "|PMS sabi|VBS ko|PRS .|PMP "|PMS
-Aw|NNP ,|PMC aw|NNC ,|PMC aw|NNC ,|PMC "|PMS sabi|VBS ni|DTP Manay|NNP Lina|NNP .|PMP "|PMS
-Ngiyaw|NNP ,|PMC ngiyaw|FW ,|PMC "|PMS sabi|VBS ni|DTP Manoy|NNP Pilo|NNP .|PMP "|PMS
-Kwak|NNP ,|PMC kwak|NNC ,|PMC kwak|NNC ,|PMC "|PMS sabi|VBS naman|RBI ni|DTP Manoy|NNP Nilo|NNP .|PMP
-Lumabas|VBAF sila|PRP at|CCA pumunta|VBAF sa|CCT lugar|NNC na|CCP merong|VBH_CCP baboy|NNC ,|PMC manok|NNC ,|PMC kalabaw|NNC ,|PMC kambing|NNC ,|PMC at|CCA baka|NNC .|PMP
-Pagkatapos|VBW ,|PMC gumuhit|VBAF sila|PRP ng|CCB mga|DTCP hayop|NNC na|CCP ginaya|VBTS nila|PRP .|PMP
-Si|DTP Maria|NNP ay|LM nag|VBTS -|PMS trace|FW ng|CCB baka|NNC .|PMP "|PMS
-Mmmm|NNP ,|PMC ang|DTC sarap|NNC ng|CCB naaamoy|VBTR ko|PRS ;|PMSC parang|CCT nagluluto|VBTR si|DTP Mama|NNP ng|CCB pansit|JJD Bato|NNC .|PMP
-Aha|NNP ,|PMC recess|FW na|CCP pala|NNC !|PMS "|PMS
-masayang|JJD_CCP sinabi|VBTS ni|DTP Maria|NNP .|PMP "|PMS
-Tara|NNP na|CCP '|PMS t|NNCA kumain|VBAF na|CCP tayo|PRP ,|PMC "|PMS tawag|NNC ni|DTP Manoy|NNP Pilo|NNP .|PMP "|PMS
-Dahil|CCR busog|JJD na|CCP kayo|PRP ,|PMC halikayo|NNC at|CCA babasahan|VBOF ko|PRS kayo|PRP ng|CCB kuwento|NNC ,|PMC "|PMS alok|NNC ni|DTP Titser|NNP Precy|NNP .|PMP
-Pagkatapos|VBW na|CCP magkuwento|VBW ni|DTP Titser|NNP Precy|NNP ,|PMC naglaro|VBTS sila|PRP ng|CCB luksong|NNC_CCP -|PMS baka|NNC .|PMP "|PMS
-Ikaw|RBW naman|RBI ngayon|RBW ang|DTC baka|NNC ,|PMC Maria|NNP ,|PMC "|PMS sabi|VBS nila|PRP Manoy|NNP Pilo|NNP .|PMP "|PMS
-Ang|DTC bibigat|FW ninyo|PRP ,|PMC di|RBF ko|PRS naman|RBI kayo|PRP kaya|CCR ,|PMC "|PMS sagot|NNC ni|DTP Maria|NNP .|PMP "|PMS
-Ang|DTC daya|NNC .|PMP
-Ikaw|NNP na|CCP ang|DTC taya|NNC ,|PMC Maria|NNP .|PMP
-Huwag|RBF ka|PRS na|CCP ngang|RBI_CCP sumali|VBAF sa|CCT laro|NNC natin|PRP !|PMS "|PMS
-galit|JJD nasabi|VBTS ni|DTP Manay|NNP Lina|NNP .|PMP "|PMS
-Ayoko|NNP ko|PRS nang|RBW maglaro|VBAF ng|CCB eskuwe|FW -|PMS eskuwelahan|NNC ,|PMC ayoko|NNC na|CCP rin|RBI kayong|PRO_CCP maging|VBW kaklase|JJD .|PMP
-Ang|DTC gusto|VBS ko|PRS ay|LM sa|CCT tunay|JJD na|CCP eskuwelahan|NNC !|PMS "|PMS
-umiiyak|VBTR_VBAF na|CCP sabi|VBS ni|DTP Maria|NNP .|PMP "|PMS
-Maria|NNP ,|PMC sa|CCT bahay|NNC at|CCA sa|CCT eskuwelahan|NNC ay|LM pareho|JJC lang|RBI naman|RBI .|PMP
-Bawal|JJD ang|DTC mandaya|VBW ,|PMC dapat|VBS ay|LM maging|VBW taya|NNC ka|PRS rin|RBI ,|PMC "|PMS saway|NNC ni|DTP Mama|NNP "|PMS Ngayong|RBW_CCP pandemya|NNC ,|PMC kayong|JJD_CCP magkakapatid|NNC ang|DTC magkakaklase|VBAF .|PMP
-Itong|PRO_CCP bahay|NNC natin|PRP ang|DTC klasrum|NNC ,|PMC ako|PRS ang|DTC titser|FW ninyo|PRP ,|PMC "|PMS paliwanag|NNC ni|DTP Mama|NNP .|PMP
-Nang|RBW sumunod|VBAF na|CCP araw|NNC ay|LM dumating|VBAF na|CCP ang|DTC mga|DTCP bagong|JJD_CCP modyul|NNC .|PMP
-Masikap|NNP na|CCP sumagot|VBAF sa|CCT modyul|NNC si|DTP Maria|NNP .|PMP
-Kahit|CCT marong|NNC_CCP pandemya|JJD at|CCA sarado|JJD ang|DTC eskuwelahan|NNC ,|PMC patuloy|RBD ang|DTC pag|CCR -|PMS aaral|NNC ni|DTP Maria|NNP sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP
-Bukod|CCT kay|DTP Mama|NNP ,|PMC tinutulungan|VBTR din|RBI siya|PRS ng|CCB mga|DTCP nakatatanda|VBTR niyang|PRS_CCP kapatid|NNC .|PMP
-Kaya|CCR naging|VBTS madali|JJD at|CCA masaya|JJD ang|DTC pagkatuto|NNC niya|PRS .|PMP
+Ang|DTC kamatis|NNC .|PMP
+Ang|DTC pulang|JJD_CCP kamatis|NNC .|PMP
+Ang|DTC karot|NNC .|PMP
+Ang|DTC kahel|JJD na|CCP karot|NNC .|PMP
+Ang|DTC saging|NNC .|PMP
+Ang|DTC dilaw|JJD na|CCP saging|NNC .|PMP
+Ang|DTC bayabas|NNC .|PMP
+Ang|DTC berdeng|JJD_CCP bayabas|NNC .|PMP
+Ang|DTC isda|NNC .|PMP
+Ang|DTC asul|JJD na|CCP isda|NNC .|PMP
+Ang|DTC ubas|NNC .|PMP
+Ang|DTC kulay|NNC lilang|NNC ubas|NNC .|PMP
+Ang|DTC galing|RBL !|PMQ
+Ikaw|NNP ay|LM kumain|VBAF ng|CCB mga|DTCP pagkaing|NNC_CCP kulay|JJD bahaghari|NNC .|PMP

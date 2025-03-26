@@ -1,0 +1,32 @@
+Pupunta|VBTF tayo|PRP sa|CCT Karnabal|NNP .|PMP
+Yehey|NNP !|PMS
+sigaw|NNC ni|DTP Maliit|JJD na|CCP Daga|NNC .|PMP
+Yehey|NNP !|PMS
+sigaw|NNC ni|DTP Mas|JJCC Maliit|JJD na|CCP Daga|NNC .|PMP
+Yehey|NNP !|PMS
+sigaw|NNC ni|DTP Pinakamaliit|NNP na|CCP Daga|NNC .|PMP
+Layon|NNP nilang|PRP_CCP subukan|VBOF ang|DTC bawat|PRI sakayan|NNC sa|CCT karnabal|NNC !|PMS "|PMS
+Huwag|RBF niyo|PRP akong|PRS_CCP iwawala|VBOF !|PMS "|PMS
+Sabi|VBS ni|DTP Pinakamaliit|NNP na|CCP Daga|NNC sa|CCT kaniyang|PRSP_CCP mga|DTCP kuya|NNC .|PMP
+Sila|PRP ay|LM kumarera|VBAF gamit|VBS ang|DTC sakayang|JJD_CCP kotse|NNC .|PMP
+Sila|PRP ay|LM umikot|VBAF -|PMS ikot|NNC at|CCA nagpataas|VBTS -|PMS babasa|FW Tsubibo|FW .|PMP
+Sinakyan|VBOF din|RBI nila|PRP ang|DTC paikot|JJD -|PMS ikot|NNC na|CCP sasakyang|NNC_CCP katerpilar|JJD .|PMP
+Sinakyan|VBOF din|RBI nila|PRP ang|DTC ruweda|NNC .|PMP
+Ang|DTC magkakapatid|NNC ay|LM naglakad|VBTS papunta|VBW sa|CCT tindahan|NNC ng|CCB mga|DTCP lobo|NNC ...|PMS .|PMP
+at|CCA bawat|PRI isa|PRI sa|CCT kanila|PRSP ay|LM bumili|VBAF nglobo|JJD .|PMP
+Isang|PRI_CCP lobo|NNC ,|PMC dalawang|JJN_CCP lobo|NNC ...|PMS "|PMS Sandali|RBW lang|RBI ,|PMC nasaan|JJD si|DTP Pinakamaliit|NNP na|CCP Daga|NNC ?|PMQ "|PMS
+Si|DTP Maliit|JJD na|CCP Daga|NNC at|CCA Mas|JJCC Maliit|JJD na|CCP Daga|NNC ay|LM tumakbo|VBAF pabalik|JJD sa|CCT mga|DTCP laruang|NNC_CCP sakayang|JJD_CCP kotse|NNC .|PMP
+Wala|VBN doon|PRL si|DTP Pinakamaliit|NNP na|CCP Daga|NNC .|PMP
+Tumakbo|VBAF sila|PRP sa|CCT Tsubibo|NNP .|PMP
+Si|DTP Pinakamaliit|NNP na|CCP Daga|NNC ay|LM wala|VBN din|RBI doon|PRL .|PMP
+Tumakbo|VBAF naman|RBI sila|PRP pabalik|VBW sa|CCT sakayang|JJD_CCP katerpilar|NNC .|PMP
+Wala|VBN din|RBI doon|PRL si|DTP Pinakamaliit|NNP na|CCP Daga|NNC .|PMP
+Tumakbo|VBAF naman|RBI sila|PRP pabalik|VBW ng|CCB ruweda|NNC .|PMP
+Salamat|RBS sa|CCT Diyos|NNP !|PMQ
+Naroon|PRL si|DTP Pinakamaliit|NNP na|CCP Daga|NNP !|PMS
+Ang|DTC magkakapatid|NNC na|CCP daga|NNC ay|LM bumili|VBAF ng|CCB tig|NNC -|PMS iisang|PRI_CCP baso|NNC ng|CCB katas|NNC ng|CCB tubo|NNC .|PMP
+Isang|PRI_CCP baso|NNC ,|PMC dalawang|JJN_CCP baso|NNC ,|PMC tatlong|JJN_CCP baso|NNC !|PMS
+Isang|PRI_CCP napakasayang|JJCS_JJD_CCP araw|NNC sa|CCT karnabal|NNC !|PMS
+Yehey|NNP !|PMS
+Yehey|NNP !|PMS
+Yehey|NNP !|PMS

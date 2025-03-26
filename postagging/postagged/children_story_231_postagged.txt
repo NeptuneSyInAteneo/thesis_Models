@@ -1,0 +1,56 @@
+Minsan|RBW sa|CCT isang|PRI_CCP panahon|NNC ,|PMC may|VBH tatlong|JJN_CCP ardilya|NNC na|CCP nakatira|VBTS sa|CCT isang|PRI_CCP malaking|JJD_CCP puno|NNC :|PMS Ado|NNP ,|PMC Aka|NNP at|CCA Ali|NNP .|PMP
+Si|DTP Ali|NNP ang|DTC pinakamaliit|JJCS_JJD sa|CCT kanila|PRSP .|PMP
+Palagi|RBW tuloy|JJD siyang|PRS_CCP tinutukso|VBTR nina|DTPP Ado|NNP at|CCA Aka|NNP dahil|CCR sa|CCT kanyang|PRSP_CCP pagiging|VBTR maliit|JJD .|PMP
+Malungkot|JJD si|DTP Ali|NNP .|PMP
+Nais|VBS sana|VBS niyang|PRS_CCP maging|VBW mabuti|JJD sa|CCT kanya|PRSP sina|DTPP Ado|NNP at|CCA Aka|NNP .|PMP
+Hindi|RBF siya|PRS isinasama|VBTR ng|CCB dalawa|CDB sa|CCT mga|DTCP kasiyahan|NNC .|PMP
+Higit|JJCC sa|CCT lahat|PRI ay|LM gustung|FW -|PMS gusto|VBS makakain|VBW ni|DTP Ali|NNP ng|CCB bunga|NNC ng|CCB gintong|JJD_CCP mansanas|NNC mula|RBL sa|CCT puno|NNC nito|PRO sa|CCT gubat|NNC .|PMP
+Ngunit|CCT hindi|RBF siya|PRS binibigyan|VBTR nito|PRO nina|DTPP Ado|NNP at|CCA Aka|NNP .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC sinabi|VBTS ni|DTP Ado|NNP sa|CCT kanya|PRSP ,|PMC "|PMS Bukas|JJD ay|LM mahihinog|JJD na|CCP bunga|NNC ng|CCB gintong|JJD_CCP masanas|VBW !|PMQ
+Pipitasin|NNP namin|PRP iyon|PRO ni|DTP Aka|NNP .|PMP
+Hindi|RBF ka|PRS na|CCP naman|RBI makakain|VBW nun|FW ,|PMC Ali|NNP .|PMP "|PMS "|PMS
+OO|NNPA nga|RBI !|PMS "|PMS
+wika|NNC ni|DTP Aka|NNP .|PMP "|PMS
+Dahil|CCR napakaliit|JJCS_JJD mo|PRS ,|PMC hindi|RBF mo|PRS kailangan|VBS ng|CCB kahit|CCT anong|PRQ_CCP prutas|NNC .|PMP
+Hintayin|VBOF mo|PRS na|RBI lang|RBI kami|PRP dito|PRL .|PMP
+Naiiyak|VBTS na|CCP tumakbo|VBAF pabalik|RBD sa|CCT loob|NNC ng|CCB puno|NNC si|DTP Ali|NNP .|PMP
+Noong|RBW_CCP gabing|RBW_CCP yun|PRO ,|PMC may|VBH naisipan|VBTS siyang|PRS_CCP gawin|VBOF .|PMP
+Kinabukasan|RBW ,|PMC maagang|RBD_CCP gumising|VBAF si|DTP Ali|NNP .|PMP
+Iniwan|VBOF niya|PRS ang|DTC puno|NNC bago|RBW pa|RBI magising|VBW sina|DTPP Ado|NNP at|CCA Aka|NNP .|PMP
+Tumakbo|VBAF ,|PMC lumundag|VBAF at|CCA umawit|VBAF siya|PRS habang|RBW binabaybay|VBTR ang|DTC kagubatan|NNC .|PMP "|PMS
+Yehey|NNP !|PMS
+Makakain|VBW na|CCP ako|PRS ng|CCB gintong|JJD_CCP mansanas|NNC ngayong|RBW_CCP araw|NNC na|CCP ito|PRO !|PMS "|PMS
+Ngunit|CCT habang|RBW siya|PRS ay|LM papalapit|JJD na|RBI sa|CCT puno|NNC ,|PMC narinig|VBTS niya|PRS sina|DTPP Ado|NNP at|CCA Aka|NNP sa|CCT kanyang|PRSP_CCP likuran|NNC .|PMP
+Pasigaw|RBD siyang|PRS_CCP sinabihan|VBTS ni|DTP Ado|NNP .|PMP "|PMS
+Ang|DTC lakas|NNC ng|CCB loob|NNC mong|PRS_CCP umalis|VBAF ng|CCB maaga|JJD at|CCA iwanan|VBOF kami|PRP sa|CCT puno|NNC !|PMS "|PMS
+Tumango|VBOF si|DTP Aka|NNP bilang|CCT pagsang|NNC -|PMS ayon|RBR .|PMP "|PMS
+Pero|CCT dahil|CCR sa|CCT maikli|JJD at|CCA mabagal|JJD mong|PRS_CCP mga|DTCP paa|NNC ,|PMC hindi|RBF mo|PRS pa|RBI rin|RBI kami|PRP naunahang|RBD_CCP makarating|VBW sa|CCT puno|NNC !|PMS "|PMS
+Pagkawika|VBW nito|PRO ,|PMC Mabilis|RBD siyang|PRS_CCP iniwan|VBTS_VBOF nina|DTPP Ali|NNP at|CCA nagsimulang|VBTS_CCP umakyat|VBAF sa|CCT puno|NNC para|CCT sa|CCT pitasin|NNC ang|DTC prutas|NNC .|PMP
+Napaluha|VBTS na|RBI lamang|RBI si|DTP Ali|NNP .|PMP "|PMS
+Pagkatapos|VBW ng|CCB lahat|PRI ,|PMC hindi|RBF na|RBI naman|RBI ako|PRS makakain|VBW ng|CCB gintong|JJD_CCP mansanas|NNC .|PMP "|PMS
+Ngunit|CCT muli|RBW ay|LM nakapag|VBTS -|PMS isip|NNC siya|PRS .|PMP "|PMS
+Hindi|RBF "|PMS sabi|VBS niya|PRS sa|CCT sarili|NNC ,|PMC "|PMS Hindi|RBF ako|PRS dapat|VBS sumuko|VBAF .|PMP "|PMS
+Nagsimulang|VBTS_CCP akyatin|VBOF ni|DTP Ali|NNP ang|DTC puno|NNC .|PMP
+Sina|DTPP Ado|NNP at|CCA Aka|NNP naman|RBI ay|LM hinahanap|VBTR na|CCP ang|DTC pinakahinog|JJCS_JJD na|CCP mga|DTCP bunga|NNC ng|CCB gintong|JJD_CCP mansanas|NNC .|PMP
+Nang|RBW makita|VBW nina|DTPP Ado|NNP at|CCA Aka|NNP na|CCP papalapit|JJD na|CCP si|DTP Ali|NNP ,|PMC itinaboy|VBTS nila|PRP ito|PRO palayo|RBD .|PMP
+Napatungo|VBTS si|DTP Ali|NNP sa|CCT isang|PRI_CCP dulo|NNC ng|CCB sanga|NNC ng|CCB puno|NNC .|PMP
+Nang|RBW bigla|RBD na|RBI lang|RBI ,|PMC nabali|VBTS ang|DTC sanga|NNC .|PMP
+Kasama|CCB nitong|PRO_CCP nalaglag|VBTS si|DTP Ali|NNP pababa|JJD .|PMP
+Sa|CCT kabutihang|JJD_CCP palad|NNC ,|PMC nakakapit|VBTR si|DTP Ali|NNP sa|CCT isa|PRI pang|RBI_CCP sanga|NNC at|CCA napigilan|VBTS siya|PRS nito|PRO sa|CCT tuluyang|RBD_CCP pagkahulog|VBW sa|CCT lupa|NNC .|PMP
+Malungkot|JJD na|CCP tumigil|VBAF muna|RBI si|DTP Ali|NNP sa|CCT sangang|NNC_CCP iyon|PRO .|PMP
+Ngunit|CCT may|VBH naamoy|VBTS siyang|PRS_CCP kakaiba|JJD at|CCA mabangong|JJD_CCP bagay|NNC .|PMP
+Napadilat|VBTS siyang|PRS_CCP maigi|JJD .|PMP
+Nasa|RBL harap|JJD pala|NNC niya|PRS ang|DTC isang|PRI_CCP hinog|NNC na|CCP hinog|NNC nang|RBW bunga|NNC ng|CCB gintong|JJD_CCP mansanas|NNC .|PMP
+May|VBH paghingal|NNC na|CCP inabot|VBTS ni|DTP Ali|NNP ang|DTC hinog|NNC bunga|NNC .|PMP
+Tinikman|VBOF niya|PRS ito|PRO .|PMP
+Napakasarap|JJCS_JJD !|PMS
+Namamanghang|RBD_CCP nakamasid|RBD lamang|RBI sina|DTPP Aka|NNP at|CCA Ado|NNP sa|CCT itaas|JJD ng|CCB puno|NNC .|PMP
+Napakabigat|JJCS_JJD kasi|CCR nila|PRP para|CCT sa|CCT maliit|JJD na|CCP na|CCP sanga|NNC .|PMP
+Nakita|VBTS ni|DTP Ali|NNP na|CCP gutom|JJD na|CCP nakatingin|RBD sina|DTPP Ado|NNP at|CCA Aka|NNP sa|CCT kanya|PRSP .|PMP
+Pumitas|NNP si|DTP Ali|NNP ng|CCB hinog|NNC na|CCP bunga|NNC ng|CCB gintong|JJD_CCP mansanas|NNC para|CCT ibigay|VBOF sa|CCT dalawang|JJN_CCP mas|JJCC malalaking|JJD_CCP ardilya|NNC .|PMP
+Sina|DTPP Ado|NNP at|CCA Aka|NNP ay|LM nasorpresa|VBTS at|CCA nagpasalamat|VBTS sa|CCT kanya|PRSP .|PMP
+Nanghingi|VBTR din|RBI sila|PRP ng|CCB tawad|NNC sa|CCT mga|DTCP pang|RBI_CCP -|PMS aapi|NNC nila|PRP kay|DTP Ali|NNP .|PMP
+At|CCA sama|CCB -|PMS sama|NNC na|CCP silang|PRP_CCP kumain|VBAF ng|CCB hinog|NNC na|CCP bunga|JJD gintong|JJD_CCP mansanas|NNC .|PMP
+Mula|RBW noon|RBW ,|PMC hindi|RBF na|RBI minaliit|VBOF nina|DTPP Ado|NNP at|CCA Aka|NNP ang|DTC kakayahan|NNC ni|DTP Ali|NNP .|PMP
+Pinakitahan|JJCS_JJD na|CCP nila|PRP ito|PRO ng|CCB kabutihan|NNC at|CCA respeto|NNC ,|PMC at|CCA ang|DTC puno|JJD na|CCP kanilang|PRSP_CCP tahanan|NNC ay|LM napuno|VBTS ng|CCB kasiyahan|NNC .|PMP
+Huwag|RBF Ninyo|NNP Akong|NNP MaliitinBokabularyo|NNP :|PMS squirrel|FW -|PMS ardilya|NNC underestimate|FW -|PMS maliitinAng|VBW_CCP BookLab|NNP ay|LM suportado|JJD ng|CCB Smart|NNP Axiata|NNP

@@ -1,0 +1,58 @@
+Ang|DTC Gabi|NNP ng|CCB Pakikipagsapalaran|NNP ni|DTP Masky|NNP na|CCP Isinulat|VBTS ni|DTP Neehal|NNP Khatri|NNP Inilarawan|VBTS ni|DTP Ropate|NNP Kama|NNP "|PMS Mayroon|VBH akong|PRS_CCP sapat|JJD na|CCP pakikipagsapalaran|NNC para|CCT sa|CCT araw|NNC na|CCP iyon|PRO ,|PMC "|PMS sabi|VBS ni|DTP Masky|NNP .|PMP
+Buong|PRI_CCP araw|NNC siyang|PRS_CCP naglalaro|VBTR sa|CCT dalampasigan|NNC .|PMP
+Kasama|CCB si|DTP Geeta|NNP at|CCA ang|DTC kanyang|PRSP_CCP makulit|JJD na|CCP aso|NNC ,|PMC si|DTP Ruffy|NNP .|PMP
+Halos|JJD hindi|RBF na|RBI niya|PRS maidilat|VBW ang|DTC kanyang|PRSP_CCP mga|DTCP mata|NNC .|PMP
+Kalabog|NNP !|PMS "|PMS
+Ano|PRQ yan|PRO ?|PMQ "|PMS
+sigaw|NNC ni|DTP Masky|NNP .|PMP
+Nakita|VBTS niyang|PRS_CCP pumutok|VBAF na|CCP ang|DTC takip|NNC ng|CCB kanyang|PRSP_CCP basurahan|NNC .|PMP
+Mukhang|RBM hindi|RBF ito|PRO naisara|VBTS ng|CCB maayos|JJD ni|DTP Geeta|NNP .|PMP
+Iniisip|VBTS niya|PRS kung|RBK ano|RBQ ang|DTC gagawin|VBTF ngayon|RBW .|PMP
+Whoosh|NNP !|PMS
+Isang|PRI_CCP bugso|NNC ng|CCB hangin|NNC ang|DTC sumalubong|VBAF kay|DTP Masky|NNP .|PMP
+Siya|PRS ay|LM umiikot|VBTR at|CCA umiikot|VBTR sa|CCT hangin|NNC .|PMP
+Pataas|NNP at|CCA pataas|NNC at|CCA pataas|NNC .|PMP
+Dumapo|NNP si|DTP Masky|NNP sa|CCT isang|PRI_CCP bagay|NNC na|CCP malambot|JJD at|CCA mainit|JJD .|PMP
+Ito|PRO ay|LM isang|PRI_CCP pugad|NNC .|PMP
+Hmm|NNP ...|PMS baka|RBM pwede|RBT siyang|PRS_CCP umidlip|VBTR_VBAF dito|PRL .|PMP "|PMS
+Umalis|VBAF ka|PRS na|CCP ,|PMC "|PMS ingit|FW ng|CCB Seagull|NNP .|PMP "|PMS
+O|NNPA ikaw|PRS ay|LM mabuhol|VBW sa|CCT aking|PRSP_CCP mga|DTCP paa|NNC .|PMP "|PMS
+Binuhat|VBTS niya|PRS ito|PRO gamit|VBS ang|DTC kanyang|PRSP_CCP tuka|NNC at|CCA itinapon|VBTS palabas|NNC ng|CCB pugad|NNC .|PMP
+Sa|CCT kabutihang|NNC_CCP -|PMS palad|NNC ,|PMC si|DTP Masky|NNP ay|LM isang|PRI_CCP matalinong|JJD_CCP maliit|JJD na|CCP maskara|NNC .|PMP
+Pinagdikit|VBRF niya|PRS ang|DTC kanyang|PRSP_CCP dalawang|JJN_CCP lubid|NNC para|CCT makagawa|VBW ng|CCB parachute|FW .|PMP
+Wheee|NNP !|PMS
+Marahan|JJD siyang|PRS_CCP gumalaw|VBAF pababa|JJD .|PMP
+Dumapo|NNP si|DTP Masky|NNP sa|CCT isang|PRI_CCP bagay|NNC na|CCP makinis|JJD at|CCA malamig|JJD .|PMP
+Ito|PRO ay|LM isang|PRI_CCP balyena|NNC .|PMP
+Hmm|NNP ...|PMS baka|RBM pwede|RBT siyang|PRS_CCP umidlip|VBTR_VBAF dito|PRL .|PMP "|PMS
+Umalis|VBAF ka|PRS na|CCP ,|PMC "|PMS sigaw|NNC ni|DTP Balyena|NNP .|PMP "|PMS
+O|NNPA lalamunin|VBTF kita|NNC ng|CCB buo|PRI .|PMP "|PMS
+Bumubuga|VBAF siya|PRS ng|CCB tubig|NNC sa|CCT buong|PRI_CCP Masky|NNP .|PMP
+Si|DTP Masky|NNP ay|LM sumisid|VBAF nang|RBD malalim|RBD sa|CCT karagatan|NNC upang|CCB makatakas|VBW .|PMP
+Nakahanap|VBTS siya|PRS ng|CCB pamilya|NNC ng|CCB natutulog|VBTR na|CCP isda|NNC .|PMP
+Hmm|NNP ...|PMS baka|RBM dito|PRL siya|PRS umidlip|VBAF .|PMP "|PMS
+Umalis|VBAF ka|PRS na|CCP ,|PMC "|PMS sabi|VBS ng|CCB isang|PRI_CCP gising|JJD na|CCP si|DTP Amang|NNP Isda|NNP .|PMP "|PMS
+Kung|CCR magtagal|VBW ka|PRS rito|PRL ,|PMC mabibiyak|VBTF ka|PRS .|PMP
+Tapos|RBW kakainin|VBTF ka|PRS ng|CCB pamilya|NNC ko|PRS .|PMP "|PMS
+Itinaboy|VBTS niya|PRS si|DTP Masky|NNP .|PMP
+Lumalangoy|VBTR_VBAF si|DTP Masky|NNP sa|CCT ibabaw|JJD at|CCA walang|VBN_CCP patutunguhan|NNC .|PMP
+Basang|JJD_CCP basa|NNC siya|PRS at|CCA malamig|JJD .|PMP
+Gusto|VBS niya|PRS lang|RBI umidlip|VBTR_VBAF .|PMP
+Iniisip|VBTS ni|DTP Masky|NNP kung|CCR mahahanap|VBTF pa|RBI ba|RBI niya|PRS ang|DTC daan|NNC pauwi|NNC .|PMP
+Biglang|RBD_CCP nakita|VBTS ni|DTP Masky|NNP ang|DTC isang|PRI_CCP lumulutang|VBTR_VBAF na|CCP sanga|NNC .|PMP
+Aha|NNP !|PMS
+May|VBH magandang|JJD_CCP idea|NNC siya|PRS .|PMP
+Lumangoy|VBAF siya|PRS papunta|RBL sa|CCT sanga|NNC at|CCA ikinawit|VBOF ang|DTC sarili|NNC dito|PRL .|PMP
+Pagkatapos|VBW ay|LM iniikot|VBTR niya|PRS ang|DTC kanyang|PRSP_CCP katawan|NNC upang|CCB gumawa|VBAF ng|CCB isang|PRI_CCP layag|NNC .|PMP
+Hooray|NNP !|PMS
+Nagmamadali|VBTS siyang|PRS_CCP pumunta|VBAF sa|CCT dalampasigan|NNC ngayon|RBW .|PMP
+Naglalakad|VBTR sina|DTPP Geeta|NNP at|CCA Ruffy|NNP sa|CCT dalampasigan|NNC kinaumagahan|VBOF .|PMP
+Nakita|VBTS ni|DTP Ruffy|NNP si|DTP Masky|NNP .|PMP
+Tumakbo|VBAF siya|PRS para|CCT bigyan|VBOF siya|PRS ng|CCB basa|JJD at|CCA malansa|JJD na|CCP dilaan|NNC .|PMP
+Binuhat|VBTS ni|DTP Geeta|NNP si|DTP Masky|NNP .|PMP
+Marahan|JJD niya|PRS itong|PRO_CCP ibinalik|VBTS sa|CCT basurahan|NNC .|PMP
+Sa|CCT pagkakataong|NNC_CCP ito|PRO ,|PMC naalala|VBTS niyang|PRS_CCP isara|VBOF ng|CCB maayos|JJD ang|DTC takip|NNC .|PMP "|PMS
+Sa|CCT wakas|RBW ,|PMC maaari|VBS akong|PRS_CCP magkaroon|VBAF ng|CCB magandang|JJD_CCP ,|PMC mahabang|JJD_CCP idlip|NNC ,|PMC "|PMS sabi|VBS ni|DTP Masky|NNP .|PMP
+Ibinalot|VBTS niya|PRS ang|DTC kanyang|PRSP_CCP dalawang|JJN_CCP tali|NNC sa|CCT kanyang|PRSP_CCP sarili|NNC at|CCA pumulupot|VBTR_VBAF .|PMP "|PMS
+Marami|PRI na|CCP akong|PRS_CCP pakikipagsapalaran|NNC sa|CCT ngayon|RBW ,|PMC "|PMS inaantok|VBTR niyang|PRS_CCP sabi|NNC .|PMP
+Narrator|NNP :|PMS Brendan|NNP Boland|NNP .|PMP

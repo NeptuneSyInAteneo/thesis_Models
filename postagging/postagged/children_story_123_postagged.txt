@@ -1,0 +1,42 @@
+Sina|DTPP Tiwi|NNP at|CCA Boni|NNP ay|LM mga|DTCP tagapagtuklas|NNC ng|CCB kalawakan|NNC .|PMP
+Ang|DTC kanilang|PRSP_CCP layunin|NNC ay|LM makahanap|VBW ng|CCB planeta|NNC .|PMP
+Ang|DTC planeta|NNC ay|LM bilog|JJD at|CCA asul|JJD .|PMP
+Kailangan|VBS nilang|PRP_CCP mahanap|VBW iyon|PRO sa|CCT lalong|JJCC_CCP madaling|JJD_CCP panahon|NNC .|PMP
+Wala|VBN na|CCP silang|PRP_CCP sapat|JJD na|CCP oras|NNC .|PMP
+Una|CDB ,|PMC kailangan|VBS nila|PRP ng|CCB sasakyang|NNC_CCP pangkalawakan|NNC .|PMP
+Kailangan|VBS nilang|PRP_CCP maghanap|VBW sa|CCT madilim|JJD na|CCP silid|NNC .|PMP
+Natagpuan|VBTS nina|DTPP Tiwi|NNP at|CCA Boni|NNP ang|DTC sasakyang|NNC_CCP pangkalawakan|NNC !|PMS
+Pinagana|VBTS nila|PRP ang|DTC makina|NNC .|PMP
+Sila|PRP ay|LM naghanda|VBTS na|CCP sa|CCT paglalakbay|NNC .|PMP
+Nagsimula|VBTS na|RBI ang|DTC paglalakbay|NNC !|PMS
+Sa|CCT isang|PRI_CCP iglap|NNC ang|DTC sasakyang|NNC_CCP pangkalawan|JJD ay|LM mabilis|RBD na|CCP lumipad|VBAF .....|NNPA .|PMP
+papunta|VBW sa|CCT mahiwagang|JJD_CCP kalawakan|NNC .|PMP
+Maraming|PRI_CCP bagay|NNC ang|DTC palutang|NNC -|PMS lutang|NNC sa|CCT kalawakan|NNC .|PMP
+Isa|PRI ...|PMS dalawa|CDB ...|PMS tatlo|CDB ...|PMS at|CCA marami|PRI pang|RBI_CCP iba|PRI !|PMQ
+Isa|PRI ba|RBI sa|CCT mga|DTCP ito|PRO ang|DTC planetang|NNC_CCP hinahanap|VBTR nila|PRP ?|PMQ
+Singhot|NNP . . .|NNPA Singhot|NNP ...|PMS May|VBH nakita|VBTS silang|PRP_CCP dalawang|JJN_CCP bilog|NNC na|CCP planeta|NNC ,|PMC pero|CCT hindi|RBF ito|PRO asul|JJD .|PMP
+Singhot|NNP ...|PMS Singhot|NNP ...|PMS May|VBH nag|NNCA -|PMS iisang|PRI_CCP kayumangging|JJD_CCP batikang|JJD_CCP planeta|NNC .|PMP
+Hindi|RBF ito|PRO ang|DTC hinahanap|VBTR ni|DTP Boni|NNP .|PMP
+May|VBH isa|PRI pang|RBI_CCP bilog|JJD na|CCP planeta|NNC ,|PMC pero|CCT hindi|RBF pa|RBI rin|RBI ito|PRO ang|DTC kaniyang|PRSP_CCP hinahanap|VBTR .|PMP
+Singhot|NNP ...|PMS singhot|NNC ...|PMS Nakaamoy|VBTS si|DTP Boni|NNP ng|CCB isang|PRI_CCP pamilyar|JJD na|CCP bagay|NNC .|PMP
+Ayun|NNP !|PMS
+Iyon|PRO ang|DTC planeta|NNC ni|DTP Boni|NNP .|PMP
+Naku|PRS po|RBS !|PMQ
+Isa|PRI palang|RBI_CCP dambuhalang|JJD_CCP halimaw|NNC ang|DTC nakabantay|VBTS dito|PRL .|PMP
+Hindi|RBF susuko|VBTF si|DTP Boni|NNP .|PMP
+Kailangan|VBS niyang|PRS_CCP makuha|VBW ang|DTC planetang|NNC_CCP iyon|PRO .|PMP
+Aray|NNP !|PMS
+Nauntog|VBTS si|DTP Boni|NNP sa|CCT sasakyang|NNC_CCP pangkalawakan|NNC .|PMP
+Ang|DTC sasakyan|NNC ay|LM yumanig|VBAF ,|PMC umikot|VBAF ,|PMC at|CCA bumaliktad|VBTR_VBAF !|PMS
+WhoooahNaku|NNP po|RBS ,|PMC ang|DTC sasakyan|NNC ay|LM tuluyang|RBD_CCP nasira|VBTS .|PMP "|PMS
+Saklolo|NNP !|PMS "|PMS "|PMS
+Tiwi|NNP ?|PMQ "|PMS "|PMS
+Bakit|PRQ ka|PRS naglalaro|VBTR dito|PRL sa|CCT silong|NNC ?|PMQ
+Madilim|JJD dito|PRL .|PMP
+Naghihintay|VBTR na|CCP ang|DTC iyong|PRSP_CCP Tatay|NNC sa|CCT kotse|NNC ,|PMC "|PMS sabi|VBS ng|CCB kaniyang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Kinailangan|VBTR naming|PRP_CCP hanapin|VBOF ang|DTC nawawalang|VBTR_CCP bola|NNC ni|DTP Boni|NNP ,|PMC Nanay|NNP .|PMP
+Hindi|RBF makaaalis|VBW si|DTP Boni|NNP kung|CCR wala|VBN ito|PRO ,|PMC "|PMS sagot|NNC ni|DTP Tiwi|NNP .|PMP "|PMS
+Ngayon|RBW ,|PMC magkakaroon|VBTF uli|RBW tayo|PRP ng|CCB panibangong|JJD_CCP paglalakbay|NNC !|PMS "|PMS
+Ang|DTC proyektong|NNC_CCP ito|PRO sa|CCT paglikha|NNC ng|CCB aklat|NNC ay|LM nagtatampok|VBTR ng|CCB mga|DTCP natatanging|JJD_CCP kababaihan|NNC bilang|CCT pangunahing|JJD_CCP tauhan|NNC sa|CCT kuwento|NNC at|CCA kinabibilangan|VBTR ng|CCB mga|DTCP babaeng|JJD_CCP manunulat|NNC ,|PMC illustrador|NNC ,|PMC tagapatnugot|NNC ,|PMC at|CCA tagapagguhit|NNC .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM ginawa|VBTS sa|CCT pamamagitan|NNC ng|CCB mga|DTCP pagsasanay|NNC sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP at|CCA suportado|JJD ng|CCB Estée|NNP Lauder|NNP Companies|NNP .|PMP
+Ang|DTC pagsasanay|NNC at|CCA iba|PRI pangpropesyunal|JJD na|CCP pagsulong|NNC tulad|JJC ng|CCB pagguhit|NNC at|CCA pag|CCR -|PMS akda|NNC ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

@@ -1,0 +1,53 @@
+Pinag|VBRF -|PMS aaralan|VBTF sa|CCT klase|NNC nina|DTPP Trina|NNP ang|DTC tungkol|RBR sa|CCT kalikasan|NNC .|PMP
+Sinabi|VBTS ng|CCB kanilang|PRSP_CCP guro|NNC na|CCP espesyal|JJD ang|DTC kanilang|PRSP_CCP takdang|JJD_CCP -|PMS aralin|VBOF sa|CCT pagtatapos|NNC ng|CCB linggo|NNC .|PMP
+Pag|CCR -|PMS aaralan|VBTF nila|PRP ang|DTC mga|DTCP insekto|NNC .|PMP
+Sabik|JJD ang|DTC lahat|PRI ng|CCB mga|DTCP mag|VBW -|PMS aaral|FW .|PMP
+Agad|RBW silang|PRP_CCP naghanap|VBTS ng|CCB kapares|JJD at|CCA sinimulang|RBD_CCP magplano|VBW para|CCT sa|CCT proyekto|NNC .|PMP
+Magkapares|VBW sina|DTPP Trina|NNP at|CCA Sara|NNP .|PMP "|PMS
+Magsaliksik|NNP tayo|PRP tungkol|RBR sa|CCT tipaklong|NNC ,|PMC "|PMS ang|DTC wika|NNC ni|DTP Trina|NNP .|PMP
+Pero|CCT may|VBH ibang|PRI_CCP naisip|VBTS na|CCP insekto|NNC si|DTP Sara|NNP .|PMP
+Nais|VBS ni|DTP Sara|NNP na|CCP obserbahan|VBOF ang|DTC mga|DTCP tutubi|NNC .|PMP
+Napakagandang|VBTR_CCP mga|DTCP tutubi|FW !|PMQ
+Nagustuhan|VBTS ni|DTP Trina|NNP ang|DTC ideyang|NNC_CCP iyon|PRO .|PMP
+Napakaraming|RBD_CCP tutubi|VBTF ang|DTC puwedeng|RBT_CCP makita|VBW at|CCA pag|CCR -|PMS aralan|NNC .|PMP
+Pinilit|VBTS niyang|PRS_CCP abutin|VBOF ang|DTC palipad|NNC -|PMS lipad|NNC na|CCP mga|DTCP tutubi|NNC .|PMP
+Oops|NNP !|PMS
+Hindi|RBF niya|PRS ito|PRO mahuli|VBW .|PMP
+Makahuli|VBW kaya|CCR siya|PRS ng|CCB kahit|CCT isa|PRI ?|PMQ
+Tagumpay|NNP !|PMS
+Nakahuli|VBTS si|DTP Trina|NNP ng|CCB isang|PRI_CCP tutubi|NNC sa|CCT kaniyang|PRSP_CCP kamay|NNC .|PMP
+Ngunit|CCT nakikiliti|VBTR ng|CCB mga|DTCP paa|NNC ng|CCB tutubi|NNC ang|DTC kaniyang|PRSP_CCP kamay|NNC .|PMP
+Natatawa|VBTS siya|PRS kaya|CCR pinakawalan|VBOF niya|PRS ang|DTC tutubi|NNC .|PMP "|PMS
+Bakit|PRQ hindi|RBF tayo|PRP gumawa|VBAF ng|CCB lambat|NNC na|CCP panghuli|JJD ?|PMQ "|PMS
+ang|DTC tanong|NNC ni|DTP Sara|NNP .|PMP
+Ngunit|CCT umiling|VBAF si|DTP Trina|NNP .|PMP
+Siya|PRS ay|LM nag|VBTS -|PMS aalalang|VBTF mapahamak|JJD ang|DTC mga|DTCP tutubi|NNC kung|CCR sila|PRP ay|LM gagamit|VBTF ng|CCB lambat|NNC na|CCP panghuli|JJD .|PMP
+Isang|PRI_CCP kaklase|JJD ang|DTC lumapit|VBAF sa|CCT kanila|PRSP .|PMP "|PMS
+Panghuhuli|NNP ng|CCB mga|DTCP tutubi|NNC ba|RBI ?|PMQ
+Alam|VBS ko|PRS kung|RBK paano|RBQ sila|PRP hulihin|VBOF !|PMQ "|PMS "|PMS
+Tingnan|VBOF ninyo|PRP !|PMS "|PMS
+ang|DTC pagmamalaking|JJD_CCP sabi|NNC ng|CCB batang|JJD_CCP lalaki|NNC .|PMP
+Kaniyang|NNP_CCP kinurot|VBOF ang|DTC pakpak|NNC ng|CCB tutubi|NNC .|PMP
+O|NNPA ,|PMC hindi|RBF !|PMQ
+Maaari|VBS niyang|PRS_CCP masaktan|VBW ang|DTC tutubi|NNC .|PMP
+Pinakawalan|VBOF ng|CCB batang|JJD_CCP lalaki|NNC ang|DTC pakpak|NNC ng|CCB tutubi|NNC nang|RBW sinaway|VBTS ito|PRO ni|DTP Trina|NNP .|PMP
+Hindi|RBF niya|PRS batid|VBS na|CCP iyon|PRO ay|LM maaaring|RBM makasakit|VBW sa|CCT tutubi|NNC .|PMP "|PMS
+Yehey|NNP ,|PMC ito|PRO ay|LM maaari|VBS pa|RBI ring|RBI_CCP makalipad|VBW nang|RBW maayos|JJD ,|PMC "|PMS wika|NNC ni|DTP Sara|NNP .|PMP "|PMS
+Tingnan|VBOF mo|PRS ,|PMC may|VBH sapot|JJD doon|PRL ng|CCB gagamba|NNC !|PMS "|PMS
+turo|NNC ni|DTP Trina|NNP .|PMP
+Nagbigay|VBTS iyon|PRO sa|CCT kaniya|PRSP ng|CCB bagong|JJD_CCP ideya|NNC .|PMP "|PMS
+Gumawa|VBAF tayo|PRP ng|CCB raketa|FW !|PMS "|PMS
+pahayag|NNC ni|DTP Trina|NNP .|PMP "|PMS
+Ngunit|CCT hindi|RBF kagaya|JJC niyan|PRO ,|PMC Sara|NNP !|PMQ "|PMS "|PMS
+Gagawa|NNP tayo|PRP gamit|VBS ang|DTC mga|DTCP dahon|NNC ng|CCB saging|NNC at|CCA patpat|NNC ng|CCB kawayan|NNC .|PMP "|PMS "|PMS
+Pagkatapos|VBW ay|LM gamitin|VBOF natin|PRP ang|DTC sapot|NNC ng|CCB gagamba|NNC para|CCT maging|VBW lambat|NNC ng|CCB ating|PRSP_CCP panghuli|JJD ng|CCB tutubi|NNC .|PMP "|PMS "|PMS
+Nagawa|VBTS natin|PRP !|PMS "|PMS
+ang|DTC wika|NNC ni|DTP Trina|NNP .|PMP "|PMS
+Ang|DTC tutubi|NNC ay|LM may|VBH apat|JJN na|CCP pakpak|NNC at|CCA anim|JJN na|CCP paa|NNC .|PMP
+Malalaki|JJD ang|DTC mga|DTCP mata|NNC nito|PRO at|CCA maraming|PRI_CCP lente|NNC .|PMP
+Ang|DTC tutubi|NNC ay|LM nabibilang|VBTR sa|CCT insekto|NNC !|PMS "|PMS
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM ginawa|VBTS sa|CCT pamamagitan|NNC ng|CCB mga|DTCP pagsasanay|NNC sa|CCT paglikha|NNC ng|CCB aklat|NNC sa|CCT lokal|JJD na|CCP wika|NNC sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC pagsasanay|NNC at|CCA iba|PRI pang|RBI_CCP propesyunal|JJD na|CCP pagsulong|NNC tulad|JJC ng|CCB pagguhit|NNC at|CCA pag|CCR -|PMS akda|NNC ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP "|PMS
+Lumipad|VBAF ka|PRS ,|PMC Tutubi|NNP !|PMS
+Salamat|RBS sa|CCT pagtulong|NNC sa|CCT amin|PRSP na|CCP maunawaan|VBW ka|PRS .|PMP "|PMS

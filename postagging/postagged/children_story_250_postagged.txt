@@ -1,0 +1,19 @@
+Isang|PRI_CCP saging|NNC .|PMP
+Kalahati|NNP para|CCT sa|CCT iyo|PRSP .|PMP
+Kalahati|NNP para|CCT sa|CCT akin|PRSP .|PMP
+Isang|PRI_CCP mangga|NNC .|PMP
+Kalahati|NNP para|CCT sa|CCT iyo|PRSP .|PMP
+Kalahati|NNP para|CCT sa|CCT akin|PRSP .|PMP
+Isang|PRI_CCP dalandan|NNC .|PMP
+Kalahati|NNP para|CCT sa|CCT iyo|PRSP .|PMP
+Kalahati|NNP para|CCT sa|CCT akin|PRSP .|PMP
+Isang|PRI_CCP abokado|NNC .|PMP
+Kalahati|NNP para|CCT sa|CCT iyo|PRSP .|PMP
+Kalahati|NNP para|CCT sa|CCT akin|PRSP .|PMP
+Isang|PRI_CCP papaya|NNC .|PMP
+Kalahati|NNP para|CCT sa|CCT iyo|PRSP .|PMP
+Kalahati|NNP para|CCT sa|CCT akin|PRSP .|PMP
+Isang|PRI_CCP bayabas|NNC .|PMP
+Akin|NNP ang|DTC lahat|PRI ng|CCB ito|PRO .|PMP
+Charan|NNP !|PMS
+Narito|VBTS ang|DTC isa|PRI para|CCT sa|CCT iyo|PRSP .|PMP

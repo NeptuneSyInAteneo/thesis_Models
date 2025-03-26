@@ -1,0 +1,67 @@
+Wow|NNP ,|PMC ang|DTC ganda|NNC naman|RBI ng|CCB ibong|NNC_CCP iyon|PRO !|PMQ
+Anong|PRQ_CCP uri|NNC iyon|PRO ng|CCB ibon|NNC ?|PMQ
+Nais|VBS malaman|VBW ni|DTP Kiara|NNP .|PMP
+Nais|VBS din|RBI makita|VBW ni|DTP Jati|NNP ang|DTC mga|DTCP ibon|NNC .|PMP
+Maingay|RBD siyang|PRS_CCP umakyat|VBAF ng|CCB bahay|NNC sa|CCT puno|NNC .|PMP
+Oh|NNP hindi|RBF ,|PMC ang|DTC ibon|NNC ay|LM lumipad|VBAF palayo|RBD .|PMP
+Mukhang|RBM nagulat|VBTS ito|PRO sa|CCT ingay|NNC ni|DTP Jati|NNP .|PMP
+Kailangan|VBS ni|DTP Kiara|NNP makuha|VBW ang|DTC kanyang|PRSP_CCP binokulo|NNC .|PMP
+Sana|VBS hindi|RBF muling|RBW_CCP lumipad|VBAF palayo|RBD ang|DTC ibon|NNC .|PMP
+Mabuti|JJD ,|PMC naroon|PRL pa|RBI din|RBI ang|DTC ibon|NNC !|PMS
+Anong|PRQ_CCP ibon|NNC iyon|PRO ?|PMQ
+Kailangan|VBS pang|RBI_CCP tignan|VBOF ito|PRO ni|DTP Kiara|NNP sa|CCT libro|NNC ng|CCB mga|DTCP ibon|NNC .|PMP
+Kailangan|VBS din|RBI niyang|PRS_CCP kumuha|VBAF ng|CCB ibang|PRI_CCP bagay|NNC .|PMP
+Ngunit|CCT paano|PRQ niya|PRS bibitbitin|VBTF ang|DTC mga|DTCP ito|PRO ?|PMQ
+Hmm|NNP …|CDB ang|DTC kumot|NNC na|CCP ito|PRO ay|LM maaaring|RBM gawing|RBD_CCP bag|JJD .|PMP
+Napakabigat|JJCS_JJD nito|PRO !|PMQ
+Hindi|RBF ito|PRO kayang|RBD_CCP bitbitin|VBOF ni|DTP Kiara|NNP .|PMP
+Baka|NNP dapat|VBS itong|PRO_CCP bitbitin|VBOF ni|DTP Kiara|NNP isa|PRI -|PMS isa|PRI .|PMP
+Akyat|NNP muli|RBW .|PMP
+Baba|NNP muli|RBW .|PMP
+Aray|NNP ,|PMC ito|PRO ay|LM nakakapagod|VBTR .|PMP
+Kailangan|VBS niyag|VBOF umisip|VBAF ng|CCB ibang|PRI_CCP paraan|NNC .|PMP
+Dapat|VBS bang|RBM humingi|VBAF si|DTP Kiara|NNP ng|CCB tulong|NNC kay|DTP Tatay|NNP ?|PMQ
+O|NNPA humingi|VBAF ng|CCB tulong|NNC kay|DTP Jati|NNP ?|PMQ
+Aha|NNP !|PMS
+Alam|VBS na|RBI ni|DTP Kiara|NNP .|PMP
+Ang|DTC mga|DTCP bagay|NNC ay|LM maaaring|VBS_CCP hilahin|VBOF gamit|VBS ang|DTC lubid|NNC .|PMP
+Ang|DTC lubid|NNC na|CCP ito|PRO ay|LM mukhang|RBM matibay|JJD .|PMP
+Kailangan|VBS lang|RBI hilahin|VBOF ni|DTP Kiara|NNP ang|DTC kabilang|CCB dulo|NNC ng|CCB lubid|NNC .|PMP
+Pagkatapos|VBW ay|LM hilahin|VBOF niya|PRS ang|DTC libro|NNC ng|CCB mga|DTCP ibon|NNC pataas|NNC .|PMP
+Ugh|NNP ,|PMC hindi|RBF ito|PRO madali|JJD .|PMP
+Madalas|RBD naiipit|VBTR ang|DTC libro|NNC sa|CCT hagdan|NNC .|PMP
+Mabigat|JJD ang|DTC libro|NNC at|CCA hindi|RBF gumagalaw|VBTR_VBAF ng|CCB maayos|JJD ang|DTC lubid|NNC .|PMP
+Si|DTP Kiara|NNP ay|LM nag|VBTS -|PMS isip|NNC ng|CCB mabuti|JJD .|PMP
+Ang|DTC mga|DTCP galaw|NNC ng|CCB lubid|NNC ay|LM kailangang|VBS_CCP maiayos|VBW .|PMP
+Ano|PRQ kaya|CCR ang|DTC maaaring|RBM gawin|VBOF dito|PRL ?|PMQ
+Ayun|NNP ,|PMC nandun|VBTS ang|DTC karete|NNC ni|DTP Jati|NNP !|PMS
+Kaya|CCR itong|PRO_CCP gawing|VBOF_CCP kalo|NNC ni|DTP Kiara|NNP .|PMP
+Ang|DTC karete|NNC ay|LM iikot|VBTF kasabay|JJD ng|CCB lubid|NNC .|PMP
+Uh|NNP ,|PMC oh|NNCA ,|PMC muntik|RBD ng|CCB mahulog|VBW ang|DTC karete|NNC !|PMS
+Ayan|NNP ,|PMC mapipigilan|VBTF ng|CCB basahang|NNC_CCP ito|PRO ang|DTC karete|NNC .|PMP
+Ngayon|RBW ay|LM gagalaw|VBTF na|RBI ng|CCB maayos|JJD ang|DTC lubid|NNC .|PMP
+Hila|NNP !|PMS
+Sa|CCT wakas|RBW ,|PMC ang|DTC kumot|NNC ng|CCB mga|DTCP bagay|NNC ay|LM nahila|VBTS na|CCP pataas|NNC nang|RBW madali|RBD .|PMP
+Yehey|NNP !|PMS
+Ang|DTC kalong|NNC_CCP ito|PRO ay|LM malaking|JJD_CCP tulong|NNC .|PMP
+Pakinggan|NNP !|PMS
+Ang|DTC ibon|NNC ay|LM humuhuni|VBAF .|PMP
+Mapapanood|VBTF na|RBI ni|DTP Kiara|NNP ang|DTC ibon|NNC !|PMS
+Ngunit|CCT bigla|RBD siyang|PRS_CCP nakaramdam|VBTS ng|CCB gutom|NNC .|PMP
+Hoy|NNP ,|PMC kaninong|JJD_CCP boses|NNC iyon|PRO ?|PMQ
+Kay|DTP Nanay|NNP !|PMS
+Pinadalhan|VBTS sila|PRP ng|CCB pagkain|NNC ni|DTP Nanay|NNP .|PMP
+Halina|NNP '|PMS t|NNCA Ating|NNP Alamin|NNP :|PMS Kalo|NNP Alam|VBS mo|PRS ba|RBI kung|RBK bakit|RBQ nakatulong|VBTS ang|DTC karete|NNC ni|DTP Jati|NNP kay|DTP Kiara|NNP ?|PMQ
+Kapag|CCR ang|DTC lubid|NNC ay|LM hinila|VBTS sa|CCT ibabaw|NNC ng|CCB isang|PRI_CCP kahoy|NNC na|CCP bakod|NNC ,|PMC ang|DTC pagpipingkian|NNC ng|CCB lubid|NNC laban|NNC sa|CCT kahoy|NNC ang|DTC humahawak|VBTR_VBAF sa|CCT lubid|NNC .|PMP
+Ang|DTC lubid|NNC ay|LM hindi|RBF mahihila|JJD ng|CCB madali|JJD .|PMP
+Samantala|CCT ,|PMC ang|DTC karete|NNC ay|LM umiikot|VBTR kasabay|CCB ng|CCB lubid|NNC ,|PMC kaya|CCR ang|DTC lubid|NNC ay|LM gumagalaw|VBTR_VBAF ng|CCB maayos|JJD .|PMP
+Ang|DTC ganitong|PRC_CCP ayos|NNC ng|CCB mga|DTCP kasangkapan|NNC ay|LM tinatawag|VBTR nakalo|RBD .|PMP
+Kapag|CCR may|VBH kalo|NNC ,|PMC ang|DTC mga|DTCP mabibigat|JJD na|CCP kargada|NNC ay|LM mas|JJCC magaan|JJD at|CCA mas|JJCC madaling|JJD_CCP buhatin|VBOF .|PMP
+Larawang|NNP_CCP Diksyunaryo|NNP Karete|NNP =|PMS pulunan|NNC ng|CCB sinulid|NNC ;|PMSC isang|PRI_CCP cylindrical|FW na|CCP aparato|NNC para|CCT sa|CCT pag|CCR -|PMS ikot|NNC ng|CCB sinulid|FW Sabitan|NNP =|PMS kawit|NNC ;|PMSC isang|PRI_CCP aparato|NNC para|CCT sa|CCT paglakip|NNC ng|CCB isang|PRI_CCP bagay|NNC Kalo|NNP =|PMS pagtataas|NNC ;|PMSC kagamitang|NNC_CCP pambuhat|JJD Libro|NNP ng|CCB mga|DTCP Ibon|NNC =|PMS isang|PRI_CCP aklat|NNC na|CCP naglalaman|VBTR ng|CCB mga|DTCP paglalarawan|NNC ng|CCB iba|PRI '|PMS t|NNCA ibang|PRI_CCP mga|DTCP ibon|NNC .|PMP
+Kabilang|CCT dito|PRL ang|DTC mga|DTCP larawan|NNC o|CCT mga|DTCP guhit|NNC ,|PMC paglalarawan|NNC ng|CCB kanilang|PRSP_CCP tirahan|NNC ,|PMC pagkain|NNC ,|PMC at|CCA iba|PRI pang|RBI_CCP mga|DTCP tala|NNC .|PMP
+Nakatuon|VBTS ang|DTC proyekto|NNC sa|CCT pagbuo|NNC ng|CCB aklat|NNC na|CCP ito|PRO sa|CCT mga|DTCP tema|NNC ng|CCB agham|NNC ,|PMC teknolohiya|NNC ,|PMC engineering|NNC ,|PMC at|CCA matematika|NNC (|PMS dinaglat|FW bilang|CCT STEM|NNPA )|PMS sa|CCT pang|RBI_CCP -|PMS araw|NNC -|PMS araw|NNC na|CCP buhay|NNC ng|CCB mga|DTCP bata|NNC .|PMP
+Ang|DTC proyektong|NNC_CCP ito|PRO ay|LM kinabibilangan|VBTR ng|CCB halos|JJD lahat|PRI ng|CCB babaeng|JJD_CCP manunulat|NNC ,|PMC ilustrador|NNC ,|PMC editor|NNC ,|PMC at|CCA taga|JJD -|PMS disenyo|NNC .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM binuo|VBTS sa|CCT pamamagitan|NNC ng|CCB book|FW development|FW workshop|FW na|CCP ginanap|VBTS sa|CCT pakikipagtulungan|NNC ng|CCB Litara|NNP Foundation|NNP atThe|NNP Asia|NNP Foundation|NNP sa|CCT pamamagitan|NNC ng|CCB Let|NNP 's|NNP Read|NNP program|NNC sa|CCT suporta|NNC ng|CCB Estee|NNP Lauder|NNP Companies|NNP Charity|NNP Foundation|NNP (|PMS ELCCF|NNPA )|PMS .|PMP
+Ang|DTC Let|NNP 's|NNP Read|NNP ay|LM isang|PRI_CCP digital|FW library|FW platform|FW na|CCP may|VBH koleksyon|NNC ng|CCB libu|FW -|PMS libong|NNC_CCP storybook|FW ng|CCB mga|DTCP bata|NNC na|CCP madaling|RBD_CCP ma|CCP -|PMS access|FW at|CCA libre|JJD .|PMP
+Ang|DTC mentoring|FW kasama|CCB ang|DTC kuwento|NNC ,|PMC teksto|NNC ,|PMC paglalarawan|NNC ,|PMC at|CCA pag|CCR -|PMS edit|NNC ng|CCB disenyo|NNC ay|LM isinasagawa|VBTR ng|CCB Litara|NNP Foundation|NNP .|PMP
+Ang|DTC Litara|NNP Foundation|NNP ay|LM isang|PRI_CCP nonprofit|FW na|CCP organisasyon|NNC na|CCP nakatuon|VBTS sa|CCT pagtataguyod|VBW ng|CCB literacy|FW sa|CCT pamamagitan|NNC ng|CCB mga|DTCP librong|NNC_CCP pambata|JJD .|PMP

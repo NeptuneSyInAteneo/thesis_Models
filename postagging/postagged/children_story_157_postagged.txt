@@ -1,0 +1,23 @@
+Isang|PRI_CCP araw|NNC ,|PMC isang|PRI_CCP tindero|NNC ng|CCB sumbrero|NNC ang|DTC naglalakbay|VBTR sa|CCT nayon|NNC upang|CCB magtinda|VBW ng|CCB kaniyang|PRSP_CCP mga|DTCP sumbrero|NNC .|PMP
+Napagod|VBTS siya|PRS sa|CCT layo|NNC ng|CCB kaniyang|PRSP_CCP nilakad|VBTS .|PMP
+Kaya|CCR naisipan|VBTS niyang|PRS_CCP umupo|VBAF sa|CCT ilalim|JJD ng|CCB puno|NNC para|CCT magpahinga|VBW .|PMP
+Dahil|CCR sa|CCT sobrang|JJCS_CCP pagod|JJD ,|PMC mabilis|RBD siyang|PRS_CCP nakatulog|VBTS .|PMP
+Habang|RBW siya|PRS ay|LM natutulog|VBTR ,|PMC isang|PRI_CCP grupo|NNC ng|CCB mga|DTCP unggoy|NNC ang|DTC nakatingin|VBTS sa|CCT kaniya|PRSP mula|RBL sa|CCT puno|NNC .|PMP
+Bumaba|VBAF sila|PRP sa|CCT puno|NNC upang|CCB makita|VBW siya|PRS nang|RBW malapitan|RBD .|PMP
+Binuksan|VBOF ng|CCB mga|DTCP ito|PRO ang|DTC kaniyang|PRSP_CCP bag|NNC at|CCA tiningnan|VBOF .|PMP
+Natuwa|VBTS silang|PRP_CCP makita|VBW ang|DTC marami|PRI at|CCA iba|PRI '|PMS t|NNCA ibang|PRI_CCP kulay|NNC ng|CCB sumbrero|NNC na|CCP kasyang|NNC_CCP -|PMS kasya|NNC sa|CCT kanila|PRSP .|PMP
+Kalaunan|RBW ,|PMC bawat|PRI isang|PRI_CCP unggoy|NNC ay|LM may|VBH suot|JJD ng|CCB sumbrero|NNC !|PMS
+Masayang|RBD_CCP nagsayawan|VBTR ang|DTC mga|DTCP unggoy|NNC suot|JJD ang|DTC mga|DTCP sumbrerong|NNC_CCP kulay|NNC pula|JJD ,|PMC asul|JJD ,|PMC berde|JJD ,|PMC dilaw|JJD ,|PMC kahel|JJD ,|PMC ube|NNC ,|PMC at|CCA rosas|NNC .|PMP
+Biglang|RBD_CCP gumalaw|VBAF ang|DTC tindero|NNC ng|CCB sumbrero|NNC mula|RBL sa|CCT kaniyang|PRSP_CCP pagkakatulog|NNC kaya|CCR '|PMS t|NNCA nag|NNCA -|PMS akyatan|NNC ang|DTC mga|DTCP unggoy|NNC sa|CCT puno|NNC .|PMP
+Ilang|PRQ_CCP sandali|RBW pa|RBI ay|LM nagising|VBTS na|CCP ang|DTC tindero|NNC habang|RBW nakamasid|VBTS at|CCA naghihintay|VBTR ang|DTC mga|DTCP unggoy|NNC .|PMP
+Tiningnan|VBOF ng|CCB tindero|NNC ang|DTC kaniyang|PRSP_CCP bag|NNC .|PMP
+Labis|JJCS siyang|PRS_CCP nalungkot|VBTS nang|RBW makitang|VBW_CCP wala|VBN na|RBI itong|PRO_CCP laman|NNC .|PMP
+Lahat|PRI ng|CCB kaniyang|PRSP_CCP mga|DTCP sumbrero|NNC ay|LM nawala|VBTS .|PMP
+Pagkatapos|RBW ,|PMC siya|PRS ay|LM tumingala|VBAF at|CCA nakitang|RBD_CCP suot|JJD ng|CCB mga|DTCP unggoy|NNC ang|DTC kaniyang|PRSP_CCP mga|DTCP sumbrero|NNC !|PMS
+Nagulat|VBTS siya|PRS noong|RBW_CCP una|CDB at|CCA kalaunan|RBW ay|LM nagalit|VBTS .|PMP
+Pinag|VBRF -|PMS isipan|NNC niyang|PRS_CCP mabuti|JJD kung|CCR papaano|RBQ niyang|PRS_CCP mababawi|VBTF ang|DTC mga|DTCP sumbrero|NNC sa|CCT mga|DTCP unggoy|NNC .|PMP
+Pagkatapos|VBW ,|PMC tinanggal|VBOF niya|PRS ang|DTC kaniyang|PRSP_CCP suot|JJD na|CCP sumbrero|NNC at|CCA inihagis|VBTS ito|PRO sa|CCT mga|DTCP unggoy|NNC .|PMP
+Inakala|VBTS ng|CCB mga|DTCP unggoy|NNC na|CCP binabato|VBTR sila|PRP ng|CCB tindero|NNC kaya|CCR '|PMS t|NNCA sila|PRP ay|LM nagalit|VBTS .|PMP
+Kung|CCR kaya|CCR '|PMS t|NNCA inalis|VBTS din|RBI nila|PRP ang|DTC kanilang|PRSP_CCP mga|DTCP suot|JJD na|CCP sumbrero|NNC at|CCA isa|PRI -|PMS isang|PRI_CCP ibinato|VBOF sa|CCT tindero|NNC .|PMP
+Inipon|NNP ng|CCB tindero|NNC ang|DTC lahat|PRI ng|CCB mga|DTCP sumbrero|NNC at|CCA inilagay|VBTS ito|PRO sa|CCT kaniyang|PRSP_CCP bag|NNC .|PMP
+Nagtatakang|RBD_CCP napatingin|VBTS ang|DTC mga|DTCP unggoy|NNC sa|CCT tindero|NNC dahil|CCR tumatawa|VBTR_VBAF ito|PRO habang|RBW papaalis|JJD upang|CCB ibenta|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP sumbrero|NNC .|PMP

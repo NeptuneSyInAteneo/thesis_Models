@@ -1,0 +1,39 @@
+Isang|PRI_CCP araw|NNC ,|PMC si|DTP Lolo|NNP ay|LM nagbigay|VBTS ng|CCB pera|NNC sa|CCT akin|PRSP at|CCA sa|CCT aking|PRSP_CCP kapatid|NNC na|CCP lalaki|NNC .|PMP "|PMS
+Bumili|VBTS_VBAF kayo|PRP ng|CCB mga|DTCP aklat|NNC ,|PMC "|PMS sabi|VBS niya|PRS .|PMP
+Kami|PRP ay|LM masayang|JJD_CCP -|PMS masaya|JJD .|PMP
+Pareho|JJC kaming|PRP_CCP mahilig|VBW magbasa|VBAF .|PMP
+Aalis|NNP na|CCP ba|RBI tayo|PRP ngayon|RBW o|CCT mamaya|RBW pa|RBI ?|PMQ
+Aalis|NNP na|CCP ba|RBI tayo|PRP ngayong|RBW_CCP araw|NNC o|CCT bukas|JJD na|CCP lamang|RBI ?|PMQ
+Napagdesisyunan|VBTS naming|PRP_CCP umalis|VBAF na|CCP kaagad|RBW .|PMP
+Pupunta|VBTF ba|RBI tayo|PRP sa|CCT malaking|JJD_CCP palengke|NNC ?|PMQ
+Pupunta|VBTF ba|RBI tayo|PRP sa|CCT maliit|JJD na|CCP tindahan|NNC ?|PMQ
+Pupunta|VBTF ba|RBI tayo|PRP kasama|CCB ang|DTC iba|PRI ?|PMQ
+Pupunta|VBTF ba|RBI tayo|PRP na|CCP tayo|PRP lamang|RBI ?|PMQ
+Nagdesisyon|VBTS kaming|PRP_CCP pumunta|VBAF sa|CCT maliit|JJD na|CCP tindahan|NNC at|CCA kami|PRP lang|RBI dalawa|CDB .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS namin|PRP ang|DTC maliit|JJD na|CCP tindahang|NNC_CCP ito|PRO .|PMP
+Kahit|CCT na|CCP maliit|JJD ay|LM madami|PRI namang|RBI_CCP pagpipilian|NNC .|PMP
+Paborito|JJD rin|RBI kami|PRP ng|CCB tagapagbantay|NNC dito|PRL .|PMP
+At|CCA palagi|RBW niya|PRS kaming|PRP_CCP tinutulungang|VBTR_CCP makapili|VBW ng|CCB magagandang|JJD_CCP mga|DTCP aklat|NNC .|PMP
+Bibili|VBTF ba|RBI ako|PRS ng|CCB aklat|NNC na|CCP maraming|PRI_CCP mga|DTCP larawan|NNC ?|PMQ
+Bibili|VBTF ba|RBI ako|PRS ng|CCB aklat|NNC na|CCP maraming|PRI_CCP mga|DTCP kuwento|NNC ?|PMQ
+Bibili|VBTF ba|RBI ako|PRS ng|CCB manipis|JJD na|CCP aklat|NNC ?|PMQ
+Hindi|RBF ako|PRS makapagdesisyon|VBW sa|CCT aking|PRSP_CCP bibilhin|VBTF .|PMP
+Hindi|RBF po|RBS namin|PRP alam|VBS ang|DTC aklat|NNC na|CCP aming|PRSP_CCP bibilhin|VBTF .|PMP
+Ngumiti|VBAF ang|DTC tindero|NNC sa|CCT amin|PRSP .|PMP "|PMS
+Okay|NNP lang|RBI iyon|PRO ,|PMC sumama|VBAF kayo|PRP sa|CCT akin|PRSP ,|PMC "|PMS sabi|VBS niya|PRS .|PMP "|PMS
+Ang|DTC mga|DTCP aklat|NNC na|CCP ito|PRO ay|LM tungkol|RBR sa|CCT mga|DTCP hayop|NNC .|PMP
+Ang|DTC mga|DTCP iyon|PRO naman|RBI ay|LM tungkol|RBR sa|CCT mga|DTCP makina|NNC .|PMP
+Ang|DTC nasa|RBL banda|NNC roon|PRL ay|LM tungkol|RBR sa|CCT digmaan|NNC .|PMP
+Kunin|VBOF niyo|PRP ang|DTC nais|VBS ninyong|NNC_CCP aklat|NNC "|PMS Kumuha|VBAF ako|PRS ng|CCB para|CCT sa|CCT akin|PRSP at|CCA gayun|PRC din|RBI ang|DTC aking|PRSP_CCP kapatid|NNC .|PMP
+Umupo|VBAF ako|PRS sa|CCT sahig|NNC at|CCA siya|PRS naman|RBI ay|LM sa|CCT silya|NNC .|PMP
+Kami|PRP ay|LM patuloy|RBD na|CCP nagbasa|VBTS ,|PMC nagbasa|VBTS ,|PMC at|CCA nagbasa|VBTS .|PMP
+Napakatahimik|NNP ng|CCB buong|PRI_CCP lugar|NNC .|PMP
+Wala|VBN ni|DTP isang|PRI_CCP tunog|NNC ang|DTC maririnig|VBTF .|PMP
+Hindi|RBF namin|PRP namalayang|VBTR_CCP dalawang|JJN_CCP oras|NNC na|CCP ang|DTC lumipas|VBAF .|PMP
+Sa|CCT wakas|RBW ,|PMC alam|VBS na|CCP namin|PRP ang|DTC mga|DTCP aklat|NNC na|CCP bibilihin|VBTF namin|PRP !|PMQ
+Ngumiti|VBAF sa|CCT amin|PRSP ang|DTC tagapagbantay|NNC .|PMP
+Kumuha|VBAF ako|PRS ng|CCB makapal|JJD na|CCP aklat|NNC na|CCP mayroong|VBH_CCP maraming|PRI_CCP kuwento|NNC .|PMP
+Ang|DTC aking|PRSP_CCP kapatid|NNC na|CCP lalaki|NNC ay|LM kumuha|VBAF ng|CCB isang|PRI_CCP malaking|JJD_CCP aklat|NNC na|CCP maraming|PRI_CCP litrato|NNC .|PMP
+Tumakbo|VBAF kami|PRP pauwi|NNC sa|CCT aming|PRSP_CCP lolo|NNC .|PMP
+Umakyat|VBAF kami|PRP sa|CCT kaniyang|PRSP_CCP higaan|NNC .|PMP
+Nilagay|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP braso|NNC sa|CCT amin|PRSP at|CCA pagkatapos|VBW ay|LM kami|PRP ay|LM nagbasa|VBTS ,|PMC at|CCA nagbasa|VBTS ,|PMC at|CCA nagbasa|VBTS .|PMP

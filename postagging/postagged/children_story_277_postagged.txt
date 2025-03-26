@@ -1,0 +1,21 @@
+Sa|CCT unang|JJN_CCP araw|NNC ni|DTP Lita|NNP sa|CCT paaralan|NNC ,|PMC hindi|RBF pa|RBI niya|PRS alam|VBS kung|RBK paano|RBQ magbilang|VBW .|PMP
+Kinabukasan|RBW ,|PMC sabi|VBS ng|CCB kaniyang|PRSP_CCP nanay|NNC ,|PMC "|PMS Oras|NNP na|CCP para|CCT pumasok|VBAF .|PMP
+Hinihintay|VBTR ka|PRS na|RBI ng|CCB iyong|PRSP_CCP mga|DTCP kaibigan|NNC upang|CCB sabay|RBD na|CCP kayong|JJD_CCP pumasok|VBAF sa|CCT paaralan|NNC .|PMP "|PMS "|PMS
+Nahihiya|VBTS po|RBS akong|PRS_CCP pumasok|VBAF sa|CCT paaralan|NNC .|PMP "|PMS
+sabi|VBS ni|DTP Lita|NNP .|PMP "|PMS
+Bakit|PRQ ka|PRS nahihiyang|VBTS_CCP pumasok|VBAF sa|CCT paaralan|NNC ?|PMQ "|PMS
+tanong|NNC sa|CCT kaniya|PRSP ni|DTP Cesar|NNP .|PMP "|PMS
+Nahihiya|VBTS ako|PRS kasi|CCR hindi|RBF pa|RBI ako|PRS marunong|JJD magbilang|VBW ,|PMC "|PMS sagot|NNC ni|DTP Lita|NNP .|PMP "|PMS
+Huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC ,|PMC tuturuan|VBTF ka|PRS namin|PRP !|PMS "|PMS
+sabi|VBS agad|RBW ni|DTP Nene|NNP .|PMP
+Pagkatapos|RBW noon|RBW ,|PMC sabay|RBD -|PMS sabay|RBD silang|PRP_CCP naglakad|VBTS papunta|RBL sa|CCT paaralan|NNC .|PMP
+Binilang|VBTS nila|PRP ang|DTC mga|DTCP puno|NNC sa|CCT gilid|JJD ng|CCB kalsada|NNC .|PMP "|PMS
+Sabi|VBS ko|PRS sa|CCT iyo|PRSP eh|NNCA ,|PMC madali|JJD lamang|RBI ang|DTC pagbibilang|NNC ,|PMC "|PMS bulong|NNC ni|DTP Cesar|NNP .|PMP
+Nagpatuloy|VBTS silang|PRP_CCP nagbilang|VBTS hanggang|RBW makarating|VBW sila|PRP sa|CCT paaralan|NNC .|PMP
+Niyaya|VBTS si|DTP Lita|NNP ng|CCB kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC na|CCP maglaro|VBAF ng|CCB luksong|NNC_CCP lubid|NNC .|PMP
+Sinabihan|VBTS nila|PRP si|DTP Lita|NNP na|CCP tumalon|VBAF ng|CCB sampung|JJN_CCP beses|NNC .|PMP "|PMS
+Yehey|NNP !|PMS
+Natapos|VBTS mo|PRS ang|DTC sampung|JJN_CCP talon|NNC ,|PMC "|PMS sigaw|NNC ng|CCB kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Sa|CCT oras|NNC ng|CCB meryenda|NNC ,|PMC nabilang|VBTS din|RBI ni|DTP Lita|NNP ang|DTC anim|JJN na|CCP baso|NNC ng|CCB juice|FW .|PMP
+Bago|RBW umuwi|VBAF si|DTP Lita|NNP ng|CCB bahay|NNC ,|PMC sinabi|VBTS niya|PRS ,|PMC "|PMS Masaya|NNP pala|NNC ang|DTC magbilang|VBAF .|PMP
+Papasok|NNP ulit|RBW ako|PRS sa|CCT paaralan|NNC bukas|JJD upang|CCB lalo|JJCC pa|RBI akong|PRS_CCP matuto|VBW sa|CCT pagbibilang|NNC .|PMP "|PMS

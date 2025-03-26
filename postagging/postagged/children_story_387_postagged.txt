@@ -1,0 +1,59 @@
+Si|DTP Lola|NNP Lintang|NNP at|CCA ang|DTC kaniyang|PRSP_CCP mga|DTCP LibroMahilig|FW magbasa|VBW si|DTP Rhea|NNP sa|CCT bahay|NNC ng|CCB kanyang|PRSP_CCP Lola|NNC .|PMP
+Isang|PRI_CCP araw|NNC nagulat|VBTS siya|PRS sa|CCT kanyang|PRSP_CCP naabutan|VBTR .|PMP "|PMS
+Lola|NNP ,|PMC bakit|PRQ po|RBS ninyo|PRP nililigpit|VBTR ang|DTC mga|DTCP librong|NNC_CCP ito|PRO ?|PMQ "|PMS
+tanong|NNC ni|DTP Rhea|NNP .|PMP "|PMS
+Ibibigay|VBTF ko|PRS ito|PRO sa|CCT mga|DTCP aklatan|NNC sa|CCT bayan|NNC ,|PMC "|PMS sagot|NNC ni|DTP Lola|NNP .|PMP "|PMS
+Pero|CCT paano|PRQ na|CCP po|RBS ang|DTC paborito|NNC kong|PRS_CCP libro|NNC ?|PMQ "|PMS
+malungkot|JJD na|CCP tanong|NNC ni|DTP Rhea|NNP .|PMP "|PMS
+Naku|NNP ,|PMC nakalimutan|VBTS kong|PRS_CCP ihiwalay|VBOF .|PMP
+Baka|NNP nasa|RBL mga|DTCP kahong|NNC_CCP ito|PRO .|PMP
+Ngayong|RBW_CCP araw|NNC kasi|CCR dapat|VBS maipadala|VBW ang|DTC mga|DTCP libro|NNC ,|PMC "|PMS tugon|NNC ng|CCB kaniyang|PRSP_CCP Lola|NNC .|PMP
+Maaari|VBS niyang|PRS_CCP makuha|VBW ang|DTC paborito|NNC niyang|PRS_CCP libro|NNC ,|PMC ngunit|CCT kailangan|VBS muna|RBI niya|PRS itong|PRO_CCP hanapin|VBOF .|PMP
+Hindi|RBF kaya|CCR ni|DTP Rhea|NNP mag|VBW -|PMS isa|PRI na|CCP hanapin|VBOF ang|DTC libro|NNC sa|CCT mga|DTCP kahon|NNC .|PMP
+Agad|RBD niyang|PRS_CCP tinawagan|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC para|CCT humingi|VBAF ng|CCB tulong|NNC .|PMP
+Mabuti|JJD at|CCA handa|JJD namang|RBI_CCP tumulong|VBAF sina|DTPP Robby|NNP ,|PMC Rosa|NNP at|CCA Rino|NNP .|PMP "|PMS
+Tingnan|VBOF ninyo|PRP ,|PMC isang|PRI_CCP libro|NNC ng|CCB mga|DTCP hayop|NNC !|PMS "|PMS
+sigaw|NNC ni|DTP Robby|NNP .|PMP
+Samantala|CCT ,|PMC abala|NNC naman|RBI si|DTP Rosa|NNP sa|CCT pagbabasa|NNC ng|CCB iba|PRI pang|RBI_CCP libro|NNC .|PMP
+Si|DTP Rino|NNP naman|RBI ay|LM napabahing|VBTS_CCP nang|RBD mahawakan|VBW ang|DTC isang|PRI_CCP libro|NNC .|PMP
+Kailangang|VBS_CCP mahanap|VBW ni|DTP Rhea|NNP ang|DTC kaniyang|PRSP_CCP paboritong|JJD_CCP libro|NNC .|PMP "|PMS
+Robby|NNP ,|PMC pasuyo|RBD akong|PRS_CCP maghanap|VBAF sa|CCT tumpok|NNC na|CCP ito|PRO .|PMP "|PMS "|PMS
+Rosa|NNP ,|PMC hanapin|VBOF mo|PRS rito|PRL sa|CCT kahon|NNC ,|PMC "|PMS pakiusap|NNC ni|DTP Rhea|NNP sa|CCT mga|DTCP kaibigan|NNC .|PMP "|PMS
+Rino|NNP ,|PMC kunin|VBOF mo|PRS itong|PRO_CCP pamunas|NNC ,|PMC "|PMS pag|CCR -|PMS aalala|NNC ni|DTP Rhea|NNP .|PMP
+Kailangang|VBS_CCP mahanap|VBW ni|DTP Rhea|NNP ang|DTC kaniyang|PRSP_CCP paboritong|JJD_CCP libro|NNC .|PMP "|PMS
+Robby|NNP ,|PMC pasuyo|RBD akong|PRS_CCP maghanap|VBAF sa|CCT tumpok|NNC na|CCP ito|PRO .|PMP "|PMS "|PMS
+Rosa|NNP ,|PMC hanapin|VBOF mo|PRS rito|PRL sa|CCT kahon|NNC ,|PMC "|PMS pakiusap|NNC ni|DTP Rhea|NNP sa|CCT mga|DTCP kaibigan|NNC .|PMP "|PMS
+Rino|NNP ,|PMC kunin|VBOF mo|PRS itong|PRO_CCP pamunas|NNC ,|PMC "|PMS pag|CCR -|PMS aalala|NNC ni|DTP Rhea|NNP .|PMP
+Sa|CCT wakas|RBW ,|PMC nahanap|VBTS din|RBI ni|DTP Rhea|NNP ang|DTC paboritong|JJD_CCP libro|NNC .|PMP
+Binigyan|VBOF din|RBI ngkanyang|NNC_CCP Lola|NNC ng|CCB mga|DTCP libro|NNC ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP "|PMS
+Maraming|PRI_CCP salamat|RBS po|RBS ,|PMC Lola|NNP !|PMS "|PMS
+masayang|JJD_CCP sabi|NNC ng|CCB mga|DTCP magkakaibigan|VBTF .|PMP
+Habang|RBW ibinabalik|VBTR nila|PRP sa|CCT kahon|NNC ang|DTC ibang|PRI_CCP libro|NNC ,|PMC muling|RBW_CCP napabahing|VBTS si|DTP Rino|NNP .|PMP
+Hatsing|NNP !|PMS
+Hatsing|NNP !|PMS
+Hatsing|NNP !|PMS
+Hindi|RBF kaya|CCR ni|DTP Rino|NNP ang|DTC alikabok|NNC sa|CCT mga|DTCP libro|NNC .|PMP
+Kaya|CCR naman|RBI napaisip|VBTS si|DTP Rhea|NNP .|PMP "|PMS
+Rino|NNP ,|PMC ikaw|PRS na|RBI lang|RBI ang|DTC maghatid|VBW ng|CCB mga|DTCP libro|NNC gamit|VBS ang|DTC bisikleta|NNC ,|PMC "|PMS sabi|VBS ni|DTP Rhea|NNP .|PMP
+Naku|NNP !|PMS
+Sira|JJD ang|DTC bisikleta|NNC .|PMP
+Kaya|CCR naman|RBI ,|PMC agad|RBD na|CCP nagbigay|VBTS tulong|NNC si|DTP Lola|NNP .|PMP "|PMS
+Paano|PRQ ninyo|PRP po|RBS natutunan|VBTR ang|DTC pag|CCR -|PMS aayos|NNC ng|CCB bisikleta|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Rhea|NNP .|PMP "|PMS
+Dahil|CCR sa|CCT pagbabasa|NNC !|PMS "|PMS "|PMS
+Rino|NNP ,|PMC ayos|NNC na|CCP ang|DTC bisikleta|NNC !|PMS "|PMS
+sigaw|NNC ni|DTP Rhea|NNP .|PMP
+Ngunit|CCT walang|VBN_CCP sumagot|VBAF .|PMP
+Nasaan|VBTS na|RBI sila|PRP ?|PMQ "|PMS
+A|NNP ,|PMC nagbabasa|VBTR na|CCP silang|PRP_CCP lahat|PRI !|PMS "|PMS
+Napangiti|VBTS sina|DTPP Lola|NNP at|CCA Rhea|NNP sa|CCT nakita|VBTS .|PMP
+Subalit|CCT kailangan|VBS na|CCP nilang|PRP_CCP huminto|VBAF sa|CCT pagbabasa|NNC dahil|CCR dumating|VBAF na|CCP ang|DTC sasakyang|NNC_CCP magdadala|VBTF nito|PRO sa|CCT bayan|NNC .|PMP
+Tulong|NNC -|PMS tulong|NNC silang|PRP_CCP lahat|PRI sa|CCT pagbubuhat|NNC ng|CCB mga|DTCP kahon|NNC .|PMP
+Si|DTP Rino|NNP naman|RBI ay|LM sakay|NNC ng|CCB kaniyang|PRSP_CCP bisikleta|NNC .|PMP
+Mayroon|VBH ng|CCB librong|NNC_CCP mababasa|JJD sina|DTPP Rhea|NNP at|CCA kanyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Ang|DTC ibang|PRI_CCP libro|NNC naman|RBI ay|LM patungo|RBL sa|CCT mga|DTCP bagong|JJD_CCP kaibigan|NNC .|PMP
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC ninanais|VBTR ng|CCB proyektong|NNC_CCP nito|PRO ay|LM makapaglimbag|VBW ng|CCB mga|DTCP aklat|NNC na|CCP nagtatampok|VBTR ng|CCB mga|DTCP makapangyarihang|JJD_CCP batang|NNC_CCP babae|NNC at|CCA kababaihan|NNC bilang|CCT pangunahing|JJD_CCP tauhan|NNC na|CCP binuo|VBTS ng|CCB mga|DTCP babaeng|JJD_CCP manunulat|NNC ,|PMC ilustrador|NNC ,|PMC editor|NNC ,|PMC at|CCA taga|JJD disenyo|NNC .|PMP
+Ginawa|VBOF ang|DTC librong|NNC_CCP ito|PRO sa|CCT pamamagitan|NNC ng|CCB isang|PRI_CCP palihan|NNC sa|CCT pagpapaunlad|NNC ng|CCB mga|DTCP aklatna|NNC isinagawa|VBTS sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA ng|CCB The|NNP Asia|NNP Foundation|NNP sa|CCT suporta|NNC ng|CCB Estée|NNP Lauder|NNP Companies|NNP .|PMP
+Ang|DTC pelican|NNC at|CCA propesyonal|JJD na|CCP pagpapaunlad|NNC ,|PMC kasama|CCB ang|DTC pag|CCR -|PMS edit|NNC at|CCA pagdisenyo|NNC ng|CCB aklat|NNC na|CCP ito|PRO ,|PMC ay|LM pinangunahan|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP
+Superal|NNP

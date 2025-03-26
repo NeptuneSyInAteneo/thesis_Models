@@ -1,0 +1,38 @@
+Ito|PRO si|DTP Pusa|NNP .|PMP
+Ito|PRO si|DTP Aso|NNP .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM dumungaw|VBAF sa|CCT bintana|NNC .|PMP
+Sila|PRP ay|LM dumungaw|VBAF sa|CCT bintana|NNC .|PMP
+Maya|NNP -|PMS maya|NNC ,|PMC si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM may|VBH nakitang|VBTS_CCP paruparo|RBD !|PMQ
+Ang|DTC paruparo|NNC ay|LM kulay|JJD rosas|NNC .|PMP
+Sina|DTPP Pusa|NNP at|CCA Aso|NNP ay|LM gustong|VBS_CCP hulihin|VBOF ang|DTC paruparo|NNC .|PMP
+Sina|DTPP Pusa|NNP at|CCA Aso|NNP ay|LM sinundan|VBOF ang|DTC paruparo|NNC .|PMP
+Sinundan|VBTS nila|PRP ang|DTC paruparo|NNC .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM sinundan|VBOF ang|DTC paruparo|NNC kahit|CCT saan|PRQ ito|PRO magpunta|VBW .|PMP
+Tumakbo|VBAF sila|PRP upang|CCB maabutan|VBW ang|DTC paruparo|NNC ,|PMC pero|CCT ang|DTC paruparo|NNC ay|LM mabilis|JJD .|PMP
+Ang|DTC paruparo|NNC ay|LM sadyang|JJCS_CCP napakabilis|JJCS_JJD ,|PMC at|CCA si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM mabagal|JJD .|PMP
+Sila|PRP ay|LM sadyang|RBD_CCP napakabagal|JJCS_JJD .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM hinabol|VBTS ang|DTC paruparo|NNC gamit|VBS ang|DTC bisikleta|NNC .|PMP
+Sila|PRP ay|LM nakabisikleta|VBTS habang|RBW hinahabol|VBTR ang|DTC paruparo|NNC ,|PMC pero|CCT ang|DTC paruparo|NNC ay|LM mabilis|JJD .|PMP
+Ang|DTC paruparo|NNC ay|LM sadyang|JJCS_CCP napakabilis|JJCS_JJD ,|PMC at|CCA si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM mabagal|JJD .|PMP
+Sila|PRP ay|LM sadyang|RBD_CCP napakabagal|JJCS_JJD .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM hinabol|VBTS ang|DTC paruparo|NNC gamit|VBS ang|DTC kotse|NNC .|PMP
+Sila|PRP ay|LM nagmaneho|VBTS habang|RBW hinahabol|VBTR ang|DTC paruparo|NNC ,|PMC pero|CCT ang|DTC paruparo|NNC ay|LM mabilis|JJD .|PMP
+Ang|DTC paruparo|NNC ay|LM sadyang|JJCS_CCP napakabilis|JJCS_JJD ,|PMC at|CCA si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM mabagal|JJD .|PMP
+Sila|PRP ay|LM sadyang|JJCS_CCP napakabagal|JJCS_JJD pa|RBI rin|RBI .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM hinabol|VBTS ang|DTC paruparo|NNC gamit|VBS ang|DTC bangka|NNC .|PMP
+Sila|PRP ay|LM namangka|VBTS habang|RBW hinahabol|VBTR ang|DTC paruparo|NNC ,|PMC pero|CCT ang|DTC paruparo|NNC ay|LM mabilis|JJD .|PMP
+Ang|DTC paruparo|NNC ay|LM sadyang|JJCS_CCP sobrang|JJCS_CCP napakabilis|JJCS_JJD ,|PMC at|CCA si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM mabagal|JJD .|PMP
+Sila|PRP ay|LM sadyang|JJCS_CCP sobrang|JJCS_CCP napakabagal|JJCS_JJD .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM hinabol|VBTS ang|DTC paruparo|NNC gamit|VBS ang|DTC eroplano|NNC .|PMP
+Sila|PRP ay|LM lumipad|VBAF habang|RBW hinahabol|VBTR ang|DTC paruparo|NNC ,|PMC pero|CCT ang|DTC paruparo|NNC ay|LM mabilis|JJD .|PMP
+Ang|DTC paruparo|NNC ay|LM sobra|JJCS -|PMS sobra|JJCS ang|DTC bilis|NNC ,|PMC at|CCA si|DTP Pusa|NNP at|CCA Aso|NNP ay|LM mabagal|JJD .|PMP
+Sila|PRP ay|LM sobra|JJCS -|PMS sobra|JJCS ang|DTC bagal|JJD pa|RBI rin|RBI .|PMP
+At|CCA maya|RBW -|PMS maya|NNC ,|PMC si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM huminto|VBAF .|PMP
+Sila|PRP ay|LM huminto|VBAF at|CCA naupo|VBTS .|PMP
+Sila|PRP ay|LM naupo|VBTS sa|CCT ilalim|JJD ng|CCB puno|NNC .|PMP
+Sila|PRP ay|LM naupo|VBTS sa|CCT ilalim|JJD ng|CCB malaking|JJD_CCP puno|NNC .|PMP
+Subalit|CCT ...|PMS .|PMP
+Nakakita|VBTS sila|PRP ng|CCB isang|PRI_CCP paruparo|NNC sa|CCT puno|NNC ...|PMS Nakakita|VBTS sila|PRP ng|CCB dalawang|JJN_CCP paruparo|NNC sa|CCT puno|NNC ...|PMS Nakakita|VBTS sila|PRP ng|CCB tatlong|JJN_CCP paruparo|NNC sa|CCT puno|NNC ...|PMS Nakakita|VBTS sila|PRP ng|CCB daan|NNC -|PMS daang|NNC_CCP paruparo|NNC !|PMS
+Paalam|NNP ,|PMC Pusa|NNP .|PMP
+Paalam|NNP ,|PMC Aso|NNC .|PMP
+Paalam|NNP ,|PMC mga|DTCP paruparo|NNC .|PMP

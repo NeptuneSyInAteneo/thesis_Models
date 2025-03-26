@@ -1,36 +1,68 @@
-Ito|PRO ang|DTC bahay|NNC ni|DTP Pusa|NNP .|PMP
-Ito|PRO ay|LM si|DTP Aso|NNP .|PMP
-Naglalakad|VBTR si|DTP Aso|NNP papunta|RBL sa|CCT bahay|NNC ni|DTP Pusa|NNP .|PMP
-Bukas|JJD ang|DTC pinto|NNC .|PMP
-Bukas|JJD ang|DTC pinto|NNC ng|CCB bahay|NNC .|PMP
-Pumasok|VBAF sa|CCT pinto|NNC si|DTP Aso|NNP .|PMP
-Ngayon|RBW ,|PMC nasa|RBL loob|NNC ng|CCB bahay|NNC si|DTP Aso|NNP .|PMP
-Nasa|RBL loob|JJD na|CCP ng|CCB bahay|NNC ni|DTP Pusa|NNP si|DTP Aso|NNP .|PMP
-Subalit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT loob|NNC ng|CCB bahay|NNC .|PMP
-Hm|NNP !|PMS
-Hm|NNP !|PMS
-Nasaan|VBTS kaya|CCR si|DTP Pusa?Tiningnan|NNP ni|DTP Aso|NNP sa|CCT higaan|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT higaan|NNC .|PMP
-Tiningnan|VBOF ni|DTP Aso|NNP ang|DTC ilalim|JJD ng|CCB mesa|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT ilalim|JJD ng|CCB mesa|NNC .|PMP
-Tiningnan|VBOF ni|DTP Aso|NNP sa|CCT harapan|NNC ng|CCB upuan|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP sa|CCT harapan|NNC ng|CCB upuan|NNC .|PMP
-Tumingin|VBAF si|DTP Aso|NNP sa|CCT likod|NNC ng|CCB pinto|NNC ,|PMC ngunit|CCT wala|VBN si|DTP Pusa|NNP .|PMP
-Pagkatapos|VBW ,|PMC nakita|VBTS ni|DTP Aso|NNP ang|DTC isang|PRI_CCP hagdan|NNC .|PMP
-Nakita|VBTS niya|PRS ang|DTC hagdanan|NNC malapit|JJD sa|CCT puno|NNC .|PMP
-Sira|JJD ang|DTC hagdan|NNC .|PMP
-Tumingala|VBAF si|DTP Aso|NNP .|PMP
-Tinitingala|VBTR niya|PRS ang|DTC puno|NNC .|PMP
-Tinitingala|VBTR niya|PRS ang|DTC mga|DTCP dahon|NNC ng|CCB puno|NNC .|PMP
-May|VBH nakitang|VBTS_CCP paa|NNC si|DTP Aso|NNP .|PMP
-May|VBH paa|NNC sa|CCT gitna|JJD ng|CCB mga|DTCP dahon|NNC .|PMP
-At|CCA nakita|VBTS rin|RBI niya|PRS ang|DTC isang|PRI_CCP kamay|NNC .|PMP
-May|VBH kamay|NNC sa|CCT gitna|JJD ng|CCB mga|DTCP dahon|NNC .|PMP
-At|CCA pagkatapos|VBW ,|PMC nakita|VBTS ni|DTP Aso|NNP ang|DTC isang|PRI_CCP mukha|NNC .|PMP
-Nakita|VBTS ni|DTP Aso|NNP ang|DTC mukha|NNC ni|DTP Pusa|NNP .|PMP
-Si|DTP Pusa|NNP ay|LM nakaupo|VBTS sa|CCT itaas|JJD ng|CCB puno|NNC .|PMP
-Siya|PRS ay|LM nakaupo|VBTS na|CCP may|VBH hawak|JJD na|CCP bola|NNC .|PMP
-Hindi|RBF makaalis|VBW si|DTP Pusa|NNP .|PMP
-Hindi|RBF siya|PRS makababa|VBW dahil|CCR nasira|VBTS ang|DTC hagdanan|NNC .|PMP
-Tinulungan|VBOF ni|DTP Aso|NNP si|DTP Pusa|NNP .|PMP
-Tinulungan|VBOF ni|DTP Aso|NNP si|DTP Pusa|NNP na|CCP makaalis|VBW sa|CCT itaas|JJD ng|CCB puno|NNC .|PMP
-Noong|RBW_CCP makababa|VBW si|DTP Pusa|NNP ,|PMC hinalikan|VBTS niya|PRS nang|RBW buong|PRI_CCP puso|NNC si|DTP Aso|NNP .|PMP
-Paalam|NNP ,|PMC Pusa|NNP .|PMP
-Paalam|NNP ,|PMC Aso|NNC .|PMP
+Sa|CCT gitna|JJD ng|CCB gabi|RBW ,|PMC si|DTP Tiya|NNP Jessie|NNP ay|LM patingin|RBD -|PMS tingin|NNC mula|RBL sa|CCT madilim|JJD na|CCP kalawakan|NNC .|PMP "|PMS
+Hmmm|NNP ...|PMS Sino|PRQ kaya|CCR ang|DTC bibisitahin|VBTF ko|PRS ngayong|RBW_CCP gabi|RBW ?|PMQ "|PMS
+pag|CCR -|PMS aalala|NNC niya|PRS .|PMP "|PMS
+May|VBH naghahanap|VBTR kaya|CCR sa|CCT akin|PRSP ?|PMQ "|PMS
+Umalis|VBAF na|RBI si|DTP Tiya|NNP Jessie|NNP .|PMP
+Wala|VBN siyang|PRS_CCP tigil|NNC sa|CCT paglalakad|NNC ,|PMC suot|JJD ang|DTC kaniyang|PRSP_CCP kumikinang|JJD na|CCP sapatos|NNC .|PMP
+Magiging|VBTF abala|RBD na|CCP naman|RBI siya|PRS ngayong|RBW_CCP gabi|RBW .|PMP
+Naririnig|VBTR ni|DTP Tiya|NNP Jessie|NNP ang|DTC iyak|NNC ng|CCB mga|DTCP bata|NNC ,|PMC saanmang|JJD_CCP dako|NNC sila|PRP ng|CCB mundo|NNC .|PMP
+Palagi|RBD niyang|PRS_CCP pinakikinggan|VBTS ang|DTC iyak|NNC ng|CCB mga|DTCP batang|JJD_CCP hindi|RBF makatulog|VBW sa|CCT gabi|RBW .|PMP "|PMS
+Ito|PRO ,|PMC may|VBH naririnig|VBTR ako|PRS !|PMS "|PMS
+kumislot|VBAF ang|DTC mga|DTCP tainga|NNC ni|DTP Tiya|NNP Jessie|NNP habang|RBW pinakikinggan|VBTR ito|PRO ng|CCB maigi|JJD .|PMP "|PMS
+May|VBH isa|PRI na|CCP namang|RBI_CCP nangangailangan|VBTR ng|CCB tulong|NNC ko|PRS .|PMP
+Ihahanda|VBOF ko|PRS na|CCP ang|DTC aking|PRSP_CCP alikabok|NNC ng|CCB panaginip|NNC .|PMP "|PMS
+Ang|DTC sinumang|PRI_CCP masasabuyan|VBW ng|CCB alikabok|NNC ng|CCB panaginip|NNC ay|LM tiyak|RBT na|CCP makatutulog|VBW nang|RBD mahimbing|JJD .|PMP
+Makalipas|VBW lamang|RBI ang|DTC ilang|PRQ_CCP segundo|NNC ay|LM mararating|VBTF na|CCP nila|PRP ang|DTC mundo|NNC ng|CCB panaginip|NNC ,|PMC at|CCA doon|PRL ay|LM magiging|VBTF masaya|JJD ang|DTC kanilang|PRSP_CCP paglalakbay|NNC .|PMP
+Ngayong|RBW_CCP gabi|RBW ay|LM narinig|VBTS ni|DTP Tiya|NNP Jessie|NNP ang|DTC boses|NNC ni|DTP Absala|NNP ,|PMC isang|PRI_CCP batang|JJD_CCP pansamantalang|JJD_CCP nakatira|VBTS sa|CCT isang|PRI_CCP evacuation|FW center|FW .|PMP
+Nahihirapang|RBD_CCP makatulog|VBW si|DTP Absala|NNP dahil|CCR nahiwalay|VBTS siya|PRS sa|CCT kaniyang|PRSP_CCP ina|NNC noong|RBW_CCP digmaan|NNC .|PMP "|PMS
+Inay|NNP ?|PMQ
+Nasaan|VBTS ka|PRS na|CCP ?|PMQ "|PMS
+pangungulila|VBW niya|PRS .|PMP "|PMS
+Nasasabik|VBTR na|CCP ako|PRS sa|CCT iyo|PRSP ,|PMC Inay|CDB .|PMP
+Puwede|NNP ba|FW kitang|RBD_CCP makita|VBW sa|CCT panaginip|NNC ko|PRS mamaya|RBW ?|PMQ "|PMS
+hiling|NNC ni|DTP Absala|NNP .|PMP
+Nang|RBW marinig|VBW ni|DTP Tiya|NNP Jessie|NNP ang|DTC kaniyang|PRSP_CCP hiling|NNC ,|PMC agad|RBD niyang|PRS_CCP sinabuyan|VBTS ng|CCB mahiwagang|JJD_CCP alikabok|NNC ng|CCB panaginip|NNC si|DTP Absala|NNP .|PMP "|PMS
+Munting|NNP Absala|NNP ,|PMC humayo|VBAF ka|PRS at|CCA makipagkita|VBW sa|CCT iyong|PRSP_CCP ina|NNC sa|CCT iyong|PRSP_CCP panaginip|NNC ngayong|RBW_CCP gabi|RBW ,|PMC "|PMS bulong|NNC ni|DTP Tiya|NNP Jessie|NNP .|PMP
+Agad|RBD na|CCP pumikit|VBAF ni|DTP Absala|NNP .|PMP
+Napapangiti|VBTS si|DTP Absala|NNP habang|RBW napapanaginipan|VBTR niya|PRS ang|DTC kaniyang|PRSP_CCP ina|NNC at|CCA ang|DTC mainit|JJD na|CCP yakap|NNC nito|PRO .|PMP
+Nasira|VBTS naman|RBI ng|CCB napakalakas|JJCS_JJD na|CCP bagyo|NNC ang|DTC bahay|NNC at|CCA ang|DTC pinakamamahal|JJCS_JJD na|CCP piyano|NNC ni|DTP Linda|NNP .|PMP
+Ngayong|RBW_CCP gabi|RBW ,|PMC naaalala|VBTR niya|PRS ang|DTC hagupit|NNC ng|CCB hangin|NNC at|CCA ang|DTC pagkasira|NNC ng|CCB kanilang|PRSP_CCP bahay|NNC .|PMP
+Pumikit|VBAF siya|PRS habang|RBW naiisip|VBTR ang|DTC pagtugtog|NNC niya|PRS ng|CCB piyano|NNC .|PMP "|PMS
+Munting|NNP Linda|NNP ,|PMC halika|NNC at|CCA sasabuyan|NNC kita|NNC ng|CCB alikabok|NNC ng|CCB panaginip|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tiya|NNP Jessie|NNP .|PMP
+Hayan|NNP ,|PMC napakahimbing|JJCS_JJD na|RBI ng|CCB tulog|NNC ni|DTP Linda|NNP habang|RBW napapanaginipan|VBTR ang|DTC madamdaming|JJD_CCP pagtugtog|NNC niya|PRS ng|CCB piyano|NNC .|PMP
+Malalim|JJD na|CCP ang|DTC gabi|NNC ngunit|CCT hindi|RBF pa|RBI rin|RBI makatulog|VBW ang|DTC kulot|JJD na|CCP si|DTP Paul|NNP .|PMP
+Naririnig|VBTR pa|RBI rin|RBI niya|PRS ang|DTC pangungutya|NNC ng|CCB ibang|PRI_CCP bata|NNC .|PMP
+Malungkot|JJD ang|DTC kaniyang|PRSP_CCP pakiramdam|NNC .|PMP
+Hayan|NNP na|CCP ...|PMS "|PMS Mabait|JJD na|CCP Paul|NNP ,|PMC para|CCT sa|CCT iyo|PRSP itong|PRO_CCP alikabok|NNC ng|CCB panaginip|NNC .|PMP
+Nawa|NNP ay|LM mapuno|VBW ng|CCB kapatawaran|NNC at|CCA pagmamahal|NNC ang|DTC iyong|PRSP_CCP panaginip|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tiya|NNP Jessie|NNP .|PMP
+Hindi|RBF na|CCP namalayan|VBTS ni|DTP Paul|NNP kung|RBK kailan|RBQ siya|PRS nakatulog|VBTS ng|CCB mahimbing|JJD .|PMP
+Napanaginipan|VBTS niya|PRS rin|RBI ang|DTC mga|DTCP umaaway|VBTR_VBAF sa|CCT kaniya|PRSP na|CCP humihingi|VBTR_VBAF ng|CCB kapatawaran|NNC .|PMP
+Sa|CCT unang|JJN_CCP pagkakataon|NNC ay|LM natutong|RBD_CCP ngumiti|VBAF si|DTP Paul|NNP .|PMP
+Hindi|RBF nagtagal|VBTS ay|LM sumisilip|VBTR_VBAF na|CCP ang|DTC araw|NNC sa|CCT likod|NNC ng|CCB mga|DTCP ulap|NNC .|PMP
+Pero|CCT marami|PRI pang|RBI_CCP kailangang|VBS_CCP gawin|VBOF si|DTP Tiya|NNP Jessie|NNP .|PMP "|PMS
+May|VBH panahon|NNC pa|RBI para|CCT sa|CCT isa|PRI pa|RBI ,|PMC "|PMS giit|NNC ni|DTP Tiya|NNP Jessie|NNP habang|RBW patalon|NNC -|PMS talon|NNC siya|PRS sa|CCT mga|DTCP bituin|NNC at|CCA karagatan|NNC .|PMP
+Ngunit|CCT biglang|JJD_CCP natalsikan|VBTR ng|CCB patak|NNC ng|CCB ulan|NNC sa|CCT noo|NNC si|DTP Tiya|NNP Jessie|NNP .|PMP
+Agad|RBD na|CCP ring|RBI_CCP bumuhos|VBAF ang|DTC ulan|NNC mula|RBL sa|CCT mga|DTCP ulap|NNC .|PMP
+Mabilis|RBD na|CCP umalis|VBAF si|DTP Tiya|NNP Jessie|NNP .|PMP
+Dahil|CCR doon|PRL ay|LM dumausdos|VBAF ang|DTC kaniyang|PRSP_CCP paa|NNC sa|CCT madulas|JJD na|CCP mga|DTCP bituin|NNC .|PMP
+Nahulog|VBTS siya|PRS sa|CCT kalawakan|NNC at|CCA napaupo|VBTS siya|PRS sa|CCT lupa|NNC .|PMP
+Ang|DTC supot|NNC naman|RBI ng|CCB alikabok|NNC ng|CCB panaginip|NNC ay|LM nabitawan|VBTS niya|PRS at|CCA natapon|VBTS sa|CCT dagat|NNC .|PMP
+Napaluha|VBTS si|DTP Tiya|NNP Jessie|NNP .|PMP
+Ngunit|CCT ,|PMC may|VBH alikabok|NNC ng|CCB panaginip|NNC man|RBI o|CCT wala|VBN ,|PMC kailangan|VBS niyang|PRS_CCP magpatuloy|VBW .|PMP
+May|VBH mga|DTCP batang|JJD_CCP naghihintay|VBTR .|PMP
+Hindi|RBF niya|PRS puwedeng|RBT_CCP pabayaan|VBOF si|DTP Susan|NNP .|PMP
+Biktima|NNP ng|CCB napakalakas|JJCS_JJD na|CCP lindol|NNC sina|DTPP Susan|NNP .|PMP
+Naulila|VBTS siya|PRS at|CCA nawalan|VBTS ng|CCB tahanan|NNC .|PMP
+Wala|VBN ng|CCB mahiwagang|JJD_CCP alikabok|NNC si|DTP Tiya|NNP Jessie|NNP ,|PMC pero|CCT puwede|RBT niya|PRS pa|RBI ring|RBI_CCP maibigay|VBW ang|DTC mainit|JJD na|CCP yakap|NNC at|CCA lambing|NNC kay|DTP Susan|NNP .|PMP "|PMS
+Tingnan|VBOF mo|PRS !|PMS "|PMS
+saad|JJD niya|PRS matapos|VBW makatulog|VBW si|DTP Susan|NNP .|PMP "|PMS
+Hindi|RBF ko|PRS na|CCP kailangan|VBS pa|RBI ng|CCB mahiwagang|JJD_CCP alikabok|NNC !|PMS
+Kailangan|VBS lamang|RBI ng|CCB mga|DTCP batang|NNC_CCP ito|PRO na|CCP maramdaman|JJD na|CCP may|VBH nagmamahal|VBTS sa|CCT kanila|PRSP .|PMP "|PMS
+Nakangiting|RBD_CCP sumakay|VBAF si|DTP Tiya|NNP Jessie|NNP sa|CCT isang|PRI_CCP bituin|NNC at|CCA umuwi|VBAF sa|CCT kaniyang|PRSP_CCP tahanan|NNC .|PMP
+Kaya|CCR kung|CCR nalulungkot|VBTR ka|PRS at|CCA hindi|RBF makatulog|VBW sa|CCT gabi|RBW ,|PMC tumingala|VBAF lamang|RBI sa|CCT kalawakan|NNC .|PMP
+Hayun|NNP !|PMS
+Narinig|VBTS mo|PRS iyon|PRO ?|PMQ
+Si|DTP Tiya|NNP Jessie|NNP iyon|PRO na|CCP patalon|NNC -|PMS talon|NNC sa|CCT mga|DTCP bituin|NNC .|PMP
+Ipikit|NNP lamang|RBI ang|DTC iyong|PRSP_CCP mata|NNC at|CCA mangarap|VBW .|PMP
+May|VBH nakikinig|VBTR .|PMP
+Humiling|NNP ,|PMC at|CCA makararating|VBTF sila|PRP sa|CCT iyong|PRSP_CCP mga|DTCP panaginip|NNC .|PMP

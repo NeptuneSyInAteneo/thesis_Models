@@ -1,0 +1,19 @@
+Napakasaya|VBTS ni|DTP Sean|NNP dahil|CCR papasok|RBD na|CCP siya|PRS sa|CCT paaralnBinilhan|NNC siya|PRS ngayon|RBW ng|CCB bagong|JJD_CCP polo|NNC at|CCA pantalonGustong|JJD_CCP -|PMS gusto|VBS ni|DTP Sean|NNP ang|DTC kanyang|PRSP_CCP bagong|JJD_CCP damit|NNC .|PMP
+Kanya|NNP itong|PRO_CCP nilabhan|VBTS at|CCA isinampay|VBTS .|PMP
+Lana|NNP ...|PMS kusot|JJD lang|RBI nang|RBW kusot|RBD .|PMP
+Inaayos|VBTR na|RBI rin|RBI niya|PRS ang|DTC mga|DTCP gamit|NNC -|PMS pampaaralanLabis|JJD na|CCP nag|VBTS -|PMS aalala|NNC si|DTP Sean|NNP sa|CCT kanyang|PRSP_CCP bagong|JJD_CCP damit|NNC kaya|CCR tiningnan|VBOF niya|PRS ito|PRO .|PMP "|PMS
+Hala|NNP !|PMS
+Nasaan|VBTS ang|DTC aking|PRSP_CCP damit|NNC at|CCA pantalon|NNC ?|PMQ "|PMS
+Natakot|VBTS si|DTP Sean|NNP !|PMS "|PMS
+Ina|NNC ,|PMC nakita|VBTS mo|PRS ba|RBI ang|DTC aking|PRSP_CCP bagong|JJD_CCP damit|NNC ?|PMQ "|PMS
+Hindi|RBF ,|PMC hindi|RBF ko|PRS ito|PRO nakita|VBTS ,|PMC "|PMS tugon|NNC ng|CCB kanyang|PRSP_CCP ina|NNC .|PMP
+Patuloy|RBD niya|PRS itong|PRO_CCP hinanap|VBTS .|PMP
+Saan|PRQ kaya|CCR ito|PRO tinangay|VBOF ?|PMQ
+Nakita|VBTS niya|PRS ang|DTC kanyang|PRSP_CCP pantalon|NNC sa|CCT damuhan|NNC ngunit|CCT hindi|RBF ang|DTC kanyang|PRSP_CCP polo|NNC .|PMP "|PMS
+Nasaan|VBTS na|CCP kaya|CCR ang|DTC aking|PRSP_CCP polo|NNC ?|PMQ "|PMS
+wika|NNC ni|DTP SeanPatuloy|NNP niya|PRS itong|PRO_CCP hinanap|VBTS ,|PMC hanggang|RBW sa|CCT may|VBH nakita|VBTS siya|PRS sa|CCT sapa|NNC .|PMP "|PMS
+Hala|NNP ,|PMC ang|DTC aking|PRSP_CCP polo|NNC !|PMS "|PMS
+Labis|JJCS na|CCP nalungkot|VBTS si|DTP Sean|NNP na|CCP basa|JJD at|CCA madumi|JJD ito|PRO .|PMP
+Muli|RBW niya|PRS itong|PRO_CCP nilabhan|VBTS na|CCP may|VBH pag|CCR -|PMS aalalang|NNC_CCP hindi|RBF ito|PRO agad|RBW matutuyo|VBW .|PMP
+Nakahanap|VBTS siya|PRS ng|CCB paraan|NNC upang|CCB ito|PRO '|PMS y|FW matuyo|VBW agad|RBD gamit|VBS ng|CCB isang|PRI_CCP hangerSobrang|JJD_CCP saya|NNC ni|DTP Sean|NNP nang|RBW nasuot|VBTS na|CCP niya|PRS ang|DTC kanyang|PRSP_CCP bagong|JJD_CCP damit|NNC sa|CCT unang|JJN_CCP araw|NNC ng|CCB pasukan|NNC .|PMP
+Maraming|PRI_CCP Salamat|RBS

@@ -1,0 +1,128 @@
+Si|DTP Carlo|NNP ay|LM isang|PRI_CCP batang|JJD_CCP mahilig|VBW makinig|VBW sa|CCT mga|DTCP kuwento|NNC .|PMP
+Lagi|RBW siyang|PRS_CCP binabasahan|VBTR ng|CCB mga|DTCP kuwento|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Itay|NNP ,|PMC gusto|VBS ko|PRS pong|PRO_CCP makinig|VBW sa|CCT kuwento|NNC ninyo|PRP !|PMS "|PMS
+wika|NNC ni|DTP Carlo|NNP .|PMP
+Nagsimula|VBTS namang|RBI_CCP magkuwento|VBW ang|DTC kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC may|VBH mag|VBW -|PMS asawa|NNC na|CCP nagtatrabaho|VBTR bilang|CCT mangangahoy|NNC .|PMP
+May|VBH pito|CDB silang|PRP_CCP anak|NNC .|PMP
+Ang|DTC kanilang|PRSP_CCP bunsong|JJD_CCP anak|NNC aysinliit|NNC ng|CCB hinlalaki|NNC ...|PMS "|PMS Ngunit|CCT biglang|RBD_CCP ginambala|VBOF ni|DTP Carlo|NNP ang|DTC ama|NNC .|PMP "|PMS
+Itay|NNP ,|PMC bakit|PRQ kasinliit|JJCC siya|PRS ng|CCB hinlalaki|NNC ?|PMQ "|PMS "|PMS
+Dahil|CCR hindi|RBF siya|PRS kumakain|VBTR_VBAF nang|RBW marami|PRI ,|PMC kaya|CCR mabagal|JJD siyang|PRS_CCP lumaki|VBAF ,|PMC "|PMS paliwanag|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Bakit|PRQ kakaunti|JJD lang|RBI ang|DTC kinakain|VBTR niya|PRS ?|PMQ "|PMS
+tanong|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Dahil|CCR mahirap|JJD lamang|RBI ang|DTC buhay|NNC nila|PRP .|PMP "|PMS "|PMS
+Pero|CCT bakit|PRQ po|RBS ang|DTC kaniyang|PRSP_CCP mga|DTCP nakatatandang|JJD_CCP kapatid|NNC ay|LM normal|JJD naman|RBI ?|PMQ "|PMS
+tanong|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Gusto|VBS mo|PRS bang|RBM marinig|VBW ang|DTC buong|PRI_CCP kuwento|NNC o|CCT hindi|RBF ?|PMQ "|PMS
+sabi|VBS ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Gusto|VBS ko|PRS po|RBS pero|CCT gusto|VBS kong|PRS_CCP makarinig|VBW ng|CCB ibang|PRI_CCP kuwento|NNC ,|PMC "|PMS paliwanag|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Alam|VBS ko|PRS na|CCP po|RBS ang|DTC kuwentong|NNC_CCP ito|PRO .|PMP "|PMS
+Nagsimulang|VBTS_CCP magbasa|VBAF ng|CCB bagong|JJD_CCP kuwento|NNC ang|DTC kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Isang|PRI_CCP araw|NNC ,|PMC ang|DTC lawa|NNC ay|LM natuyo|VBTS .|PMP
+Lumipad|VBAF ang|DTC uwak|NNC upang|CCB maghanap|VBAF ng|CCB tubig|NNC .|PMP
+May|VBH nakita|VBTS itong|PRO_CCP banga|NNC na|CCP may|VBH lamang|RBI kalahating|JJD_CCP tubig|NNC .|PMP
+Ininom|VBTS ng|CCB uwak|NNC ang|DTC tubig|NNC sa|CCT loob|NNC ng|CCB banga|NNC .|PMP "|PMS "|PMS
+At|CCA paisa|NNC -|PMS isa|PRI niya|PRS itong|PRO_CCP nilagyan|VBOF ng|CCB mga|DTCP bato|NNC .|PMP "|PMS "|PMS
+Hindi|RBF po|RBS ba|RBI napapagod|VBTR ang|DTC uwak|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Gusto|VBS mo|PRS pa|RBI bang|RBM marinig|VBW ang|DTC buong|PRI_CCP kuwento|NNC o|CCT hindi|RBF ?|PMQ "|PMS
+sabi|VBS ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Gusto|VBS ko|PRS po|RBS Itay|NNC pero|CCT narinig|VBTS ko|PRS na|CCP po|RBS ang|DTC kuwentong|NNC_CCP ito|PRO .|PMP "|PMS "|PMS
+Sasabad|NNP ka|PRS na|CCP naman|RBI ba|RBI sa|CCT akin|PRSP ?|PMQ "|PMS
+tanong|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Pangako|NNP hindi|RBF na|RBI po|RBS !|PMS "|PMS
+sabi|VBS ni|DTP Carlo|NNP .|PMP
+Binuksang|NNP_CCP muli|RBW ng|CCB ama|NNC ni|DTP Carlo|NNP ang|DTC libro|NNC at|CCA nagbasa|VBTS ng|CCB ibang|PRI_CCP kuwento|NNC .|PMP "|PMS
+Noon|RBW ,|PMC ang|DTC araw|NNC at|CCA hangin|NNC ay|LM nagpustahan|VBTR .|PMP "|PMS "|PMS
+Itay|NNP ,|PMC bakit|PRQ mainit|JJD ang|DTC araw|NNC ?|PMQ "|PMS
+sabad|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Hindi|RBF ba|RBI '|PMS t|NNCA nangako|VBTS ka|PRS na|CCP hindi|RBF ka|PRS na|CCP sasabad|JJD pa|RBI ?|PMQ "|PMS
+sabi|VBS ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Patawad|NNP po|RBS !|PMS "|PMS
+sabi|VBS ni|DTP Carlo|NNP .|PMP "|PMS
+Sapat|JJD na|CCP iyan|PRO para|CCT sa|CCT gabing|RBW_CCP ito|PRO ,|PMC anak|NNC .|PMP
+Sa|CCT tingin|NNC ko|PRS ay|LM alam|VBS mo|PRS na|RBI ang|DTC lahat|PRI ng|CCB kuwentong|NNC_CCP ito|PRO .|PMP
+Matulog|VBW ka|PRS na|CCP .|PMP "|PMS
+sabi|VBS ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Sige|NNP po|RBS ,|PMC Itay|NNC .|PMP "|PMS
+malungkot|JJD na|CCP sabi|VBS ni|DTP Carlo|NNP .|PMP
+Niyakap|VBTS niya|PRS ang|DTC aklat|NNC at|CCA nakatulog|VBTS .|PMP
+Nang|RBW gabing|RBW_CCP iyon|PRO ,|PMC nakarinig|VBTS si|DTP Carlo|NNP ng|CCB tunog|NNC ng|CCB pagbubukas|NNC ng|CCB aklat|NNC .|PMP
+Bumangon|VBAF siya|PRS para|CCT tingnan|VBOF ito|PRO .|PMP
+Sinabi|VBTS ni|DTP Carlo|NNP sa|CCT kaniyang|PRSP_CCP sarili|NNC ,|PMC "|PMS Hindi|RBF ganito|PRC kaingay|NNC si|DTP Itay|NNP .|PMP "|PMS
+Mawalang|NNP -|PMS galang|NNC na|CCP po|RBS ,|PMC sino|PRQ po|RBS sila|PRP ?|PMQ "|PMS
+Kumusta|NNP !|PMS "|PMS
+sabi|VBS ng|CCB dalaga|NNC .|PMP "|PMS
+Hinliliit|NNP .|PMP "|PMS
+Nagtataka|VBTR si|DTP Carlo|NNP .|PMP "|PMS
+Kakaiba|JJD !|PMS
+Hinliliit|NNP ang|DTC pangalan|NNC mo|PRS ?|PMQ "|PMS "|PMS
+Kakaiba|JJD ka|PRS rin|RBI ,|PMC palasingsingan|NNC ,|PMC "|PMS sabi|VBS ng|CCB babae|NNC .|PMP
+Kumunot|NNP ang|DTC noo|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Hindi|RBF palasingsingan|NNC ang|DTC pangalan|NNC ko|PRS !|PMS "|PMS
+sabi|VBS niya|PRS .|PMP "|PMS
+Saan|PRQ ka|PRS nagmula|VBTS ?|PMQ "|PMS "|PMS
+Hinlalato|NNP .|PMP "|PMS
+sabi|VBS ng|CCB dalaga|NNC ,|PMC hindi|RBF pinansin|VBOF ang|DTC tanong|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Bakit|PRQ hindi|RBF mo|PRS sinasagot|VBTR ang|DTC tanong|NNC ko|PRS ?|PMQ "|PMS
+usisa|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Hintuturo|NNP .|PMP "|PMS
+sabi|VBS ng|CCB dalaga|NNC .|PMP "|PMS
+Ano|PRQ ang|DTC kinalaman|NNC ng|CCB mga|DTCP daliri|NNC sa|CCT anumang|PRI_CCP bagay|NNC ?|PMQ "|PMS
+pagtataka|VBW ni|DTP Carlo|NNP .|PMP "|PMS
+Saan|PRQ ka|PRS nagmula|VBTS ?|PMQ "|PMS "|PMS
+Hinlalaki|NNP .|PMP "|PMS
+sagot|NNC ng|CCB dalaga|NNC .|PMP
+Nagalit|VBTS na|CCP si|DTP Carlo|NNP .|PMP "|PMS
+Bakit|PRQ hindi|RBF mo|PRS sagutin|VBOF ang|DTC tanong|NNC ko|PRS ?|PMQ "|PMS
+galit|JJD na|CCP tanong|NNC niya|PRS .|PMP "|PMS
+Ayaw|RBF mo|PRS ba|RBI ng|CCB mga|DTCP tanong|NNC ?|PMQ
+Hindi|RBF ko|PRS gustong|VBS_CCP abalahin|VBOF ka|PRS ,|PMC ngunit|CCT ibalik|VBOF mo|PRS ang|DTC libro|NNC ko|PRS .|PMP "|PMS
+Kinuha|VBOF ni|DTP Carlo|NNP ang|DTC libro|NNC mula|RBL sa|CCT babae|NNC .|PMP
+Tumayo|VBAF ang|DTC babae|NNC at|CCA sinabing|VBTS :|PMS "|PMS Salamat|RBS sa|CCT patuloy|JJD na|CCP pagtatanong|NNC kahit|CCT hindi|RBF ko|PRS sinasagot|VBTR ang|DTC mga|DTCP ito|PRO .|PMP
+Isa|PRI akong|PRS_CCP tauhan|NNC sa|CCT kuwento|NNC .|PMP "|PMS "|PMS
+Bakit|PRQ hindi|RBF mo|PRS sinasagot|VBTR ang|DTC aking|PRSP_CCP mga|DTCP tanong|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Isa|PRI akong|PRS_CCP prinsesa|NNC na|CCP isinumpa|VBOF ng|CCB isang|PRI_CCP bruha|NNC .|PMP
+Hindi|RBF ako|PRS maaring|RBM sumagot|VBAF sa|CCT kahit|CCT anong|PRQ_CCP tanong|NNC .|PMP "|PMS
+tugon|NNC ng|CCB babae|NNC .|PMP
+Si|DTP Carlo|NNP ay|LM naging|VBTS mas|JJCC mausisa|JJD .|PMP "|PMS
+Ngunit|CCT bakit|PRQ sumasagot|VBTR_VBAF ka|PRS ngayon|RBW ?|PMQ "|PMS
+Nakangiting|RBD_CCP tumugon|VBAF ang|DTC babae|NNC .|PMP "|PMS
+Sapagkat|CCR nagtanong|VBTS ka|PRS nang|CCB higit|JJCC sa|CCT limang|JJN_CCP katanungan|NNC at|CCA nasira|VBTS nito|PRO ang|DTC sumpa|NNC .|PMP
+Mas|JJCC marami|JJD ang|DTC iyong|PRSP_CCP mga|DTCP tanong|NNC kaysa|JJC sa|CCT mga|DTCP daliri|NNC ng|CCB bruha|NNC sa|CCT kaniyang|PRSP_CCP kamay|NNC .|PMP "|PMS
+Ngumiti|VBAF si|DTP Carlo|NNP at|CCA nagtanong|VBTS ,|PMC "|PMS Bakit|PRQ ka|PRS nagpunta|VBTS rito|PRL ?|PMQ "|PMS "|PMS
+Naiinip|NNP ako|PRS ,|PMC "|PMS sabi|VBS ng|CCB prinsesa|NNC .|PMP "|PMS
+Gusto|VBS kong|PRS_CCP makinig|VBW sa|CCT mga|DTCP kuwento|NNC ng|CCB iyong|PRSP_CCP ama|NNC ,|PMC ngunit|CCT sumasabad|VBTR_VBAF ka|PRS sa|CCT kaniya|PRSP palagi|RBW .|PMP "|PMS
+Natawa|VBTS si|DTP Carlo|NNP dahil|CCR totoo|RBT ito|PRO .|PMP
+Binuksan|VBTS ni|DTP Carlo|NNP ang|DTC libro|NNC at|CCA nagsabing|VBTS :|PMS "|PMS Kung|CCR gusto|VBS mong|PRS_CCP makinig|VBW ,|PMC maaari|VBS kitang|RBD_CCP basahan|VBTS_VBOF ng|CCB kuwento|NNC .|PMP "|PMS
+Nagalak|VBTS ang|DTC prinsesa|NNC .|PMP "|PMS
+Maaari|VBS ba|RBI ?|PMQ
+Nais|VBS kong|PRS_CCP makarinig|VBW ng|CCB kuwento|NNC !|PMS "|PMS
+nasasabik|VBTR na|CCP tugon|NNC ng|CCB prinsesa|NNC .|PMP
+Nagsimulang|VBTS_CCP magkuwento|VBW si|DTP Carlo|NNP tungkol|RBR sa|CCT batang|JJD_CCP kasinliit|NNC ng|CCB hinlalaki|NNC .|PMP
+Binasa|VBOF pa|RBI niya|PRS ito|PRO na|CCP may|VBH kasamang|CCB_CCP pagkilos|NNC ng|CCB kaniyang|PRSP_CCP kamay|NNC .|PMP
+Mataimtim|NNP na|CCP nakinig|VBTS ang|DTC prinsesa|NNC .|PMP
+Pagkalipas|VBW ng|CCB ilang|PRQ_CCP saglit|RBW ,|PMC nakaramdam|VBTS ng|CCB antok|NNC ang|DTC prinsesa|NNC .|PMP "|PMS
+Maraming|PRI_CCP salamat|RBS sa|CCT iyong|PRSP_CCP kuwento|NNC ngunit|CCT ako|PRS ay|LM inaantok|VBTR na|CCP .|PMP "|PMS
+sabi|VBS ng|CCB prinsesa|NNC .|PMP "|PMS
+Matulog|VBW ka|PRS na|CCP ,|PMC prinsesa|NNC !|PMS
+Ako|PRS ay|LM inaantok|VBTR na|CCP rin|RBI .|PMP "|PMS
+Magkasabay|VBW na|CCP nakatulog|VBTS sina|DTPP Carlo|NNP at|CCA ang|DTC prinsesa|NNC .|PMP
+Nang|RBW magising|VBW si|DTP Carlo|NNP ay|LM wala|VBN na|RBI ang|DTC prinsesa|NNC .|PMP
+Pumasok|VBAF ang|DTC kaniyang|PRSP_CCP ama|NNC sa|CCT silid|NNC .|PMP "|PMS
+Anak|NNP ,|PMC ano|PRQ ang|DTC hinahanap|VBTR mo|PRS ?|PMQ "|PMS
+tanong|NNC nito|PRO .|PMP "|PMS
+Wala|VBN po|RBS Itay|NNP !|PMS "|PMS
+sagot|NNC ni|DTP Carlo|NNP .|PMP "|PMS
+Bilisan|VBOF mo|PRS at|CCA magbihis|VBTF ka|PRS na|CCP para|CCT sa|CCT paaralan|NNC !|PMS "|PMS
+sabi|VBS ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP
+Napangiti|VBTS si|DTP Carlo|NNP sa|CCT aklat|NNC .|PMP
+Agad|RBD siyang|PRS_CCP nag|VBTS -|PMS almusal|FW .|PMP
+Inihatid|VBTS na|RBI rin|RBI siya|PRS ng|CCB kaniyang|PRSP_CCP ama|NNC sa|CCT paaralan|NNC .|PMP
+Nang|RBW gabing|RBW_CCP iyon|PRO ,|PMC sinabi|VBTS ni|DTP Carlo|NNP sa|CCT kaniyang|PRSP_CCP ama|NNC ,|PMC "|PMS Itay|NNC ,|PMC ngayong|RBW_CCP gabi|RBW ay|LM may|VBH ikukuwento|VBTS_VBOF ako|PRS sa|CCT inyo|PRSP .|PMP "|PMS "|PMS
+Anong|PRQ_CCP kuwento|NNC ?|PMQ "|PMS
+tanong|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Ang|DTC Prinsesa|NNP na|CCP Hindi|RBF Makasasagot|VBW ng|CCB mga|DTCP Tanong|NNC ,|PMC "|PMS sabi|VBS ni|DTP Carlo|NNP .|PMP
+At|CCA naging|VBTS masaya|JJD ang|DTC gabi|RBW nina|DTPP Carlo|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP
+Micaella|NNP Arcemo|NNP

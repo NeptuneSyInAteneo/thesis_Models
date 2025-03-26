@@ -1,0 +1,82 @@
+Ito|PRO ang|DTC isang|PRI_CCP balahibo|NNC at|CCA ito|PRO ang|DTC isang|PRI_CCP bato|NNC .|PMP
+Alin|NNP ang|DTC mabigat|JJD at|CCA alin|PRQ ang|DTC magaan|JJD ?|PMQ
+Kalokohang|NNP_CCP katanungan|NNC '|PMS yan|PRO ,|PMC sabi|VBS mo.|NNCA .|PMP
+Siyempre|RBT ,|PMC mas|JJCC mabigat|JJD ang|DTC bato|NNC kaysa|JJC sa|CCT balahibo|NNC !|PMS
+Ito|PRO ay|LM isang|PRI_CCP elepante|NNC at|CCA ito|PRO pa|RBI rin|RBI ay|LM ang|DTC bato|NNC .|PMP
+Alin|NNP ang|DTC mabigat|JJD at|CCA alin|PRQ ang|DTC magaan|JJD ?|PMQ
+Kakatwang|JJD_CCP tanong|NNC ,|PMC masasabi|VBTF mo.|NNCA .|PMP
+Ang|DTC elepante|NNC ay|LM mabigat|JJD at|CCA ang|DTC bato|NNC ay|LM magaan|JJD ,|PMC siyempre|RBT !|PMQ
+Teka|NNP lang|RBI ,|PMC hindi|RBF ba|RBI '|PMS t|NNCA sinabi|VBTS mo|PRS na|CCP mas|JJCC mabigat|JJD ang|DTC bato|NNC ?|PMQ
+Oo|RBT ,|PMC pero|CCT mas|JJCC mabigat|JJD ito|PRO kaysa|JJC sa|CCT balahibo|NNC !|PMS
+Ngunit|CCT ito|PRO ay|LM MAS|NNPA magaan|JJD kaysa|JJC sa|CCT isang|PRI_CCP elepante|NNC .|PMP
+At|CCA siguro|RBM mas|JJCC mainam|JJD na|CCP huwag|RBF sabihin|VBOF na|CCP ,|PMC "|PMS Ito|PRO ay|LM mabigat|JJD "|PMS o|CCT "|PMS Ito|PRO ay|LM magaan|JJD "|PMS .|PMP
+Mas|JJCC lalong|JJCC_CCP mabuting|JJD_CCP itanong|NNC_CCP :|PMS Ito|PRO ba|RBI ay|LM mas|JJCC mabigat|JJD kaysa|JJC sa|CCT ibang|PRI_CCP bagay|NNC ?|PMQ
+Ito|PRO ba|RBI ay|LM mas|JJCC magaan|JJD kaysa|JJC sa|CCT ibang|PRI_CCP bagay|NNC ?|PMQ
+Ngunit|CCT paano|PRQ ang|DTC tanong|NNC na|CCP -|PMS Gaano|PRQ kabigat|JJD ang|DTC batong|NNC_CCP ito|PRO ?|PMQ
+Kaya|CCR ba|RBI nating|PRP_CCP mahanap|VBW ang|DTC kasagutan|NNC ng|CCB hindi|RBF pinag|VBRF -|PMS uusapan|NNC ang|DTC tungkol|RBR sa|CCT mga|DTCP elepante|NNC o|CCT balahibo|NNC ?|PMQ
+Oo|RBT kaya|CCR natin|PRP !|PMQ
+Maari|VBS nating|PRP_CCP ihambing|VBOF ang|DTC bato|NNC sa|CCT isang|PRI_CCP bagay|NNC gamit|VBS ang|DTC kilo|FW *|PMS .|PMP
+Ang|DTC kilo|NNC ay|LM ginagamit|VBTR upang|CCB malaman|VBW kung|RBK gaano|RBQ kabigat|JJD o|CCT magaan|JJD ang|DTC isang|PRI_CCP bagay|NNC .|PMP
+Ang|DTC mabuting|JJD_CCP itanong|NNC ay|LM -|PMS Mas|JJCC mabigat|JJD ng|CCB ilang|PRQ_CCP kilo|NNC ang|DTC bato|NNC ?|PMQ
+O|NNPA kaya|CCR Mas|JJCC magaan|JJD ng|CCB ilang|PRQ_CCP kilo|NNC ang|DTC aming|PRSP_CCP bato|NNC ?|PMQ
+*|PMS Pareho|JJC sa|CCT '|PMS kilo|FW '|PMS ang|DTC '|PMS kg|NNCA '|PMS .|PMP
+Mula|RBW ngayon|RBW ,|PMC sabihin|VBOF natin|PRP ang|DTC kg|NNCA kung|CCR ang|DTC ibig|VBS nating|PRP_CCP sabihin|VBOF ay|LM kilo|NNC -|PMS mas|JJCC maikli|JJD ito|PRO .|PMP
+Pero|CCT gaano|PRC kabigat|JJD ang|DTC kg|NNCA ?|PMQ
+Tingan|VBOF natin|PRP .|PMP
+Sinasabi|VBTR mo|PRS sa|CCT tindera|NNC sa|CCT palengke|NNC ,|PMC "|PMS Bigyan|VBOF mo|PRS ako|PRS ng|CCB kg|NNCA ng|CCB sibuyas|NNC .|PMP "|PMS
+Maglalagay|VBTF ang|DTC tindera|VBTS ng|CCB -|PMS kg|NNCA na|CCP bigat|NNC sa|CCT isang|PRI_CCP bahagi|NNC ng|CCB sukat|NNC at|CCA magtatambak|VBTF_VBAF ng|CCB sibuyas|NNC sa|CCT kabilang|CCB panig|NNC hanggang|RBW ang|DTC dalawang|JJN_CCP panig|NNC ay|LM antas|NNC .|PMP
+Bibilangin|VBTF mo|PRS ang|DTC sibuyas|NNC sa|CCT timabangan|NNC .|PMP
+Mayroong|VBH_CCP sibuyas|NNC .|PMP
+Ito|PRO ang|DTC magsasabi|VBTF na|CCP ang|DTC kg|NNCA ay|LM kasingbigat|JJCC ng|CCB na|CCP sibuyas|NNC .|PMP
+Ngunit|CCT hindi|RBF ito|PRO lubos|JJCS na|CCP maaasahan|VBTF .|PMP
+Pag|CCR ang|DTC mga|DTCP sibuyas|NNC ay|LM maliliit|JJD ,|PMC ang|DTC kg|NNCA ay|LM posibleng|RBT_CCP kasing|JJC bigat|NNC ng|CCB na|CCP sibuyas|NNC .|PMP
+Pag|CCR malalaki|JJD ,|PMC ang|DTC kg|NNCA ay|LM maaring|RBM kasing|JJCC bigat|JJD lamang|RBI ng|CCB sibuyas|NNC .|PMP
+Kailangan|VBS nating|PRP_CCP maghanap|VBW ng|CCB bagay|NNC na|CCP ang|DTC bigat|NNC ay|LM EKSAKTONG|NNPA 1k|CDB g.|NNCA Alam|VBS ko|PRS na|CCP !|PMS
+Ang|DTC bigat|NNC ng|CCB -|PMS litro|NNC ng|CCB bote|NNC ng|CCB tubi|NNC ay|LM kg|NNCA !|PMQ
+Ngayon|RBW na|CCP alam|VBS na|CCP natin|PRP ito|PRO ,|PMC bumalik|VBAF tayo|PRP sa|CCT ating|PRSP_CCP elepante|NNC .|PMP
+Gaano|PRQ kabigat|JJD ang|DTC isang|PRI_CCP elepante|NNC sa|CCT kg|NNCA ?|PMQ
+Mga|DTCP ,|PMC 0k|CDB g|NNCA !|PMQ
+Kaya|CCR kung|CCR mapapaupo|VBTF mo|PRS ang|DTC isang|PRI_CCP elepante|NNC sa|CCT isang|PRI_CCP banda|NNC ng|CCB timbangan|NNC ,|PMC kailangan|VBS mo|PRS ng|CCB ,|PMC 0n|CDB a|NNC tig|NNC -|PMS litro|NNC ng|CCB bote|NNC ng|CCB tubig|NNC para|CCT balansehin|VBTF_VBOF ang|DTC timbangan.|FW ,|PMC 0k|CDB g|NNCA ay|LM katumbas|JJD ng|CCB baka|NNC o|CCT 0n|NNC a|NNC katamtamang|JJD_CCP laki|NNC na|CCP mga|DTCP aso|NNC .|PMP
+Ngayon|RBW na|CCP napag|VBTS -|PMS usapan|NNC natin|PRP ang|DTC tungkol|RBR sa|CCT ilang|PRQ_CCP nspaka|FW bigat|NNC na|CCP bagay|NNC ,|PMC magtanong|VBW tayo|PRP ng|CCB isang|PRI_CCP mas|JJCC matapang|JJD na|CCP tanong|NNC -|PMS Gaano|PRQ kabigat|NNC ang|DTC mundo|NNC ?|PMQ
+Ang|DTC lupa|NNC ,|PMC kasama|CCB ang|DTC lahat|PRI ng|CCB mga|DTCP nilalang|NNC na|CCP nandito|VBTS ,|PMC ay|LM may|VBH bigat|NNC na|CCP ......|NNPA ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC 0k|CDB g|NNCA !|PMQ
+O|NNPA kasing|JJC bigat|NNC ng|CCB ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC ,|PMC -|PMS litro|NNC ng|CCB bote|NNC ng|CCB tubig|NNC !|PMS
+At|CCA ito|PRO ay|LM NAPAKAbigat|VBTS !|PMQ
+Kahit|CCT gamitin|VBOF natin|PRP ang|DTC lahat|PRI ng|CCB tubig|NNC sa|CCT daigdig|NNC ,|PMC hindi|RBF pa|RBI rin|RBI sapat|JJD upang|CCB punan|VBOF ito|PRO !|PMQ
+Uff|NNP .|PMP
+Ang|DTC pag|CCR -|PMS uusap|NNC na|CCP ito|PRO ay|LM nagiging|VBTR napakabigat|JJCS_JJD !|PMQ
+Ibalik|VBOF natin|PRP ang|DTC balahibo|NNC .|PMP
+Gaano|PRQ kagaan|NNC ang|DTC isang|PRI_CCP balahibo|NNC ?|PMQ
+Ito|PRO ay|LM halos|JJD ,|PMC ,|PMC 0b|CDB eses|FW na|CCP mas|JJCC magaan|JJD kaysa|JJC sa|CCT isang|PRI_CCP kg|NNCA .|PMP
+Kung|CCR maglalagay|VBTF ka|PRS ng|CCB litrong|NNC_CCP bote|NNC ng|CCB tubig|NNC sa|CCT isang|PRI_CCP gilid|JJD ng|CCB isang|PRI_CCP timbangan|NNC ,|PMC kakailanganin|VBTF mong|PRS_CCP maglagay|VBAF ng|CCB mga|DTCP ,|PMC ,|PMC 0b|CDB alahibo|NNC sa|CCT kabilang|CCB panig|NNC upang|CCB mabalanse|FW timbangan|FW .|PMP
+Ang|DTC isang|PRI_CCP patak|NNC ng|CCB ulan|NNC ay|LM halos|JJD ,|PMC 0b|CDB eses|FW na|CCP mas|JJCC magaan|JJD kaysa|JJC sa|CCT isang|PRI_CCP kg|NNCA .|PMP
+Halos|JJD ,|PMC 0p|NNCA atak|NNC ng|CCB ulan|NNC ang|DTC katumbas|NNC ng|CCB litro|NNC na|CCP bote|NNC ng|CCB tubig|NNC !|PMS
+Ang|DTC isang|PRI_CCP butil|NNC ng|CCB asin|NNC ay|LM halos|JJD ,|PMC ,|PMC ,|PMC (|PMS dalawampung|JJN_CCP milyon|NNC )|PMS na|CCP mas|JJCC magaan|JJD kaysa|JJC sa|CCT isang|PRI_CCP kg|NNCA .|PMP
+Iyon|PRO ay|LM NAPAKA|NNPA gaan|FW !|PMS
+Phew|NNP !|PMS
+Siguro|RBM ay|LM nahihilo|VBTS ka|PRS na|RBI .|PMP
+At|CCA ang|DTC utak|NNC mo|PRS ay|LM puno|JJD na|RBI ng|CCB mga|DTCP tanong|NNC .|PMP
+Tanong|NNC na|CCP tulad|JJC ng|CCB :|PMS Paano|PRQ namin|PRP titimbangin|VBTF ang|DTC isang|PRI_CCP butil|NNC ng|CCB buhangin|NNC ?|PMQ
+Paano|PRQ naman|RBI natimbang|VBTS ng|CCB tao|NNC ang|DTC daigdig|NNC ?|PMQ
+Sino|PRQ ang|DTC nagpasya|VBTS sa|CCT bigat|NNC ng|CCB kg|NNCA ?|PMQ
+Malamang|RBI na|CCP hindi|RBF ka|PRS makapaghintay|VBW upang|CCB mahanap|VBW ang|DTC mga|DTCP sagot|NNC kapag|CCR lumaki|VBAF kana|RBW !|PMQ
+Hulaan|NNP Mo|NNP Ito|PRO !|PMQ
+Maganda|JJD para|CCT sa|CCT parehong|JJC_CCP silid|NNC -|PMS aralan|NNC at|CCA tahanan|NNC ,|PMC ang|DTC aktibidad|NNC na|CCP ito|PRO ay|LM makakatulong|VBTF sa|CCT mga|DTCP bata|NNC sa|CCT pagtantya|VBW sa|CCT mga|DTCP timbang|NNC .|PMP
+Mga|DTCP bagay|NNC na|CCP kakailanganin|VBTF mo|PRS :|PMS -|PMS Isang|PRI_CCP pares|NNC ng|CCB timbangan|NNC na|CCP may|VBH dalawang|JJN_CCP kawali|NNC at|CCA pabigat|RBD *|PMS -|PMS Isang|PRI_CCP -|PMS litro|NNC na|CCP bote|NNC na|CCP puno|NNC ng|CCB tubig|NNC -|PMS Mga|DTCP bagay|NNC nga|RBI may|VBH iba|PRI '|PMS t|NNCA ibang|PRI_CCP timbang|NNC na|CCP matatagpuan|VBTF sa|CCT paaralan|NNC o|CCT sa|CCT bahay|NNC -|PMS isang|PRI_CCP maliit|JJD na|CCP supot|NNC ng|CCB gulay|NNC ,|PMC isang|PRI_CCP libro|NNC ,|PMC isang|PRI_CCP pang|RBI_CCP -|PMS alis|NNC ng|CCB alikabok|NNC ,|PMC isang|PRI_CCP pakete|NNC ng|CCB bigas|NNC ,|PMC at|CCA iba|PRI pa|RBI .|PMP
+Anong|PRQ_CCP gagawin|VBTF :|PMS .|PMP
+Ipasa|VBTS_VBOF ang|DTC bote|NNC ng|CCB tubig|NNC sa|CCT paligid|NNC ng|CCB klase|NNC habang|RBW tinatanong|VBTR sa|CCT bawat|PRI bata|NNC na|CCP kung|RBK ano|RBQ ang|DTC bigat|NNC nito|PRO .|PMP
+Nagbibigay|VBTR ito|PRO sa|CCT kanila|PRSP ng|CCB isang|PRI_CCP pakiramdam|NNC kung|RBK gaano|RBQ kabigat|JJD ang|DTC isang|PRI_CCP kg|NNCA .|PMP .|PMP
+Ipasa|VBTS_VBOF ang|DTC mga|DTCP bagay|NNC sa|CCT paligid|JJD paisa|NNC -|PMS isa|PRI ,|PMC tatanungin|VBTF ang|DTC bawat|PRI bata|NNC kung|CCR ang|DTC bagay|NNC ay|LM mas|JJCC mabibigat|JJD o|CCT mas|JJCC magaan|JJD kaysa|JJC sa|CCT kg|NNCA .|PMP
+Pahulaan|NNP din|RBI ang|DTC aktwal|JJD na|CCP bigat|NNC ng|CCB bawat|PRI bagay|NNC at|CCA isulat|VBOF ito|PRO sa|CCT pisara|NNC .|PMP .|PMP
+Timbangin|VBOF ang|DTC bawat|PRI bagay|NNC sa|CCT timbangan|NNC ,|PMC una|CDB laban|NNC sa|CCT -|PMS litro|NNC na|CCP bote|NNC (|PMS upang|CCB sagutin|VBOF ang|DTC tanong|NNC na|CCP '|PMS Mas|JJCC mabigat|JJD ba|RBI ito|PRO o|CCT mas|JJCC magaan|JJD kaysa|JJC sa|CCT kg|NNCA ?|FW '|PMS )|PMS
+At|CCA pagkatapos|VBW ay|LM laban|NNC sa|CCT aktwal|JJD na|CCP mga|DTCP timbang|NNC ,|PMC upang|CCB makita|VBW kung|RBK gaano|RBQ kahusay|JJD ang|DTC hula|NNC ng|CCB bawat|PRI bata|NNC .|PMP
+*|PMS Kung|CCR mahirap|JJD makahanap|VBW ng|CCB isang|PRI_CCP pares|NNC ng|CCB timbangan|NNC ,|PMC anyayahan|NNC ang|DTC lokal|JJD na|CCP tindero|NNC ng|CCB gulay|NNC sa|CCT iyong|PRSP_CCP silid|NNC -|PMS aralan|NNC (|PMS kasama|CCB ang|DTC kanyang|PRSP_CCP timbangan|NNC !|PMS )|PMS .|PMP
+Sa|CCT Hakbang|NNC sa|CCT itaas|JJD ,|PMC ipasa|VBOF palibot|JJD ang|DTC mga|DTCP supot|NNC ng|CCB gulay|NNC (|PMS na|CCP may|VBH iba|PRI '|PMS t|NNCA ibang|PRI_CCP timbang|NNC )|PMS .|PMP
+Pag|CCR -|PMS isipan|NNC mo|PRS !|PMS .|PMP
+Sa|CCT pahina|NNC ,|PMC nalaman|VBTS mo|PRS na|RBI ang|DTC isang|PRI_CCP litro|NNC na|CCP bote|NNC ng|CCB tubig|NNC ay|LM eksaktong|JJD_CCP tumimbang|VBAF ng|CCB kg|NNCA .|PMP
+Ilan|PRQ sa|CCT mga|DTCP bote|NNC ng|CCB tubig|NNC ang|DTC maaaring|RBM idagdag|VBOF sa|CCT IYONG|NNPA timbang|NNC ?|PMQ .|PMP
+Alam|VBS mo|PRS na|CCP ngayon|RBW na|CCP ang|DTC isang|PRI_CCP average|FW -|PMS size|FW na|CCP Indian|NNP elephant|FW ay|LM may|VBH bigat|NNC na|CCP mga|DTCP ,|PMC 0k|CDB gs|NNCA .|PMP
+Kung|CCR sinabi|VBTS namin|PRP sa|CCT iyo|PRSP na|CCP ang|DTC isang|PRI_CCP tren|NNC na|CCP kargado|JJD ng|CCB mga|DTCP pasahero|NNC aymay|RBR timbang|NNC na|CCP katulad|JJC ng|CCB 0e|NNC lephants|FW ,|PMC maaari|VBS mo|PRS bang|RBM malaman|VBW kung|RBK gaano|RBQ karaming|JJD_CCP kg|NNCA ang|DTC bigat|NNC nito|PRO ?|PMQ .|PMP
+Alin|NNP ang|DTC mas|JJCC mabibigat|JJD -|PMS kg|NNCA ng|CCB iron|FW o|CCT kg|NNCA ng|CCB cotton|FW wool|FW ?|PMQ
+Sagot|NNP :|PMS .|PMP
+,|PMC ,|PMC (|PMS ten|FW lakh|FW )|PMS kgs|FW (|PMS 250x4000|CDB =|PMS ,|PMC ,|PMC )|PMS .|PMP
+Pantay|JJD ang|DTC kanilang|PRSP_CCP bigat|NNC dahil|CCR sila|PRP ay|LM parehong|JJC_CCP isang|PRI_CCP kilo|NNC .|PMP

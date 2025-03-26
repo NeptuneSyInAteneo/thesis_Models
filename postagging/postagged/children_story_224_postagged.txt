@@ -1,0 +1,23 @@
+Malaki|JJD na|CCP ako|PRS .|PMP
+Lalabas|VBTF na|CCP ako|PRS ng|CCB bahay|NNC mag|VBW -|PMS isa|PRI .|PMP
+Ang|DTC dilim|NNC naman|RBI !|PMQ
+May|VBH tao|NNC ba|RBI diyan|PRL ?|PMQ
+Sino|PRQ iyan|PRO ?|PMQ
+Ay|NNP ,|PMC pusa|NNC lang|RBI pala|NNC .|PMP
+Hindi|RBF ako|PRS natatakot|VBTR .|PMP
+May|VBH nakikita|VBTR akong|PRS_CCP malaki|JJD at|CCA madilim|JJD na|CCP bagay|NNC doon|PRL !|PMQ
+Ano|PRQ kaya|CCR iyon|PRO ?|PMQ
+Ay|NNP ,|PMC balon|NNC lang|RBI pala|NNC .|PMP
+Hindi|RBF ako|PRS natatakot|VBTR .|PMP
+At|CCA ang|DTC ingay|NNC na|CCP '|PMS yon|PRO ?|PMQ
+Krak|NNP ,|PMC krak|NNC ,|PMC krak|NNC !|PMS
+Ano|PRQ ba|RBI iyon|PRO ?|PMQ
+Kapatid|VBS ko|PRS lang|RBI pala|NNC na|CCP nag|VBTS -|PMS iigib|VBTF mula|RBL sa|CCT balon|NNC .|PMP
+Hindi|RBF ako|PRS natatakot|VBTR .|PMP
+May|VBH naririnig|VBTR akong|PRS_CCP mga|DTCP yabag|NNC !|PMS
+Sino|PRQ iyon|PRO ?|PMQ
+Sino|PRQ iyon|PRO ?|PMQ
+Ang|DTC Nanay|NNC pala|NNC '|PMS yon|PRO .|PMP
+Pauwi|NNP na|CCP siya|PRS sa|CCT aming|PRSP_CCP tahanan|NNC .|PMP
+Malaki|JJD na|CCP ako|PRS ngayon|RBW .|PMP
+Hindi|RBF na|CCP ako|PRS natatakot|VBTR sa|CCT kahit|CCT na|CCP ano|PRQ !|PMQ

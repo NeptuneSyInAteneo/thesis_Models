@@ -1,0 +1,61 @@
+Sina|DTPP Tipaklong|NNP ,|PMC Palaka|NNP ,|PMC at|CCA Kuliglig|NNC ay|LM mahilig|JJD tumakbo|VBAF at|CCA maglaro|VBAF sa|CCT damuhan|NNC araw|NNC -|PMS araw|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC masama|JJD ang|DTC pakiramdam|NNC ng|CCB mga|DTCP kaibigan|NNC ni|DTP Tipaklong|NNP_CCP kaya|CCR '|PMS t|NNCA nagdesisyon|VBTS na|CCP lamang|RBI sila|PRP na|CCP manatili|VBW sa|CCT bahay|NNC .|PMP
+Binalewala|VBTS ito|PRO ni|DTP Tipaklong|NNP .|PMP
+Tumakbo|VBAF siya|PRS sa|CCT labas|NNC at|CCA patuloy|RBD na|CCP naglaro|VBTS .|PMP
+Ngunit|CCT nang|RBW sumunod|VBAF na|CCP araw|NNC ,|PMC wala|VBN ang|DTC mga|DTCP kaibigan|NNC ni|DTP Tipaklong|NNP sa|CCT damuhan|NNC .|PMP
+Hinanap|VBOF niya|PRS ang|DTC mga|DTCP ito|PRO sa|CCT buong|PRI_CCP paligid|NNC ,|PMC ngunit|CCT wala|VBN sila|PRP .|PMP
+Nagdesisyon|VBTS na|RBI lamang|RBI si|DTP Tipaklong|NNP na|CCP mag|VBW -|PMS isang|PRI_CCP lumipad|NNC pabalik|VBW sa|CCT bahay|NNC .|PMP
+Nakita|VBTS niya|PRS sa|CCT daan|NNC si|DTP Kuliglig|NNP na|CCP nagsasabog|VBTR ng|CCB kemikal|NNC sa|CCT mga|DTCP halaman|NNC na|CCP pinapalaki|VBTR upang|CCB makain|VBW .|PMP
+May|VBH mga|DTCP lalagyan|NNC na|CCP ubos|JJD na|CCP ang|DTC lamang|NNC_CCP kemikal|JJD at|CCA lumulutang|VBTR_VBAF sa|CCT kalapit|JJD na|CCP ilog|NNC .|PMP
+Naisip|VBTS ni|DTP Tipaklong|NNP na|CCP huminto|VBAF upang|CCB batiin|VBOF ang|DTC kaniyang|PRSP_CCP kaibigan|NNC .|PMP
+Ngunit|CCT siya|PRS pa|RBI rin|RBI ay|LM bugnot|NNC sa|CCT hindi|RBF pakikipaglaro|NNC ni|DTP Kuliglig|NNP sa|CCT kaniya|PRSP ,|PMC kaya|CCR '|PMS t|NNCA nagpatuloy|VBTS siya|PRS sa|CCT paglipad|NNC .|PMP
+Lumipas|VBAF ang|DTC ilang|PRQ_CCP araw|NNC at|CCA pinuntahan|VBOF ni|DTP Kuliglig|NNP si|DTP Tipaklong|NNP .|PMP "|PMS
+Saan|PRQ ka|PRS nagpupunta|VBTR ?|PMQ "|PMS
+tanong|NNC ni|DTP Tipaklong|NNP .|PMP "|PMS
+Bakit|PRQ hindi|RBF ka|PRS nagpunta|VBTS sa|CCT damuhan|NNC upang|CCB maglaro|VBAF ?|PMQ "|PMS "|PMS
+Ah|RBJ ,|PMC sumakit|VBAF ang|DTC tiyan|NNC at|CCA ulo|NNC ko|PRS .|PMP
+Halos|JJD hindi|RBF ako|PRS makalakad|VBW ,|PMC "|PMS daing|NNC ni|DTP Kuliglig|NNP .|PMP
+Nag|NNP -|PMS aalala|NNC si|DTP Tipaklong|NNP sa|CCT kaniyang|PRSP_CCP kaibigan|NNC .|PMP "|PMS
+Maaring|VBS_CCP may|VBH nakain|VBTS kang|PRS_CCP may|VBH lason|NNC .|PMP
+Magpagamot|VBTR na|CCP tayo|PRP sa|CCT doktor|NNC .|PMP "|PMS
+Tinulungan|VBOF ni|DTP Tipaklong|NNP_CCP makalakad|VBW ang|DTC kaibigan|NNC .|PMP
+Ngunit|CCT nung|RBW nakarating|VBTS na|CCP sila|PRP sa|CCT ilog|NNC ay|LM nanghihina|VBTS na|CCP si|DTP Kuliglig|NNP at|CCA hindi|RBF na|RBI kaya|CCR pang|RBI_CCP lumipad|NNC upang|CCB makatawid|VBW .|PMP
+Naghanap|VBTS si|DTP Tipaklong|NNP ng|CCB mahabang|JJD_CCP patpat|NNC upang|CCB maging|VBW tulay|NNC .|PMP
+Nagsimulang|VBTS_CCP tumawid|VBAF si|DTP Kuliglig|NNP ngunit|CCT siya|PRS ay|LM nadulas|VBTS at|CCA nahulog|VBTS !|PMS "|PMS
+Tulong|NNC !|PMS
+Mahuhulog|VBTF ako|PRS sa|CCT tubig|NNC !|PMS "|PMS
+iyak|NNC niya|PRS .|PMP
+Hinawakan|VBOF ni|DTP Tipaklong|NNP ang|DTC patpat|NNC upang|CCB subukang|RBD_CCP mailigtas|VBW si|DTP Kuliglig|NNP .|PMP "|PMS
+Kumapit|VBTS_VBAF ka|PRS !|PMS "|PMS
+patuloy|RBD niyang|PRS_CCP sigaw|NNC .|PMP
+Unti|NNP -|PMS unting|RBD_CCP nahuhulog|VBTR si|DTP Kuliglig|NNP .|PMP "|PMS
+Hindi|RBF ko|PRS na|CCP kayang|RBD_CCP kumapit|VBAF pa|RBI ng|CCB matagal|JJD .|PMP "|PMS
+Pinipilit|VBTR ni|DTP Tipaklong|NNC_CCP si|DTP Kuliglig|NNP na|CCP maging|VBW malakas|JJD .|PMP "|PMS
+Huwag|RBF kang|PRS_CCP bibitaw|VBTF !|PMQ
+Mayroon|VBH diyan|PRL sa|CCT tubig|NNC na|CCP maaring|RBM kumagat|VBAF sa|CCT iyo|PRSP .|PMP "|PMS
+Biglang|RBD_CCP naputol|VBTS ang|DTC sanga|NNC !|PMS
+Sina|DTPP Tipaklong|NNP at|CCA Kuliglig|NNP ay|LM nahulog|VBTS pababa|JJD sa|CCT tubig|NNC .|PMP
+Isang|PRI_CCP higanteng|JJD_CCP palaka|NNC ang|DTC tumalon|VBAF at|CCA handang|RBD_CCP lunukin|VBOF sila|PRP pareho|JJC .|PMP
+Saktong|JJD_CCP -|PMS sakto|JJD ,|PMC nagsisigaw|VBTS si|DTP Tipaklong|NNP ,|PMC "|PMS Sandali|RBW lang|RBI ,|PMC Palaka|NNP !|PMS
+Kami|PRP ito|PRO ,|PMC mga|DTCP kaibigan|NNC mo|PRS !|PMQ "|PMS "|PMS
+Ah|RBJ ,|PMC hindi|RBF ko|PRS agad|RBW nalaman|VBTS na|CCP ikaw|PRS iyan|PRO !|PMQ
+Hindi|RBF kasi|CCR ako|PRS makakita|VBW ng|CCB maayos|JJD kamakailan|RBW .|PMP
+Anong|PRQ_CCP ginagawa|VBTR niyo|PRP dito|PRL ?|PMQ "|PMS
+Gumapang|NNP_CCP sina|DTPP Tipaklong|NNP at|CCA Kuliglig|NNP sa|CCT pinakamalapit|JJCS_JJD na|CCP dahon|NNC ng|CCB liryo|NNC .|PMP "|PMS
+Kami|PRP ay|LM pupunta|VBTF sa|CCT doktor|NNC .|PMP
+Malubha|JJD ang|DTC sakit|NNC ni|DTP Kuliglig|NNP .|PMP "|PMS "|PMS
+Siguro|RBM dapat|VBS sumama|VBAF rin|RBI ako|PRS ,|PMC "|PMS sabi|VBS ni|DTP Palaka|NNP .|PMP "|PMS
+Nababahala|VBTR na|RBI rin|RBI ako|PRS sa|CCT aking|PRSP_CCP mga|DTCP mata|NNC ,|PMC gayundin|CCB ang|DTC aking|PRSP_CCP balat|NNC ay|LM may|VBH kakaibang|JJD_CCP pantal|NNC .|PMP "|PMS
+Sa|CCT palagay|NNC ni|DTP Tipaklong|NNP_CCP alam|VBS na|CCP niya|PRS kung|RBK ano|RBQ ang|DTC nangyayari|VBTR .|PMP
+Nagdesisyon|VBTS siyang|PRS_CCP magsalita|VBAF na|CCP .|PMP "|PMS
+Kuliglig|NNP ,|PMC ako|PRS ay|LM nangangamba|VBTR na|CCP ang|DTC mga|DTCP kemikal|NNC na|CCP isinabog|VBTS mo|PRS sa|CCT mga|DTCP halaman|NNC ay|LM nakasasama|VBTR sa|CCT iyong|PRSP_CCP pagkain|NNC .|PMP
+At|CCA ang|DTC mga|DTCP lalagyan|NNC na|CCP nahulog|VBTS sa|CCT tubig|NNC ay|LM ang|DTC siyang|PRS_CCP nakasakit|VBTS sa|CCT mga|DTCP mata|NNC at|CCA balat|NNC ni|DTP Palaka|NNP .|PMP "|PMS
+Nakaramdam|VBTS ng|CCB takot|NNC at|CCA pagkabagabag|VBW si|DTP Kuliglig|NNP dahil|CCR sa|CCT nagawa|VBTS niyang|PRS_CCP pagkakamali|NNC .|PMP "|PMS
+Okay|NNP lang|RBI '|PMS yun|PRO ,|PMC Kuliglig|JJD ,|PMC "|PMS sabi|VBS ni|DTP Palaka|NNP sabayngiti|NNC .|PMP "|PMS
+Itatama|NNP natin|PRP lahat|PRI .|PMP
+Ngunit|CCT kailangan|VBS muna|RBI nating|PRP_CCP pumunta|VBAF sa|CCT doktor|NNC upang|CCB bumuti|VBAF tayong|PRP_CCP lahat|PRI !|PMS "|PMS
+Kapag|CCR bumuti|VBAF na|CCP siya|PRS ulit|RBW ,|PMC lilinisin|VBTF ni|DTP Kuliglig|NNP ang|DTC mga|DTCP basura|NNC at|CCA kalat|JJD sa|CCT tubig|NNC .|PMP
+May|VBH natutuhan|VBTS siyang|PRS_CCP bagong|JJD_CCP paraan|NNC sa|CCT pangangalaga|NNC ng|CCB kaniyang|PRSP_CCP mga|DTCP halaman|NNC na|CCP hindi|RBF gumagamit|VBTR_VBAF ng|CCB mga|DTCP mapaminsalang|VBW_CCP kemikal|NNC .|PMP
+Mga|DTCP Karagdagang|JJD_CCP Kaalaman|NNC sa|CCT Kapaligiran|NNP Ang|NNP Conservation|NNP International|NNP (|PMS CI|NNPA )|PMS ay|LM para|CCT sa|CCT mga|DTCP lokal|JJD na|CCP pamayanan|NNC at|CCA paaralan|NNC na|CCP malapit|JJD sa|CCT Ilog|NNP Pursat|NNP at|CCA Lawa|NNP ng|CCB Tonle|NNP Sap|NNP upang|CCB mapataas|VBW ang|DTC kamalayan|NNC sa|CCT mga|DTCP isyu|NNC sa|CCT kapaligiran|NNC .|PMP
+Ang|DTC CI|NNP ay|LM namamahagi|VBTR ng|CCB mga|DTCP impormasyon|NNC tungkol|RBR sa|CCT pamamahala|NNC ng|CCB basura|NNC ,|PMC paggamit|NNC ng|CCB pestisidyo|NNC ,|PMC pangangalaga|NNC sa|CCT buhay|NNC -|PMS ilang|PRI_CCP ,|PMC at|CCA edukasyon|NNC sa|CCT kapaligiran|NNC upang|CCB ang|DTC bawat|PRI pamayanan|NNC ay|LM matutong|RBD_CCP mangalaga|VBW at|CCA gamiting|VBOF wasto|JJD ang|DTC mga|DTCP mahahalagang|JJD_CCP yamang|NNC_CCP tubig|NNC .|PMP
+Para|CCT sa|CCT karagdagang|JJD_CCP impormasyon|NNC ,|PMC bisitahin|VBOF ito|PRO :|PMS https://www.conservation.org/projects/Pages/|FW tonle|FW -|PMS sap|NNCA -|PMS lake|FW -|PMS conserving|FW -|PMS cambodia|FW -|PMS fish|FW -|PMS factory|FW -|PMS mekong.aspx|FW Ang|DTC karagdagang|JJD_CCP impormasyon|NNC sa|CCT kapaligiran|NNC ay|LM ibinahagi|VBTS ng|CCB Conservation|NNP International|NNP sa|CCT pakikipagtulungan|NNC sa|CCT The|NNP Asia|NNP FoundationSuportado|NNP ng|CCB SMART|NNPA

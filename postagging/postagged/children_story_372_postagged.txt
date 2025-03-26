@@ -1,0 +1,27 @@
+Bumili|VBTS_VBAF si|DTP Didi|NNP ng|CCB isang|PRI_CCP makintab|JJD na|CCP dilaw|JJD na|CCP scooty|FW .|PMP
+Pareho|JJC kaming|PRP_CCP napakasaya|JJCS_JJD dahil|CCR sa|CCT ganda|NNC nito|PRO !|PMQ
+Sabi|VBS ni|DTP Didi|NNP ,|PMC "|PMS Pumunta|VBAF tayo|PRP sa|CCT Monkey|NNP Temple|NNP .|PMP "|PMS
+Nagsimula|VBTS ang|DTC aming|PRSP_CCP paglalakbay|NNC .|PMP
+Sa|CCT simula|RBW ito|PRO ay|LM tila|RBM simple|JJD .|PMP
+Ang|DTC pagsakay|NNC sa|CCT motorsiklo|NNC ay|LM sobrang|JJCS_CCP saya|NNC Sa|CCT ilalim|JJD ng|CCB asul|JJD na|CCP kalangitan|NNC at|CCA ang|DTC ginintuang|JJD_CCP araw|NNC !|PMS
+Subalit|CCT ang|DTC isang|PRI_CCP baluktot|NNC na|CCP pako|NNC ay|LM muntik|RBD nang|RBD sirain|VBOF ang|DTC araw|NNC .|PMP
+Pinagmasdan|VBRF lang|RBI namin|PRP ito|PRO at|CCA wala|VBN na|RBI kaming|PRP_CCP nasabi|VBTS .|PMP
+Buong|PRI_CCP lakas|NNC naming|PRP_CCP itinulak|VBTS ang|DTC motorsiklo|NNC ,|PMC habang|RBW pinapapanatiling|VBTR_CCP abot|NNC tanaw|JJD ang|DTC Templo|NNC ng|CCB mga|DTCP Matsing|NNC .|PMP
+Patuloy|RBD kami|PRP sa|CCT pagtulak|NNC hang|NNC sa|CCT kami|PRP ay|LM mapagod|VBW ,|PMC habang|RBW kami|PRP ay|LM nakita|VBTS ng|CCB isang|PRI_CCP maliit|JJD na|CCP monghe|NNC mula|RBL sa|CCT kanyang|PRSP_CCP monasteryo|NNC .|PMP
+Nang|RBW may|VBH masayang|JJD_CCP ngiti|NNC sa|CCT kantang|NNC_CCP mata|NNC ,|PMC tinulungan|VBTS nya|PRS kami|PRP hanggang|RBW makalayo|VBW na|CCP kanyang|PRSP_CCP lugar|NNC .|PMP
+Kinalaunan|RBW ,|PMC dumating|VBAF sa|CCT isang|PRI_CCP turista|NNC ,|PMC palakaibigan|JJD at|CCA matangkad|JJD .|PMP
+Sinabi|VBTS niya|PRS ,|PMC "|PMS Ang|DTC buhay|NNC ay|LM maganda|JJD kapag|CCR tayo|PRP ay|LM nagtutulungan|VBTR .|PMP "|PMS
+Sumunod|VBAF ay|LM dumating|VBAF ang|DTC isang|PRI_CCP tagabitbit|NNC na|CCP nag|VBTS -|PMS alok|NNC ng|CCB kanyang|PRSP_CCP tulong|NNC ,|PMC kahit|CCT siya|PRS mismo|RBT ay|LM may|VBH dalang|NNC mabigat|JJD .|PMP
+Pagkatapos|VBW ay|LM isang|PRI_CCP babaeng|JJD_CCP pulis|NNC ang|DTC napadaan|VBTS .|PMP "|PMS
+Mukhang|RBM pagod|NNC kana|NNC .|PMP
+Subukan|VBOF kong|PRS_CCP itulak|VBOF ang|DTC motorsiklo|NNC .|PMP "|PMS
+Sa|CCT wakas|RBW ,|PMC dala|JJD ang|DTC aming|PRSP_CCP motorsiklo|NNC ,|PMC patungo|RBL sa|CCT isang|PRI_CCP garahe|NNC .|PMP
+Ito|PRO ay|LM pagmamay|NNC -|PMS ari|NNC ng|CCB isang|PRI_CCP mekanikong|NNC_CCP may|VBH ginintuang|JJD_CCP puso|NNC .|PMP
+Mabilis|RBD niyang|PRS_CCP naayos|VBTS ang|DTC aming|PRSP_CCP gulong|NNC .|PMP
+Hindi|RBF nagtagal|VBTS ay|LM sumakay|VBAF kami|PRP sa|CCT motorsiklo|NNC ,|PMC humihiyaw|VBTR_VBAF at|CCA pinatutunog|VBTR ang|DTC busina|NNC .|PMP
+Ang|DTC tanawin|NNC mula|RBL sa|CCT templo|NNC ay|LM talagang|RBT_CCP napakaganda|JJCS_JJD .|PMP
+Kung|RBK hindi|RBF ka|PRS pa|RBI nakapunta|VBTS doon|PRL ,|PMC sanasabi|JJD kong|PRS_CCP dapat|VBS kang|PRS_CCP magpunta|VBW .|PMP
+Naglakad|VBTS kami|PRP mula|RBL sa|CCT templo|NNC na|CCP may|VBH mga|DTCP ngiti|NNC sa|CCT aming|PRSP_CCP mga|DTCP mukha|NNC .|PMP
+Pagkatapos|VBW ay|LM dumating|VBAF ang|DTC mga|DTCP musikero|NNC na|CCP tumutugtog|VBTR_VBAF sa|CCT iba|PRI '|PMS t|NNCA ibang|PRI_CCP lugar|NNC .|PMP
+Niyakap|NNP ko|PRS ang|DTC Didi|NNP ko|PRS at|CCA sinabing|VBTS ,|PMC "|PMS Hinayaan|VBOF ko|PRS na|CCP ang|DTC problema|NNC sa|CCT pako|NNC ,|PMC dahil|CCR marami|PRI naman|RBI tayong|PRP_CCP nakilalalng|RBD_CCP mababait|JJD at|CCA matulunging|JJD_CCP mga|DTCP tao|NNC !|PMS "|PMS
+(|PMS Masayang|NNC_CCP Larawan|NNC .|PMP )|PMS

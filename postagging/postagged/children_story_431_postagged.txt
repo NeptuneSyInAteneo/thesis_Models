@@ -1,0 +1,44 @@
+Nakatira|VBTS si|DTP Bakeo|NNP sa|CCT isang|PRI_CCP maliit|JJD na|CCP nayon|NNC na|CCP wala|VBN pang|RBI_CCP sampung|JJN_CCP pamilya|NNC .|PMP
+Ang|DTC ama|NNC ni|DTP Bakeo|NNP ay|LM isang|PRI_CCP mangangahoy|NNC .|PMP
+May|VBH alaga|NNC siyang|PRS_CCP ulilang|NNC_CCP ligaw|JJD na|CCP biik|NNC na|CCP ang|DTC pangalan|NNC ay|LM Mondul|NNP .|PMP
+Inuwi|VBOF ito|PRO ng|CCB kanyang|PRSP_CCP ama|NNC mula|RBL sa|CCT kagubatan|NNC .|PMP
+Mahal|NNP niya|PRS ito|PRO na|CCP parang|CCT nakababatang|JJD_CCP kapatid|NNC .|PMP
+Ngayong|RBW_CCP taon|NNC ,|PMC nagkaroon|VBTS ng|CCB malakas|JJD na|CCP pag|CCR -|PMS ulan|NNC at|CCA malakas|JJD na|CCP hangin|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC pinatagilid|VBTR ng|CCB hangin|NNC ang|DTC bahay|NNC ni|DTP Bakeo|NNP .|PMP "|PMS
+Gusto|VBS kong|PRS_CCP ipagbili|VBOB si|DTP Mondul|NNP para|CCT magkaroon|VBAF tayo|PRP ng|CCB pera|NNC na|CCP ipapaayos|VBTR ng|CCB bahay|NNC ,|PMC "|PMS ang|DTC sabi|VBS ng|CCB kanyang|PRSP_CCP ama|NNC .|PMP "|PMS
+Hindi|RBF !|PMS "|PMS
+bulalas|VBTS ni|DTP Bakeo|NNP ,|PMC "|PMS Si|DTP Mondul|NNP ay|LM parang|CCT kapatid|NNC ko|PRS .|PMP "|PMS
+Habang|RBW iniisip|VBTR niya|PRS kung|RBK paano|RBQ ililigtas|VBTF si|DTP Mondul|NNP ,|PMC nakasalubong|VBTS niya|PRS ang|DTC kaniyang|PRSP_CCP mga|DTCP kapitbahay|NNC .|PMP "|PMS
+Iuuwi|NNP nyo|NNCA po|RBS ba|RBI ang|DTC kawayan|NNC nay|LM an|DTC para|CCT gawing|VBOF_CCP mga|DTCP hinabing|JJD_CCP basket|FW ?|FW "|PMS
+ang|DTC kanyang|PRSP_CCP tanong|NNC .|PMP "|PMS
+Oo|RBT ,|PMC ito|PRO nga|RBI ay|LM para|CCT diyan|PRL talaga|RBT ,|PMC "|PMS tugon|NNC nila|PRP .|PMP
+Biglang|RBD_CCP nagkaroon|VBTS ng|CCB ideya|NNC si|DTP Bakeo|NNP kung|RBK paano|RBQ niya|PRS ililigtas|VBTF si|DTP Mondul|NNP .|PMP
+Kinabukasan|RBW ,|PMC sinabi|VBTS ni|DTP Bakeo|NNP sa|CCT kanyang|PRSP_CCP mga|DTCP kapitbahay|NNC na|CCP maaari|VBS siyang|PRS_CCP tumulong|VBAF sa|CCT paggawa|NNC ng|CCB mga|DTCP basket|NNC kapalit|CCB ng|CCB kaunting|PRI_CCP bayad|NNC .|PMP
+Pumayag|VBAF sila|PRP at|CCA binigyan|VBOF siya|PRS ng|CCB trabaho|NNC ng|CCB pagdikit|NNC ng|CCB yantok|NNC at|CCA kawayan|NNC .|PMP
+Gayunpaman|CCB ,|PMC napakaliit|JJCS_JJD ng|CCB kaniyang|PRSP_CCP bayad|NNC para|CCT mailigtas|VBW si|DTP MondulKaya|NNP kinabukasan|RBW ay|LM hiniling|VBOF niya|PRS sa|CCT kanyang|PRSP_CCP mga|DTCP kapitbahay|NNC na|CCP turuan|VBOF siya|PRS kung|RBK paano|RBQ maghabi|VBW ng|CCB mga|DTCP basket|NNC .|PMP
+Ito|PRO ay|LM hindi|RBF isang|PRI_CCP madaling|RBD_CCP gawain|VBOF .|PMP
+Palagi|RBW siyang|PRS_CCP nagkakamali|VBTR at|CCA nasasaktan|VBTR ang|DTC sarili|NNC .|PMP
+Minsan|RBW naiinip|VBTR na|CCP siya|PRS .|PMP
+Ngunit|CCT nang|RBW makita|VBW niya|PRS si|DTP Mondul|NNP sa|CCT kanyang|PRSP_CCP tabi|NNC ,|PMC naenganyo|VBTS siyang|PRS_CCP magpatuloy|VBW sa|CCT paggawa|VBW sa|CCT mga|DTCP basket|FW .|PMP
+Nagsisimula|VBTR din|RBI siyang|PRS_CCP gumawa|VBAF ng|CCB mga|DTCP hinabi|VBOF na|CCP basket|FW sa|CCT bahay|NNC .|PMP
+Ginagamit|VBTR niya|PRS ang|DTC yantok|NNC at|CCA kawayan|NNC na|CCP inilalagay|VBTR ng|CCB kanyang|PRSP_CCP ina|NNC sa|CCT ilalim|JJD ng|CCB kanilang|PRSP_CCP bahay|NNC .|PMP
+Ang|DTC kanyang|PRSP_CCP unang|CDB_CCP tatlong|JJN_CCP basket|NNC ay|LM hindi|RBF maayos|JJD ang|DTC hugis|NNC ,|PMC ngunit|CCT patuloy|RBD niyang|PRS_CCP sinusubukan|RBD .|PMP
+Isang|PRI_CCP umaga|RBW ,|PMC naghanda|VBTS ang|DTC kanyang|PRSP_CCP ama|NNC na|CCP magtinda|VBW ng|CCB panggatong|NNC sa|CCT palengke|NNC .|PMP
+Hiniling|VBOF niyang|PRS_CCP sumama|VBAF sa|CCT kanya|PRSP upang|CCB maibenta|VBW niya|PRS ang|DTC kanyang|PRSP_CCP mga|DTCP hinabi|VBOF na|CCP basket|FW .|PMP
+Sinisikap|VBTS niyang|PRS_CCP ibenta|VBOF ang|DTC kanyang|PRSP_CCP mga|DTCP basket|NNC ,|PMC subalit|CCT tila|RBM walang|VBN_CCP interesado|JJD .|PMP
+Sa|CCT wakas|RBW ,|PMC nakapagbenta|VBTS sya|PRS ng|CCB isang|PRI_CCP basket|FW .|PMP "|PMS
+Wow|NNP ,|PMC "|PMS sabi|VBS ng|CCB kaniyang|PRSP_CCP ama|NNC .|PMP
+Binili|VBOF talaga|RBT ng|CCB mga|DTCP tao|NNC ang|DTC basket|FW !|PMS "|PMS
+Sa|CCT kaniyang|PRSP_CCP pag|CCR -|PMS uwi|NNCA ,|PMC nakita|VBTS ni|DTP Bakeo|NNP ang|DTC isang|PRI_CCP pasahero|NNC na|CCP may|VBH dalang|JJD_CCP basket|NNC na|CCP may|VBH sabitan|NNC .|PMP
+Maaari|VBS tayong|PRP_CCP magbenta|VBW ng|CCB mas|JJCC maraming|JJD_CCP basket|NNC kung|CCR ito|PRO ay|LM may|VBH sabitan|NNC .|PMP
+Nang|RBW sila|PRP ay|LM makauwi|VBW ,|PMC sinabi|VBTS ng|CCB kaniyang|PRSP_CCP ama|NNC sa|CCT kaniyang|PRSP_CCP nanay|NNC ang|DTC tungkol|RBR sa|CCT kaniyang|PRSP_CCP benta|NNC .|PMP
+Magandang|JJD_CCP ideya|NNC ang|DTC mga|DTCP basket|NNC na|CCP ito|PRO ?|PMQ
+Tuwang|NNP_CCP tuwang|NNC sabi|VBS ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP
+Patuloy|RBD na|CCP nangongolekta|VBTR ng|CCB rattan|NNC at|CCA kawayan|NNC ang|DTC ama|NNC ni|DTP Bakeo|NNP para|CCT sa|CCT kanya|PRSP at|CCA tinulungan|VBOF siya|PRS ng|CCB kanyang|PRSP_CCP ina|NNC na|CCP ihabi|VBTF ang|DTC mga|DTCP ito|PRO sa|CCT mga|DTCP basket|FW .|PMP
+Nang|RBW makapaghabi|VBW sila|PRP ng|CCB sapat|JJD na|CCP mga|DTCP basket|FW ,|PMC dinala|VBTS ni|DTP Bakeo|NNP at|CCA ng|CCB kaniyang|PRSP_CCP ama|NNC ang|DTC mga|DTCP basket|NNC sa|CCT palengke|NNC para|CCT ibenta|VBOF .|PMP
+Ngayon|RBW .|PMP
+maayos|JJD ang|DTC benta|NNC ng|CCB mga|DTCP basket|NNC .|PMP
+Ibinibigay|VBTR ni|DTP Bakeo|NNP ang|DTC lahat|PRI ng|CCB kaniyang|PRSP_CCP kinitang|VBTS_CCP pera|NNC sa|CCT kaniyang|PRSP_CCP ina|NNC para|CCT maipaayos|VBW ang|DTC kanilang|PRSP_CCP bahay|NNC .|PMP
+Hindi|RBF nagtagal|VBTS ,|PMC naipaayos|VBTS ang|DTC bahay|NNC ni|DTP Bakeo|NNP .|PMP
+Maayos|JJD na|CCP ang|DTC bahay|NNC ,|PMC at|CCA ligtas|JJD din|RBI si|DTP Mondul|NNP ,|PMC ang|DTC sabi|VBS ni|DTP Bakeo|NNP .|PMP
+Wakas|NNP .|PMP

@@ -1,0 +1,24 @@
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC isang|PRI_CCP grupo|NNC ng|CCB mga|DTCP hayop|NNC na|CCP may|VBH sungay|NNC ang|DTC nagpasyang|VBTS_CCP gumawa|VBAF ng|CCB isang|PRI_CCP kasiyahan|NNC sa|CCT itaas|JJD ng|CCB bundok|NNC .|PMP
+Mga|DTCP may|VBH sungay|NNC na|CCP mga|DTCP hayop|NNC lamang|RBI ang|DTC kanilang|PRSP_CCP inimbitahan|VBTS at|CCA wala|VBN ng|CCB iba|PRI .|PMP
+Narinig|VBTS ng|CCB baboy|NNC ang|DTC tungkol|RBR sa|CCT pagtitipon|NNC ,|PMC naisip|VBTS niya|PRS ,|PMC "|PMS Gusto|VBS ko|PRS ring|RBI_CCP dumalo|VBAF sa|CCT pagtitipon|NNC .|PMP
+Pero|CCT ,|PMC wala|VBN akong|PRS_CCP sungay|NNC .|PMP
+Ano|PRQ kaya|CCR ang|DTC puwede|RBT kong|PRS_CCP gawin|VBOF ?|PMQ "|PMS
+Kinabukasan|RBW ,|PMC nagkaroon|VBTS siya|PRS ng|CCB ideya|NNC .|PMP
+Naglagay|VBTS siya|PRS ng|CCB sungay|NNC sa|CCT kanyang|PRSP_CCP ulo|NNC gamit|VBS ang|DTC pagkit|NNC !|PMS
+Gumana|VBAF ito|PRO !|PMQ
+Pakiramdam|NNP ni|DTP baboy|NNC na|CCP siya|PRS ay|LM napakatalino|JJCS_JJD nang|RBW siya|PRS ay|LM pinahintulutang|RBD_CCP dumalo|VBAF ng|CCB pagtitipon|NNC .|PMP
+Ngunit|CCT ,|PMC ang|DTC pagtitipon|NNC ay|LM ginanap|VBTS sa|CCT labas|NNC at|CCA katirikan|NNC ng|CCB araw|NNC .|PMP
+Kinalaunan|RBW ,|PMC sa|CCT patuloy|RBD na|CCP pagtaas|VBW ng|CCB araw|NNC at|CCA nadaramang|VBTS_CCP init|NNC sa|CCT paligid|NNC ,|PMC ang|DTC mga|DTCP sungay|NNC ng|CCB baboy|NNC ay|LM biglang|RBD_CCP nahulog|VBTS .|PMP
+Nagulat|VBTS ang|DTC lahat|PRI ng|CCB hayop|NNC na|CCP mayroong|VBH_CCP sungay|NNC ,|PMC "|PMS Sino|PRQ itong|PRO_CCP hayop|NNC na|CCP walang|VBN_CCP sungay|NNC ?|PMQ
+Bakit|PRQ ka|PRS dumalo|VBAF dito|PRL ?|PMQ "|PMS
+tanong|NNC nila|PRP .|PMP "|PMS
+Ako|PRS ay|LM isang|PRI_CCP baboy|NNC lamang|RBI "|PMS sagot|NNC ni|DTP baboy|NNC .|PMP "|PMS
+Nais|VBS kolang|NNC_CCP naman|RBI na|CCP dumalo|VBAF sa|CCT pagtitipon|NNC .|PMP "|PMS "|PMS
+Bawal|JJD ang|DTC baboy|NNC dito|PRL !|PMS "|PMS
+saad|JJD ng|CCB hari|NNC ng|CCB mga|DTCP hayop|NNC na|CCP may|VBH sungay|NNC .|PMP "|PMS
+Bawal|NNP ,|PMC paalisin|VBOF ang|DTC baboy|NNC na|CCP yan|PRO !|PMS "|PMS
+Kawawang|NNP_CCP baboy|NNC !|PMS
+Siya|PRS ay|LM tumilapon|VBAF at|CCA lumapag|VBAF sa|CCT lupa|NNC na|CCP nauna|VBTS ang|DTC kanyang|PRSP_CCP ilong|NNC .|PMP
+Sa|CCT pagbasak|NNC nito|PRO ,|PMC ang|DTC kanyang|PRSP_CCP ilong|NNC ay|LM naging|VBTS isang|PRI_CCP nguso|NNC na|CCP .|PMP
+Simula|RBW sa|CCT araw|NNC na|CCP iyon|PRO ,|PMC ang|DTC baboy|NNC ay|LM mayroon|VBH ng|CCB nguso|NNC sa|CCT halip|CCT na|CCP ilong|NNC .|PMP
+At|CCA sa|CCT ngayon|RBW ,|PMC ay|LM wala|VBN pa|RBI rin|RBI siyang|PRS_CCP sungay|NNC .|PMP

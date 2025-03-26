@@ -1,0 +1,17 @@
+Sa|CCT aking|PRSP_CCP kaarawan|NNC ,|PMC binigyan|VBOF ako|PRS ni|DTP Lola|NNP ng|CCB gintong|JJD_CCP sapatos|NNC .|PMP
+Isinulat|VBTS niya|PRS sa|CCT kard|NNC :|PMS "|PMS Makapangyarihan|VBW ang|DTC sapatos|NNC na|CCP ito|PRO .|PMP
+Ito|PRO ay|LM gawa|VBS sa|CCT tangkay|NNC ng|CCB saluyot|NNC ,|PMC ang|DTC gintong|JJD_CCP halaman|NNC na|CCP tumutubo|VBTR_VBAF sa|CCT iyong|PRSP_CCP kinagisnang|JJD_CCP lugar|NNC .|PMP
+Dadalhin|VBTF ka|PRS nito|PRO kung|RBK saan|RBQ mo|PRS gusto|VBS at|CCA siguradong|RBT_CCP makababalik|VBTF ka|PRS pauwi|NNC .|PMP
+At|CCA kahit|CCT saan|PRQ ka|PRS magpunta|VBW ,|PMC mag|VBW -|PMS iiwan|VBTF ka|PRS ng|CCB magandang|JJD_CCP bakas|NNC ng|CCB paa|NNC .|PMP
+Ngunit|CCT hindi|RBF ko|PRS nagustuhan|VBTS ang|DTC sapatos|NNC .|PMP
+Hindi|RBF ito|PRO makulay|JJD at|CCA hindi|RBF rin|RBI ako|PRS nito|PRO napatangkad|RBD .|PMP
+Ang|DTC sapatos|NNC ng|CCB ibang|PRI_CCP bata|NNC ay|LM umiilaw|VBAF at|CCA tumatalbog|VBTR_VBAF .|PMP
+Ayaw|RBF ko|PRS ng|CCB sapatos|NNC na|CCP gawa|VBS sa|CCT saluyot|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC habang|RBW papauwi|VBTF ako|PRS galing|RBL sa|CCT paaralan|NNC ,|PMC ako|PRS '|PMS y|FW naligaw|VBTS at|CCA kinailangan|VBTS kong|PRS_CCP bumalik|VBAF sa|CCT aking|PRSP_CCP pinanggalingan|VBOL .|PMP
+Habang|RBW ako|PRS ay|LM naglalakad|VBTR ,|PMC nakita|VBTS ko|PRS ang|DTC mga|DTCP bakas|NNC ko|PRS sa|CCT daan|NNC at|CCA natunton|VBTS ko|PRS kung|RBK saan|RBQ ako|PRS nagkamali|VBTS ng|CCB liko|JJD .|PMP
+Ang|DTC bawat|PRI yapak|NNC ko|PRS ay|LM may|VBH maliit|JJD na|CCP bahay|NNC na|CCP napalilibutan|VBTS ng|CCB mga|DTCP bulaklak|NNC .|PMP
+Nauunawaan|VBTR ko|PRS na|CCP kung|RBK bakit|RBQ ito|PRO ang|DTC ibinigay|VBTS na|CCP regalo|NNC ni|DTP Lola|NNP !|PMS
+Masarap|JJD sa|CCT talampakan|NNC ang|DTC aking|PRSP_CCP sapatos|NNC at|CCA palagi|RBW akong|PRS_CCP hinahatid|VBTR nito|PRO pauwi|VBW ng|CCB bahay|NNC .|PMP
+Mahal|NNP ko|PRS ang|DTC aking|PRSP_CCP gintong|JJD_CCP sapatos|NNC !|PMS
+Paalala|NNP Sa|CCT mundong|NNC_CCP ito|PRO ,|PMC mayroon|VBH tayong|PRP_CCP lahat|PRI ng|CCB bagay|NNC na|CCP ating|PRSP_CCP kakailanganin|VBTF upang|CCB mabuhay|VBW -|PMS tubig|NNC ,|PMC pagkain|NNC ,|PMC hangin|NNC ,|PMC at|CCA iba|PRI pang|RBI_CCP bagay|NNC na|CCP gamit|VBS sa|CCT paggawa|NNC ng|CCB mga|DTCP damit|NNC at|CCA tahanan|NNC .|PMP
+Ang|DTC Saluyot|NNC ,|PMC kilala|JJD sa|CCT tawag|NNC na|CCP Ginto|NNC ng|CCB Bengal|NNP ,|PMC ay|LM may|VBH kakaunting|JJD_CCP bakas|NNC ng|CCB karbon|NNC at|CCA maaring|RBM gamitin|VBOF sa|CCT paggawa|NNC ng|CCB ano|PRQ mang|RBI_CCP bagay|NNC mula|RBL sa|CCT sapatos|NNC ,|PMC hanggang|RBW sa|CCT bangka|NNC ,|PMC at|CCA hanggang|RBW sa|CCT tsaa|NNC .|PMP

@@ -1,0 +1,28 @@
+Minsan|RBW may|VBH nakatirang|VBTS_CCP lalaki|NNC na|CCP ngalan|NNC ay|LM Ram|NNP .|PMP
+Sya|PRS ay|LM kilala|JJD sa|CCT tawag|NNC na|CCP Hatchuram|NNP ,|PMC sa|CCT pagkat|NNC pag|CCR sya|PRS ay|LM nababahing|VBTR naggagawa|VBTR sya|PRS ng|CCB malakas|JJD na|CCP ingay|NNC .|PMP
+Ha|NNP -|PMS aaa|FW -|PMS tchu|FW .|PMP
+At|CCA ang|DTC ingay|NNC ay|LM lalong|JJCC_CCP lumalakas|VBTR_VBAF kada|PRI babahing|NNC .|PMP
+Hatchu|NNP HatCHU|NNP HATCHU|NNPA !|PMS
+Malli|NNP ,|PMC ang|DTC sanggol|NNC ,|PMC tumalbog|VBAF kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Jaggu|NNP ,|PMC ang|DTC bata|NNC ,|PMC nalaglag|VBTS ang|DTC kanyang|PRSP_CCP sorbetes|NNC kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Shiva|NNP ,|PMC ang|DTC nagtitinda|VBTR ng|CCB gatas|NNC ,|PMC ay|LM nalaglag|VBTS sa|CCT bisikleta|NNC kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Appan|NNP ,|PMC ang|DTC matandang|JJD_CCP lalaki|NNC ,|PMC hinimatay|VBTS kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Kaka|NNP ,|PMC ang|DTC uwak|NNC ,|PMC nanginginig|VBTR kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Nutty|NNP ,|PMC ang|DTC buko|NNC ,|PMC na|CCP hulog|JJD sa|CCT puno|NNC kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Dorai|NNP ,|PMC ang|DTC asong|JJD_CCP umakyat|VBAF sa|CCT taas|NNC ng|CCB puno|NNC kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Wriggly|NNP ,|PMC ang|DTC bulate|NNC ,|PMC kumulot|VBAF kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Musuka|NNP ,|PMC ang|DTC daga|NNC ,|PMC tumakbo|VBAF sa|CCT lungga|NNC kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Pihu|NNP ,|PMC ang|DTC paboreal|FW ,|PMC nalagas|VBTS ang|DTC balahibo|NNC kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Matsya|NNP ,|PMC ang|DTC isda|NNC ,|PMC tumalon|VBAF palabas|NNC ng|CCB tubig|NNC kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Balwan|NNP ,|PMC ang|DTC kalabaw|NNC ,|PMC napapikit|VBTS kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatch|FW .|PMP
+Kutti|NNP ,|PMC ang|DTC payaso|NNC ,|PMC gumulong|VBAF kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Chakraa|NNP ,|PMC ang|DTC higanteng|JJD_CCP gulong|NNC ,|PMC huminto|VBAF kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Surya|NNP ,|PMC ang|DTC araw|NNC ,|PMC nagtago|VBTS sa|CCT kaulapan|NNC kay|DTP Hatchuram|NNP 's|CDB hatchu|FW hatchu|FW .|PMP
+Ang|DTC mga|DTCP tao|NNC ay|LM takot|NNC sa|CCT Hatchuram|NNP 's|FW hatchu|FW hatchu|FW .|PMP
+Tinatakpan|VBTR nila|PRP ang|DTC kanilang|PRSP_CCP tainga|NNC pero|CCT hindi|RBF gumana|VBAF .|PMP
+Ang|DTC pag|CCR takbo|NNC ay|LM hindi|RBF rin|RBI nakatulong|VBTS .|PMP
+Pagtago|NNP ay|LM hindi|RBF rin|RBI nakatulong|VBTS .|PMP
+At|CCA ano|PRQ ang|DTC ginawa|VBTS nila|PRP kay|DTP Hatchuram|NNP ?|PMQ
+Wala|VBN silang|PRP_CCP ginawa|VBOF kay|DTP Hatchuram|NNP .|PMP
+Bagaman|CCT ,|PMC sila|PRP ay|LM nagsimula|VBTS na|CCP ding|RBI_CCP bumahing|VBAF ng|CCB mas|JJCC malakas|JJD kaysa|JJC sa|CCT kanya|PRSP .|PMP
+Ha|NNP -|PMS aaa|FW -|PMS tchu|FW Ha|FW -|PMS aaa|FW -|PMS tchu|FW Ha|FW -|PMS aaa|FW -|PMS tchu|FW Ha|FW -|PMS aaa|FW -|PMS tchu|FW !|PMS

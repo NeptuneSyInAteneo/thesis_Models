@@ -1,0 +1,82 @@
+Masayang|RBD_CCP kumanta|VBAF si|DTP Cici|NNP .|PMP
+Siya|PRS ay|LM naglilinis|VBTR ng|CCB mga|DTCP babasaging|JJD_CCP bote|NNC na|CCP puno|NNC ng|CCB pulot|NNC -|PMS pukyutan|NNC .|PMP
+Ititinda|VBTS niya|PRS ang|DTC mga|DTCP ito|PRO mamaya|RBW .|PMP
+Biglang|RBD_CCP dumating|VBAF ang|DTC mga|DTCP kaibigan|NNC ni|DTP Cici|NNP .|PMP
+Sila|PRP ay|LM magsasanay|VBTF sa|CCT pagtugtog|NNC ng|CCB sama|NNC -|PMS sama|NNC .|PMP
+Oh|NNP ,|PMC may|VBH nakalimutan|VBTS si|DTP Cici|NNP !|PMS
+Mamaya|RBW na|RBI lamang|RBI niya|PRS lilinisin|VBTF ang|DTC mga|DTCP bote|NNC .|PMP
+Nagmamadali|VBTS siyang|PRS_CCP buksan|VBOF ang|DTC kanyang|PRSP_CCP aparador|NNC .|PMP
+At|CCA inilabas|VBTS ang|DTC paborito|NNC niyang|PRS_CCP instrumentong|NNC_CCP pangmusika|JJD ,|PMC ang|DTC calung|FW .|PMP
+Si|DTP Cici|NNP ay|LM natisod|VBTS ,|PMC hindi|RBF kasi|CCR siya|PRS nakatingin|JJD sa|CCT kanyang|PRSP_CCP nilalakaran|VBTR .|PMP
+Aray|NNP !|PMS
+Natisod|VBTS siya|PRS sa|CCT malaking|JJD_CCP ugat|NNC ng|CCB puno|NNC at|CCA nahulog|VBTS .|PMP
+Bumagsak|VBAF ang|DTC calung|FW sa|CCT lupa|NNC .|PMP
+Mabilis|RBD siyang|PRS_CCP tinulungan|VBTS ng|CCB kanyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Napangiwi|VBTS si|DTP Cici|NNP sa|CCT sakit|NNC .|PMP
+Nabugbog|VBTS ang|DTC kanyang|PRSP_CCP mga|DTCP tuhod|NNC .|PMP
+O|NNPA hindi|RBF !|PMQ
+Nasira|VBTS ang|DTC calung|FW !|PMQ
+Paano|PRQ na|CCP ito|PRO ngayon|RBW ?|PMQ
+May|VBH makakapag|VBW -|PMS ayos|NNC pa|RBI ba|RBI nito|PRO ?|PMQ
+Tumakbo|VBAF si|DTP Cici|NNP papunta|RBL sa|CCT bahay|NNC ni|DTP Ginoong|NNP Jenggot|NNP .|PMP
+Kaya|CCR nitong|PRO_CCP mag|VBW -|PMS ayos|NNC ng|CCB mga|DTCP instrumentong|NNC_CCP pangmusika|JJD .|PMP
+Pero|CCT wala|VBN si|DTP Ginoong|NNP Jenggot|NNP sa|CCT kanyang|PRSP_CCP bahay|NNC .|PMP
+Hindi|RBF muna|RBI siya|PRS uuwi|RBM dito|PRL .|PMP
+May|VBH iniwan|VBOF siyang|PRS_CCP sulat|NNC sa|CCT pintuan|NNC ng|CCB kanyang|PRSP_CCP bahay|NNC .|PMP
+Bigong|RBD_CCP naglakad|RBD pauwi|RBD si|DTP Cici|NNP .|PMP
+Siguro|RBM ay|LM bibili|VBTF na|RBI lamang|RBI siya|PRS ng|CCB bagong|JJD_CCP xylophone|FW .|PMP
+Pero|CCT wala|VBN siyang|PRS_CCP sapat|JJD na|CCP pera|NNC .|PMP
+Sinubukan|VBTS ni|DTP Cici|NNP na|CCP ayusin|VBOF ang|DTC kanyang|PRSP_CCP sariling|NNC_CCP xylophone|FW .|PMP
+Binuhol|VBOF niya|PRS ang|DTC mga|DTCP maluluwag|JJD na|CCP parte|NNC nito|PRO .|PMP
+Pero|CCT ang|DTC tunog|NNC nito|PRO '|PMS y|FW hindi|RBF na|CCP katulad|JJC nung|RBW dati|JJD .|PMP
+Pinatunog|VBTS ni|DTP Cici|NNP ang|DTC kanyang|PRSP_CCP maso|NNC sa|CCT iba|PRI '|PMS t|NNCA ibang|PRI_CCP bagay|NNC .|PMP
+Ano|PRQ kaya|CCR ang|DTC maaaring|RBM maging|VBW kasingtunog|NNC ng|CCB calung|FW ?|PMQ
+Tok|NNP -|PMS tok|NNCA -|PMS tok|NNCA tunog|NNC mula|RBL sa|CCT upuan|NNC .|PMP
+Tek|NNP -|PMS tek|FW -|PMS tek|FW tunog|NNC mula|RBL sa|CCT mesa|NNC .|PMP
+Tuk|NNP -|PMS tuk|FW -|PMS tuk|NNCA tunog|NNC mula|RBL sa|CCT aparador|NNC .|PMP
+Teng|NNP -|PMS teng|FW -|PMS teng|NNC_CCP tunog|NNC mula|RBL sa|CCT kaldero|NNC .|PMP
+Ting|NNP -|PMS ting|FW -|PMS ting|FW tunog|NNC mula|RBL sa|CCT bote|NNC ng|CCB pulot|NNC -|PMS pukyutan|NNC .|PMP
+Pinatunog|VBOF muli|RBW ni|DTP Cici|NNP ang|DTC mga|DTCP bote|NNC .|PMP
+Ting|NNP -|PMS ting|FW -|PMS ting|FW !|PMS
+Tumalon|VBAF sa|CCT tuwa|NNC si|DTP Cici|NNP .|PMP
+Aha|NNP !|PMS
+Maaaring|RBM gawing|VBOF_CCP bagong|JJD_CCP instrumento|NNC ang|DTC mga|DTCP boteng|NNC_CCP ito|PRO .|PMP
+Agad|RBD niyang|PRS_CCP kinuha|VBOF ang|DTC mga|DTCP bote|NNC ng|CCB pulot|NNC -|PMS pukyutan|NNC .|PMP
+Ang|DTC ilan|PRQ dito|PRL ay|LM puno|JJD pa|RBI .|PMP
+Ang|DTC ilan|PRQ ay|LM kalahati|PRI nalang|VBTS .|PMP
+At|CCA ang|DTC ilan|PRQ ay|LM papaubos|JJD na|RBI .|PMP
+Pinatunog|VBTS ni|DTP Cici|NNP ang|DTC bawat|PRI bote|NNC .|PMP
+Bawat|PRI bote|NNC ay|LM may|VBH iba|PRI '|PMS t|NNCA ibang|PRI_CCP tunog|NNC .|PMP
+Pero|CCT ang|DTC mga|DTCP ito|PRO ay|LM kailangang|VBS_CCP itinda|VBOF .|PMP
+Mas|JJCC mabuting|JJD_CCP kunin|VBOF na|CCP lamang|RBI niya|PRS ang|DTC mga|DTCP boteng|NNC_CCP wala|VBN nang|CCB laman|NNC .|PMP
+Kumuha|VBAF siya|PRS ng|CCB isang|PRI_CCP timbang|NNC tubig|NNC mula|RBL sa|CCT kusina|NNC .|PMP
+Pinuno|NNP ni|DTP Cici|NNP ng|CCB tubig|NNC ang|DTC mga|DTCP bote|NNC .|PMP
+Ang|DTC ilan|PRQ ay|LM puno|JJD ,|PMC at|CCA ang|DTC ilan|PRQ ay|LM kaunti|PRI .|PMP
+Pinatunog|VBTS ni|DTP Cici|NNP ang|DTC mga|DTCP bote|NNC .|PMP
+Ngunit|CCT hindi|RBF pa|RBI din|RBI siya|PRS nasiyahan|VBTS .|PMP
+Ang|DTC tunog|NNC ng|CCB mga|DTCP bote|NNC ay|LM hindi|RBF magkakatugma|VBTF .|PMP
+Pinalitan|VBOF niya|PRS nang|RBW dami|NNC ng|CCB tubig|NNC ang|DTC mga|DTCP ito|PRO ,|PMC salin|NNC dito|PRL ,|PMC salin|NNC doon|PRL .|PMP
+Inayos|VBOF muli|RBW ni|DTP Cici|NNP ang|DTC mga|DTCP bote|NNC at|CCA pinatunog|VBOF ang|DTC mga|DTCP ito|PRO .|PMP
+Ngayon|RBW ,|PMC tamang|JJD_CCP -|PMS tama|JJD na|CCP ang|DTC mga|DTCP tunog|NNC nito|PRO .|PMP
+Do|NNP -|PMS re-mi-fa-so-la-si-do|FW !|PMS
+Ting|NNP -|PMS ting|FW -|PMS ting|FW !|PMS
+Pinatunog|VBOF muli|RBW ni|DTP Cici|NNP ang|DTC bawat|PRI bote|NNC .|PMP
+Masaya|NNP siyang|PRS_CCP kumanta|VBAF .|PMP
+Tumakbo|VBAF si|DTP Cici|NNP sa|CCT hardin|NNC .|PMP
+Andoon|NNP pa|RBI rin|RBI ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Muli|RBW niyang|PRS_CCP inimbitahan|VBTS_VBOF ang|DTC mga|DTCP ito|PRO !|PMQ
+Hindi|RBF ibig|VBS sabihin|VBOF na|CCP walang|VBN_CCP calung|FW ay|LM wala|VBN ng|CCB musika|NNC .|PMP
+Tuloy|NNP pa|RBI rin|RBI ang|DTC magandang|JJD_CCP tugtugan|NNC !|PMS
+Alamin|NNP Natin|NNP ang|DTC Tungkol|RBR sa|CCT :|PMS Musical|FW Bottles|FW Bakit|PRQ tumutunog|VBTR_VBAF ang|DTC mga|DTCP bote|NNC ni|DTP Cici|NNP ?|PMQ
+Mag|NNP -|PMS vibrate|FW ang|DTC babasaging|NNC_CCP bote|NNC kapag|CCR natamaan|VBTS .|PMP
+Ang|DTC mga|DTCP vibrations|FW ay|LM gumagawa|VBTR_VBAF ng|CCB tunog|NNC .|PMP
+Kung|CCR ang|DTC bote|NNC ay|LM naglalaman|VBTR ng|CCB tubig|NNC ,|PMC ang|DTC mga|DTCP vibrations|FW ng|CCB bote|NNC ay|LM mababasa|VBTF ng|CCB tubig|NNC .|PMP
+Kung|CCR may|VBH kaunting|PRI_CCP tubig|NNC ,|PMC mas|JJCC mataas|JJD ang|DTC tunog|NNC ,|PMC dahil|CCR mas|JJCC kaunti|JJD ang|DTC dampened|FW vibrations|FW .|PMP
+Kung|CCR mayroong|VBH_CCP mas|JJCC maraming|JJD_CCP tubig|NNC ,|PMC ang|DTC mga|DTCP vibrations|FW ng|CCB boteay|FW naka|FW -|PMS mute|FW .|PMP
+Ang|DTC tunog|NNC na|CCP ginawa|VBTS ay|LM mas|JJCC mababa|JJD din|RBI .|PMP
+This|NNP book|FW development|FW project|FW focuses|FW on|FW science|FW ,|PMC technology|FW ,|PMC engineering|FW ,|PMC and|FW mathematics|FW (|PMS abbreviated|FW as|FW STEM|NNPA )|PMS themes|FW in|FW children|FW 's|FW daily|FW lives|FW .|PMP
+This|NNP project|FW involves|FW almost|FW all|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW designers|FW .|PMP
+This|NNP book|FW was|FW developed|FW through|FW a|FW book|FW development|FW workshop|FW held|FW in|FW collaboration|FW with|FW Litara|NNP Foundation|NNP and|FW The|NNP Asia|NNP Foundation|NNP through|FW the|FW Let|NNP 's|NNP Read|NNP program|FW with|FW the|FW support|FW of|FW EsteeLauder|NNP Companies|NNP Charity|NNP Foundation|NNP (|PMS ELCCF|NNPA )|PMS .|PMP
+Let|NNP 's|CDB Read|NNP is|FW a|FW digital|FW library|FW platform|FW with|FW a|FW collection|FW of|FW thousands|FW of|FW children|FW 's|FW storybooks|FW that|FW can|FW be|FW accessed|FW easily|FW and|FW for|FW free|FW .|PMP
+Mentoring|NNP along|NNC_CCP with|FW story|FW ,|PMC text|FW ,|PMC illustration|FW ,|PMC and|FW design|FW editing|FW are|DTC carried|FW out|FW by|FW the|FW Litara|NNP Foundation|NNP .|PMP
+The|NNP Litara|NNP Foundation|NNP is|FW a|FW nonprofit|FW organization|FW dedicated|FW to|FW promoting|FW literacy|FW through|FW children|FW 's|FW books|FW .|PMP

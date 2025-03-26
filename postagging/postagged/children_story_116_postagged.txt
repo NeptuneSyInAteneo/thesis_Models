@@ -1,0 +1,11 @@
+Natagpuan|VBTS ni|DTP Tharul|NNP ang|DTC isang|PRI_CCP bibe|NNC .|PMP
+Ito|PRO ay|LM sugatan|JJD .|PMP
+Nilinis|NNP at|CCA pinakain|VBOF ni|DTP Tharul|NNP ang|DTC bibe|NNC .|PMP
+Pinangalanan|VBOF niya|PRS itong|PRO_CCP "|PMS Ducky|FW .|PMP "|PMS
+Nakita|VBTS ng|CCB pusa|NNC si|DTP Ducky|NNP .|PMP
+Tumakbo|VBAF papalayo|RBD si|DTP Ducky|NNP !|PMS
+Ngunit|CCT ,|PMC muli|RBW na|CCP naman|RBI siyang|PRS_CCP nasaktan|VBTS .|PMP
+Binantayan|VBTS ni|DTP Tharul|NNP at|CCA ng|CCB kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC si|DTP Ducky|NNP .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC natagpuan|VBTS ng|CCB inahin|VBOF ang|DTC kaniyang|PRSP_CCP munting|JJD_CCP bibe|NNC .|PMP
+Isinama|VBTS na|CCP niya|PRS ito|PRO pauwi|VBW sa|CCT kanilang|PRSP_CCP tahanan|NNC .|PMP
+Nagpaalam|VBTS si|DTP Tharul|NNP sa|CCT kaniyang|PRSP_CCP mga|DTCP kaibiganSigner|NNC :|PMS Sagar|NNP K.|NNPA C.|NNPA .|PMP

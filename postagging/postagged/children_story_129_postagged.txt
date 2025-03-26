@@ -1,0 +1,34 @@
+Wala|VBN si|DTP nanay|NNC sa|CCT bahay|NNC .|PMP
+Ang|DTC kapatid|NNC ni|DTP Selina|NNP ay|LM naglilinis|VBTR ng|CCB bahay|NNC .|PMP
+Sinusubukan|VBTR ni|DTP Selina|NNP na|CCP patulugin|RBD ang|DTC kaniyang|PRSP_CCP kapatid|NNC na|CCP lalaki|NNC .|PMP
+Ay|NNP tingnan|VBOF mo|PRS !|PMQ
+May|VBH paligsahan|NNC sa|CCT tiyakad|NNC !|PMS
+Hmm|NNP ...|PMS Gusto|VBS ni|DTP Selina|NNP na|CCP sumali|VBAF sa|CCT paligsahan|NNC sa|CCT piyesta|NNC .|PMP
+Sa|CCT kabutihang|NNC_CCP -|PMS palad|NNC ,|PMC nakatulog|VBTS agad|RBD ang|DTC kaniyang|PRSP_CCP kapatid|NNC .|PMP
+Makapag|VBW -|PMS eensayo|NNC na|CCP si|DTP Selina|NNP sa|CCT kaniyang|PRSP_CCP tiyakadOkey|NNC ,|PMC tama|JJD na|CCP ang|DTC pagsasanay|NNC .|PMP
+Oras|NNP na|CCP para|CCT magpalista|VBW sa|CCT paligsahan|NNC .|PMP
+Naku|PRS po|RBS !|PMQ
+Hindi|RBF makasasali|VBW si|DTP Selina|NNP sa|CCT paligsahan|NNC nang|CCB mag|VBW -|PMS isa|PRI lang|RBI siya|PRS .|PMP
+Dapat|VBS ay|LM may|VBH kapangkat|NNC siya|PRS .|PMP
+Pangkat|NNP ?|PMQ
+Hmm|NNP ...|PMS ang|DTC batang|JJD_CCP babae|NNC na|CCP iyon|PRO ay|LM tulad|JJC lamang|RBI niya|PRS .|PMP
+Maaari|VBS niya|PRS itong|PRO_CCP yayain|VBOF upang|CCB makabuo|VBW ng|CCB pangkat|NNC .|PMP
+Iyon|PRO nga|RBI lamang|RBI ,|PMC ang|DTC batang|JJD_CCP babae|NNC ay|LM kasali|CCB na|RBI sa|CCT isang|PRI_CCP pangkat|NNC .|PMP
+Si|DTP Selina|NNP ay|LM pumunta|VBAF sa|CCT plasa|NNC .|PMP
+Wow|NNP .|PMP
+Siguradong|RBT_CCP may|VBH pangkat|NNC doon|PRL na|CCP para|CCT kay|DTP Selina|NNP .|PMP
+Maaari|VBS kaya|CCR iyong|PRSP_CCP pangkat|NNC na|CCP may|VBH mga|DTCP kulay|NNC rosas|NNC na|CCP tali|NNC sa|CCT braso|NNC ?|PMQ "|PMS
+Hindi|RBF ,|PMC hindi|RBF ka|PRS maaaring|RBM sumali|VBAF sa|CCT amin|PRSP .|PMP
+Kami|PRP ay|LM pangkat|NNC ng|CCB mga|DTCP lalaki|NNC lamang|RBI ,|PMC "|PMS sinabi|VBTS nila|PRP .|PMP
+Nais|VBS ni|DTP Selina|NNP na|CCP sumali|VBAF sa|CCT pangkat|NNC na|CCP ito|PRO ngunit|CCT ang|DTC pangkat|NNC ay|LM kumpleto|JJD na|RBI .|PMP
+Aling|PRQ_CCP pangkat|NNC ang|DTC kailangan|VBS pa|RBI ng|CCB isang|PRI_CCP miyembro|NNC ?|PMQ "|PMS
+Halika|NNP ,|PMC bumuo|VBAF tayo|PRP ng|CCB sarili|NNC nating|PRP_CCP pangkat|NNC !|PMS "|PMS "|PMS
+Sige|NNP ,|PMC sali|RBW ako|PRS !|PMQ "|PMS "|PMS
+Ako|PRS rin|RBI !|PMS "|PMS
+Wow|NNP !|PMS
+Ngayon|RBW ay|LM may|VBH pangkat|NNC na|CCP si|DTP Selina|NNP .|PMP
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC proyektong|NNC_CCP ito|PRO sa|CCT paglikha|NNC ng|CCB aklat|NNC ay|LM nagtatampok|VBTR ng|CCB mga|DTCP natatanging|JJD_CCP kababaihan|NNC bilang|CCT pangunahing|JJD_CCP tauhan|NNC sa|CCT kuwento|NNC at|CCA kinabibilangan|VBTR ng|CCB mga|DTCP babaeng|JJD_CCP manunulat|NNC ,|PMC illustrador|NNC ,|PMC tagapatnugot|NNC ,|PMC at|CCA pagguhit|NNC .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM ginawa|VBTS sa|CCT pamamagitan|NNC ng|CCB mga|DTCP pagsasanay|NNC sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP na|CCP suportado|JJD ng|CCB Estee|NNP Lauder|NNP Companies|NNP .|PMP
+Ang|DTC pagsasanay|NNC at|CCA iba|PRI pang|RBI_CCP propesyunal|JJD na|CCP pagsulong|NNC tulad|JJC ng|CCB pagguhit|NNC at|CCA pag|CCR -|PMS akda|NNC ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP
+Robrigado|NNP

@@ -1,0 +1,17 @@
+Ang|DTC baso|NNC ay|LM kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC bote|NNC ay|LM kaya|CCR ring|RBI_CCP gumulong|VBAF .|PMP
+Ang|DTC tinidor|NNC ay|LM hindi|RBF kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC bola|NNC ng|CCB putbol|NNC ay|LM kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC bola|NNC ng|CCB takraw|NNC ay|LM kaya|CCR ring|RBI_CCP gumulong|VBAF .|PMP
+Ang|DTC raketa|NNC ay|LM di|RBF kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC bunga|NNC ng|CCB longan|NNC ay|LM kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC bunga|NNC ng|CCB atis|NNC ay|LM kaya|CCR ring|RBI_CCP gumulong|VBAF .|PMP
+Ang|DTC saging|NNC ay|LM hindi|RBF kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC tubo|NNC ay|LM kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC timba|FW ay|LM kaya|CCR ring|RBI_CCP gumulong|VBAF .|PMP
+Ang|DTC walis|NNC ay|LM hindi|RBF kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC kamatis|NNC ay|LM kayang|RBD_CCP gumulong|VBAF .|PMP
+Ang|DTC singkamas|NNC ay|LM kaya|CCR ring|RBI_CCP gumulong|VBAF .|PMP
+Ang|DTC ugat|NNC ng|CCB luyang|NNC_CCP -|PMS dilaw|JJD ay|LM hindi|RBF kayang|RBD_CCP gumulong|VBAF .|PMP
+Balang|NNP_CCP araw|NNC makakayanan|VBTF din|RBI nating|PRP_CCP gumulong|VBAF .|PMP
+Gusto|VBS rin|RBI naming|PRP_CCP gumulong|VBAF .|PMP .|PMP .|PMP

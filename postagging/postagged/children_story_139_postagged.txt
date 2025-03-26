@@ -1,0 +1,63 @@
+Ang|DTC pitong|JJN_CCP -|PMS taong|NNC_CCP gulang|NNC na|CCP si|DTP '|PMS Dholma|NNP "|PMS ay|LM masayang|JJD_CCP naninirahan|VBTR sa|CCT Himalayan|NNP ,|PMC Nepal|NNP .|PMP
+Kasama|CCB ni|DTP Dholma|NNP ang|DTC kaniyang|PRSP_CCP lola|NNC ,|PMC ama|NNC ,|PMC ina|NNC ,|PMC nakababatang|JJD_CCP kapatid|NNC na|CCP babae|NNC ,|PMC isang|PRI_CCP tuta|NNC ,|PMC manok|NNC ,|PMC at|CCA isang|PRI_CCP baka|NNC .|PMP "|PMS
+Ting|NNP -|PMS Ting|NNP "|PMS Tunog|NNC ng|CCB kampana|NNC mula|RBL sa|CCT kung|RBK saan|RBQ .|PMP
+Cluck|NNP !|PMS
+Cluck|NNP !|PMS
+Woof|NNP !|PMS
+Woof|NNP !|PMS
+Ngayong|RBW_CCP araw|NNC ,|PMC masigla|JJD na|CCP naman|RBI ang|DTC tahanan|NNC nila|PRP Dholma|NNP katulad|JJC dati|JJD .|PMP
+Tumunog|NNP ang|DTC kampana|NNC ,|PMC '|PMS Ting|FW -|PMS a-ling|FW '|PMS Iyon|PRO ang|DTC tunog|NNC ni|DTP Yakko|NNP .|PMP
+Karga|NNC ni|DTP Yakko|NNP ang|DTC mga|DTCP gamit|NNC mula|RBL sa|CCT kalapit|JJD na|CCP nayon|NNC halos|JJD araw|NNC -|PMS araw|NNC .|PMP
+Dinadala|VBTR ng|CCB tatay|NNC ni|DTP Dholma|NNP ang|DTC mga|DTCP gamit|NNC kay|DTP Yakko|NNP bilang|CCT hanapbuhay|NNC .|PMP
+Mahal|NNP na|CCP mahal|JJD ni|DTP Dholma|NNP si|DTP Yakko|NNP .|PMP
+Tuwing|RBW umaga|RBW ay|LM binibigyan|VBTR niya|PRS si|DTP Yakko|NNP ng|CCB masarap|JJD na|CCP gatas|NNC at|CCA tuwing|RBW taglamig|NNC ay|LM binibigyan|VBTR niya|PRS ito|PRO ng|CCB mainit|JJD ng|CCB sumbrero|NNC at|CCA bandana|NNC sa|CCT kaniyang|PRSP_CCP balahibo|NNC .|PMP
+Gusto|VBS ni|DTP Dholma|NNP ang|DTC mga|DTCP bihon|NNC .|PMP
+Ito|PRO ay|LM mahaba|JJD ,|PMC malutong|JJD ,|PMC kulot|JJD at|CCA masaya|JJD .|PMP
+Madalas|RBD kumain|VBAF ng|CCB bihon|NNC si|DTP Dholma|NNP kasama|CCB ang|DTC kaniyang|PRSP_CCP ama|NNC na|CCP dala|JJD ni|DTP Yakko|NNP .|PMP
+Tinatapon|VBOF ni|DTP Dholma|NNP ang|DTC balat|NNC ng|CCB bihon|NNC sa|CCT harap|NNC ng|CCB kanilang|PRSP_CCP bahay|NNC pagkatapos|VBW itong|PRO_CCP ubusin|VBOF .|PMP
+Palaging|RBD_CCP msarap|VBW ang|DTC mga|DTCP bihon|NNC .|PMP "|PMS
+oh|NNCA ,|PMC Pagod|NNC at|CCA gutom|NNC na|CCP ako|PRS .|PMP "|PMS
+Lumapit|VBAF si|DTP Yakko|NNP sa|CCT lupa|NNC at|CCA kumain|VBAF ng|CCB mga|DTCP damo|NNC .|PMP
+Hala|NNP !|PMS
+Ang|DTC mga|DTCP balat|NNC na|CCP tinapon|VBOF ni|DTP Dholma|NNP ay|LM humalo|VBAF sa|CCT damo|NNC !|PMS
+Ang|DTC balat|NNC ng|CCB bihon|NNC na|CCP tinapon|VBOF ni|DTP Dholma|NNP sa|CCT kanilang|PRSP_CCP bukaran|NNC ay|LM paniguradong|NNC_CCP nilipad|VBTS dito|PRL ng|CCB hangin|NNC .|PMP
+Kinain|VBOF ni|DTP Yakko|NNP ang|DTC balat|NNC kasama|CCB ang|DTC damo|NNC .|PMP
+Koff|NNP !|PMS
+Koff|NNP !|PMS
+Coff|NNP !|PMS
+Coff|NNP !|PMS
+Ihip|NNP na|CCP Yakko|NNP habang|RBW patuloy|RBD na|CCP umuubo|VBTR_VBAF .|PMP
+Mukhang|RBM may|VBH malalang|JJD_CCP sakit|NNC si|DTP Yakko|NNP .|PMP
+Nag|NNP -|PMS aalala|NNC si|DTP Dholma|NNP at|CCA tinawag|VBOF ang|DTC kaniyang|PRSP_CCP ama|NNC .|PMP
+Tumingin|VBAF ang|DTC kaniyang|PRSP_CCP ama|NNC kay|DTP Yakko|NNP nang|RBW may|VBH pag|CCR -|PMS aalala|NNC .|PMP
+Gumawa|VBAF ang|DTC kaniyang|PRSP_CCP ama|NNC ng|CCB basurahan|NNC at|CCA sinabing|VBTS ,|PMC "|PMS Mujhang|NNC_CCP may|VBH sakit|NNC si|DTP Yakko|NNP dahil|CCR nakain|VBTS niya|PRS ang|DTC basurang|NNC_CCP tinapon|VBOF mo.|NNCA .|PMP
+Mula|RBW ngayon|RBW ,|PMC itapon|VBTF mo|PRS na|RBI ang|DTC iyong|PRSP_CCP basura|NNC rito|PRL .|PMP "|PMS
+Patuloy|RBD na|CCP umuubo|VBTR si|DTP Yakko|NNP buong|PRI_CCP gabi|RBW .|PMP
+Tinabihan|VBOF ng|CCB kaniyang|PRSP_CCP ama|NNC si|DTP Yakko|NNP .|PMP
+Alalang|NNP -|PMS alala|NNC si|DTP Dholma|NNP kay|DTP Yakko|NNP .|PMP
+Nagdasal|VBTS ni|DTP Dhola|NNP sa|CCT Panginoon|NNP bago|RBW siya|PRS matulog|VBW .|PMP "|PMS
+Parang|CCT awa|NNC niyo|PRP na|CCP Panginoon|NNP ,|PMC sana|VBS '|PMS y|FW gumaling|VBAF na|CCP si|DTP Yakko|NNP .|PMP "|PMS
+Noong|RBW_CCP gabing|RBW_CCP iyon|PRO .|PMP
+Nakita|VBTS ni|DTP Dholma|NNP si|DTP Yeti|NNP sa|CCT kaniyang|PRSP_CCP panaginip|NNC .|PMP "|PMS
+Madalas|RBD na|CCP akong|PRS_CCP magkasakit|VBW ngayon|RBW dahil|CCR sa|CCT mga|DTCP basurang|NNC_CCP nakakalat|VBTR .|PMP "|PMS
+Katulad|JJC na|RBI lamang|RBI nitong|PRO_CCP Himalayaw|NNP .|PMP
+Ang|DTC mga|DTCP baka|NNC ay|LM nagkakasakit|VBTR din|RBI dahil|CCR sa|CCT basura|NNC .|PMP
+Parang|CCT awa|NNC mo|PRS na|CCP huwag|RBF kang|PRS_CCP magtapon|VBW ng|CCB basura|NNC sa|CCT daan|NNC .|PMP "|PMS
+Sabi|VBS ng|CCB Yeti|NNC kay|DTP Dholma|NNP na|CCP nagkakasakit|VBTR sila|PRP dahil|CCR sa|CCT mga|DTCP taong|NNC_CCP nagtatapon|VBTR ng|CCB basurakung|JJD_CCP saan|PRQ -|PMS saan|PRQ .|PMP
+Si|DTP Maya|NNP ,|PMC ang|DTC nakababatang|JJD_CCP kapatid|NNC ni|DTP Dholma|NNP ay|LM gumuguhit|VBTR_VBAF ng|CCB litrato|NNC .|PMP
+Pagkatapos|VBW magguhit|VBW ng|CCB litrato|NNC ay|LM itinatapon|VBTR niya|PRS ito|PRO sa|CCT daan|NNC .|PMP
+Pinagsabihan|VBRF siya|PRS ni|DTP Dholma|NNP ,|PMC "|PMS Huwag|RBF mong|PRS_CCP itapon|VBTF ang|DTC iyong|PRSP_CCP basura|NNC sa|CCT daan|NNC .|PMP
+Dahil|CCR dito|PRL ay|LM nagkakasakit|VBTR si|DTP Yakko|NNP ay|LM ang|DTC kabundukang|NNC_CCP ito|PRO .|PMP "|PMS
+Pinulot|VBOF ni|DTP Dholma|NNP ang|DTC basura|NNC at|CCA tinapon|VBOF ito|PRO sa|CCT basurahang|JJD_CCP gawa|NNC ng|CCB kaniyang|PRSP_CCP ama|NNC kahapon|JJD .|PMP
+Tumakbo|VBAF si|DTP Dholma|NNP kay|DTP Yakko|NNP .|PMP
+Ang|DTC kaniyang|PRSP_CCP lola|NNC at|CCA ama|NNC ay|LM inaalagaan|VBTR ang|DTC may|VBH sakit|NNC na|CCP si|DTP Yakko|NNP .|PMP "|PMS
+Huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC kay|DTP Yakko|NNP at|CCA pumunta|VBAF ka|PRS na|RBI ng|CCB eskuwelahan|NNC kami|PRP na|CCP ang|DTC mag|VBW -|PMS aalaga|NNC kay|DTP Yakko|NNP .|PMP "|PMS
+Sabi|VBS ng|CCB kaniyang|PRSP_CCP lola|NNC kay|DTP Dholma|NNP .|PMP
+Paulit|NNP -|PMS ulit|RBW na|CCP tumitingin|VBTR_VBAF si|DTP Dholma|NNP sa|CCT kanilang|PRSP_CCP tahanan|NNC habang|RBW papunta|VBW ng|CCB eskuwelahan|NNC .|PMP "|PMS
+Ting|NNP -|PMS Ting|NNP "|PMS Tumakbo|VBAF si|DTP Dholma|NNP kay|DTP Yakko|NNP ,|PMC "|PMS Yakko|NNP !|PMS "|PMS
+Tumakbo|VBAF si|DTP Dholma|NNP pauwi|NNC at|CCA nakita|VBTS niya|PRS si|DTP Yakko|NNP na|CCP kumakain|VBTR_VBAF ng|CCB damo|NNC .|PMP
+Magaling|JJD na|CCP siya|PRS ngayon|RBW .|PMP
+Tumakbo|VBAF siya|PRS kay|DTP Yakko|NNP at|CCA niyakap|VBTS ito|PRO .|PMP "|PMS
+Patawad|NNP ,|PMC Yakko|NNP .|PMP
+Hindi|RBF na|CCP ako|PRS magtatapon|VBTF ng|CCB basura|NNC kung|RBK saan|RBQ -|PMS saan|PRQ upang|CCB hindi|RBF ka|PRS na|CCP magkasakit|VBW .|PMP "|PMS "|PMS
+Ting|NNP -|PMS Ting|NNP "|PMS Sa|CCT isang|PRI_CCP maulap|JJD na|CCP umaga|RBW tumutunog|VBTR_VBAF ang|DTC kampana|NNC ni|DTP Yakko|NNP sa|CCT buong|PRI_CCP Himalayas|NNP .|PMP

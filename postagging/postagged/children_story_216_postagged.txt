@@ -1,0 +1,49 @@
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC ang|DTC mga|DTCP ibon|NNC ay|LM nagpulong|VBTS .|PMP
+Katulad|JJC ng|CCB mga|DTCP tao|NNC at|CCA hayop|NNC ay|LM gusto|VBS rin|RBI nila|PRP magkaroon|VBAF ng|CCB Hari|NNP ng|CCB mga|DTCP Ibon|NNC .|PMP
+Sino|PRQ sa|CCT mga|DTCP ibon|NNC ang|DTC maaaring|RBM maging|VBW Hari|NNP ng|CCB mga|DTCP ibon|NNC ?|PMQ "|PMS
+Ang|DTC Agila|NNP ,|PMC siya|PRS ang|DTC pinakamalakas|JJCS_JJD at|CCA pinakahari|JJCS_JJD !|PMS
+sabi|VBS ng|CCB isa|PRI .|PMP "|PMS
+Hindi|RBF pwede|RBT ,|PMC wala|VBN siyang|PRS_CCP korona|NNC at|CCA kapag|CCR tinatawag|VBTR siya|PRS ay|LM tunog|NNC malungkot|JJD ,|PMC "|PMS sabi|VBS ng|CCB isa|PRI .|PMP "|PMS
+Ang|DTC Ostrich|NNP ,|PMC sapagkat|CCR siya|PRS ang|DTC pinakamalaki|JJCS_JJD at|CCA kasing|JJC lakas|NNC ng|CCB leon|NNC kung|CCR umungal|VBAF ,|PMC "|PMS ang|DTC tugon|NNC ng|CCB isa|PRI .|PMP "|PMS
+Hindi|RBF ,|PMC sapagkat|CCR hindi|RBF siya|PRS makalipad|VBW .|PMP
+Ang|DTC hari|NNC ng|CCB mga|DTCP ibon|NNC ay|LM dapat|VBS lumilipad|VBTR_VBAF .|PMP "|PMS "|PMS
+Seguro|NNP ,|PMC Akoang|PRQ_CCP dapat|VBS na|CCP maging|VBW hari|NNC ,|PMC "|PMS sabi|VBS ng|CCB Pabo|NNC real|FW habang|RBW pinapaypay|VBTR ang|DTC kanyang|PRSP_CCP buntot|NNC .|PMP "|PMS
+Ako|PRS ay|LM maganda|JJD .|PMP "|PMS "|PMS
+Ikaw|NNP ay|LM masyadong|JJCS_CCP mapagmalaki|VBW ,|PMC "|PMS sabi|VBS ng|CCB Kuwago|NNP .|PMP "|PMS
+Ako|PRS ay|LM mayroong|VBH_CCP dalawang|JJN_CCP malaking|JJD_CCP mata|NNC sa|CCT lahat|PRI ng|CCB mga|DTCP ibon|NNC .|PMP
+Ako|PRS ang|DTC dapat|VBS na|CCP maginghari|VBW .|PMP "|PMS "|PMS
+Hindi|RBF ,|PMC hindi|RBF ikaw|PRS Kuwago|NNP ,|PMC "|PMS sigaw|NNC nila|PRP .|PMP "|PMS
+Natutulog|VBTR ka|PRS kapag|CCR ang|DTC araw|NNC ay|LM sumisikat|VBTR_VBAF na|CCP .|PMP "|PMS
+At|CCA hindi|RBF sila|PRP natatapos|VBTR sa|CCT kanilang|PRSP_CCP usapan|NNC .|PMP
+May|VBH isang|PRI_CCP ibon|NNC na|CCP nagbigay|VBTS ng|CCB kanyang|PRSP_CCP ideya|NNC .|PMP "|PMS
+Kung|RBK sino|RBQ ang|DTC makakalipad|VBTF ng|CCB pinakamataas|JJCS_JJD ang|DTC siyang|PRS_CCP magiging|VBTF hari|NNC ,|PMC "|PMS sabi|VBS niya|PRS .|PMP "|PMS
+Tama|RBT ,|PMC tama|RBT ,|PMC "|PMS ang|DTC sabi|VBS nila|PRP ,|PMC at|CCA silang|PRP_CCP lahatay|NNC nagsipaglipad|VBTR pataas|NNC nang|RBW pataas|NNC hanggang|RBW himpapawid|NNC .|PMP
+Ang|DTC Gansa|NNP ay|LM lumipad|VBAF deretso|JJD sa|CCT loob|NNC ng|CCB isang|PRI_CCP araw|NNC ,|PMC sa|CCT mataas|JJD na|CCP bundok|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Ang|DTC Agila|NNP ay|LM lumipad|VBAF sa|CCT loob|NNC ng|CCB araw|NNC sa|CCT ibabaw|NNC ng|CCB ng|CCB dagat|NNC sa|CCT itaas|JJD ng|CCB mga|DTCP bundok|NNC .|PMP
+Ngunit|CCT angBuwitre|FW ay|LM pumailanglang|VBAF ng|CCB walang|VBN_CCP tigilsa|JJD loob|NNC ng|CCB tatlongng|NNC_CCP buong|PRI_CCP tatlong|JJN_CCP araw|NNC deretso|JJD sa|CCT araw|NNC .|PMP
+Habang|RBW nasa|RBL daan|NNC ,|PMC narinig|VBTS ng|CCB mga|DTCP ibon|NNC ang|DTC sigaw|NNC ng|CCB Buwitre|NNP ,|PMC "|PMS Ako|PRS ang|DTC pinakamataas|JJCS_JJD ,|PMC Ako|PRS ang|DTC hari|NNC !|PMS "|PMS
+Subalit|CCT sa|CCT isang|PRI_CCP tabi|NNC narinig|VBTS ng|CCB Buwitre|NNP ang|DTC isang|PRI_CCP maliit|JJD na|CCP boses|NNC ,|PMC "|PMS Tink|FW ,|PMC tink|FW ,|PMC tink|FW !|PMS
+Ako|PRS ang|DTC pinakamataas|JJCS_JJD ,|PMC Ako|PRS ang|DTC hari|NNC .|PMP "|PMS
+ito|PRO ang|DTC sabi|VBS ni|DTP Ncede|NNP „|PMS ang|DTC Neddicky|NNP ,|PMC ang|DTC pinakamaliit|JJCS_JJD sa|CCT lahat|PRI ng|CCB mga|DTCP ibon|NNC .|PMP
+At|CCA siya|PRS ay|LM kumapit|VBAF sa|CCT pakpak|NNC ni|DTP Buwitre|NNP at|CCA sila|PRP ay|LM pumailanglang|VBAF sa|CCT himpapawid|NNC "|PMS Hindi|RBF mo|PRS ako|PRS matatalo|VBTF ulit|RBW ,|PMC "|PMS sabi|VBS ni|DTP Buwitre|NNP ,|PMC at|CCA pumailanglang|VBAF deretso|JJD paitaas|RBD .|PMP
+Siya|PRS ay|LM lumipad|VBAF nang|RBW lumipad|VBAF hanggang|RBW sa|CCT hindi|RBF na|RBI siya|PRS makalipad|VBW .|PMP "|PMS
+Ako|PRS ang|DTC pinakamataas|JJCS_JJD higit|JJCC sa|CCT ibang|PRI_CCP ibon|NNC .|PMP
+Ako|PRS ang|DTC inyong|PRSP_CCP hari|NNC !|PMS
+sabi|VBS niya|PRS .|PMP
+Ngunit|CCT sa|CCT ilalim|JJD ng|CCB kanyang|PRSP_CCP pakpak|NNC ay|LM lumabas|VBAF ang|DTC maliit|JJD na|CCP ibon|NNC .|PMP "|PMS
+Tink|NNP ,|PMC tink|FW !|PMS
+Tink|NNP ,|PMC tink|FW !|PMS
+Ako|PRS ito|PRO ,|PMC ang|DTC pinakamaliit|JJCS_JJD na|CCP ibon|NNC !|PMS
+Ako|PRS ang|DTC iyong|PRSP_CCP hari|NNC .|PMP
+,|PMC Habang|RBW si|DTP Buwitre|NNP ay|LM pagod|JJD na|CCP pagod|NNC at|CCA hindi|RBF na|RBI makalipad|VBW .|PMP
+Kaya|CCR siya|PRS bumababa|VBTR_VBAF na|CCP kasama|CCB ang|DTC pinakamaliit|JJCS_JJD na|CCP ibon|NNC sa|CCT ilalim|JJD ng|CCB kanyang|PRSP_CCP pakpak|NNC .|PMP
+Ang|DTC ibang|PRI_CCP ibon|NNC ay|LM galit|JJD na|CCP galit|NNC kay|DTP Ncede|NNP .|PMP
+Inantay|VBTS nilang|PRP_CCP lahat|PRI at|CCA handa|JJD na|CCP silang|PRP_CCP bunutin|VBOF ang|DTC lahat|PRI ng|CCB kanyang|PRSP_CCP balahibo|NNC .|PMP
+Ngunit|CCT nakitan|VBTS ng|CCB maliit|JJD na|CCP ibon|NNC na|CCP galit|JJD na|CCP galit|NNC sila|PRP ,|PMC at|CCA siya|PRS ay|LM lumipad|VBAF sa|CCT butas|NNC ng|CCB ahas|NNC na|CCP walang|VBN_CCP laman|NNC .|PMP "|PMS
+Gamit|VBS ang|DTC iyong|PRSP_CCP malaking|JJD_CCP mata|NNC ,|PMC bantayan|VBOF mo|PRS ang|DTC butas|NNC at|CCA hulihin|VBOF siya|PRS kapag|CCR siya|PRS ay|LM lumabas|VBAF ,|PMC "|PMS sabi|VBS nila|PRP kay|DTP Kuwago|NNP .|PMP
+Kaya|CCR ang|DTC Kuwago|NNP ay|LM umupo|VBAF sa|CCT harap|NNC ng|CCB butas|NNC .|PMP
+Ngunit|CCT ang|DTC araw|NNC ay|LM sumikat|VBAF at|CCA ang|DTC Kuwago|NNP ay|LM nakatulog|VBTS .|PMP
+Ang|DTC maliit|JJD na|CCP ibon|NNC ay|LM sumilip|VBAF at|CCA nakita|VBTS niyang|PRS_CCP natutulog|VBTR si|DTP Kuwago|NNP at|CCA siya|PRS ay|LM umalis|VBAF ng|CCB tuluyan|RBD .|PMP
+Ang|DTC kuwago|NNC ay|LM nahiya|VBTS sa|CCT kanyang|PRSP_CCP ginawa|VBOF na|CCP hinayaan|VBTS niyang|PRS_CCP makatakas|VBW ang|DTC maliit|JJD na|CCP ibon|NNC .|PMP
+Ngayon|RBW siya|PRS ay|LM nanghuhuli|VBTS sa|CCT gabi|RBW .|PMP
+Sa|CCT Umaga|RBW naman|RBI siya|PRS ay|LM natutulog|VBTR malayo|JJD sa|CCT paningin|NNC ng|CCB mga|DTCP ibon|NNC .|PMP

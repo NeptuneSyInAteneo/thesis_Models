@@ -1,0 +1,16 @@
+Ito|PRO si|DTP Lorry|NNP .|PMP
+Ito|PRO si|DTP Scooter|NNP .|PMP
+Sina|DTPP Lorry|NNP at|CCA Scooter|NNP ay|LM magkaibigan|NNC .|PMP
+Nagmamadali|VBTS silang|PRP_CCP makita|VBW ang|DTC kaibigan|NNC nilang|PRP_CCP may|VBH sakit|NNC na|CCP si|DTP Tractor|NNP .|PMP
+Napakabilis|VBTS ni|DTP Scooter|NNP .|PMP
+Naku|NNP !|PMS
+Mag|NNP -|PMS ingat|NNC ka|PRS !|PMQ
+Kumusta|NNP mga|DTCP kaibigan|NNC .|PMP
+Ako|PRS ay|LM may|VBH sakit|NNC !|PMS
+Kumuha|VBAF tayo|PRP ng|CCB gamot|NNC .|PMP
+Ikaw|NNP ay|LM gagaling|VBTF muli|RBW !|PMQ
+Si|DTP Tractor|NNP ay|LM magaling|JJD na|RBI !|PMQ
+Lahat|PRI ng|CCB kaibigan|NNC ni|DTP Tractor|NNP ay|LM nagtipon|VBTS -|PMS tipon|NNC upang|CCB magdiwang|VBW .|PMP
+Napakasayang|NNP_CCP pagtitipon|NNC !|PMS
+Salamat|RBS !|PMS
+Si|DTP Tractor|NNP ay|LM magaling|JJD na|RBI .|PMP

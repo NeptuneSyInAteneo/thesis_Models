@@ -1,0 +1,48 @@
+Ssshhhhh|NNP ang|DTC sabi|VBS ng|CCB parating|RBW na|CCP hangin|NNC .|PMP
+May|VBH isang|PRI_CCP pirasong|NNC_CCP papel|NNC ang|DTC lumutang|VBAF .|PMP
+Pinulot|VBOF ni|DTP Manju|NNP ang|DTC papel|NNC at|CCA sinulatan|VBOF niya|PRS ito|PRO ng|CCB araw|NNC .|PMP "|PMS
+Oh|NNP ,|PMC ito|PRO ay|LM mukhang|RBM kakila|JJD -|PMS kilabot|NNC !|PMS
+sabi|VBS niya|PRS .|PMP
+Nilukot|VBTS ni|DTP Manju|NNP ang|DTC papel|NNC at|CCA inihagis|VBTS ito|PRO sa|CCT labas|JJD ng|CCB bintana|NNC .|PMP
+Ang|DTC papel|NNC ay|LM nahulog|VBTS sa|CCT ulo|NNC ni|DTP Wasim|NNP .|PMP "|PMS
+Ito|PRO ay|LM bola|NNC !|PMS "|PMS
+masayang|JJD_CCP saad|NNC niya|PRS .|PMP
+Itinapon|VBOF ni|DTP Wasim|NNP ang|DTC gusot|NNC na|CCP bolang|NNC_CCP papel|NNC sa|CCT hangin|NNC at|CCA tiningnan|VBOF niya|PRS ito|PRO pababa|RBD .|PMP
+Itinapon|VBTS niya|PRS ito|PRO pataas|JJD ,|PMC at|CCA biglang|RBD_CCP bumulosok|VBTR_VBAF pababa|RBD .|PMP
+WasiItinutok|NNP ni|DTP Wasim|NNP ang|DTC bolang|NNC_CCP papel|NNC sa|CCT kanyang|PRSP_CCP kapatid|NNC na|CCP si|DTP Syeda|NNP .|PMP "|PMS
+Huli|RBW ka|PRS !|PMS "|PMS
+sigaw|NNC niya|PRS ng|CCB may|VBH galak|NNC .|PMP
+Pinulot|VBOF ni|DTP Syeda|NNP ang|DTC nagusot|VBTS na|CCP papel|NNC .|PMP
+Tinusok|NNP nya|PRS ito|PRO ng|CCB lapis|NNC at|CCA sinabi|VBTS "|PMS Gusto|VBS mo|PRS ba|RBI ng|CCB lollipop|FW ?|PMQ
+Kapag|CCR ako|PRS ay|LM malaki|RBD na|CCP magtitinda|VBW ako|PRS ng|CCB maraming|PRI_CCP uri|NNC ng|CCB lollipop|FW sa|CCT aking|PRSP_CCP Sweet|NNP Shop|NNP .|PMP "|PMS
+Maya|NNP -|PMS maya|RBW lang|RBI ,|PMC pumasok|VBAF si|DTP Bittu|NNP .|PMP "|PMS
+Pwede|RBT bang|RBM makuha|VBW ko|PRS ang|DTC lollipop|NNC na|CCP ito|PRO ?|PMQ "|PMS
+tanong|NNC niya|PRS .|PMP
+Nagkunwari|VBTR siyang|PRS_CCP kumain|VBAF ng|CCB matamis|JJD at|CCA saka|CCA ipinulupot|VBTS ang|DTC gusot|NNC na|CCP papel|NNC .|PMP "|PMS
+Testing|NNP ,|PMC testing|FW ,|PMC testing|FW mikropono|NNC ,|PMC isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB !|PMS "|PMS
+saad|NNC niya|PRS .|PMP "|PMS
+Ngayon|RBW kakantahan|VBTF kita|NNC ng|CCB isang|PRI_CCP kanta|NNC "|PMS Tinapos|VBOF ni|DTP Bittu|NNP ang|DTC pagkanta|NNC ng|CCB isang|PRI_CCP kanta|NNC sa|CCT pelikula|NNC nang|RBW napakalakas|JJCS_JJD .|PMP
+Kinuha|VBOF ni|DTP Manju|NNP ang|DTC gusot|NNC na|CCP papel|NNC mula|RBL sa|CCT mga|DTCP kamay|NNC ni|DTP Bittu|NNP .|PMP
+Pinakinis|VBTS niya|PRS ang|DTC papel|NNC at|CCA gumawa|VBAF ng|CCB bangka|NNC .|PMP "|PMS
+Si|DTP Bittu|NNP ,|PMC ang|DTC sikat|JJD na|CCP mang|RBI_CCP -|PMS aawit|VBTF ay|LM maglalayag|VBAF sa|CCT buong|PRI_CCP mundo|NNC sa|CCT malaking|JJD_CCP barko|NNC na|CCP ito|PRO !|PMQ "|PMS "|PMS
+Pwede|RBT din|RBI ba|RBI ako|PRS sumama|VBAF sa|CCT iyo|PRSP ?|PMQ "|PMS
+tanong|NNC ni|DTP Wasim|NNP .|PMP
+Kinuha|VBOF ni|DTP Wasim|NNP ang|DTC barko|NNC .|PMP
+Maingat|RBD niyang|PRS_CCP hinimas|VBOF ang|DTC papel|NNC .|PMP
+Pagkatapos|VBW ay|LM itinupi|VBTS niya|PRS itong|PRO_CCP katulad|JJC ng|CCB panyo|NNC .|PMP
+Ginupitan|VBOF niya|PRS ito|PRO sa|CCT bawat|PRI gilid|JJD .|PMP
+At|CCA binuksan|VBOF ni|DTP Wasim|NNP ang|DTC papel|NNC .|PMP "|PMS
+Tingnan|VBOF ninyo|PRP ito|PRO ,|PMC lahat|PRI kayo|PRP !|PMQ
+Ngumiti|VBAF kayo|PRP !|PMS "|PMS
+saad|JJD niya|PRS habang|RBW hawak|JJD ang|DTC papel|NNC na|CCP may|VBH butas|NNC sa|CCT gitna|JJD .|PMP
+Sina|DTPP Syeda|NNP ,|PMC Bittu|NNP at|CCA Manju|NNP ay|LM tumawa|VBAF .|PMP
+Sila|PRP ay|LM ngumisi|VBTS .|PMP
+Maya|NNP -|PMS maya|NNC ay|LM sabay|RBD silang|PRP_CCP naghagikhikan|VBTR .|PMP
+Kinuha|VBOF ni|DTP Wasim|NNP ang|DTC gusot|NNC na|CCP papel|NNC na|CCP kamera|NNC .|PMP
+Noon|RBW lang|RBI ,|PMC dumating|VBAF si|DTP Anil|NNP kasama|CCB ang|DTC kanyang|PRSP_CCP asno|NNC .|PMP
+Kinuha|VBOF ni|DTP Manju|NNP ang|DTC kanyang|PRSP_CCP lapis|NNC at|CCA gumuhit|VBAF ng|CCB linya|NNC sa|CCT paligid|NNC ng|CCB butas|NNC ng|CCB papel|NNC .|PMP "|PMS
+Ito|PRO ang|DTC pinakamagandang|JJCS_JJD_CCP araw|NNC na|CCP nakita|VBTS ko|PRS !|PMS "|PMS
+saad|NNC ni|DTP Manju|NNP .|PMP
+Ang|DTC asno|NNC ni|DTP ANil|NNP ay|LM kinuha|VBOF ang|DTC papel|NNC na|CCP araw|NNC mula|RBW sa|CCT kamay|NNC ni|DTP Manju|NNP at|CCA mabilisan|RBD itong|PRO_CCP nilamon|VBTS .|PMP
+Pagkatapos|VBW ang|DTC asno|NNC ay|LM nagpakita|VBTS ng|CCB kakaibang|JJD_CCP mukha|NNC .|PMP
+Ngayon|RBW sino|PRQ ang|DTC makapagsasabi|VBW na|CCP kinain|VBOF niya|PRS ito|PRO ng|CCB mabilisan|RBD na|CCP hindi|RBF nginunguya|VBTR ,|PMC o|CCT kaya|CCR kinain|VBOF ito|PRO ng|CCB araw|NNC ?|PMQ

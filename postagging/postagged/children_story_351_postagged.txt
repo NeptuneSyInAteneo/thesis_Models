@@ -1,0 +1,30 @@
+Sayaw|NNP ,|PMC Mihlali|NNP !|PMS
+Nalalapit|VBTR na|CCP ang|DTC malaking|JJD_CCP konsyerto|NNC sa|CCT paaralan|NNC .|PMP
+Masayang|RBD_CCP nagsasanay|VBTR ang|DTC mga|DTCP bata|NNC .|PMP
+Si|DTP Mihlali|NNP naman|RBI ...|PMS Nag|NNP -|PMS aalala|FW siyang|PRS_CCP makakalimutan|VBW niya|PRS ang|DTC kanyang|PRSP_CCP mga|DTCP hakbang|NNC habang|RBW sumasayaw|VBTR .|PMP "|PMS
+Tutulungan|NNP kitang|RBD_CCP magsanay|VBAF sa|CCT bahay|NNC .|PMP "|PMS
+sabi|VBS ni|DTP NanaySa|NNP bahay|NNC ,|PMC nagsimulang|RBD_CCP magsanay|VBW si|DTP Mihlali|NNP at|CCA siya|PRS at|CCA nahulog|VBTS .|PMP "|PMS
+Sana|VBS hindi|RBF na|CCP mangyari|VBW ang|DTC konsyerto|NNC na|CCP ito|PRO !|PMS "|PMS
+iyak|NNC ni|DTP Mihlali|NNP .|PMP "|PMS
+Walang|VBN_CCP pag|CCR -|PMS asa|FW !|PMS "|PMS
+sabi|VBS ni|DTP Nanay|NNP .|PMP "|PMS
+Papalapit|JJD na|CCP ang|DTC araw|NNC ng|CCB konsiyerto|NNC …|PMS "|PMS "|PMS Pinadalahan|VBOF ka|PRS ni|DTP Lola|NNP ng|CCB regalo|NNC .|PMP "|PMS
+Masyadong|JJCS_CCP nag|VBTS -|PMS aalala|NNC si|DTP Mihlali|NNP sa|CCT konsyerto|NNC at|CCA nakaligtaan|VBTS nya|PRS na|CCP buksan|VBOF ang|DTC regalo|NNC .|PMP
+Ngunit|CCT marahil|RBM ay|LM dapat|VBS niyang|PRS_CCP tingnan|VBOF ang|DTC loob|NNC .|PMP
+Binuksan|VBTS ni|DTP Mihlali|NNP ang|DTC kanyang|PRSP_CCP regalo|NNC .|PMP "|PMS
+Ang|DTC ganda|NNC ng|CCB sapatos|NNC na|CCP bigay|VBS ni|DTP Lola|NNP !|PMS "|PMS
+Si|DTP Lola|NNP ang|DTC pinakamagaling|JJCS_JJD na|CCP mananayaw|NNC .|PMP
+Nagsanay|VBTS ng|CCB nagsanay|VBTS sa|CCT pagsasayaw|NNC si|DTP Mihlali|NNP sa|CCT paaralan|NNC ...|PMS At|CCA sa|CCT bahay|NNC !|PMS
+At|CCA sumasayaw|VBTR siya|PRS sa|CCT kanyang|PRSP_CCP panaginip|NNC .|PMP
+Kailagan|NNP ng|CCB magpahinga|VBW ni|DTP Mihlali|NNP .|PMP
+Ang|DTC konsyerto|NNC ay|LM magaganap|VBTF na|CCP bukas|JJD .|PMP
+Araw|NNP ng|CCB konsiyerto|NNC .|PMP
+Tama|RBT lang|RBI ang|DTC sayaw|NNC ni|DTP Mihlali|NNP .|PMP
+Napakasaya|NNP !|PMS
+At|CCA sa|CCT kanyang|PRSP_CCP sorpresa|NNC ,|PMC dumating|VBAF pa|RBI si|DTP lola|NNC para|CCT manood|VBW ng|CCB sayaw|NNC ni|DTP Mihlali|NNP .|PMP "|PMS
+Ako|PRS ay|LM sumayaw|VBAF tulad|JJC mo|PRS ,|PMC Lola|NNC .|PMP "|PMS "|PMS
+Nakakabilib|VBTR ka|PRS !|PMS "|PMS
+bulalas|VBTS ni|DTP Lola|NNP .|PMP "|PMS
+Ikaw|NNP ang|DTC pinakamahusay|JJCS_JJD na|CCP mananayaw|NNC na|CCP nakita|VBTS ko|PRS .|PMP "|PMS .|PMP .|PMP
+We|FW thank|FW the|FW generosity|FW and|FW creativity|FW of|FW the|FW Book|NNP Dash|NNP staff|FW and|FW volunteers|FW who|FW created|FW and|FW published|FW this|FW storybook|FW .|PMP
+And|NNP to|FW the|FW team|FW at|CCA Dunlop|FW for|FW their|FW audio|FW recording|FW of|FW the|FW book|FW .|PMP

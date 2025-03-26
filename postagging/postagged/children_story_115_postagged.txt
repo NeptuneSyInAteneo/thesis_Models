@@ -1,0 +1,28 @@
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM katha|NNC ng|CCB Srijanalaya|NNP sa|CCT tulong|NNC ng|CCB programang|NNC_CCP Books|NNP for|FW Asia|NNP ng|CCB The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC Srijanalaya|NNP ay|LM isang|PRI_CCP NGO|NNPA na|CCP nakabase|VBTS sa|CCT Nepal|NNP na|CCP naglalayong|VBTR_CCP magtaguyod|VBAF ng|CCB babasahing|NNC_CCP ligtas|JJD at|CCA angkop|JJD sa|CCT mambabasa|NNC sa|CCT pamamagitan|NNC ng|CCB sining|NNC .|PMP
+Para|CCT sa|CCT karagdagang|JJD_CCP impormasyon|NNC ,|PMC maaaring|RBM bisitahin|VBOF ang|DTC srijanalaya.org|FW .|PMP
+Pamagat|NNP :|PMS khacha|FW Hencha|NNP '|PMS (|PMS )|PMS ,|PMC orihinal|JJD na|CCP inawit|VBOF ni|DTP Chulichiya|NNP Chan|NNP Chan|NNP (|PMS )|PMS Manunulat|NNC :|PMS Durga|NNP lal|FW Shrestha|NNP Dibuhista|NNP :|PMS Sambhaw|NNP Maharjan|NNP Tagapamatnugot|NNP :|PMS Niranjan|NNP Kunwar|FW ,|PMC Sharareh|FW Bajracharya|NNP at|CCA Muna|NNP GurungIsang|RBL_CCP munting|JJD_CCP sisiwIsang|NNC_CCP munting|JJD_CCP bibeIsang|NNC_CCP araw|NNC magkasama|VBW silang|PRP_CCP namasyal|JJD .|PMP
+Ang|DTC munting|JJD_CCP sisiw|NNC ay|LM kumakaripas|VBTR_VBAF .|PMP
+Ang|DTC munting|JJD_CCP bibe|NNC ay|LM nagpaampang|VBTS -|PMS ampang|NNC_CCP .|PMP
+Nakabingwit|VBTR ng|CCB bulate|NNC ang|DTC sisiw|NNC habang|RBW nakatingin|RBD lamang|RBI ang|DTC munting|JJD_CCP bibe|NNC .|PMP
+Ang|DTC kawawang|NNC_CCP munting|JJD_CCP bibe|NNC ay|LM napatingin|VBTS at|CCA kumuwak|VBAF .|PMP
+Agad|RBW lumukso|VBAF ang|DTC munting|JJD_CCP sisiw|NNC at|CCA ibinahagi|VBTS ang|DTC kinakaing|VBOF_CCP bulate|NNC .|PMP
+Masayang|RBD_CCP kinain|VBOF ito|PRO ng|CCB munting|JJD_CCP bibe|NNC at|CCA napadighay|VBTS siya|PRS sa|CCT sarap|NNC !|PMS
+Isang|PRI_CCP maliit|JJD na|CCP sapa|NNC ang|DTC kanilang|PRSP_CCP nakita|VBTS .|PMP
+Masiglang|RBD_CCP tumalon|VBAF ang|DTC bibe|NNC at|CCA dahan|NNC -|PMS dahang|RBD_CCP sumisid|VBAF .|PMP
+Agad|RBW ding|RBI_CCP tumalon|VBAF ang|DTC munting|JJD_CCP sisiw|NNC .|PMP
+Ngunit|CCT ang|DTC munting|JJD_CCP sisiw|NNC ay|LM hindi|RBF marunong|JJD lumangoy|VBAF .|PMP
+Naku|NNP !|PMS
+Wala|VBN pala|NNC kasi|CCR siyang|PRS_CCP malapad|JJD na|CCP mga|DTCP paa|NNC katulad|JJC sa|CCT kaibigan|NNC niyang|PRS_CCP bibe|NNC .|PMP
+Sikad|NNP dito|PRL ,|PMC hampas|FW doon|PRL .|PMP
+Patuloy|RBD na|CCP sinusubukan|VBTR ng|CCB munting|JJD_CCP sisiwHalos|NNC kapusin|VBOF sa|CCT hininga|NNC ang|DTC umiiyak|VBTR_VBAF na|CCP munting|JJD_CCP sisiw|NNC habang|RBW pumapagaspas|VBTR_VBAF .|PMP
+Kung|CCR kaya|CCR '|PMS t|NNCA dali|JJD -|PMS daling|FW inalalayan|VBTR ng|CCB munting|JJD_CCP bibe|NNC ang|DTC pakpak|NNC ng|CCB kaibigang|NNC_CCP sisiw|NNC .|PMP
+Nagulat|VBTS ang|DTC munting|JJD_CCP sisiw|NNC ,|PMC habang|RBW patuloy|RBD sa|CCT paglangoy|VBW ang|DTC munting|JJD_CCP bibe|NNC .|PMP
+Sa|CCT wakas|RBW ,|PMC narating|VBTS nila|PRP nang|RBW ligtas|JJD ang|DTC pampang|NNC .|PMP
+Nang|RBW magkatinginan|VBW ,|PMC sila|PRP ay|LM sabay|RBD na|CCP nagkatawanan|VBTS .|PMP
+Ang|DTC May|NNP -|PMS Akda|NNP Isang|PRI_CCP tanyag|JJD na|CCP makata|NNC ng|CCB Nepal|NNP :|PMS Bhasa|NNP at|CCA Nepali|VBTS si|DTP Durga|NNP Lal|NNP Shrestha|NNP .|PMP
+Bilang|CCT guro|NNC ng|CCB Nepal|NNP :|PMS Bhasa|NNP sa|CCT Kanya|NNP Mandir|NNP sa|CCT Sekundarya|NNP noong|RBW_CCP shanggang|NNC_CCP s|NNCA ,|PMC nakalikha|VBTS siya|PRS ng|CCB mga|DTCP awiting|NNC_CCP nagbibigay|VBTR ng|CCB inspirasyon|NNC sa|CCT mga|DTCP bata|NNC na|CCP ipagmalaki|VBOB at|CCA ipahayag|VBOF ang|DTC kanilang|PRSP_CCP sarili|NNC sa|CCT pamamagitan|NNC ng|CCB kanilang|PRSP_CCP kinagisnang|JJD_CCP wika|NNC .|PMP
+Ang|DTC kanyang|PRSP_CCP mga|DTCP awitin|NNC ay|LM naging|VBTS popular|JJD sa|CCT buong|PRI_CCP Kathmandu|NNP Valley|NNP at|CCA ang|DTC kanyang|PRSP_CCP mga|DTCP koleksiyon|NNC ng|CCB mga|DTCP pambatang|JJD_CCP awitin|NNC ay|LM patuloy|RBD na|CCP naililimbag|VBTS sa|CCT kasalukuyangpanahon|NNC .|PMP
+Ang|DTC Dibuhista|NNP Nagtapos|VBTS ng|CCB BFA|NNPA sa|CCT Graphic|NNP Design|NNP si|DTP Sambhaw|NNP Mahargan|NNP sa|CCT Sentro|NNC ng|CCB Sining|NNP at|CCA Pagdidisenyo|NNP sa|CCT Kathmandu|NNP University|NNP .|PMP
+Bagamat|CCT ang|DTC kanyang|PRSP_CCP mga|DTCP likha|NNC ay|LM umiikot|VBTR_VBAF sa|CCT Graphic|NNP Design|NNP and|FW Sequential|NNP Manga|NNP Art|NNP ,|PMC paminsan|RBW minsan|RBW rin|RBI niyang|PRS_CCP pinapaunlad|VBTR ang|DTC kanyang|PRSP_CCP gawain|NNC sa|CCT pamamagitan|NNC ng|CCB mga|DTCP pansariling|JJD_CCP hamon|NNC sa|CCT makabagong|JJD_CCP pamamaraan|NNC at|CCA anyong|NNC_CCP sining|NNC .|PMP
+AngKhacha|NNP Hencha|NNP '|PMS ay|LM isang|PRI_CCP naiibang|VBTR_CCP akda|NNC sa|CCT mga|DTCP nakasanayan|VBTS niyang|PRS_CCP obra|NNC at|CCA ito|PRO ay|LM nagpapakita|VBTR ng|CCB mas|JJCC kakaunting|JJD_CCP istilo|NNC sa|CCT pagguhit|NNC upang|CCB mabigyan|VBW ng|CCB karampatang|JJD_CCP interes|NNC sa|CCT paningin|NNC ang|DTC kwento|NNC .|PMP

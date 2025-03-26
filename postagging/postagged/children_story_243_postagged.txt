@@ -1,0 +1,6 @@
+Tiyo|NNP SomSi|NNP Tiyo|NNP Som|NNP ay|LM nag|VBTS -|PMS aayos|NNC ng|CCB anim|JJN na|CCP aparador|NNC .|PMP
+Limang|JJN_CCP upuan|NNC .|PMP
+Apat|JJN na|CCP lagari|NNC .|PMP
+Tatlong|JJN_CCP martilyo|NNC .|PMP
+Dalawang|JJN_CCP palakol|NNC .|PMP
+Isang|PRI_CCP orasan.orasan|NNC palakol|NNC martilyo|NNC lagari|NNC upuan|NNC aparador|NNC

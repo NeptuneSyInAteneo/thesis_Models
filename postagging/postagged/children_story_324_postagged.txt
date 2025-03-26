@@ -1,0 +1,43 @@
+Nakatira|VBTS si|DTP Srey|NNP Pov|NNP malapit|JJD sa|CCT isang|PRI_CCP malaking|JJD_CCP pabrika|NNC ng|CCB goma|NNC .|PMP
+Ang|DTC araw|NNC ay|LM tumigil|VBAF sa|CCT pagliwanag|NNC malapit|JJD sa|CCT pabrika|NNC .|PMP
+Pumunta|VBAF si|DTP Srey|NNP Pov|NNP sa|CCT kapitan|NNC ng|CCB nayon|NNC .|PMP "|PMS
+Nais|VBS kong|PRS_CCP gumawa|VBAF ng|CCB lumilipad|VBTR_VBAF na|CCP makina|NNC upang|CCB mabisita|VBW ko|PRS ang|DTC araw|NNC at|CCA alamin|VBOF kung|RBK bakit|RBQ hindi|RBF na|RBI ito|PRO lumiliwanag|VBTR .|PMP "|PMS
+Ngunit|CCT hindi|RBF pinakinggan|VBTS ng|CCB kapitan|NNC si|DTP Srey|NNP Pov|NNP .|PMP "|PMS
+Hindi|RBF mo|PRS kayang|RBD_CCP lumipad|VBAF patungo|RBL sa|CCT araw|NNC .|PMP
+Maliit|JJD ka|PRS pa|RBI !|PMQ
+Umuwi|VBAF ka|PRS na|RBI lang|RBI !|PMS "|PMS
+Pumunta|VBAF si|DTP Srey|NNP Pov|NNP sa|CCT tuktok|NNC ng|CCB bundok|NNC malapit|JJD sa|CCT bayan|NNC at|CCA tiningnan|VBOF ang|DTC madidilim|JJD na|CCP lupain|NNC .|PMP "|PMS
+Araw|NNP !|PMS "|PMS
+malakas|JJD niyang|PRS_CCP sigaw|NNC .|PMP "|PMS
+Magtatagpo|VBTF rin|RBI tayo|PRP sa|CCT madaling|JJD_CCP panahon|NNC !|PMS "|PMS
+Pagkatapos|VBW ,|PMC patagong|RBD_CCP pumasok|VBAF si|DTP Srey|NNP Pov|NNP sa|CCT imbakan|NNC ng|CCB pabrika|NNC upang|CCB maghanap|VBW ng|CCB mga|DTCP materyales|NNC na|CCP gagamitin|VBTF niya|PRS sa|CCT kaniyang|PRSP_CCP sasakyang|NNC_CCP nakalilipad|JJD .|PMP
+Nakakita|VBTS siya|PRS ng|CCB turbina|NNC ,|PMC isang|PRI_CCP kadena|NNC ,|PMC kahoy|NNC ,|PMC at|CCA ilang|PRQ_CCP tela|NNC .|PMP
+Pinagsikapan|VBRF ng|CCB husto|JJD ni|DTP Srey|NNP Pov|NNP na|CCP mabuo|VBW ang|DTC sasakyang|NNC_CCP nakalilipad|JJD .|PMP
+Natapos|VBTS na|RBI niya|PRS at|CCA saka|CCA hinila|VBOF ito|PRO papunta|VBW sa|CCT tuktok|JJD ng|CCB bundok|NNC at|CCA lumipad|NNC .|PMP
+Subalit|CCT nawalan|VBTS ito|PRO ng|CCB kontrol|NNC at|CCA bumagsak|VBAF sa|CCT puno|NNC .|PMP
+Hindi|RBF isusuko|VBTF ni|DTP Srey|NNP Pov|NNP ang|DTC kaniyang|PRSP_CCP pangarap|NNC .|PMP
+Kaya|CCR ginawa|VBTS niya|PRS ulit|RBW ang|DTC sasakyan|NNC .|PMP
+Narinig|VBTS ng|CCB mga|DTCP taga|JJD -|PMS nayon|NNC ang|DTC kaniyang|PRSP_CCP plano|NNC at|CCA sila|PRP ay|LM dumating|VBAF upang|CCB tulungan|VBTF_VBOF siya|PRS sa|CCT kaniyang|PRSP_CCP ikalawang|JJN_CCP paglipad|NNC .|PMP
+Kahit|CCT na|RBI ang|DTC kapitan|NNC ay|LM humanga|VBTS_VBAF .|PMP "|PMS
+Narito|VBTS ang|DTC damit|NNC at|CCA helmet|NNC upang|CCB protektahan|VBOF ka|PRS laban|NNC sa|CCT init|NNC .|PMP
+Ang|DTC araw|NNC ay|LM sobrang|JJCS_CCP init|NNC !|PMS "|PMS
+Ipinadyak|VBTS ni|DTP Srey|NNP Pov|NNP ang|DTC kaniyang|PRSP_CCP sasakyan|NNC na|CCP tila|RBM isang|PRI_CCP bisikleta|NNC upang|CCB paganahin|VBOF ang|DTC makina|NNC .|PMP
+Napangiti|VBTS siya|PRS at|CCA nagsimula|VBTS na|CCP siyang|PRS_CCP umangat|VBAF at|CCA lampasan|VBOF ang|DTC bundok|NNC .|PMP "|PMS
+Nakalilipad|NNP ako|PRS ,|PMC "|PMS hiyaw|NNC niya|PRS .|PMP
+Naglakbay|VBTS si|DTP Srey|NNP Pov|NNP hanggang|RBW marating|VBW ang|DTC araw|NNC .|PMP "|PMS
+Kumusta|NNP ,|PMC Araw|NNP !|PMS "|PMS
+bati|VBS niya|PRS .|PMP "|PMS
+Bakit|PRQ hindi|RBF ka|PRS na|CCP sumisikat|VBTR_VBAF sa|CCT aming|PRSP_CCP nayon|NNC ?|PMQ "|PMS "|PMS
+Hinaharang|VBTR kasi|CCR ng|CCB maruming|PRI_CCP hangin|NNC ang|DTC aking|PRSP_CCP liwanag|NNC ,|PMC "|PMS tugon|NNC ng|CCB araw|NNC .|PMP "|PMS
+Ganoon|PRC ba|RBI .|PMP
+Salamat|RBS ,|PMC Araw|NNP .|PMP
+Sasabihin|VBTF ko|PRS ito|PRO sa|CCT lahat|PRI at|CCA magtutulong|VBW_CCP -|PMS tulong|NNC kami|PRP upang|CCB malutas|VBW ito|PRO .|PMP "|PMS "|PMS
+Maging|VBW mapalad|JJD sana|VBS kayo|PRP .|PMP
+Sana|VBS ay|LM magkita|VBW tayong|PRP_CCP muli|RBW ,|PMC "|PMS sigaw|NNC ng|CCB araw|NNC habanglumilipad|NNC na|CCP ng|CCB pabalik|VBW sa|CCT mundo|NNC si|DTP Srey|NNP Pov|NNP .|PMP
+Bumalik|VBAF si|DTP Srey|NNP Pov|NNP sa|CCT kaniyang|PRSP_CCP nayon|NNC at|CCA ibinahagi|VBTS ang|DTC kaniyang|PRSP_CCP nalaman|VBTS .|PMP "|PMS
+Dapat|VBS nang|RBW matigil|VBW ang|DTC pagdumi|NNC ng|CCB hangin|NNC dahil|CCR sa|CCT usok|NNC na|CCP mula|RBL sa|CCT pabrika|NNC .|PMP
+Kung|CCR magtatanim|VBTR_VBAF tayo|PRP ng|CCB maraming|PRI_CCP puno|NNC ,|PMC makatutulong|RBD ito|PRO sa|CCT paglinis|NNC ng|CCB hangin|NNC .|PMP "|PMS
+Hindi|RBF nagtagal|VBTS ,|PMC sumikat|VBAF muli|RBW ang|DTC araw|NNC sa|CCT nayon|NNC ni|DTP Srey|NNP Pov|NNP .|PMP
+Ang|DTC bawat|PRI isa|PRI ay|LM nagpasalamat|VBTS at|CCA ipinagmamalaki|VBTS si|DTP Srey|NNP Pov|NNP .|PMP
+Sa|CCT ngayon|RBW ,|PMC gumagawa|VBTR_VBAF muli|RBW si|DTP Srey|NNP Pov|NNP ng|CCB panibagong|JJD_CCP sasakyang|NNC_CCP lumilipad|VBTR_VBAF .|PMP
+Handa|JJD na|CCP siya|PRS sa|CCT panibagong|JJD_CCP paglalakbay|NNC .|PMP

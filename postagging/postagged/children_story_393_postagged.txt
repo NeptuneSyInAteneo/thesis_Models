@@ -1,0 +1,30 @@
+Hindi|RBF masaya|JJD si|DTP Muning|NNP kapag|CCR siya|PRS ay|LM pumupunta|VBTR_VBAF sa|CCT paaralan|NNC .|PMP
+Lagi|RBW siyang|PRS_CCP inaabangan|VBTR at|CCA inaagawan|VBTR ng|CCB baon|NNC ng|CCB malaking|JJD_CCP pusa|NNC .|PMP
+Habang|RBW nakaupo|VBTS sa|CCT parke|NNC ,|PMC iniisip|VBTR ni|DTP Muning|NNP kung|RBK paano|RBQ niya|PRS mapipigilan|VBTF ang|DTC pambu|NNC -|PMS bully|FW ng|CCB malaking|JJD_CCP pusa|NNC .|PMP
+Sa|CCT kaniyang|PRSP_CCP harap|NNC ,|PMC isang|PRI_CCP kalapati|NNC ang|DTC nang|RBW -|PMS agaw|NNC ng|CCB bola|NNC mula|RBL sa|CCT isang|PRI_CCP maya|NNC .|PMP
+Matapang|JJD na|CCP sinigawan|VBTS_VBOF ng|CCB maya|NNC ang|DTC kalapati|NNC .|PMP
+Binitawan|NNP agad|RBW nito|PRO ang|DTC bola|NNC at|CCA lumipad|VBAF palayo|RBD .|PMP
+Nagulat|VBTS si|DTP Muning|NNP .|PMP
+Napaisip|VBTS siya|PRS kung|RBK bakit|RBQ hindi|RBF natakot|VBTS ang|DTC maya|NNC sa|CCT kalapati|NNC .|PMP "|PMS
+Hindi|RBF ka|PRS ba|RBI natakot|VBTS sa|CCT kalapati|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Muning|NNP sa|CCT maya|NNC .|PMP "|PMS
+Hindi|RBF ako|PRS natatakot|VBTR .|PMP
+Kung|CCR matatakot|VBTF ako|PRS ,|PMC lalo|JJCC lamang|RBI niya|PRS akong|PRS_CCP ibu|FW -|PMS bully|FW .|PMP
+Kailangan|VBS nating|PRP_CCP sabihin|VBOF kung|RBK ano|RBQ ang|DTC hindi|RBF natin|PRP gusto|VBS .|PMP
+Kailangang|VBS_CCP maging|VBW matapang|JJD upang|CCB hindi|RBF na|RBI nila|PRP tayo|PRP ma|CCP -|PMS bully|FW .|PMP "|PMS
+Nang|RBW sumunod|VBAF na|CCP araw|NNC ,|PMC nag|VBTS -|PMS aabang|VBTF na|CCP naman|RBI ang|DTC malaking|JJD_CCP pusa|NNC kay|DTP Muning|NNP .|PMP
+Ngunit|CCT ngayon|RBW ay|LM hindi|RBF na|RBI siya|PRS takot|NNC .|PMP
+Tinitigan|VBTR ni|DTP Muning|NNP ang|DTC malaking|JJD_CCP pusa|NNC at|CCA sumigaw|VBAF ,|PMC "|PMS Hindi|RBF ko|PRS gusto|VBS ang|DTC pambu|JJD -|PMS bully|FW mo|PRS sa|CCT akin|PRSP .|PMP
+Kapag|CCR ipagpapatuloy|VBTR_VBOB mo|PRS pa|RBI ito|PRO ay|LM isusumbong|VBTF kita|NNC sa|CCT mga|DTCP pulis|NNC .|PMP "|PMS
+Nasaksihan|VBTS ng|CCB mga|DTCP kaibigan|NNC ni|DTP Muning|NNP ang|DTC pagbabala|NNC nito|PRO sa|CCT malaking|JJD_CCP pusa|NNC .|PMP
+Pinalakpakan|VBTR nila|PRP si|DTP Muning|NNP !|PMS
+Natakot|VBTS ang|DTC malaking|JJD_CCP pusa|NNC at|CCA tumakbo|VBAF papalayo|RBD .|PMP
+Hindi|RBF na|CCP muli|RBW pang|RBI_CCP na|CCP -|PMS bully|FW si|DTP Muning|NNP ng|CCB malaking|JJD_CCP pusa|NNC .|PMP
+Ngayon|RBW ,|PMC nag|VBTS -|PMS iisip|VBOF si|DTP Muning|NNP ng|CCB mga|DTCP bagong|JJD_CCP paraan|NNC para|CCT maging|VBW matapang|JJD !|PMS
+Mga|DTCP katanungan|NNC :|PMS .|PMP
+Bakit|PRQ ayaw|RBF pumasok|VBAF ni|DTP Muning|NNP sa|CCT paaralan|NNC ?|PMQ .|PMP
+Ano|PRQ ang|DTC sinabi|VBTS ni|DTP Muning|NNP sa|CCT malaking|JJD_CCP pusa|NNC ?|PMQ .|PMP
+Bakit|PRQ hindi|RBF natatakot|VBTR ang|DTC maya|NNC sa|CCT kalapati|NNC ?|PMQ .|PMP
+Ano|PRQ ang|DTC iyong|PRSP_CCP gagawin|VBTF kapag|CCR ikaw|PRS ay|LM binu|FW -|PMS bully|FW ?|PMQ
+Ang|DTC Third|NNP Story|NNP Project|NNP ay|LM pagtutulungan|NNC ng|CCB mga|DTCP grupong|NNC_CCP Myanmar|NNP Storytellers|NNP at|CCA ng|CCB Benevolent|NNP Youth|NNP Association|NNP (|PMS Yangon|NNP )|PMS sa|CCT pagbuo|NNC at|CCA paglathala|NNC ng|CCB mga|DTCP kuwentong|NNC_CCP pambata|JJD sa|CCT Burmese|NNP at|CCA iba|PRI pang|RBI_CCP wika|NNC na|CCP libreng|JJD_CCP ipinamamahagi|VBTR sa|CCT mga|DTCP bata|NNC sa|CCT Myanmar|NNP .|PMP
+Ang|DTC mga|DTCP kuwento|NNC ay|LM isinulat|VBTS at|CCA iginuhit|VBTS ng|CCB mga|DTCP manlilikhang|NNC_CCP nagmula|VBTS sa|CCT Myanmar|NNP para|CCT sa|CCT mga|DTCP mga|DTCP taga|JJD -|PMS Myanmar|NNP na|CCP naglalayong|VBTR_CCP mapagtuunan|VBW ng|CCB pansin|NNC angmga|NNC usaping|NNC_CCP may|VBH kinalaman|NNC sa|CCT pagkakaisa|NNC ,|PMC pagkakaiba|NNC -|PMS iba|PRI ,|PMC kasarian|NNC ,|PMC kapaligiran|NNC ,|PMC at|CCA karapatang|NNC_CCP -|PMS pambata|NNC .|PMP

@@ -1,0 +1,22 @@
+Ito|PRO ...|PMS Ang|DTC mga|DTCP itoIto|NNP ay|LM isang|PRI_CCP manok|NNC .|PMP
+Kumakain|VBTR_VBAF ito|PRO ng|CCB kaniyang|PRSP_CCP pagkain|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM dalawang|JJN_CCP pato|NNC .|PMP
+Sila|PRP ay|LM lumalangoy|VBTR_VBAF .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM tatlong|JJN_CCP ibon|NNC .|PMP
+Sila|PRP ay|LM lumilipad|VBTR_VBAF mula|RBW sa|CCT pugad|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM apat|JJN na|CCP ibong|NNC_CCP itim|JJD .|PMP
+Lumilipad|VBTR_VBAF ang|DTC mga|DTCP ito|PRO sa|CCT langit|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM limang|JJN_CCP tagak|NNC .|PMP
+Sila|PRP ay|LM lumilipad|VBTR_VBAF sa|CCT lawa|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM anim|JJN na|CCP ahas|NNC .|PMP
+Sila|PRP ay|LM nakalusot|VBTS mula|RBW sa|CCT kanilang|PRSP_CCP yungib|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM pitong|JJN_CCP kabayo|NNC .|PMP
+Sila|PRP ay|LM lumulukso|VBTR_VBAF sa|CCT bakod|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM walong|JJN_CCP raynoseros|NNC .|PMP
+Hinuhukay|VBTR nila|PRP ang|DTC mga|DTCP puno|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM siyam|JJN na|CCP lobo|NNC .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM umuungol|VBTR_VBAF .|PMP
+Ang|DTC mga|DTCP ito|PRO ay|LM sampung|JJN_CCP elepante|NNC .|PMP
+Hinihila|VBOF nila|PRP ang|DTC troso|NNC .|PMP
+Lahat|PRI sila|PRP ay|LM namumuhay|VBTR ng|CCB masaya|JJD .|PMP
+Signer|NNP :|PMS Kumar|NNP Regmi|NNP .|PMP

@@ -1,0 +1,37 @@
+"|PMS Ammachi|FW !|PMS
+Ammachi|NNP !|PMS
+Makakagawa|VBW po|RBS ba|RBI tayo|PRP ng|CCB coconut|FW barfi|FW ngayon|RBW ?|PMQ "|PMS
+Tanong|NNC ni|DTP Sooraj|NNP sa|CCT kanyang|PRSP_CCP lola|NNC .|PMP "|PMS
+Maari|VBS po|RBS ba|RBI ?|PMQ "|PMS "|PMS
+Hee|NNP hee|FW hee|FW !|PMS
+Kung|CCR tutulungan|VBTF mo|PRS ako|PRS ,|PMC edi|FW sige|FW ?|FW "|PMS
+sagot|NNC ni|DTP Ammachi|NNP .|PMP "|PMS
+Yehey|NNP !|PMS "|PMS "|PMS
+Handa|JJD ka|PRS na|CCP ba|RBI ?|PMQ "|PMS
+Pasigaw|NNP na|CCP tanong|NNC ni|DTP Sooraj|NNP .|PMP "|PMS
+Handa|JJD na|CCP !|PMS "|PMS
+sagot|NNC ng|CCB Lola|NNC .|PMP "|PMS
+Ang|DTC mga|DTCP hinog|NNC na|CCP bunga|JJD lang|RBI ang|DTC pipiliin|VBTF natin|PRP ,|PMC okay|FW ?|PMQ
+Yung|PRO_CCP puro|RBT hinog|RBI lang|RBI ...|PMS Tingnan|VBOF mo|PRS !|PMQ
+Andito|NNP na|CCP sila|PRP !|PMS "|PMS
+WHOOOSH|NNPA ...|PMS WHUMP|NNPA !|PMS "|PMS
+Ngayon|RBW naman|RBI ,|PMC kailangan|VBS natin|PRP kunin|VBOF ang|DTC balat|NNC ng|CCB niyog|NNC ...|PMS "|PMS POTCH|NNPA !|PMS
+CRAANKK|NNPA !|PMS
+Kumulo|NNP ang|DTC tiyan|NNC ni|DTP Sooraj|NNP ,|PMC "|PMS GRRRRR|NNPA !|PMS "|PMS
+tumawa|VBAF si|DTP Lola|NNP .|PMP "|PMS
+Ganito|PRC magbiyak|VBW ng|CCB niyog|NNC ,|PMC CRACK|NNPA !|PMS "|PMS "|PMS
+At|CCA kayurin|VBOF ang|DTC laman|NNC nito|PRO !|PMQ "|PMS "|PMS
+Iluto|VBTF ito|PRO sa|CCT kawali|NNC kasama|CCB ang|DTC lahat|PRI ng|CCB iba|PRI pang|RBI_CCP mga|DTCP sangkap|NNC …|PMS "|PMS "|PMS Napakabango|JJCS_JJD po|RBS nito|PRO ,|PMC Ammachi|NNP !|PMQ "|PMS "|PMS
+Pagkatapos|VBW isalin|VBOF ito|PRO sa|CCT isang|PRI_CCP lalagyan|NNC ...|PMS Hayaan|NNP lang|RBI hanggang|RBW sa|CCT lumamig|VBAF ,|PMC baba|JJD !|PMS "|PMS "|PMS
+Ngayon|RBW naman|RBI ,|PMC kailangan|VBS natin|PRP hiwain|VBOF ito|PRO ng|CCB pira|NNC -|PMS piraso|NNC ...|PMS "|PMS SQUEAK|NNPA SQUEAK|NNPA "|PMS YIPPEE|NNPA !|PMS
+Handa|JJD nang|RBW kainin|VBOF ang|DTC coconut|FW barfi|FW natin|PRP !|PMQ "|PMS "|PMS
+YUM|NNPA YUM|NNPA YUM|NNPA !|PMS "|PMS
+Ang|DTC minatamis|NNC na|CCP niyog|NNC ni|DTP Ammachi|NNP ay|LM gawa|VBS sa|CCT mga|DTCP SIMPLENG|NNPA MAKINA|NNPA !|PMS
+Mas|JJCC napapadali|VBTR ang|DTC trabaho|NNC gamit|VBS ang|DTC mga|DTCP simpleng|JJD_CCP makina|NNC .|PMP
+Mayroong|VBH_CCP anim|JJN na|CCP klase|NNC ng|CCB simpleng|JJD_CCP makina|NNC :|PMS .|PMP
+Rampa|NNP .|PMP
+Pinga|NNP .|PMP
+Gulong|NNC at|CCA ikutan|VBOF ng|CCB gulong|NNC .|PMP
+Kalang|NNP .|PMP
+Kalo|NNP .|PMP
+Turnilyo|NNP Magbigay|NNP ng|CCB halimbawa|NNC ng|CCB mga|DTCP simpleng|JJD_CCP makina|NNC na|CCP ginamit|VBOF ni|DTP Sooraj|NNP at|CCA Ammachi|NNP sa|CCT paggawa|NNC ng|CCB minatamis|JJD na|CCP niyog|NNC .|PMP

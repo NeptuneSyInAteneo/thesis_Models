@@ -1,0 +1,18 @@
+Sino|PRQ ang|DTC batang|NNC_CCP iyon|PRO ?|PMQ
+Nakalalakad|VBTS ang|DTC bata|NNC .|PMP
+Katulad|JJC ko|PRS .|PMP
+Magalaw|VBTF ang|DTC mga|DTCP daliri|NNC ko|PRS sa|CCT paa|NNC .|PMP
+Magalaw|VBTF ang|DTC mga|DTCP daliri|NNC sa|CCT paa|NNC ng|CCB bata|NNC .|PMP
+O|NNPA ,|PMC nawala|VBTS ang|DTC bata|NNC !|PMS
+Sino|PRQ ang|DTC batang|NNC_CCP iyon|PRO ?|PMQ
+Kumakaway|VBTR_VBAF ang|DTC aking|PRSP_CCP mga|DTCP kamay|NNC .|PMP
+Ayun|NNP ang|DTC mga|DTCP kumakaway|VBTR_VBAF na|CCP kamay|NNC ng|CCB bata|NNC .|PMP
+Gusto|VBS mo|PRS bang|RBM maglaro|VBAF ?|PMQ
+Naku|NNP ,|PMC nawala|VBTS ang|DTC bata|NNC !|PMS
+Sino|PRQ ang|DTC batang|NNC_CCP iyon|PRO ?|PMQ
+Maganda|JJD ang|DTC aking|PRSP_CCP ilong|NNC .|PMP
+Maganda|JJD ang|DTC ilong|NNC ng|CCB bata|NNC .|PMP
+Nakatutuwa|VBTS ang|DTC aking|PRSP_CCP mukha|NNC .|PMP
+Pati|CCA na|RBI rin|RBI ang|DTC sa|CCT bata|NNC .|PMP
+Oh|NNP !|PMS
+Ang|DTC batang|JJD_CCP '|PMS yan|PRO ay|LM . . .|NNPA AKO|NNPA !|PMS

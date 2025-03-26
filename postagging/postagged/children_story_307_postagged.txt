@@ -1,0 +1,36 @@
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC May|VBH isang|PRI_CCP kahon|NNC na|CCP puno|NNC ng|CCB pintura|NNC sa|CCT bahay|NNC ng|CCB pintor|NNC .|PMP
+Sabi|VBS ng|CCB dilaw|JJD na|CCP pintura|NNC sa|CCT kanyang|PRSP_CCP kasamahan|NNC ,|PMC "|PMS Ayokong|RBD_CCP makisali|VBW sa|CCT inyong|PRSP_CCP pagpipintura|NNC .|PMP
+Ayokong|NNP_CCP maging|VBW manipis|JJD at|CCA pangit|JJD .|PMP "|PMS
+Noong|RBW_CCP araw|NNC din|RBI yung|PRO_CCP iyon|PRO ,|PMC nagdesisyon|VBTS ang|DTC pintor|NNC na|CCP ipinta|VBOF ang|DTC pinakamagandang|JJCS_JJD_CCP larawan|NNC para|CCT sa|CCT mga|DTCP bata|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Pininturahan|VBTR ng|CCB pintor|NNC ang|DTC mga|DTCP puno|NNC ng|CCB kayumanggi|JJD .|PMP
+Pero|CCT may|VBH kulang|JJD .|PMP
+Ano|PRQ ito|PRO ?|PMQ
+Pininturahan|VBTR ng|CCB pintor|NNC ang|DTC mga|DTCP dahon|NNC ng|CCB berde|NNC .|PMP
+Pero|CCT may|VBH kulang|JJD .|PMP
+Ano|PRQ ito|PRO ?|PMQ
+Pininturahan|VBTR ng|CCB pintor|NNC ang|DTC langit|NNC ng|CCB asul|NNC .|PMP
+Pero|CCT may|VBH kulang|JJD .|PMP
+Ano|PRQ ito|PRO ?|PMQ
+Pininturahan|VBTS niya|PRS naman|RBI ang|DTC bumubukang|NNC_CCP bulaklak|NNC ng|CCB kulay|NNC pula|JJD at|CCA kulay|NNC rosas|NNC .|PMP
+Subalit|CCT mayroon|VBH parin|FW kulang|JJD .|PMP
+Pininturahan|VBTS niya|PRS ang|DTC mga|DTCP mapupulang|JJD_CCP tutubi|NNC ,|PMC ang|DTC mga|DTCP mabeberdeng|JJD_CCP mga|DTCP loro|FW na|CCP kagaya|JJC ng|CCB dalandan|NNC ,|PMC ang|DTC kasing|JJCC puti|JJD ng|CCB niyebe|NNC na|CCP kuneho|NNC ,|PMC at|CCA ang|DTC kulay|NNC abong|JJD_CCP elepante|NNC .|PMP
+Subalit|CCT may|VBH kulang|JJD pa|RBI rin|RBI .|PMP
+Ano|PRQ kaya|CCR sa|CCT tingin|NNC niyo|PRP ang|DTC kulang|JJD sa|CCT larawan|NNC ?|PMQ
+Binuksan|VBOF ng|CCB pintor|NNC ang|DTC bintana|NNC at|CCA tumingin|VBAF sa|CCT labas|NNC .|PMP
+Ngayon|RBW ay|LM alam|VBS na|CCP niya|PRS ang|DTC kulang|JJD .|PMP
+Ito|PRO ay|LM ang|DTC araw|NNC !|PMS "|PMS
+Dilaw|NNP ?|PMQ
+Dilaw|NNP !|PMS
+Dilaw|NNP !|PMS "|PMS
+Ito|PRO ang|DTC kanyang|PRSP_CCP kailangan|VBS upang|CCB maipinta|VBW ang|DTC araw|NNC .|PMP
+Alam|VBS mo|PRS ba|RBI kung|RBK saan|RBQ nagtatago|VBTR si|DTP dilaw|JJD ?|PMQ
+Hindi|RBF makita|VBW ang|DTC dilaw|NNC kahit|CCT saan|PRQ !|PMQ
+Ngunit|CCT paano|PRQ naman|RBI ang|DTC pinaka|JJCS magandang|JJD_CCP larawan|NNC para|CCT sa|CCT lahat|PRI ng|CCB mga|DTCP bata|NNC sa|CCT mundo|NNC ?|PMQ
+Ano|PRQ ang|DTC maaaring|RBM gawin|VBOF ?|PMQ
+Si|DTP Dilaw|NNP ay|LM nagisip|VBTS ng|CCB nag|PRSP_CCP isip|NNC .|PMP
+Pagkatapos|VBW ay|LM inilabas|VBTS niya|PRS ang|DTC kanyang|PRSP_CCP ulo|NNC sa|CCT kanyang|PRSP_CCP pinagtataguan|VBTR_VBRF ,|PMC bumulong|VBTR_VBAF ,|PMC "|PMS Narito|VBTS ako|PRS .|PMP
+Maaari|VBS kang|PRS_CCP magpinta|VBAF ng|CCB araw|NNC ngayon|RBW .|PMP
+Ngunit|CCT ...|PMS kumuha|VBAF ka|PRS lang|RBI ng|CCB kapiraso|NNC sa|CCT akin|PRSP .|PMP "|PMS
+Ayan|NNP !|PMS
+Ang|DTC pintor|NNC ay|LM maaari|VBS na|CCP ngayong|RBW_CCP magpinta|VBAF ng|CCB pinakamagandang|JJCS_JJD_CCP pagpipinta|NNC kailanman|RBW para|CCT sa|CCT lahat|PRI ng|CCB mga|DTCP bata|NNC sa|CCT mundo|NNC .|PMP
+Gusto|VBS mo|PRS ba|RBI ?|PMQ

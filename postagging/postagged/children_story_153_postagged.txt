@@ -1,0 +1,41 @@
+Tuwing|RBW umaga|RBW ,|PMC si|DTP Araw|NNP ay|LM nagbibigay|VBTR ng|CCB ginituang|JJD_CCP sinag|NNC sa|CCT buong|PRI_CCP mundo|NNC .|PMP
+Ikinatutuwa|NNP at|CCA hinahangaan|VBTR ng|CCB mga|DTCP tao|NNC ang|DTC kaniyang|PRSP_CCP kagandahan|NNC at|CCA kasiglahan|NNC .|PMP
+Nagseselos|VBTR si|DTP Ulap|NNP dahil|CCR sa|CCT isip|NNC niya|PRS ay|LM mas|JJCC palagay|JJD ang|DTC mga|DTCP tao|NNC kay|DTP Araw|NNP at|CCA mas|JJCC mahalaga|JJD ito|PRO kaysa|JJC sa|CCT kaniya|PRSP .|PMP "|PMS
+Hindi|RBF ka|PRS naman|RBI magaling|JJD ,|PMC "|PMS Sabi|VBW ni|DTP Ulap|NNP .|PMP "|PMS
+Nag|VBTS iisa|JJD lamang|RBI ang|DTC iyong|PRSP_CCP hugis|NNC at|CCA hindi|RBF nagbabago|VBTR ,|PMC nakasasawa|VBTS ang|DTC sinusunod|VBTR mong|PRS_CCP landas|NNC habang|RBW naghahatid|VBTR ka|PRS ng|CCB init|NNC at|CCA liwanag|NNC sa|CCT mundo|NNC .|PMP
+Samantalang|CCT_CCP ako|PRS ,|PMC maaari|VBS akong|PRS_CCP maglakbay|VBAF sa|CCT anumang|PRI_CCP direksyon|NNC at|CCA magbago|VBAF sa|CCT anumang|PRI_CCP hugis|NNC na|CCP maiisip|VBW mo.|NNCA "|PMS Si|DTP Araw|NNP naman|RBI ay|LM patuloy|RBD sa|CCT pagningning|NNC ,|PMC hindi|RBF niya|PRS pinansin|VBOF ang|DTC mga|DTCP sinabi|VBTS ni|DTP Ulap|NNP .|PMP
+At|CCA hindi|RBF nagtagal|VBTS ,|PMC dahil|CCR sa|CCT matinding|JJD_CCP init|NNC ni|DTP Araw|NNP ay|LM nagsimulang|VBTS_CCP matuyo|RBD ang|DTC mundo|NNC !|PMS "|PMS
+Sobrang|JJCS_CCP init|NNC ,|PMC "|PMS reklamo|NNC ni|DTP Ulap|NNP .|PMP "|PMS
+Alam|VBS ko|PRS ,|PMC magugustuhan|VBTF ng|CCB mga|DTCP tao|NNC ang|DTC ulan|NNC ngayon|RBW .|PMP
+Ito|PRO na|CCP ang|DTC aking|PRSP_CCP pagkakataon|NNC !|PMS "|PMS
+Kaagad|RBD ,|PMC ang|DTC liwanag|NNC ni|DTP Araw|NNP ay|LM nabawasan|VBTS at|CCA naging|VBTS makulimlim|JJD ang|DTC kalangitan|NNC .|PMP
+Nagtaka|VBTS ang|DTC lahat|PRI sa|CCT mga|DTCP nangyayari|VBTR .|PMP
+Hinarangan|VBTS ni|DTP Ulap|NNP ang|DTC lahat|PRI ng|CCB sinag|NNC ni|DTP Araw|NNP sa|CCT buong|PRI_CCP kalangitan|NNC .|PMP "|PMS
+Nawala|VBTS na|RBI ang|DTC init|NNC at|CCA liwanag|NNC mo|PRS ,|PMC Araw|NNP !|PMS "|PMS
+Sigaw|NNC ni|DTP Ulap|NNP .|PMP "|PMS
+Mabuti|NNP iyan|PRO ,|PMC "|PMS sabi|VBS ni|DTP Araw|NNP .|PMP "|PMS
+Nakatulong|VBTS ka|PRS upang|CCB palamigin|VBOF ang|DTC lahat|PRI .|PMP
+Salamat|RBS sa|CCT iyo|PRSP !|PMS "|PMS
+Ngunit|CCT lalong|JJCC_CCP ikinagalit|VBTS ito|PRO ni|DTP Ulap|NNP .|PMP
+Mas|JJCC naging|VBTS makapal|JJD ito|PRO at|CCA madilim|JJD at|CCA ayaw|RBF niyang|PRS_CCP umalis|VBAF !|PMQ
+Tatlong|JJN_CCP araw|NNC at|CCA gabing|RBW_CCP nabalot|VBTS sa|CCT kadiliman|NNC ang|DTC mundo|NNC .|PMP
+Nakiusap|VBTS si|DTP Araw|NNP kay|DTP Ulap|NNP na|CCP hayaan|VBOF na|CCP siyang|PRS_CCP lumiwanag|VBTR_VBAF .|PMP "|PMS
+Pakiusap|NNP ,|PMC maraming|JJD_CCP buhay|NNC ang|DTC mapipinsala|VBW kung|RBK hindi|RBF ako|PRS makapagbibigay|VBW ng|CCB liwanag|NNC sa|CCT lalong|JJCC_CCP madaling|JJD_CCP panahon|NNC !|PMS "|PMS
+Tumangging|RBD_CCP makinig|VBW si|DTP Ulap|NNP ,|PMC at|CCA inipon|VBOF ang|DTC iba|PRI pang|RBI_CCP mga|DTCP ulap|NNC upang|CCB magbuhos|VBW ng|CCB ulan|NNC sa|CCT mundo|NNC .|PMP
+Sa|CCT simula|RBW ,|PMC nagsaya|VBTS ang|DTC mga|DTCP tao|NNC dahil|CCR sa|CCT ulan|NNC .|PMP
+Lalong|JJCC naging|VBTS mayabang|JJD si|DTP Ulap|NNP dahil|CCR sa|CCT wakas|RBW ay|LM nakuha|VBTS na|CCP niya|PRS ang|DTC pansin|NNC ng|CCB mga|DTCP tao|NNC .|PMP
+Sa|CCT tingin|NNC niya|PRS ,|PMC marami|PRI pang|RBI_CCP tao|NNC ang|DTC magbibigay|VBTF puri|NNC sa|CCT kaniya|PRSP kung|CCR mas|JJCC marami|PRI pang|RBI_CCP ulan|NNC ang|DTC ibibigay|VBTF niya|PRS kahit|CCT ito|PRO '|PMS y|FW magdulot|VBAF ng|CCB mga|DTCP pagbaha|VBW sa|CCT lahat|PRI ng|CCB lugar|NNC .|PMP
+Ngunit|CCT hindi|RBF na|CCP pinupuri|VBTR ng|CCB mga|DTCP tao|NNC si|DTP Ulap|NNP .|PMP
+Ang|DTC kanilang|PRSP_CCP mga|DTCP bahay|NNC ay|LM binabaha|VBTR at|CCA sila|PRP ay|LM natakot|VBTS .|PMP
+Sa|CCT wakas|RBW ,|PMC naubusan|VBTS din|RBI tubig|NNC si|DTP Ulap|NNP .|PMP
+Naging|VBTS manipis|JJD na|CCP siya|PRS at|CCA pumuti|NNC ,|PMC at|CCA tuluyang|RBD_CCP nabigyan|VBTS nang|RBW pagkakataong|NNC_CCP makasilip|VBW si|DTP Araw|NNP .|PMP
+Habang|RBW ang|DTC init|NNC at|CCA liwanag|NNC ni|DTP Araw|NNP ay|LM nakarating|VBTS na|CCP sa|CCT kalupaan|NNC ,|PMC ang|DTC tubig|NNC naman|RBI na|CCP hindi|RBF nahigop|VBTS ng|CCB lupa|NNC ay|LM nagsimulang|RBD_CCP sumingaw|VBAF pataas|JJD at|CCA bumalik|VBAF sa|CCT langit|NNC at|CCA humupa|VBAF na|RBI rin|RBI ang|DTC baha|NNC .|PMP
+Nakita|VBTS mo|PRS na|RBI ,|PMC pareho|JJC tayong|PRP_CCP kailangan|VBS ng|CCB mundo|NNC ,|PMC "|PMS sabi|VBS ni|DTP Araw|NNP kay|DTP Ulap|NNP .|PMP "|PMS
+Kung|CCR wala|VBN ka|PRS ,|PMC magiging|VBTF tigang|NNC at|CCA tuyo|JJD ang|DTC lupa|NNC ,|PMC at|CCA kung|CCR wala|VBN ako|PRS ,|PMC ang|DTC tubig|NNC ay|LM ay|LM hindi|RBF makababalik|JJD sa|CCT langit|NNC upang|CCB maging|VBW ulap|NNC at|CCA ulan|NNC .|PMP
+Tayo|PRS ay|LM bahagi|NNC ng|CCB isang|PRI_CCP siklo|NNC at|CCA pareho|JJC tayong|PRP_CCP mahalaga|JJD .|PMP "|PMS "|PMS
+Ngayon|RBW ,|PMC naiintindihan|VBTR ko|PRS na|CCP ,|PMC "|PMS sagot|NNC ni|DTP Ulap|NNP .|PMP "|PMS
+Ang|DTC ulan|NNC ko|PRS ay|LM galing|RBL sa|CCT tubig|NNC na|CCP umakyat|VBAF mula|RBL sa|CCT mundo|NNC sa|CCT pamamagitan|NNC ng|CCB pagsingaw|NNC .|PMP
+Hindi|RBF iyon|PRO mangyayari|VBTR kung|CCR wala|VBN ang|DTC init|NNC mo.|NNCA .|PMP
+Salamat|RBS ,|PMC Araw|NNP .|PMP "|PMS
+Nagulat|VBTS at|CCA nasiyahan|VBTS si|DTP Araw|NNP sa|CCT mga|DTCP sinabi|VBTS ni|DTP Ulap|NNP .|PMP
+Ngayon|RBW ay|LM nagtutulungan|VBTR sila|PRP para|CCT magdala|VBW ng|CCB init|NNC ,|PMC liwanag|NNC ,|PMC ulan|NNC ,|PMC at|CCA buhay|NNC sa|CCT mundo|NNC .|PMP

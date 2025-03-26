@@ -1,0 +1,44 @@
+Hinihikayat|VBTR ng|CCB manunulat|NNC ,|PMC ilustrador|NNC ,|PMC at|CCA ng|CCB Canvas|NNP ang|DTC pagbabahagi|NNC ng|CCB libro|NNC at|CCA pagsasalin|NNC ng|CCB teksto|NNC ,|PMC subalit|CCT hinihiling|VBTR namin|PRP na|CCP huwag|RBF baguhin|VBOF ang|DTC mga|DTCP larawan|NNC .|PMP
+Maraming|PRI_CCP salamat|RBS .|PMP
+Nakatira|VBTS si|DTP Miguel|NNP malapit|JJD sa|CCT dalampasigan|NNC kaya|CCR mahal|RBD na|CCP mahal|JJD niya|PRS ang|DTC dagat|NNC .|PMP
+Ngunit|CCT isang|PRI_CCP araw|NNC ,|PMC nakakita|VBTS siya|PRS ng|CCB magagandang|JJD_CCP isda|NNC na|CCP namamatay|VBTR sa|CCT baybayin|NNC .|PMP
+Sinabi|VBTS ng|CCB kaniyang|PRSP_CCP ina|NNC na|CCP ang|DTC lokal|JJD na|CCP kumpanya|NNC ng|CCB pagmimina|NNC ay|LM nagtatapon|VBTR ng|CCB basura|NNC sa|CCT ilog|NNC na|CCP humahantong|VBTR_VBAF sa|CCT dagat|NNC .|PMP "|PMS
+Sino|PRQ po|RBS ang|DTC makapipigil|VBW sa|CCT kanila|PRSP ?|PMQ "|PMS
+tanong|NNC ni|DTP Miguel|NNP .|PMP "|PMS
+Ikaw|NNP ,|PMC "|PMS sabi|VBS ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Ako|PRS po|RBS ?|PMQ "|PMS "|PMS
+Ito|PRO ay|LM laging|RBD_CCP nakasalalay|VBTS sa|CCT atin|PRSP ,|PMC "|PMS paliwanag|NNC ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Magpadala|VBAF ka|PRS ng|CCB mensahe|NNC sa|CCT kanila|PRSP .|PMP "|PMS
+Nakahanap|VBTS ng|CCB patpat|NNC si|DTP Miguel|NNP at|CCA nagsulat|VBTS ng|CCB mensahe|NNC sa|CCT buhangin|NNC :|PMS S.|NNPA O.|NNPA S.|NNPA "|PMS Save|NNP Our|NNP Seas|NNP ,|PMC "|PMS sabi|VBS ni|DTP Miguel|NNP sa|CCT sarili|NNC .|PMP
+Ngunit|CCT dumating|VBAF ang|DTC malalaking|JJD_CCP alon|NNC at|CCA inanod|VBTS ang|DTC mga|DTCP salita|NNC .|PMP
+Paulit|NNP -|PMS ulit|RBW na|CCP isinulat|VBTS ni|DTP Miguel|NNP ang|DTC mensahe|NNC .|PMP
+Isinulat|VBTS niya|PRS ito|PRO kahit|CCT sa|CCT mga|DTCP damong|NNC_CCP -|PMS dagat|NNC .|PMP
+Isinulat|VBTS niya|PRS ito|PRO gamit|VBS ang|DTC mga|DTCP sirang|JJD_CCP kabibi|NNC .|PMP
+Paulit|NNP -|PMS ulit|RBW ding|RBI_CCP inaanod|VBTR ng|CCB mga|DTCP alon|NNC ang|DTC bawat|PRI salita|NNC .|PMP "|PMS
+Walang|VBN_CCP katuturan|NNC ito|PRO !|PMQ
+Walang|VBN_CCP makakakita|VBW sa|CCT mga|DTCP mensahe|NNC ko|PRS ,|PMC "|PMS panghihina|NNC ni|DTP Miguel|NNP .|PMP "|PMS
+Subukan|VBOF mo|PRS ulit|RBW ,|PMC "|PMS panghihikayat|JJD ng|CCB kaniyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Magdasal|NNP ka|PRS at|CCA magtiyaga|VBW .|PMP
+Huwag|RBF kang|PRS_CCP titigil|VBTF .|PMP
+Darating|VBTF ang|DTC araw|NNC na|CCP may|VBH makakakita|VBW rin|RBI ng|CCB mensahe|NNC mo.|NNCA .|PMP
+At|CCA magbabago|VBTF ang|DTC lahat|PRI .|PMP "|PMS
+Hindi|RBF nagtagal|VBTS ,|PMC may|VBH isang|PRI_CCP makintab|JJD na|CCP itim|JJD na|CCP sasakyan|NNC na|CCP pumarada|VBAF sa|CCT harap|NNC ng|CCB kanilang|PRSP_CCP bahay|NNC .|PMP
+Dalawang|JJN_CCP lalaking|NNC_CCP naka|RBD -|PMS amerikana|FW at|CCA nakasalaming|VBTS itim|JJD ang|DTC bumaba|VBAF mula|RBW rito|PRL .|PMP "|PMS
+Tuwing|RBW umaga|RBW ,|PMC nagpapalipad|VBTR ng|CCB kaniyang|PRSP_CCP eroplano|NNC ang|DTC aming|PRSP_CCP presidente|NNC sa|CCT tabing|NNC -|PMS dagat|NNC na|CCP ito|PRO .|PMP
+Nakikita|VBTR niya|PRS ang|DTC iyong|PRSP_CCP mensahe|NNC sa|CCT buhangin|NNC .|PMP "|PMS
+sabi|VBS ng|CCB isa|PRI sa|CCT mga|DTCP lalaki|NNC .|PMP "|PMS
+Pinapunta|VBTS niya|PRS kami|PRP rito|PRL para|CCT malaman|VBW kung|RBK ano|RBQ ang|DTC ibig|VBS sabihin|VBOF ng|CCB S.|NNPA O.|NNPA S.|NNPA "|PMS "|PMS Sabihin|VBOF po|RBS ninyo|PRP sa|CCT inyong|PRSP_CCP presidente|NNC na|CCP ang|DTC ibig|VBS sabihin|VBOF ng|CCB S.|NNPA O.|NNPA S.|NNPA ay|LM Save|NNP Our|NNP Seas|NNP ,|PMC "|PMS ang|DTC sabi|VBS ni|DTP Miguel|NNP .|PMP "|PMS
+Pakisabi|NNP po|RBS ninyo|PRP sa|CCT kaniya|PRSP na|CCP ipatigil|VBOF na|CCP ang|DTC pagtatapon|NNC ng|CCB basura|NNC sa|CCT ilog|NNC .|PMP "|PMS "|PMS
+Ang|DTC ilog|NNC ay|LM humahantong|VBTR_VBAF sa|CCT karagatan|NNC .|PMP
+Ang|DTC dumi|NNC ang|DTC lumalason|VBTR_VBAF sa|CCT mga|DTCP isda|NNC at|CCA halaman|NNC .|PMP
+Ginagawa|VBTR nitong|PRO_CCP madumi|JJD ang|DTC tubig|NNC at|CCA tabing|NNC -|PMS dagat|NNC .|PMP
+Dahil|CCR din|RBI dito|PRL ,|PMC nagkakasakit|VBTR ang|DTC mga|DTCP ibon|NNC .|PMP
+At|CCA iyon|PRO ang|DTC nagpapalungkot|VBTR sa|CCT akin|PRSP .|PMP "|PMS
+Umalis|VBAF ang|DTC mga|DTCP lalaki|NNC at|CCA nagpatuloy|VBTS si|DTP Miguel|NNP sa|CCT pagdarasal|NNC .|PMP
+Araw|NNP -|PMS araw|NNC ,|PMC isinusulat|VBTR niya|PRS ang|DTC mensahe|NNC sa|CCT buhangin|NNC .|PMP
+At|CCA araw|NNC -|PMS araw|NNC ,|PMC patuloy|RBD na|CCP dumarating|VBTR_VBAF ang|DTC malalakas|JJD na|CCP alon|NNC at|CCA inaanod|VBTR ang|DTC mga|DTCP salita|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC pinakita|VBOF ng|CCB ina|NNC ni|DTP Miguel|NNP ang|DTC pangunahing|JJD_CCP balita|NNC sa|CCT dyaryo|NNC :|PMS KUMPANYA|NNP NG|NNPA PAGMIMINA|NNP NAKUHA|NNPA ANG|NNPA MENSAHE|NNPA .|PMP
+PAGTAPON|NNPA NG|NNPA KANILANG|NNPA DUMI|NNPA SA|NNPA ILOG|NNPA ITITIGIL|NNPA .|PMP
+Ngumiti|VBAF si|DTP Miguel|NNP ,|PMC tumakbo|VBAF palabas|NNC sa|CCT dalampasigan|NNC ,|PMC at|CCA nakakita|VBTS ng|CCB isang|PRI_CCP patpat|NNC .|PMP
+Sumulat|VBAF siya|PRS ng|CCB isang|PRI_CCP bagong|JJD_CCP mensahe|NNC sa|CCT buhangin|NNC :|PMS SALAMATMuling|FW dumating|VBAF ang|DTC mga|DTCP alon|NNC mula|RBL sa|CCT karagatan|NNC at|CCA inanod|VBTS na|CCP muli|RBW ang|DTC bawat|PRI salita|NNC .|PMP
+Pero|CCT ngayon|RBW ,|PMC dala|JJD -|PMS dala|JJD ng|CCB mga|DTCP alon|NNC ang|DTC mensahe|NNC saan|PRQ man|RBI ito|PRO mapadpad|VBW .|PMP

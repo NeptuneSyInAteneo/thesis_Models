@@ -1,0 +1,49 @@
+Ito|PRO si|DTP aso|NNC .|PMP
+Ang|DTC aso|NNC ay|LM nasa|RBL loob|JJD ng|CCB kanyang|PRSP_CCP bahay|NNC at|CCA nakaupo|VBTS ito|PRO nang|RBD may|VBH kumatok|VBAF sa|CCT pinto|NNC .|PMP
+Binuksan|VBOF ng|CCB aso|NNC ang|DTC pinto|NNC .|PMP
+May|VBH nakita|VBTS siyang|PRS_CCP nakadilaw|VBTS .|PMP
+Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Sino|PRQ po|RBS sila|PRP ?|PMQ "|PMS
+Ako|PRS si|DTP pusa|NNC .|PMP
+Ang|DTC pusang|NNC_CCP dilaw|JJD .|PMP
+Ang|DTC ulo|NNC ng|CCB pusa|NNC ay|LM dilaw|JJD .|PMP
+Ang|DTC buhok|NNC ng|CCB pusa|NNC ay|LM dilawDilaw|VBTR ang|DTC braso|NNC ng|CCB Pusa|NNP .|PMP
+Dilaw|JJD ang|DTC mga|DTCP kamay|NNC ng|CCB Pusa|NNP .|PMP .|PMP
+Dilaw|JJD ang|DTC bunganga|NNC ng|CCB pusa|NNC .|PMP
+Dilaw|JJD ang|DTC ilong|NNC ng|CCB pusa|NNC .|PMP
+Dilaw|JJD ang|DTC mga|DTCP tainga|NNC ng|CCB pusa|NNC at|CCA dilaw|JJD din|RBI ang|DTC mga|DTCP mata|NNC ng|CCB pusa|NNC .|PMP
+Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Bakit|PRQ kulay|NNC dilaw|JJD ka|PRS ?|PMQ "|PMS
+Sumagot|VBAF ang|DTC pusa|NNC :|PMS "|PMS Hindi|RBF ko|PRS alam|VBS kung|RBK bakit|RBQ ako|PRS kulay|NNC dilaw|JJD .|PMP "|PMS
+Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Saan|PRQ ka|PRS galing|RBL ?|PMQ
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Nasa|RBL paaralan|NNC ako|PRS "|PMS Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Saan|PRQ ang|DTC paaralan|NNC mo|PRS ?|PMQ "|PMS
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Ang|DTC paaralan|NNC ko|PRS ay|LM nasa|RBL nayon|NNC "|PMS Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Kailan|JJD ka|PRS pumasok|VBAF sa|CCT paaralan|NNC ?|PMQ "|PMS
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Nasa|RBL paaralan|NNC ako|PRS kaninang|PRSP_CCP umaga|RBW .|PMP "|PMS
+Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Ano|PRQ ang|DTC ginawa|VBOF mo|PRS sa|CCT paaralan|NNC ?|PMQ "|PMS
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Ako|PRS ay|LM natulog|VBTS lang|RBI sa|CCT paaralan|NNC .|PMP "|PMS
+Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Natutulog|VBTR ka|PRS lang|RBI sa|CCT paaralan|NNC ?|PMQ
+Saang|JJD_CCP bahagi|NNC ng|CCB paaralan|NNC ka|PRS natutulog|VBTR ?|PMQ "|PMS
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Natutulog|VBTR ako|PRS sa|CCT likuran|NNC ng|CCB paaralan|NNC .|PMP "|PMS
+Nag|NNP -|PMS isip|NNC ang|DTC aso|NNC at|CCA nagsulat|VBTS siya|PRS sa|CCT papel|NNC .|PMP
+Sino|PRQ :|PMS Pusa|NNP .|PMP
+Saan|PRQ :|PMS sa|CCT likuran|NNC ng|CCB paaralan|NNC .|PMP
+Paaralan|NNP :|PMS Paaralan|NNP sa|CCT nayon|NNC .|PMP
+Kailan|NNP :|PMS Kaninang|RBD_CCP umaga|RBW .|PMP
+Ano|PRQ ang|DTC ginawa|VBOF :|PMS Natulog|VBTS Bakit|PRQ :|PMS ?|PMQ
+At|CCA sinabi|VBTS ng|CCB Pusa|NNP :|PMS "|PMS Hindi|RBF ako|PRS nag|VBTS -|PMS iisa|JJD sa|CCT paaralan|NNC .|PMP
+May|VBH kasama|CCB ako|PRS .|PMP "|PMS
+Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Sino|PRQ ang|DTC pa|RBI ang|DTC kasama|CCB mo|PRS sa|CCT paaralan|NNC ?|PMQ "|PMS
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Ang|DTC elepante|NNC ay|LM nasa|RBL paaralan|NNC din|RBI "|PMS Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Ano|PRQ ang|DTC ginagawa|VBTR ng|CCB elepante|NNC sa|CCT paaralan|NNC ?|PMQ "|PMS
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Ang|DTC elepante|NNC ay|LM nagpipintura|VBTS "|PMS .|PMP
+Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Ano|PRQ ang|DTC pinipinturahan|VBTR ng|CCB elepante|NNC ?|PMQ "|PMS
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Pinipinturahan|VBOF niya|PRS ang|DTC paaralan|NNC "|PMS .|PMP
+Tanong|NNC ni|DTP Aso|NNP :|PMS "|PMS Paano|PRQ niya|PRS pinipinturahan|VBOF ang|DTC paaralan|NNC ?|PMQ "|PMS
+Sagot|NNC ni|DTP Pusa|NNP :|PMS "|PMS Pinipinturahan|VBOF niya|PRS ang|DTC paaralan|NNC gamit|VBS ang|DTC malaking|JJD_CCP brush|FW na|CCP pampintura|JJD .|PMP
+Natahimik|VBTS ang|DTC pusa|NNC .|PMP
+Nag|NNP -|PMS isip|NNC at|CCA nagsalita|VBTS :|PMS "|PMS Ngayon|RBW alam|VBS ko|PRS na|CCP kung|RBK bakit|RBQ ka|PRS naging|VBTS dilaw|JJD .|PMP "|PMS
+Ang|DTC Pusa|NNP at|CCA ang|DTC Aso|NNC ay|LM naglakad|VBTS papunta|VBW sa|CCT paaralan|NNC .|PMP
+Ang|DTC elepante|NNC ay|LM nagpipintura|VBTS ng|CCB paaralan|NNC .|PMP
+Pinipinturahan|VBTS niya|PRS ang|DTC paaralan|NNC ng|CCB kulay|NNC dilaw|JJD .|PMP
+Pininturahan|VBTR lahat|PRI ng|CCB elepante|NNC .|PMP
+Hindi|RBF lang|RBI ang|DTC paaralan|NNC pati|CCA na|RBI din|RBI ang|DTC pusa|NNC .|PMP
+Paalam|NNP ,|PMC dilaw|JJD na|CCP pusa|NNC .|PMP
+Paalam|NNP ,|PMC aso|NNC .|PMP
+Paalam|NNP ,|PMC elepante|NNC .|PMP

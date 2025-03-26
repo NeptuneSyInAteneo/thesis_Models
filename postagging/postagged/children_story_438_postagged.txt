@@ -1,0 +1,15 @@
+Mahuhulaan|VBTF mo|PRS ba|RBI kung|RBK ano|RBQ ako|PRS ?|PMQ
+Nililinis|NNP ko|PRS ang|DTC iyong|PRSP_CCP mukha|NNC .|PMP
+Hinuhugasan|VBOF ko|PRS ang|DTC iyong|PRSP_CCP mga|DTCP kamay|NNC at|CCA ang|DTC iyong|PRSP_CCP katawan|NNC .|PMP .|PMP
+Nililinis|NNP ko|PRS ang|DTC iyong|PRSP_CCP mga|DTCP damit|NNC .|PMP
+Kapag|CCR ikaw|PRS ay|LM pagod|JJD at|CCA naiinitan|VBTR ,|PMC kailangan|VBS mo|PRS ako|PRS .|PMP
+Tutulungan|NNP kita|NNC kapag|CCR ikaw|PRS ay|LM nauuhaw|VBTR .|PMP
+Pagkatapos|VBW maglaro|VBAF sa|CCT ilalim|JJD ng|CCB araw|NNC ,|PMC kailangan|VBS mo|PRS ako|PRS .|PMP
+Minsan|RBW ay|LM giniginaw|VBOF ka|PRS dahil|CCR sa|CCT akin|PRSP .|PMP
+Napapalutang|VBTS_CCP ko|PRS ang|DTC mga|DTCP bagay|NNC .|PMP
+Nakakalangoy|VBTR ka|PRS dahil|CCR sa|CCT akin|PRSP .|PMP
+Tinutulungan|VBTR_VBOF ko|PRS ang|DTC mga|DTCP bulaklak|NNC at|CCA mga|DTCP halaman|NNC na|CCP tumubo|VBAF .|PMP
+Minsan|RBW ay|LM nakikipaglaro|VBTR ka|PRS sa|CCT akinPalagi|NNP mo|PRS akong|PRS_CCP kailanganKung|JJD_CCP wala|VBN ako|PRS ,|PMC tuyo|JJD ang|DTC lupa|NNC .|PMP
+Kung|CCR wala|VBN ako|PRS ,|PMC malalanta|JJD ang|DTC mga|DTCP bulaklak|NNC at|CCA mga|DTCP halaman|NNC ,|PMC Ano|PRQ ako|PRS ?|PMQ
+Ako|PRS ay|LM tubig|NNC !|PMS
+Wakas|NNP

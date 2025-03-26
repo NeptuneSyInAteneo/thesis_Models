@@ -1,0 +1,58 @@
+Maaliwalas|JJD ang|DTC araw|NNC at|CCA mababaw|JJD ang|DTC tubig|NNC sa|CCT dagat|NNC .|PMP
+Kumikinang|JJD ang|DTC mga|DTCP bato|NNC .|PMP
+Pumunta|VBAF sa|CCT dagat|NNC si|DTP Mere|NNP upang|CCB bisitahin|VBOF ang|DTC kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP "|PMS
+Kumusta|NNP kayo|PRP ,|PMC "|PMS bati|VBS ni|DTP Mere|NNP habang|RBW nakatuntong|VBTS sa|CCT mga|DTCP bato|NNC at|CCA nakalublob|VBTS ang|DTC mga|DTCP paa|NNC sa|CCT tubig|NNC .|PMP
+Si|DTP Bluey|NNP ,|PMC ang|DTC isda|NNC ,|PMC ay|LM lumalangoy|VBTR_VBAF sa|CCT tubig|NNC .|PMP
+Nagpapainit|VBTR naman|RBI sa|CCT ibabaw|JJD ng|CCB mga|DTCP bato|NNC ang|DTC alimangong|NNC_CCP si|DTP Crawly|NNP .|PMP "|PMS
+Ipinakikilala|VBTR ko|PRS ang|DTC bago|RBW nating|PRP_CCP kaibigan|NNC ,|PMC si|DTP Sasha|NNP ,|PMC "|PMS ani|NNC ng|CCB hipong|NNC_CCP si|DTP Jumpy|NNP .|PMP
+Nahihiyang|RBD_CCP lumabas|VBAF ang|DTC sirenang|NNC_CCP si|DTP Sasha|NNP mula|RBL sa|CCT damong|NNC_CCP -|PMS dagat|NNC .|PMP "|PMS
+Kamusta|NNP Sasha|NNP ?|PMQ "|PMS
+bati|VBS ni|DTP Mere|NNP .|PMP "|PMS
+Paano|PRQ ka|PRS nakarating|VBTS dito|PRL ?|PMQ "|PMS "|PMS
+Kagabi|RBW ay|LM inanod|VBTS ako|PRS ng|CCB malaking|JJD_CCP alon|NNC dito|PRL ,|PMC "|PMS kuwento|NNC ni|DTP Sasha|NNP .|PMP "|PMS
+Ngunit|CCT napakahina|JJCS_JJD ko|PRS para|CCT labanan|VBOF ang|DTC malakas|JJD na|CCP alon|NNC .|PMP
+Tingnan|VBOF mo|PRS ,|PMC kalahati|PRI lamang|RBI ang|DTC aking|PRSP_CCP buntot|NNC ,|PMC "|PMS buntong|FW -|PMS hininga|NNC niya|PRS .|PMP
+Iwinasiwas|VBTS niya|PRS sa|CCT ibabaw|NNC ng|CCB tubig|NNC ang|DTC kaniyang|PRSP_CCP buntot|NNC .|PMP "|PMS
+Hindi|RBF ka|PRS mahina|JJD ,|PMC "|PMS sabi|VBS ni|DTP Crawly|NNP .|PMP "|PMS
+Wala|VBN kahit|CCT isa|PRI sa|CCT atin|PRSP ang|DTC maaaring|RBM lumangoy|VBAF laban|NNC sa|CCT malaking|JJD_CCP alon|NNC ,|PMC "|PMS paalala|NNC ni|DTP Crawly|NNP .|PMP "|PMS
+Pero|CCT ano|PRQ ang|DTC nangyari|VBTS sa|CCT iyong|PRSP_CCP buntot|NNC ,|PMC Sasha|NNP ?|PMQ "|PMS
+usisa|JJD nito|PRO .|PMP "|PMS
+Noong|RBW_CCP maliit|JJD pa|RBI ako|PRS ay|LM nahuli|VBTS ako|PRS ng|CCB lambat|NNC ng|CCB mga|DTCP mangingisda|NNC .|PMP
+Naipit|VBTS ang|DTC aking|PRSP_CCP buntot|NNC nang|RBW ako|PRS ay|LM tumakas|VBAF .|PMP
+Kaya|CCR ngayon|RBW ,|PMC pinagtatawanan|VBTR_VBRF ako|PRS ng|CCB ilang|PRQ_CCP mga|DTCP sirena|NNC ,|PMC "|PMS salaysay|NNC ni|DTP Sasha|NNP .|PMP "|PMS
+Naiintindihan|VBTR kita|NNC ,|PMC "|PMS ani|NNC ni|DTP Mere|NNP .|PMP "|PMS
+Ang|DTC kanang|JJD_CCP kamay|NNC ko|PRS rin|RBI ay|LM mahina|JJD ,|PMC at|CCA pinagtatawanan|VBTR_VBRF din|RBI ako|PRS ng|CCB ibang|PRI_CCP mga|DTCP bata|NNC .|PMP "|PMS
+Tinapik|VBTS niya|PRS ang|DTC braso|NNC ni|DTP Sasha|NNP .|PMP "|PMS
+Tayo|NNP '|PMS y|FW magpakatatag|VBW at|CCA huwag|RBF pansinin|VBOF ang|DTC sinasabi|VBTR ng|CCB iba|PRI ,|PMC "|PMS dagdag|JJD pa|RBI niya|PRS .|PMP "|PMS
+Kailangan|VBS ko|PRS nang|RBW umuwi|VBAF ,|PMC Jumpy|NNP ,|PMC "|PMS sabi|VBS ni|DTP Sasha|NNP .|PMP "|PMS
+Paano|PRQ ka|PRS namin|PRP matutulungan|VBTF ,|PMC Sasha|NNP ?|PMQ "|PMS
+tanong|NNC ni|DTP Jumpy|NNP .|PMP "|PMS
+Ialis|NNP natin|PRP siya|PRS sa|CCT tubig|NNC ,|PMC "|PMS mungkahi|NNC ni|DTP Bluey|NNP .|PMP "|PMS
+Mahirap|RBD iyan|PRO ,|PMC "|PMS sagot|NNC ni|DTP Mere|NNP .|PMP "|PMS
+Mayroon|VBH lamang|RBI akong|PRS_CCP isang|PRI_CCP braso|NNC na|CCP magagamit|VBTF .|PMP "|PMS "|PMS
+Alisin|VBOF natin|PRP ang|DTC mga|DTCP bato|NNC ,|PMC "|PMS mungkahi|NNC ni|DTP Crawly|NNP .|PMP
+Itinulak|VBTS nila|PRP ito|PRO nang|RBW itinulak|VBTS ,|PMC ngunit|CCT sadyang|RBD_CCP napakabigat|JJCS_JJD ng|CCB bato|NNC para|CCT ito|PRO ay|LM maitulak|VBW .|PMP
+Dagling|RBF may|VBH naisip|VBTS si|DTP Mere|NNP ,|PMC at|CCA agad|RBD itong|PRO_CCP umuwi|VBAF .|PMP
+Pagbalik|VBW niya|PRS ay|LM may|VBH bitbit|NNC siyang|PRS_CCP dalawang|JJN_CCP salbabida|NNC .|PMP
+Iniabot|VBTS ni|DTP Mere|NNP ang|DTC asul|JJD na|CCP salbabida|NNC kay|DTP Sasha|NNP .|PMP "|PMS
+Ito|PRO namang|RBI_CCP pula|JJD ang|DTC gagamitin|VBTF ko|PRS ,|PMC "|PMS saad|NNC niya|PRS .|PMP
+Tinulungan|VBOF niya|PRS si|DTP Sasha|NNP na|CCP ipalibot|VBOF ang|DTC salbabida|NNC sa|CCT katawan|NNC nito|PRO .|PMP
+Nang|RBW tumaas|VBAF na|CCP ang|DTC tubig|NNC ,|PMC napuno|VBTS na|RBI rin|RBI ang|DTC kanilang|PRSP_CCP pinaglalanguyan|VBRF .|PMP
+Lumutang|VBTR_VBAF sina|DTPP Sasha|NNP at|CCA Mere|NNP sa|CCT ibabaw|NNC nito|PRO .|PMP
+Lumangoy|VBAF sila|PRP sa|CCT gilid|NNC habang|RBW isinisigaw|VBTR ni|DTP Bluey|NNP ang|DTC dapat|VBS nilang|PRP_CCP gawin|VBOF .|PMP
+Hinawakang|NNP_CCP mabuti|JJD nina|DTPP Jumpy|NNP ,|PMC Crawly|NNP ,|PMC at|CCA Mere|NNP ang|DTC salbabida|NNC ni|DTP Sasha|NNP .|PMP
+Sa|CCT tulong|NNC nila|PRP ,|PMC naabot|VBTS ni|DTP Sasha|NNP ang|DTC ibabaw|JJD ng|CCB mga|DTCP bato|NNC .|PMP
+Tuwang|NNP -|PMS tuwa|NNC si|DTP Sasha|NNP .|PMP
+Ngayon|RBW ay|LM makababalik|JJD na|CCP siya|PRS sa|CCT kanilang|PRSP_CCP tahanan|NNC .|PMP
+Huminga|VBAF siya|PRS nang|RBW malalim|JJD at|CCA sumisid|VBAF sa|CCT dagat|NNC .|PMP
+Lumingon|VBAF siya|PRS sa|CCT kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC at|CCA nagpaalam|VBTS .|PMP "|PMS
+Maraming|PRI_CCP salamat|RBS sa|CCT tulong|NNC ninyo|PRP !|PMS "|PMS
+pasasalamat|RBS ni|DTP Sasha|NNP .|PMP "|PMS
+Paalam|NNP sa|CCT inyong|PRSP_CCP lahat|PRI .|PMP "|PMS "|PMS
+Bumalik|VBAF ka|PRS at|CCA dalawin|VBOF mo|PRS kami|PRP agad|RBW ,|PMC Sasha|NNP ,|PMC "|PMS sigaw|NNC ni|DTP Bluey|NNP .|PMP
+Kumaway|VBAF rin|RBI si|DTP Mere|NNP at|CCA kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC kay|DTP Sasha|NNP .|PMP
+Tinanaw|VBTS nila|PRP ito|PRO hanggang|RBW sa|CCT mawala|VBW na|CCP sa|CCT kanilang|PRSP_CCP paningin|NNC sa|CCT dagat|NNC .|PMP "|PMS
+Masaya|NNP akong|PRS_CCP nakatulong|VBTS tayo|PRP ,|PMC "|PMS natutuwang|RBD_CCP sabi|VBS ni|DTP Mere|NNP .|PMP
+Patungkol|RBR sa|CCT proyektong|NNC_CCP ito|PRO :|PMS Ang|DTC panunukso|NNC ,|PMC pang|RBI_CCP -|PMS aapi|FW ,|PMC at|CCA mababang|JJD_CCP tingin|NNC sa|CCT mga|DTCP batang|NNC_CCP may|VBH kapansanan|NNC ay|LM nagiging|VBTR hadlang|NNC sa|CCT kanilang|PRSP_CCP edukasyon|NNC at|CCA iba|PRI pang|RBI_CCP mga|DTCP bagay|NNC .|PMP
+Upang|CCB tugunan|VBOF ang|DTC mga|DTCP hamong|NNC_CCP ito|PRO ,|PMC ang|DTC The|NNP Asia|NNP Foundation|NNP sa|CCT Indonesia|NNP at|CCA ang|DTC Pacific|NNP Islands|NNP ay|LM nakiisa|VBTS sa|CCT pagsulat|NNC ng|CCB sampung|JJN_CCP kuwentong|NNC_CCP makatutulong|RBD sa|CCT mga|DTCP batang|NNC_CCP may|VBH kapansanan|NNC .|PMP
+Maging|VBW masaya|JJD sa|CCT pagbabasa|NNC gamit|VBS ang|DTC mga|DTCP sulat|NNC ,|PMC tunog|NNC ,|PMC o|CCT "|PMS Sign|NNP Language|NNP .|PMP "|PMS

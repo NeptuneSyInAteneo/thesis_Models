@@ -1,0 +1,46 @@
+Si|DTP Vita|NNP ay|LM naatasang|RBD_CCP magbantay|VBW ng|CCB kanyang|PRSP_CCP nakababatang|JJD_CCP kapatid|NNC habang|RBW wala|VBN ang|DTC kanyang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
+Nais|VBS niyang|PRS_CCP maglaro|VBAF ng|CCB duktor|NNC -|PMS dokturan|NNC ngunit|CCT ayaw|RBF naman|RBI ng|CCB kanyang|PRSP_CCP kapatidKinuha|NNC ni|DTP Vita|NNP ang|DTC kanyang|PRSP_CCP laruang|NNC_CCP pang|RBI_CCP -|PMS doktorSinubukang|RBD_CCP suriin|VBOF ni|DTP Vita|NNP si|DTP Veha|NNP .|PMP "|PMS
+Huwag|RBF kang|PRS_CCP malikot|JJD .|PMP
+Hayaan|VBOF mong|PRS_CCP tingnan|VBOF ka|PRS ng|CCB duktor|NNC .|PMP
+Ayaw|RBF ito|PRO ni|DTP Veha|NNP pero|CCT hinayaan|VBTS nya|PRS lang|RBI ang|DTC ate|NNC .|PMP "|PMS
+Ayos|NNP "|PMS ,|PMC ang|DTC sabi|VBS ni|DTP Vita|NNP ,|PMC "|PMS Maganda|JJD ang|DTC temperatura|NNC ng|CCB iyong|PRSP_CCP katawan|NNC .|PMP
+At|CCA normal|JJD ang|DTC tibok|NNC ng|CCB iyong|PRSP_CCP puso|NNC "|PMS .|PMP
+Naiinip|NNP na|CCP si|DTP Veha|NNP .|PMP "|PMS
+Vita|NNP ,|PMC ayoko|NNC ng|CCB larong|NNC_CCP ito|PRO .|PMP
+Maaari|VBS bang|RBI_CCP tagu|NNC -|PMS taguan|NNC na|CCP lang|RBI ang|DTC ating|PRSP_CCP laruin|VBOF ?|PMQ "|PMS "|PMS
+Hindi|RBF maaari|VBS ,|PMC kasi|CCR dalawa|JJN lang|RBI tayo|PRP "|PMS ,|PMC sagot|NNC ni|DTP Vita|NNP .|PMP "|PMS
+Hindi|RBF yun|PRO magiging|VBTF masaya|JJD .|PMP
+Ano|PRQ kaya|CCR kung|CCR ikaw|PRS na|RBI lang|RBI ang|DTC maging|VBW doktor|NNC ?|PMQ "|PMS
+Inabot|VBOF ni|DTP Vita|NNP ang|DTC laruang|NNC_CCP pangdoktor|JJD kay|DTP Veha|NNP .|PMP
+Pero|CCT ayaw|RBF niya|PRS pa|RBI rin|RBI .|PMP
+Nang|RBW tumalikod|VBAF si|DTP Vita|NNP ay|LM tumakbo|VBAF si|DTP Veha|NNP at|CCA nagtago|VBTS .|PMP
+Hinanap|VBOF sya|PRS ni|DTP Vita|NNP pero|CCT hindi|RBF nya|PRS ito|PRO makita|VBW .|PMP "|PMS
+Nasaan|VBTS ka|PRS na|CCP ,|PMC Veha|NNP ?|PMQ "|PMS
+Subalit|CCT wala|VBN siyang|PRS_CCP narinig|VBTS na|CCP sagot|NNC mula|RBL dito|PRL .|PMP
+Tumatawa|VBAF si|DTP Veha|NNP habang|RBW hinahanap|VBTR sya|PRS ni|DTP Vita|NNP .|PMP
+Ngunit|CCT nasira|VBTS ang|DTC upuang|CCB pinapatungan|VBTR niya|PRS .|PMP "|PMS
+Vita|NNP ,|PMC Vita|NNP ,|PMC halika|NNC ,|PMC tulungan|VBTF_VBOF mo|PRS ako|PRS !|PMS "|PMS
+Iyak|NNC ni|DTP Veha|NNP .|PMP
+Tumakbo|VBAF si|DTP Vita|NNP papunta|RBL kay|DTP Veha|NNP at|CCA nakita|VBTS niyang|PRS_CCP nasugatan|VBTS sa|CCT tuhod|NNC ang|DTC kaniyang|PRSP_CCP kapatid|NNC .|PMP
+Hiniling|VBOF niyang|PRS_CCP sana|VBS andoon|VBOF ang|DTC kanilang|PRSP_CCP magulang|NNC para|CCT sila|PRP ay|LM tulungan|VBTF_VBOF .|PMP
+Pagkatapos|VBW ,|PMC biglang|RBD_CCP nakaisip|VBTS ng|CCB ideya|NNC si|DTP Vita|NNP ,|PMC kung|CCR makakahanap|VBTF siya|PRS ng|CCB bendahe|NNC ,|PMC maaari|VBS siyang|PRS_CCP maging|VBW totoong|JJD_CCP doktor|NNC para|CCT sa|CCT kaniyang|PRSP_CCP kapatid|NNC !|PMS "|PMS
+Sinubukan|VBTS nyang|PRS_CCP buksan|VBOF ang|DTC kahon|NNC ng|CCB mga|DTCP bandana|NNC pero|CCT nahulog|VBTS nya|PRS ang|DTC susi|NNC nito|PRO sa|CCT ilalim|JJD ng|CCB mabigat|JJD na|CCP kahon|NNC .|PMP
+Nakaisip|VBTS ng|CCB ideya|NNC si|DTP Veha|NNP .|PMP "|PMS
+Maaari|VBS natin|PRP iangat|VBOF ang|DTC kahon|NNC sa|CCT pamamagitan|NNC ng|CCB bloke|NNC at|CCA mahabang|JJD_CCP kahoy|NNC .|PMP "|PMS "|PMS
+Wow|NNP !|PMS
+Nagawa|VBTS natin|PRP !|PMS "|PMS
+Sambit|NNP ni|DTP Vita|NNP .|PMP "|PMS
+Saan|PRQ mo|PRS natutunan|VBTR ito|PRO ?|PMQ "|PMS "|PMS
+Nakita|VBTS ko|PRS minsan|RBW si|DTP Dad|NNP na|CCP ginawa|VBOF ito|PRO ,|PMC "|PMS sagot|NNC ni|DTP Veha|NNP .|PMP
+Binabalutan|VBTR ni|DTP Vita|NNP ang|DTC tuhod|NNC ng|CCB kaniyang|PRSP_CCP kapatid|NNC nang|RBW dumating|VBAF ang|DTC kanilang|PRSP_CCP magulang|NNC .|PMP "|PMS
+Inay|NNP at|CCA Itay|NNP ,|PMC tingan|VBOF mo|PRS po|RBS o|CCT !|PMS "|PMS
+sabi|VBS ni|DTP Veha|NNP ,|PMC "|PMS tinutulungan|VBTR ako|PRS ni|DTP Vita|NNP nang|RBW parang|CCT isang|PRI_CCP totoong|RBT_CCP duktor|NNC !|PMS "|PMS "|PMS
+Ipinagmamalaki|VBTR ka|PRS namin|PRP ,|PMC Vita|NNP ,|PMC "|PMS sabi|VBS ng|CCB kanilang|PRSP_CCP magulang|NNC .|PMP "|PMS
+Sa|CCT susunod|JJD ,|PMC mag|VBW -|PMS ingat|NNC ka|PRS ,|PMC Veha|NNP !|PMS
+At|CCA simula|RBW noon|RBW ,|PMC si|DTP Vita|NNP at|CCA Veha|NNP ay|LM magkasamang|RBD_CCP naglalaro|VBTR ng|CCB duktor|NNC -|PMS duktoran|FW .|PMP .|PMP "|PMS
+Vita|NNP ,|PMC andito|CDB na|CCP ang|DTC pasyente|NNC mo|PRS !|PMQ
+Sabi|VBS ni|DTP Veha|NNP .|PMP "|PMS
+Sige|NNP ,|PMC suriin|VBOF ko|PRS na|CCP ang|DTC pasyente|NNC !|PMS "|PMS
+,|PMC sabi|VBS ni|DTP Vita|NNP .|PMP
+Buong|PRI_CCP pagmamalaki|NNC silang|PRP_CCP pinagmamasdan|VBTR_VBRF ng|CCB kanilang|PRSP_CCP magulang|NNC ,|PMC masaya|JJD sila|PRP na|CCP nagkakasundo|VBTR ang|DTC kanilang|PRSP_CCP mga|DTCP anak|NNC .|PMP
+Lubos|JJCS pa|RBI ang|DTC kanilang|PRSP_CCP ligaya|NNC para|CCT sa|CCT mga|DTCP anak|NNC dahil|CCR kaya|CCR nilang|PRP_CCP alagaan|VBOF ang|DTC isa|PRI '|PMS t|NNCA isa|PRI .|PMP

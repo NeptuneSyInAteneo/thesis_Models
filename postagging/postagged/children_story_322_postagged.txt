@@ -1,0 +1,40 @@
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC ang|DTC pagong|NNC ay|LM walang|VBN_CCP talukab|NNC sa|CCT likod|NNC .|PMP
+Hirap|JJD na|CCP hirap|NNC siya|PRS kapag|CCR mainit|JJD ,|PMC maulan|JJD ,|PMC at|CCA malamig|JJD ang|DTC panahon|NNC !|PMS
+Ninais|VBTS niyang|PRS_CCP makagawa|VBW ng|CCB sarili|NNC niyang|PRS_CCP bahay|NNC .|PMP
+Kaya|CCR sinimulan|VBTS niyang|PRS_CCP mangolekta|VBW ng|CCB materyales|NNC .|PMP
+Ang|DTC pagong|NNC ay|LM may|VBH kabagalan|NNC sa|CCT pagkilos|NNC .|PMP
+Hindi|RBF siya|PRS nakakuha|VBTS ng|CCB sapat|JJD na|CCP sanga|NNC ng|CCB puno|NNC para|CCT makagawa|VBW ng|CCB maayos|JJD na|CCP bahay|NNC .|PMP
+Umupo|VBAF siya|PRS at|CCA nag|VBTS -|PMS isip|NNC kung|RBK ano|RBQ ang|DTC pwede|VBS niyang|PRS_CCP gawin|VBOF .|PMP
+Matapos|VBW ang|DTC matagal|JJD na|CCP pag|CCR -|PMS iisip|FW ,|PMC nagpasya|VBTS siyang|PRS_CCP maghanap|VBW ng|CCB mga|DTCP bahay|NNC na|CCP gawa|VBS na|RBI .|PMP
+Nakatagpo|VBTS siya|PRS ng|CCB kuweba|NNC .|PMP
+Sumilip|VBAF siya|PRS sa|CCT loob|NNC .|PMP
+Mukhang|RBM ito|PRO ay|LM mainit|JJD at|CCA tuyo|JJD .|PMP
+Ngunit|CCT ang|DTC kuweba|NNC ay|LM pagmamay|NNC -|PMS ari|NNC ng|CCB kuneho|NNC at|CCA ng|CCB mga|DTCP anak|NNC nito|PRO .|PMP
+Umakyat|VBAF siya|PRS sa|CCT isang|PRI_CCP puno|NNC .|PMP
+Ngunit|CCT hinabol|VBOF siya|PRS ng|CCB mga|DTCP maiingay|VBW at|CCA nag|VBTS -|PMS iiyakang|NNC_CCP mga|DTCP ibon|NNC sa|CCT kanilang|PRSP_CCP pugad|NNC .|PMP
+Malungkot|JJD na|CCP umalis|VBAF ang|DTC pagong|NNC habang|RBW pawis|NNC na|CCP pawis|NNC sa|CCT ilalim|JJD ng|CCB sikat|JJD ng|CCB araw|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC habang|RBW pagala|NNC -|PMS gala|NNC ang|DTC pagong|NNC ay|LM natagpuan|VBTS niya|PRS ang|DTC baka|NNC kasama|CCB ang|DTC kaniyang|PRSP_CCP mga|DTCP anak|NNC sa|CCT bakuran|NNC nito|PRO .|PMP "|PMS
+Puwede|NNP ba|FW akong|PRS_CCP sumali|VBAF ?|PMQ "|PMS
+tanong|NNC ng|CCB pagong|NNC .|PMP "|PMS
+Paumanhin|RBS ,|PMC "|PMS sagot|NNC ng|CCB baka|NNC ,|PMC "|PMS ngunit|CCT hindi|RBF ka|PRS namin|PRP matutulungan|VBTF .|PMP
+Puno|JJD na|CCP rito|PRL .|PMP "|PMS
+Nang|RBW umalis|VBAF siya|PRS sa|CCT bakuran|NNC ng|CCB mga|DTCP baka|NNC ay|LM napadaan|VBTS siya|PRS sa|CCT lilim|NNC ng|CCB isang|PRI_CCP puno|NNC .|PMP
+Pumatak|VBAF sa|CCT kaniyang|PRSP_CCP likod|JJD ang|DTC mga|DTCP dagta|NNC ng|CCB puno|NNC .|PMP
+Nagustuhan|VBTS ni|DTP Pagong|NNP ang|DTC lamig|NNC na|CCP dulot|JJD ng|CCB dagta|NNC na|CCP dumudulas|VBTR_VBAF sa|CCT buong|PRI_CCP likod|NNC niya|PRS .|PMP
+Dahil|CCR napakainit|JJCS_JJD ng|CCB panahon|NNC ay|LM tumigil|VBAF siya|PRS sandali|RBW upang|CCB magpahinga|VBW .|PMP
+Ang|DTC kaniyang|PRSP_CCP likod|NNC ay|LM babad|VBTF na|CCP babad|VBTF sa|CCT dagtaNang|RBD_CCP naglalakad|VBTR na|CCP siya|PRS palayo|RBD ay|LM napansin|VBTS niya|PRS ang|DTC piraso|NNC ng|CCB balat|NNC ng|CCB puno|NNC na|CCP dumikit|VBAF sa|CCT kaniyang|PRSP_CCP likod|NNC .|PMP
+Dikit|JJD na|CCP dikit|NNC ito|PRO .|PMP
+Pinulot|VBOF ng|CCB pagong|NNC ang|DTC ibang|PRI_CCP piraso|NNC ng|CCB balat|NNC ng|CCB puno|NNC at|CCA inilagay|VBTS ito|PRO sa|CCT kaniyang|PRSP_CCP likod|NNC .|PMP
+Pagkatapos|VBW ay|LM naglagay|VBTS siya|PRS ng|CCB isa|PRI pa|RBI ,|PMC at|CCA isa|PRI pa|RBI .|PMP
+Humiga|VBAF siya|PRS upang|CCB lalong|JJCC_CCP dumikit|VBAF ang|DTC mga|DTCP balat|NNC ng|CCB puno|NNC .|PMP
+Noong|RBW_CCP siya|PRS ay|LM lumakad|VBAF sa|CCT ilalim|JJD ng|CCB tirik|NNC na|CCP sikat|JJD ng|CCB araw|NNC ,|PMC wala|VBN sa|CCT mga|DTCP idinikit|VBOF niyang|PRS_CCP piraso|NNC ang|DTC nahulog|VBTS .|PMP
+Tumalon|VBAF siya|PRS sa|CCT tubig|NNC at|CCA nagtampisaw|VBTR .|PMP
+Malamig|JJD na|CCP rin|RBI sa|CCT wakas|RBW .|PMP
+Higit|JJCC sa|CCT lahat|PRI ,|PMC nanatiling|VBTR_CCP nakadikit|VBTS ang|DTC mga|DTCP piraso|NNC ng|CCB balat|NNC ng|CCB puno|NNC sa|CCT kaniyang|PRSP_CCP likod|NNC .|PMP
+Naglaro|VBTS ang|DTC pagong|NNC sa|CCT buhanginan|NNC .|PMP
+Ang|DTC mga|DTCP balat|NNC ng|CCB puno|NNC ay|LM nakadikit|VBTS pa|RBI rin|RBI sa|CCT kaniyang|PRSP_CCP likod|NNC .|PMP
+Ngayon|RBW ang|DTC pagong|NNC ay|LM komportable|JJD na|CCP kahit|CCT ano|PRQ man|RBI ang|DTC magiging|VBTF panahon|NNC .|PMP
+Hindi|RBF na|CCP siya|PRS takot|NNC sa|CCT init|NNC ,|PMC ulan|NNC ,|PMC o|CCT lamig|NNC .|PMP
+Ang|DTC mga|DTCP piraso|NNC ng|CCB balat|NNC ng|CCB puno|NNC ay|LM mananatili|VBTF sa|CCT kaniyang|PRSP_CCP likod|NNC magpakailanman|RBW .|PMP
+Sa|CCT wakas|RBW ,|PMC nakagawa|VBTS na|RBI ang|DTC pagong|NNC ng|CCB kaniyang|PRSP_CCP tirahan|NNC .|PMP
+Dala|VBS -|PMS dala|JJD niya|PRS ito|PRO at|CCA ipinagmamalaki|VBTS hanggang|RBW sa|CCT ngayon|RBW !|PMQ

@@ -1,0 +1,39 @@
+Ang|DTC saya|NNC !|PMS
+Halika|NNP at|CCA tumalon|VBAF tayo|PRP nang|RBD mataas|RBD papunta|RBD sa|CCT tubig|NNC !|PMS
+Tuwang|NNP -|PMS tuwa|NNC na|CCP sigaw|NNC ng|CCB mga|DTCP bata|NNC .|PMP "|PMS
+Ako|PRS ay|LM magiging|VBTF pating|NNC at|CCA tatawaging|VBTF_CCP Tip|NNC ang|DTC Pating|NNC sa|CCT Dagat|NNP .|PMP "|PMS
+Ika|JJN ni|DTP Tip|NNP .|PMP "|PMS
+Tignan|VBOF niyo|PRP ,|PMC napakalayo|JJCS_JJD ng|CCB kaya|CCR kong|PRS_CCP languyin|FW !|PMS "|PMS
+pagyayabang|NNC ni|DTP Tip|NNP .|PMP
+Pero|CCT napasimangot|VBTS ang|DTC ibang|PRI_CCP bata|NNC .|PMP "|PMS
+Ano|PRQ ba|RBI iyan|PRO .|PMP
+Wala|VBN na|CCP siya|PRS ,|PMC iniwan|VBOF niya|PRS tayo|PRP dito|PRL !|PMS "|PMS
+sambit|NNC nila|PRP .|PMP "|PMS
+Ayos|NNP lang|RBI ,|PMC tara|NNC at|CCA tayo|PRP na|RBI lang|RBI ang|DTC maglaro|VBAF .|PMP "|PMS
+mungkahi|NNC ni|DTP Bo|NNP .|PMP
+Isipin|VBOF nating|PRP_CCP ito|PRO ay|LM isang|PRI_CCP kahanga|JJD -|PMS hangang|RBW barko|NNC .|PMP
+May|VBH mabangis|JJD na|CCP pating|NNC na|CCP umaaligid|VBTR sa|CCT inyong|PRSP_CCP bangka|NNC .|PMP "|PMS
+Eekkk|NNP …|PMS nakakatakot|RBD !|PMQ
+Isang|PRI_CCP pating|NNC at|CCA isang|PRI_CCP '|PMS isda|NNC '|PMS na|CCP kumakahol|VBTR_VBAF !|PMS "|PMS
+sigaw|NNC ni|DTP Nana|NNP .|PMP "|PMS
+Kakagatin|VBOF nila|PRP tayo|PRP !|PMS "|PMS
+sigaw|NNC din|RBI ni|DTP Namie|NNP .|PMP
+Hihihi|NNP ...|PMS Ang|DTC masayang|JJD_CCP tawanan|NNC ay|LM sobrang|JJCS_CCP lakas|NNC na|CCP umabot|VBAF ito|PRO sa|CCT kung|RBK saan|RBQ si|DTP Tip|NNP ay|LM lumalangoy|VBTR_VBAF .|PMP "|PMS
+Eh|NNP ?|PMQ
+Pero|CCT hindi|RBF ba|RBI '|PMS t|NNCA ako|PRS ang|DTC Pating|NNC ?|PMQ "|PMS
+banggit|NNC ni|DTP Tip|NNP .|PMP "|PMS
+Grr|NNP ...|PMS grr|FW !|PMS
+Narito|VBTS na|RBI ang|DTC pinakamabangis|JJCS_JJD na|CCP pating|NNC !|PMS
+Kapag|CCR lumabas|VBAF kayo|PRP ng|CCB bangka|NNC ,|PMC siguradong|RBT_CCP kakainin|VBTF kayo|PRP .|PMP "|PMS
+Swissssshhh|NNP !|PMS
+Swissssshhh|NNP !|PMS "|PMS
+Narito|VBTS na|RBI ang|DTC tunay|JJD na|CCP Pating|NNC !|PMS "|PMS "|PMS
+Hindi|RBF puwede|RBT !|PMQ
+Si|DTP Bo|NNP ang|DTC tunay|JJD na|CCP Pating|NNC .|PMP "|PMS "|PMS
+Bakit|PRQ hindi|RBF na|RBI lang|RBI tayo|PRP maging|VBW pating|NNC pareho|JJC ?|PMQ "|PMS
+sabi|VBS ni|DTP Tip|NNP .|PMP "|PMS
+Eto|PRO na|CCP ang|DTC mga|DTCP pating|NNC !|PMS "|PMS
+sigaw|NNC nina|DTPP Bo|NNP at|CCA Tip|NNC .|PMP "|PMS
+Hindi|RBF na|CCP kami|PRP takot|NNC sa|CCT mga|DTCP pating|NNC .|PMP
+May|VBH guwardiya|NNC na|CCP kaming|PRP_CCP kumakahol|VBAF na|CCP isda|NNC .|PMP "|PMS
+bungisngis|VBTR nina|DTPP Na|CCP and|FW Namie|FW .|PMP

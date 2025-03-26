@@ -1,0 +1,28 @@
+Si|DTP Tinny|NNP Tim|NNP ay|LM nakaupo|VBTS sa|CCT may|VBH kalsada|NNC nang|CCB may|VBH butones|NNC na|CCP tumalbog|VBAF papunta|VBW sa|CCT kaniya|PRSP .|PMP "|PMS
+Saan|PRQ kaya|CCR nanggaling|VBTS itong|PRO_CCP butones|NNC na|CCP ito|PRO ,|PMC "|PMS sinabi|VBTS niya|PRS sa|CCT sarili|NNC .|PMP
+Gusto|VBS niyang|PRS_CCP malaman|VBW kung|RBK saan|RBQ ito|PRO nanggaling|VBTS .|PMP
+Maraming|PRI_CCP kaganapan|NNC sa|CCT gilid|JJD ng|CCB kalsada|NNC na|CCP kaniyang|PRSP_CCP dinadaanan|VBTR .|PMP "|PMS
+Naku|NNP po|RBS !|PMS "|PMS
+muntik|RBD na|CCP siyang|PRS_CCP matapakan|VBW .|PMP
+Masuwerte|RBD siyang|PRS_CCP nakaiwas|RBD .|PMP "|PMS
+Nakakatakot|VBTR naman|RBI dito|PRL ,|PMC "|PMS sabi|VBS niya|PRS .|PMP "|PMS
+Mawalang|NNP_CCP galang|NNC po|RBS ,|PMC sa|CCT inyo|PRSP po|RBS ba|RBI ito|PRO ?|PMQ "|PMS
+Hindi|RBF sumagot|VBAF ang|DTC berdeng|JJD_CCP lalaki|NNC .|PMP
+Naging|VBTS pula|JJD lang|RBI siya|PRS .|PMP "|PMS
+Ang|DTC bastos|JJD ng|CCB taong|NNC_CCP ito|PRO .|PMP "|PMS
+Patuloy|RBD na|CCP hinanap|VBTS ni|DTP Tinny|NNP Tim|NNP ang|DTC may|VBH -|PMS ari|NNC ng|CCB butones|NNC .|PMP "|PMS
+Kaninong|NNP_CCP butones|NNC ito|PRO ?|PMQ "|PMS "|PMS
+Naku|NNP po|RBS .|PMP .|PMP !|PMQ "|PMS
+...|PMS buti|FW nalang|RBD_CCP mabait|JJD siya|PRS .|PMP "|PMS "|PMS
+Kailangan|VBS kong|PRS_CCP makatawid|VBW sa|CCT kabilang|JJD_CCP kalsada|NNC .|PMP
+Sigurado|NNP akong|PRS_CCP doon|PRL galing|RBL ang|DTC butones|NNC na|CCP ito|PRO .|PMP "|PMS
+WUSSHHH|NNPA !|PMS "|PMS
+Nako|NNP ,|PMC muntik|RBD na|CCP iyon|PRO .|PMP "|PMS
+Naghintay|VBTS siyang|PRS_CCP makalagpas|VBW ang|DTC mga|DTCP sasakyan|NNC bago|RBW siya|PRS tumawid|VBAF .|PMP
+Siguro|RBM siya|PRS na|CCP ang|DTC kaniyang|PRSP_CCP hinahanap|VBTR .|PMP "|PMS
+Kumusta|NNP ,|PMC anong|PRQ_CCP pangalan|NNC mo|PRS ?|PMQ "|PMS "|PMS
+Ako|PRS si|DTP Ruby|NNP Rags|NNP .|PMP "|PMS "|PMS
+Sa|CCT tingin|NNC ko|PRS ,|PMC sa|CCT iyo|PRSP ito|PRO .|PMP "|PMS
+ang|DTC sabi|VBS niya|PRS .|PMP "|PMS
+Salamat|RBS munting|JJD_CCP robot|NNC .|PMP
+Puwede|NNP ba|FW tayo|PRP maging|VBW magkaibigan|NNC ?|PMQ "|PMS

@@ -1,0 +1,37 @@
+Pagkatapos|VBW ng|CCB kanilang|PRSP_CCP klase|NNC ,|PMC nagbigay|VBTS ng|CCB mahalagang|JJD_CCP anunsyo|NNC ang|DTC kanilang|PRSP_CCP guro|NNC ,|PMC "|PMS Mga|DTCP bata|NNC ang|DTC ating|PRSP_CCP paaralan|NNC ay|LM magkakaroon|VBTF ng|CCB patimpalak|NNC sa|CCT pagreresiklo|NNC ,|PMC at|CCA ang|DTC mananalo|VBTF ay|LM makatatanggap|VBW ng|CCB malaking|JJD_CCP premyo|NNC "|PMS ,|PMC sabi|VBS ng|CCB guro|NNC .|PMP
+Nagsimulang|VBTS_CCP mag|VBW -|PMS isip|NNC ng|CCB kani|NNC -|PMS kanilang|PRSP_CCP ideya|NNC ang|DTC mga|DTCP kaibigan|NNC ni|DTP Dory|NNP .|PMP "|PMS
+Gagawin|VBTF kong|PRS_CCP maliit|JJD na|CCP sasakyan|NNC ang|DTC mga|DTCP plastik|JJD ng|CCB bote|NNC !|PMS "|PMS
+sabi|VBS ng|CCB kanyang|PRSP_CCP kaibigang|NNC_CCP lalaki|NNC .|PMP "|PMS
+Gagawa|VBTF ako|PRS ng|CCB eroplano|NNC gamit|VBS ang|DTC lata|NNC !|PMS "|PMS
+sigaw|NNC ng|CCB kanyang|PRSP_CCP kaibingang|JJD_CCP babae|NNC .|PMP
+Nais|VBS manalo|VBW ni|DTP Dory|NNP sa|CCT patimpalak|NNC .|PMP "|PMS
+Lahat|PRI na|CCP may|VBH ideya|NNC para|CCT sa|CCT patimpalak|NNC ,|PMC ano|PRQ kaya|CCR ang|DTC ang|DTC gagawin|VBTF ko|PRS ?|PMQ
+tanong|NNC niya|PRS sa|CCT sarili|NNC .|PMP
+Nagbike|VBTS siya|PRS pauwi|JJD habang|RBW iniisip|VBTR ang|DTC kanyang|PRSP_CCP gagawin|VBTF para|CCT sa|CCT patimpalak|NNC .|PMP
+Crash|NNP !|PMS
+Nasagasaan|VBTR nito|PRO ang|DTC isang|PRI_CCP lata|NNC ng|CCB soy|FW milk|FW at|CCA tuluyang|RBD_CCP nahulog|VBTS si|DTP Dory|NNP sa|CCT putikan|NNC .|PMP "|PMS
+Hala!ito|NNP ang|DTC latang|NNC_CCP itinapon|VBTS ko|PRS kahapon|JJD ng|CCB umaga|RBW habang|RBW papasok|VBTF sa|CCT paaralan|NNC !|PMS "|PMS .|PMP "|PMS
+Nakakainis|VBTR kang|PRS_CCP lata|NNC ka|PRS ,|PMC linisin|VBOF mo|PRS itong|PRO_CCP damit|NNC ko|PRS !|PMS "|PMS
+sumbat|NNC ni|DTP Dory|NNP sa|CCT lata|NNC .|PMP
+Habang|RBW hawak|NNC ni|DTP Dory|NNP ang|DTC lata|NNC ,|PMC "|PMS Paano|PRQ nga|RBI pala|NNC malilinis|VBW ng|CCB latang|NNC_CCP ito|PRO ang|DTC damit|NNC ko|PRS ?|PMQ "|PMS
+tanong|NNC nito|PRO sa|CCT sarili.biglang|RBD_CCP nagkaroon|VBTS ng|CCB ideya|NNC si|DTP Dory|NNP .|PMP "|PMS
+Paano|PRQ kaya|CCR kung|CCR gawin|VBOF ang|DTC mga|DTCP gamit|NNC na|CCP lata|NNC upang|CCB makagawa|VBW ng|CCB magnadang|JJD_CCP damit|NNC ?!|PMS "|PMS
+sigaw|NNC niya|PRS .|PMP
+Masaya|NNP at|CCA nagmadaling|RBD_CCP umuwi|VBAF si|DTP Dory|NNP at|CCA nagsimulang|RBD_CCP maghanap|VBW ng|CCB mga|DTCP lata|NNC .|PMP
+Tinulungan|VBOF siya|PRS ng|CCB kaniyang|PRSP_CCP nakababatang|JJD_CCP kapatid|NNC .|PMP
+Pagkaraan|VBW ng|CCB ilang|PRQ_CCP oras|NNC ng|CCB pagpaplano|VBW at|CCA paggawa|VBW ,|PMC "|PMS Hurraayyy|FW !|PMS
+Malapit|JJD na|CCP matapos|VBW !|PMS "|PMS
+masayang|JJD_CCP sabi|VBS ni|DTP Dory|NNP .|PMP
+Claaannggg|NNP !!|PMS
+hindi|RBF sinasadyang|RBD_CCP masagi|VBW ng|CCB kaniyang|PRSP_CCP nakababatang|JJD_CCP kapatid|NNC ang|DTC damit|NNC .|PMP
+Muling|RBW_CCP nasira|VBTS ang|DTC damit|NNC .|PMP
+Nadismaya|VBTS si|DTP Dory|NNP .|PMP
+Nalungkot|VBTS ang|DTC kanyang|PRSP_CCP kapatid|NNC habang|RBW sinusubukang|RBD_CCP ayusin|VBOF uli|RBW ang|DTC damit|NNC .|PMP "|PMS
+Siguro|RBM hindi|RBF para|CCT sa|CCT akin|PRSP ang|DTC patimpalak|NNC na|CCP ito|PRO "|PMS malungkot|JJD na|CCP sabi|VBS ni|DTP Dory|NNP .|PMP
+Nakakita|VBTS si|DTP Dory|NNP ng|CCB manika|NNC na|CCP may|VBH suot|JJD na|CCP mahabang|JJD_CCP damit|NNC ,|PMC at|CCA nagkaroon|VBTS siya|PRS ng|CCB bagong|JJD_CCP ideya|NNC .|PMP "|PMS
+Gumawa|VBAF tayo|PRP ng|CCB bagong|JJD_CCP damit|NNC !|PMS "|PMS "|PMS
+Pakiabot|NNP sa|CCT akin|PRSP ang|DTC lata|NNC "|PMS sambit|NNC nito|PRO sa|CCT kanyang|PRSP_CCP kapatid|NNC .|PMP
+Sa|CCT tulong|NNC ng|CCB kanyang|PRSP_CCP nakababatang|JJD_CCP kapatid|NNC ,|PMC natapos|VBTS ni|DTP Dory|NNP ang|DTC ikawalang|JJN_CCP damit|NNC at|CCA ito|PRO ay|LM mas|JJCC maganda|JJD pa|RBI kaysa|JJC sa|CCT unang|JJN_CCP gawa|NNC niya|PRS .|PMP
+Handang|RBD_CCP handa|JJD na|CCP Si|DTP Dory|NNP sa|CCT patimpalak|NNC .|PMP
+Sa|CCT araw|NNC ng|CCB patimpalak|NNC ,|PMC lahat|PRI ay|LM namangha|VBTS sa|CCT ipinakitang|VBTS_CCP galing|RBL at|CCA pagkamalikhain|NNC ni|DTP Dory|NNP !|PMS
+WAKAS|NNPA

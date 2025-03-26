@@ -1,0 +1,43 @@
+Ito|PRO si|DTP Pusa|NNP .|PMP
+Ito|PRO si|DTP Aso|NNP .|PMP
+Gabi|RBW na|RBI .|PMP
+Madilim|JJD .|PMP
+Malamig|JJD .|PMP
+Sobrang|JJCS_CCP lamig|NNC .|PMP
+Para|CCT kay|DTP Aso|NNP ,|PMC ito|PRO ay|LM napakalamig|JJCS_JJD .|PMP
+Binigyan|VBOF ni|DTP Pusa|NNP ng|CCB damit|NNC na|CCP panloob|JJD si|DTP Aso|NNP .|PMP
+Ang|DTC isang|PRI_CCP pares|NNC ay|LM madumi|JJD .|PMP
+Ang|DTC isang|PRI_CCP pares|NNC ay|LM malinis|JJD .|PMP
+Kinuha|VBOF ni|DTP Aso|NNP ang|DTC malinis|JJD na|CCP damit|NNC na|CCP panloob|JJD ,|PMC ngunit|CCT napakalamig|JJCS_JJD pa|RBI rin|RBI .|PMP
+Binigyan|VBOF ni|DTP Pusa|NNP ng|CCB mga|DTCP damit|NNC si|DTP Aso|NNP .|PMP
+Ang|DTC isang|PRI_CCP damit|NNC ay|LM malaki|JJD .|PMP
+Ang|DTC isang|PRI_CCP damit|NNC ay|LM maliit|JJD .|PMP
+Kinuha|VBOF ni|DTP Aso|NNP ang|DTC malaking|JJD_CCP damit|NNC ,|PMC ngunit|CCT napakalamig|JJCS_JJD pa|RBI rin|RBI .|PMP
+Binigyan|VBOF ni|DTP Pusa|NNP ng|CCB mga|DTCP pantalon|NNC si|DTP Aso|NNP .|PMP
+Ang|DTC isang|PRI_CCP pares|NNC na|CCP pantalon|NNC ay|LM mahaba|JJD .|PMP
+Ang|DTC isang|PRI_CCP pares|NNC na|CCP pantalon|NNC ay|LM maikli|JJD .|PMP
+Kinuha|VBOF ni|DTP Aso|NNP ang|DTC mahabang|JJD_CCP pares|NNC na|CCP pantalon|NNC ,|PMC ngunit|CCT napakalamig|JJCS_JJD pa|RBI rin|RBI .|PMP
+Binigyan|VBOF ni|DTP Pusa|NNP ng|CCB tsaleko|NNC si|DTP Aso|NNP ,|PMC Ang|DTC isang|PRI_CCP tsaleko|NNC ay|LM basa|JJD .|PMP
+Ang|DTC isang|PRI_CCP tsaleko|NNC ay|LM tuyo|JJD .|PMP
+Kinuha|VBOF ni|DTP Aso|NNP ang|DTC tuyong|JJD_CCP tsaleko|NNC ,|PMC ngunit|CCT napakalamig|JJCS_JJD pa|RBI rin|RBI .|PMP
+Binigyan|VBOF ni|DTP Pusa|NNP ng|CCB mga|DTCP dyaket|NNC si|DTP Aso|NNP .|PMP
+Ang|DTC isang|PRI_CCP dyaket|FW ay|LM makapal|JJD .|PMP
+Ang|DTC isang|PRI_CCP dyaket|FW ay|LM manipis|JJD .|PMP
+Kinuha|VBOF ni|DTP Aso|NNP ang|DTC makapal|JJD na|CCP dyaket|NNC ,|PMC ngunit|CCT napakalamig|JJCS_JJD pa|RBI rin|RBI .|PMP
+Binigyan|VBOF ni|DTP Pusa|NNP ng|CCB mga|DTCP sombrero|NNC si|DTP Aso|NNP .|PMP
+Ang|DTC isang|PRI_CCP sombrero|NNC ay|LM mataas|JJD .|PMP
+Ang|DTC isang|PRI_CCP sombrero|NNC ay|LM mababa|JJD .|PMP
+Kinuha|VBOF ni|DTP Aso|NNP ang|DTC mataas|JJD na|CCP sombrero|NNC ,|PMC ngunit|CCT napakalamig|JJCS_JJD pa|RBI rin|RBI .|PMP
+Binigyan|VBOF ni|DTP Pusa|NNP ng|CCB mga|DTCP sapatos|NNC si|DTP Aso|NNP .|PMP
+Ang|DTC isang|PRI_CCP pares|NNC na|CCP sapatos|NNC ay|LM bago|RBW .|PMP
+Ang|DTC isang|PRI_CCP pares|NNC na|CCP sapatos|NNC ay|LM luma|JJD .|PMP
+Kinuha|VBOF ni|DTP Aso|NNP ang|DTC bagong|JJD_CCP sapatos|NNC at|CCA pagkatapos|VBW ...|PMS Hindi|RBF na|CCP siya|PRS gaanong|PRC_CCP nilalamig|VBTR .|PMP
+Lumipas|VBAF na|RBI ang|DTC gabi|NNC .|PMP
+Umalis|VBAF na|RBI ang|DTC buwan|NNC .|PMP
+Dumating|VBAF na|RBI ang|DTC araw|NNC .|PMP
+Umaga|RBW na|RBI .|PMP
+Maliwanag|RBD na|RBI .|PMP
+Mainit|JJD na|RBI .|PMP
+At|CCA para|CCT kay|DTP Aso|NNP ,|PMC napakainit|JJCS_JJD na|CCP rin|RBI .|PMP
+Paalam|NNP ,|PMC Pusa|NNP .|PMP
+Paalam|NNP ,|PMC Aso|NNC .|PMP

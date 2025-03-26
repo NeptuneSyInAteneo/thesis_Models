@@ -1,0 +1,32 @@
+Isang|PRI_CCP Abalang|NNC_CCP Araw|NNP Isinulat|VBTS ni|DTP Chisanga|NNP Mukuka|NNP Ginuhit|VBOF ni|DTP El|NNP MartoAbalang|NNP -|PMS abala|NNC kami|PRP ngayong|RBW_CCP araw|NNC .|PMP
+Marami|PRI kaming|PRP_CCP dapat|VBS na|CCP magawa|VBW at|CCA makita|VBW ni|DTP Nanay|NNP .|PMP
+Naglakad|VBTS kami|PRP patungo|RBL sa|CCT istasyon|NNC and|CCA kita|NNC naming|PRP_CCP nakapila|VBTS ang|DTC mga|DTCP tao|NNC .|PMP
+Bata|NNP ,|PMC matanda|JJD ,|PMC maiingay|JJD at|CCA tahimik|JJD ,|PMC lahat|PRI papuntang|RBL_CCP bayan|NNC .|PMP
+Sa|CCT bintana|NNC ng|CCB bus|NNC na|CCP sinasakyan|VBTR namin|PRP ,|PMC tanaw|VBS ko|PRS ang|DTC iba|PRI '|PMS t|NNCA ibang|PRI_CCP sasakyan|NNC .|PMP
+Mabibilis|JJD at|CCA mababagal|JJD ,|PMC malalaki|JJD at|CCA maliliit|JJD .|PMP
+Ang|DTC daming|JJD_CCP gusali|NNC sa|CCT bayan|NNC !|PMS
+Matataas|JJD at|CCA mabababa|JJD ,|PMC gawa|VBS sa|CCT mga|DTCP salamin|NNC at|CCA mga|DTCP bato|NNC ,|PMC saan|PRQ man|RBI ako|PRS tumingin|VBAF .|PMP
+Labas|NNP -|PMS pasok|NNC kami|PRP ni|DTP Nanay|NNP sa|CCT mga|DTCP tindahan|NNC .|PMP
+Tindahan|VBOF ng|CCB mga|DTCP damit|NNC at|CCA ng|CCB mga|DTCP aklat|NNC ,|PMC pati|CCA na|CCP tindahan|NNC ng|CCB mga|DTCP bag|NNC at|CCA kung|CCR anu|FW -|PMS ano|PRQ pang|RBI_CCP mga|DTCP bagay|NNC .|PMP
+Nagsukat|VBTS ng|CCB mga|DTCP sapatos|NNC si|DTP Nanay|NNP .|PMP
+Pulang|NNP_CCP sapatos|NNC at|CCA luntiang|JJD_CCP sapatos|NNC ,|PMC matataas|JJD na|CCP sapatos|NNC at|CCA mabababang|JJD_CCP mga|DTCP sapatos|NNC .|PMP
+Sa|CCT lansangan|NNC ,|PMC ang|DTC lahat|PRI ay|LM bumabati|VBTR_VBAF .|PMP
+Binabati|VBTR nila|PRP kami|PRP !|PMS "|PMS
+Bonjour|NNP !|PMS "|PMS "|PMS
+Ola|NNP !|PMS "|PMS "|PMS
+Kumusta|NNP !|PMS "|PMS
+Nagpahinga|VBTS kami|PRP sa|CCT parke|NNC at|CCA naglatag|VBTS ng|CCB kumot|NNC sa|CCT damo|NNC .|PMP
+Nakakita|VBTS rin|RBI kami|PRP ng|CCB mga|DTCP nag|NNC -|PMS eehersisyo|NNC at|CCA nagpaptugtog|VBTR ng|CCB mga|DTCP instrumento|NNC .|PMP
+Mayroon|VBH ding|RBI_CCP mga|DTCP nagbabasa|VBTR at|CCA kumakain|VBTR_VBAF ng|CCB sorbetes|NNC .|PMP
+Sa|CCT isang|PRI_CCP malaking|JJD_CCP tindahan|NNC ,|PMC pinuno|NNC namin|PRP ang|DTC troli|NNC ng|CCB pagkain|NNC .|PMP
+Mga|DTCP kahon|NNC ng|CCB cereal|FW at|CCA maraming|PRI_CCP prutas|NNC .|PMP
+Pati|CCA mga|DTCP kahon|NNC ng|CCB harina|NNC at|CCA mga|DTCP bote|NNC ng|CCB juice|FW .|PMP
+Pinapili|VBTR rin|RBI ako|PRS ni|DTP Nanay|NNP ng|CCB mga|DTCP laruan|NNC !|PMS
+May|VBH mga|DTCP laruang|NNC_CCP malalambot|JJD at|CCA mga|DTCP hugis|NNC bilog|NNC .|PMP
+Mayroon|VBH ding|RBI_CCP mga|DTCP maiingay|VBW at|CCA mga|DTCP mabibilis|JJD na|CCP laruan|NNC .|PMP
+Ang|DTC dami|NNC naming|PRP_CCP napamili|VBTS ngayong|RBW_CCP araw|NNC !|PMS
+Mga|DTCP bag|NNC ng|CCB pagkain|NNC at|CCA damit|NNC .|PMP
+Isang|PRI_CCP paris|NNC ng|CCB sapatos|NNC at|CCA iba|PRI pang|RBI_CCP mga|DTCP pasalubong|NNC .|PMP
+Pakauwi|NNP namin|PRP sa|CCT aming|PRSP_CCP tahimik|JJD na|CCP bahay|NNC ,|PMC binuksan|VBOF ko|PRS agad|RBW ang|DTC regalong|NNC_CCP bimili|NNC ni|DTP Nanay|NNP para|CCT sa|CCT akin|PRSP !|PMQ
+Nagpapasalamat|VBTR kami|PRP sa|CCT kagandahang|NNC_CCP loob|NNC ng|CCB Book|NNP Dash|NNP at|CCA ang|DTC kanilang|PRSP_CCP mga|DTCP volunteers|FW na|CCP lumikha|VBAF at|CCA naglathala|VBTS ng|CCB aklat|NNC na|CCP ito|PRO .|PMP
+Salamat|RBS din|RBI sa|CCT grupo|NNC ng|CCB Dunlop|NNP para|CCT sa|CCT pagrekord|NNC ng|CCB audio|FW .|PMP

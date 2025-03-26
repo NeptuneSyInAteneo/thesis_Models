@@ -1,0 +1,10 @@
+Gusto|VBS kong|PRS_CCP magbasa|VBAF ng|CCB aklat|NNC .|PMP
+Wala|VBN akong|PRS_CCP aklat|NNC .|PMP
+Ako|PRS ay|LM guguhit|VBAF ,|PMC at|CCA tutulungan|VBTF ako|PRS ng|CCB tatay|NNC sa|CCT pagpinta|NNC sa|CCT larawan|NNC .|PMP
+Ako|PRS ang|DTC magpipinta|VBW ,|PMC at|CCA ang|DTC nanay|NNC naman|RBI ang|DTC gugupit|NNC ng|CCB mga|DTCP litrato|NNC .|PMP
+Ako|PRS ang|DTC maggugupit|VBW ng|CCB litrato|NNC ,|PMC at|CCA ang|DTC lola|NNC naman|RBI ang|DTC magdidikit|VBTF .|PMP
+Ididikit|VBOF ko|PRS ang|DTC larawan|NNC at|CCA tutulungan|VBTF ako|PRS ni|DTP lolo|NNC na|CCP magsulat|VBAF ng|CCB kuwento|NNC .|PMP
+Isusulat|VBTF ko|PRS ang|DTC kuwento|NNC ,|PMC at|CCA tutulungan|VBTF ako|PRS ni|DTP Kuya|NNP sa|CCT pagdikit|NNC ng|CCB mga|DTCP pahina|NNC .|PMP
+May|VBH aklat|NNC na|CCP ako|PRS ngayon|RBW .|PMP
+Basahin|NNP natin|PRP ang|DTC aklat|NNC !|PMS
+Narrator|NNP :|PMS Kyle|NNP Barker|NNP .|PMP

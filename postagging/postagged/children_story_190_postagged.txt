@@ -1,0 +1,24 @@
+Isang|PRI_CCP tag|FW -|PMS araw|NNC at|CCA ang|DTC araw|NNC ay|LM mainit|JJD .|PMP
+Sa|CCT isang|PRI_CCP lugar|NNC ng|CCB mga|DTCP langgam|NNC ,|PMC lahat|PRI ng|CCB mga|DTCP nandidito|NNC ay|LM nag|VBTS -|PMS alala|NNC dahil|CCR ang|DTC tubig|NNC at|CCA pagkain|NNC ay|LM mabilis|RBD na|CCP nauubos|VBTR .|PMP
+Ang|DTC dalawang|JJN_CCP langgam|NNC ay|LM pursigidong|RBD_CCP humanap|VBAF ng|CCB paraan|NNC upang|CCB matulungan|VBW ang|DTC kanilang|PRSP_CCP lugar|NNC matapos|VBW makita|VBW ang|DTC mga|DTCP pamilya|NNC at|CCA kamag|JJD anak|NNC na|CCP nagugutom|VBTR at|CCA nauuhaw|VBTR .|PMP
+Ang|DTC dalawang|JJN_CCP langgam|NNC ay|LM nagpatuloy|VBTS ng|CCB nagpatuloy|VBTS hanggang|RBW sa|CCT mapagod|VBW dahil|CCR sa|CCT init|NNC ng|CCB araw|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC huminto|VBTS_VBAF sila|PRP para|CCT sa|CCT magpahinga|VBW .|PMP
+Ngunit|CCT sa|CCT pagkakaupo|NNC na|CCP nila|PRP ,|PMC nabigla|VBTS sila|PRP ng|CCB may|VBH biglang|JJD_CCP sumigaw|VBAF upang|CCB humingi|VBAF ng|CCB tulong|NNC .|PMP
+Pinuntahan|VBTS nila|PRP at|CCA nakita|VBTS ang|DTC isang|PRI_CCP bubuyog|NNC na|CCP naipit|VBTS sa|CCT isang|PRI_CCP bulaklak|NNC .|PMP
+Pinipilit|VBTR ng|CCB bubuyog|NNC na|CCP makaalis|VBW sa|CCT bulaklak|NNC ngunit|CCT hindi|RBF nito|PRO magawa|VBW .|PMP
+Ang|DTC dalawang|JJN_CCP langgam|NNC ay|LM nagmadali|VBTS na|CCP tulungan|VBTF_VBOF ang|DTC bubuyog|NNC .|PMP
+Matapos|VBW ang|DTC pagsisikap|NNC na|CCP tulungan|VBTF_VBOF ang|DTC bubuyog|NNC ,|PMC nakuha|VBTS nila|PRP ito|PRO at|CCA nailigtas|VBTS ang|DTC kawawang|NNC_CCP bubuyog|NNC .|PMP
+Ibinahagi|VBTS pa|RBI ng|CCB mga|DTCP langgam|NNC sa|CCT bubuyog|NNC ang|DTC kanilang|PRSP_CCP maliit|JJD na|CCP pagkain|NNC na|CCP tinipid|VBOF para|CCT sa|CCT mahabang|JJD_CCP paglalakbay|NNC .|PMP
+Naging|VBTS magkaibigan|NNC ang|DTC mga|DTCP langgam|NNC at|CCA ang|DTC bubuyog|NNC .|PMP
+At|CCA nalaman|VBTS ng|CCB bubuyog|NNC ang|DTC buong|PRI_CCP kwento|NNC ng|CCB mga|DTCP langgam|NNC sabay|RBD sabi|VBS ng|CCB "|PMS Hindi|RBF yan|PRO mahirap|JJD !|PMS
+Alam|VBS ko|PRS kung|RBK saan|RBQ ang|DTC lugar|NNC na|CCP maraming|PRI_CCP pagkain|NNC .|PMP "|PMS
+Sinunod|VBTS nila|PRP ang|DTC daan|NNC na|CCP sinabi|VBTS ng|CCB bubuyog|NNC at|CCA nagpatuloy|VBTS sa|CCT paglalakbay|NNC buong|PRI_CCP araw|NNC at|CCA gabi|RBW .|PMP
+Nakarating|VBTS ang|DTC mga|DTCP langgan|NNC sa|CCT gubat|NNC at|CCA ang|DTC lahat|PRI ng|CCB bagay|NNC ay|LM maganda|JJD .|PMP
+-|PMS May|VBH narinig|VBTS ka|PRS ba|RBI ?|PMQ
+Sa|CCT gubat|NNC ,|PMC malinaw|JJD na|CCP agos|NNC ng|CCB tubig|NNC ay|LM patuloy|RBD na|CCP kumakalabog|VBTR_VBAF gabi|RBW at|CCA araw|NNC .|PMP
+Ang|DTC mga|DTCP puno|NNC ay|LM puno|JJD ng|CCB prutas|NNC .|PMP
+Lubos|JJCS na|CCP galak|NNC ang|DTC naramdaman|VBTS nila|PRP sa|CCT kanilang|PRSP_CCP nakita|VBTS .|PMP
+Agad|RBW agad|RBW silang|PRP_CCP umuwi|VBAF upang|CCB ipabahaghi|VBOF sa|CCT kanilang|PRSP_CCP mga|DTCP kasamahan|NNC ang|DTC kanilang|PRSP_CCP natagpuan|VBTS .|PMP
+At|CCA ang|DTC lahat|PRI ay|LM masayang|JJD_CCP nagtipon|VBTS sa|CCT bago|RBW nilang|PRP_CCP lugar|NNC .|PMP
+Ang|DTC lahat|PRI ay|LM masipag|JJD at|CCA matyaga|JJD ,|PMC maaari|VBS na|CCP silang|PRP_CCP mabuhay|VBW ng|CCB masagana|JJD at|CCA mapayapa|RBD .|PMP
+At|CCA ang|DTC dalawang|JJN_CCP langgam|NNC at|CCA kinantahan|VBOF ng|CCB iba|PRI pa|RBI nilang|PRP_CCP kasama|CCB at|CCA rinig|FW ito|PRO mula|RBL sa|CCT buong|PRI_CCP lugar|NNC nila|PRP .|PMP

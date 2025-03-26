@@ -1,53 +1,16 @@
-"|PMS Yehey|FW "|PMS Sigaw|NNC ng|CCB pugitang|NNC_CCP si|DTP Pogi|NNP .|PMP
-Mabilis|RBD ang|DTC paghakbang|NNC ni|DTP Pogi|NNP sa|CCT mapupulang|JJD_CCP korales|NNC sa|CCT dagat|NNC ng|CCB Palumban|NNP habang|RBW sinusundan|VBTR siya|PRS ng|CCB isa|PRI pang|RBI_CCP pugitang|NNC_CCP si|DTP Pogs|NNP .|PMP "|PMS
-Pogi|NNP ,|PMC tama|JJD na|RBI .|PMP
-Huwag|RBF kang|PRS_CCP maglaro|VBAF diyan|PRL .|PMP "|PMS
-Walang|VBN_CCP ginagawa|VBTR si|DTP Pogi|NNP kung|RBK hindi|RBF ang|DTC sumunod|VBAF kay|DTP Pogs|NNP .|PMP
-Magkapatid|JJD na|CCP pugita|NNC sila|PRP Pogi|NNP at|CCA Pogs|NNP .|PMP
-Wala|VBN na|CCP silang|PRP_CCP mga|DTCP magulang|NNC kaya|CCR ang|DTC panganay|NNC na|CCP si|DTP Pogs|NNP ang|DTC palaging|JJD_CCP nasusunod|VBTR .|PMP
-Hindi|RBF siya|PRS pwedeng|RBT_CCP suwayin|VBOF ng|CCB kapatid|NNC niyang|PRS_CCP si|DTP Pogi|NNP .|PMP "|PMS
-Huwag|RBF kang|PRS_CCP pumunta|VBAF diyan|PRL .|PMP
-Huwag|RBF kang|PRS_CCP pumunta|VBAF rito|PRL .|PMP
-Huwag|RBF mong|PRS_CCP hahawakan|VBTF '|PMS yan|PRO .|PMP
-Lahat|PRI bawal|JJD .|PMP "|PMS
-Kaya|CCR si|DTP Pogi|NNP ,|PMC panay|JJD ang|DTC simangot|NNC .|PMP
-Habang|RBW ang|DTC magkapatid|NNC ay|LM namamasyal|VBTR sa|CCT mapupulang|JJD_CCP korales|NNC ,|PMC biglang|RBD_CCP nakaisip|VBTS ng|CCB plano|NNC si|DTP Pogi|NNP .|PMP "|PMS
-Pogs|NNP ,|PMC taguan|NNC tayo|PRP .|PMP
-Ako|PRS ang|DTC taya|NNC .|PMP
-Pag|CCR nahuli|VBTS kita|NNC ,|PMC ikaw|PRS ang|DTC maghahanap|VBTF_VBAF ng|CCB alimasag|NNC na|CCP kakainin|VBTF natin|PRP pero|CCT pag|CCR hindi|RBF ,|PMC ako|PRS ang|DTC maghahanap|VBTF_VBAF ng|CCB alimasag|NNC .|PMP "|PMS
-Hamon|NNP ni|DTP Pogi|NNP .|PMP
-Nagtago|VBTS silang|PRP_CCP dalawa|CDB .|PMP
-Kaagad|RBD na|CCP nagtago|VBTS si|DTP Pogs|NNP sa|CCT mga|DTCP korales|NNC .|PMP
-At|CCA si|DTP Pogi|NNP ,|PMC ginaya|VBOF ang|DTC kulay|NNC ng|CCB buhangin|NNC .|PMP "|PMS
-Makakatakas|VBTF na|CCP ako|PRS kay|DTP Pogs|NNP .|PMP "|PMS
-Matagal|JJD na|CCP naghintay|VBTS si|DTP Pogs|NNP kay|DTP Pogi|NNP .|PMP
-Nang|RBW mainip|VBW ,|PMC lumabas|VBAF na|CCP siya|PRS sa|CCT kanyang|PRSP_CCP pinagtataguan|VBTR_VBRF ,|PMC subalit|CCT hindi|RBF na|RBI niya|PRS nakita|VBTS si|DTP Pogi|NNP .|PMP "|PMS
-Pogi|NNP ,|PMC nasaan|JJD ka|PRS ?|PMQ
-Kanina|RBW pa|RBI ako|PRS naghihintay|VBTR sa|CCT iyo|PRSP .|PMP
-Hindi|RBF mo|PRS naman|RBI ako|PRS hinahanap|VBTR .|PMP
-Ikaw|NNP na|CCP ang|DTC kukuha|VBTF ng|CCB kakainin|VBTF natin|PRP .|PMP "|PMS
-At|CCA walang|VBN_CCP sumagot|VBAF kay|DTP Pogs|NNP .|PMP
-Lumangoy|VBAF na|CCP pala|NNC palayo|RBD si|DTP Pogi|NNP .|PMP
-Nakaabot|VBTS siya|PRS sa|CCT madamong|JJD_CCP lugar|NNC ng|CCB karagatan|NNC .|PMP
-Sa|CCT gitna|JJD ng|CCB damuhan|NNC ,|PMC mayroong|VBH_CCP malaki|JJD at|CCA matabang|JJD_CCP alimasag|NNC .|PMP
-Mabilis|RBD na|CCP pinuluputan|VBTR ito|PRO ni|DTP Pogi|NNP ng|CCB kanyang|PRSP_CCP mga|DTCP galamay|NNC .|PMP
-Nasundan|VBTS pala|NNC siya|PRS ni|DTP Pogs|NNP .|PMP "|PMS
-Pogi|NNP ,|PMC bitawan|VBOF mo|PRS iyan|PRO ,|PMC tora|FW -|PMS tora|NNC iyan|PRO !|PMQ "|PMS "|PMS
-Hinila|VBOF na|CCP si|DTP Pogi|NNP ng|CCB tora|NNC -|PMS tora|NNC .|PMP
-Napapikit|VBTS si|DTP Pogs|NNP .|PMP
-Umiiyak|VBTR_VBAF si|DTP Pogi|NNP habang|RBW hinihila|VBTR pataas|NNC ng|CCB tora|NNC -|PMS tora|NNC .|PMP
-Naisip|VBTS ni|DTP Pogs|NNP na|CCP wala|VBN na|CCP siyang|PRS_CCP magagawa|VBTF dahil|CCR ganoon|PRC din|RBI ang|DTC nangyari|VBTS sa|CCT kanilang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
-Maganda|JJD ,|PMC makintab|JJD ,|PMC at|CCA mapula|JJD ang|DTC kulay|NNC ng|CCB tora|NNC -|PMS tora|NNC .|PMP
-Katulad|JJC ito|PRO ng|CCB itsura|NNC ng|CCB alimasag|NNC na|CCP paboritong|JJD_CCP kainin|VBOF ng|CCB mga|DTCP pugita|NNC .|PMP
-Hinihila|VBOF nito|PRO paitaas|RBD ng|CCB dagat|NNC ang|DTC mga|DTCP pugita|NNC at|CCA hindi|RBF na|RBI sila|PRP nakakabalik|VBTR .|PMP "|PMS
-Pinangako|VBOF ko|PRS sa|CCT sarili|NNC ko|PRS na|CCP poprotektahan|VBTF ko|PRS ang|DTC kapatid|NNC ko|PRS sa|CCT tora|NNC -|PMS tora|NNC .|PMP
-Subalit|CCT hindi|RBF ko|PRS ito|PRO nagawa|VBTS .|PMP "|PMS
-Tumalikod|VBAF na|RBI si|DTP Pogs|NNP para|CCT bumalik|VBAF sa|CCT mga|DTCP korales|NNC .|PMP "|PMS
-Pogs|NNP !|PMS
-Pogs|NNP !|PMS "|PMS
-Paglingon|NNP ni|DTP Pogs|NNP ,|PMC lumalangoy|VBTR_VBAF na|CCP si|DTP Pogi|NNP papalapit|JJD sa|CCT kaniya|PRSP !|PMS "|PMS
-Pogs|NNP ,|PMC akala|VBS ko|PRS talaga|RBT alimasag|NNC iyon|PRO ,|PMC mabuti|RBD na|RBI lang|RBI nakatakas|VBTS ako|PRS .|PMP
-Susundin|VBTF na|CCP kita|NNC mula|RBW ngayon|RBW ,|PMC "|PMS naiiyak|VBTR na|CCP sabi|VBS ni|DTP Pogi|NNP .|PMP "|PMS
-Pogi|NNP ,|PMC iyon|PRO ang|DTC tora|NNC -|PMS tora|RBD na|CCP kamukha|JJD ng|CCB alimasag|NNC ,|PMC iyon|PRO ang|DTC kumuha|VBAF kay|DTP Nanay|NNP at|CCA kay|DTP Tatay|NNP .|PMP
-Kaya|CCR palagi|RBW kitang|RBD_CCP sinasaway|VBTR dahil|CCR ayaw|RBF kong|PRS_CCP matulad|VBW ka|PRS sa|CCT kanila|PRSP .|PMP "|PMS
-Niyakap|VBTS ni|DTP Pogs|NNP ang|DTC kanyang|PRSP_CCP kapatid|NNC at|CCA magkasama|VBW silang|PRP_CCP lumangoy|VBAF papalayo|RBD sa|CCT tora|NNC -|PMS tora|NNC .|PMP
+Maagang|RBD_CCP gumising|VBAF sina|DTPP Ki|NNP at|CCA Dee|NNP .|PMP
+Inaayos|VBTR nina|DTPP Ki|NNP at|CCA Dee|NNP ang|DTC kanilang|PRSP_CCP mga|DTCP higaan|NNC .|PMP
+Naliligo|VBTR sila|PRP Ki|NNP at|CCA Dee|NNP .|PMP
+Nagsisipilyo|VBTR sila|PRP Ki|NNP at|CCA Dee|NNP .|PMP
+Kumain|VBAF ng|CCB almusal|NNC sina|DTPP Ki|NNP at|CCA Dee|NNP .|PMP
+Si|DTP Ki|NNP at|CCA Dee|NNP ay|LM pumunta|VBAF sa|CCT paaralan|NNC .|PMP
+Nagbabasa|VBTR ng|CCB libro|NNC sina|DTPP Ki|NNP at|CCA Dee|NNP .|PMP
+Sila|PRP Ki|NNP at|CCA Dee|NNP ay|LM nakikipaglaro|VBTR ng|CCB karera|NNC sa|CCT kanilang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Tinutulungan|VBTR_VBOF nina|DTPP Ki|NNP at|CCA Dee|NNP ang|DTC kanilang|PRSP_CCP mga|DTCP magulang|NNC sa|CCT mga|DTCP gawaing|NNC_CCP bahay|NNC .|PMP
+Lubos|JJCS ang|DTC pagmamahal|NNC nila|PRP Ki|NNP at|CCA Dee|NNP sa|CCT kanilang|PRSP_CCP mga|DTCP magulang|NNC .|PMP
+Ang|DTC Pum|NNP Anh|NNP Lao|NNP ay|LM isang|PRI_CCP nonprofit|FW ,|PMC social|FW enterprise|FW na|CCP naglalathala|RBD ng|CCB mga|DTCP librong|NNC_CCP pambata|JJD at|CCA nag|VBTS eenganyo|NNC ng|CCB pagbabasa|NNC para|CCT sa|CCT mga|DTCP grupong|NNC_CCP mahihirap|JJD .|PMP
+Nagsasagawa|VBTR si|DTP Pum|NNP Anh|NNP ng|CCB mga|DTCP workshop|NNC ng|CCB mga|DTCP manunulat|NNC kasama|CCB ang|DTC mga|DTCP bata|NNC at|CCA matatanda|NNC upang|CCB bumuo|VBAF ng|CCB mga|DTCP kuwento|NNC -|PMS kabilang|CCB ang|DTC para|CCT sa|CCT mga|DTCP batang|NNC_CCP may|VBH kapansanan|NNC at|CCA para|CCT sa|CCT mga|DTCP etnikong|JJD_CCP minorya|NNC .|PMP
+Si|DTP Pum|NNP Anh|NNP ay|LM bumuo|VBAF ,|PMC nagdisenyoat|VBTR naglarawan|VBTS ng|CCB malawak|JJD na|CCP hanay|NNC ng|CCB mga|DTCP materyales|NNC sa|CCT pagtuturo|NNC at|CCA pagbabasa|NNC para|CCT sa|CCT mga|DTCP ahensya|NNC at|CCA NGO|NNPA ng|CCB UN|NNPA ,|PMC na|CCP nakikipagtulungan|VBTR nang|RBD malapit|JJD sa|CCT Ministro|NNP ng|CCB Edukasyon|NNP at|CCA Palakasan|NNP at|CCA ng|CCB Ministro|NNP ng|CCB Impormasyon|NNP ,|PMC Kultura|NNP at|CCA Turismo|NNC .|PMP
+Ang|DTC gawaing|NNC_CCP ito|PRO ay|LM nilikha|VBTS sa|CCT suporta|NNC ng|CCB All|NNP Children|NNP Reading|NNP :|PMS A|NNP Grand|NNP Challenge|NNP for|FW Development|NNP (|PMS ACR|NNPA GCD|NNPA )|PMS Founding|NNP Partners|NNP (|PMS ang|DTC United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP [|PMS USAID|NNPA ]|PMS ,|PMC World|NNP Vision|NNP ,|PMC at|CCA ng|CCB Australian|NNP Government|NNP )|PMS sa|CCT pakikipagtulungan|NNC sa|CCT Global|NNP Book|NNP Alyansa|NNP .|PMP
+Ang|DTC gawaing|NNC_CCP ito|PRO ay|LM inihanda|VBTS ng|CCB The|NNP Asia|NNP Foundation|NNP at|CCA hindi|RBF kinakailangang|VBTR_CCP sumasalamin|VBTR_VBAF sa|CCT mga|DTCP pananaw|NNC ng|CCB ACR|NNPA GCD|NNPA Founding|NNP Partners|NNP o|CCT ng|CCB Global|NNP Book|NNP Alliance|NNP .|PMP
+Ang|DTC mga|DTCP naturang|VBTS_CCP pagbabago|NNC o|CCT pagsasalin|NNC ay|LM hindi|RBF isang|PRI_CCP opisyal|JJD na|CCP pagsasalin|NNC ng|CCB ACR|NNPA GCD|NNPA ,|PMC at|CCA ang|DTC ACR|NNPA GCD|NNPA ay|LM hindi|RBF mananagot|VBTF para|CCT sa|CCT anumang|PRI_CCP nilalaman|NNC o|CCT mga|DTCP error|NNC sa|CCT pagsasaling|NNC_CCP ito|PRO .|PMP

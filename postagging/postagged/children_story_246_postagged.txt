@@ -1,0 +1,32 @@
+Noong|RBW_CCP Lunes|NNP na|CCP maaraw|JJD .|PMP
+Umaakyat|VBTR_VBAF kami|PRP ng|CCB puno|NNC .|PMP
+Kami|PRP ay|LM naglaro|VBTS sa|CCT ilog|NNC .|PMP
+Kami|PRP ay|LM lumangoy|VBAF sa|CCT ilog|NNC .|PMP
+Noong|RBW_CCP Martes|NNP ay|LM umuulan|VBTR_VBAF .|PMP
+Kami|PRP ay|LM nanatili|VBTS sa|CCT loob|NNC ng|CCB bahay|NNC at|CCA nagkwentuhan|VBTS .|PMP
+Kami|PRP ay|LM naglaro|VBTS .|PMP
+Kami|PRP ay|LM nagbasa|VBTS ng|CCB mga|DTCP libro|NNC .|PMP
+Noong|RBW_CCP Miyerkules|NNP ay|LM mahangin|JJD .|PMP
+Kami|PRP ay|LM gumawa|VBAF ng|CCB saranggola|NNC .|PMP
+Pinapalipad|VBTR namin|PRP ang|DTC aming|PRSP_CCP saranggola|NNC .|PMP
+Kami|PRP ay|LM magkaibigan|NNC .|PMP
+Mga|DTCP tanong|NNC sa|CCT pang|RBI_CCP -|PMS unawa|NNC .|PMP .|PMP
+Ano|PRQ ba|RBI ang|DTC lagay|NNC ng|CCB panahon|NNC noong|RBW_CCP Lunes|NNP ?|FW .|PMP
+Ano|PRQ ang|DTC ginagawa|VBTR ng|CCB magkaibigan|NNC kapag|CCR maaraw|JJD ?|PMQ .|PMP
+Ano|PRQ ang|DTC ginagawa|VBTR mo|PRS kapag|CCR maaraw|JJD ?|PMQ .|PMP
+Ano|PRQ ba|RBI ang|DTC lagay|NNC ng|CCB panahon|NNC noong|RBW_CCP Martes|NNP ?|FW .|PMP
+Ano|PRQ ang|DTC ginagawa|VBTR ng|CCB magkaibigan|NNC kapagmaulan|NNC ?|FW .|PMP
+Ano|PRQ ang|DTC ginagawa|VBTR mo|PRS kapag|CCR maulan|JJD ?|PMQ .|PMP
+Ano|PRQ ba|RBI ang|DTC lagay|NNC ng|CCB panahon|NNC noong|RBW_CCP Miyerkules|NNP ?|FW .|PMP
+Ano|PRQ ang|DTC ginagawa|VBTR ng|CCB magkaibigan|NNC kapag|CCR mahangin|JJD ?|PMQ .|PMP
+Ano|PRQ ang|DTC ginagawa|VBTR mo|PRS kapag|CCR mahangin|JJD ?|PMQ .|PMP
+Ano|PRQ ang|DTC gusto|VBS mong|PRS_CCP gawin|VBOF kasama|CCB ng|CCB iyong|PRSP_CCP kaibigan|NNC ?|PMQ
+Aktibidad|NNP .|PMP
+Gumuhit|VBAF ng|CCB larawan|NNC ng|CCB pakikipaglaro|NNC sa|CCT iyong|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+Bilum|NNP Books|NNP publishes|FW quality|FW educational|FW resources|FW for|FW schools|FW in|FW Papua|NNP New|NNP Guinea|NNP .|PMP
+Our|NNP publishing|FW priority|FW is|FW literacy|FW .|PMP
+Our|NNP commitment|FW is|FW to|FW help|FW raise|FW the|FW standards|FW by|FW producing|FW quality|FW books|FW at|CCA reasonable|FW prices|FW and|FW in|FW line|FW with|FW the|FW PNG|NNPA Department|NNP of|FW Education|NNP Syllabus|NNP .|PMP
+Bilum|NNP Books|NNP runs|FW teacher|FW -|PMS training|FW workshops|FW to|FW assist|FW the|FW professional|FW development|FW of|FW Elementary|NNP teachers|FW ,|PMC in|FW particular|FW .|PMP
+Visit|NNP our|FW website|FW :|PMS www.bilumbooks.com|FW or|CCT facebookThis|FW product|FW is|FW made|FW possible|JJD through|FW the|FW support|FW of|FW the|FW All|NNP Children|NNP Reading|NNP :|PMS A|NNP Grand|NNP Challenge|NNP for|FW Development|NNP (|PMS ACR|NNPA GCD|NNPA )|PMS Founding|NNP Partners|NNP (|PMS the|FW United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP (|PMS USAID|NNPA )|PMS ,|PMC World|NNP Vision|NNP and|FW the|FW Australian|NNP Government|NNP )|PMS in|FW collaboration|FW with|FW the|FW Global|NNP Book|NNP Alliance|NNP .|PMP
+It|NNP was|FW prepared|FW by|FW The|NNP Asia|NNP Foundation|NNP and|FW does|FW not|FW necessarily|FW reflect|FW the|FW views|FW of|FW the|FW ACR|NNPA GCD|NNPA Founding|NNP Partners|NNP and|FW the|FW Global|NNP Book|NNP Alliance|NNP .|PMP
+Any|NNP adaptation|FW or|CCT translation|FW of|FW this|FW work|FW should|FW not|FW be|FW considered|FW an|DTC official|FW ACR|NNPA GCD|NNPA translation|FW ,|PMC and|FW ACR|NNPA GCD|NNPA shall|FW not|FW be|FW liable|FW for|FW any|FW content|FW or|CCT errors|FW in|FW this|FW translation|FW .|PMP

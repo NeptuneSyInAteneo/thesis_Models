@@ -1,0 +1,10 @@
+Mahilig|JJD sa|CCT kulay|NNC si|DTP Oso|NNP .|PMP
+Ngayon|RBW ay|LM dilaw|JJD ang|DTC kaniyang|PRSP_CCP mga|DTCP tainga|NNC .|PMP
+Ngayon|RBW ay|LM kulay|NNC kayumanggi|JJD ang|DTC kaniyang|PRSP_CCP tiyan|NNC .|PMP
+Ngayon|RBW ay|LM pula|JJD ang|DTC kaniyang|PRSP_CCP bibig|NNC .|PMP
+Naging|VBTS asul|JJD naman|RBI ang|DTC kaniyang|PRSP_CCP mga|DTCP kamay|NNC !|PMS
+Ngayon|RBW ay|LM berde|JJD ang|DTC kaniyang|PRSP_CCP likod|NNC .|PMP
+Kulay|JJD rosas|NNC naman|RBI ngayon|RBW ang|DTC kaniyang|PRSP_CCP binti|NNC .|PMP
+Ngayon|RBW ay|LM makulay|JJD na|CCP si|DTP Oso|NNP .|PMP
+Hala|NNP !|PMS
+Saan|PRQ na|CCP napunta|VBTS ang|DTC lahat|PRI ng|CCB kulay|NNC niya?the|RBL Department|NNP of|FW Education|NNP -|PMS Bureau|NNP of|FW Learning|NNP Resources|NNP .|PMP

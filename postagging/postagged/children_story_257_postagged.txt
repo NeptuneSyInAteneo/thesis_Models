@@ -1,0 +1,15 @@
+Sa|CCT isang|PRI_CCP tahimik|JJD at|CCA payapang|JJD_CCP paayanan|NNC .|PMP
+Makikitang|VBTR_CCP nag|RBD -|PMS uusap|NNC ang|DTC magnanay|VBAF .|PMP
+Nanay|NNP ,|PMC para|CCT saan|PRQ ang|DTC mga|DTCP bulaklak|NNC na|CCP ito|PRO ?|PMQ
+Ngayon|RBW ang|DTC kaarawan|NNC ng|CCB iyong|PRSP_CCP tatay|NNC ,|PMC Mango|JJD .|PMP "|PMS
+Ako|PRS din|RBI po|RBS nanay|NNC tutulong|VBTF "|PMS .|PMP "|PMS
+ay|LM ,|PMC kailangan|VBS ko|PRS ng|CCB pares|NNC ng|CCB gunting|FW .|PMP "|PMS "|PMS
+hala|NNC ,|PMC bakit|PRQ dun|PRL nilagay|VBOF ni|DTP nanay|NNC ang|DTC gunting|FW ?|FW "|PMS "|PMS
+ang|DTC taaasssss|FW "|PMS '|PMS Naku|NNP !!|CDB "|PMS .|PMP "|PMS
+May|VBH butas|NNC na|CCP ngayon|RBW ang|DTC cake|FW .|PMP "|PMS '|PMS
+hmm|FW "|PMS '|PMS naku|JJD ,|PMC parating|RBW na|CCP si|DTP nanay|NNC "|PMS "|PMS tikman|VBOF ko|PRS muna|RBI ang|DTC cake|FW .|PMP "|PMS "|PMS
+wow|FW !|PMS
+ang|DTC saraaappp|NNC !!|PMS "|PMS "|PMS
+Naku|PRS po|RBS !|PMQ
+,|PMC sino|PRQ kumain|VBAF ng|CCB keyk|NNC ko|PRS ?|PMQ "|PMS
+Nanay|NNP ,|PMC kinain|VBOF ng|CCB gunting|FW ang|DTC keyk|NNC mo|PRS ,|PMC hahaha|FW !!!|FW "|PMS

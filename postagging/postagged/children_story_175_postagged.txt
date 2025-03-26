@@ -1,0 +1,37 @@
+Ding|NNP !|PMS
+Ding|NNP !|PMS
+Ding|NNP !|PMS
+Tapos|RBW na|RBI ang|DTC recess|FW !|PMQ
+Araw|NNP -|PMS araw|NNC ay|LM nagmamadaling|RBD_CCP lumabas|VBAF ng|CCB silid|NNC -|PMS aralan|NNC si|DTP Thongkhoun|NNP para|CCT bumili|VBAF ng|CCB mga|DTCP matatamis|JJD at|CCA meryenda|NNC .|PMP
+Kakainin|VBTF ni|DTP Thongkhoun|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP kendi|NNC at|CCA iba|PRI pang|RBI_CCP pagkain|NNC .|PMP
+Pagkatapos|VBW ay|LM Dali|NNP -|PMS dali|JJD sang|DTC maglalaro|VBTF at|CCA nakakalimutan|VBTR na|CCP ang|DTC pag|CCR -|PMS sipilyo|NNC ng|CCB kaniyang|PRSP_CCP mga|DTCP ngipin|NNC .|PMP
+Nagsimulang|VBTS_CCP maging|VBW dilaw|JJD ang|DTC mga|DTCP ngipin|NNC ni|DTP Thongkhoun|NNP .|PMP
+Minsan|RBW mabaho|JJD ang|DTC hininga|NNC niya|PRS .|PMP
+Nagsimula|VBTS nang|RBW sumakit|VBAF ang|DTC ngipin|NNC ni|DTP Thongkhoun|NNP .|PMP
+Dahil|CCR dito|PRL ay|LM hinihimas|VBTS niya|PRS palagi|RBW ang|DTC kaniyang|PRSP_CCP pisngi|NNC .|PMP
+Hinawakan|VBOF ni|DTP Thongkhoun|NNP ang|DTC kaniyang|PRSP_CCP pisngi|NNC .|PMP "|PMS
+Aray|VBS ko|PRS !|PMQ
+Ang|DTC sakit|NNC ng|CCB ngipin|NNC ko|PRS ,|PMC "|PMS iyak|NNC nya|PRS .|PMP
+Sinabihan|VBOF ni|DTP Somchay|NNP si|DTP Thongkhoun|NNP na|CCP magsipilyo|NNC .|PMP "|PMS
+Hindi|RBF .|PMP
+Ayaw|RBF kong|PRS_CCP magsipilyo|VBAF dahil|CCR masakit|JJD ang|DTC ngipin|NNC ko|PRS .|PMP "|PMS "|PMS
+Kung|CCR gusto|VBS mong|PRS_CCP hindi|RBF sasakit|VBTF ang|DTC ngipin|NNC mo|PRS ,|PMC dapat|VBS ay|LM palagi|RBW kang|PRS_CCP magsisipilyo|VBAF at|CCA bawasan|VBOF ang|DTC pagkainng|JJD_CCP kendi|NNC ,|PMC "|PMS paliwanag|NNC ni|DTP Somcha|NNP .|PMP "|PMS
+Ganito|PRC ka|PRS dapat|VBS magsipilyo|VBAF !|PMQ
+Magsipilyo|NNP ka|PRS sa|CCT panlabas|JJD at|CCA panloob|JJD na|CCP bahagi|NNC ng|CCB iyong|PRSP_CCP ngipin|NNC .|PMP "|PMS "|PMS
+Magsipilyo|NNP sa|CCT itaas|JJD at|CCA sa|CCT ibabang|JJD_CCP ngipin|NNC .|PMP "|PMS "|PMS
+Sipilyuhin|NNP ang|DTC iyong|PRSP_CCP dila|NNC ,|PMC mag|VBW -|PMS mumog|FW ,|PMC at|CCA idura|VBOF ang|DTC tubig|NNC .|PMP
+Sipilyuhin|NNP ang|DTC ngipin|NNC hanggang|RBW malinis|JJD na|CCP sila|PRP .|PMP
+Gawin|VBOF ito|PRO araw|RBW araw|NNC tuwing|RBW umaga|RBW at|CCA bago|RBW matulog|VBW .|PMP "|PMS
+Sinunod|VBTS ni|DTP Thongkhoun|NNP ang|DTC mga|DTCP hakbang|NNC ng|CCB pagsisipilyo|NNC ayon|RBR sa|CCT sinabi|VBTS ni|DTP Somchay|NNP .|PMP
+Nagsipilyo|VBTS si|DTP Thongkhoun|NNP ng|CCB ngipin|NNC nya|PRS hanggang|RBW naging|VBTS malinis|JJD ito|PRO .|PMP
+Pagkatapos|VBW ay|LM dinura|VBTS nya|PRS na|CCP ang|DTC tubig|NNC .|PMP
+Malapad|JJD ang|DTC ngiti|NNC ni|DTP Thongkhoun|NNP at|CCA napasigaw|VBTS sa|CCT tuwa|NNC ,|PMC "|PMS Yehey|FW !|PMS
+Hindi|RBF na|CCP kulay|NNC dilaw|JJD ang|DTC aking|PRSP_CCP mga|DTCP ngipin|NNC .|PMP
+Wala|VBN na|CCP akong|PRS_CCP lukab|VBAF ang|DTC aking|PRSP_CCP mga|DTCP ngipin|NNC at|CCA hindi|RBF na|RBI sumasakit|VBTR_VBAF .|PMP "|PMS
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM nabuo|VBTS dahil|CCR sa|CCT tulong|NNC ng|CCB mga|DTCP mamamayan|NNC ng|CCB USA|NNPA sa|CCT pamamagitan|NNC ng|CCB USAID|NNPA .|PMP
+Karapatang|NNP_CCP -|PMS ari|NNC :|PMS Creative|NNP Commons|NNP Attribution|NNP CC|NNPA BY|NNPA .|PMP
+IGO|NNPA Ang|DTC Pagsasalin|NNP :|PMS Para|CCT sa|CCT mga|DTCP indibidwal|NNC o|CCT institusyon|NNC na|CCP magsasagawa|VBTF ng|CCB pagsasaling|NNC_CCP ito|PRO ay|LM kinakailangang|VBTR_CCP ipahayag|VBOF na|CCP ang|DTC ginawang|VBTS_CCP pagsasalin|NNC ay|LM hindi|RBF inilunsad|VBTS ng|CCB Room|NNP to|FW Read|NNP o|CCT USAID|NNPA .|PMP
+At|CCA ito|PRO ay|LM hindi|RBF itinuturing|VBTR na|CCP opisyal|JJD na|CCP salon|NNC ng|CCB Room|NNP to|FW Read|NNP o|CCT USAID|NNPA .|PMP
+Walang|VBN_CCP pananagutan|NNC ang|DTC Room|NNP to|FW Read|NNP o|CCT USAID|NNPA sa|CCT mga|DTCP pagkakamali|NNC na|CCP dahil|CCR sa|CCT pagsalin|NNC .|PMP
+Pagbabago|NNP sa|CCT kwento|NNC :|PMS Para|CCT sa|CCT mga|DTCP indibidwal|NNC o|CCT institusyon|NNC na|CCP magsasagawa|VBTF ng|CCB pagbabago|NNC o|CCT revision|FW sa|CCT akda|NNC ,|PMC ay|LM kinakailangan|VBTR ipahayag|VBOF ang|DTC orihinal|JJD na|CCP kwento|NNC bilang|CCT sanggunian|NNC :|PMS Ang|DTC akdang|NNC_CCP itoay|JJD ang|DTC binagong|VBOF_CCP bersyon|NNC ng|CCB isang|PRI_CCP orihinal|JJD na|CCP kwento|NNC ng|CCB Room|NNP to|FW Read|NNP at|CCA USAID|NNPA .|PMP
+Ang|DTC mga|DTCP pagbabago|NNC sa|CCT pananaw|NNC at|CCA daloy|NNC ng|CCB binagong|VBOF_CCP kwento|NNC ay|LM responsibilidad|NNC lamang|RBI ng|CCB mga|DTCP partidong|NNC_CCP nagsagawa|VBTS ng|CCB pagbabago|NNC ,|PMC dahil|CCR ito|PRO ay|LM una|CDB nang|RBW nasuri|VBTS ng|CCB Room|NNP to|FW Read|NNP at|CCA USAID|NNPA .|PMP

@@ -1,0 +1,17 @@
+Ako|PRS '|PMS y|FW napapaisip|VBTR kung|CCR may|VBH katulad|JJC kaya|CCR ako|PRS dito|PRL sa|CCT ating|PRSP_CCP mundo|NNC .|PMP
+Yung|PRO_CCP kamukha|JJD ko|PRS .|PMP
+At|CCA katulad|JJC ko|PRS kung|CCR magsalita|VBAF .|PMP
+At|CCA katulad|JJC ko|PRS na|CCP may|VBH baluktot|NNC na|CCP buntot|NNC .|PMP
+May|VBH katulad|JJC sa|CCT aking|PRSP_CCP mata|NNC at|CCA tenga|NNC .|PMP
+Ganun|NNP din|RBI sa|CCT aking|PRSP_CCP pagtawa|NNC .|PMP
+Na|CCP kaya|CCR din|RBI gawin|VBOF ang|DTC mga|DTCP ginagawa|VBTR ko|PRS .....|NNPA .|PMP
+at|CCA hindi|RBF rin|RBI kayang|RBD_CCP gawin|VBOF ,|PMC ang|DTC hindi|RBF ko|PRS kayang|RBD_CCP gawin|VBOF .|PMP
+Naghahanap|VBTR -|PMS hanap|FW ako|PRS sa|CCT isang|PRI_CCP katulad|JJC ko|PRS .|PMP
+Pumunta|VBAF ako|PRS sa|CCT parke|NNC at|CCA naghanap|VBTS sa|CCT mga|DTCP punong|JJD_CCP nakapaligid|RBD .|PMP
+Ako|PRS '|PMS y|FW tumingin|VBAF sa|CCT paligid|NNC ,|PMC mula|RBW sa|CCT itaas|JJD hanggang|RBW paibaba|RBD .....|NNPA .|PMP
+sa|CCT bawat|PRI mukha|NNC .|PMP
+Hindi|RBF ako|PRS makahanap|VBW ng|CCB isang|PRI_CCP katulad|JJC ko|PRS saan|PRQ mang|RBI_CCP lugar|NNC .|PMP
+Nag|NNP -|PMS iisa|JJD lang|RBI ako|PRS sa|CCT mundong|NNC_CCP ito|PRO !|PMQ
+Ako|PRS ay|LM natatangi|VBTR ,|PMC ito|PRO ang|DTC totoo|RBT !|PMQ
+Ngunit|CCT hindi|RBF lamang|RBI ako|PRS ,|PMC hindi|RBF mo|PRS ba|RBI nakikita|VBTR ?|PMQ
+Ikaw|NNP rin|RBI ay|LM walang|VBN_CCP katulad|JJC !|PMQ

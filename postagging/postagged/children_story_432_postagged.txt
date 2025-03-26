@@ -1,0 +1,22 @@
+Nagliliparan|VBTS isang|PRI_CCP umaga|RBW ,|PMC Ang|DTC gutom|NNC na|CCP mga|DTCP maya|NNC .|PMP
+Tukuyin|VBOF kung|RBK sino|RBQ ang|DTC nakahuli|VBTS ,|PMC Sa|CCT masarap|JJD at|CCA matabang|JJD_CCP bulate|NNC .|PMP
+Ang|DTC mga|DTCP paruparo|NNC ay|LM mayroong|VBH_CCP iba|PRI '|PMS t|NNCA -|PMS ibang|PRI_CCP kulay|NNC ,|PMC Palipat|NNP -|PMS lipat|NNC sa|CCT mga|DTCP bulaklak|NNC .|PMP
+Pero|CCT mayroong|VBH_CCP isang|PRI_CCP natatangi|VBTR sa|CCT lahat|PRI ,|PMC Dahil|CCR ang|DTC kanyang|PRSP_CCP kulay|NNC ay|LM nag|VBTS -|PMS iisa|JJD sa|CCT lahat|PRI .|PMP
+Nagliliparang|RBD_CCP masasaya|JJD ,|PMC Malilikot|JJD na|CCP saranggola|NNC .|PMP
+Ngunit|CCT may|VBH isang|PRI_CCP kakaiba|JJD ,|PMC Maituturo|VBTF mo|PRS ba|RBI siya|PRS ?|PMQ
+Malalaki|JJD ,|PMC maliliit|JJD na|CCP parisukat|NNC ,|PMC Sa|CCT itaas|JJD ay|LM nagkalat|VBTS .|PMP
+May|VBH naligaw|VBTS sa|CCT pasimano|NNC ,|PMC Nakatago|VBTS ,|PMC doon|PRL ba|RBI o|CCT dito|PRL ?|PMQ
+Masdan|VBTF ang|DTC mga|DTCP berdeng|JJD_CCP dahon|NNC ,|PMC Ng|NNP matanda|JJD at|CCA mataas|JJD na|CCP puno|NNC .|PMP
+May|VBH sanga|NNC na|CCP may|VBH dahong|NNC_CCP ginto|NNC ,|PMC Puwede|RBT mo|PRS bang|RBI_CCP ituro|VBOF ?|PMQ
+Mga|DTCP eroplanong|NNC_CCP lumipad|VBAF sa|CCT langit|NNC ,|PMC Ay|JJN tuwid|JJD na|CCP usok|NNC ang|DTC iginuguhit|VBTR .|PMP
+Pero|CCT mayro|NNC '|PMS ng|CCB isa|PRI ,|PMC sa|CCT kaniyang|PRSP_CCP buntot|NNC ,|PMC Ay|FW ibinubuga|VBTS ,|PMC ang|DTC pakurbang|JJD_CCP usok|NNC .|PMP
+Mga|DTCP ibong|NNC_CCP pumapaswit|VBTR_VBAF Tumingin|VBTS_VBAF ka|PRS ,|PMC nasa|RBL langit|NNC .|PMP
+Alam|VBS mo|PRS ba|RBI ,|PMC may|VBH tahimik|JJD ,|PMC Sino|PRQ kaya|CCR itong|PRO_CCP pipit|NNC ?|PMQ
+May|VBH mga|DTCP puting|JJD_CCP ulap|NNC sa|CCT kalangitan|NNC ,|PMC Sabay|RBD kumikinang|JJD sa|CCT ilalim|JJD ng|CCB sikat|JJD ng|CCB araw|NNC .|PMP
+Ngunit|CCT may|VBH nagnanais|VBTR na|CCP maiba|VBW at|CCA ulan|NNC gustong|VBS_CCP maranasan|VBW ,|PMC May|VBH masabi|VBW man|RBI ang|DTC iba|PRI gayunpaman|CCB ito|PRO '|PMS y|FW walang|VBN_CCP pakialam|NNC .|PMP
+Papalubog|NNP na|CCP ang|DTC araw|NNC ,|PMC At|CCA sasapit|VBTF na|CCP ang|DTC gabi|NNC .|PMP
+Sa|CCT mga|DTCP ilaw|NNC sa|CCT dilim|NNC ,|PMC May|VBH gaya|JJC ba|RBI ng|CCB bituin|NNC ?|PMQ
+Natutulog|VBTR kung|CCR araw|NNC ang|DTC paniki|NNC ,|PMC At|CCA lumalabas|VBTR_VBAF tuwing|RBW sasapit|VBTF ang|DTC gabi|NNC .|PMP
+Maituturo|VBTF mo|PRS ba|RBI ang|DTC bukod|CCT -|PMS tangi|JJD ,|PMC Na|CCP mahimbing|JJD ang|DTC tulog|NNC sa|CCT isang|PRI_CCP tabi|NNC ?|PMQ
+Maraming|PRI_CCP mga|DTCP planeta|NNC sa|CCT buong|PRI_CCP kalawakan|NNC ,|PMC Karamiha|NNP '|PMS y|FW maliliwanag|FW at|CCA nagkikislapan|VBTS .|PMP
+Sa|CCT palibot|JJD ng|CCB isa|PRI sa|CCT mga|DTCP ito|PRO agad|RBD mapapansin|VBTF Bukod|CCT tanging|JJD_CCP planeta|NNC na|CCP tila|RBM may|VBH gintong|JJD_CCP singsing|NNC .|PMP

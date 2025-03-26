@@ -1,0 +1,39 @@
+Ibang|PRI_CCP iba|PRI sa|CCT karamihan|PRI ang|DTC kasuotan|NNC ni|DTP Chalern|NNP ,|PMC unang|JJN_CCP araw|NNC pa|RBI lamang|RBI ng|CCB pasukan|NNC .|PMP
+Pakiramdam|NNP niya|PRS ay|LM tutuksuhin|VBTF siya|PRS at|CCA gawing|VBOF_CCP tampulan|NNC ng|CCB tawanan|NNC .|PMP
+Sa|CCT tuwing|RBW ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC ay|LM nakatitig|VBTS sa|CCT kanya|PRSP ,|PMC pakiramdam|NNC ni|DTP Chalern|NNP ay|LM na|CCP hindi|RBF siya|PRS "|PMS in|FW "|PMS sa|CCT grupo|NNC .|PMP "|PMS
+Anong|PRQ_CCP nangyari|VBTS Chalern|NNP ,|PMC bakit|PRQ hindi|RBF ka|PRS nakikipaglaro|VBTR sa|CCT amin|PRSP ?|PMQ "|PMS
+,|PMC nag|VBTS -|PMS aalalang|NNC_CCP tanong|NNC ng|CCB kanyang|PRSP_CCP kaibigang|NNC_CCP si|DTP Lipa|NNP .|PMP "|PMS
+Nahihiya|VBTS ako|PRS sa|CCT suot|JJD kong|PRS_CCP lumang|JJD_CCP sapatos|NNC "|PMS ,|PMC sagot|NNC ni|DTP Chalern|NNP .|PMP "|PMS
+At|CCA bakit|PRQ naman|RBI pinili|VBOF mong|PRS_CCP isuot|VBOF ang|DTC luma|JJD mong|PRS_CCP sapatos|NNC ?|PMQ "|PMS
+usisa|NNC ni|DTP Lipa|NNP .|PMP "|PMS
+Gusto|VBS kasi|CCR ng|CCB aking|PRSP_CCP kapatid|NNC ng|CCB bagong|JJD_CCP sapatos|NNC "|PMS ,|PMC sambit|NNC niya|PRS .|PMP "|PMS
+Isa|PRI lamang|RBI kasi|CCR ang|DTC kayang|RBD_CCP bilhin|VBOF ng|CCB aming|PRSP_CCP magulang|NNC na|CCP bagong|JJD_CCP sapatos|NNC ,|PMC at|CCA isa|PRI pa|RBI ,|PMC ang|DTC lumang|JJD_CCP kong|PRS_CCP sapatos|NNC ay|LM kasya|JJD pa|RBI naman|RBI sa|CCT akin|PRSP at|CCA pwede|RBT pang|RBI_CCP gamiting|VBOF muli|RBW ,|PMC "|PMS dagdag|JJD na|CCP pahayag|NNC ni|DTP Chalern|NNP .|PMP "|PMS
+Wow|NNP !|PMS
+Ang|DTC galing|RBL naman|RBI !|PMQ
+Nakakahanga|VBTR ka|PRS Chalern|NNP !|PMS
+Dahil|CCR diyan|PRL ay|LM isusuot|VBOF kong|PRS_CCP muli|RBW ang|DTC aking|PRSP_CCP pinaglumaang|VBRF_CCP sapatos|NNC .|PMP
+Halika|NNP na|CCP ,|PMC maglaro|VBAF na|CCP tayo|PRP !|PMS "|PMS
+yaya|NNC ni|DTP Lipa|NNP kay|DTP Chalern|NNP .|PMP
+Kinaumagahan|NNP isinuot|VBTS nga|RBI ni|DTP Lipa|NNP ang|DTC kanyang|PRSP_CCP lumang|JJD_CCP kasuotan|NNC na|CCP pwede|VBS pang|RBI_CCP suotin|FW sa|CCT kanilang|PRSP_CCP paaralan|NNC .|PMP "|PMS
+Lipa|NNP ,|PMC anong|PRQ_CCP nangyari|VBTS at|CCA isinuot|VBTS mo|PRS ang|DTC mga|DTCP dati|JJD mong|PRS_CCP damit|NNC ?|PMQ "|PMS
+,|PMC tanong|NNC ng|CCB malalapit|JJD niyang|PRS_CCP kaibigan|NNC .|PMP "|PMS
+Binigay|VBOF ko|PRS kasi|CCR ang|DTC ibang|PRI_CCP mga|DTCP bago|RBW kong|PRS_CCP damit|NNC sa|CCT batang|JJD_CCP babaeng|NNC_CCP umiiyak|VBTR_VBAF dahil|CCR wala|VBN siyang|PRS_CCP bagong|JJD_CCP damit|NNC .|PMP
+Ayaw|RBF kasi|CCR pumasok|VBAF sa|CCT paaralan|NNC ,|PMC "|PMS saad|NNC ni|DTP Lipa|NNP .|PMP "|PMS
+Hindi|RBF ka|PRS ba|RBI nahihiya|VBTS sa|CCT lumang|JJD_CCP suot|JJD mo|PRS ?|PMQ "|PMS
+tanong|NNC ni|DTP Ali|NNP kay|DTP Lipa|NNP .|PMP "|PMS
+Hindi|RBF ah|NNCA !|PMQ
+Masaya|NNP ako|PRS na|CCP makatulong|VBW sa|CCT iba|PRI "|PMS saad|NNC ni|DTP Lipa|NNP .|PMP "|PMS
+Aw|NNP "|PMS ,|PMC gusto|VBS ko|PRS ding|RBI_CCP maging|VBW katulad|JJC mo|PRS Lipa|NNP ,|PMC "|PMS tugon|NNC ni|DTP Ali|NNP .|PMP
+Sumunod|VBAF na|CCP araw|NNC ,|PMC ginamit|VBOF ni|DTP Ali|NNP ang|DTC kanyang|PRSP_CCP pinaglumaang|VBRF_CCP bag|NNC .|PMP "|PMS
+Anak|NNP ,|PMC bakit|PRQ hindi|RBF mo|PRS ginagamit|VBTR ang|DTC bago|RBW mong|PRS_CCP bag|NNCA ?|PMQ "|PMS
+tanong|NNC ng|CCB kanyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Okay|NNP pa|RBI po|RBS ang|DTC bag|VBS ko|PRS inay|RBI ,|PMC pwede|VBS ko|PRS pa|RBI po|RBS gamiting|VBOF muli|RBW ito|PRO ,|PMC "|PMS paliwanag|NNC niya|PRS .|PMP
+Pagdaan|VBW ng|CCB mga|DTCP araw|NNC ,|PMC ang|DTC pagbabago|NNC ay|LM naganap|VBTS .|PMP "|PMS
+Bakit|PRQ kaya|CCR dumarami|VBAF ang|DTC nagsusuot|VBTR muli|RBW ng|CCB kanilang|PRSP_CCP pinaglumaang|VBRF_CCP kagamitan|NNC ?|PMQ "|PMS
+nagtataka|VBTR at|CCA nahihiwagaang|VBTS_CCP tanong|NNC ng|CCB kanilang|PRSP_CCP guro|NNC .|PMP "|PMS
+Si|DTP Chalern|NNP po|RBS ma'am|VBW !|PMQ
+Siya|PRS po|RBS ang|DTC pasimuno|NNC at|CCA ang|DTC aming|PRSP_CCP idolo|NNC !|PMS "|PMS
+sagot|NNC ni|DTP Aloune|NNP .|PMP
+Masayang|RBD_CCP masaya|JJD ang|DTC kanilang|PRSP_CCP guro|NNC sa|CCT kanilang|PRSP_CCP pagpapahalaga|NNC sa|CCT pinaglumaang|VBRF_CCP bagay|NNC at|CCA kung|RBK ano|RBQ meron|VBH sila|PRP .|PMP
+Simula|RBW noon|RBW ,|PMC hindi|RBF na|RBI nahihiya|VBTS ang|DTC mga|DTCP mag|VBW -|PMS aaral|NNC kung|CCR luma|JJD man|RBI ang|DTC suot|JJD nila|PRP sa|CCT pagpasok|NNC sa|CCT eskwela|NNC .|PMP
+Ang|DTC importante|JJD ay|LM ay|LM malinis|JJD ito|PRO at|CCA maayos|JJD pa|RBI .|PMP

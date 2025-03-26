@@ -1,0 +1,18 @@
+Si|DTP Botse|NNP -|PMS Botse|NNP ay|LM nakarinig|VBTS ng|CCB awiting|NNC_CCP pangkasal|JJD .|PMP
+Gusto|VBS na|RBI rin|RBI niyang|PRS_CCP maikasal|VBW .|PMP
+Pinag|VBRF -|PMS isipan|NNC niya|PRS ang|DTC kanyang|PRSP_CCP mga|DTCP kakailanganin|VBTF .|PMP
+Kailangan|VBS ko|PRS ng|CCB singsing|NNC !|PMS
+Ayan|NNP ,|PMC ngayon|RBW ay|LM mayroon|VBH na|CCP akong|PRS_CCP singsing|NNC .|PMP
+Kailangan|VBS ko|PRS ng|CCB damit|NNC pangkasal|JJD !|PMS
+Ayan|NNP .|PMP
+Ngayon|RBW ay|LM mayroon|VBH na|CCP akong|PRS_CCP damit|NNC pangkasal|JJD .|PMP
+Kailangan|VBS ko|PRS ng|CCB koronang|NNC_CCP pangkasal|JJD .|PMP
+Ayan|NNP ,|PMC ngayon|RBW ay|LM mayroon|VBH na|CCP akong|PRS_CCP korona|NNC .|PMP
+Pero|CCT ,|PMC nasaan|JJD ang|DTC aking|PRSP_CCP mapapangasawa|VBW ?|PMQ
+Ay|NNP !|PMS
+Siguro|RBM nga|RBI masyado|JJCS pa|RBI akong|PRS_CCP bata|NNC para|CCT magpakasal|VBW .|PMP
+Kailangan|VBS kong|PRS_CCP pumasok|VBAF sa|CCT paaralan|NNC .|PMP
+Mag|NNP -|PMS aaral|FW akong|PRS_CCP magbasa|VBAF sa|CCT paaralan|NNC .|PMP
+Mag|NNP -|PMS aaral|FW akong|PRS_CCP magsulat|VBAF sa|CCT paaralan|NNC .|PMP
+Mag|NNP -|PMS aaral|FW akong|PRS_CCP magsulat|VBAF ng|CCB mga|DTCP kwentong|NNC_CCP patungkol|JJD sa|CCT mga|DTCP kababaihan|NNC na|CCP katulad|JJC ko|PRS rin|RBI .|PMP
+Babae|NNP na|CCP kayang|RBD_CCP gawin|VBOF ang|DTC lahat|PRI !|PMQ

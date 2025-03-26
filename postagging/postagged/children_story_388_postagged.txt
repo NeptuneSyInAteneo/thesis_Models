@@ -1,0 +1,22 @@
+Isang|PRI_CCP gabi|RBW ,|PMC pinatutulog|VBTS ako|PRS ni|DTP Lolo|NNP .|PMP
+Malambot|JJD ang|DTC kaniyang|PRSP_CCP kamay|NNC ,|PMC kakaunti|JJD na|CCP ang|DTC buhok|NNC sa|CCT ulo|NNC .|PMP "|PMS
+Ako|PRS sa|CCT iyo|PRSP ay|LM may|VBH kwento|NNC ,|PMC si|DTP Lory|NNP Dory|NNP ang|DTC bida|NNC rito|PRL .|PMP "|PMS
+Si|DTP Lory|NNP Dory|NNP at|CCA ikaw|PRS ay|LM hindi|RBF pwedeng|RBT_CCP magkita|VBW ,|PMC dahil|CCR siya|PRS ay|LM ipanganak|VBOF na|CCP hindi|RBF nakikita|VBTR .|PMP
+Makikita|VBTF mo|PRS lamang|RBI si|DTP Lory|NNP kung|CCR siya|PRS ay|LM tamaan|VBTF ng|CCB ulan|NNC ,|PMC o|CCT kung|CCR siya|PRS ay|LM nakahiga|VBTS sa|CCT malambot|JJD na|CCP kumot|NNC at|CCA unan|NNC .|PMP
+Walang|VBN_CCP kalaro|NNC si|DTP Lory|NNP .|PMP
+Ang|DTC tawag|NNC ng|CCB mga|DTCP bata|NNC sa|CCT kaniya|PRSP ay|LM marami|PRI .|PMP "|PMS
+Tingnan|VBOF niyo|PRP ,|PMC si|DTP Lory|NNP .|PMP
+Ang|DTC batang|JJD_CCP nawawala|VBTR !|PMQ
+Siguro|RBM ay|LM hindi|RBF siya|PRS tao|NNC ,|PMC mahilig|JJD lang|RBI siyang|PRS_CCP magbalat|VBW -|PMS kayo|PRP .|PMP
+Isang|PRI_CCP araw|NNC sa|CCT paaralan|NNC ,|PMC isang|PRI_CCP batang|JJD_CCP lalaki|NNC ang|DTC gusto|VBS siyang|PRS_CCP masulyapan|VBW ,|PMC "|PMS Ano|PRQ ang|DTC iyong|PRSP_CCP anyo|NNC ,|PMC sa|CCT nyebe|NNC lang|RBI kita|NNC unang|JJN_CCP nakatagpo|VBTS .|PMP "|PMS "|PMS
+Pwede|RBT mo|PRS bang|RBM ipinta|VBOF ang|DTC iyong|PRSP_CCP itsura|NNC ?|PMQ "|PMS
+Magagawa|VBTF ni|DTP Lory|NNP ,|PMC alam|VBS niya|PRS .|PMP
+Pero|CCT hindi|RBF kagaya|JJC ng|CCB inaasahan|VBTR ng|CCB batang|JJD_CCP gawin|VBOF niya|PRS .|PMP
+Kinulayan|VBTS ni|DTP Lory|NNP ang|DTC kaniyang|PRSP_CCP katawan|NNC ,|PMC mga|DTCP bagay|NNC sa|CCT mundong|NNC_CCP kaniyang|PRSP_CCP kinagigiliwan|VBOF mula|RBW sa|CCT lupain|NNC hanggang|RBW sa|CCT kalawakan|NNC .|PMP
+Marangal|RBD niyang|PRS_CCP kinukuluyan|VBOF ang|DTC kaniyang|PRSP_CCP sarili|NNC ipinipinta|VBOF ang|DTC totoong|RBT_CCP siya|PRS sa|CCT kaloob|NNC -|PMS looban|NNC niya|PRS .|PMP "|PMS
+Alam|VBS kong|PRS_CCP hindi|RBF ako|PRS nakikita|VBTR ng|CCB marami|PRI ,|PMC hindi|RBF naiintindihan|VBTR .|PMP
+Kaya|CCR ang|DTC sarili|NNC ko|PRS ay|LM kinuluyan|VBOF ,|PMC ang|DTC totoong|RBT_CCP ako|PRS sa|CCT aking|PRSP_CCP kaloob|NNC -|PMS looban|NNC .|PMP "|PMS "|PMS
+Kwentong|NNP -|PMS barbero|NNC lang|RBI ba|RBI ito|PRO ,|PMC Lolo|NNP ?|PMQ
+O|NNPA ,|PMC totoong|RBT_CCP kwento|NNC ito|PRO ?|PMQ
+Totoo|RBT ba|RBI si|DTP Lory|NNP –|CDB parang|CCT ikaw|PRS o|CCT ikaw|PRS .|PMP ?|PMQ
+Nang|RBW lumabas|VBAF si|DTP Lolo|NNP ay|LM hindi|RBF ako|PRS sigurado|RBT ,|PMC pero|CCT sa|CCT palagay|NNC ko|PRS ,|PMC si|DTP Lory|NNP ay|LM nasa|RBL labas|JJD lamang|RBI ng|CCB pinto|NNC .|PMP

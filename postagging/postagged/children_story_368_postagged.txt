@@ -1,0 +1,50 @@
+Tumataas|VBTR_VBAF ang|DTC tubig|NNC !|PMS
+Tumataas|VBTR_VBAF ang|DTC tubig|NNC !|PMS
+Litong|NNP -|PMS lito|NNC si|DTP Nina|NNP .|PMP
+Hindi|RBF na|RBI niya|PRS makilala|VBW kung|RBK sino|RBQ -|PMS sino|PRQ ang|DTC tumatakbo|VBTR_VBAF sa|CCT paligid|NNC niya|PRS .|PMP
+Hindi|RBF niya|PRS rin|RBI kilala|JJD ang|DTC babaeng|NNC_CCP nakahawak|VBTR sa|CCT kaniyang|PRSP_CCP kamay|NNC .|PMP
+Isinama|VBTS siya|PRS ni|DTP Ate|NNP sa|CCT evacuation|FW center|FW .|PMP
+Maraming|PRI_CCP nasaktan|VBTS nang|RBW magtakbuhan|VBW ang|DTC mga|DTCP tao|NNC .|PMP
+Kaya|CCR ,|PMC abalang|NNC_CCP -|PMS abala|NNC siya|PRS sa|CCT pag|CCR -|PMS aasikaso|VBTF ng|CCB mga|DTCP taong|NNC_CCP sugatan|JJD .|PMP "|PMS
+Dito|PRL ka|PRS lang|RBI at|CCA titignan|VBOF ko|PRS muna|RBI ang|DTC ibang|PRI_CCP pasyente|NNC sa|CCT kabilang|JJD_CCP silid|NNC ,|PMC "|PMS sabi|VBS ni|DTP Ate|NNP .|PMP "|PMS
+Ate|NNP ,|PMC ayaw|VBS ko|PRS pong|PRO_CCP maiwang|VBTF_CCP mag|VBW -|PMS isa|PRI .|PMP
+Gusto|VBS ko|PRS pong|PRO_CCP sumama|VBAF sa|CCT iyo|PRSP ,|PMC "|PMS pakiusap|NNC ni|DTP Nina|NNP .|PMP
+Nais|VBS ni|DTP Nina|NNP na|CCP makita|VBW ang|DTC kaniyang|PRSP_CCP ina|NNC at|CCA ama|NNC .|PMP
+Kinausap|VBTS siya|PRS ni|DTP Ate|NNP ,|PMC "|PMS darating|VBTF mamaya|RBW ang|DTC iyong|PRSP_CCP ina|NNC at|CCA ama|NNC upang|CCB ikaw|PRS ay|LM sunduin|VBOF .|PMP
+Hintayin|VBOF mo|PRS sila|PRP ,|PMC ha|NNCA .|PMP "|PMS "|PMS
+Kumain|VBAF ka|PRS muna|RBI ng|CCB biskuwit|NNC ,|PMC "|PMS ang|DTC sabi|VBS ng|CCB ate|NNC .|PMP "|PMS
+Hindi|RBF po|RBS ako|PRS gutom|NNC ,|PMC "|PMS ang|DTC sagot|NNC ni|DTP Nina|NNP .|PMP
+Niyayaya|VBTS ni|DTP Nina|NNP si|DTP Ate|NNP na|CCP maglaro|VBAF .|PMP "|PMS
+Kailangan|VBS ko|PRS munang|RBW_CCP tumulong|VBAF sa|CCT ibang|PRI_CCP tao|NNC ,|PMC mamaya|RBW na|CCP tayo|PRP maglaro|VBAF ,|PMC "|PMS ang|DTC sabi|VBS ng|CCB ate|NNC .|PMP
+Naiinip|NNP na|CCP si|DTP Nina|NNP sa|CCT paghihintay|NNC at|CCA pagmamasid|NNC sa|CCT paligid|NNC .|PMP
+Kung|CCR kaya|CCR '|PMS t|NNCA naisipan|VBTS niyang|PRS_CCP tulungan|NNC si|DTP Ate|NNP .|PMP "|PMS
+Mmmm|NNP ...|PMS ang|DTC bango|NNC !|PMS "|PMS
+Nagutom|VBTS si|DTP Nina|NNP nang|RBW maamoy|VBW niya|PRS ang|DTC nilulutong|JJD_CCP pansit|NNC .|PMP
+Tuwang|NNP -|PMS tuwa|NNC si|DTP Nina|NNP habang|RBW kumakain|VBTR_VBAF ng|CCB pansit|JJD .|PMP
+Maliwanag|RBD ang|DTC buwan|NNC kung|CCR kaya|CCR '|PMS t|NNCA nakipaglaro|VBTS si|DTP Nina|NNP sa|CCT labas|NNC habang|RBW naghihintay|VBTR .|PMP
+Sumama|VBAF rin|RBI siya|PRS sa|CCT kuwentuhan|NNC .|PMP
+Ang|DTC kuwento|NNC ay|LM tungkol|RBR kay|DTP Piko|NNP ,|PMC ang|DTC Giraffe|NNP .|PMP "|PMS
+Tingnan|VBOF niyo|PRP !|PMQ
+Narito|VBTS si|DTP Piko|NNP at|CCA ang|DTC kabayo|NNC .|PMP
+Mayroon|VBH ding|RBI_CCP iba|PRI pang|RBI_CCP hayop|NNC !|PMS "|PMS
+sabi|VBS ng|CCB isang|PRI_CCP bata|NNC .|PMP "|PMS
+Ito|PRO naman|RBI ang|DTC malaking|JJD_CCP agila|NNC !|PMS "|PMS
+sabi|VBS naman|RBI ng|CCB isa|PRI .|PMP
+Malalim|JJD na|CCP ang|DTC gabi|RBW kaya|CCR sinabihan|VBOF ni|DTP Ate|NNP si|DTP Nina|NNP na|CCP matulog|VBW na|RBI .|PMP
+Pagkagising|VBW niya|PRS ,|PMC nasorpresa|VBTS siya|PRS .|PMP
+Dumating|VBAF na|RBI ang|DTC kaniyang|PRSP_CCP ina|NNC at|CCA ama|NNC .|PMP "|PMS
+Nina|NNP ,|PMC narito|PRL na|CCP kami|PRP .|PMP
+Huwag|RBF ka|PRS nang|RBW mag|VBW -|PMS alala|NNC ,|PMC magiging|VBTF maayos|JJD din|RBI ang|DTC lahat|PRI ,|PMC "|PMS ang|DTC sabi|VBS ng|CCB kaniyang|PRSP_CCP ina|NNC at|CCA ama|NNC .|PMP
+Uuwi|NNP na|CCP si|DTP Nina|NNP sa|CCT kanilang|PRSP_CCP bahay|NNC .|PMP "|PMS
+Paalam|NNP ,|PMC Ate|NNP Bungi|NNP !|PMS "|PMS
+ang|DTC sabi|VBS ni|DTP Nina|NNP .|PMP "|PMS
+Ooops|NNP ,|PMC ano|PRQ bang|RBM pangalan|NNC ni|DTP Ate|NNP ?|PMQ "|PMS
+tanong|NNC ng|CCB ina|NNC ni|DTP Nina|NNP .|PMP "|PMS
+Hahaha|NNP !|PMS "|PMS
+,|PMC malakas|JJD na|CCP tawa|NNC ni|DTP Ate|NNP .|PMP "|PMS
+Inay|NNP ,|PMC siya|PRS po|RBS si|DTP Sister|NNP Mala|NNP .|PMP "|PMS
+sagot|NNC ni|DTP Nina|NNP .|PMP
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC proyektong|NNC_CCP ito|PRO sa|CCT paglikha|NNC ng|CCB aklat|NNC ay|LM nagtatampok|VBTR ng|CCB mga|DTCP natatanging|JJD_CCP kababaihan|NNC bilang|CCT pangunahing|JJD_CCP tauhan|NNC sa|CCT kuwento|NNC at|CCA kinabibilangan|VBTR ng|CCB mga|DTCP babaeng|JJD_CCP manunulat|NNC ,|PMC illustrador|NNC ,|PMC tagapatnugot|NNC ,|PMC at|CCA pagguhit|NNC .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM ginawa|VBTS sa|CCT pamamagitan|NNC ng|CCB mga|DTCP pagsasanay|NNC sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP at|CCA suportado|JJD ng|CCB Estee|NNP Lauder|NNP Companies|NNP .|PMP
+Ang|DTC pagsasanay|NNC at|CCA iba|PRI pang|RBI_CCP propesyunal|JJD na|CCP pagsulong|NNC tulad|JJC ng|CCB pagguhit|NNC at|CCA pag|CCR -|PMS akda|NNC ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

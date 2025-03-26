@@ -1,0 +1,13 @@
+Gusto|VBS naming|PRP_CCP bisitahin|VBOF si|DTP Samnang|NNP .|PMP
+Gusto|VBS naming|PRP_CCP bisitahin|VBOF si|DTP Socheata|NNP .|PMP
+Gusto|VBS naming|PRP_CCP bisitahin|VBOF si|DTP Seiha|NNP .|PMP
+Gusto|VBS naming|PRP_CCP bisitahin|VBOF si|DTP Bopha|NNP .|PMP
+Gusto|VBS naming|PRP_CCP bisitahin|VBOF si|DTP Bona|NNP .|PMP
+Gusto|VBS naming|PRP_CCP bisitahin|VBOF si|DTP Sokha|NNP .|PMP
+Gusto|VBS naming|PRP_CCP puntahan|VBOF si|DTP Sophy|NNP .|PMP
+Gusto|VBS naming|PRP_CCP bisitahin|VBOF ang|DTC tito|NNC at|CCA tita|NNC ko|PRS .|PMP .|PMP
+Sino|PRQ ang|DTC unang|JJN_CCP binisita|VBTS nina|DTPP Da|NNP at|CCA Sa|CCT ?|FW .|PMP
+Sino|PRQ ang|DTC huling|RBW_CCP binisita|VBOF nina|DTPP Da|NNP at|CCA Sa|CCT ?|FW .|PMP
+Alam|VBS mo|PRS ba|RBI ang|DTC dahilan|NNC bakit|PRQ binisita|VBOF nila|PRP Da|NNP at|CCA Sa|CCT sina|DTPP Samnang|NNP ,|PMC Socheata|NNP ,|PMC Seiha|NNP ,|PMC Bopha|NNP ,|PMC Bona|NNP ,|PMC Sokha|NNP ,|PMC Sophy|NNP ,|PMC Tiyo|NNC at|CCA Tiya|NNC ?|PMQ .|PMP
+Nasubukan|VBTS mo|PRS na|CCP ba|RBI bumisita|VBAF sa|CCT ibang|PRI_CCP tahanan|NNC ?|PMQ
+Sino|PRQ ang|DTC pinuntahan|VBOF mo|PRS ?|PMQ

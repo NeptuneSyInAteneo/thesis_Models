@@ -1,0 +1,9 @@
+Gusto|VBS kong|PRS_CCP magbasa|VBW .|PMP
+Sino|PRQ ang|DTC maaari|VBS kong|PRS_CCP basahan|VBTS_VBOF ?|PMQ
+Tulog|JJD na|CCP si|DTP bunso|NNC .|PMP
+Sino|PRQ ang|DTC maaari|VBS kong|PRS_CCP basahan|VBTS_VBOF ?|PMQ
+Ang|DTC aking|PRSP_CCP ina|NNC at|CCA lola|NNC ay|LM abala|NNC .|PMP
+Sino|PRQ ang|DTC maaari|VBS kong|PRS_CCP basahan|VBTS_VBOF ?|PMQ
+Ang|DTC aking|PRSP_CCP ama|NNC at|CCA lolo|NNC ay|LM abala|NNC .|PMP
+Sino|PRQ ang|DTC maaari|VBS kong|PRS_CCP basahan|VBTS_VBOF ?|PMQ
+Maari|VBS kong|PRS_CCP basahan|VBTS_VBOF ang|DTC sarili|NNC ko|PRS !|PMQ

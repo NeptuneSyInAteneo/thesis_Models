@@ -1,0 +1,18 @@
+Saan|PRQ kaya|CCR nagpupunta|VBTR ang|DTC mga|DTCP iniisip|VBTR ko|PRS ?|PMQ
+Sila|PRP ba|RBI ay|LM bumabagsak|VBTR_VBAF o|CCT humahampas|VBTR_VBAF kapag|CCR naglalakad|VBTR ?|PMQ
+Sila|PRP ba|RBI ay|LM walang|VBN_CCP humpay|JJD sa|CCT pag|CCR -|PMS ikot|NNC ,|PMC at|CCA ikot|NNC ,|PMC at|CCA ikot|NNC na|CCP tila|RBM bentilador|NNC at|CCA tuluyang|RBD_CCP mahilo|VBW ?|PMQ
+Sila|PRP ba|RBI ay|LM sumasakay|VBTR_VBAF sa|CCT eroplanong|NNC_CCP papel|NNC upang|CCB makipaglaro|VBW sa|CCT mga|DTCP ulap|NNC ?|PMQ
+Sila|PRP ba|RBI ay|LM natutulog|VBTR katulad|JJC ni|DTP Raasu|NNP buong|PRI_CCP araw|NNC pagkatapos|VBW kumain|VBAF ng|CCB marami|PRI ?|PMQ
+Sila|PRP ba|RBI ay|LM nagtatago|VBTR sa|CCT loob|NNC ng|CCB bag|NNC ni|DTP Mumma|NNP at|CCA palihim|JJD na|CCP sumasama|VBTR_VBAF sa|CCT kaniya|PRSP papunta|VBW sa|CCT trabaho|NNC ?|PMQ
+Sila|PRP ba|RBI ay|LM patingkayad|RBD na|CCP umiikot|VBTR sa|CCT bahay|NNC upang|CCB maghanap|VBW ng|CCB kaganapan|NNC ?|PMQ
+Sila|PRP ba|RBI ay|LM tumutubong|VBTR_VBAF katulad|JJC ng|CCB kamatis|NNC kapag|CCR itinanim|VBTS sila|PRP ni|DTP Papa|NNP sa|CCT lupa|NNC ?|PMQ
+Sila|PRP ba|RBI ay|LM kumikinang|VBTR_VBAF kapag|CCR lumalabas|VBTR_VBAF na|CCP ang|DTC mga|DTCP bituin|NNC ?|PMQ
+Ngunit|CCT sandali|RBW ,|PMC hindi|RBF ko|PRS mahanap|VBW ang|DTC aking|PRSP_CCP mga|DTCP iniisip|VBTR !|PMQ
+Sila|PRP ba|RBI ay|LM nagtago|VBTS sa|CCT ilalim|JJD ng|CCB aking|PRSP_CCP kama|NNC dahil|CCR takot|JJD sila|PRP sa|CCT dilim|NNC ?|PMQ "|PMS
+Maging|VBW matapang|JJD !|PMS "|PMS
+sa|CCT isip|NNC ko|PRS .|PMP "|PMS
+Okey|NNP lang|RBI iyon|PRO .|PMP
+Kaunting|PRI_CCP dilim|NNC lang|RBI iyan|PRO .|PMP "|PMS
+Pupunta|VBTF na|CCP ako|PRS sa|CCT higaan|NNC .|PMP
+Sila|PRP ay|LM lalabas|VBTF at|CCA iikot|VBTF -|PMS ikot|NNC sa|CCT aking|PRSP_CCP ulo|NNC .|PMP
+Sabi|VBW ng|CCB mga|DTCP naiisip|VBTR ko|PRS ay|LM zzzzzzzzz|FW habang|RBW kasama|CCB ko|PRS .|PMP

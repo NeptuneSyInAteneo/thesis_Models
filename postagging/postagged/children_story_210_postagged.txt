@@ -1,0 +1,23 @@
+"|PMS Kumusta|JJD ,|PMC mga|DTCP kaibigan|NNC !|PMS "|PMS
+sigaw|NNC ni|DTP Douangkeo|NNP .|PMP
+ANg|RBF kanilang|PRSP_CCP mga|DTCP pangalan|NNC ay|LM Duoangta|NNP ,|PMC Khamla|NNP and|FW Khonesavan|NNP .|PMP
+Nais|VBS ni|DTP Khamla|NNP na|CCP maging|VBW isang|PRI_CCP guro|NNC dahil|CCR gusto|VBS niyang|PRS_CCP tulungan|VBTF_VBOF ang|DTC mga|DTCP tao|NNC na|CCP matuto|VBW .|PMP
+Nais|VBS ni|DTP Duoangta|NNP na|CCP maging|VBW isang|PRI_CCP doktor|NNC dahil|CCR nais|VBS niyang|PRS_CCP makatulong|VBW sa|CCT mga|DTCP taong|NNC_CCP may|VBH sakit|NNC .|PMP
+Si|DTP Khonesavan|NNP ay|LM nais|VBS na|CCP maging|VBW isang|PRI_CCP baguhang|JJD_CCP monghe|NNC dahil|CCR nais|VBS niyang|PRS_CCP ipakita|VBOF sa|CCT kanyang|PRSP_CCP komunidad|NNC kung|RBK paano|RBQ maging|VBW isang|PRI_CCP mabuting|JJD_CCP tao|NNC .|PMP
+At|CCA si|DTP Douangkeo|NNP ,|PMC gusto|VBS niyang|PRS_CCP maging|VBW isang|PRI_CCP mahiko|JJD ,|PMC dahil|CCR gusto|VBS niya|PRS pagtatanghal|VBW ng|CCB mahika|VBW !|PMQ
+Ngunit|CCT hindi|RBF niya|PRS alam|VBS kung|RBK ano|RBQ ang|DTC gagawin|VBTF !|PMQ
+Wala|VBN siyang|PRS_CCP mga|DTCP gamit|NNC na|CCP kailangan|VBS ng|CCB isang|PRI_CCP salamangkero|NNC .|PMP
+Walang|VBN_CCP kahit|CCT isang|PRI_CCP paaralan|NNC para|CCT sa|CCT mga|DTCP salamangkero|NNC sa|CCT kanyang|PRSP_CCP kapitbahayan|NNC .|PMP
+Mahal|NNP ni|DTP Douangkeo|NNP ang|DTC kaniyang|PRSP_CCP aso|NNC .|PMP
+Mahusay|JJD siyang|PRS_CCP katulong|NNC .|PMP
+Mahusay|JJD siya|PRS sa|CCT mga|DTCP trick|FW .|PMP
+Lahat|PRI ng|CCB kanyang|PRSP_CCP tricks|FW ay|LM nagbigay|VBTS ng|CCB idea|NNC kay|DTP Douangkeo|NNP !|PMS
+Tinuruan|VBOF niya|PRS ang|DTC kanyang|PRSP_CCP sarili|NNC na|CCP maging|VBW isang|PRI_CCP mahiko|JJD .|PMP
+Nakatulong|VBTS ang|DTC kaniyang|PRSP_CCP pinagkakatiwalaang|VBTS_CCP aso|NNC .|PMP
+Una|CDB ,|PMC ginawa|VBTS niyang|PRS_CCP magic|NNC hat|NNC ang|DTC isang|PRI_CCP rice|FW basket|FW .|PMP
+Pagkaraan|VBW ,|PMC ginawa|VBOF niyang|PRS_CCP kapa|NNC ang|DTC isang|PRI_CCP kurtina|NNC .|PMP
+Naging|VBTS kahon|NNC naman|RBI ng|CCB mahika|VBW ang|DTC sisidlan|NNC ng|CCB malagkit|JJD na|CCP bigas|NNC .|PMP
+Ang|DTC chopstick|FW ay|LM kanyang|PRSP_CCP naging|VBTS wand|FW .|PMP
+Sa|CCT wakas|RBW ,|PMC naging|VBTS isang|PRI_CCP mahusay|JJD na|CCP mahiko|VBW si|DTP Douangkeo|NNP .|PMP
+Siya|PRS at|CCA ang|DTC kaniyang|PRSP_CCP aso|NNC ay|LM nagtanghal|VBTS ng|CCB mahika|NNC para|CCT sa|CCT kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC .|PMP
+At|CCA iyon|PRO ang|DTC kanilang|PRSP_CCP ginawa|VBOF .|PMP

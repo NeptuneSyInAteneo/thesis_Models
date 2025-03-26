@@ -1,0 +1,38 @@
+Nais|VBS kong|PRS_CCP gugulin|VBOF ang|DTC aking|PRSP_CCP bakasyon|NNC sa|CCT dalampasigan|NNC ngunit|CCT abala|NNC ang|DTC aking|PRSP_CCP mga|DTCP magulang|NNC sa|CCT paggawa|NNC ng|CCB pelikula|NNC kung|CCR kaya|CCR '|PMS t|NNCA naiiwan|VBTR akong|PRS_CCP nag|VBTS -|PMS iisa|JJD .|PMP
+Nakababagot|NNP !|PMS "|PMS
+Kumusta|NNP ,|PMC Randinka|NNP !|PMQ "|PMS "|PMS
+Ah|RBJ ,|PMC sino|PRQ '|PMS yan|PRO ?|PMQ "|PMS
+Napatingin|VBTS sa|CCT itaas|JJD si|DTP Radinka|NNP at|CCA nakita|VBTS n'ya|PRS ang|DTC batang|JJD_CCP babae|NNC .|PMP "|PMS
+Kumusta|NNP !|PMS "|PMS
+Sabi|VBS niya|PRS ,|PMC Emma|NNP ang|DTC kanyang|PRSP_CCP pangalan|NNC !|PMS
+Paano|PRQ nalaman|VBTS ni|DTP Emma|NNP ang|DTC pangalan|NNC ni|DTP Radinka|NNP ?|PMQ
+Ah|RBJ !|PMS
+Magkaibigan|VBW ang|DTC kanilang|PRSP_CCP mga|DTCP ama|NNC .|PMP "|PMS
+Gusto|VBS mo|PRS bang|RBM maglaro|VBAF ?|PMQ "|PMS
+tanong|NNC ni|DTP Emma|NNP .|PMP
+Nag|NNP -|PMS iisip|VBTF si|DTP Radika|NNP kung|RBK ano|RBQ ang|DTC kanilang|PRSP_CCP lalaruin|VBTF .|PMP "|PMS
+Halika|NNP ,|PMC gumawa|VBAF tayo|PRP ng|CCB kastilyong|NNC_CCP buhangin|NNC !|PMS "|PMS
+alok|NNC ni|DTP Emma|NNP .|PMP
+Oo|RBT ,|PMC maganda|JJD '|PMS yan|PRO .|PMP
+Nag|NNP -|PMS isip|NNC si|DTP Radika|NNP kung|RBK anong|RBQ_CCP uri|NNC ng|CCB kastilyong|NNC_CCP buhangin|NNC ang|DTC kanilang|PRSP_CCP gagawin|VBTF ...|PMS Maraming|PRI_CCP kagamitan|NNC si|DTP Emma|NNP para|CCT sa|CCT pagbuo|NNC ng|CCB kastilyong|NNC_CCP buhangin|NNC .|PMP
+Wow|NNP !|PMS
+Iminungkahi|VBTS ni|DTP Emma|NNP na|CCP lumangoy|VBAF sila|PRP .|PMP "|PMS
+Hilig|VBS ko|PRS ang|DTC lumangoy|VBAF pero|CCT paano|PRQ kaya|CCR kami|PRP lalangoy|VBTF nang|RBW sabay|RBD . . .|NNPA "|PMS pagtataka|NNC ni|DTP Radinka|NNP .|PMP
+Sabi|VBS ni|DTP Emma|NNP ,|PMC madalas|RBD silang|PRP_CCP lumangoy|VBAF kasama|CCB ang|DTC kaniyang|PRSP_CCP kapatid|NNC na|CCP lalaki|NNC ,|PMC si|DTP Depati|NNP .|PMP
+Sasamahan|VBOF tayo|PRP ni|DTP Depati|NNP sa|CCT paglangoy|NNC .|PMP
+Napakahusay|JJCS_JJD ni|DTP Emma|NNP sa|CCT pagsisid|NNC !|PMS
+Naging|VBTS masaya|JJD ang|DTC buong|PRI_CCP araw|NNC nina|DTPP Emma|NNP at|CCA Radinka|NNP .|PMP "|PMS
+Bukas|JJD ,|PMC maglalaro|VBTF uli|RBW kami|PRP .|PMP "|PMS
+Sabi|VBS ni|DTP Radinka|NNP sa|CCT kanyang|PRSP_CCP mga|DTCP magulang|NNC pagkatapos|VBW ng|CCB mahaba|JJD at|CCA masayang|JJD_CCP araw|NNC sa|CCT dagat|NNC kasama|CCB si|DTP Emma|NNP .|PMP
+Isang|PRI_CCP napakabihirang|JJCS_JJD_CCP karamdaman|NNC ang|DTC Tetra|NNP -|PMS Amalia|NNP syndrome|FW na|CCP nailalarawan|VBTS sa|CCT kawalan|NNC ng|CCB apat|JJN na|CCP paa|NNC .|PMP
+Ang|DTC '|PMS Tetra|NNP '|PMS ay|LM isang|PRI_CCP salitang|NNC_CCP Griyego|NNP para|CCT sa|CCT apat|CDB ,|PMC habang|RBW ang|DTC '|PMS amelia|FW '|PMS ay|LM tumutukoy|VBTR_VBAF sa|CCT kabiguan|NNC ng|CCB pagbuo|NNC ng|CCB mga|DTCP braso|NNC at|CCA binti|NNC mula|RBW pa|RBI bago|RBW ipanganak|VBOF .|PMP
+Maraming|PRI_CCP tao|NNC ang|DTC nag|PRSP_CCP -|PMS iisip|VBTF na|CCP ang|DTC mga|DTCP taong|NNC_CCP may|VBH sindrom|FW na|CCP ito|PRO ay|LM talagang|RBT_CCP umaasa|VBTR_VBAF sa|CCT mga|DTCP tulong|NNC ng|CCB iba|PRI .|PMP
+Sa|CCT katunayan|NNC ,|PMC ang|DTC mga|DTCP taong|NNC_CCP may|VBH sindrom|FW na|CCP ito|PRO ay|LM maaaring|RBM gumawa|VBAF ng|CCB maraming|PRI_CCP bagay|NNC tulad|JJC ng|CCB nagagawa|VBTR ng|CCB iba|PRI .|PMP
+Maaari|VBS silang|PRP_CCP makapunta|VBW at|CCA umalis|VBAF sa|CCT kanilang|PRSP_CCP mga|DTCP wheelchair|FW ,|PMC kumain|VBAF ,|PMC magbihis|VBW ,|PMC magsulat|VBAF ,|PMC magpinta|VBAF ,|PMC lumangoy|VBAF ,|PMC maglakad|VBW ,|PMC at|CCA maraming|PRI_CCP iba|PRI pang|RBI_CCP mga|DTCP bagay|NNC nang|CCB nag|VBTS -|PMS iisa|JJD .|PMP
+Ang|DTC ilang|PRQ_CCP mga|DTCP kilalang|JJD_CCP tao|NNC na|CCP may|VBH tetra|NNC -|PMS amelia|FW ay|LM kinabibilangan|VBTR nina|DTPP Joanne|NNP O'riordan|NNP ,|PMC isang|PRI_CCP manunulat|NNC at|CCA aktibista|NNC .|PMP
+Si|DTP Zuly|NNP Sanguino|NNP ,|PMC isang|PRI_CCP artista|NNC sa|CCT buong|PRI_CCP mundo|NNC na|CCP nagnanais|VBTR na|CCP magkaroon|VBH ng|CCB isang|PRI_CCP bahay|NNC -|PMS ampunan|NNC .|PMP
+Si|DTP Nic|NNP Vujicic|NNP ,|PMC isang|PRI_CCP tanyag|JJD na|CCP motivatorna|FW mahilig|JJD sa|CCT paglangoy|NNC ,|PMC pag|CCR -|PMS surf|FW ,|PMC at|CCA pag|CCR -|PMS paragliding|NNC .|PMP
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Nagtatampok|VBTR ang|DTC proyekto|NNC ng|CCB paglikha|NNC ng|CCB aklat|NNC na|CCP makapangyarihang|JJD_CCP mga|DTCP batang|JJD_CCP babae|NNC at|CCA kababaihan|NNC ang|DTC (|PMS mga|DTCP )|PMS pangunahing|JJD_CCP karakter|NNC ng|CCB kwento|NNC at|CCA kasangkot|JJD ang|DTC mga|DTCP babaeng|NNC_CCP manunulat|NNC ,|PMC ilustrador|NNC ,|PMC patnugot|NNC ,|PMC at|CCA taga|JJD -|PMS disenyo|NNC .|PMP
+Ang|DTC librong|NNC_CCP ito|PRO ay|LM nilikha|VBTS sa|CCT pamamagitan|NNC ng|CCB isang|PRI_CCP workshop|NNC sa|CCT paglikha|NNC ng|CCB libro|NNC na|CCP isinasagawa|VBTR sa|CCT pakikipagtulungan|NNC sa|CCT pagitan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP AsiaFoundation|NNP at|CCA sa|CCT suporta|NNC ng|CCB Estée|NNP Lauder|NNP Company|NNP .|PMP
+Ang|DTC pagawaan|NNC at|CCA pag|CCR -|PMS unlad|JJD ng|CCB propesyonal|NNC ,|PMC kasama|CCB ang|DTC pag|CCR -|PMS edit|NNC at|CCA disenyo|NNC ng|CCB aklat|NNC na|CCP ito|PRO ,|PMC ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

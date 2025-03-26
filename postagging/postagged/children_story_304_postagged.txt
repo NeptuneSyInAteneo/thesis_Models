@@ -1,0 +1,29 @@
+"|PMS Hindi|RBF kita|NNC mabuhat|VBW ,|PMC Shanu|NNP !|PMS "|PMS
+sabi|VBS ni|DTP Ammi|NNP .|PMP "|PMS
+Napakalaki|JJCS_JJD mo|PRS !|PMQ "|PMS "|PMS
+Hindi|RBF ka|PRS maaaring|RBM pumunta|VBAF sa|CCT paaralan|NNC na|CCP mag|VBW -|PMS isa|PRI ,|PMC Shanu|NNP !|PMS "|PMS
+sabi|VBS ni|DTP Abbu|NNP .|PMP "|PMS
+Napakaliit|JJCS_JJD mo|PRS !|PMQ "|PMS "|PMS
+Hindi|RBF ka|PRS maaaring|RBM matulog|VBW sa|CCT kuna|NNC ,|PMC Shanu|NNP !|PMS "|PMS
+sabi|VBS ni|DTP Dadu|NNP .|PMP "|PMS
+Napakalaki|JJCS_JJD mo|PRS !|PMS "|PMS
+Hindi|RBF mo|PRS maaaring|RBM kargahin|VBOF ang|DTC bata|NNC papuntang|RBL_CCP parke|NNC ,|PMC Shanu|NNP !|PMS "|PMS
+sabi|VBS ni|DTP Dadi|NNP .|PMP "|PMS
+Napakaliit|JJCS_JJD mo|PRS !|PMS "|PMS
+Naguluhan|VBTS si|DTP Shanu|NNP .|PMP
+Napakalaki|JJCS_JJD !|PMS
+Napakaliit|JJCS_JJD !|PMS
+Paano|PRQ ba|RBI magiging|VBTF napakalaki|JJCS_JJD at|CCA napakaliit|JJCS_JJD ng|CCB sabay|RBD ?|PMQ
+Napakalaki|JJCS_JJD na|CCP niya|PRS para|CCT sa|CCT kaniyang|PRSP_CCP lumang|JJD_CCP rosas|NNC na|CCP damit|NNC .|PMP
+Napakaliit|JJCS_JJD pa|RBI naman|RBI niya|PRS sa|CCT para|CCT magluto|VBW ng|CCB bibingka|NNC gamit|VBS ang|DTC kalan|NNC .|PMP
+Napakalaki|JJCS_JJD para|CCT sumakay|VBAF sa|CCT likod|NNC ni|DTP Dadu|NNP ?|PMQ
+Napakaliit|JJCS_JJD para|CCT buhatin|VBOF ang|DTC nakababatang|JJD_CCP kapatid|NNC ?|PMQ "|PMS
+Anu|NNP nga|RBI ba|RBI ang|DTC tamang|JJD_CCP sukat|NNC ko|PRS ?|PMQ "|PMS
+Nagtataka|VBTR si|DTP Shanu|NNP .|PMP
+Napangiti|VBTS si|DTP Ammi|NNP at|CCA sabay|RBD sabi|VBS ,|PMC "|PMS Bakit|PRQ ,|PMC ikaw|PRS ba|RBI ay|LM malaki|JJD na|RBI para|CCT pumasok|VBAF sa|CCT malaking|JJD_CCP paaralan|NNC .|PMP "|PMS
+At|CCA maaari|VBS ka|PRS pang|RBI_CCP sumakay|VBAF sa|CCT aking|PRSP_CCP mga|DTCP balikat|NNC ,|PMC "|PMS sabi|VBS ni|DTP Abbu|NNP .|PMP "|PMS
+Ikaw|NNP ay|LM nasa|RBL tamang|JJD_CCP laki|NNC lamang|RBI para|CCT samahan|VBOF ako|PRS sa|CCT aking|PRSP_CCP paglalakad|NNC tuwing|RBW umaga|RBW ,|PMC "|PMS sabi|VBS ni|DTP Dadu|NNP .|PMP "|PMS
+At|CCA dahil|CCR maliit|JJD ka|PRS pa|RBI ,|PMC pakinggan|VBOF mo|PRS ang|DTC aking|PRSP_CCP mga|DTCP kuwento|NNC ,|PMC '|PMS wika|NNC ni|DTP Dadi|NNP .|PMP "|PMS
+At|CCA ikaw|PRS ,|PMC ikaw|PRS lamang|RBI ang|DTC may|VBH tamang|JJD_CCP sukat|NNC ...|PMS para|CCT dito|PRL !|PMS "|PMS
+lahat|PRI nagsabi|VBTS ,|PMC at|CCA niyakap|VBTS siya|PRS nang|RBW mahigpit|JJD .|PMP
+Signer|NNP :|PMS Sobita|NNP Paudel|NNP .|PMP

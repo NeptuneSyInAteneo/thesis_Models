@@ -1,0 +1,40 @@
+Ang|DTC bibe|NNC na|CCP si|DTP Dolly|NNP ay|LM may|VBH isang|PRI_CCP munting|JJD_CCP pulang|JJD_CCP payong|NNC na|CCP ibinigay|VBOF ng|CCB kaniyang|PRSP_CCP butihing|JJD_CCP lola|NNC .|PMP
+Palagi|RBW niya|PRS itong|PRO_CCP dala|JJD -|PMS dala|JJD saanman|PRQ siya|PRS magpunta|VBW ,|PMC mainit|JJD man|RBI ,|PMC o|CCT maulap|JJD .|PMP
+Isang|PRI_CCP maulang|JJD_CCP araw|NNC noon|RBW ,|PMC si|DTP Dolly|NNP ay|LM naghahanda|VBTR upang|CCB pumunta|VBAF sa|CCT bahay|NNC ng|CCB kaniyang|PRSP_CCP lola|NNC .|PMP
+Ngunit|CCT hindi|RBF makita|VBW ni|DTP Dolly|NNP ang|DTC kaniyang|PRSP_CCP munting|JJD_CCP pulang|JJD_CCP payong|NNC .|PMP "|PMS
+Naku|NNP !|PMS
+Nasaan|VBTS na|CCP kaya|CCR ang|DTC aking|PRSP_CCP payong|NNC ?|PMQ "|PMS
+nag|VBTS -|PMS aalalang|NNC_CCP tanong|NNC niya|PRS .|PMP "|PMS
+Sana|VBS ay|LM may|VBH nakaaalam|VBTR kung|CCR nasaan|JJD ito|PRO .|PMP "|PMS
+Tumakbo|VBAF palabas|NNC ng|CCB bahay|NNC si|DTP Dolly|NNP .|PMP
+Sa|CCT daan|NNC ay|LM nakasalubong|VBTS niya|PRS ang|DTC ardilya|NNC na|CCP si|DTP Squeaky|NNP .|PMP "|PMS
+Nakita|VBTS mo|PRS ba|RBI ang|DTC aking|PRSP_CCP munting|JJD_CCP pulang|JJD_CCP payong|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Dolly|NNP .|PMP "|PMS
+Hindi|RBF ,|PMC "|PMS sagot|NNC ni|DTP Squeaky|NNP .|PMP "|PMS
+Ngunit|CCT ,|PMC maaari|VBS mong|PRS_CCP gamitin|VBOF itong|PRO_CCP aking|PRSP_CCP payong|NNC .|PMP "|PMS "|PMS
+Salamat|RBS !|PMS
+Napakabait|NNP mo.|NNCA .|PMP
+Ngunit|CCT ,|PMC kailangan|VBS kong|PRS_CCP hanapin|VBOF ang|DTC aking|PRSP_CCP munting|JJD_CCP pulang|JJD_CCP payong|NNC ,|PMC "|PMS wika|NNC ni|DTP Dolly|NNP habang|RBW palakad|RBD -|PMS lakad|NNC sa|CCT tabing|NNC -|PMS ilog|NNC .|PMP
+Nagpapahinga|VBTR sa|CCT isang|PRI_CCP troso|NNC ang|DTC palakang|NNC_CCP si|DTP Freckle|NNP .|PMP "|PMS
+Nakita|VBTS mo|PRS ba|RBI ang|DTC aking|PRSP_CCP munting|JJD_CCP pulang|JJD_CCP payong|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Dolly|NNP .|PMP "|PMS
+Hindi|RBF ,|PMC "|PMS sagot|NNC ni|DTP Freckle|NNP .|PMP "|PMS
+Ngunit|CCT ,|PMC maaari|VBS mong|PRS_CCP mahiram|VBW ang|DTC sa|CCT akin|PRSP .|PMP "|PMS "|PMS
+Salamat|RBS !|PMS
+Napakabait|JJCS_JJD mo|PRS ,|PMC "|PMS sagot|NNC ni|DTP Dolly|NNP .|PMP "|PMS
+Pero|CCT ,|PMC kailangan|VBS ko|PRS talagang|RBT_CCP mahanap|VBW ang|DTC aking|PRSP_CCP munting|JJD_CCP pulang|JJD_CCP payong|NNC .|PMP "|PMS
+Agad|RBD na|CCP tumawid|VBAF sa|CCT ilog|NNC si|DTP Dolly|NNP .|PMP
+Kalalabas|NNP lang|RBI ng|CCB dagang|NNC_CCP si|DTP Mighty|NNP sa|CCT kaniyang|PRSP_CCP bahay|NNC .|PMP "|PMS
+Nakita|VBTS mo|PRS ba|RBI ang|DTC aking|PRSP_CCP munting|JJD_CCP pulang|JJD_CCP payong|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Dolly|NNP .|PMP "|PMS
+Hindi|RBF ,|PMC "|PMS sagot|NNC ni|DTP Mighty|NNP .|PMP "|PMS
+Ngunit|CCT ,|PMC maaari|VBS mong|PRS_CCP mahiram|VBW ang|DTC sa|CCT akin|PRSP .|PMP "|PMS "|PMS
+Naku|NNP !|PMS "|PMS
+naiiyak|VBTR na|CCP sabi|VBS ni|DTP Dolly|NNP .|PMP "|PMS
+Gusto|VBS ko|PRS ang|DTC payong|JJD_CCP ko|PRS .|PMP
+Mahalaga|JJD iyon|PRO sa|CCT akin|PRSP dahil|CCR matagal|JJD na|CCP sa|CCT akin|PRSP ang|DTC payong|NNC_CCP ko|PRS .|PMP "|PMS
+Biglang|RBD_CCP tumigil|VBAF ang|DTC ulan|NNC at|CCA natuwa|VBTS si|DTP Dolly|NNP .|PMP
+Naroon|PRL ang|DTC kaniyang|PRSP_CCP lola|NNC ,|PMC at|CCA hawak|JJD ang|DTC kaniyang|PRSP_CCP payong|NNC !|PMS "|PMS
+Maaraw|NNP at|CCA maaliwalas|JJD ang|DTC panahon|NNC noong|RBW_CCP huli|RBW mo|PRS akong|PRS_CCP binisita|VBOF ,|PMC "|PMS paliwanag|NNC ng|CCB kaniyang|PRSP_CCP lola|NNC .|PMP "|PMS
+Nawala|VBTS yata|RBM sa|CCT isip|NNC mo|PRS ,|PMC dahil|CCR naiwan|VBTS mo|PRS ito|PRO sa|CCT bahay|NNC .|PMP "|PMS
+Nakangiting|RBD_CCP iniabot|VBOF ng|CCB kaniyang|PRSP_CCP lola|NNC ang|DTC payong|NNC kay|DTP Dolly|NNP .|PMP

@@ -1,0 +1,52 @@
+Si|DTP Tina|NNP ay|LM pitong|JJN_CCP taong|NNC_CCP gulang|NNC .|PMP
+Siya|PRS ay|LM nakatira|VBTS sa|CCT isang|PRI_CCP masayang|JJD_CCP barangay|NNC na|CCP may|VBH pangalang|NNC_CCP Barangay|NNP Maligaya|NNP .|PMP
+Katabi|JJD ito|PRO ng|CCB magandang|JJD_CCP kagubatan|NNC .|PMP
+Meron|VBH din|RBI ditong|PRL_CCP malinaw|JJD ,|PMC at|CCA nagniningning|VBTR na|CCP ilog|NNC .|PMP
+Gustong|VBS_CCP maglalaro|VBTF ni|DTP Tina|NNP sa|CCT kagubatan|NNC kasama|CCB ang|DTC mga|DTCP kaibigan|NNC niya|PRS .|PMP
+Isang|PRI_CCP hapon|NNC ,|PMC nagliyab|VBTS ang|DTC apoy|NNC sa|CCT kagubatan|NNC .|PMP
+Ang|DTC matatapang|JJD_CCP na|CCP taganayon|JJD ay|LM nakikipaglaban|VBTR sa|CCT umaatungal|VBTR na|CCP apoy|NNC sa|CCT loob|NNC ng|CCB maraming|PRI_CCP oras|NNC .|PMP
+Sa|CCT wakas|RBW ,|PMC inilabas|VBTS nila|PRP ito|PRO .|PMP
+Umuuwi|VBTR_VBAF ang|DTC mga|DTCP pagod|NNC sa|CCT pagdidilim|NNC ng|CCB araw|NNC .|PMP
+Nahirapan|VBTS silang|PRP_CCP umuwi|VBAF sa|CCT kanilang|PRSP_CCP bahay|NNC nang|RBW biglang|RBD_CCP nagkaroon|VBTS ng|CCB tila|RBM napakalakas|JJCS_JJD na|CCP bagyo|NNC .|PMP
+Pinuputol|NNP ng|CCB napakalakas|JJCS_JJD na|CCP hangin|NNC ang|DTC mga|DTCP puno|NNC .|PMP
+Nahuhulog|VBTR ang|DTC mga|DTCP ibon|NNC sa|CCT kanilang|PRSP_CCP mga|DTCP pugad|NNC dahil|CCR sa|CCT sobrang|JJCS_CCP lakas|NNC ng|CCB hangin|NNC .|PMP
+Sa|CCT sobrang|JJCS_CCP lakas|NNC ng|CCB ulan|NNC nagbaha|VBTS ang|DTC ilog|NNC .|PMP "|PMS
+Ito|PRO ang|DTC climate|FW change|FW na|CCP problema|NNC ,|PMC "|PMS sabi|VBS ng|CCB ilang|PRQ_CCP matatanda|NNC .|PMP
+Kinabukasan|RBW ,|PMC tumakbo|VBAF si|DTP Tina|NNP upang|CCB makipaglaro|VBW sa|CCT kanyang|PRSP_CCP mga|DTCP kaibigan|NNC sa|CCT gubat|NNC .|PMP "|PMS
+Oh|NNP hindi|RBF !|PMQ
+Ano|PRQ ang|DTC nangyari|VBTS sa|CCT kagubatan|NNC ,|PMC "|PMS umiiyak|VBTR_VBAF siya|PRS .|PMP
+Maya|NNP -|PMS maya|RBW lang|RBI ,|PMC nakarinig|VBTS siya|PRS ng|CCB mga|DTCP boses|NNC na|CCP humihingi|VBTR_VBAF ng|CCB tulong|NNC .|PMP "|PMS
+Tulong|NNC !|PMS
+Tulong|NNC !|PMS "|PMS
+Nakikinig|VBTR ng|CCB mabuti|JJD si|DTP Tina|NNP .|PMP
+Naisip|VBTS ni|DTP Tina|NNP na|CCP nangagaling|VBTS sa|CCT ilog|NNC ang|DTC boses|NNC kaya|CCR pinuntahan|VBOF niya|PRS ito|PRO .|PMP
+Nakita|VBTS ni|DTP Tina|NNP ang|DTC kanyang|PRSP_CCP mga|DTCP kaibigan|NNC doon|PRL ,|PMC ang|DTC isda|NNC ,|PMC ang|DTC palaka|NNC at|CCA ang|DTC kikig|NNC .|PMP
+Sila|PRP ay|LM natatakpan|VBTR ng|CCB mga|DTCP dahon|NNC at|CCA sanga|NNC na|CCP inanod|VBTS ng|CCB bagyo|NNC .|PMP
+Pagmamakaawa|VBW ng|CCB palaka|NNC kay|DTP Tina|NNP .|PMP "|PMS
+Tulungan|VBOF mo|PRS kami|PRP ,|PMC Tina|NNP .|PMP
+Sinira|VBOF ng|CCB bagyo|NNC ang|DTC ating|PRSP_CCP mga|DTCP tahanan|NNC kagabi|RBW .|PMP "|PMS "|PMS
+Huwag|RBF kang|PRS_CCP mag|VBW -|PMS alala|NNC ,|PMC mga|DTCP kaibigan|NNC .|PMP
+Pupunta|VBTF ako|PRS para|CCT humingi|VBAF ng|CCB tulong|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tina|NNP .|PMP
+Nagmamadali|VBTS siyang|PRS_CCP bumalik|VBAF sa|CCT nayon|NNC .|PMP
+Natagpuan|VBTS ni|DTP Tina|NNP si|DTP Tui|NNP ,|PMC isang|PRI_CCP namumuno|VBTR sa|CCT komunidad|NNC .|PMP
+Sinabi|VBTS niya|PRS ang|DTC lahat|PRI tungkol|RBR sa|CCT kanyang|PRSP_CCP narinig|VBTS at|CCA nakita|VBTS sa|CCT mga|DTCP oras|NNC na|CCP iyon|PRO .|PMP
+Nang|RBW makarating|VBW ang|DTC balita|NNC sa|CCT iba|PRI '|PMS t|NNCA ibang|PRI_CCP tao|NNC ,|PMC sila|PRP ay|LM bumalik|VBAF sa|CCT ilog|NNC upang|CCB matignan|VBW .|PMP
+Nung|RBW_CCP makita|VBW ng|CCB lahat|PRI ang|DTC pinsala|NNC ,|PMC sila|PRP ay|LM nalulungkot|VBTR .|PMP
+Ang|DTC mga|DTCP taga|JJD nayon|NNC ay|LM nag|VBTS iisip|VBTF kung|RBK ano|RBQ ang|DTC gagawin|VBTF .|PMP
+Naalala|VBTS ni|DTP Tina|NNP noong|RBW_CCP hinampas|VBOF ng|CCB bagyo|NNC ang|DTC bahay|NNC ng|CCB kanyang|PRSP_CCP lola|NNC .|PMP "|PMS
+Kailangan|VBS muna|RBI nating|PRP_CCP maglinis|VBW ,|PMC pagkatapos|VBW ay|LM maaari|VBS tayong|PRP_CCP magtanim|VBW ng|CCB mga|DTCP bagong|JJD_CCP puno|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tina|NNP .|PMP "|PMS
+Oo|RBT ,|PMC tutulong|VBTF din|RBI kami|PRP dahil|CCR ito|PRO ang|DTC aming|PRSP_CCP tahanan|NNC ,|PMC "|PMS sabi|VBS ng|CCB mga|DTCP hayop|NNC .|PMP "|PMS
+Sige|NNP ,|PMC "|PMS sabi|VBS ni|DTP Tui|NNP .|PMP "|PMS
+Magpangkat|NNP tayo|PRP para|CCT mapadali|VBW ang|DTC ating|PRSP_CCP gawain|NNC .|PMP "|PMS
+Inilalagay|VBTR ni|DTP Tui|NNP ang|DTC mga|DTCP taganayon|JJD sa|CCT dalawang|JJN_CCP pangkat|NNC .|PMP
+Pinamunuan|VBTS niya|PRS ang|DTC grupong|NNC_CCP Berde|NNP para|CCT linisin|VBOF ang|DTC lupa|NNC para|CCT sa|CCT pagtatanim|NNC .|PMP
+Pinangunahan|VBTS ni|DTP Tina|NNP ang|DTC grupong|NNC_CCP Asul|NNP para|CCT tulungan|VBTF_VBOF ang|DTC mga|DTCP hayop|NNC na|CCP linisin|VBOF ang|DTC batis|NNC .|PMP
+Pinagsasama|VBTR_VBRF -|PMS sama|NNC ng|CCB napakalakas|JJCS_JJD na|CCP si|DTP Tina|NNP ang|DTC Asul|NNP na|CCP pangkat|NNC para|CCT gumawa|VBAF ng|CCB mga|DTCP plano|NNC .|PMP
+Gusto|VBS nilang|PRP_CCP gawin|VBOF ang|DTC Lilang|NNP Seresa|NNP na|CCP pinaka|JJCS -|PMS matitirahan|JJD na|CCP lugar|NNC kailanman|RBW .|PMP
+Ginagawa|VBTR ng|CCB kanyang|PRSP_CCP pangkat|NNC ang|DTC kanilang|PRSP_CCP makakaya|VBW upang|CCB matigil|VBW ang|DTC pagkasunog|NNC at|CCA pagbaha|VBW .|PMP "|PMS
+Mahirap|JJD ,|PMC pero|CCT sobrang|JJCS_CCP saya|NNC namin|PRP ,|PMC "|PMS sabi|VBS ni|DTP Tina|NNP .|PMP
+Nagtataka|VBTR ako|PRS ...|PMS Paano|PRQ kaya|CCR nagsimula|VBTS ang|DTC sunog|NNC ?|PMQ
+Paano|PRQ nalaman|VBTS ng|CCB mga|DTCP taga|JJD -|PMS barangay|NNC ang|DTC sunog|NNC ?|PMQ
+Nailigtas|VBTS ba|RBI ng|CCB mga|DTCP taga|JJD -|PMS barangay|NNC ang|DTC kahit|CCT anong|PRQ_CCP puno|NNC bago|RBW dumating|VBAF ang|DTC bagyo|NNC ?|PMQ
+Paano|PRQ kaya|CCR aalagaan|VBTF ng|CCB mga|DTCP taga|JJD -|PMS barangay|NNC ang|DTC kagubatan|NNC at|CCA ilog|NNC ?|PMQ
+Narrator|NNP :|PMS Denise|NNP Boland|NNP .|PMP

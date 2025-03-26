@@ -1,0 +1,39 @@
+Creek|NNP ...|PMS criiik|FW ...|PMS criiiik|NNC ...|PMS Napisa|VBTS na|CCP ang|DTC mga|DTCP itlog|NNC at|CCA lumabas|VBAF ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC .|PMP
+Kumiwal|NNP -|PMS kiwal|NNC ang|DTC mga|DTCP ito|PRO sa|CCT tabing|FW -|PMS dagat|NNC .|PMP
+Papunta|VBW sila|PRP sa|CCT malawak|JJD na|CCP dagat|NNC .|PMP
+Lahat|PRI ng|CCB mga|DTCP munting|JJD_CCP pagong|NNC ay|LM dapat|VBS tumungo|VBAF doon|PRL .|PMP
+Hala|NNP !|PMS
+Nakakatakot|VBTR ang|DTC mga|DTCP langgam|NNC .|PMP
+Mag|NNP -|PMS ingat|FW kayo|PRP ,|PMC mga|DTCP munting|JJD_CCP pagong|NNC .|PMP
+Plop|NNP !|PMS
+Plop|NNP !|PMS
+Plop|NNP !|PMS
+Ligtas|RBD na|CCP nakarating|VBTS sa|CCT tubig|NNC ang|DTC munting|JJD_CCP mga|DTCP pagong|NNC .|PMP
+Kinuha|VBOF ng|CCB mga|DTCP nagbabantay|VBTR ang|DTC munting|JJD_CCP mga|DTCP pagong|NNC mula|RBL sa|CCT sa|CCT tubig|NNC .|PMP
+Saan|PRQ nila|PRP dadalhin|VBTF ang|DTC mga|DTCP pagong|NNC ?|PMQ
+Inilagay|VBTS ng|CCB mga|DTCP taga|JJD -|PMS bantay|NNC ang|DTC munting|JJD_CCP mga|DTCP pagong|NNC sa|CCT isang|PRI_CCP malaking|JJD_CCP pool|NNC .|PMP
+Splash|NNP !|PMS
+Nagustuhan|VBTS ng|CCB munting|JJD_CCP mga|DTCP pagong|NNC ang|DTC tubig|NNC -|PMS tabang|NNC .|PMP
+Pagkalipas|VBW ng|CCB tatlong|JJN_CCP araw|NNC ay|LM nakaramdam|VBTS ng|CCB gutom|NNC ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC .|PMP
+Pinakain|VBOF sila|PRP ng|CCB mga|DTCP bata|NNC .|PMP
+Nabusog|VBTS ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC .|PMP
+Naglaro|VBTS ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC sa|CCT ragasa|NNC ng|CCB tubig|NNC .|PMP
+Hala|NNP !|PMS
+Nangangati|VBTR ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC .|PMP
+Ayaw|RBF pa|RBI naman|RBI nilang|PRP_CCP laging|RBD_CCP nangangati|VBTR .|PMP
+Huwag|RBF kayong|JJD_CCP mag|VBW -|PMS alala|NNC ,|PMC mga|DTCP munting|JJD_CCP pagong|NNC .|PMP
+Kinuha|VBOF ng|CCB mga|DTCP taga|JJD -|PMS bantay|NNC ang|DTC munting|JJD_CCP mga|DTCP pagong|NNC mula|RBL sa|CCT tubig|NNC ....|NNPA at|CCA nilinis|VBTS sila|PRP gamit|VBS ang|DTC mga|DTCP brush|FW .|PMP
+Hee|NNP Hee|NNP .|PMP
+Nakikiliti|VBTR ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC .|PMP
+Splash|NNP !|PMS
+Masaya|NNP muling|RBW_CCP nagpalangoy|VBTS -|PMS langoy|NNC ang|DTC munting|JJD_CCP mga|DTCP pagong|NNC sa|CCT tubig|NNC -|PMS tabang|NNC .|PMP
+Ngayon|RBW ,|PMC saan|PRQ naman|RBI kaya|CCR dadalhin|VBTF ng|CCB mga|DTCP tagabantay|NNC ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC ?|PMQ
+Papunta|VBW sa|CCT malawak|JJD na|CCP dagat|NNC !|PMS
+Mabilis|RBD na|CCP tumungo|VBAF ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC sa|CCT tubig|NNC .|PMP
+Paisa|NNP -|PMS isa|PRI silang|PRP_CCP nakarating|VBTS sa|CCT tubig|NNC .|PMP
+Yeheeey|NNP !|PMS
+Mabilis|RBD na|CCP lumangoy|VBAF patungo|RBL sa|CCT gitna|JJD ng|CCB malawak|JJD na|CCP dagat|NNC ang|DTC mga|DTCP munting|JJD_CCP pagong|NNC !|PMS
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM binuo|VBTS sa|CCT pamamagitan|NNC ng|CCB isang|PRI_CCP palihang|JJD_CCP naglalayong|VBTR_CCP bumuo|VBAF ng|CCB mga|DTCP aklat|NNC sa|CCT katutubong|JJD_CCP mga|DTCP wika|NNC .|PMP
+Nagawa|VBTS ito|PRO sa|CCT pakikipagtulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC pelican|NNC at|CCA pagsasaayos|NNC niyo|PRP ,|PMC kasama|CCB na|CCP ang|DTC mga|DTCP guhit|NNC at|CCA editing|FW ay|LM pinangunahan|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

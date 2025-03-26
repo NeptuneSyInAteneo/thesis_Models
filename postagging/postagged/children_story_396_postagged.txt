@@ -1,0 +1,9 @@
+Si|DTP Bora|NNP ay|LM nakasusulat|VBTR .|PMP
+Si|DTP Navy|NNP ay|LM nakasusulat|VBTR din|RBI .|PMP
+Si|DTP Navy|NNP ay|LM mahilig|JJD sa|CCT isports|NNC .|PMP
+Si|DTP Bora|NNP ay|LM gayundin|CCB .|PMP
+Si|DTP Bora|NNP ay|LM marunong|RBD_CCP gumuhit|VBAF .|PMP
+Si|DTP Navy|NNP ay|LM marunong|RBD_CCP ding|RBI_CCP gumuhit|VBAF .|PMP
+Si|DTP Navy|NNP ay|LM nakababasa|VBTS .|PMP
+Si|DTP Bora|NNP ay|LM nakababasa|VBTS rin|RBI .|PMP
+Sila|PRP ay|LM may|VBH taglay|JJD na|CCP kakayahan|NNC .|PMP

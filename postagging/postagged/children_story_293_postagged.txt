@@ -1,0 +1,36 @@
+Ngayon|RBW ay|LM pupunta|VBTF sina|DTPP Sophy|NNP at|CCA ang|DTC kanyang|PRSP_CCP nanay|NNC kina|DTPP Tiya|NNP Chamnan|NNP upang|CCB kuhanin|VBOF ang|DTC biik|NNC na|CCP ipinangako|VBTS ng|CCB kaniyang|PRSP_CCP tiya|NNC .|PMP "|PMS
+Wow|NNP ,|PMC ang|DTC daming|JJD_CCP baboy|NNC ni|DTP Tiya|NNP Chamnan|NNP !|PMS
+Ang|DTC ganda|NNC ng|CCB mga|DTCP biik|NNC !|PMS "|PMS
+sabi|VBS ni|DTP Sophy|NNP .|PMP "|PMS
+Tiya|NNP Chamnan|NNP ,|PMC paano|PRQ kayo|PRP nagkaroon|VBTS ng|CCB napakaraming|JJCS_JJD_CCP mga|DTCP baboy|NNC at|CCA biik|NNC ?|PMQ "|PMS "|PMS
+Madali|RBD lang|RBI iyan|PRO ,|PMC parang|CCT nagtatanim|VBTR ka|PRS lang|RBI ng|CCB mga|DTCP gulay|NNC !|PMS "|PMS
+sagot|NNC ni|DTP Tiya|NNP Chamnan|NNP .|PMP
+Naisip|VBTS ni|DTP Sophy|NNP ang|DTC isang|PRI_CCP puno|JJD na|CCP hitik|NNC sa|CCT biik|NNC ang|DTC mga|DTCP sanga|NNC .|PMP
+Napangiti|VBTS si|DTP Sophy|NNP at|CCA bumulong|VBTR_VBAF sa|CCT sarili|NNC ,|PMC "|PMS Balang|NNC araw|NNC ,|PMC magkakaroon|VBTF din|RBI ako|PRS ng|CCB mga|DTCP biik|NNC gaya|JJC ni|DTP Tiya|NNP Chamnan|NNP .|PMP "|PMS
+Habang|RBW papauwi|VBTF ,|PMC tinanong|VBOF ni|DTP Sophy|NNP ang|DTC kaniyang|PRSP_CCP ina|NNC :|PMS "|PMS Nanay|NNC ,|PMC paano|PRQ po|RBS ba|RBI tayo|PRP nagtatanim|VBTR ?|PMQ
+Sumagot|VBAF ang|DTC kaniyang|PRSP_CCP ina|NNC ,|PMC "|PMS Madali|RBD lang|RBI yun|PRO anak|NNC ko|PRS .|PMP
+Kailangan|VBS mo|PRS lang|RBI makakita|VBW ng|CCB lugar|NNC na|CCP may|VBH sapat|JJD na|CCP sikat|JJD ng|CCB araw|NNC .|PMP
+Tapos|RBW ,|PMC maghukay|VBTF ka|PRS sa|CCT lupa|NNC at|CCA magtanim|VBW .|PMP
+Pagkatapos|VBW ,|PMC didiligan|VBOF mo|PRS at|CCA lalagyan|NNC ng|CCB pataba|NNC ,|PMC at|CCA babantayan|VBTF ang|DTC kanilang|PRSP_CCP paglaki|NNC .|PMP
+Iyon|PRO lang|RBI !|PMS "|PMS
+Kaagad|RBD na|CCP sinimulan|VBTS ni|DTP Sophy|NNP ang|DTC pagtatanim|NNC .|PMP
+Tapos|RBW na|RBI !|PMQ
+Hinintay|VBOF ni|DTP Sophy|NNP kung|RBK ano|RBQ ang|DTC mangyayari|VBTF .|PMP "|PMS
+Kailan|NNP kaya|CCR lalaki|NNC ang|DTC biik|NNC ko|PRS ?|PMQ
+Sapat|JJD ba|RBI ang|DTC pagdilig|VBW at|CCA paglagay|VBW ko|PRS ng|CCB pataba|NNC sa|CCT iyo|PRSP ?|PMQ "|PMS
+tanong|NNC niya|PRS sa|CCT baboy|NNC .|PMP "|PMS
+Sige|NNP ,|PMC kukuha|VBTF ako|PRS ng|CCB maraming|PRI_CCP tubig|NNC at|CCA pataba|NNC .|PMP "|PMS
+Pagbalik|VBW ni|DTP Sophy|NNP ,|PMC wala|VBN na|RBI ang|DTC kaniyang|PRSP_CCP biik|NNC sa|CCT kaniyang|PRSP_CCP pinagtaniman|VBTR_VBRF .|PMP "|PMS
+Nasaan|VBTS ka|PRS na|CCP biik|NNC ?|PMQ "|PMS "|PMS
+Oink|NNP !|PMS
+Oink|NNP !|PMS "|PMS
+Pagkatapos|VBW ,|PMC narinig|VBTS ni|DTP Sophy|NNP ang|DTC kaniyang|PRSP_CCP Nanay|NNC sa|CCT bakuran|NNC na|CCP nagtatanong|VBTR ,|PMC "|PMS Anong|PRQ_CCP ginagawa|VBTR mo|PRS dito|PRL ?|PMQ "|PMS
+Tumakbo|VBAF si|DTP Sophy|NNP at|CCA nakita|VBTS niyang|PRS_CCP natapakan|VBTS ng|CCB kaniyang|PRSP_CCP biik|NNC ang|DTC mga|DTCP bulaklak|NNC at|CCA ito|PRO ay|LM pagulong|NNC -|PMS gulong|NNC sa|CCT putikan|NNC !|PMS
+Hinabol|NNP at|CCA nahuli|VBTS ni|DTP Sophy|NNP ang|DTC biik|NNC .|PMP "|PMS
+Huwag|RBF po|RBS kayong|PRO_CCP mag|VBW -|PMS alala|NNC Nanay|NNC ,|PMC itatanim|VBTF ko|PRS po|RBS uli|RBW itong|PRO_CCP baboy|NNC para|CCT magkaroon|VBW tayo|PRP ng|CCB maraming|PRI_CCP mga|DTCP biik|NNC .|PMP "|PMS "|PMS
+Ang|DTC mga|DTCP hayop|NNC ay|LM hindi|RBF gulay|NNC ,|PMC anak|NNC !|PMS
+Kapag|CCR itinanim|VBTS mo|PRS itong|PRO_CCP baboy|NNC ay|LM hindi|RBF ito|PRO magkakaroon|VBTF ng|CCB biik|NNC .|PMP
+Umpisahan|VBOF natin|PRP sa|CCT pagpapakain|NNC nito|PRO para|CCT ito|PRO ay|LM lumaki|VBAF .|PMP "|PMS "|PMS
+Napakaganda|JJCS_JJD po|RBS talaga|RBT ng|CCB aking|PRSP_CCP biik|NNC !|PMS "|PMS
+Sabi|VBS ni|DTP Sophy|NNP .|PMP
+Sa|CCT ngayon|RBW ,|PMC masaya|JJD si|DTP Sophy|NNP na|CCP alagaan|VBOF muna|RBI ang|DTC kaniyang|PRSP_CCP nag|VBTS -|PMS iisang|PRI_CCP baboy|NNC .|PMP

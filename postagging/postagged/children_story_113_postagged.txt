@@ -1,0 +1,12 @@
+Isang|PRI_CCP umaga|RBW ,|PMC naglalaro|VBTR ang|DTC isang|PRI_CCP munting|JJD_CCP matsing|NNC sa|CCT puno|NNC habang|RBW namimitas|VBTR ng|CCB prutas|NNC ang|DTC kaniyang|PRSP_CCP ina|NNC .|PMP
+Namimitas|VBTR ng|CCB mga|DTCP dahon|NNC ang|DTC munting|JJD_CCP matsing|NNC .|PMP
+Siya|PRS ay|LM masaya|JJD .|PMP
+Pinitas|VBTS niya|PRS ang|DTC lahat|PRI ng|CCB dahon|NNC sa|CCT isang|PRI_CCP sanga|NNC ,|PMC saka|CCA tumalon|VBAF sa|CCT kabilang|JJD_CCP sanga|NNC .|PMP
+Krak|NNP !|PMS
+Nabali|VBTS ang|DTC sanga|NNC !|PMS
+Habang|RBW nahuhulog|VBTR ang|DTC munting|JJD_CCP matsing|NNC ,|PMC isang|PRI_CCP malaking|JJD_CCP isda|NNC ang|DTC nakaabang|VBTS_CCP at|CCA tumalon|VBAF mula|RBL sa|CCT ilog|NNC .|PMP
+Ngunit|CCT isang|PRI_CCP malakas|JJD na|CCP kamay|NNC ang|DTC biglang|RBD_CCP humila|VBAF at|CCA nagligtas|VBTS sa|CCT munting|JJD_CCP matsing|NNC .|PMP
+Kinabukasan|RBW ,|PMC muling|RBW_CCP namitas|VBTS ng|CCB mga|DTCP dahon|NNC ang|DTC munting|JJD_CCP matsing|NNC .|PMP
+Habang|RBW hinahagis|VBTR ng|CCB munting|JJD_CCP matsing|NNC ang|DTC mga|DTCP dahon|NNC sa|CCT tubig|NNC ,|PMC biglang|RBD_CCP ...|PMS Naku|RBD po|RBS !|PMQ
+Buti|NNP na|CCP lang|RBI matalino|JJD ang|DTC munting|JJD_CCP matsing|NNC !|PMS
+Natutuhan|VBTS niya|PRS kung|RBK paano|RBQ siya|PRS magiging|VBTF ligtas|JJD sa|CCT tuwing|RBW siya|PRS ay|LM nasa|RBL puno|JJD .|PMP

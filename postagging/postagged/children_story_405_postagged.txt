@@ -1,0 +1,40 @@
+Ito|PRO si|DTP Pusa|NNP .|PMP
+Ito|PRO naman|RBI ay|LM si|DTP Aso|NNP .|PMP
+Sina|DTPP Pusa|NNP at|CCA Aso|NNP ay|LM nakatira|VBTS sa|CCT isang|PRI_CCP bahay|NNC .|PMP
+Ang|DTC bahay|NNC na|CCP may|VBH pinto|NNC .|PMP
+Ang|DTC bahay|NNC na|CCP may|VBH bubong|NNC .|PMP
+Si|DTP Pusa|NNP at|CCA si|DTP Aso|NNP ay|LM mayroong|VBH_CCP bola|NNC .|PMP
+Ang|DTC bola|NNC ay|LM may|VBH mga|DTCP kulay|NNC na|CCP pula|JJD ,|PMC asul|JJD ,|PMC at|CCA berde|JJD .|PMP
+Sina|DTPP Pusa|NNP at|CCA Aso|NNP ay|LM naglalaro|VBTR ng|CCB bola|NNC .|PMP
+Inihagis|VBOF ni|DTP Pusa|NNP ang|DTC bola|NNC kay|DTP Aso|NNP .|PMP
+Sinalo|VBOF naman|RBI ni|DTP Aso|NNP ang|DTC bola|NNC .|PMP
+Inihagis|VBOF ni|DTP Aso|NNP ang|DTC bola|NNC kay|DTP Pusa|NNP .|PMP
+Sinalo|VBOF ni|DTP Pusa|NNP ang|DTC bola|NNC .|PMP
+Ngunit|CCT hindi|RBF sinasadya|VBTR ni|DTP Pusa|NNP na|CCP maitapon|VBW ang|DTC bola|NNC ng|CCB pagkataas|NNC -|PMS taas|NNC .|PMP
+Naku|NNP !|PMS
+Naku|NNP !|PMS
+Ang|DTC bola|NNC ay|LM nasa|RBL bubong|NNC .|PMP
+Ang|DTC bola|NNC ay|LM nasa|RBL bubong|NNC ng|CCB bahay|NNC .|PMP
+Nakikita|VBTR nina|DTPP Aso|NNP at|CCA Pusa|NNP ang|DTC bola|NNC .|PMP
+Ngunit|CCT hindi|RBF nila|PRP kayang|RBD_CCP kunin|VBOF ang|DTC bola|NNC .|PMP
+Umiyak|VBAF sina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+Maya|NNP -|PMS maya|NNC ay|LM dumating|VBAF si|DTP Elepante|NNP .|PMP
+Si|DTP Elepante|NNP ay|LM malaki|JJD .|PMP
+Nakikita|VBTR niya|PRS ang|DTC bola|NNC .|PMP
+Kaya|CCR niyang|PRS_CCP kunin|VBOF ang|DTC bola|NNC .|PMP
+Kinuha|VBOF ni|DTP Elepante|NNP ang|DTC bola|NNC sa|CCT bubong|NNC .|PMP
+Kinuha|VBOF ni|DTP Elepante|NNP ang|DTC bola|NNC sa|CCT bubong|NNC ng|CCB bahay|NNC .|PMP
+Ibinigay|VBTS ni|DTP Elepante|NNP ang|DTC bola|NNC kay|DTP Pusa|NNP at|CCA Aso|NNC .|PMP
+Ngumiti|VBAF na|RBI sina|DTPP Pusa|NNP at|CCA Aso|NNC .|PMP
+Ngumiti|VBAF rin|RBI si|DTP Elepante|NNP .|PMP
+Si|DTP Pusa|NNP ,|PMC Aso|NNC ,|PMC at|CCA Elepante|NNP ngayon|RBW ay|LM nakangiti|VBTS .|PMP
+Sina|DTPP Pusa|NNP ,|PMC Aso|NNC ,|PMC at|CCA Elepante|NNP ay|LM samasamang|RBD_CCP naglaro|VBTS ng|CCB bola|NNC .|PMP
+Inihagis|VBOF ni|DTP Pusa|NNP ang|DTC bola|NNC kay|DTP Aso|NNP .|PMP
+Sinalo|VBOF ni|DTP Aso|NNP ang|DTC bola|NNC .|PMP
+Inihagis|VBOF ni|DTP Aso|NNP ang|DTC bola|NNC kay|DTP Elepante|NNP .|PMP
+Sinalo|VBOF naman|RBI ni|DTP Elepante|NNP ang|DTC bola|NNC .|PMP
+Inihagis|VBOF ni|DTP Elepante|NNP ang|DTC bola|NNC kay|DTP Pusa|NNP .|PMP
+Sinalo|VBOF ni|DTP Pusa|NNP ang|DTC bola|NNC .|PMP
+Paalam|NNP ,|PMC Pusa|NNP .|PMP
+Paalam|NNP ,|PMC Aso|NNC .|PMP
+Paalam|NNP ,|PMC Elepante|NNP .|PMP

@@ -1,0 +1,8 @@
+Ang|DTC bibe|NNC ay|LM nakalalangoy|VBTS ,|PMC ngunit|CCT hindi|RBF nakatatalon|VBTR .|PMP
+Ang|DTC palaka|NNC ay|LM nakatatalon|VBTS ,|PMC ngunit|CCT hindi|RBF nakalilipad|VBTR .|PMP
+Ang|DTC paruparo|NNC ay|LM nakalalipad|VBTS ,|PMC ngunit|CCT hindi|RBF nakatatakbo|VBTR .|PMP
+Ang|DTC kabayo|NNC ay|LM nakatatakbo|VBTS ,|PMC ngunit|CCT hindi|RBF nakapagpapadulas|VBTR .|PMP
+Ang|DTC ahas|NNC ay|LM nakapagpapadulas|VBTS ,|PMC ngunit|CCT hindi|RBF nakalalakad|VBTR .|PMP
+Ang|DTC manok|NNC ay|LM nakalalakad|VBTS ,|PMC ngunit|CCT hindi|RBF nakagagapang|VBTR_CCP .|PMP
+Ang|DTC sanggol|NNC ay|LM kayang|RBD_CCP gumapang|VBAF ngunit|CCT hindi|RBF pa|RBI nakalalangoy|VBTR .|PMP
+Silang|CCT lahat|PRI ay|LM kayang|RBD_CCP lumangoy|VBAF ,|PMC tumalon|VBAF ,|PMC lumipad|VBAF ,|PMC tumakbo|VBAF ,|PMC magpadulas|VBW ,|PMC lumakad|VBAF ,|PMC at|CCA gumapang|VBAF .|PMP

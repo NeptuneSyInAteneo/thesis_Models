@@ -1,0 +1,40 @@
+Gustong|VBS_CCP sumayaw|VBOF ni|DTP Hippo|NNP .|PMP
+Tumalon|NNP -|PMS talon|NNC siya|PRS sa|CCT maalikabok|JJD na|CCP lupa|NNC .|PMP
+Pumalakpak|NNP !|PMS
+Pumalakpak|NNP !|PMS "|PMS
+Nadudumihan|VBTS mo|PRS ako|PRS !|PMS "|PMS
+sabi|VBS ni|DTP Shongololo|NNP na|CCP natutulog|VBTR sa|CCT buhangin|NNC .|PMP "|PMS
+Magsayaw|NNP ka|PRS sa|CCT ibang|PRI_CCP lugar|NNC .|PMP "|PMS
+Gustong|VBS_CCP sumayaw|VBOF ni|DTP Hippo|NNP .|PMP
+Gumulong|NNP_CCP siya|PRS sa|CCT ilog|NNC at|CCA nagwisik|VBTS ang|DTC kanyang|PRSP_CCP mga|DTCP braso|NNC at|CCA binti|NNC .|PMP
+Splish|NNP !|PMS
+Splash|NNP !|PMS "|PMS
+Binabasa|VBTR_VBOF mo|PRS ako|PRS !|PMS "|PMS
+sabi|VBS ni|DTP Kingfisher|NNP ,|PMC naghahanap|VBTR ng|CCB kanyang|PRSP_CCP almusal|NNC .|PMP "|PMS
+Magsayaw|NNP ka|PRS sa|CCT ibang|PRI_CCP lugar|NNC .|PMP "|PMS
+Gustong|VBS_CCP sumayaw|VBOF ni|DTP Hippo|NNP .|PMP
+Paikot|NNP -|PMS ikot|NNC siya|PRS sa|CCT isang|PRI_CCP patag|JJD ,|PMC itinataas|VBTR ang|DTC kanyang|PRSP_CCP mga|DTCP paa|NNC .|PMP
+Swoosh|NNP !|PMS
+Swoosh|NNP !|PMS "|PMS
+Mag|NNP -|PMS ingat|NNC ka|PRS !|PMQ
+Muntik|NNP mo|PRS na|CCP akong|PRS_CCP sipain|VBOF !|PMS "|PMS
+sabi|VBS ni|DTP Meerkat|NNP ,|PMC pinaliliguan|VBTS ang|DTC kanyang|PRSP_CCP mga|DTCP sanggol|NNC .|PMP "|PMS
+Magsayaw|NNP ka|PRS sa|CCT ibang|PRI_CCP lugar|NNC .|PMP "|PMS
+Gustong|VBS_CCP sumayaw|VBOF ni|DTP Hippo|NNP .|PMP
+Nahulog|VBTS siya|PRS sa|CCT lusak|NNC at|CCA dumudulas|VBAF sa|CCT kanyang|PRSP_CCP magandang|JJD_CCP tiyan|NNC .|PMP
+Squish|NNP !|PMS
+Squash|NNP !|PMS "|PMS
+Bakit|PRQ hindi|RBF ka|PRS tumigil|VBAF sa|CCT pagsasayaw|NNC ?|PMQ "|PMS
+tanong|NNC ni|DTP Asno|NNP ,|PMC dala|JJD ang|DTC kanyang|PRSP_CCP mga|DTCP balde|NNC .|PMP "|PMS
+Bakit|PRQ hindi|RBF ka|PRS maaaring|RBM gumawa|VBAF ng|CCB isang|PRI_CCP bagay|NNC na|CCP kapaki|NNC -|PMS pakinabang|NNC sa|CCT halip|CCT ?|PMQ "|PMS
+Malungkot|JJD si|DTP Hippo|NNP .|PMP
+Masyado|VBW siyang|PRS_CCP malungkot|JJD sumayaw|VBAF .|PMP
+Nakaupo|VBTS siya|PRS sa|CCT isang|PRI_CCP bato|NNC at|CCA umiiyak|VBTR_VBAF .|PMP
+Tumulo|NNP ang|DTC mga|DTCP luha|NNC sa|CCT kanyang|PRSP_CCP pisngi|NNC at|CCA bumagsak|VBAF sa|CCT lupa|NNC .|PMP
+Plop|NNP !|PMS
+Plop|NNP !|PMS
+Narinig|VBTS ni|DTP tipaklong|NNC ang|DTC mga|DTCP luha|NNC ni|DTP Hippo|NNP .|PMP
+Nagsisimula|VBTR siyang|PRS_CCP sumayaw|VBAF sa|CCT paligid|NNC ng|CCB kanyang|PRSP_CCP mga|DTCP paa|NNC .|PMP
+Hop|NNP !|PMS
+Hop|NNP !|PMS
+Si|DTP Hippo|NNP at|CCA Tipaklong|NNP_CCP ay|LM nagsimulang|VBTS_CCP sumayaw|VBAF ,|PMC at|CCA ang|DTC iba|PRI pang|RBI_CCP mga|DTCP hayop|NNC ay|LM dumating|VBAF upang|CCB tumingin|VBAF ...|PMS

@@ -1,0 +1,77 @@
+Ang|DTC pagkain|NNC ng|CCB inihaw|NNC na|CCP isda|NNC ang|DTC pinakamasayang|JJCS_JJD_CCP araw|NNC ng|CCB Linggo|NNP .|PMP
+Ngunit|CCT nasaan|JJD si|DTP Lolo|NNP ?|PMQ
+Ang|DTC palaisdaan|NNC ay|LM umaapaw|VBTR_VBAF !|PMQ
+May|VBH mga|DTCP isda|NNC na|CCP naipit|VBTS sa|CCT palaisdaan|NNC .|PMP
+Dapat|VBS mahuli|VBW ito|PRO ni|DTP Eneng|NNP .|PMP "|PMS
+Ujang|NNP ,|PMC pakiusap|NNC ,|PMC pakikuha|NNC ang|DTC lambat|NNC !|PMS "|PMS
+sigaw|NNC ni|DTP Eneng|NNP .|PMP "|PMS
+Ikaw|NNP na|CCP ang|DTC kumuha|VBAF o|CCT di|RBF kaya|CCR ay|LM hintayin|VBOF mo|PRS si|DTP Lolo|NNP ,|PMC "|PMS sabi|VBS ni|DTP Ujang|NNP .|PMP "|PMS
+Hinahanap|VBTR ko|PRS pa|RBI ang|DTC aking|PRSP_CCP sarong|NNC .|PMP
+Isinampay|VBOF ko|PRS yun|PRO dito|PRL kahapon|JJD .|PMP "|PMS
+Tumalon|VBAF si|DTP Eneng|NNP sa|CCT ilog|NNC .|PMP
+Baka|NNP mahuli|VBW niya|PRS ang|DTC mga|DTCP isda|NNC gamit|VBS ang|DTC kanyang|PRSP_CCP mga|DTCP kamay|NNC .|PMP
+Hayun|CCB sila|PRP !|PMQ
+Ang|DTC mga|DTCP maliliksing|JJD_CCP isda|NNC ay|LM nakawala|VBTS sa|CCT mga|DTCP daliri|NNC ni|DTP Eneng|NNP .|PMP
+Aha|NNP !|PMS
+Nahuli|VBTS niya|PRS rin|RBI sa|CCT wakas|NNC ang|DTC isda|NNC .|PMP
+Gayunpaman|CCB ,|PMC ang|DTC katawan|NNC ng|CCB isda|NNC ay|LM madulas|JJD at|CCA nabitawan|VBTS ito|PRO ni|DTP Eneng|NNP .|PMP
+Hindi|RBF maaring|VBS_CCP pabayaan|VBOF ni|DTP Eneng|NNP na|CCP tangayin|VBOF ito|PRO ng|CCB ilog|NNC .|PMP "|PMS
+Ujang|NNP ,|PMC tulungan|VBTF_VBOF mo|PRS ko|PRS ,|PMC "|PMS sigaw|NNC ni|DTP Eneng|NNP .|PMP "|PMS
+Sabi|VBS mo|PRS hinahanap|VBTR mo|PRS ang|DTC iyong|PRSP_CCP sarong|NNC ,|PMC pero|CCT bakit|PRQ ka|PRS kumakain|VBTR_VBAF ng|CCB cherries|FW ?|FW "|PMS
+Tumawa|VBAF lang|RBI si|DTP Ujang|NNP .|PMP
+Aha|NNP ,|PMC Nagkaroon|VBTS si|DTP Eneng|NNP ng|CCB ideya|NNC !|PMS
+Swish|NNP !|PMS
+Nakahuli|VBTS siya|PRS ng|CCB tatlong|JJN_CCP isda|NNC ng|CCB sabay|JJD -|PMS sabay|RBD .|PMP
+Ay|RBF naku|VBTS !|PMQ
+Nagpaikot|NNP -|PMS ikot|NNC ang|DTC mga|DTCP isda|NNC .|PMP
+Ang|DTC isang|PRI_CCP isda|NNC ay|LM tumalon|VBAF ng|CCB napakataas|JJCS_JJD .|PMP
+Oh|NNP ,|PMC Hindi|RBF !|PMQ
+Nakatakas|VBTS muli|RBW ang|DTC mga|DTCP isda|NNC .|PMP
+Uy|CCT ano|PRQ yun|PRO ?|PMQ
+Isang|PRI_CCP piraso|NNC ng|CCB tela|NNC ang|DTC inaanod|VBTR sa|CCT ilog|NNC .|PMP
+Parang|CCT ang|DTC tela|NNC ay|LM naipit|VBTS sa|CCT isang|PRI_CCP bagay|NNC .|PMP
+Hindi|RBF ito|PRO mahila|VBW ni|DTP Eneng|NNP .|PMP "|PMS
+Hahaha|NNP ,|PMC sinusubukan|VBTR mo|PRS bang|RBM manghuli|VBW ng|CCB isda|NNC o|CCT maglaro|VBAF sa|CCT tubig|NNC ?|PMQ "|PMS
+sabi|VBS ni|DTP Ujang|NNP .|PMP
+Sumimangot|NNP si|DTP Eneng|NNP .|PMP "|PMS
+Ujang|NNP ,|PMC di|RBF ba|RBI tinulungan|VBOF natin|PRP noon|RBW si|DTP lolo|NNC na|CCP manghuli|VBW ng|CCB isda|NNC ?|PMQ "|PMS
+Biglang|RBD_CCP naalala|VBTS ni|DTP Eneng|NNP .|PMP "|PMS
+Sarado|JJD ang|DTC pasukan|NNC ng|CCB tubig|NNC at|CCA binuksan|VBOF ang|DTC labasan|NNC .|PMP
+Kaya|CCR napakakaunti|JJCS_JJD ng|CCB tubig|NNC sa|CCT palaisdaan|NNC .|PMP "|PMS "|PMS
+Ngayon|RBW ,|PMC kabaligtaran|JJD naman|RBI ito|PRO .|PMP
+Ang|DTC tubig|NNC sa|CCT palaisdaan|NNC ay|LM umaapaw|VBTR_VBAF .|PMP
+Ibig|VBS sabihin|VBOF ang|DTC labasan|NNC ng|CCB tubig|NNC ay|LM barado|JJD ,|PMC "|PMS sabi|VBS ni|DTP Eneng|NNP .|PMP "|PMS
+Maaring|RBM ang|DTC tela|NNC ang|DTC nakakaharang|JJD_CCP dito|PRL .|PMP "|PMS "|PMS
+Hayaan|VBOF mo|PRS akong|PRS_CCP hilahin|VBOF ito|PRO "|PMS ,|PMC sabi|VBS ni|DTP Ujang|NNP .|PMP
+Ngunit|CCT hindi|RBF rin|RBI siya|PRS nagtagumpay|VBTS .|PMP
+Siguro|RBM ay|LM kaya|CCR nila|PRP itong|PRO_CCP bunutin|VBOF ng|CCB sabay|RBD .|PMP
+Tilamsik|NNP !|PMS
+Pareho|JJC silang|PRP_CCP basang|JJD_CCP -|PMS basa|JJD .|PMP
+Hmm|NNP .|PMP .|PMP
+ano|PRQ kaya|CCR ang|DTC dahilan|NNC kung|RBK bakit|RBQ hindi|RBF ito|PRO mahila|VBW ?|PMQ
+Inilagay|VBTS ni|DTP Eneng|NNP ang|DTC kanyang|PRSP_CCP mga|DTCP daliri|NNC sa|CCT ilalim|JJD ng|CCB tubig|NNC .|PMP
+Naku|NNP ,|PMC ang|DTC tela|NNC ay|LM naipit|VBTS pala|NNC sa|CCT mga|DTCP alambre|NNC ng|CCB labasan|NNC ng|CCB tubig|NNC .|PMP
+Matagumpay|JJD na|CCP natanggal|VBTS ni|DTP Eneng|NNP ang|DTC tela|NNC .|PMP
+Agad|RBD na|CCP bumulwak|VBTR_VBAF ang|DTC tubig|NNC mula|RBL sa|CCT labasan|NNC nito|PRO .|PMP
+Nagsimulang|VBTS_CCP humupa|VBAF ang|DTC tubig|NNC sa|CCT pool|FW .|PMP "|PMS
+Lolo|NNP !|PMS "|PMS
+tawag|VBS ni|DTP Eneng|NNP .|PMP
+Agad|RBD niyang|PRS_CCP naalala|VBTS ang|DTC lahat|PRI ng|CCB mga|DTCP pangyayari|NNC .|PMP "|PMS
+Ito|PRO ang|DTC dahilan|NNC kung|RBK bakit|RBQ iyon|PRO nangyari|VBTS ,|PMC "|PMS sabi|VBS ni|DTP Eneng|NNP habang|RBW nilalatag|VBTR ang|DTC tela|NNC .|PMP "|PMS
+Hoy|NNP !|PMS
+Sarong|NNP_CCP ko|PRS yan|PRO !|PMS "|PMS
+bulalas|VBTS ni|DTP Ujang|NNP .|PMP "|PMS
+Hay|NNP Naku|NNP !|PMS "|PMS
+inis|JJD na|CCP tumingin|VBAF si|DTP Eneng|NNP si|DTP Ujang|NNP .|PMP "|PMS
+Tama|RBT na|CCP kayong|JJD_CCP dalawa|CDB .|PMP "|PMS
+Eneng|NNP ,|PMC ang|DTC iyong|PRSP_CCP pagpupursige|NNC at|CCA paglutas|NNC sa|CCT problema|NNC ang|DTC nagligtas|VBTS sa|CCT akin|PRSP sa|CCT maaring|RBM pagkawala|VBW ng|CCB aking|PRSP_CCP mga|DTCP isda|NNC .|PMP
+Salamat|RBS ,|PMC "|PMS nakangiting|VBTS sabi|VBS ni|DTP lolo|NNC .|PMP "|PMS
+Eneng|NNP ,|PMC humihingi|VBTR_VBAF ako|PRS ng|CCB paumanhin|NNC kung|CCR niloko|VBTS kita|NNC imbes|CCT na|CCP tulungan|VBTF_VBOF kita|NNC .|PMP
+Ang|DTC buong|PRI_CCP problemang|NNC_CCP ito|PRO ay|LM dulot|JJD ng|CCB aking|PRSP_CCP pagkakamali|NNC .|PMP
+Ako|PRS ay|LM magiging|VBTF mas|JJCC maalalahanin|JJD at|CCA responsable|JJD ,|PMC "|PMS paumanhin|NNC niUjang|RBL_NNP .|PMP
+Ah|RBJ ,|PMC ito|PRO ang|DTC inaabangan|VBTR ni|DTP Eneng|NNP .|PMP
+Ang|DTC inihaw|VBTS na|CCP isda|NNC ni|DTP Lolo|NNP ay|LM palaging|RBD_CCP espesyal.|JJD ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+This|NNP book|FW was|FW created|FW through|FW a|FW book|FW creation|FW workshop|FW in|FW Indonesia|NNP involving|FW mostly|FW female|FW writers|FW ,|PMC illustrators|FW ,|PMC editors|FW ,|PMC and|FW art|FW directors|FW to|FW produce|FW stories|FW featuring|FW mighty|FW girls|FW and|FW women|FW .|PMP
+The|NNP workshop|FW was|FW a|FW collaboration|FW between|FW Litara|NNP Foundation|NNP and|FW The|NNP Asia|NNP Foundation|NNP and|FW supported|FW by|FW Estée|FW Lauder|FW Companies|FW CharitableFoundation|FW .|PMP
+The|NNP workshop|FW and|FW professional|FW development|FW ,|PMC along|NNC_CCP with|FW the|FW editing|FW and|FW design|FW of|FW this|FW book|FW ,|PMC was|FW conducted|FW by|FW Litara|NNP Foundation|NNP .|PMP
+Litara|NNP Foundation|NNP is|FW a|FW not|FW -|PMS for|FW -|PMS profit|FW organization|FW that|FW develops|FW children|FW 's|FW literacy|FW through|FW children|FW 's|FW literature|FW .|PMP

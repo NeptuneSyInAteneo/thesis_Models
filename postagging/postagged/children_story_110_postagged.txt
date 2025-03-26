@@ -1,0 +1,40 @@
+Sa|CCT dalisdis|NNC ng|CCB isang|PRI_CCP nayon|NNC sa|CCT bundok|NNC ng|CCB Kenya|NNP sa|CCT Silangang|NNP_CCP bahagi|NNC ng|CCB Africa|NNP ,|PMC mayroong|VBH_CCP isang|PRI_CCP batang|JJD_CCP babae|NNC na|CCP nagtatrabaho|VBTR sa|CCT isang|PRI_CCP bukid|NNC kasama|CCB ang|DTC kanyang|PRSP_CCP ina|NNC .|PMP
+Ang|DTC kanyang|PRSP_CCP pangalan|NNC ay|LM si|DTP Wangari|NNP .|PMP
+Si|DTP Wangari|NNP ay|LM mahilig|JJD lumabas|VBAF .|PMP
+Sa|CCT hardin|NNC na|CCP taniman|NNC ng|CCB mga|DTCP pagkain|NNC ng|CCB kanilang|PRSP_CCP pamilya|NNC ,|PMC binungkal|VBTR niya|PRS ang|DTC lupa|NNC gamit|VBS ang|DTC kanyang|PRSP_CCP pala|NNC .|PMP
+Ibinabaon|VBTS niya|PRS ang|DTC mga|DTCP mumunting|JJD_CCP buto|NNC sa|CCT lupa|NNC .|PMP
+Ang|DTC kanyang|PRSP_CCP paboritong|JJD_CCP oras|NNC sa|CCT bawat|PRI araw|NNC ay|LM pagkatapos|VBW ng|CCB takip|NNC silim|NNC .|PMP
+Kapag|CCR ang|DTC mundo|NNC ay|LM natatabunan|VBTR na|RBI ng|CCB kadiliman|NNC at|CCA mahirap|JJD ng|CCB makita|VBW ang|DTC mga|DTCP halaman|NNC ,|PMC Alam|VBS na|RBI ni|DTP Wangiri|NNP na|CCP ito|PRO ay|LM oras|NNC na|CCP para|CCT umuwi|VBAF sa|CCT kaniyang|PRSP_CCP bahay|NNC .|PMP
+Susundan|VBTF niya|PRS ang|DTC makitid|JJD na|CCP daanan|NNC sa|CCT bukid|NNC ,|PMC at|CCA tatawirin|VBTF niya|PRS ang|DTC ilog|NNC sa|CCT kanyang|PRSP_CCP pag|CCR -|PMS uwi|NNCA .|PMP
+Matalinong|JJD_CCP bata|NNC si|DTP Wangari|NNP at|CCA hindi|RBF na|RBI siya|PRS makapag|VBW antay|FW na|CCP pumasok|VBAF ng|CCB paaralan|NNC .|PMP
+Ngunit|CCT ninais|VBTS ng|CCB kanyang|PRSP_CCP ina|NNC at|CCA ama|NNC na|CCP manatili|VBW siya|PRS sa|CCT bahay|NNC para|CCT tulungan|VBTF_VBOF sila|PRP sa|CCT mga|DTCP gawain|NNC .|PMP
+Noong|RBW_CCP siya|PRS ay|LM pitong|JJN_CCP taong|NNC_CCP gulang|NNC na|RBI ,|PMC hinikayat|VBTS ng|CCB kanyang|PRSP_CCP nakatatandang|JJD_CCP kapatid|NNC ang|DTC kanilang|PRSP_CCP mga|DTCP magulang|NNC na|CCP siya|PRS ay|LM payagan|VBOF ng|CCB pumasok|VBAF sa|CCT paaralan|NNC .|PMP
+Gusto|VBS niyang|PRS_CCP matuto|VBW !|PMQ
+Mas|JJCC nadadagdagan|VBTR ang|DTC kaalaman|NNC ni|DTP Wangari|NNP sa|CCT bawat|PRI libro|NNC na|CCP kanyang|PRSP_CCP nababasa|VBTS .|PMP
+Nagpakita|VBTS siya|PRS ng|CCB kagalingan|NNC sa|CCT paaralan|NNC kung|CCR kaya|CCR '|PMS t|NNCA siya|PRS ay|LM inimbitahan|VBTS ng|CCB Estados|NNP Unidos|NNP sa|CCT America|NNP na|CCP doon|PRL mag|VBW aral|NNC .|PMP
+Sabik|RBD na|CCP sabik|JJD si|DTP Wangari|NNP !|PMS
+Nais|VBS niya|PRS pang|RBI_CCP madagdagan|VBW ang|DTC kaniyang|PRSP_CCP kaalaman|NNC tungkol|RBR sa|CCT mundo|NNC .|PMP
+Sa|CCT universidad|NNC sa|CCT America|NNP si|DTP Wangari|NNP ay|LM natuto|VBTS ng|CCB maraming|PRI_CCP bagay|NNC .|PMP
+Nag|VBTS aral|NNC siya|PRS patungkol|RBR sa|CCT mga|DTCP halaman|NNC at|CCA kung|RBK paano|RBQ ito|PRO tumubo|VBAF .|PMP
+At|CCA naalala|VBTS niya|PRS kung|RBK paano|RBQ ito|PRO tumubo|VBAF :|PMS nakikipaglaro|VBTR siya|PRS sa|CCT kanyang|PRSP_CCP kapatid|NNC sa|CCT lilim|NNC sa|CCT ilalim|JJD ng|CCB puno|NNC sa|CCT napakagandang|JJCS_JJD_CCP gubat|NNC ng|CCB Kenya|NNP .|PMP
+Habang|RBW nadadagdagan|VBTR ang|DTC kaniyang|PRSP_CCP kaalaman|NNC ,|PMC mas|JJCC napagtanto|VBTS niya|PRS kung|RBK gaano|RBQ niya|PRS kamahal|JJD ang|DTC mga|DTCP tao|NNC sa|CCT Kenya|NNP .|PMP
+Gusto|VBS niyang|PRS_CCP maging|VBW masaya|JJD at|CCA malaya|JJD .|PMP
+Sa|CCT pagdami|NNC ng|CCB kaniyang|PRSP_CCP natututunan|VBTR ,|PMC mas|JJCC naaalala|VBTR niya|PRS ang|DTC kanilang|PRSP_CCP tahanan|NNC sa|CCT Africa|NNP .|PMP
+Noong|RBW_CCP tapos|JJD na|RBI siya|PRS sa|CCT kanyang|PRSP_CCP pag|CCR aaral|NNC ,|PMC bumalik|VBAF siya|PRS sa|CCT Kenya|NNP .|PMP
+Subalit|CCT madami|PRI ng|CCB nagbago|VBTS sa|CCT kanyang|PRSP_CCP bansa|NNC .|PMP
+Nawala|VBTS na|RBI ang|DTC malalaking|JJD_CCP bukirin|NNC .|PMP
+Wala|VBN ng|CCB mapagkukunan|VBW na|CCP mga|DTCP kahoy|NNC na|CCP panggatong|NNC ang|DTC mga|DTCP kababaihan|NNC para|CCT sa|CCT kanilang|PRSP_CCP pagluluto|NNC .|PMP
+Naghihirap|VBTR na|CCP ang|DTC mga|DTCP tao|NNC at|CCA nagugutom|VBTR na|CCP ang|DTC mga|DTCP bata|NNC .|PMP
+Alam|VBS na|RBI ni|DTP Wangari|NNP kung|RBK ano|RBQ ang|DTC dapat|VBS gawin|VBOF .|PMP
+Tinuruan|VBOF niya|PRS ang|DTC mga|DTCP kababaihan|NNC kung|RBK paano|RBQ magtanin|VBTF ng|CCB mga|DTCP puno|NNC galing|RBL sa|CCT mga|DTCP buto|NNC .|PMP
+Binenta|VBTS ng|CCB mga|DTCP babae|NNC ang|DTC mga|DTCP puno|NNC at|CCA ginamit|VBOF nila|PRP ang|DTC kanilang|PRSP_CCP pera|NNC para|CCT masustentuhan|VBW ang|DTC pangangailangan|NNC ng|CCB kanilang|PRSP_CCP pamilya|NNC .|PMP
+Masayang|JJD_CCP -|PMS masaya|JJD ang|DTC mga|DTCP kababaihan|NNC .|PMP
+Natulungan|VBTS sila|PRP ni|DTP Wangari|NNP para|CCT maramdaman|VBW nila|PRP na|CCP sila|PRP ay|LM makapangyarihan|JJD at|CCA matatag|JJD .|PMP
+Sa|CCT paglipas|NNC ng|CCB panahon|NNC ,|PMC Naglakihan|VBTS na|CCP ang|DTC mga|DTCP bagong|JJD_CCP puno|NNC at|CCA naging|VBTS kagubatan|NNC ,|PMC Dumadaloy|VBTR_VBAF na|CCP muli|RBW ang|DTC mga|DTCP tubig|NNC sa|CCT ilog|NNC .|PMP
+Lumaganap|VBTR_VBAF na|RBI ang|DTC mensahe|NNC ni|DTP Wangari|NNP sa|CCT buong|PRI_CCP Africa|NNP .|PMP
+Sa|CCT ngayon|RBW ,|PMC milyong|NNC_CCP milyon|NNC na|CCP ang|DTC punong|JJD_CCP nag|FW lalakihan|NNC na|CCP nagmula|VBTS sa|CCT maliliit|JJD na|CCP butil|NNC na|CCP galing|RBL kay|DTP Wangari|NNP .|PMP
+Nagtrabaho|VBTS ng|CCB husto|JJD si|DTP Wangari|NNP .|PMP
+Napansin|VBTS ng|CCB mga|DTCP tao|NNC sa|CCT buong|PRI_CCP mundo|NNC si|DTP Wangari|NNP ,|PMC at|CCA binigyan|VBOF siya|PRS ng|CCB parangal|NNC .|PMP
+Siya|PRS ang|DTC kauna|NNC -|PMS unahang|NNC_CCP babaeng|NNC_CCP Aprikan|NNP na|CCP nakatanggap|VBTS ng|CCB parangal|NNC na|CCP "|PMS Nobel|NNP Peace|NNP Prize|NNP "|PMS .|PMP
+Namatay|VBTS si|DTP Wangari|NNP sa|CCT taong|NNC_CCP ,|PMC subalit|CCT siya|PRS ay|LM naaalala|VBTR natin|PRP sa|CCT tuwing|RBW nakakakita|VBTR tayo|PRP ng|CCB magandang|JJD_CCP puno|NNC .|PMP
+Taos|JJD pusong|NNC_CCP pasasalamat|RBS sa|CCT mga|DTCP nag|PRSP_CCP boluntaryo|NNC at|CCA sa|CCT mga|DTCP tauhan|NNC ng|CCB Book|NNP Dash|NNP na|CCP gumawa|VBAF at|CCA nag|VBTS lathala|NNC ng|CCB kuwento|NNC at|CCA sa|CCT grupo|NNC ng|CCB Dunlop|NNP para|CCT sa|CCT audiobook|FW recording|FW ng|CCB kuwentong|NNC_CCP ito|PRO .|PMP

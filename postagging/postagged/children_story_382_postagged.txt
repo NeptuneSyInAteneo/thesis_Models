@@ -1,0 +1,28 @@
+Kumusta|NNP !|PMS
+Sinulat|VBOF ni|DTP :|PMS Jennie|NNP Marima|NNP Iginuhit|VBOF ni|DTP :|PMS Imile|NNP WepenerAko|NNP si|DTP Lala|NNP .|PMP
+Madami|PRI akong|PRS_CCP mga|DTCP kaibigan|NNC .|PMP
+Halika|NNP samahan|NNC niyo|PRP akong|PRS_CCP kumustahin|VBTR_VBAF sila|PRP .|PMP
+Kumusta|NNP araw|NNC ,|PMC malaki|JJD at|CCA maliwanag|JJD .|PMP
+Pinupuno|NNP mo|PRS ang|DTC araw|NNC ng|CCB iyong|PRSP_CCP maliwanag|JJD na|CCP ilaw|NNC .|PMP
+Kumusta|NNP damo|NNC ,|PMC malambot|JJD at|CCA luntian|NNC .|PMP
+Ikaw|NNP ang|DTC nagbibigay|VBTR ng|CCB lugar|NNC para|CCT makapaglaro|VBW .|PMP
+Kumusta|NNP langit|NNC ,|PMC malawak|JJD at|CCA asul|JJD .|PMP
+Pinupuno|NNP mo|PRS ang|DTC langit|NNC ng|CCB kulay|NNC asul|JJD .|PMP
+Kumusta|NNP buwan|NNC para|CCT sa|CCT dilim|NNC .|PMP
+Ikaw|NNP ang|DTC nagbibigay|VBTR liwanag|NNC sa|CCT gabi|RBW .|PMP
+Mga|DTCP bituin|NNC ,|PMC kumusta|VBAF kayo|PRP ?|PMQ
+Ang|DTC aking|PRSP_CCP gabi|RBW ay|LM kumikinang|RBD_CCP dahil|CCR sa|CCT taglay|JJD niyong|NNC_CCP busilak|JJD .|PMP
+Kumusta|NNP hangin|NNC ?|PMQ
+Binibigyan|VBTR mo|PRS kami|PRP ng|CCB aliwalas|FW sa|CCT mainit|JJD na|CCP panahon|NNC .|PMP
+Kumusta|NNP ka|PRS naman|RBI ulan|NNC ?|PMQ
+Malamig|JJD na|CCP simoy|NNC ng|CCB hangin|NNC ang|DTC taglay|JJD mong|PRS_CCP dala|JJD .|PMP
+Kumusta|NNP kulog|NNC at|CCA kidlat|NNC ?|PMQ
+Ang|DTC iyong|PRSP_CCP ilaw|NNC ay|LM nakakatakot|RBD at|CCA taglay|JJD niyong|NNC_CCP tunog|NNC ay|LM maingay|JJD .|PMP
+Kumusta|NNP hamog|NNC ,|PMC patak|NNC ng|CCB tubig|NNC .|PMP
+Ikaw|NNP ang|DTC nagpapalambot|VBTR at|CCA nagpapabasa|VBTR ng|CCB lupa|NNC .|PMP
+Kumusta|NNP puno|NNC ,|PMC malaki|JJD at|CCA malakas|JJD .|PMP
+Ikaw|NNP ang|DTC nagbibigay|VBTR ng|CCB lilim|NNC ,|PMC at|CCA prutas|NNC para|CCT kainin|VBOF .|PMP
+Kumusta|NNP ibon|NNC na|CCP lumilipad|VBTR_VBAF sa|CCT langit|NNC .|PMP
+Ikaw|NNP ang|DTC nagbibigay|VBTR ng|CCB nakabibighaning|VBTR_CCP awit|NNC sa|CCT aming|PRSP_CCP araw|NNC .|PMP
+Ikaw|NNP na|CCP nagbabasa|VBTR .|PMP
+Ngayong|RBW_CCP kilala|JJD mo|PRS na|RBI ang|DTC aking|PRSP_CCP mga|DTCP kaibigan|NNC ,|PMC sana|VBS makilala|VBW ko|PRS din|RBI ang|DTC sa|CCT iyo|PRSP .|PMP

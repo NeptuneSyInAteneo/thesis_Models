@@ -1,0 +1,38 @@
+Sabi|VBS ng|CCB aming|PRSP_CCP guro|NNC kailangang|VBS_CCP isulat|VBOF namin|PRP kung|RBK ano|RBQ ang|DTC gusto|VBS namin|PRP paglaki|NNC .|PMP
+Hmm|NNP ...|PMS ano|PRQ nga|RBI ba|RBI ang|DTC gusto|VBS ko|PRS ?|PMQ
+Uy|NNP tingnan|VBOF niyo|PRP !|PMQ
+Mayroong|VBH_CCP nagtitinda|VBTR ng|CCB sorbetes|NNC .|PMP
+Gusto|VBS kong|PRS_CCP magtinda|VBW ng|CCB sorbetes|NNC !|PMS
+Maaari|VBS kong|PRS_CCP malibot|VBW ang|DTC buong|PRI_CCP paligid|NNC at|CCA kumain|VBAF ng|CCB sorbetes|NNC sa|CCT buong|PRI_CCP araw|NNC .|PMP
+Riiing|NNP Riiing|NNP !|PMS
+Uwian|NNP na|RBI .|PMP
+Uy|NNP tingnan|VBOF niyo|PRP .|PMP
+Sasakyang|NNP_CCP naghahatid|VBTR ng|CCB mga|DTCP sulat|NNC .|PMP
+Siguro|RBM magandang|JJD_CCP maging|VBW isang|PRI_CCP kartero|NNC .|PMP
+Mapapasyalan|NNP ko|PRS ang|DTC buong|PRI_CCP bayan|NNC .|PMP
+Narito|VBTS na|RBI ang|DTC aking|PRSP_CCP ina|NNC para|CCT sunduin|VBOF ako|PRS .|PMP
+Kailangan|VBS kong|PRS_CCP sumakay|VBAF sa|CCT tren|NNC upang|CCB makarating|VBW sa|CCT bahay|NNC ng|CCB aking|PRSP_CCP lola|NNC .|PMP
+Choo|NNP !|PMS
+Choo|NNP !|PMS
+Gusto|VBS kong|PRS_CCP magmaneho|VBAF ng|CCB isang|PRI_CCP tren|NNC !|PMS
+Maglalakbay|VBTF kami|PRP ng|CCB aking|PRSP_CCP tren|NNC sa|CCT malalayong|JJD_CCP siyudad|NNC .|PMP
+Woohoo|NNP !|PMS
+Saan|PRQ kaya|CCR papunta|VBW ang|DTC eroplanong|NNC_CCP iyon|PRO ?|PMQ
+Ang|DTC mga|DTCP piloto|NNC ay|LM maaaring|RBM pumunta|VBAF kahit|CCT saan|PRQ .|PMP
+Sa|CCT ibabaw|NNC ng|CCB karagatan|NNC at|CCA mga|DTCP kontinente|NNC !|PMS
+Masarap|JJD lumipad|VBAF sa|CCT kalangitan|NNC .|PMP
+Yehey|NNP !|PMS
+Nakatanggap|VBTS ako|PRS ng|CCB padala|NNC mula|RBL sa|CCT aking|PRSP_CCP tatay|NNC .|PMP
+Siguro|RBM maaari|VBS akong|PRS_CCP maging|VBW marine|FW biologist|FW gaya|JJC ng|CCB tatay|NNC ko|PRS .|PMP
+Sa|CCT ganoon|PRC ay|LM maaari|VBS akong|PRS_CCP sumisid|VBAF at|CCA makipaglaro|VBW sa|CCT mga|DTCP hayop|NNC sa|CCT ilalim|JJD ng|CCB dagat|NNC .|PMP "|PMS
+Ano|PRQ kaya|CCR ang|DTC nasa|RBL loob|NNC ng|CCB kahon|NNC ?|PMQ "|PMS
+Wow|NNP !|PMS
+Isang|PRI_CCP rocket|NNC !|PMS
+Ohhh|NNP ...|PMS Nakatulog|VBTS pala|NNC ako|PRS .|PMP
+Sa|CCT wakas|RBW alam|VBS ko|PRS na|CCP kung|RBK ano|RBQ talaga|RBT ang|DTC nais|VBS ko|PRS .|PMP
+Gusto|VBS kong|PRS_CCP maging|VBW isang|PRI_CCP astronaut|FW !|PMS
+Gusto|VBS kong|PRS_CCP malibot|VBW ang|DTC kalawakan|NNC at|CCA bisitahin|VBOF ang|DTC mga|DTCP planeta|NNC at|CCA mga|DTCP bituin|NNC .|PMP
+©|PMS ,|PMC The|NNP Asia|NNP Foundation|NNP .|PMP
+Ang|DTC proyektong|NNC_CCP ito|PRO sa|CCT paglikha|NNC ng|CCB aklat|NNC ay|LM nagtatampok|VBTR ng|CCB mga|DTCP natatanging|JJD_CCP kababaihan|NNC bilang|CCT pangunahing|JJD_CCP tauhan|NNC sa|CCT kuwento|NNC at|CCA kinabibilangan|VBTR ng|CCB mga|DTCP babaeng|JJD_CCP manunulat|NNC ,|PMC illustrador|NNC ,|PMC tagapatnugot|NNC ,|PMC at|CCA pagguhit|NNC .|PMP
+Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM ginawa|VBTS sa|CCT pamamagitan|NNC ng|CCB mga|DTCP pagsasanay|NNC sa|CCT pagtutulungan|NNC ng|CCB Litara|NNP Foundation|NNP at|CCA The|NNP Asia|NNP Foundation|NNP at|CCA suportado|JJD ng|CCB Estee|NNP Lauder|NNP Companies|NNP .|PMP
+Ang|DTC pagsasanay|NNC at|CCA iba|PRI pang|RBI_CCP propesyunal|JJD na|CCP pagsulong|NNC tulad|JJC ng|CCB pagguhit|NNC at|CCA pag|CCR -|PMS akda|NNC ng|CCB aklat|NNC na|CCP ito|PRO ay|LM isinagawa|VBTS ng|CCB Litara|NNP Foundation|NNP .|PMP

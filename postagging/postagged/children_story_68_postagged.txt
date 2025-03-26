@@ -1,67 +1,126 @@
-"|PMS Rona|NNC ,|PMC bangon|NNC na|CCP riyan|NNC ,|PMC "|PMS utos|NNC ni|DTP Nanay|NNP .|PMP "|PMS
-Sige|NNP na|CCP ,|PMC '|PMS Nak|RBD ,|PMC iligpit|VBOF mo|PRS na|CCP yang|PRO higaan|NNC mo|PRS at|CCA bibisitahin|VBTF natin|PRP ang|DTC lola|NNC ,|PMC "|PMS sabi|VBS ni|DTP Tatay|NNP .|PMP
-Nagtalukbong|VBTS ng|CCB kumot|NNC si|DTP Rona|NNP .|PMP "|PMS
-Ayaw|RBF ko|PRS pong|PRO_CCP sumama|VBAF .|PMP
-Natatakot|VBTR po|RBS akong|PRS_CCP sumakay|VBAF sa|CCT ating|PRSP_CCP pamaba|NNC .|PMP "|PMS "|PMS
-Pero|CCT ,|PMC Rona|NNP ,|PMC kailangan|VBS mong|PRS_CCP sumama|VBAF .|PMP
-Gusto|VBS ka|PRS raw|RBI makita|VBW ng|CCB lola|NNC mo|PRS ,|PMC "|PMS yaya|NNC ni|DTP Nanay|NNP .|PMP "|PMS
-Halika|NNP na|CCP para|CCT mag|VBW almusal|FW .|PMP
-Maya|NNP -|PMS maya|NNC aytulungan|NNC mo|PRS akong|PRS_CCP ayusin|VBOF ang|DTC ating|PRSP_CCP mga|DTCP dadalhin|VBTF .|PMP "|PMS
-Napipilitan|VBTS na|CCP bumangon|VBAF si|DTP Rona|NNP .|PMP "|PMS
-Nanay|NNC ,|PMC nasaan|JJD po|RBS ang|DTC ating|PRSP_CCP mga|DTCP dadalhin|VBTF ?|PMQ "|PMS "|PMS
-Nandoon|VBTS sa|CCT mesa|NNC .|PMP "|PMS
-Tinulungan|VBOF ni|DTP Rona|NNP si|DTP Nanay|NNP sa|CCT pag|CCR -|PMS aayos|NNC ng|CCB mga|DTCP dadalhin|VBTF sa|CCT kanilang|PRSP_CCP lumang|JJD_CCP basket|NNC na|CCP gawa|VBS nito|PRO .|PMP
-Isang|PRI_CCP maliit|JJD na|CCP kalderong|NNC_CCP may|VBH kanin|NNC ,|PMC dalawang|JJN_CCP asul|JJD na|CCP basong|NNC_CCP plastik|JJD ,|PMC tatlong|JJN_CCP bilog|JJD na|CCP puting|JJD_CCP plato|NNC ,|PMC apat|JJN na|CCP malalaking|JJD_CCP tilapya|NNC ,|PMC at|CCA limang|JJN_CCP mapupulang|JJD_CCP kamatis|NNC .|PMP "|PMS
-Mahal|NNP ,|PMC nakahanda|VBTS na|RBI ang|DTC ating|PRSP_CCP pamaba|NNC .|PMP
-Rona|NNP ,|PMC halika|NNC na|CCP ,|PMC "|PMS yaya|NNC ni|DTP Tatay|NNP .|PMP
-Kumakabog|NNP -|PMS kabog|NNC ang|DTC dibdib|NNC ni|DTP Rona|NNP sa|CCT takot|NNC habang|RBW sumasakay|VBTR_VBAF .|PMP
-Naisip|VBTS niya|PRS ,|PMC paano|PRQ kung|CCR mahulog|VBW siya|PRS ?|PMQ
-Paano|PRQ kung|CCR sa|CCT paghila|NNC ng|CCB pamaba|NNC biglang|JJD_CCP tumaob|VBAF ito|PRO at|CCA madaganan|VBTF sila|PRP ?|PMQ "|PMS
-Nanay|NNP ,|PMC natatakot|VBTR po|RBS ako|PRS .|PMP "|PMS "|PMS
-Huwag|RBF kang|PRS_CCP matakot|VBW .|PMP
-Bilangin|VBOF mo|PRS na|RBI lang|RBI ang|DTC mga|DTCP makikita|VBTF mong|PRS_CCP mga|DTCP bagay|NNC ,|PMC "|PMS sabi|VBS ni|DTP Nanay|NNP habang|RBW hawak|JJD ang|DTC kaniyang|PRSP_CCP kamay|NNC .|PMP
-Sa|CCT daan|NNC ay|LM natanaw|VBTS nila|PRP ang|DTC mga|DTCP paruparong|NNC_CCP may|VBH iba|PRI '|PMS t|NNCA ibang|PRI_CCP kulay|NNC na|CCP nagliliparan|VBTR paikot|JJD sa|CCT isang|PRI_CCP halamang|NNC_CCP hitik|JJD sa|CCT bulaklak|NNC .|PMP "|PMS
-Bilangin|VBOF mo|PRS nga|RBI ,|PMC Rona|NNP ,|PMC kung|CCR ilang|PRQ_CCP paruparo|NNC ang|DTC nakikita|VBTR mo|PRS ?|PMQ "|PMS
-I|CDB -|PMS i|NNCA -|PMS sa|CCT ,|PMC d|PMS -|PMS d|PMS -|PMS dalawa|CDB ,|PMC t|NNCA -|PMS t|NNCA -|PMS tatlo|CDB ,|PMC a-a-apat|FW ,|PMC lima|CDB ,|PMC anim|CDB !|PMS
-Anim|NNP !|PMS
-May|VBH anim|JJN pong|NNC_CCP paruparo|JJD Nanay|NNP !|PMS "|PMS
-sagot|NNC ni|DTP Rona|NNP .|PMP
-Tila|RBM biglang|RBD_CCP nahulog|VBTS ang|DTC puso|NNC ni|DTP Rona|NNP nang|RBW mapadaan|VBW sa|CCT malubak|JJD na|CCP daan|NNC ang|DTC pamabang|JJD_CCP sinasakyan|VBTR nila|PRP .|PMP "|PMS
-Nanay|NNP ,|PMC "|PMS natatakot|VBTR na|CCP sambit|NNC niya|PRS .|PMP "|PMS
-O|NNPA ,|PMC tingnan|VBOF mo|PRS ,|PMC Rona|NNP ,|PMC may|VBH mga|DTCP bakang|NNC_CCP kumakain|VBTR_VBAF ng|CCB damo|NNC ,|PMC bilangin|VBOF mo|PRS nga|RBI kung|CCR ilan|PRQ sila|PRP ?|PMQ "|PMS "|PMS
-I|CDB -|PMS i|NNCA -|PMS sa|CCT ,|PMC d|PMS -|PMS d|PMS -|PMS dalawa|CDB ,|PMC t|NNCA -|PMS t|NNCA -|PMS tatlo|CDB ,|PMC apat|CDB ,|PMC lima|CDB ,|PMC anim|CDB ,|PMC pito|CDB !|PMS
-Pitong|JJN_CCP baka|RBM po|RBS lahat|PRI !|PMS "|PMS
-Nanginginig|VBTR na|CCP sabi|VBS niya|PRS .|PMP "|PMS
-Nasa|RBL tapat|JJD na|CCP po|RBS ba|RBI tayo|PRP nila|PRP lola|NNC ?|PMQ "|PMS
-nakahinga|RBD ng|CCB malalim|JJD si|DTP Rona|NNP .|PMP "|PMS
-Wala|VBN pa|RBI ,|PMC '|PMS Nak|RBD .|PMP "|PMS
-sabi|VBS ni|DTP Tatay|NNP .|PMP "|PMS
-Ang|DTC bahay|NNC ng|CCB lola|NNC ,|PMC naroon|PRL pa|RBI sa|CCT unahan|CDB .|PMP "|PMS
-Muling|RBW_CCP hinila|VBOF ng|CCB kalabaw|NNC ang|DTC pamaba|NNC .|PMP
-Nanumbalik|VBTS ang|DTC kaba|NNC ni|DTP Rona|NNP .|PMP "|PMS
-Rona|NNP ,|PMC tingnan|VBOF mo|PRS ang|DTC mga|DTCP pato|NNC .|PMP
-Bilangin|VBOF mo|PRS nga|RBI kung|CCR ilan|PRQ sila|PRP ,|PMC "|PMS sabi|VBS ni|DTP Nanay|NNP .|PMP
-Binilang|VBTS ni|DTP Rona|NNP ang|DTC mga|DTCP pato|NNC na|CCP nakalinya|JJD at|CCA pakendeng|JJD_CCP -|PMS kendeng|JJD na|CCP tumatawid|VBTR_VBAF sa|CCT daan|NNC .|PMP "|PMS
-I|CDB -|PMS i|NNCA -|PMS sa|CCT ,|PMC d|PMS -|PMS d|PMS -|PMS dalawa|CDB ,|PMC tatlo|CDB ,|PMC apat|CDB ,|PMC lima|CDB ,|PMC anim|CDB ,|PMC pito|CDB ,|PMC walo|JJN !|PMQ
-Nanay|NNP ,|PMC walong|VBN_CCP pato|NNC po|RBS lahat|PRI !|PMS "|PMS
-Patuloy|JJD sa|CCT paghila|NNC ang|DTC kalabaw|NNC sa|CCT pamabang|JJD_CCP kanilang|PRSP_CCP sinasakyan|VBTR .|PMP
-Napayuko|VBTS si|DTP Rona|NNP sa|CCT baba|JJD ng|CCB daan|NNC .|PMP
-May|VBH mga|DTCP suso|NNC sa|CCT lupa|NNC na|CCP dahan|NNC -|PMS dahang|NNC_CCP gumagapang|VBTR_VBAF .|PMP "|PMS
-Ilang|PRQ_CCP mga|DTCP suso|NNC ang|DTC nariyan|VBTS ,|PMC Rona|NNP ?|PMQ "|PMS "|PMS
-I|CDB -|PMS i|NNCA -|PMS sa|CCT ,|PMC dalawa|CDB ,|PMC tatlo|CDB apat|JJN ,|PMC lima|CDB ,|PMC anim|CDB ,|PMC pito|CDB ,|PMC walo|JJN ,|PMC siyam|JJN !|PMQ
-Nanay|NNP ,|PMC siyam|JJN po|RBS lahat|PRI ,|PMC "|PMS ang|DTC sabi|VBS ni|DTP Rona|NNP .|PMP
-Nangalay|VBTS si|DTP Rona|NNP sa|CCT pagyuko|NNC kakabilang|JJD ng|CCB mga|DTCP suso|NNC kaya|CCR napatingala|VBTS siya|PRS .|PMP
-Sa|CCT langit|NNC ,|PMC may|VBH mga|DTCP ibon|NNC na|CCP lumilipad|VBTR_VBAF .|PMP
-Binilang|VBTS niya|PRS ang|DTC mga|DTCP ito|PRO .|PMP "|PMS
-Isa|PRI ,|PMC dalawa|CDB ,|PMC tatlo|CDB ,|PMC apat|CDB ,|PMC lima|CDB ,|PMC anim|CDB ,|PMC pito|CDB ,|PMC walo|JJN ,|PMC siyam|JJN ,|PMC sampu|JJN !|PMQ
-Sampung|JJN_CCP mga|DTCP ibon|NNC ang|DTC lumilipad|VBTR_VBAF sa|CCT langit|NNC !|PMS "|PMS "|PMS
-Hooo|NNP !|PMS "|PMS
-ang|DTC malakas|JJD na|CCP sabi|VBS ni|DTP Tatay|NNP sa|CCT kalabaw|NNC .|PMP
-Huminto|VBAF ang|DTC pamaba|NNC .|PMP "|PMS
-Tara|NNP na|RBI .|PMP
-Bumaba|VBAF na|CCP tayo|PRP ,|PMC "|PMS ang|DTC sabi|VBS ni|DTP Tatay|NNC kay|DTP Rona|NNP .|PMP "|PMS
-Baka|NNP naghahanda|VBTR na|CCP ng|CCB tinolang|JJD_CCP manok|NNC ang|DTC iyong|PRSP_CCP Lola|NNP .|PMP "|PMS
-Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM ginawa|VBTS bilang|CCT bahagi|NNC ng|CCB proyektong|NNC_CCP ABC|NNPA +|PMS :|PMS Advancing|NNP Basic|NNP Education|NNP in|NNP the|FW Philippines|NNP .|PMP
-Ang|DTC ABC|NNPA +|PMS ay|LM pagtutulungan|NNC ng|CCB USAID|NNPA at|CCA ng|CCB Kagawaran|NNP ng|CCB Edukasyon|NNP ,|PMC na|CCP ipinatutupad|VBTR ng|CCB RTI|NNPA International|NNP kasama|CCB ang|DTC The|NNP Asia|NNP Foundation|NNP ,|PMC SIL|NNPA LEAD|NNPA ,|PMC at|CCA Florida|NNP State|NNP University|NNP .|PMP
-Ang|DTC mga|DTCP pagsasanay|NNC at|CCA kaunlarang|NNC_CCP propesyunal|JJD ,|PMC pati|CCA ang|DTC mga|DTCP pagsasaayos|NNC at|CCA pagdisenyo|NNC ng|CCB mga|DTCP aklat|NNC ay|LM naganap|VBTS sa|CCT tulong|NNC ng|CCB Parasurat|NNP Bikolnon|NNP .|PMP
-Ang|DTC aklat|NNC na|CCP ito|PRO ay|LM dumaan|VBAF sa|CCT pagsisiyasat|NNC ng|CCB Kagawaran|NNP ng|CCB Edukasyon|NNP –|PMS Rehiyon|NNP V|CDB para|CCT sa|CCT katiyakan|NNC sa|CCT kalidad|NNC .|PMP
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC mga|DTCP ,|PMC 0t|NNCA aon|FW ang|DTC nakakaraan|VBTR .|PMP
+Ang|DTC Vietnam|NNP ay|LM orihinal|JJD na|CCP Hung|NNP Dynasty|NNP –|PMS isang|PRI_CCP malayang|JJD_CCP bansa|NNC .|PMP
+Pagkatapos|VBW ,|PMC ang|DTC Han|NNP Dynasty|NNP ay|LM nakiisa|VBTS sa|CCT Tsina|NNP at|CCA naging|VBTS napakalakas|JJCS_JJD ,|PMC at|CCA inatake|VBTS at|CCA kinontrol|VBOF ang|DTC Vietnam|NNP .|PMP
+Ang|DTC Vietnam|NNP ay|LM pinamahalaan|VBOF ng|CCB Han|NNP Dynasty|NNP dahil|CCR mahina|JJD ito|PRO noon|RBW .|PMP
+Noong|RBW_CCP mga|DTCP panahong|NNC_CCP iyon|PRO ,|PMC ang|DTC Vietnam|NNP ay|LM tinatawag|VBTR na|CCP '|PMS Nambiet|VBTS '|PMS .|PMP
+Hinati|VBOF ng|CCB Dinastiyang|NNP_CCP Han|NNP ang|DTC namamahala|VBTR sa|CCT Nambiet|NNP sa|CCT tatlonggrupo|NNC .|PMP
+Simula|RBW noon|RBW ,|PMC ang|DTC Dinastiyang|NNP_CCP Han|NNP ay|LM sinira|VBOF ang|DTC mga|DTCP tradisyonal|JJD na|CCP kultura|NNC ng|CCB Nambiet|NNP .|PMP
+Sinunog|VBOF nila|PRP ang|DTC tradisyonal|JJD na|CCP dram|NNC na|CCP yari|VBS sa|CCT tanso|NNC ,|PMC kinuha|VBOF ang|DTC mga|DTCP sungay|NNC ng|CCB elepante|NNC at|CCA mga|DTCP perlas|NNC ,|PMC na|CCP pawang|PRI_CCP mga|DTCP mahahalaga|JJD para|CCT sa|CCT mga|DTCP tao|NNC ng|CCB Nambiet|NNP .|PMP
+Kinuha|VBOF rin|RBI nila|PRP ang|DTC mga|DTCP produktong|NNC_CCP butil|NNC ng|CCB Nambiet|NNP .|PMP
+Ang|DTC buhay|NNC ng|CCB mga|DTCP tao|NNC ay|LM naging|VBTS mahirap|JJD at|CCA malungkot|JJD .|PMP
+Si|DTP ToDinh|NNP ,|PMC isang|PRI_CCP gobernador|NNC na|CCP nagmula|VBTS sa|CCT Dinastiyang|NNP_CCP Han|NNP ,|PMC ay|LM pinamahalaan|VBOF ang|DTC GiaoChi|NNP [|PMS ]|PMS ,|PMC isa|PRI sa|CCT tatlong|JJN_CCP mga|DTCP grupo|NNC ng|CCB Nambiet|NNP .|PMP
+Sa|CCT mga|DTCP araw|NNC na|CCP iyon|PRO ,|PMC ang|DTC mga|DTCP tao|NNC sa|CCT tatlong|JJN_CCP mga|DTCP grupo|NNC ay|LM patuloy|RBD na|CCP nag|VBTS -|PMS aalsa|FW .|PMP .|PMP
+Ito|PRO ay|LM dahil|CCR sa|CCT hindi|RBF matanggap|VBW ng|CCB mga|DTCP tao|NNC ang|DTC nangyari|VBTS .|PMP
+Nagtagumpay|VBTS ang|DTC rebolusyon|NNC ng|CCB GiaoChi|NNP ,|PMC at|CCA nakuha|VBTS ng|CCB mga|DTCP tao|NNC ang|DTC kanilang|PRSP_CCP butil|NNC at|CCA naiwasan|VBTS ang|DTC gutom|NNC .|PMP
+Ngunit|CCT hindi|RBF nila|PRP napuksa|VBTS ang|DTC kapangyarihan|NNC ng|CCB Dinastiyang|NNP_CCP Han|NNP .|PMP
+Si|DTP ToDinh|NNP ay|LM nagpakilosng|VBTS maraming|PRI_CCP sundalo|NNC upang|CCB arestuhin|VBOF at|CCA pahirapan|VBOF ang|DTC mga|DTCP tumanggi|VBAF sa|CCT kanya|PRSP .|PMP
+Sa|CCT panahong|NNC_CCP iyon|PRO ,|PMC may|VBH nanirahang|VBTR_CCP isang|PRI_CCP LacTuong|NNC_CCP [|PMS ]|PMS ,|PMC na|CCP may|VBH -|PMS ari|NNC ng|CCB malawak|JJD na|CCP lupain|NNC sa|CCT Meringhyun3|NNP .|PMP
+Mayroon|VBH siyang|PRS_CCP magagandang|JJD_CCP anak|NNC na|CCP kambal|NNC na|CCP sina|DTPP "|PMS TrungTrac|NNP "|PMS at|CCA "|PMS TrungNhi|FW .|PMP "|PMS
+Simula|RBW noong|RBW_CCP mga|DTCP bata|NNC pa|RBI sila|PRP ,|PMC ang|DTC magkapatid|NNC ay|LM naging|VBTS matalino|JJD at|CCA mahusay|JJD sa|CCT martial|FW arts|FW .|PMP
+Natutunan|VBTR nila|PRP ang|DTC martial|FW arts|FW dahil|CCR sa|CCT intensiyon|NNC nilang|PRP_CCP mabawi|VBW ang|DTC kanilang|PRSP_CCP bansa|NNC na|CCP kinuha|VBOF ng|CCB Dinastiyang|NNP_CCP Han|NNP .|PMP
+Nang|RBW maglaon|RBW ,|PMC lumaki|VBAF silang|PRP_CCP may|VBH magandang|JJD_CCP kalooban|NNC at|CCA may|VBH magandang|JJD_CCP imahe|NNC ng|CCB pagkababae|NNC ,|PMC at|CCA minamahal|VBTR ng|CCB mga|DTCP tao|NNC .|PMP
+May|VBH nakatirang|VBTS_CCP isang|PRI_CCP lalaki|NNC na|CCP nagngangalang|VBTR_CCP ThiSach|NNP sa|CCT Quizian|NNP ,|PMC isang|PRI_CCP bayan|NNC malapit|JJD sa|CCT Meringhyun|NNP .|PMP
+Si|DTP ThiSach|NNP ay|LM anak|NNC ng|CCB komandante|NNC ,|PMC isa|PRI ring|RBI_CCP matalino|JJD at|CCA mahusay|JJD sa|CCT martial|FW arts|FW .|PMP '|PMS
+Di|RBF nagtagal|VBTS ,|PMC nakilala|VBTS ni|DTP ThiSach|NNP ang|DTC isa|PRI sa|CCT mga|DTCP magkapatid|NNC na|CCP babae|NNC ,|PMC si|DTP Trung|NNP Trac|NNP ,|PMC at|CCA nagkaroon|VBTS sila|PRP ng|CCB mabuting|JJD_CCP relasyon|NNC .|PMP
+Nagkahulugan|VBTS ng|CCB loob|NNC sina|DTPP TrungTrac|NNP at|CCA ThiSach|NNP ,|PMC at|CCA nagpakasal|VBTS sila|PRP .|PMP
+Subalit|CCT ,|PMC ang|DTC mag|VBW -|PMS asawa|NNC ay|LM mas|JJCC interesado|JJD sa|CCT pagbawi|NNC ng|CCB kanilang|PRSP_CCP bansa|NNC kaysa|JJC sa|CCT lingapin|VBTF ang|DTC kanilang|PRSP_CCP pagmamahalan|NNC .|PMP
+Nagtipon|VBTS sila|PRP ng|CCB mga|DTCP tao|NNC upang|CCB lihim|RBD na|CCP makabuo|VBW ng|CCB isang|PRI_CCP plano|NNC upang|CCB ilunsad|VBOF ang|DTC isang|PRI_CCP napakalaking|JJCS_JJD_CCP rebolusyon|NNC .|PMP
+Sa|CCT kanilang|PRSP_CCP pamumuno|NNC ,|PMC sinusuportahan|VBTR sila|PRP ng|CCB mga|DTCP tao|NNC .|PMP
+Gayunpaman|CCB ,|PMC ang|DTC planong|NNC_CCP rebolusyon|NNC ay|LM natuklasan|VBTS ni|DTP ToDinh|NNP .|PMP
+Si|DTP ThiSach|NNP ay|LM nahuli|VBTS ni|DTP ToDinh|NNP ,|PMC at|CCA pinahirapan|VBTS nang|RBD labis|JJCS .|PMP
+Binantaan|VBTS ang|DTC mga|DTCP tao|NNC ng|CCB Nambiet|NNP na|CCP papatayin|VBTF si|DTP ThiSach|NNP kapag|CCR ipinagpatuloy|VBTS nila|PRP ang|DTC rebelyon|NNC .|PMP
+Hindi|RBF tumigil|VBAF ang|DTC mga|DTCP tao|NNC ng|CCB Nambiet|NNP .|PMP
+Kinalaunan|RBW ,|PMC pinatay|VBOF nang|RBD brutal|RBD ni|DTP ToDinh|NNP si|DTP ThiSach|NNP .|PMP
+Nabigla|VBTS sina|DTPP TrungTrac|NNP at|CCA TrungNhi|NNP nang|RBW mabalitaang|RBD_CCP namatay|VBTS si|DTP ThiSach|NNP .|PMP
+Pasigaw|NNP na|CCP sinabi|VBTS ni|DTP TrungNhi|NNP na|CCP ,|PMC "|PMS Maghiganti|VBW tayo|PRP !|PMQ
+Hindi|RBF ko|PRS na|CCP kaya|CCR angkanilang|RBD_CCP ginagawa|VBTR !|PMS "|PMS
+Napakagat|VBTS ng|CCB labi|NNC si|DTP TrungTrac|NNP sa|CCT pagpigil|NNC niyang|PRS_CCP lumuha|NNC ,|PMC at|CCA sinabing|VBTS ,|PMC "|PMS Tama|RBT ,|PMC ipagpatuloy|VBOB natin|PRP ang|DTC ginawa|VBOF nating|PRP_CCP plano|NNC kasama|CCB si|DTP ThiSach|NNP !|PMS
+Kailangan|VBS nating|PRP_CCP mapaalis|VBW ang|DTC mga|DTCP kalaban|NNC sa|CCT ating|PRSP_CCP bansa|NNC upang|CCB matahimik|JJD ang|DTC kaluluwa|NNC ng|CCB aking|PRSP_CCP asawa|NNC .|PMP "|PMS
+Sa|CCT halip|CCT na|CCP si|DTP ThiSach|NNP ,|PMC si|DTP TrungTrac|NNP ang|DTC namuno|VBTS sa|CCT mga|DTCP tao|NNC ng|CCB Nambiet|NNP .|PMP
+Sinubukan|VBTS ni|DTP TrungTrac|NNP na|CCP hikayatin|VBOF ang|DTC mga|DTCP taong|NNC_CCP may|VBH takot|NNC sa|CCT kanya|PRSP .|PMP
+Ang|DTC mga|DTCP tao|NNC ay|LM humanga|VBTS_VBAF sa|CCT kanya|PRSP at|CCA sumali|VBAF sa|CCT puwersa|NNC ,|PMC at|CCA ang|DTC puwersa|NNC ay|LM lumaki|VBAF at|CCA lumakas|VBAF .|PMP
+Nakuha|VBTS rin|RBI nila|PRP ang|DTC suporta|NNC ng|CCB isang|PRI_CCP pambihirang|JJD_CCP babaeng|NNC_CCP nagngangalang|VBTR_CCP '|PMS Le|NNP Trun|NNP '|PMS sa|CCT isang|PRI_CCP kalapit|JJD na|CCP nayon|NNC .|PMP
+Nang|RBW sila|PRP ay|LM handa|JJD na|CCP para|CCT sa|CCT pakikipag|NNC -|PMS digmaan|NNC ,|PMC tinanong|VBOF ng|CCB isang|PRI_CCP sundalo|NNC siTrungTrac|NNPA .|PMP "|PMS
+Pinuno|NNP ,|PMC namatay|VBTS si|DTP ThiSach|NNP ,|PMC damit|NNC pangluksa|JJD ba|RBI ang|DTC ating|PRSP_CCP isusuot|NNC para|CCT sa|CCT digmaan|NNC ?|PMQ "|PMS "|PMS
+Hindi|RBF !|PMS
+Kailangan|VBS nating|PRP_CCP magsuot|VBW ng|CCB damit|NNC pangdigma|JJD .|PMP .|PMP
+Mas|JJCC mahalaga|JJD ang|DTC mabawi|VBW natin|PRP ang|DTC ating|PRSP_CCP bansa|NNC .|PMP
+Ipakita|VBTS_VBOF natin|PRP sa|CCT kalaban|NNC ang|DTC ating|PRSP_CCP lakas|NNC !|PMS "|PMS
+Sabi|VBS ni|DTP TrungTrac|NNP .|PMP
+At|CCA hinubad|VBTS ni|DTP Trung|NNP Trac|NNP ang|DTC kanyang|PRSP_CCP suot|JJD na|CCP damit|NNC pangluksa|JJD at|CCA nagbihis|VBTS ng|CCB damit|NNC pangdigma|JJD .|PMP .|PMP
+Siya|PRS at|CCA ang|DTC kanyang|PRSP_CCP kapatid|NNC na|CCP si|DTP TrungNhi|NNP ay|LM umakyat|VBAF sa|CCT elepante|NNC at|CCA tumayo|VBAF sa|CCT harap|NNC ng|CCB mga|DTCP sundalo|NNC .|PMP
+Buu|NNP ...|PMS buu|NNCA ...|PMS buu|NNCA ...|PMS Ang|DTC tunog|NNC ng|CCB tuba|NNC [|PMS ]|PMS ay|LM malakas|JJD na|CCP narinig|VBTS sa|CCT buong|PRI_CCP bansa|NNC .|PMP
+Ito|PRO ang|DTC senyales|NNC ng|CCB pag|CCR -|PMS atake|NNC ng|CCB hukbong|NNC_CCP Nambiet|NNP .|PMP
+Matapang|JJD na|CCP sinugod|VBOF ng|CCB magkapatid|NNC ang|DTC kastilyong|NNC_CCP '|PMS Rue|NNP Lao|NNP '|PMS kung|RBK saan|RBQ naroroon|PRL si|DTP ToDinh|NNP .|PMP
+At|CCA mabilis|JJD na|CCP nawasak|VBTS ang|DTC kastilyo|NNC .|PMP
+Ang|DTC magkapatid|NNC na|CCP Trung|PRO_CCP at|CCA ang|DTC mga|DTCP tao|NNC ng|CCB Nambiet|NNP ay|LM agad|RBD na|CCP nabawing|VBTS_CCP muli|RBW ang|DTC na|CCP kastilyo|NNC na|CCP inagaw|VBTS_VBOF ng|CCB Dinastiyang|NNP_CCP Han|NNP .|PMP
+Ang|DTC hukbo|NNC ng|CCB Dinastiyang|NNP_CCP Han|NNP ay|LM inabandona|VBTS ang|DTC lahat|PRI upang|CCB makatakas|VBW .|PMP
+Sa|CCT takot|NNC sa|CCT kapangyarihan|NNC ng|CCB magkapatid|NNC na|CCP Trung|PRO_CCP at|CCA ng|CCB hukbo|NNC ng|CCB Vietnam|NNP ,|PMC si|DTP ToDinh|NNP ay|LM tumakas|VBAF papunta|VBW sa|CCT kanyang|PRSP_CCP bansa|NNC sa|CCT pamamagitan|NNC ng|CCB pagputol|NNC ng|CCB kanyang|PRSP_CCP buhok|NNC at|CCA pagbibihis|NNC bilang|CCT isang|PRI_CCP alipin|NNC .|PMP
+Naging|VBTS isang|PRI_CCP malaking|JJD_CCP tagumpay|NNC ang|DTC ginawang|VBOF_CCP pag|CCR -|PMS aalsa|NNC ng|CCB magkapatid|NNC na|CCP Trung|PRO_CCP ,|PMC napaalis|VBTS ang|DTC pamamahala|NNC ng|CCB Huhan|NNP sa|CCT Nambiet|NNP ,|PMC at|CCA nanumbalik|VBTS ang|DTC kapayapaan|NNC .|PMP
+Ang|DTC mga|DTCP tao|NNC ay|LM lubos|JJCS na|CCP nasiyahan|VBTS ,|PMC at|CCA ginawa|VBOF nilang|PRP_CCP reyna|NNC si|DTP TrungTrac|NNP .|PMP
+Nagtayo|VBTS si|DTP TrungTrac|NNP ng|CCB isang|PRI_CCP kastilyong|NNC_CCP tinawag|VBOF na|CCP '|PMS CoLai|FW [|PMS ]|PMS '|PMS para|CCT sa|CCT dignidad|NNC ng|CCB bansa|NNC at|CCA pinamunuan|VBTS niya|PRS ang|DTC mga|DTCP tao|NNC nang|RBW mabuti|RBD .|PMP
+Si|DTP TrungNhi|NNP naman|RBI ay|LM sinanay|VBTS ang|DTC mga|DTCP heneral|NNC at|CCA sundalo|NNC ,|PMC at|CCA pinanatiling|RBD_CCP malakas|JJD ang|DTC bansa|NNC .|PMP
+Ang|DTC mga|DTCP tao|NNC ay|LM nanirahan|VBTS nang|RBW masaya|JJD ,|PMC at|CCA nanumbalik|VBTS sa|CCT pagsasaka|NNC nang|CCB may|VBH kapayapaan|NNC .|PMP
+Subalit|CCT ,|PMC ang|DTC kapayapaan|NNC ay|LM hindi|RBF nagtagal|VBTS .|PMP
+Tinawag|VBOF ng|CCB emperor|NNC ng|CCB Dinastiyang|NNP_CCP Han|NNP ang|DTC pag|CCR -|PMS aalsa|NNC ng|CCB magkapatid|NNC na|CCP Trung|PRO_CCP bilang|CCT isang|PRI_CCP paghihimagsik|NNC ,|PMC kaya|CCR naghanda|VBTS siya|PRS ng|CCB malakihang|JJD_CCP rebolusyon|NNC .|PMP
+Nagpadala|VBTS siya|PRS ng|CCB malaking|JJD_CCP hukbo|NNC papunta|VBW sa|CCT Nambiet|NNP na|CCP pinamunuan|VBTS ni|DTP Heneral|NNP '|PMS Mavien|NNP '|PMS .|PMP
+Ito|PRO ay|LM isang|PRI_CCP makapangyarihang|JJD_CCP hukbo|NNC kung|RBK saan|RBQ ang|DTC bilang|NNC nito|PRO ay|LM malayo|JJD sa|CCT bilang|CCT ngpinagsamang|NNC_CCP hukbo|NNC ng|CCB Nambiet|NNP .|PMP
+Ang|DTC mga|DTCP tao|NNC ng|CCB Nambiet|NNP ay|LM matapang|RBD na|CCP nakipaglaban|VBTS ,|PMC ngunit|CCT hindi|RBF nila|PRP matalo|VBW ang|DTC Dinastiyang|NNP_CCP Han|NNP ,|PMC na|CCP may|VBH maraming|PRI_CCP bilang|NNC ng|CCB hukbo|NNC at|CCA may|VBH mas|JJCC mahusay|JJD na|CCP mga|DTCP sandata|NNC .|PMP
+Ang|DTC mga|DTCP tao|NNC ay|LM nagsimulang|VBTS_CCP humina|VBAF at|CCA sumuko|VBAF isa|PRI -|PMS isa|PRI .|PMP
+Napakaraming|PRI_CCP tao|NNC at|CCA sundalo|NNC ang|DTC napatay|VBTS .|PMP
+Napilitang|RBD_CCP umatras|VBAF sa|CCT digmaan|NNC ang|DTC magkapatid|NNC matapos|VBW ang|DTC malakas|JJD na|CCP pag|CCR -|PMS atake|NNC ng|CCB Dinastiyang|NNP_CCP Han|NNP .|PMP
+Pinangunahan|VBTS nila|PRP ang|DTC hukbo|NNC at|CCA nagtago|VBTS sa|CCT kakahuyan|NNC malayo|JJD sa|CCT Mering|NNP .|PMP
+Sa|CCT loob|NNC ng|CCB higit|JJCC isang|PRI_CCP taon|NNC ,|PMC patuloy|RBD na|CCP hinanap|VBOF ni|DTP MaVien|NNP ang|DTC magkapatid|NNC na|CCP Trung|PRO_CCP .|PMP
+Ang|DTC mga|DTCP tao|NNC ng|CCB Nambiet|NNP ay|LM patuloy|RBD na|CCP sinalakay|VBTS ng|CCB hukbo|NNC ng|CCB Dinastiyang|NNP_CCP Han|NNP at|CCA nagkamit|VBTS ng|CCB malaking|JJD_CCP pinsala|NNC .|PMP
+At|CCA ang|DTC mga|DTCP Rakjang|NNC_CCP na|CCP natalo|VBTS sa|CCT digmaan|NNC ay|LM bumalik|VBAF sa|CCT kani|NNC -|PMS kanilang|PRSP_CCP tahanan|NNC .|PMP
+Ibig|VBS sabihin|VBOF nito|PRO ay|LM sumuko|VBAF na|CCP sila|PRP sa|CCT digmaan|NNC .|PMP
+Hindi|RBF pa|RBI rin|RBI sumuko|VBAF ang|DTC magkapatid|NNC na|CCP Trung|PRO_CCP at|CCA patuloy|RBD na|CCP humarap|VBAF sa|CCT malalakas|JJD na|CCP hukbo|NNC ng|CCB kalaban|NNC .|PMP
+Bagamat|CCT kulang|JJD sa|CCT hukbo|NNC ,|PMC matapang|JJD pa|RBI rin|RBI silang|PRP_CCP nakipagdigmaan|VBTS sa|CCT kalaban|NNC .|PMP
+Subalit|CCT ang|DTC hukbo|NNC ng|CCB Dinastiyang|NNP_CCP Han|NNP ay|LM naging|VBTS mas|JJCC makapangyarihan|JJD ,|PMC at|CCA kinalaunan|RBW ay|LM bumagsak|VBAF at|CCA namatay|VBTS ang|DTC elepante|NNC ng|CCB magkapatid|NNC na|CCP Trung|PRO_CCP .|PMP
+Mabilis|RBD na|CCP nanghina|VBTS ang|DTC mga|DTCP sundalo|NNC ,|PMC at|CCA tuluyang|RBD_CCP natalo|VBTS sa|CCT digmaan|NNC ang|DTC magkapatid|NNC na|CCP Trung|PRO_CCP .|PMP
+Tumayo|VBAF ang|DTC magkapatid|NNC sa|CCT tabi|NNC ng|CCB ilog|NNC .|PMP "|PMS
+Ano|PRQ na|CCP ang|DTC gagawin|VBTF natin|PRP ?|PMQ
+Dumarami|PRI ang|DTC mga|DTCP taong|NNC_CCP nagsasakripisyo|VBTR .|PMP
+Wala|VBN na|CCP akong|PRS_CCP makitang|VBW_CCP paraan|NNC pa|RBI .|PMP "|PMS
+Sabi|VBS ni|DTP TrungNhi|NNP na|CCP umiiyak|VBTR_VBAF .|PMP "|PMS
+Huwag|RBF kang|PRS_CCP umiyak|VBAF .|PMP
+Wala|VBN na|CCP tayong|PRP_CCP magagawa|VBTF !|PMQ
+Kailangan|VBS lang|RBI nating|PRP_CCP huwagmagpahuli|VBTR sa|CCT kalaban|NNC .|PMP
+Huwag|RBF tayong|PRP_CCP pumayag|VBAF na|CCP maging|VBW alipin|NNC nila|PRP .|PMP "|PMS
+Sabi|VBS ni|DTP TrungTrac|NNP na|CCP hawak|JJD ang|DTC kamay|NNC ng|CCB kapatid|NNC .|PMP
+Tiningnan|VBOF ni|DTP TrungNhi|NNP ang|DTC kanyang|PRSP_CCP kapatid|NNC at|CCA tumango|VBAF .|PMP
+—|PMS —|CDB —|PMS —|PMS —|NNCA —|PMS —|NNCA —|PMS Naghawak|VBTS kamay|NNC nang|RBW mahigpit|JJD ang|DTC magkapatid|NNC at|CCA tumalon|VBAF sila|PRP sa|CCT ilog|NNC .|PMP
+Ito|PRO ang|DTC kanilang|PRSP_CCP malungkot|JJD na|CCP katapusan|NNC .|PMP
+Pagkatapos|RBW noon|RBW ,|PMC ang|DTC Vietnam|NNP ay|LM pinamunuan|VBTS ng|CCB Tsina|NNP sa|CCT mahabang|JJD_CCP panahon|NNC .|PMP
+Subalit|CCT ,|PMC para|CCT sa|CCT mga|DTCP Vietnamese|NNP ,|PMC ang|DTC magkapatid|NNC na|CCP Trung|PRO_CCP ay|LM parating|RBD_CCP nasa|RBL kanilang|PRSP_CCP puso|NNC .|PMP
+Ang|DTC magkapatid|NNC ay|LM naging|VBTS pambansang|JJD_CCP bayani|NNC ng|CCB mga|DTCP Vietnamese|NNP .|PMP
+Ipinakita|VBTS ng|CCB magkapatid|NNC ang|DTC kanilang|PRSP_CCP pagmamahal|NNC sa|CCT kanilang|PRSP_CCP bansa|NNC at|CCA ang|DTC lakas|NNC ng|CCB kababaihan|NNC sa|CCT pamamagitan|NNC ng|CCB kanilangmatapang|NNC na|CCP pamumuhay|NNC .|PMP
+Sa|CCT Ho|NNP Chi|NNP Minh|NNP City|NNP ,|PMC Vietnam|NNP ,|PMC mayroong|VBH_CCP isang|PRI_CCP kalye|NNC na|CCP tinatawag|VBTR na|CCP '|PMS Hai|NNP Bai|NNP Trung|NNP '|PMS bilang|CCT parangal|NNC sa|CCT magkapatid|NNC na|CCP babae|NNC .|PMP
+Kahit|CCT ngayon|RBW ,|PMC ang|DTC mga|DTCP bata|NNC sa|CCT Vietnam|NNP ay|LM lumalaki|VBTR_VBAF na|CCP ang|DTC kanilang|PRSP_CCP modelo|NNC ay|LM ang|DTC magkapatid|NNC na|CCP Trung|PRO_CCP .|PMP
+(|PMS 부티낌하|CDB )|PMS 글|PMS ||PMS 김다솔그림|CDB 저는베트남의아름다운바닷가도시하이퐁에서|PMS 태어났습니다|CDB .|PMP
+한국에서생활한지는5년이되었|CDB 으며|PMS ,|PMC 두딸의엄마입니다|CDB .|PMP
+현재는제꿈을이루기|FW 위해한국방송통신대학교에서유아교육학을공|FW 부하고있습니다|FW .|PMP
+어렸을때아버지께서는전래|CDB 동화를많이들려주셨습니다|NNC .|PMP
+저는그중|CDB '|PMS 하이바|PMS 쯩|NNCA '|PMS 이라는이야기를가장좋아했습니다|CDB .|PMP
+세딸을|PMS 둔아버지께서는이이야기를통해저희에게여|CDB 성의강인함은물론여자도남자처럼무엇이든잘할수있다고늘가르쳐주셨습니다|PMS .|PMP
+이번기회를|PMS 통하여베트남의자랑스러운민족영웅|CDB '|PMS 쯩자매|PMS 의전설|NNCA '|PMS 이야기를소개하고자합니다|CDB .|PMP
+제두딸뿐|PMS 만아니라더많은독자가이이야기를통해귀한|CDB 깨달음을얻기를바랍니다.지구별한가족|PMS 지금까지과학자들이온갖지식과지혜|CDB ,|PMC 첨단과|CDB 학기술로연구|PMS ,|PMC 조사탐색했지만|CDB '|PMS 지구|PMS '|PMS 처럼인간이살수있는별은우주에단하나|CDB 도없다고합니다|PMS .|PMP
+하지만인간은오늘도멈추거나포기하지않고지|CDB 구와같은생명의별을찾느라바쁩니다|NNC .|PMP
+그누구도|CDB ,|PMC 어떠한방법으로도셀수없을정도로|CDB 많은우주의별들|NNC .|PMP
+하지만사람이살수있는별은현재지구하나라니|CDB ,|PMC 놀라울뿐입니다|CDB .|PMP
+이사실은우리에게특별한감동이나깨달음을줍|CDB 니다|NNC .|PMP
+특히세계여러나라에서대한민국으로온여성들|CDB 과함께글작업을한나에게는감동이더큽니다|NNC .|PMP
+하나뿐인지구|CDB .|PMP
+그렇다면우리는어느나라사람|PMS 이건|CDB '|PMS 지구가족|CDB '|PMS 입니다|CDB .|PMP
+가족은서로믿어줘야하고|CDB ,|PMC 서로의지하며|CDB ,|PMC 서로|CDB 아껴줘야합니다|NNC .|PMP
+가족은먼저안아주고|CDB ,|PMC 먼저웃어주고|CDB ,|PMC 먼저베풀|CDB 어야합니다|NNC .|PMP
+가족은함께아파하고|CDB ,|PMC 함께고통을이겨내고|CDB ,|PMC 함|CDB 께걸어가야합니다|PMS .|PMP '|PMS
+다가치|PMS ,|PMC 다같이어린이책공모전|CDB '|PMS 을통해|CDB 멋진작품을쓴모든분들을존경합니다|PMS .|PMP
+왜냐하면참가자모두가육아|CDB ,|PMC 가정살림|CDB ,|PMC 집안어|CDB 르신모시기|NNPA ,|PMC 직장일|NNPA 등등으로너무너무힘든데도끝까지작품을완성|NNP 했으니까요|CDB .|PMP
+그것도아직서투른한국어로글쓰기를했으니참|CDB 힘들었을겁니다.그러나한번의글쓰기는말하기백번과는비교도|PMS 안될정도로놀라운힘을갖고있습니다|CDB .|PMP
+자기생각과마음을훨씬또렷하게표현하는힘|CDB .|PMP
+다른사람과더품위있게소통하는힘|CDB .|PMP
+내아이를좀더아름답게교육할수있는힘|CDB .|PMP
+이런힘을가지고있지요|CDB .|PMP
+앞으로도이사업이많은이주여성들|CDB ,|PMC 그가족들에게긍지와소망을주는사업으로굳세|CDB 게세워지길강권합니다|NNC .|PMP
+노경실작가이책은서울특별시와아시아재단이공동제작하|CDB 였으며|PMS ,|PMC 머니그램재단이후원하였습니다|CDB .|PMP

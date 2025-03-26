@@ -1,0 +1,15 @@
+Gusto|VBS ko|PRS ang|DTC tuwid|JJD na|CCP buhok|NNC .|PMP
+Gusto|VBS ko|PRS ng|CCB kulot|JJD na|CCP buhok|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC kulot|JJD na|CCP buntot|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC tuwid|JJD na|CCP mga|DTCP buntot|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC hagdang|NNC_CCP kumukulot|JJD pataas|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC tuwid|JJD na|CCP hagdanan|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC tuwid|JJD na|CCP daan|NNC paakyat|JJD ng|CCB burol|NNC .|PMP
+Gusto|VBS ko|PRS ang|DTC kulot|JJD na|CCP daan|NNC paikot|JJD sa|CCT burol|NNC .|PMP
+Gusto|VBS kong|PRS_CCP gumuhit|VBAF ng|CCB mga|DTCP tuwid|JJD na|CCP linya|NNC .|PMP
+Lagi|RBW akong|PRS_CCP gumuguhit|VBTR_VBAF ng|CCB kulot|NNC -|PMS kulot|JJD na|CCP linya|NNC .|PMP
+Gusto|VBS mo|PRS ba|RBI ng|CCB Chakli|NNP ?|PMQ
+Gustong|VBS_CCP -|PMS gusto|VBS ko|PRS ng|CCB Chakli|NNP !|PMS
+Unat|NNP ba|RBI o|CCT Kulot|NNP ?|PMQ
+Unat|NNP o|CCT kulot|NNC ,|PMC wala|VBN akong|PRS_CCP pakialam|NNC !|PMS
+Basta|CCT ang|DTC alam|VBS ko|PRS parehas|JJC naming|PRP_CCP gusto|VBS ng|CCB Chaklis|NNP !|PMS

@@ -1,0 +1,31 @@
+Sa|CCT isang|PRI_CCP maliit|JJD na|CCP nayon|NNC ,|PMC nakatira|VBTS ang|DTC isang|PRI_CCP langgam|NNC na|CCP ang|DTC pangalan|NNC ay|LM Toutou|NNP .|PMP
+Pinapanood|VBTR ni|DTP Toutou|NNP ang|DTC kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC na|CCP naglalaro|VBTR sa|CCT labas|NNC .|PMP
+Masaya|NNP sila|PRP ,|PMC ngunit|CCT may|VBH ibang|PRI_CCP pangarap|NNC si|DTP Toutou|NNP .|PMP
+Gusto|VBS niyang|PRS_CCP manirahan|VBW sa|CCT lungsod|NNC !|PMS
+Sa|CCT wakas|RBW ,|PMC nagdesisyon|VBTS siyang|PRS_CCP ito|PRO na|CCP ang|DTC tamang|JJD_CCP panahon|NNC !|PMS
+Kumakanta|VBTR_VBAF si|DTP Toutou|NNP habang|RBW naglalakad|VBTR sa|CCT magandang|JJD_CCP tanawin|NNC sa|CCT kanilang|PRSP_CCP nayon|NNC .|PMP
+Sa|CCT wakas|RBW ,|PMC nakita|VBTS na|RBI niya|PRS ang|DTC matataas|JJD na|CCP mga|DTCP gusali|NNC sa|CCT lungsod|NNC .|PMP "|PMS
+Yehey|NNP !|PMS
+Malapit|JJD na|CCP ako|PRS !|PMS "|PMS
+sigaw|NNC nya|PRS .|PMP
+Habang|RBW pumapasok|VBTR_VBAF na|CCP siya|PRS sa|CCT lungsod|NNC ,|PMC nagsimula|VBTS siyang|PRS_CCP tumawid|VBAF sa|CCT kalsada|NNC .|PMP
+Beep|NNP !|PMS
+Nabigla|VBTS si|DTP Toutou|NNP ,|PMC muntik|RBD na|CCP siyang|PRS_CCP masagasaan|VBW ng|CCB kotse|NNC !|PMS "|PMS
+Ano|PRQ yun|PRO ?|PMQ "|PMS
+sigaw|NNC ni|DTP Toutou|NNP na|CCP tila|RBM gulat|JJD na|CCP gulat|NNC .|PMP
+Pagkatapos|VBW makailag|VBW sa|CCT kotse|NNC ,|PMC may|VBH nakita|VBTS naman|RBI siyang|PRS_CCP higanteng|JJD_CCP gulong|NNC na|CCP papalapit|JJD sa|CCT kaniya|PRSP !|PMQ
+Mabilis|RBD siyang|PRS_CCP humakbang|VBAF ng|CCB isang|PRI_CCP napakalaki|JJCS_JJD ,|PMC halos|JJD hindi|RBF nakaligtas|VBTS si|DTP Toutou|NNP .|PMP "|PMS
+Parang|CCT lahat|PRI sila|PRP ay|LM gusto|VBS akong|PRS_CCP pisain|VBOF .|PMP
+Parang|CCT hindi|RBF ko|PRS na|CCP gusto|VBS ang|DTC lungsod|NNC .|PMP "|PMS "|PMS
+Ngunit|CCT ,|PMC ano|PRQ kaya|CCR iyong|PRSP_CCP naaamoy|VBTR kong|PRS_CCP masarap|JJD ?|PMQ "|PMS
+Habang|RBW sinusundan|VBTR ni|DTP Toutou|NNP ang|DTC amoy|NNC ,|PMC may|VBH muntik|RBD nang|RBD makatapak|VBW sa|CCT kaniya|PRSP .|PMP "|PMS
+Hala|NNP !|PMS
+Meron|VBH pang|RBI_CCP gustong|VBS_CCP pumisa|VBAF sa|CCT akin|PRSP !|PMS "|PMS
+Sa|CCT pagkakataong|NNC_CCP ito|PRO ,|PMC kumapit|VBAF si|DTP Toutou|NNP sa|CCT sapatos|NNC hanggang|RBW makalapit|VBW siya|PRS sa|CCT masarap|JJD na|CCP amoy|NNC at|CCA saka|CCA siya|PRS tumalon|VBAF .|PMP "|PMS
+Hmmm|NNP .|PMP
+Ang|DTC sarap|NNC nito|PRO .|PMP
+Ngunit|CCT sulit|NNC ba|RBI ito|PRO ?|PMQ
+Tatlong|JJN_CCP beses|NNC akong|PRS_CCP muntik|RBD mapisa|VBW !|PMQ
+Nagpasya|VBTS si|DTP Toutou|NNP na|CCP hindi|RBF siya|PRS magiging|VBTF masaya|JJD sa|CCT lungsod|NNC pagkatapos|VBW ng|CCB lahat|PRI ng|CCB nangyari|VBTS .|PMP
+Oras|NNP na|CCP para|CCT umuwi|VBAF .|PMP
+Ngayon|RBW ay|LM mas|JJCC papahalagahan|VBTF na|CCP niya|PRS ang|DTC ganda|NNC ng|CCB nayon|NNC at|CCA ang|DTC paghahanap|NNC ng|CCB makakain|VBW na|CCP hindi|RBF siya|PRS mapipisa|VBW .|PMP

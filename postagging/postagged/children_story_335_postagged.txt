@@ -1,0 +1,7 @@
+Ang|DTC paruparo|NNC ay|LM mas|JJCC maliit|JJD kaysa|JJC salagubang|NNC .|PMP
+Ang|DTC salagubang|JJD_CCP ay|LM mas|JJCC maliit|JJD kaysa|JJC lágsing|FW .|PMP
+Ang|DTC lágsing|FW ay|LM mas|JJCC maliit|JJD kaysa|JJC loro|FW .|PMP
+Ang|DTC loro|FW ay|LM mas|JJCC maliit|JJD kaysa|JJC kuwágo|NNC .|PMP
+Kaláw|NNP ang|DTC pinakamalaki|JJCS_JJD .|PMP
+Paruparó|NNP ang|DTC pinakamaliit|JJCS_JJD .|PMP
+Lahat|PRI sila|PRP ay|LM nakalilipad|VBTR .|PMP

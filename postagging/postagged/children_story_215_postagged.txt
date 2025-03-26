@@ -1,0 +1,18 @@
+Ang|DTC ibon|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC loro|FW ay|LM nakalilipad|VBTR .|PMP
+Ang|DTC kabayo|NNC ay|LM hindi|RBF nakalilipad|VBTR .|PMP
+Ang|DTC langaw|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC kuliglig|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC butiki|NNC ay|LM hindi|RBF nakalilipad|VBTR .|PMP
+Ang|DTC kuwago|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC pagala|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC unggoy|NNC ay|LM hindi|RBF nakalilipad|VBTR .|PMP
+Ang|DTC tagak|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC kalaw|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC leon|NNC ay|LM hindi|RBF nakalilipad|VBTR .|PMP
+Ang|DTC kayumangging|JJD_CCP kuwago|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC lamok|NNC ay|LM nakalilipad|VBTS .|PMP
+Ang|DTC tupa|NNC ay|LM hindi|RBF nakalilipad|VBTR .|PMP
+Balang|NNP_CCP araw|NNC tayo|PRP ay|LM lilipad|VBTF .|PMP
+Gusto|VBS ko|PRS ring|RBI_CCP lumipad|VBAF .|PMP
+Signer|NNP :|PMS Garima|NNP Bhattarai|NNP .|PMP

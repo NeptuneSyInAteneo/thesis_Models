@@ -1,0 +1,81 @@
+Mula|RBW pa|RBI nang|RBW madaling|RBD_CCP araw|NNC ay|LM pabalik|RBD -|PMS balik|NNC na|CCP nagtungo|VBTS si|DTP Raymie|NNP mula|RBL sa|CCT silangan|JJD ng|CCB lawa|NNC patungo|RBL sa|CCT kanluran|JJD .|PMP
+Ang|DTC iniisip|VBTR lang|RBI niya|PRS ay|LM makahanap|VBW ng|CCB paraan|NNC upang|CCB makipag|VBW -|PMS usap|NNC sa|CCT aerospotics|FW .|PMP
+Ang|DTC aerospotics|FW ay|LM may|VBH tirahan|NNC malapit|JJD sa|CCT Sistema|NNP Solar|NNP .|PMP
+Sinabi|VBTS nila|PRP sa|CCT kaniya|PRSP na|CCP mayroon|VBH silang|PRP_CCP solusyon|NNC sa|CCT kaniyang|PRSP_CCP problema|NNC .|PMP
+Sinabi|VBTS nilang|PRP_CCP maaari|VBS niyang|PRS_CCP marating|VBW ang|DTC kanilang|PRSP_CCP buwan|NNC ;|PMSC ang|DTC Bulang|NNC_CCP buwan|NNC ,|PMC sa|CCT pamamagitan|NNC ng|CCB lagusan|NNC .|PMP
+Ngunit|CCT saan|PRQ niya|PRS matagpuan|VBW ang|DTC lagusan|NNC ?|PMQ
+Habang|RBW hinahanap|VBTR niya|PRS ang|DTC lagusan|NNC ,|PMC dumaan|VBAF si|DTP Raymie|NNP sa|CCT ilang|PRQ_CCP mga|DTCP halamang|NNC_CCP may|VBH ulong|NNC_CCP palasong|JJD_CCP lila|NNC .|PMP
+Nang|RBW galawin|VBOF niya|PRS ang|DTC mga|DTCP ito|PRO . . .|NNPA . . .|NNPA nadulas|VBTS siya|PRS at|CCA bumagsak|VBAF sa|CCT isang|PRI_CCP mauod|JJD na|CCP kumunoy|NNC .|PMP
+Nang|RBW lumabas|VBAF siya|PRS sa|CCT butas|NNC mula|RBL sa|CCT kabilang|JJD_CCP dulo|NNC ,|PMC nalaman|VBTS niyang|PRS_CCP nahulog|VBTS siya|PRS sa|CCT isang|PRI_CCP magaspang|JJD na|CCP mabuhanging|JJD_CCP lapag|NNC na|CCP gumasgas|VBTR_VBAF sa|CCT kaniyang|PRSP_CCP tuhod|NNC .|PMP
+Isang|JJN_CCP milyong|NNC_CCP mga|DTCP mata|NNC ang|DTC sumilip|VBAF sa|CCT kanya|PRSP upang|CCB tingnan|VBOF mula|RBW sa|CCT mga|DTCP palumpong|NNC na|CCP puno|NNC .|PMP
+Isa|PRI sa|CCT mga|DTCP nilalang|NNC ang|DTC lumapit|VBAF sa|CCT kaniya|PRSP at|CCA sinabi|VBTS ,|PMC "|PMS Di|RBF Di|JJCN iaka|FW buaz|FW creamo|FW ?|FW "|PMS
+Isinalin|VBOF ng|CCB awtomatikong|JJD_CCP tagasalin|NNC sa|CCT kaniyang|PRSP_CCP pulso|NNC ,|PMC "|PMS Sino|PRQ ka|PRS at|CCA sino|PRQ ang|DTC kailangan|VBS mo|PRS ?|PMQ "|PMS
+Sinabi|VBTS ni|DTP Raymie|NNP ,|PMC "|PMS Ako|PRS ang|DTC prinsesa|NNC ng|CCB Siyudad|NNP ng|CCB Usok|NNP .|PMP
+Puno|JJD ng|CCB karbon|NNC dioksido|NNC ang|DTC aming|PRSP_CCP kapaligiran|NNC .|PMP
+Inuubo|NNP ang|DTC mga|DTCP tao|NNC araw|RBW at|CCA gabi|RBW .|PMP
+Hindi|RBF kailanman|RBW tumitigil|VBTR_VBAF ang|DTC mga|DTCP sirena|NNC at|CCA narinig|VBTS naming|PRP_CCP mayroon|VBH kayong|JJD_CCP solusyon|NNC sa|CCT aming|PRSP_CCP problema|NNC .|PMP "|PMS
+Sinabi|VBTS ng|CCB nilalang|NNC ,|PMC "|PMS Ako|PRS si|DTP Mabula|NNP ,|PMC pinuno|NNC ng|CCB Bulang|NNC_CCP buwan|NNC .|PMP
+Bilang|CCT katunayan|NNC ,|PMC sinadya|VBOF ko|PRS ring|RBI_CCP dumaan|VBAF sa|CCT mauod|JJD na|CCP kumunoy|NNC ,|PMC upang|CCB dalawin|VBOF ang|DTC iyong|PRSP_CCP siyudad|NNC at|CCA akuin|VBOF ang|DTC solusyon|NNC sa|CCT iyong|PRSP_CCP problema|NNC .|PMP "|PMS "|PMS
+Bibigyan|VBTF kita|NNC ng|CCB mga|DTCP mahiwagang|JJD_CCP buto|NNC .|PMP .|PMP
+Lilinisin|VBTF ng|CCB mga|DTCP ito|PRO ang|DTC inyong|PRSP_CCP hangin|NNC .|PMP
+Tutubo|NNP ang|DTC mga|DTCP buto|NNC kung|CCR diniligan|VBTR .|PMP "|PMS
+At|CCA lumingon|VBAF ng|CCB tatlong|JJN_CCP beses|NNC at|CCA sinabi|VBTS ,|PMC "|PMS Tutubo|VBOF ang|DTC mga|DTCP puno|NNC at|CCA uubusin|VBTF_VBOF ang|DTC mga|DTCP karbon|NNC dioksido|NNC .|PMP
+Ang|DTC gagawin|VBTF ninyo|PRP lang|RBI ay|LM bigyan|VBOF kami|PRP ng|CCB karbon|NNC na|CCP kakainin|VBTF ng|CCB mga|DTCP puno|JJD sa|CCT pamamagitan|NNC ng|CCB butas|NNC na|CCP ito|PRO papunta|VBW sa|CCT aming|PRSP_CCP buwan|NNC .|PMP
+Wala|VBN kaming|PRP_CCP sapat|JJD na|CCP karbon|NNC dioksido|NNC upang|CCB langhapin|VBOF at|CCA ito|PRO ay|LM banta|NNC sa|CCT aming|PRSP_CCP mga|DTCP buhay|NNC .|PMP "|PMS
+Masayang|JJD_CCP -|PMS masaya|JJD si|DTP Raymie|NNP ngunit|CCT sabi|VBS ni|DTP Mabula|NNP ,|PMC "|PMS Ngunit|CCT hindi|RBF sapat|JJD ang|DTC mga|DTCP butong|NNC_CCP nasa|RBL akin|PRSP upang|CCB linisin|VBOF ang|DTC inyong|PRSP_CCP hangin|NNC .|PMP
+Kailangan|VBS ninyong|NNC_CCP bawasan|VBOF ang|DTC anumang|PRI_CCP bagay|NNC na|CCP magbubuga|VBW ng|CCB karbon|NNC dioksido|NNC sa|CCT inyong|PRSP_CCP siyudad|NNC .|PMP
+Kinuha|VBOF ni|DTP Raymie|NNP ang|DTC mga|DTCP buto|NNC at|CCA nagmamadaling|RBD_CCP nagtungo|VBTS sa|CCT mauod|JJD na|CCP kumunoy|NNC .|PMP
+Marami|PRI siyang|PRS_CCP kailangang|VBS_CCP gawin|VBOF !|PMQ
+Nang|RBW makarating|VBW siya|PRS ,|PMC tinawag|VBTS niya|PRS ang|DTC lahat|PRI para|CCT sa|CCT isang|PRI_CCP agarang|JJD_CCP pulong|NNC sa|CCT dakilang|JJD_CCP bakuran|NNC .|PMP
+Lahat|PRI sa|CCT Siyudad|NNP ng|CCB Usok|NNP ay|LM dumating|VBAF .|PMP
+Tumingin|VBAF sila|PRP sa|CCT paligid|NNC habang|RBW nag|VBTS -|PMS iisip|VBTF kung|RBK ano|RBQ ang|DTC mangyayari|VBTF .|PMP
+Sinabi|VBTS ni|DTP Raymie|NNP ,|PMC "|PMS May|VBH plano|NNC akong|PRS_CCP linisin|VBOF ang|DTC ating|PRSP_CCP hangin|NNC .|PMP
+Kailangan|VBS ng|CCB matigil|VBW ang|DTC mga|DTCP pag|CCR -|PMS ubo|NNC .|PMP
+Sinalungat|VBTS siya|PRS ng|CCB lahat|PRI at|CCA sinabi|VBTS ni|DTP G.|NNPA Noam|NNP ,|PMC "|PMS Imposible|JJD ito|PRO ,|PMC ganito|PRC na|CCP tayo|PRP ng|CCB ilang|PRQ_CCP taon|NNC .|PMP "|PMS
+Tumango|NNP ang|DTC lahat|PRI sa|CCT pagsang|NNC -|PMS ayon|RBR sa|CCT opinyon|NNC ni|DTP G.|NNPA Noam|NNP .|PMP
+Sinabi|VBTS ni|DTP Raymie|NNP ,|PMC "|PMS Kung|CCR tayo|PRP ay|LM sama|CCB -|PMS sama|NNC ,|PMC magagawan|VBTF natin|PRP ng|CCB paraan|NNC ito|PRO .|PMP
+Pangako|NNP ko|PRS magiging|VBTF maayos|JJD ang|DTC lahat|PRI ,|PMC "|PMS Ibinigay|VBTS ni|DTP Raymie|NNP ang|DTC mga|DTCP buto|NNC sa|CCT mga|DTCP bata|NNC .|PMP
+Nagmadali|VBTS silang|PRP_CCP sa|CCT lahat|PRI na|CCP tumungo|VBAF sa|CCT mga|DTCP lawa|NNC at|CCA balong|NNC malapit|JJD sa|CCT kanilang|PRSP_CCP tahanan|NNC at|CCA inilagay|VBOF ang|DTC mga|DTCP buto|NNC dito|PRL .|PMP
+Nainis|VBTS ang|DTC mga|DTCP matatanda|NNC .|PMP
+Inulit|VBTS nila|PRP ,|PMC "|PMS Mga|DTCP puno|NNC sa|CCT tabi|NNC ng|CCB mga|DTCP bahay|NNC ,|PMC bakuran|NNC at|CCA sa|CCT ibabaw|NNC ng|CCB ating|PRSP_CCP mga|DTCP gusali|NNC !|PMS
+Hindi|RBF maaari|VBS !|PMQ
+Hindi|RBF tayo|PRP nasanay|VBTS sa|CCT ganyan|NNC .|PMP "|PMS
+Sinabi|VBTS ni|DTP Raymie|NNP ,|PMC "|PMS Ngunit|CCT ang|DTC pagbabagong|NNC_CCP ito|PRO ay|LM para|CCT sa|CCT ating|PRSP_CCP ikabubuti|NNC .|PMP "|PMS
+Iniayos|VBTS at|CCA inutusan|VBOF ni|DTP Raymie|NNP ang|DTC mga|DTCP robot|NNC upang|CCB alisin|VBOF ang|DTC mga|DTCP pabrika|NNC at|CCA ilipat|VBOF sa|CCT malalayong|JJD_CCP lugar|NNC .|PMP
+Hinakot|VBOF ng|CCB mga|DTCP robot|NNC ang|DTC mga|DTCP ito|PRO ng|CCB malalaking|JJD_CCP trak|NNC .|PMP
+Tumutol|VBAF ang|DTC mga|DTCP may|VBH -|PMS ari|NNC ng|CCB pabrika|NNC at|CCA sinabi|VBTS ,|PMC "|PMS Bakit|PRQ kailangan|VBS naming|PRP_CCP magdagdag|VBW ng|CCB oras|NNC at|CCA maging|VBW masikap|JJD upang|CCB pumunta|VBAF sa|CCT aming|PRSP_CCP mga|DTCP pabrika|NNC ,|PMC Hindi|RBF kami|PRP nasanay|VBTS dito|PRL .|PMP "|PMS
+Sinabi|VBTS ni|DTP Raymie|NNP ,|PMC "|PMS Ngunit|CCT ito|PRO '|PMS y|FW para|CCT sa|CCT ating|PRSP_CCP ikabubuti|NNC .|PMP "|PMS
+At|CCA gumamit|VBAF si|DTP Raymie|NNP ng|CCB mga|DTCP sasakyang|NNC_CCP de-kuryente|JJD sa|CCT halip|CCT na|CCP mga|DTCP sasakyang|NNC_CCP gumagamit|VBTR_VBAF ng|CCB gasolina|NNC .|PMP
+Sinabi|VBTS ng|CCB mga|DTCP may|VBH -|PMS ari|NNC ng|CCB sasakyan|NNC ,|PMC "|PMS Hay|FW naku|FW !|PMS
+Masyadong|JJCS_CCP mabagal|JJD ang|DTC mga|DTCP sasakyang|NNC_CCP de-kuryente|JJD .|PMP
+Hindi|RBF tayo|PRP sanay|JJD dito|PRL .|PMP
+Hindi|RBF tayo|PRP kumportable|JJD sa|CCT mga|DTCP ganitong|PRC_CCP pagbabago|NNC .|PMP "|PMS
+Sinabi|VBTS ni|DTP Raymie|NNP ,|PMC "|PMS Ngunit|CCT ito|PRO '|PMS y|FW para|CCT sa|CCT ating|PRSP_CCP ikabubuti|NNC .|PMP "|PMS
+Ang|DTC paglipat|NNC sa|CCT mga|DTCP pabrika|NNC sa|CCT mga|DTCP malalayong|JJD_CCP lugar|NNC at|CCA paggamit|NNC ng|CCB mga|DTCP sasakyang|NNC_CCP de-kuryente|JJD ay|LM nagpababa|VBTS ng|CCB carbon|FW dioxide|FW sa|CCT siyudad|NNC .|PMP
+Hindi|RBF pa|RBI rin|RBI ito|PRO sapat|JJD upang|CCB magkaroon|VBW ng|CCB malinis|JJD na|CCP hangin|NNC .|PMP
+Umuugong|VBTR_VBAF pa|RBI rin|RBI ang|DTC mga|DTCP sirena|NNC sa|CCT palibot|JJD ng|CCB siyudad|NNC at|CCA marami|PRI pa|RBI rin|RBI ang|DTC inuubo|NNC .|PMP
+Kailangang|VBS_CCP lumaki|VBAF agad|RBW ang|DTC mga|DTCP puno|NNC upang|CCB higupin|VBOF ang|DTC mataas|JJD na|CCP bahagi|NNC ng|CCB carbon|FW dioksido|FW sa|CCT hangin|NNC .|PMP
+Pero|CCT bakit|PRQ hindi|RBF pa|RBI lumalaki|VBTR_VBAF ang|DTC mga|DTCP puno|NNC ?|PMQ
+Hinintay|VBOF ng|CCB lahat|PRI sa|CCT Siyudad|NNP ng|CCB Usok|NNP na|CCP ang|DTC mga|DTCP puno|NNC ay|LM lumaki|VBAF .|PMP
+Nais|VBS nilang|PRP_CCP lumanghap|VBAF ng|CCB preskong|JJD_CCP hangin|NNC .|PMP "|PMS
+Bulok|NNP ba|RBI ang|DTC mga|DTCP buto|NNC ?|PMQ
+Niloko|NNP ba|FW ako|PRS ng|CCB mga|DTCP aerospotics|FW ?|FW "|PMS
+naisip|VBTS ni|DTP Raymie|NNP .|PMP
+Nang|RBW biglang|RBD_CCP . . .|NNPA . . .|NNPA bahagya|RBD nang|RBD marinig|VBW ang|DTC mga|DTCP sirena|NNC sa|CCT mga|DTCP kalsada|NNC .|PMP
+Hindi|RBF sanay|JJD si|DTP Raymie|NNP sa|CCT pagbabagong|NNC_CCP ito|PRO .|PMP
+Nanginig|VBTR siya|PRS nang|RBW sinabi|VBTS ,|PMC "|PMS Hindi|RBF ko|PRS na|CCP marinig|VBW ang|DTC mga|DTCP sirena|NNC ,|PMC hindi|RBF ako|PRS sanay|JJD sa|CCT pagbabagong|NNC_CCP ito|PRO .|PMP "|PMS
+At|CCA sinabi|VBTS ng|CCB lahat|PRI ng|CCB mga|DTCP nasa|RBL Siyudad|NNP ng|CCB Usok|NNP ,|PMC "|PMS Bahagya|JJD na|CCP nating|PRP_CCP marinig|VBW ang|DTC mga|DTCP sirena|NNC .|PMP
+Benepisyo|NNP natin|PRP ito|PRO .|PMP
+Ibig|VBS sabihin|VBOF nito|PRO na|CCP ang|DTC antas|NNC ng|CCB karbon|NNC dioksido|NNC ay|LM bumaba|VBAF .|PMP
+Naging|VBTS :|PMS na|CCP lang|RBI .|PMP
+Ngayon|RBW tumataas|VBTR_VBAF na|CCP muli|RBW ang|DTC antas|NNC ng|CCB oksiheno|NNC hanggang|RBW porsiyento|NNC .|PMP
+Lumaki|VBAF ang|DTC mga|DTCP puno|NNC at|CCA kinain|VBOF ang|DTC karbon|NNC dioksido|NNC at|CCA naglabas|VBTS ng|CCB oksiheno|NNC ...|PMS Yey|NNP !!!|PMS
+Nawala|VBTS ang|DTC usok|NNC at|CCA naging|VBTS malinaw|JJD at|CCA malinis|JJD ang|DTC hangin|NNC .|PMP
+Makikita|VBTF na|RBI sa|CCT wakas|RBW ang|DTC takipsilim|NNC sa|CCT kalangitan|NNC .|PMP
+At|CCA tumigil|VBAF nang|RBD lubusan|RBD ang|DTC mga|DTCP sirena|NNC .|PMP
+Nasanay|VBTS si|DTP Raymie|NNP sa|CCT pagbabago|NNC .|PMP
+Ang|DTC totoo|RBT ,|PMC napakasaya|JJCS_JJD niya|PRS sa|CCT nangyaring|VBTS_CCP pagbabago|NNC .|PMP
+Natupad|VBTS niya|PRS ang|DTC kanyang|PRSP_CCP pangako|NNC sa|CCT mga|DTCP aerospotics|FW .|PMP
+Tumigil|VBAF din|RBI ang|DTC mga|DTCP sirena|NNC sa|CCT pag|CCR -|PMS ugong|NNC sa|CCT Bulang|NNC_CCP buwan|NNC .|PMP
+Tumaas|VBAF ang|DTC karbon|NNC dioksido|NNC at|CCA naging|VBTS sadyang|RBD_CCP mabuti|RBD ang|DTC lahat|PRI .|PMP
+ANG|NNPA WAKAS|NNPA

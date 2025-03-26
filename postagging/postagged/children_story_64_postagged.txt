@@ -1,48 +1,48 @@
-Lumingon|NNP si|DTP araw|NNC sa|CCT malayong|JJD_CCP kalawakan|NNC .|PMP "|PMS
-Isa|PRI ba|RBI sa|CCT aking|PRSP_CCP mga|DTCP planeta|NNC ang|DTC nawawala|VBTR ?|PMQ "|PMS
-Sinabihan|VBOF niya|PRS ang|DTC mga|DTCP planeta|NNC na|CCP pumila|VBAF ,|PMC isinuot|VBTS niya|PRS ng|CCB kaniyang|PRSP_CCP salamin|NNC at|CCA nagbilang|VBTS .|PMP "|PMS
-Naku|NNP hindi|RBF !|PMS "|PMS
-sigaw|NNC niya|PRS .|PMP "|PMS
-Saan|PRQ napunta|VBTS ang|DTC maliit|JJD na|CCP Pluto|NNP ?|PMQ "|PMS
-Nilapitan|VBTS niya|PRS si|DTP Mercury|NNP gamit|VBS ang|DTC isa|PRI sa|CCT kaniyang|PRSP_CCP mga|DTCP sinag|NNC .|PMP "|PMS
-Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
-Kumamot|NNP lang|RBI si|DTP Mercury|NNP sa|CCT isa|PRI mga|DTCP hukay|NNC sa|CCT kaniyang|PRSP_CCP bumbunan|VBAF .|PMP "|PMS
-Ang|DTC munting|JJD_CCP bughaw|NNC na|CCP si|DTP Pluto|NNP ?|PMQ
-Hindi|RBF ko|PRS po|RBS siya|PRS nakita|VBTS ,|PMC saan|PRQ kaya|CCR siya|PRS nagpunta|VBTS ?|PMQ
-sagot|NNC ni|DTP Mercury|NNP .|PMP
-Napatingin|VBTS si|DTP Mercury|NNP kay|DTP Venus|NNP at|CCA nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD siya|PRS ?|PMQ "|PMS "|PMS
-Paano|PRQ ko|PRS malalaman|VBTF kung|RBK saan|RBQ nagpunta|VBTS ang|DTC nagyeyelong|VBTR_CCP munting|JJD_CCP Pluto|NNP na|CCP '|PMS yon|PRO ?|PMQ
-sagot|NNC ni|DTP Venus|NNP ,|PMC habang|RBW sumasabog|VBTR_VBAF ang|DTC ilan|PRQ sa|CCT kaniyang|PRSP_CCP mga|DTCP bulkan|NNC .|PMP
-Lumapit|VBAF sina|DTPP Mercury|NNP at|CCA Venus|NNP papunta|VBW kay|DTP Earth|NNP at|CCA sabay|RBD na|CCP nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
-Ang|DTC mga|DTCP alon|NNC sa|CCT karagatan|NNC ay|LM nagtaasan|VBTS sa|CCT ibabaw|NNC ng|CCB mundo|NNC ng|CCB Earth|NNP .|PMP "|PMS
-Si|DTP Pluto|NNP na|CCP may|VBH kakaibang|JJD_CCP paraan|NNC ng|CCB pag|CCR -|PMS ikot|NNC ?|PMQ
-tanong|NNC niya|PRS .|PMP "|PMS
-Hindi|RBF ko|PRS masabing|VBW_CCP nakita|VBTS ko|PRS siya|PRS .|PMP "|PMS
-Sina|DTPP Mercury|NNP ,|PMC Venus|NNP ,|PMC at|CCA Earth|NNP ay|LM nagpunta|VBTS kay|DTP Mars|NNP at|CCA nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
-Namula|VBTS nang|RBW husto|JJD si|DTP Mars|NNP ,|PMC at|CCA nahihiyang|RBD_CCP sumagot|VBAF ,|PMC "|PMS Si|DTP Pluto|NNP ay|LM nakatira|VBTS sa|CCT lugar|NNC ng|CCB Kuiper|NNP ,|PMC hindi|RBF ba|RBI ?|PMQ
-Hindi|RBF ko|PRS siya|PRS nakikita|VBTR doon|PRL nitong|PRO_CCP mga|DTCP huling|JJD_CCP araw|NNC .|PMP "|PMS
-Kaya|CCR '|PMS t|NNCA pumunta|VBAF sina|DTPP Mercury|NNP ,|PMC Venus|NNP ,|PMC Earth|NNP ,|PMC at|CCA Mars|NNP kay|DTP Jupiter|NNP at|CCA nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
-Mabilis|RBD na|CCP nagpaikot|VBTS -|PMS ikot|NNC si|DTP Jupiter|NNP ,|PMC hinanap|VBTS kahit|CCT saan|PRQ si|DTP Pluto|NNP .|PMP "|PMS
-Napakabagal|JJCS_JJD ng|CCB pag|CCR -|PMS ikot|NNC ni|DTP Pluto|NNP ,|PMC hindi|RBF ko|PRS siya|PRS napapansin|VBTR nitong|PRO_CCP mga|DTCP nakaraan|JJD .|PMP "|PMS
-Kaya|CCR '|PMS t|NNCA nagpunta|VBTS sina|DTPP Mercury|NNP ,|PMC Venus|NNP ,|PMC Earth|NNP ,|PMC Mars|NNP ,|PMC at|CCA Jupiter|NNP kay|DTP Saturn|NNP at|CCA nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
-Nagpaikot|NNP -|PMS ikot|NNC si|DTP Saturn|NNP sa|CCT loob|NNC ng|CCB kaniyang|PRSP_CCP bilog|NNC bago|RBW sumagot|VBAF ,|PMC "|PMS Ah|RBJ ,|PMC kawawang|NNC_CCP Pluto|NNP na|CCP may|VBH pinakamahinang|JJCS_JJD_CCP grabidad|NNC sa|CCT lahat|PRI .|PMP
-Hindi|RBF ko|PRS siya|PRS nakita|VBTS kung|CCR nasaan|JJD .|PMP "|PMS
-Kaya|CCR '|PMS t|NNCA nagpunta|VBTS sina|DTPP Mercury|NNP ,|PMC Venus|NNP ,|PMC Earth|NNP ,|PMC Mars|NNP ,|PMC Jupiter|NNP ,|PMC at|CCA Saturn|NNP kay|DTP Uranus|NNP at|CCA nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ "|PMS
-Si|DTP Uranus|NNP ,|PMC na|CCP tila|RBM antok|NNC na|CCP antok|NNC na|CCP at|CCA gusto|VBS ng|CCB matulog|VBW ,|PMC ay|LM nag|VBTS -|PMS unat|FW at|CCA humikab|NNC ,|PMC at|CCA saka|CCA sumagot|VBAF ,|PMC "|PMS Hindi|RBF ,|PMC ngunit|CCT gusto|VBS ko|PRS sana|VBS na|CCP narito|PRL siya|PRS ,|PMC upang|CCB mabilang|VBW ko|PRS ang|DTC kaniyang|PRSP_CCP limang|JJN_CCP mga|DTCP buwan|NNC para|CCT makatulog|VBW na|CCP ako|PRS .|PMP "|PMS
-Kaya|CCR '|PMS t|NNCA nagpunta|VBTS sina|DTPP Mercury|NNP ,|PMC Venus|NNP ,|PMC Earth|NNP ,|PMC Mars|NNP ,|PMC Jupiter|NNP ,|PMC Saturn|NNP ,|PMC at|CCA Uranus|NNP kay|DTP Neptune|NNP na|CCP ginaw|NNC na|CCP ginaw|NNC at|CCA nagtanong|VBTS ,|PMC "|PMS Nakita|VBTS mo|PRS ba|RBI si|DTP Pluto|NNP kung|CCR nasaan|JJD ?|PMQ
-Siya|PRS ang|DTC iyong|PRSP_CCP pinakamalapit|JJCS_JJD na|CCP kapitbahay|NNC .|PMP
-Siguradong|RBT_CCP alam|VBS mo|PRS kung|RBK saan|RBQ siya|PRS naroon!Nagpagpag|VBTS muna|RBI ng|CCB ilang|PRQ_CCP niyebe|NNC si|DTP Neptune|NNP at|CCA sumagot|VBAF ,|PMC Nakita|VBTS ko|PRS siyang|PRS_CCP nagbabalot|VBTR ng|CCB kaniyang|PRSP_CCP mga|DTCP gamit|NNC .|PMP
-Mukha|RBD siyang|PRS_CCP matamlay|JJD at|CCA malungkot|JJD .|PMP
-Ngunit|CCT ayaw|VBS niyang|PRS_CCP sabihin|VBOF kung|RBK saan|RBQ siya|PRS pupunta|VBTF o|CCT kaya|CCR '|PMS y|FW bakit|PRQ siya|PRS aalis|VBTF .|PMP "|PMS
-At|CCA biglang|RBD_CCP may|VBH narinig|VBTS ang|DTC mga|DTCP planeta|NNC na|CCP may|VBH umiiyak|VBTR_VBAF sa|CCT hindi|RBF kalayuan|NNC .|PMP
-Nagmamadali|VBTS silang|PRP_CCP lumapit|VBAF upang|CCB malaman|VBW kung|RBK ano|RBQ ang|DTC nangyayari|VBTR .|PMP
-Nakaupo|VBTS si|DTP Pluto|NNP mag|VBW -|PMS isa|PRI ,|PMC at|CCA umiiyak|VBTR_VBAF .|PMP
-Masaya|NNP ang|DTC ibang|PRI_CCP planeta|NNC na|CCP nahanap|VBTS na|CCP nila|PRP si|DTP Pluto|NNP .|PMP
-Tinanong|VBTS nila|PRP ito|PRO kung|RBK bakit|RBQ siya|PRS biglang|RBD_CCP nawala|VBTS .|PMP "|PMS
-Pinagbawalan|VBRF ako|PRS ng|CCB mga|DTCP siyentipiko|NNC na|CCP maging|VBW isang|PRI_CCP planeta|NNC dahil|CCR ako|PRS ay|LM maliit|JJD at|CCA hindi|RBF ko|PRS kayang|RBD_CCP paalisin|VBOF ang|DTC mga|DTCP malalaking|JJD_CCP bagay|NNC sa|CCT paligid|NNC ko|PRS .|PMP "|PMS
-At|CCA biglang|RBD_CCP dumating|VBAF si|DTP Araw|NNP .|PMP "|PMS
-Hindi|RBF mahalaga|JJD kung|CCR ikaw|PRS ay|LM maliit|JJD ,|PMC "|PMS sabi|VBS ni|DTP Araw|NNP nang|RBW may|VBH pagmamahal|NNC na|CCP nakapagpaantig|VBTS sa|CCT malamig|JJD na|CCP puso|NNC ni|DTP Pluto|NNP .|PMP "|PMS
-Ikaw|NNP ay|LM laging|RBD_CCP magiging|VBTF bahagi|NNC ng|CCB ating|PRSP_CCP pamilya|NNC ,|PMC ang|DTC pamilya|NNC ng|CCB solar|FW system|FW !|PMS "|PMS
-Ang|DTC lahat|PRI ng|CCB planeta|NNC ay|LM nagsigawan|VBTS sa|CCT tuwa|NNC ,|PMC "|PMS Tayo|PRS ay|LM isang|PRI_CCP pamilya|NNC !|PMS
-Ang|DTC pamilya|NNC ng|CCB solar|FW system|FW !|PMS "|PMS
-WAKAS|NNPA
+Si|DTP Bo|NNP at|CCA ang|DTC kanyang|PRSP_CCP alagang|JJD_CCP tuta|NNC na|CCP si|DTP Brownie|NNP ay|LM nasa|RBL labas|JJD para|CCT mamasyal|VBW .|PMP
+Sina|DTPP Teo|NNP at|CCA Tun|NNP ay|LM naghihintay|VBTR sa|CCT palaruan|NNC .|PMP "|PMS
+Binili|VBTS ito|PRO ni|DTP Tatay|NNP sa|CCT bayan|NNC ,|PMC ito|PRO ang|DTC pinakamagandang|JJCS_JJD_CCP laruang|NNC_CCP bangka|NNC ,|PMC "|PMS pagmamalaki|NNC ni|DTP Teo|NNP sa|CCT bagong|JJD_CCP laruan|NNC .|PMP "|PMS
+Ang|DTC iyong|PRSP_CCP bangka|NNC ay|LM siguradong|RBT_CCP kayamanan|NNC ,|PMC "|PMS pagsang|NNC -|PMS ayon|RBR ni|DTP Bo|NNP .|PMP "|PMS
+Marami|PRI akong|PRS_CCP mas|JJCC magandang|JJD_CCP bagay|NNC na|CCP mga|DTCP kayamanan|NNC .|PMP "|PMS
+Dahil|CCR hindi|RBF sigurado|RBT si|DTP Teo|NNP at|CCA Tun|NNP sa|CCT kanilang|PRSP_CCP narinig|VBTS ,|PMC hiniling|VBOF nilang|PRP_CCP ipakita|VBOF ito|PRO .|PMP
+Agad|RBD na|CCP tumakbo|VBAF sa|CCT bahay|NNC si|DTP Bo|NNP at|CCA binuksan|VBOF ang|DTC kahon|NNC ng|CCB mga|DTCP laruan|NNC .|PMP "|PMS
+Walang|VBN_CCP espesyal|JJD ,|PMC "|PMS kanyang|PRSP_CCP nasabi|VBTS .|PMP
+Lahat|PRI ng|CCB laruan|NNC ay|LM simple|JJD lang|RBI .|PMP
+Kailangan|VBS niyang|PRS_CCP maghanap|VBW ng|CCB mga|DTCP kayamanan|NNC sa|CCT ibang|PRI_CCP lugar|NNC .|PMP
+Tumakbo|VBAF sa|CCT labas|NNC si|DTP Bo|NNP .|PMP
+Nakita|VBTS niya|PRS ang|DTC halaman|NNC sa|CCT paso|NNC ng|CCB kaniyang|PRSP_CCP Lolo|NNC .|PMP "|PMS
+Mahalaga|JJD ito|PRO kay|DTP Lolo|NNP ,|PMC marahil|RBM isa|PRI itong|PRO_CCP kayamanan|NNC .|PMP "|PMS
+Agad|RBD na|CCP dinala|VBTS ni|DTP Bo|NNP ang|DTC halaman|NNC sa|CCT kaniyang|PRSP_CCP silid|NNC .|PMP
+Tumakbo|VBAF sa|CCT kusina|NNC si|DTP Bo|NNP .|PMP
+Binuksan|VBTS niya|PRS ang|DTC aparador|NNC ng|CCB kanyang|PRSP_CCP Lola|NNC .|PMP "|PMS
+Marahil|RBM ay|LM kayamanan|NNC ni|DTP Lola|NNP ang|DTC mga|DTCP nakatutuwang|JJD_CCP bagay|NNC na|CCP ito|PRO .|PMP "|PMS
+Agad|RBD na|CCP dinala|VBTS ni|DTP Bo|NNP ang|DTC lagayan|NNC sa|CCT kaniyang|PRSP_CCP silid|NNC .|PMP
+Tumakbo|VBAF sa|CCT sala|NNC si|DTP Bo|NNP .|PMP "|PMS
+Paborito|NNP ni|DTP Tatay|NNP ang|DTC larong|NNC_CCP ito|PRO ,|PMC baka|RBM kayamanan|NNC ito|PRO para|CCT sa|CCT kanya|PRSP .|PMP "|PMS
+Agad|RBD na|CCP dinala|VBTS ni|DTP Bo|NNP ang|DTC laruan|NNC sa|CCT kaniyang|PRSP_CCP silid|NNC .|PMP
+Pumunta|VBAF sa|CCT kuwarto|NNC ng|CCB Ate|NNC si|DTP Bo|NNP .|PMP "|PMS
+Mahal|NNP na|CCP mahal|JJD ni|DTP Ate|NNP ang|DTC mga|DTCP libro|NNC ,|PMC siguradong|RBT_CCP kayamanan|NNC ito|PRO !|PMS "|PMS
+Agad|RBD na|CCP dinala|VBTS ni|DTP Bo|NNP ang|DTC mga|DTCP aklat|NNC sa|CCT kaniyang|PRSP_CCP silid|NNC .|PMP
+Pinakahuli|JJCS_JJD ang|DTC kuwarto|NNC ng|CCB kaniyang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Gustong|VBS_CCP gusto|VBS ni|DTP Nanay|NNP ang|DTC mga|DTCP kolorete|NNC na|CCP ito|PRO ,|PMC marahil|RBM isa|PRI itong|PRO_CCP kayamanan|NNC .|PMP "|PMS
+Agad|RBD na|CCP dinala|VBTS ni|DTP Bo|NNP ang|DTC lalagyan|NNC ng|CCB kolorete|NNC sa|CCT kaniyang|PRSP_CCP silid|NNC .|PMP
+Tinawag|VBOF ni|DTP Bo|NNP sina|DTPP Tun|NNP at|CCA Teo|NNP para|CCT makita|VBW ang|DTC mga|DTCP nakitang|VBTS_CCP kayamanan|NNC .|PMP
+Samantala|CCT ,|PMC lahat|PRI ng|CCB tao|NNC sa|CCT bahay|NNC ay|LM nagagalit|VBTR .|PMP
+Hinahanap|VBTR nila|PRP ang|DTC kanilang|PRSP_CCP mga|DTCP mahahalagang|JJD_CCP gamit|NNC .|PMP
+Ibinalik|VBTS nila|PRP ang|DTC lahat|PRI ng|CCB mga|DTCP nakuhang|VBTS_CCP kayamanan|NNC .|PMP
+Ngunit|CCT hindi|RBF pa|RBI rin|RBI nila|PRP makita|VBW ang|DTC pabango|NNC ng|CCB kanyang|PRSP_CCP Nanay|NNC .|PMP "|PMS
+Kapag|RBK hindi|RBF ninyo|PRP nakita|VBTS ang|DTC pabango|NNC ,|PMC hindi|RBF kayo|PRP puwedeng|RBT_CCP lumabas|VBAF para|CCT maglaro|VBAF ,|PMC "|PMS sabi|VBS ng|CCB kanyang|PRSP_CCP Nanay|NNC .|PMP
+Nagsimulang|VBTS_CCP magturuan|VBW ang|DTC isa|PRI '|PMS t|NNCA isa|PRI .|PMP "|PMS
+Nasa|RBL iyo|PRSP ,|PMC '|PMS di|RBF ba|RBI ?|PMQ "|PMS "|PMS
+Wala|VBN ,|PMC alam|VBS ko|PRS ay|LM nasa|RBL sa|CCT iyo|PRSP !|PMQ "|PMS "|PMS
+Wala|VBN sa|CCT akin|PRSP ,|PMC nasa|RBL iyo|PRSP kaya|CCR !|PMS "|PMS
+Inako|VBOF ni|DTP Bo|NNP ang|DTC kasalanan|NNC dahil|CCR siya|PRS ang|DTC nakaisip|VBTS ng|CCB lahat|PRI .|PMP
+Nalungkot|VBTS din|RBI ang|DTC kanyang|PRSP_CCP dalawang|JJN_CCP kaibigan|NNC .|PMP
+Kaya|CCR naman|RBI ,|PMC tinulungan|VBTS nila|PRP si|DTP Bo|NNP na|CCP mahanap|VBW ang|DTC pabango|NNC .|PMP
+Nang|RBW biglang|RBD_CCP may|VBH narinig|VBTS silang|PRP_CCP tahol|NNC .|PMP
+Dahil|CCR sa|CCT matalas|JJD na|CCP pang|RBI_CCP -|PMS amoy|NNC ,|PMC nakita|VBTS ni|DTP Brownie|NNP ang|DTC nawawalang|VBTR_CCP pabango|NNC sa|CCT ilalim|JJD ng|CCB upuan|NNC .|PMP "|PMS
+Salamat|RBS sa|CCT iyo|PRSP ,|PMC Brownie|NNP !|PMS
+Makapaglalaro|VBTF na|RBI rin|RBI tayo|PRP ,|PMC "|PMS sabi|VBS ni|DTP Tun|NNP .|PMP "|PMS
+Tunay|RBT na|CCP kayamanan|NNC si|DTP Brownie|NNP ,|PMC "|PMS dagdag|JJD ni|DTP Teo|NNP .|PMP
+Hindi|RBF mapigilan|VBW ni|DTP Tun|NNP ang|DTC kanyang|PRSP_CCP sarili|NNC .|PMP "|PMS
+Mahusay|JJD si|DTP Brownie|NNP ,|PMC ngunit|CCT mas|JJCC mahusay|JJD ang|DTC aso|NNC ko|PRS .|PMP
+Isa|PRI siyang|PRS_CCP malaki|JJD at|CCA totoong|JJD_CCP kayamanan|NNC !|PMS "|PMS

@@ -1,35 +1,21 @@
-Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC mayroong|VBH_CCP isang|PRI_CCP maliit|JJD na|CCP nayon|NNC kung|RBK saan|RBQ ang|DTC lahat|PRI ay|LM nagtatanim|VBTR ng|CCB mga|DTCP pulang|JJD_CCP rosas|NNC .|PMP
-Ang|DTC bawat|PRI bahagi|NNC ng|CCB nayon|NNC ay|LM maganda|JJD dahil|CCR sa|CCT mga|DTCP pulang|JJD_CCP rosas|NNC na|CCP hardin|NNC .|PMP
-Kilalang|JJD_CCP kilala|JJD kahit|CCT sa|CCT kalayuan|NNC ang|DTC reputasyon|NNC ng|CCB nayon|NNC para|CCT sa|CCT malalaking|JJD_CCP magagandang|JJD_CCP pulang|JJD_CCP rosas|NNC .|PMP
-Ngunit|CCT walang|VBN_CCP nakababatid|VBTR kung|RBK bakit|RBQ silang|PRP_CCP lahat|PRI ay|LM nagtatanim|VBTR nang|CCB pare|FW -|PMS parehong|JJC_CCP klase|NNC ng|CCB pulang|JJD_CCP rosas|NNC .|PMP
-Naisip|VBTS ng|CCB ilan|PRQ sa|CCT kanila|PRSP na|CCP marahil|RBM ang|DTC pagtatanim|NNC ng|CCB pulang|JJD_CCP rosas|NNC ay|LM nakasanayan|VBTS na|CCP mula|RBW pa|RBI sa|CCT kanilang|PRSP_CCP mga|DTCP ninuno|NNC .|PMP
-Ang|DTC iba|PRI naman|RBI ay|LM naniniwalang|VBTR_CCP kung|RBK hindi|RBF sila|PRP magtatanim|VBTF ng|CCB pulang|JJD_CCP rosas|NNC ,|PMC sila|PRP ay|LM isusumpa|VBOF .|PMP
-Isang|PRI_CCP araw|NNC ,|PMC may|VBH isang|PRI_CCP matandang|JJD_CCP lalaki|NNC na|CCP nakahanap|VBTS ng|CCB kahon|NNC na|CCP naglalaman|VBTR ng|CCB mga|DTCP kakaibang|JJD_CCP buto|NNC sa|CCT ibaba|JJD ng|CCB kaniyang|PRSP_CCP bahay|NNC .|PMP
-Nagulat|VBTS ang|DTC matandang|JJD_CCP lalaki|NNC .|PMP
-Hindi|RBF niya|PRS alam|VBS kung|CCR papaano|RBQ nakarating|VBTS ang|DTC mga|DTCP butong|NNC_CCP iyon|PRO sa|CCT ibaba|JJD ng|CCB kaniyang|PRSP_CCP bahay|NNC at|CCA nagdesisyon|VBTS na|CCP itanim|VBOF ito|PRO sa|CCT kaniyang|PRSP_CCP hardin|NNC .|PMP
-Maingat|RBD na|CCP inalagaan|VBTS ng|CCB matanda|JJD ang|DTC kanyang|PRSP_CCP mga|DTCP bagong|JJD_CCP halaman|NNC .|PMP
-Nang|RBW mamukadkad|VBW ang|DTC mga|DTCP bulaklak|NNC ,|PMC ang|DTC kanyang|PRSP_CCP hardin|NNC ay|LM napuno|VBTS ng|CCB maraming|PRI_CCP uri|NNC ng|CCB makulay|JJD na|CCP mga|DTCP bulaklak|NNC .|PMP
-Nagulat|VBTS ang|DTC lahat|PRI ng|CCB mga|DTCP taga|JJD -|PMS nayon|NNC nang|RBW makita|VBW ang|DTC pinaghalong|VBRF_CCP dilaw|JJD ,|PMC asul|JJD ,|PMC lila|NNC ,|PMC puting|JJD_CCP bulaklak|NNC na|CCP namumulaklak|VBTR sa|CCT gitna|JJD ng|CCB kanilang|PRSP_CCP mga|DTCP pulang|JJD_CCP rosas|NNC .|PMP
-Maraming|PRI_CCP nag|VBTS -|PMS iisip|VBTF na|CCP ang|DTC matandang|JJD_CCP lalaki|NNC ay|LM isusumpa|VBOF .|PMP
-Kaya|CCR hinihimok|VBTR nila|PRP na|CCP alisin|VBOF niya|PRS ang|DTC mga|DTCP makukulay|JJD na|CCP bulaklak|NNC sa|CCT lalong|JJCC_CCP madaling|JJD_CCP panahon|NNC .|PMP
-Sumagot|VBAF ang|DTC matanda|JJD na|CCP hindi|RBF niya|PRS sisirain|VBTF ang|DTC hardin|NNC na|CCP siya|PRS mismo|RBT ang|DTC nag|PRSP_CCP -|PMS alaga|NNC .|PMP
-Nadismaya|VBTS ang|DTC mga|DTCP taganayon|JJD sa|CCT matanda|JJD at|CCA hindi|RBF nila|PRP siya|PRS pinansin|VBOF at|CCA ang|DTC kanyang|PRSP_CCP makulay|JJD na|CCP hardin|NNC ng|CCB bulaklak|NNC .|PMP
-Nahirapan|VBTS ang|DTC matanda|JJD na|CCP mamuhay|VBW sa|CCT pang|RBI_CCP -|PMS araw|NNC -|PMS araw|NNC na|CCP pagsasaka|VBW habang|RBW hindi|RBF pinapansin|VBTR ng|CCB kanyang|PRSP_CCP mga|DTCP kapit|NNC -|PMS bahay|NNC .|PMP
-Isang|PRI_CCP araw|NNC ,|PMC isang|PRI_CCP pintor|NNC mula|RBL sa|CCT palasyo|NNC ng|CCB hari|NNC ang|DTC dumating|VBAF sa|CCT nayon|NNC .|PMP
-Nalaman|VBTS ng|CCB hari|NNC ang|DTC magagandang|JJD_CCP bulaklak|NNC sa|CCT nayon|NNC ,|PMC kaya|CCR '|PMS t|NNCA ipinadala|VBTS niya|PRS ang|DTC pintor|NNC na|CCP ito|PRO upang|CCB ipinta|VBOF ito|PRO .|PMP
-Masayang|RBD_CCP tinatanggap|VBTR ng|CCB mga|DTCP taganayon|JJD ang|DTC pintor|NNC at|CCA ipinakita|VBTS sa|CCT kanya|PRSP ang|DTC kanilang|PRSP_CCP mga|DTCP hardin|NNC ng|CCB pulang|JJD_CCP rosas|NNC .|PMP
-Tumingin|VBAF ang|DTC pintor|NNC sa|CCT mga|DTCP hardin|NNC ,|PMC pumili|VBTS_VBAF ng|CCB burol|NNC at|CCA nagsimulang|VBTS_CCP magpinta|VBAF .|PMP
-Naghintay|VBTS ang|DTC mga|DTCP taganayon|JJD sa|CCT kakalabasan|NNC ng|CCB kaniyang|PRSP_CCP ipinipinta|VBTS .|PMP
-Nang|RBW matapos|VBW ang|DTC pagpipinta|NNC ,|PMC ang|DTC mga|DTCP taganayon|JJD ay|LM namangha|VBTS sa|CCT makulay|JJD na|CCP mga|DTCP bulaklak|NNC na|CCP ipininta|VBTS nito|PRO .|PMP
-Ngunit|CCT ,|PMC may|VBH isang|PRI_CCP nagsabi|VBTS na|CCP ang|DTC pintor|NNC ay|LM isusumpa|VBOF .|PMP
-Sumagot|VBAF ang|DTC pintor|NNC na|CCP ang|DTC iba|PRI '|PMS t|NNCA ibang|PRI_CCP mga|DTCP kulay|NNC at|CCA iba|PRI '|PMS t|NNCA ibang|PRI_CCP mga|DTCP hugis|NNC ay|LM kinakailangan|VBTR upang|CCB lumikha|VBAF ng|CCB magandang|JJD_CCP sining|NNC .|PMP
-Ang|DTC pagiging|VBTR iba|PRI ay|LM hindi|RBF sumpa|NNC ngunit|CCT isang|PRI_CCP bagay|NNC ng|CCB kagandahan|NNC .|PMP
-Napagtanto|VBTS ng|CCB mga|DTCP taganayon|JJD na|CCP siya|PRS ay|LM tama|JJD at|CCA tumigil|VBAF sa|CCT paniniwala|NNC sa|CCT sumpa|NNC .|PMP
-Niyakap|VBTS nila|PRP ang|DTC matandang|JJD_CCP hardinero|NNC at|CCA lahat|PRI ay|LM nasiyahan|VBTS sa|CCT kanyang|PRSP_CCP makukulay|JJD na|CCP mga|DTCP bulaklak|NNC .|PMP .|PMP
-Ano|PRQ ang|DTC inakalang|VBTS_CCP mangyayari|VBTF ng|CCB mga|DTCP taganayon|JJD kung|RBK hindi|RBF mga|DTCP pulang|JJD_CCP rosas|NNC lamang|RBI ang|DTC kanilang|PRSP_CCP itatanim|VBTF ?|PMQ .|PMP
-Anu|NNP -|PMS anong|PRQ_CCP mga|DTCP kulay|NNC ng|CCB bulaklak|NNC ang|DTC kinalabasan|NNC ng|CCB mga|DTCP binhi|NNC sa|CCT kahon|NNC ?|PMQ .|PMP
-Ano|PRQ ang|DTC sinabi|VBTS ng|CCB pintor|NNC mula|RBL sa|CCT Palasyo|NNP sa|CCT mga|DTCP taganayon|JJD ?|FW .|PMP
-Aling|PRQ_CCP mga|DTCP kulay|NNC ang|DTC gusto|VBS mo|PRS ?|PMQ
-Bakit|PRQ mo|PRS gusto|VBS ang|DTC mga|DTCP ito?Ang|NNC_CCP aklat|NNC na|CCP ito|PRO ay|LM ginawa|VBTS mula|RBL sa|CCT pagsasanay|NNC sa|CCT paglikha|NNC ng|CCB aklat|NNC sa|CCT pagtutulungan|NNC ng|CCB Third|NNP Story|NNP Project|NNP at|CCA The|NNP Asia|NNP Foundation|NNP .|PMP
-Ang|DTC Third|NNP Story|NNP Project|NNP ay|LM naglilikha|VBTS at|CCA naglalathala|RBD ng|CCB mga|DTCP pambatang|JJD_CCP aklat|NNC sa|CCT mga|DTCP wikang|NNC_CCP Burmese|NNP at|CCA Myanmar|NNP upang|CCB ipamahagi|VBOF ng|CCB libre|JJD sa|CCT mga|DTCP bata|NNC .|PMP
-Ang|DTC mga|DTCP kuwento|NNC ay|LM isinulat|VBTS at|CCA iginuhit|VBTS ng|CCB mga|DTCP alagad|NNC ng|CCB sining|NNC sa|CCT Myanmar|NNP para|CCT sa|CCT kanilang|PRSP_CCP mamamayan|NNC upang|CCB makapag|VBW -|PMS ambag|NNC sa|CCT usaping|NNC_CCP kapayapaan|NNC ,|PMC katatagan|NNC ,|PMC pagkakaiba|NNC -|PMS iba|PRI ,|PMC kasarian|NNC ,|PMC kapaligiran|NNC ,|PMC at|CCA karapatang|NNC_CCP pambata|JJD .|PMP
+Sa|CCT Berdeng|NNP Kaharian|NNP ,|PMC lahat|PRI ng|CCB hayop|NNC ay|LM tahimik|JJD na|CCP magkakasama|VBTF .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC ipinadala|VBTS ni|DTP Haring|NNP Tigre|NNP mula|RBL sa|CCT Lumang|NNP_CCP Kaharian|NNP ang|DTC kanyang|PRSP_CCP mga|DTCP kawal|NNC sa|CCT Berdeng|NNP Kaharian|NNP .|PMP
+Sila|PRP ay|LM mayabang|JJD na|CCP nanakot|VBTS .|PMP "|PMS
+Nasaan|VBTS ang|DTC inyong|PRSP_CCP Hari|NNP ?|PMQ "|PMS
+sigaw|NNC ng|CCB isang|PRI_CCP kawal|NNC .|PMP "|PMS
+Sabihin|VBOF mo|PRS na|CCP may|VBH utos|NNC ang|DTC Haring|NNP_CCP Tigre|NNC sa|CCT kanya|PRSP ,|PMC "|PMS dagdag|JJD ng|CCB kawal|NNC .|PMP "|PMS
+Wala|VBN ang|DTC aming|PRSP_CCP Hari|NNP "|PMS sagot|NNC ni|DTP Kayumangging|NNP Kuneho|NNP .|PMP
+Inutusan|VBTS ng|CCB kawal|NNC si|DTP Kayumangging|NNP Kuneho|NNP na|CCP sabihin|VBOF sa|CCT kanilang|PRSP_CCP Hari|NNP na|CCP magbigay|VBAF araw|NNC -|PMS araw|NNC ng|CCB malusog|JJD at|CCA malinamnam|JJD na|CCP hayop|NNC kay|DTP Haring|NNP Tigre|NNP .|PMP "|PMS
+Tuluyang|RBD_CCP masisira|VBTF ang|DTC Berdeng|NNP Kaharian|NNP kapag|CCR wala|VBN kayong|JJD_CCP maibibigay|VBW ,|PMC "|PMS banta|NNC ng|CCB kawal|NNC .|PMP "|PMS
+Kapag|CCR sinunod|VBOF ko|PRS ang|DTC utos|NNC ,|PMC lahat|PRI ng|CCB hayop|NNC sa|CCT Berdeng|NNP Kaharian|NNP ay|LM magiging|VBTF pagkain|NNC ni|DTP Haring|NNP Tigre|NNP ,|PMC "|PMS nag|VBTS -|PMS aalalang|VBTF kuwento|NNC sa|CCT kaibigang|NNC_CCP Pagong|NNC .|PMP "|PMS
+Sinusubukan|VBTR ni|DTP Haring|NNP Tigre|NNP na|CCP ipagyabang|VBOB ang|DTC kanyang|PRSP_CCP lakas|NNC sa|CCT pamamagitan|NNC ng|CCB kanyang|PRSP_CCP boses|NNC ,|PMC "|PMS banggit|NNC ni|DTP Pagong|NNC matapos|VBW makinig|VBW sa|CCT kuwento|NNC .|PMP "|PMS
+Kailangan|VBS nating|PRP_CCP malaman|VBW kung|RBK paano|RBQ siya|PRS haharapin|VBTF kung|RBK hindi|RBF lahat|PRI tayo|PRP ay|LM manganganib|VBTF ,|PMC "|PMS dagdag|JJD pa|RBI ni|DTP Pagong|NNP .|PMP
+Nag|NNP -|PMS isip|NNC sandali|NNC si|DTP Kayumangging|NNP Kuneho|NNP .|PMP "|PMS
+Maaari|VBS mo|PRS ba|RBI akong|PRS_CCP bigyan|VBOF ng|CCB isa|PRI sa|CCT matigas|JJD na|CCP kaliskis|NNC sa|CCT iyong|PRSP_CCP likod|JJD ?|PMQ "|PMS
+Ibinigay|VBTS niya|PRS agad|RBW sa|CCT mga|DTCP kawal|NNC ni|DTP Haring|NNP Tigre|RBT ang|DTC matigas|JJD na|CCP kaliskis|NNC ni|DTP Pagong|NNP .|PMP "|PMS
+Ito|PRO ang|DTC isang|PRI_CCP balat|NNC ng|CCB aming|PRSP_CCP Hari|NNP ,|PMC hinahamon|VBTS niya|PRS ang|DTC inyong|PRSP_CCP Hari|NNP sa|CCT isang|PRI_CCP labanan|NNC .|PMP
+Kapag|CCR natalo|VBTS ang|DTC inyong|PRSP_CCP Hari|NNP ,|PMC lahat|PRI kayo|PRP ay|LM kanyang|PRSP_CCP kakainin|VBTF ng|CCB buhay|NNC ,|PMC "|PMS pananakot|NNC ni|DTP Kayumangging|NNP Kuneho|NNP .|PMP
+Matapos|VBW tingnan|VBOF at|CCA hawakan|VBOF ang|DTC inabot|VBOF ni|DTP Kayumangging|NNP Kuneho|NNP ,|PMC nabanggit|VBTS ng|CCB isang|PRI_CCP kawal|NNC ,|PMC "|PMS Siguradong|RBT_CCP napakalaki|JJCS_JJD at|CCA malakas|JJD ang|DTC kanilang|PRSP_CCP Hari|NNP .|PMP "|PMS "|PMS
+Mabuti|JJD pang|RBI_CCP lumayo|VBAF na|CCP tayo|PRP sa|CCT Berdeng|NNP Kaharian|NNP ,|PMC "|PMS takot|JJD na|CCP banggit|NNC ng|CCB mga|DTCP kawal|NNC .|PMP
+Mula|RBW noon|RBW wala|VBN nang|CCB mga|DTCP hayop|NNC ang|DTC nagbabalak|VBTR pang|RBI_CCP manggulo|VBW sa|CCT Berdeng|NNP Kaharian|NNP .|PMP
+Salamat|RBS sa|CCT matalino|JJD at|CCA matapang|JJD na|CCP plano|NNC ni|DTP Kayumangging|NNP Kuneho|NNP para|CCT sa|CCT kapayapaan|NNC ng|CCB mga|DTCP hayop|NNC .|PMP

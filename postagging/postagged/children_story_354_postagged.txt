@@ -1,0 +1,25 @@
+Isang|PRI_CCP gabi|RBW ,|PMC ako|PRS ay|LM nagising|VBTS at|CCA nauuhaw|VBTS .|PMP
+Nais|VBS kong|PRS_CCP kumuha|VBAF ng|CCB tubig|NNC .|PMP
+Hinanap|VBOF ko|PRS ang|DTC aking|PRSP_CCP tsinelas|NNC sa|CCT ilalim|JJD ng|CCB higaan|NNC .|PMP
+Naku|PRS po|RBS !|PMQ
+Mayroong|VBH_CCP tigre|NNC sa|CCT ilalim|JJD ng|CCB higaan|NNC ko|PRS .|PMP
+Ano|PRQ ang|DTC gagawin|VBTF ko|PRS ngayon|RBW ?|PMQ
+Tatawagin|VBTF_VBOF ko|PRS ba|RBI si|DTP Mama|NNP ?|PMQ
+Paano|PRQ kaya|CCR kung|CCR umungal|VBAF nang|RBD malakas|JJD ang|DTC tigre|NNC ?|PMQ
+Babalik|VBTF na|RBI lang|RBI ba|RBI ako|PRS sa|CCT pagtulog|NNC ?|PMQ
+Paano|PRQ kung|RBK hindi|RBF na|RBI ako|PRS inaantok|VBTR ?|PMQ
+Pagkatapos|VBW ay|LM biglang|RBD_CCP bumukas|VBAF ang|DTC ilaw|NNC .|PMP
+Si|DTP Mama|NNP ay|LM nakatayo|VBTS sa|CCT may|VBH pinto|NNC .|PMP "|PMS
+Anong|PRQ_CCP nangyari|VBTS anak|NNC ?|PMQ
+Tinatawag|VBTR mo|PRS ba|RBI ako|PRS ?|PMQ "|PMS
+tanong|NNC ni|DTP Mama|NNP .|PMP
+Itinuro|VBOF ko|PRS ang|DTC tigre|NNC .|PMP
+Sinilip|VBTS namin|PRP ni|DTP Mama|NNP ang|DTC tigre|NNC at|CCA hinila|VBTS niya|PRS ito|PRO mula|RBL sa|CCT ilalim|JJD ng|CCB higaan|NNC !|PMS
+Ano|PRQ ba|RBI yan|PRO ,|PMC anak|NNC !|PMS
+Ito|PRO ay|LM hindi|RBF tigre|NNC .|PMP
+Ito|PRO ang|DTC aking|PRSP_CCP makapal|JJD na|CCP kulay|NNC dilaw|JJD at|CCA itim|JJD na|CCP pangginaw|NNC .|PMP
+Ang|DTC mga|DTCP butones|NNC nito|PRO ay|LM kumikinang|JJD na|CCP parang|CCT mga|DTCP mata|NNC ng|CCB tigre|NNC .|PMP
+Natakot|VBTS ako|PRS pero|CCT wala|VBN lang|RBI pala|NNC !|PMS
+At|CCA ikinuha|VBTS ako|PRS ni|DTP Mama|NNP ng|CCB tubig|NNC .|PMP
+Ngayon|RBW ,|PMC matutulog|VBTF na|CCP ako|PRS .|PMP
+Sana|VBS ay|LM mapanaginipan|VBW ko|PRS ang|DTC mga|DTCP tunay|JJD na|CCP tigre|NNC sa|CCT kagubatan|NNC !|PMS

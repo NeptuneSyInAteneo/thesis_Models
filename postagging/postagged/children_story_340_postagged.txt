@@ -1,0 +1,10 @@
+Kumain|VBAF tayo|PRP ng|CCB tinapay|NNC .|PMP
+Doon|PRL sa|CCT arawan|NNC .|PMP
+Masaya|NNP iyan|PRO !|PMQ
+Kailangan|VBS natin|PRP ng|CCB hamon|NNC .|PMP
+Kailangan|VBS natin|PRP ng|CCB palaman|NNC .|PMP
+Tayo|NNP na|CCP at|CCA lumabas|VBAF .|PMP
+Pero|CCT biglang|JJD_CCP ...|PMS Boogsh|NNP !|PMS
+Nyek|NNP !|PMS
+Hala|NNP !|PMS
+Ang|DTC aso|NNC ay|LM nasa|RBL putikan|NNC !|PMS

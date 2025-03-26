@@ -1,0 +1,56 @@
+Bakit|PRQ Umalis|VBAF Ang|DTC Puting|NNP_CCP Oso|NNC Isinulat|VBOF ni|DTP :|PMS ElSayed|NNP Ibrahim|NNP Iginuhit|VBOF ni|DTP :|PMS Husam|NNP AlTohamiAng|NNP librong|NNC_CCP ito|PRO ay|LM naging|VBTS posible|JJD sa|CCT suporta|NNC ng|CCB :|PMS The|NNP All|NNP Children|NNP Reading|NNP :|PMS A|NNP Grand|NNP Challenge|NNP for|FW Development|NNP (|PMS ACR|NNPA GCD|NNPA )|PMS partners|FW (|PMS the|FW United|NNP States|NNP Agency|NNP for|FW International|NNP Development|NNP (|PMS USAID|NNPA )|PMS ,|PMC World|NNP Vision|NNP and|FW the|FW Australian|NNP Government|NNP )|PMS .|PMP
+Ito|PRO '|PMS y|FW inihanda|VBTS ng|CCB Asafeer|NNP Education|NNP Technologies|NNP FZ|NNPA LLC|NNPA at|CCA hindi|RBF ganap|JJD na|CCP pinahihiwatig|VBTR ang|DTC pananaw|NNC ng|CCB mga|DTCP kaanib|JJD ng|CCB ACR|NNPA GCD|NNPA partners|FW .|PMP
+Nalalaglag|VBTR ang|DTC niyebe|NNC sa|CCT aking|PRSP_CCP ulo|NNC at|CCA mga|DTCP pisngi|NNC .|PMP
+Natatakpan|VBTF nito|PRO ang|DTC lahat|PRI ng|CCB bagay|NNC sa|CCT paligid|NNC .|PMP
+Magiging|VBTF kasimputi|JJD kaya|CCR ng|CCB palagid|NNC ang|DTC aking|PRSP_CCP buhay|NNC ?|PMQ
+Ang|DTC soro|NNC at|CCA kuwago|NNC ay|LM puti|JJD ,|PMC maging|VBW ang|DTC hinahabol|VBTR nilang|PRP_CCP kuneho|NNC ay|LM puti|JJD .|PMP
+Puti|JJD ,|PMC puti|JJD ,|PMC puti|JJD !|PMS
+Sawa|NNP na|CCP ako|PRS sa|CCT puti|JJD .|PMP
+Gusto|VBS kong|PRS_CCP umalis|VBAF sa|CCT lugar|NNC na|CCP ito|PRO at|CCA pumunta|VBAF sa|CCT isang|PRI_CCP lugar|NNC na|CCP maraming|PRI_CCP kulay|NNC .|PMP
+Oh|NNP !|PMS
+isang|PRI_CCP luntiang|JJD_CCP kagubatan|NNC !|PMS
+Napakaganda|JJCS_JJD ng|CCB luntiang|JJD_CCP kulay|NNC !|PMS
+Bakit|PRQ kakaiba|JJD ang|DTC tingin|NNC ng|CCB ibang|PRI_CCP hayop|NNC sa|CCT kulay|NNC ng|CCB aking|PRSP_CCP balahibo|NNC ?|PMQ
+Siguro|RBM ayaw|RBF nila|PRP ito|PRO .|PMP
+Ako|PRS din|RBI ,|PMC ayaw|VBS ko|PRS ang|DTC maputing|JJD_CCP kulay|NNC ng|CCB aking|PRSP_CCP balahibo|NNC .|PMP
+Nais|VBS kong|PRS_CCP baguhin|VBOF ito|PRO .|PMP
+Oh|NNP !|PMS
+Napakaganda|JJCS_JJD ng|CCB mga|DTCP dilaw|JJD na|CCP Tecoma|NNP !|PMS
+Ang|DTC dilaw|JJD ay|LM isang|PRI_CCP magandang|JJD_CCP kulay|NNC .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS ko|PRS ang|DTC dilaw|JJD .|PMP "|PMS
+Dilaw|JJD na|CCP oso|NNC na|CCP kasing|JJC kulay|JJD ng|CCB luyang|NNC_CCP dilaw|JJD ,|PMC kari|JJD at|CCA safron|NNC ,|PMC tila|RBM kakaiba|JJD ang|DTC iyong|PRSP_CCP anyo|NNC .|PMP "|PMS
+sabi|VBS ng|CCB mga|DTCP hayop|NNC .|PMP
+Kahit|CCT nakagugulat|RBD ang|DTC dilaw|JJD kong|PRS_CCP kulay|NNC ,|PMC alam|VBS nila|PRP na|CCP ako|PRS pa|RBI rin|RBI ang|DTC puting|JJD_CCP oso|NNC .|PMP
+Dapat|VBS siguro|RBM na|CCP humanap|VBAF ako|PRS ng|CCB ibang|PRI_CCP kulay|NNC .|PMP
+Oh|NNP !|PMS
+Napaganda|VBTS ng|CCB mga|DTCP pulang|JJD_CCP prutas|NNC na|CCP ito|PRO .|PMP
+Ang|DTC pula|JJD ay|LM napakagandang|JJCS_JJD_CCP kulay|NNC .|PMP
+Gustong|VBS_CCP -|PMS gusto|VBS ko|PRS ito|PRO .|PMP "|PMS
+Pulang|NNP_CCP oso|NNC na|CCP kasing|JJC bilog|JJD ng|CCB pulang|JJD_CCP kamatis|NNC ,|PMC tila|RBM kakaiba|JJD ang|DTC iyong|PRSP_CCP anyo|NNC .|PMP "|PMS
+sabi|VBS ng|CCB mga|DTCP hayop|NNC .|PMP
+Kahit|CCT nakagugulat|RBD ang|DTC pula|JJD kong|PRS_CCP kulay|NNC ,|PMC alam|VBS nila|PRP na|CCP ako|PRS pa|RBI rin|RBI ang|DTC puting|JJD_CCP oso|NNC .|PMP
+Dapat|VBS siguro|RBM na|CCP humanap|VBAF ako|PRS ng|CCB ibang|PRI_CCP kulay|NNC .|PMP
+Oh|NNP !|PMS
+Talagang|RBT_CCP kaibig|NNC -|PMS ibig|VBS ang|DTC mga|DTCP bunga|NNC ng|CCB kakaw|NNC !|PMS
+Ang|DTC kayumanggi|JJD ay|LM isang|PRI_CCP magandang|JJD_CCP kulay|NNC .|PMP
+Gustung|NNP -|PMS gusto|VBS ko|PRS talaga|RBT ang|DTC kayumanggi|JJD .|PMP
+Kakulay|NNP ko|PRS na|CCP ang|DTC mga|DTCP kayumangging|JJD_CCP oso|NNC .|PMP
+Walang|VBN_CCP makakaalam|VBW na|CCP ako|PRS ito|PRO .|PMP
+Ako|PRS ay|LM isang|PRI_CCP henyo|NNC !|PMS
+Tagumpay|NNC ang|DTC aking|PRSP_CCP plano|NNC !|PMS
+Biglang|RBD_CCP bumuhos|VBAF ang|DTC ulan|NNC .|PMP
+Kumupas|NNP ang|DTC kayumanggi|JJD kong|PRS_CCP kulay|NNC .|PMP
+Babalik|VBTF na|RBI lang|RBI ako|PRS sa|CCT aming|PRSP_CCP lugar|NNC ,|PMC kung|RBK saan|RBQ puti|JJD lahat|PRI .|PMP
+Paano|PRQ ko|PRS kaya|CCR maaalis|VBTF ang|DTC aking|PRSP_CCP kulay|NNC na|CCP puti|JJD ?|PMQ
+Kakain|VBTF muna|RBI ako|PRS ng|CCB salmon|FW para|CCT sumaya|VBAF ng|CCB kaunti|PRI .|PMP
+Sino|PRQ kaya|CCR itong|PRO_CCP kakaibang|JJD_CCP oso|NNC na|CCP nasa|RBL tubig|NNC .|PMP
+Anong|PRQ_CCP nangyayari|VBTR sa|CCT kaniya|PRSP ?|PMQ
+Aha|NNP !|PMS
+Ito|PRO pala|NNC ay|LM isang|PRI_CCP kayumangging|JJD_CCP oso|NNC na|CCP nagbabalatkayo|VBTR .|PMP
+Tinanong|VBTS ko|PRS siya|PRS ,|PMC "|PMS Bakit|PRQ tinakpan|VBOF mo|PRS ang|DTC iyong|PRSP_CCP sarili|NNC sa|CCT puti|JJD ?|PMQ
+Mayroon|VBH kang|PRS_CCP magandang|JJD_CCP kayumangging|JJD_CCP balahibo|NNC .|PMP "|PMS
+Sumagot|VBAF siya|PRS ,|PMC "|PMS Hindi|RBF ko|PRS gusto|VBS ang|DTC kulay|NNC na|CCP kayumanggi|JJD ,|PMC kaya|CCR tinakpan|VBOF ko|PRS ang|DTC aking|PRSP_CCP sarili|NNC ng|CCB arina|NNC .|PMP
+Ang|DTC puti|JJD ay|LM mas|JJCC maganda|JJD na|CCP kulay|NNC .|PMP "|PMS
+Puting|JJD_CCP oso|NNC tulad|JJC ng|CCB bilog|JJD na|CCP buwan|NNC sa|CCT madilim|JJD na|CCP gabi|RBW ,|PMC tunay|RBT ngang|RBI_CCP kayganda|NNC mo.|NNCA .|PMP
+Puting|JJD_CCP oso|NNC ,|PMC puting|JJD_CCP oso|NNC ,|PMC kay|DTP ganda|NNC mo|PRS sa|CCT iyong|PRSP_CCP puting|JJD_CCP balahibo|NNC .|PMP
+Wakas|NNP

@@ -1,0 +1,19 @@
+Magandang|JJD_CCP umaga|RBW !|PMQ
+Gising|JJD na|RBI !|PMQ
+AYAW|NNPA kong|PRS_CCP bumangon|VBAF !|PMQ
+AYAW|NNPA kong|PRS_CCP magtrabaho|VBAF !|PMQ
+AYAW|NNPA kong|PRS_CCP magsipilyo|VBAF !|PMQ
+AYAW|NNPA kong|PRS_CCP maligo|VBW !|PMQ
+AYAW|NNPA ko|PRS ng|CCB tuyo|JJD sa|CCT agahan|NNC !|PMS
+AYAW|NNPA kong|PRS_CCP pumasok|VBAF !|PMQ
+Hmmm|NNP .|PMP
+Pero|CCT ,|PMC ngayon|RBW ang|DTC araw|NNC ng|CCB inyong|PRSP_CCP piknik|NNC sa|CCT zoo|FW !|PMS
+GUSTO|NNPA ko|PRS ng|CCB tuyo|JJD !|PMS
+GUSTO|NNPA kong|PRS_CCP pumasok|VBAF !|PMQ
+GUSTO|NNPA kong|PRS_CCP kumanta|VBAF habang|RBW naliligo|VBTR !|PMQ
+GUSTO|NNPA kong|PRS_CCP magsipilyo|VBAF !|PMQ
+Oops|NNP !|PMS
+Napaka|VBTS kailangan|VBS nito|PRO !|PMQ
+Gusto|VBS gusto|VBS ko|PRS ng|CCB magandang|JJD_CCP trabaho|NNC !|PMS
+Narito|VBTS na|CCP ako|PRS ,|PMC na|CCP parang|CCT kwitis|NNC .|PMP .|PMP
+Tumabi|NNP '|PMS t|NNCA wag|RBF haharang|VBTF sa|CCT aking|PRSP_CCP daan|NNC !|PMS

@@ -1,0 +1,8 @@
+May|VBH dalawang|JJN_CCP binti|NNC ang|DTC ibon|NNC .|PMP
+Ang|DTC tagak|NNC din|RBI ay|LM may|VBH dalawang|JJN_CCP binti|NNC .|PMP
+May|VBH apat|JJN na|CCP binti|NNC ang|DTC baka|NNC .|PMP
+Ang|DTC elepante|NNC rin|RBI ay|LM may|VBH apat|JJN na|CCP binti|NNC .|PMP
+May|VBH anim|JJN na|CCP binti|NNC ang|DTC kuliglig|NNC .|PMP
+Ang|DTC alitaptap|NNC din|RBI ay|LM may|VBH anim|JJN na|CCP binti|NNC .|PMP
+May|VBH walong|JJN_CCP binti|NNC ang|DTC gagamba|NNC .|PMP
+Ang|DTC oktopus|FW din|RBI ay|LM may|VBH walong|JJN_CCP binti|NNC .|PMP

@@ -1,0 +1,27 @@
+Sina|DTPP Lebo|NNP ,|PMC Bonolo|NNP ,|PMC at|CCA Rebone|NNP ay|LM magkakaibigan|VBTF .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC sila|PRP ay|LM nagpunta|VBTS sa|CCT kagubatan|NNC para|CCT kumuha|VBAF ng|CCB panggatong|NNC .|PMP
+Sa|CCT kanilang|PRSP_CCP paguwi|VBW ,|PMC sila|PRP ay|LM napadaan|VBTS sa|CCT ilog|NNC .|PMP
+Naglaro|VBTS sila|PRP nang|RBW naglaro|VBTS hanggang|RBW inabutan|VBOF na|CCP sila|PRP dilim|NNC sa|CCT gubat|NNC .|PMP
+Sa|CCT sobrang|JJCS_CCP dilim|NNC ,|PMC hindi|RBF na|RBI nila|PRP mahanap|VBW ang|DTC tamang|JJD_CCP daan|NNC pauwi|VBW .|PMP
+Walang|VBN_CCP ano|PRQ ano|PRQ ,|PMC nakarinig|VBTS sila|PRP ng|CCB alulong|NNC_CCP ,|PMC na|CCP hindi|RBF nila|PRP malaman|VBW kung|RBK saang|RBQ bahagi|NNC ng|CCB gubat|NNC ito|PRO nagmumula|VBTR ,|PMC Natakot|VBTS si|DTP Lebo|NNP at|CCA siya|PRS ay|LM tumakbo|VBAF .|PMP
+Sumunod|VBAF sa|CCT kanya|PRSP ang|DTC dalawa|JJN pa|RBI niyang|PRS_CCP kasama|CCB .|PMP
+Sumigaw|VBAF si|DTP Bonolo|NNP ,|PMC "|PMS Hoy|NNC ,|PMC tingnan|VBOF ninyo|PRP !|PMQ
+May|VBH kweba|NNC .|PMP
+Magtago|VBAF tayo|PRP rito|PRL .|PMP "|PMS "|PMS
+Hindi|RBF ,|PMC "|PMS sabi|VBS ni|DTP Lebo|NNP ,|PMC "|PMS Baka|NNC may|VBH mga|DTCP mababangis|JJD na|CCP hayop|NNC sa|CCT loob|NNC .|PMP "|PMS
+Nagtakbuhan|VBTR pa|RBI rin|RBI ang|DTC tatlong|JJN_CCP batang|JJD_CCP babae|NNC .|PMP "|PMS
+Tumingin|VBAF kayo|PRP roon|PRL ,|PMC "|PMS turo|NNC ni|DTP Rebone|NNP .|PMP "|PMS
+May|VBH nakikita|VBTR akong|PRS_CCP mga|DTCP ilaw|NNC .|PMP
+Siguro|RBM ay|LM nandoon|RBL ang|DTC ating|PRSP_CCP tahanan|NNC .|PMP "|PMS
+Sinundan|VBTS ng|CCB tatlo|CDB ang|DTC liwanag|NNC ,|PMC ngunit|CCT kanilang|PRSP_CCP napagtanto|VBTS na|CCP ang|DTC kanilang|PRSP_CCP sinundan|VBOF ay|LM mga|DTCP kulisap|NNC .|PMP
+Napagod|VBTS at|CCA nagutom|VBTS ang|DTC mga|DTCP batang|JJD_CCP babae|NNC ,|PMC kaya|CCR nagpasya|VBTS silang|PRP_CCP magpahinga|VBW sa|CCT ilalim|JJD ng|CCB puno|NNC .|PMP "|PMS
+Tara|NNP na|CCP ,|PMC "|PMS sabi|VBS ni|DTP Lebo|NNP .|PMP "|PMS
+Umakyat|VBAF tayo|PRP ng|CCB puno|NNC .|PMP
+Mas|JJCC magiging|VBTF ligtas|JJD tayo|PRP roon|PRL .|PMP "|PMS
+Nang|RBW bigla|RBD silang|PRP_CCP may|VBH narining|VBTS na|CCP mga|DTCP boses|NNC at|CCA kahol|NNC ng|CCB aso|NNC .|PMP
+Tinatawag|VBTR ng|CCB mga|DTCP tao|NNC ang|DTC kanilang|PRSP_CCP mga|DTCP pangalan|NNC .|PMP
+Hinahanap|VBTR na|CCP sila|PRP ng|CCB kanilang|PRSP_CCP mga|DTCP magulang|NNC at|CCA ng|CCB kanilang|PRSP_CCP mga|DTCP kababayan|NNC .|PMP "|PMS
+Nandito|VBTS kami|PRP !|PMS "|PMS
+sigaw|NNC ng|CCB mga|DTCP batang|JJD_CCP babae|NNC .|PMP
+Masaya|NNP silang|PRP_CCP muling|RBW_CCP makita|VBW ang|DTC kanilang|PRSP_CCP mga|DTCP pamilya|NNC .|PMP
+Nangako|VBTS sila|PRP na|CCP hindi|RBF na|RBI nila|PRP uulitin|VBTF magpagabi|VBAF .|PMP

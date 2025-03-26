@@ -1,0 +1,78 @@
+Sa|CCT isang|PRI_CCP maliit|JJD na|CCP nayon|NNC sa|CCT bundok|NNC ay|LM may|VBH isang|PRI_CCP dalagitang|JJD_CCP pastol|NNC na|CCP nakatira|VBTS kasama|CCB ang|DTC kanyang|PRSP_CCP ina|NNC .|PMP
+Ang|DTC dalagita|NNC ay|LM ipinapastol|VBTR ang|DTC kanyang|PRSP_CCP mga|DTCP tupa|NNC araw|NNC -|PMS araw|NNC sa|CCT berdeng|JJD_CCP kabukiran|NNC .|PMP
+Noong|RBW_CCP isang|PRI_CCP taglamig|NNC ,|PMC habang|RBW tumatawid|VBTR_VBAF sa|CCT nagyeyelong|VBTR_CCP ilog|NNC ,|PMC nakarinig|VBTS ang|DTC dalagita|NNC ng|CCB iyak|NNC mula|RBL sa|CCT likod|JJD ng|CCB mga|DTCP puno|NNC .|PMP
+Ang|DTC umiiyak|VBTR_VBAF na|CCP iyon|PRO ay|LM ang|DTC isang|PRI_CCP swan|FW o|CCT sisne|FW ,|PMC na|CCP hindi|RBF makaalis|VBW sa|CCT gitna|JJD ng|CCB nagyeyelong|VBTR_CCP ilog|NNC .|PMP
+Ang|DTC swan|FW ay|LM malungkot|JJD na|CCP umiiyak|VBTR_VBAF habang|RBW nakadapa|VBTS sa|CCT ibabaw|JJD ng|CCB yelo|NNC .|PMP
+Ang|DTC dalagita|NNC na|CCP naawa|VBTS noong|RBW_CCP makita|VBW ang|DTC swan|FW ,|PMC ay|LM iniligtas|VBTS ito|PRO at|CCA dinala|VBTS sa|CCT kanyang|PRSP_CCP tirahan|NNC .|PMP
+Ang|DTC mapagmalasakit|JJD na|CCP ina|NNC at|CCA dalagita|NNC ay|LM ginugol|VBTS ang|DTC taglamig|NNC na|CCP inaalagaan|VBTR ang|DTC swan|FW .|PMP
+Dumating|VBAF ang|DTC tagsibol|NNC sa|CCT sumunod|VBAF na|CCP taon|NNC .|PMP
+Gaya|JJC ng|CCB dati|JJD ,|PMC lumabas|VBAF ang|DTC magpapastol|VBTF na|CCP dalagita|NNC sa|CCT bukid|NNC upang|CCB pakainin|VBOF ang|DTC mga|DTCP tupa|NNC .|PMP
+Siya|PRS ay|LM naglalakad|VBTR sa|CCT tabi|NNC ng|CCB ilog|NNC kasama|CCB ang|DTC mga|DTCP tupa|NNC nang|RBW may|VBH marinig|VBW siyang|PRS_CCP isang|PRI_CCP bagay|NNC na|CCP lumilipad|VBTR_VBAF sa|CCT paligid|NNC .|PMP
+Iyon|PRO ay|LM ang|DTC swan|FW .|PMP "|PMS
+Paalam|NNP !|PMS "|PMS
+Iwinagayway|VBTR ng|CCB dalagita|NNC ang|DTC kanyang|PRSP_CCP kamaysa|NNC lumilipad|VBTR_VBAF na|CCP swan|FW .|PMP
+Naging|VBTS malungkot|JJD ang|DTC dalagita|NNC simula|RBW noong|RBW_CCP umalis|VBAF ang|DTC swan|FW .|PMP
+Dumating|VBAF ang|DTC tag|FW -|PMS init|NNC .|PMP
+Isang|PRI_CCP swan|FW ang|DTC lumitaw|VBAF sa|CCT panaginip|NNC ng|CCB dalagita|NNC na|CCP nakatulog|VBTS sandali|RBW sa|CCT kabukiran|NNC .|PMP "|PMS
+Nakatira|VBTS ako|PRS sa|CCT kuweba|NNC doon|PRL sa|CCT bundok|NNC na|CCP iyon|PRO .|PMP
+Dalawin|NNP mo|PRS ako|PRS minsan|RBW .|PMP "|PMS
+Nang|RBW magising|VBW ang|DTC dalagita|NNC ,|PMC ikinuwento|VBTS_VBOF niya|PRS ang|DTC kanyang|PRSP_CCP panaginip|NNC sa|CCT kanyang|PRSP_CCP ina|NNC .|PMP "|PMS
+Puntahan|VBOF mo|PRS '|PMS yung|PRO_CCP kuweba|NNC na|CCP sinasabi|VBTR ng|CCB swan|FW sa|CCT panaginip|NNC mo.|NNCA "|PMS Nagmadaling|RBD_CCP pinuntahan|VBOF ng|CCB dalagita|NNC angkuwebang|NNC_CCP nakita|VBTS niya|PRS sa|CCT kanyang|PRSP_CCP panaginip|NNC .|PMP
+May|VBH narinig|VBTS siyang|PRS_CCP salita|NNC ng|CCB tao|NNC mula|RBL sa|CCT kuweba|NNC .|PMP
+Sinundan|VBTS niya|PRS ang|DTC boses|NNC ng|CCB tao|NNC at|CCA isang|PRI_CCP lalaki|NNC ang|DTC naghihintay|VBTR sa|CCT kanya|PRSP .|PMP "|PMS
+Tuloy|NNP ka|PRS .|PMP
+Ako|PRS ang|DTC prinsipe|NNC ng|CCB ilog|NNC .|PMP
+Mayroon|VBH akong|PRS_CCP isang|PRI_CCP malungkot|JJD na|CCP kapalaran|NNC na|CCP kailangang|VBS_CCP magbago|VBW sa|CCT isang|PRI_CCP swan|FW ang|DTC aking|PRSP_CCP anyo|NNC upang|CCB makalabas|VBW sa|CCT kuweba|NNC .|PMP "|PMS "|PMS
+Iniligtas|VBTS mo|PRS ako|PRS ,|PMC at|CCA kahit|CCT kayo|PRP ay|LM mahirap|JJD lamang|RBI ,|PMC ibinahagi|VBTS ninyo|PRP sa|CCT akin|PRSP kung|CCR anoang|NNC_CCP mayroon|VBH kayo|PRP .|PMP
+Nahulog|VBTS ang|DTC loob|NNC ko|PRS sa|CCT maganda|JJD mong|PRS_CCP puso|NNC .|PMP "|PMS
+Nagtapat|VBTS ng|CCB pagmamahal|NNC ang|DTC lalaki|NNC sa|CCT dalagita|NNC .|PMP
+Matapos|VBW ang|DTC araw|NNC na|CCP iyon|PRO ,|PMC parati|RBW nang|RBD magkasama|RBD ang|DTC dalagita|NNC at|CCA ang|DTC swan|FW araw|NNC -|PMS araw|NNC .|PMP
+At|CCA nahulog|VBTS na|CCP rin|RBI ang|DTC loob|NNC ng|CCB dalagita|NNC sa|CCT swan|FW .|PMP
+Ngunit|CCT ang|DTC mga|DTCP tao|NNC sa|CCT nayon|NNC na|CCP nakakakita|VBTR sa|CCT kanila|PRSP ay|LM ginawan|VBTS sila|PRP ng|CCB tsismis|NNC .|PMP "|PMS
+Prinsipe|NNP swan|FW ,|PMC hindi|RBF ka|PRS ba|RBI maaaring|RBM maging|VBW tao|NNC sa|CCT madaling|JJD_CCP panahon|NNC ?|PMQ
+Pinag|VBRF -|PMS iisipan|VBTF na|CCP ako|PRS ng|CCB mga|DTCP tao|NNC ng|CCB kakaiba|JJD .|PMP "|PMS
+Kailangan|VBS nating|PRP_CCP maghintay|VBW pa|RBI ng|CCB kaunti|PRI .|PMP "|PMS
+Malungkot|JJD na|CCP sagot|NNC ng|CCB swan|FW sa|CCT pakiusap|NNC ng|CCB dalagita|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC may|VBH isang|PRI_CCP malaking|JJD_CCP pagdiriwang|NNC sa|CCT nayon|NNC .|PMP
+Binigyan|VBOF ng|CCB swan|FW ang|DTC dalagita|NNC ng|CCB napakagandang|JJCS_JJD_CCP damit|NNC na|CCP isusuot|VBOF para|CCT sa|CCT pagdiriwang|NNC .|PMP
+Isinuot|VBOF ng|CCB dalagita|NNC ang|DTC damit|NNC na|CCP iyon|PRO at|CCA pumunta|VBAF sa|CCT pagdiriwang|NNC kasama|CCB ang|DTC kanyang|PRSP_CCP ina|NNC .|PMP
+Ang|DTC mga|DTCP tao|NNC ay|LM napapatingin|VBTR sa|CCT kanya|PRSP at|CCA humanga|VBTS_VBAF sa|CCT kanyang|PRSP_CCP kagandahan|NNC .|PMP
+Nang|RBW may|VBH isang|PRI_CCP guwapong|JJD_CCP binata|NNC ang|DTC lumapit|VBAF sa|CCT dalagita|NNC at|CCA inaya|VBTS_VBOF siyang|PRS_CCP pakasalan|VBOF .|PMP "|PMS
+Magandang|JJD_CCP dilag|NNC ,|PMC pakasalan|VBOF mo|PRS ako|PRS .|PMP "|PMS
+Subalit|CCT ang|DTC dalagita|NNC ay|LM mahal|JJD ang|DTC swan|FW Kaya|CCR '|PMS t|NNCA tinanggihan|VBOF niya|PRS ang|DTC hikayat|JJD na|CCP kasal|NNC ng|CCB binata|NNC .|PMP
+Nang|RBW matapos|VBW ang|DTC pagdiriwang|NNC ,|PMC pinuntahan|VBOF ng|CCB dalagita|NNC ang|DTC swan|FW sa|CCT kuweba|NNC .|PMP
+At|CCA sinabi|VBTS niya|PRS na|CCP Nang|RBW matapos|VBW ang|DTC pagdiriwang|NNC ,|PMC pinuntahan|VBOF ng|CCB dalagita|NNC ang|DTC swan|FW sa|CCT kuweba|NNC .|PMP
+At|CCA sinabi|VBTS niya|PRS na|CCP At|CCA sinabi|VBTS ng|CCB swan|FW na|CCP "|PMS Ako|PRS '|PMS yung|PRO lalaki|NNC na|CCP naghikayat|VBTR ng|CCB kasal|NNC sa|CCT '|PMS yo|NNCA kanina|RBW sa|CCT pagdiriwang|NNC .|PMP
+Masaya|NNP ako|PRS at|CCA nalaman|VBTS kong|PRS_CCP totoo|RBT ang|DTC iyongpagmamahal|FW sa|CCT akin|PRSP .|PMP "|PMS
+Tinawag|VBOF ng|CCB swan|FW ang|DTC kanyang|PRSP_CCP ama|NNC na|CCP hari|NNC ng|CCB ilog|NNC .|PMP
+At|CCA masayang|JJD_CCP binati|VBOF ng|CCB hari|NNC ang|DTC kanyang|PRSP_CCP anak|NNC sa|CCT kanilang|PRSP_CCP pagkikita|NNC .|PMP
+Naging|VBTS isang|PRI_CCP malaking|JJD_CCP pagdiriwang|NNC sa|CCT nayon|NNC ang|DTC kasal|NNC ng|CCB dalawa|CDB .|PMP
+Simula|RBW noon|RBW ,|PMC ang|DTC lalaki|NNC ay|LM hindi|RBF na|RBI muling|RBW_CCP naging|VBTS swan|FW ,|PMC At|CCA ang|DTC dalawa|CDB ay|LM namuhay|VBTS nang|RBW maligaya|RBD magpakailanman|RBW .|PMP
+,|PMC 저는39|CDB 살나란후라고합니다|NNC .|PMP
+두아이를|NNPA 키우고있어요|CDB .|PMP
+그중8살딸이그림그리는것을|CDB 무척이나좋아한답니다|NNC .|PMP
+저는아이와함께그림|CDB 그리는시간을가장좋아해요|NNC .|PMP
+그시간동안에는|CDB 사랑과자유를느낄수있습니다|NNC .|PMP
+이번그림책제|CDB 작워크숍을통해그림을마음껏그릴수있어서|PMS 참좋았습니다|CDB .|PMP
+제가직접적은이야기로그림까|CDB 지그릴수있어좋았고많이배웠습니다|NNC .|PMP
+이세상|PMS 어린이들이모두행복한미래를가질수있길바랍니다|CDB .|PMP
+이번책제작을위해함께힘써주신분들|CDB 께감사의인사를드립니다.지구별한가족|PMS 지금까지과학자들이온갖지식과지혜|CDB ,|PMC 첨단과|CDB 학기술로연구|PMS ,|PMC 조사탐색했지만|CDB '|PMS 지구|PMS '|PMS 처럼인간이살수있는별은우주에단하나|CDB 도없다고합니다|PMS .|PMP
+하지만인간은오늘도멈추거나포기하지않고지|CDB 구와같은생명의별을찾느라바쁩니다|NNC .|PMP
+그누구도|CDB ,|PMC 어떠한방법으로도셀수없을정도로|CDB 많은우주의별들|NNC .|PMP
+하지만사람이살수있는별은현재지구하나라니|CDB ,|PMC 놀라울뿐입니다|CDB .|PMP
+이사실은우리에게특별한감동이나깨달음을줍|CDB 니다|NNC .|PMP
+특히세계여러나라에서대한민국으로온여성들|CDB 과함께글작업을한나에게는감동이더큽니다|NNC .|PMP
+하나뿐인지구|CDB .|PMP
+그렇다면우리는어느나라사람|PMS 이건|CDB '|PMS 지구가족|CDB '|PMS 입니다|CDB .|PMP
+가족은서로믿어줘야하고|CDB ,|PMC 서로의지하며|CDB ,|PMC 서로|CDB 아껴줘야합니다|NNC .|PMP
+가족은먼저안아주고|CDB ,|PMC 먼저웃어주고|CDB ,|PMC 먼저베풀|CDB 어야합니다|NNC .|PMP
+가족은함께아파하고|CDB ,|PMC 함께고통을이겨내고|CDB ,|PMC 함|CDB 께걸어가야합니다|PMS .|PMP '|PMS
+다가치|PMS ,|PMC 다같이어린이책공모전|CDB '|PMS 을통해|CDB 멋진작품을쓴모든분들을존경합니다|PMS .|PMP
+왜냐하면참가자모두가육아|CDB ,|PMC 가정살림|CDB ,|PMC 집안어|CDB 르신모시기|NNPA ,|PMC 직장일|NNPA 등등으로너무너무힘든데도끝까지작품을완성|NNP 했으니까요|CDB .|PMP
+그것도아직서투른한국어로글쓰기를했으니참|CDB 힘들었을겁니다.그러나한번의글쓰기는말하기백번과는비교도|PMS 안될정도로놀라운힘을갖고있습니다|CDB .|PMP
+자기생각과마음을훨씬또렷하게표현하는힘|CDB .|PMP
+다른사람과더품위있게소통하는힘|CDB .|PMP
+내아이를좀더아름답게교육할수있는힘|CDB .|PMP
+이런힘을가지고있지요|CDB .|PMP
+앞으로도이사업이많은이주여성들|CDB ,|PMC 그가족들에게긍지와소망을주는사업으로굳세|CDB 게세워지길강권합니다|NNC .|PMP
+노경실작가이책은서울특별시와아시아재단이공동제작하|CDB 였으며|PMS ,|PMC 머니그램재단이후원하였습니다|CDB .|PMP

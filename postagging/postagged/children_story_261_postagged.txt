@@ -1,0 +1,34 @@
+Noong|RBW_CCP unang|JJN_CCP panahon|NNC ,|PMC ang|DTC usa|NNC ay|LM isang|PRI_CCP napakamahiyaing|JJCS_JJD_CCP hayop|NNC .|PMP
+Kintatakutan|VBTR niya|PRS ang|DTC lahat|PRI :|PMS kadiliman|NNC ,|PMC halimaw|NNC ,|PMC at|CCA kahit|CCT ang|DTC hindi|RBF pangkaraniwang|JJD_CCP ingay|NNC ay|LM kinagugulatan|VBTR niya|PRS .|PMP
+Gayunpaman|CCB ,|PMC minamahal|VBTR siya|PRS ng|CCB kaniyang|PRSP_CCP mga|DTCP kaibigan|NNC dahil|CCR sa|CCT kaniyang|PRSP_CCP katalinuhan|NNC ,|PMC kasipagan|NNC ,|PMC at|CCA kabaitan|NNC .|PMP
+Isang|PRI_CCP araw|NNC ,|PMC nang|RBW malaman|VBW ng|CCB usa|NNC na|CCP may|VBH malubhang|JJD_CCP karamdaman|NNC ang|DTC kaniyang|PRSP_CCP tiyong|JJD_CCP oso|NNC ,|PMC nagpaalam|VBTS siya|PRS sa|CCT kaniyang|PRSP_CCP ina|NNC na|CCP bibisitahin|VBTF niya|PRS ito|PRO .|PMP "|PMS
+Napakalubha|VBTS ng|CCB aking|PRSP_CCP karamdaman|NNC ,|PMC "|PMS nanlalatang|VBTR_CCP saad|NNC ng|CCB tiyong|JJD_CCP oso|NNC .|PMP "|PMS
+Tanging|JJD_CCP ang|DTC mga|DTCP dahon|NNC lamang|RBI ng|CCB mahiwagang|JJD_CCP damo|NNC na|CCP matatagpuan|VBTF sa|CCT makitid|JJD na|CCP lam|FW bak|FW ang|DTC makagagamot|VBW nito|PRO .|PMP "|PMS "|PMS
+Maaari|VBS akong|PRS_CCP tumakbo|VBAF na|CCP kasing|JJC -|PMS tulin|NNC ng|CCB isang|PRI_CCP pana|NNC ,|PMC "|PMS sagot|NNC ng|CCB usa|NNC .|PMP "|PMS
+Hahanapin|VBTF ko|PRS ang|DTC mahiwagang|JJD_CCP damo|NNC para|CCT sa|CCT iyo|PRSP .|PMP "|PMS
+Ngunit|CCT napakakitid|JJCS_JJD ng|CCB lagusan|NNC sa|CCT kagubatan|NNC na|CCP puno|JJD rin|RBI ng|CCB mga|DTCP mababangis|JJD na|CCP nilalang|NNC .|PMP
+Nakaramdam|VBTS ng|CCB takot|NNC ang|DTC usa|NNC .|PMP
+Nang|RBW mabalot|VBW ng|CCB kadiliman|NNC ang|DTC kabundukan|NNC ay|LM mas|JJCC natakot|VBTS ang|DTC usa|NNC .|PMP
+Nagtago|VBTS siya|PRS sa|CCT ilalim|JJD ng|CCB isang|PRI_CCP matandang|JJD_CCP puno|NNC at|CCA umiyak|VBAF .|PMP "|PMS
+Bakit|PRQ ka|PRS umiiyak|VBTR_VBAF ?|PMQ "|PMS
+tanong|NNC ng|CCB Diwata|NNP ng|CCB mga|DTCP puno|NNC na|CCP biglang|RBD_CCP lumitaw|VBAF mula|RBL sa|CCT matandang|JJD_CCP puno|NNC .|PMP "|PMS
+Naliligaw|VBTR ka|PRS ba|RBI ?|PMQ "|PMS "|PMS
+Hindi|RBF .|PMP
+Hindi|RBF po|RBS ,|PMC "|PMS sagot|NNC ng|CCB usa|NNC .|PMP "|PMS
+Hinahanap|VBTR ko|PRS ang|DTC Mahiwagang|JJD_CCP Damo|NNC na|CCP siyang|PRS_CCP gamot|NNC sa|CCT karamdaman|NNC ng|CCB aking|PRSP_CCP Tiyo|NNC Oso|NNC .|PMP
+Ngunit|CCT napakaraming|JJCS_JJD_CCP mababangis|JJD at|CCA nakakatakot|JJD na|CCP nilalang|NNC dito|PRL sa|CCT kagubatan|NNC .|PMP
+Natatakot|VBTR ako|PRS .|PMP "|PMS "|PMS
+Maaari|VBS ka|PRS nang|RBW umuwi|VBAF kung|CCR ikaw|PRS ay|LM natatakot|VBTR ,|PMC "|PMS sagot|NNC ng|CCB Diwata|NNP .|PMP "|PMS
+Pero|CCT ,|PMC paano|PRQ ang|DTC aking|PRSP_CCP Tiyo|NNC Oso|NNC ?|PMQ "|PMS
+pag|CCR -|PMS aalala|NNC ng|CCB usa|NNC .|PMP "|PMS
+Hindi|RBF siya|PRS gagaling|VBTF sa|CCT kaniyang|PRSP_CCP sakit|NNC kung|CCR wala|VBN ang|DTC Mahiwagang|JJD_CCP Damo|NNC .|PMP "|PMS "|PMS
+Napakataba|VBTS ng|CCB iyong|PRSP_CCP puso|NNC ,|PMC bata|NNC ,|PMC "|PMS malumanay|JJD na|CCP saad|NNC ng|CCB Diwata|NNP .|PMP "|PMS
+Ito|PRO ,|PMC kunin|VBOF mo|PRS ang|DTC matitibay|JJD kong|PRS_CCP mga|DTCP sangay|NNC .|PMP
+Ilagay|VBOF mo|PRS sa|CCT iyong|PRSP_CCP ulo|NNC upang|CCB ikaw|PRS ay|LM lumakas|VBAF .|PMP "|PMS
+Nagpasalamat|VBTS ang|DTC usa|NNC sa|CCT Diwata|NNC sa|CCT ibinigay|VBOF nitong|PRO_CCP regalo|NNC at|CCA agad|RBD na|CCP nagpatuloy|VBTS sa|CCT kaniyang|PRSP_CCP paglalakbay|NNC .|PMP
+Ngayon|RBW ay|LM malakas|JJD na|RBI ang|DTC loob|NNC ng|CCB usa|NNC na|CCP lusungin|VBOF ang|DTC malalim|JJD na|CCP mga|DTCP ilog|NNC at|CCA akyatin|VBOF ang|DTC matatarik|VBTF na|CCP mga|DTCP bundok|NNC sa|CCT kabila|CCT ng|CCB mababangis|JJD na|CCP mga|DTCP nilalang|NNC at|CCA kadiliman|NNC .|PMP
+Nagbubukang|VBTS_CCP -|PMS liwayway|NNC na|CCP nang|RBW makarating|VBW ang|DTC usa|NNC sa|CCT tahanan|NNC ng|CCB kaniyang|PRSP_CCP Tiyo|NNC Uso|NNC dala|JJD ang|DTC mahiwagang|JJD_CCP damo|NNC .|PMP
+Isang|PRI_CCP hiwaga|JJD ang|DTC mabilis|JJD na|CCP paggaling|NNC ng|CCB kaniyang|PRSP_CCP Tiyo|NNC Uso|NNC ,|PMC nang|RBW dahil|CCR sa|CCT mga|DTCP dahon|NNC ng|CCB mahiwagang|JJD_CCP damo|NNC .|PMP
+Simula|RBW noon|RBW ay|LM naging|VBTS mas|JJCC matapang|JJD na|CCP ang|DTC usa|NNC .|PMP
+Palagi|RBW niya|PRS na|CCP ring|RBI_CCP suit|NNC ang|DTC regalong|NNC_CCP ibinigay|VBOF sa|CCT kaniya|PRSP ng|CCB Diwata|NNP ,|PMC na|CCP siyang|PRS_CCP nagprotekta|VBTS sa|CCT kaniya|PRSP laban|NNC sa|CCT mga|DTCP mababangis|JJD na|CCP nilalang|NNC .|PMP
+Ang|DTC mga|DTCP sangay|NNC sa|CCT kaniyang|PRSP_CCP ulo|NNC ay|LM tinawag|VBTS na|CCP "|PMS mga|DTCP sungay|NNC "|PMS .|PMP
